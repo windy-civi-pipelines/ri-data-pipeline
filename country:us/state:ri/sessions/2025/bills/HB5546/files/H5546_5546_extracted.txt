@@ -1,0 +1,516 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- DRIVER NATIONAL CRIMINAL
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- DRIVER NATIONAL CRIMINAL
+Number of Sections: 1
+Source: versions - 5546
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5546
+========
+LC001798
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+BACKGROUND CHECK
+Introduced By: Representative Arthur J. Corvese
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+(Division of Public Utilities & Carriers)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 14.4
+4 DRIVER NATIONAL CRIMINAL BACKGROUND CHECK
+5 39-14.4-1. Definitions.
+6 Terms used in this chapter shall be construed as follows, unless another meaning is
+7 expressed or is clearly apparent from the language or context:
+8 (1) "Administrator" means the administrator of the division of public utilities and carriers.
+9 (2) "Background check clearance certificate" means verification issued by the division,
+10 electronically or otherwise, that the driver has successfully completed the background check
+11 required under this section.
+12 (3) "Clearance certificate" means a background check clearance certificate.
+13 (4) "Conviction" means judgments of conviction entered by a court, subsequent to a finding
+14 of guilty or a plea of guilty; and those instances where a defendant has entered a plea of nolo
+15 contendere and has received a sentence of probation; and those instances where a defendant has
+16 entered into a deferred sentence agreement with the attorney general.
+17 (5) "Division" means the Rhode Island division of public utilities and carriers.
+18 (6) "Driver" means any person seeking initial authority to provide for-hire intrastate
+1 passenger transportation services under chapters 14, 14.1, or 14.2 of title 39.
+2 (7) "Initial authority" means first-time and renewal applicants for a special operator's
+3 license as defined in §§ 39-14-20 and 39-14.1-8; first-time TNC operators; and for active TNC
+4 operators, as defined in § 39-14.2-1, subject to subsequent periodic background checks as required
+5 in § 39-14.2-7, no later than December 31, 2019.
+6 (8) "TNC" means transportation network company as defined in § 39-14.2-1.
+7 39-14.4-2. Background check required.
+8 (a) No driver shall transport passengers for hire in a taxicab, limited public motor vehicle,
+9 public motor vehicle or TNC vehicle within the state without first having undergone a national and
+10 state criminal background check in accordance with this chapter. The driver shall apply to the
+11 bureau of criminal identification (BCI), department of attorney general, state police, or local police
+12 department where they reside, for a national and state criminal records check. Fingerprinting shall
+13 be required. The driver shall be responsible for the cost of conducting the national criminal
+14 background check.
+15 (b) In instances which no disqualifying information has been found, the bureau of criminal
+16 identification, state police, or local police department shall inform the driver and the division, in
+17 writing, of this fact.
+18 (c) Upon the discovery of any disqualifying information as defined in subsection (d) of this
+19 section, the bureau of criminal identification, state police or local police department shall inform
+20 the driver, in writing, of the nature of the disqualifying information; and, without disclosing the
+21 nature of the disqualifying information, will notify the division, in writing, that disqualifying
+22 information has been discovered.
+23 (d) For the purposes of this chapter, "disqualifying information" shall mean: information
+24 produced by a national criminal records check pertaining to conviction for the following crimes
+25 will result in a letter to the driver and the division: murder; voluntary manslaughter; involuntary
+26 manslaughter; first degree sexual assault; second degree sexual assault; third degree sexual assault;
+27 first degree child molestation sexual assault; second degree child molestation sexual assault; any
+28 offense under chapter 67 of title 11; assault on persons sixty (60) years of age or older; assault with
+29 intent to commit specified felonies (murder, robbery, rape, burglary, or the abominable and
+30 detestable crimes against nature); felony assault; patient abuse; neglect or mistreatment of patients;
+31 burglary; first degree arson; robbery; unlawful possession of a firearm; felony drug offenses; felony
+32 obtaining money under false pretenses; abuse, neglect and/or exploitation of adults with severe
+33 impairments; exploitation of elders; felony larceny; duty to stop in accidents, resulting in injury;
+34 duty to stop in accidents, resulting in serious bodily injury; duty to stop in accidents, resulting in
+LC001798 - Page 2 of 8
+1 death; driving so as to endanger, resulting in death; driving so as to endanger, resulting in personal
+2 injury; driving so as to endanger, resulting in physical injury; driving under influence of liquor or
+3 drugs; refusal to submit to chemical test; driving under the influence of liquor or drugs, resulting
+4 in death; driving under the influence of liquor or drugs, resulting in serious bodily injury.
+5 39-14.4-3. Background check clearance certificate.
+6 (a) Except as provided in subsection (b) of this section, no person shall transport passengers
+7 for hire in a taxicab, limited public motor vehicle, public motor vehicle or TNC vehicle within the
+8 state without first obtaining a background check clearance certificate, as defined in in § 39-14.4-1,
+9 issued by the division. The clearance certificate shall be issued to the driver; provided, however,
+10 the division shall transmit the clearance certificate to any TNC permit holder identified by the
+11 driver.
+12 (b) The following criminal records may not be used in connection with any application for
+13 a background check clearance certificate issued by the division:
+14 (1) Juvenile adjudications;
+15 (2) Records of arrest not followed by a valid conviction;
+16 (3) Convictions that have been, pursuant to law, annulled or expunged;
+17 (4) Misdemeanor convictions for which no jail sentence can be imposed.
+18 (c) A person who has been convicted of a crime or crimes referenced in § 39-14.4-2(d)
+19 shall not be disqualified from obtaining a background check clearance certificate if the person can
+20 show competent evidence of sufficient rehabilitation and present fitness to perform the duties for
+21 which the background clearance certificate is sought. The division shall consider the time elapsed
+22 since the conviction when determining sufficient rehabilitation, as well as any evidence presented
+23 by the applicant regarding:
+24 (1) Completion of a period of at least two (2) years after release from imprisonment, or at
+25 least two (2) years after the sentencing date for a probation sentence not accompanied by
+26 incarceration, without subsequent conviction or pending criminal charge;
+27 (2) The nature, seriousness, and relevance of the crime or crimes for which convicted;
+28 (3) All circumstances relative to the crime or crimes, including mitigating circumstances
+29 surrounding the commission of the crime or crimes;
+30 (4) The age of the person at the time the crime or crimes were committed;
+31 (5) Claims that the criminal record information is in error or inadmissible under subsection
+32 (b) of this section; and
+33 (6) All other competent evidence of rehabilitation and present fitness presented, including,
+34 but not limited to, letters of reference by persons who have been in contact with the applicant since
+LC001798 - Page 3 of 8
+1 the applicant's release from any state or federal correctional institution.
+2 (d) Any driver denied the issuance of a background clearance certificate may appeal the
+3 decision in accordance with chapter 35 of title 42 ("administrative procedures").
+4 (e) The clearance certificate shall be effective for a period of five (5) years from the date
+5 of issuance by the division.
+6 39-14.4-4. Denial and appeal process.
+7 (a) If the division intends to deny a background clearance certificate based solely or in part
+8 on § 39-14.4-2(d), the division shall notify the individual in writing of the following prior to the
+9 final decision:
+10 (1) The specific conviction(s) that form the basis for the potential denial, suspension, or
+11 revocation and the rationale for deeming the conviction substantially related to the relevant permit;
+12 (2) A copy of the conviction history report, if any, on which the division relies;
+13 (3) A statement that the applicant may provide evidence of mitigation or rehabilitation, as
+14 described in § 39-14.4-3(c); and
+15 (4) Instructions on how to respond to the revocation.
+16 (b) After receiving the notice of potential denial, the individual shall have thirty (30)
+17 business days to respond.
+18 (c) If the division denies a background clearance certificate based solely or in part on § 39-
+19 14.4-2(d), the division shall issue a final written decision that addresses each of the following
+20 factors:
+21 (1) The state's legitimate interest in equal access to employment for individuals who have
+22 had past contact with the criminal justice system;
+23 (2) The state's legitimate interest in protecting the property and the safety and welfare of
+24 specific individuals or the general public; and
+25 (3) The relationship of the crime or crimes to the ability, capacity, and fitness required to
+26 perform the duties and discharge the responsibilities of the position of employment or occupation.
+27 (4) The specific conviction(s) that form the basis for the denial and the rationale for
+28 deeming the conviction substantially related to the relevant permit.
+29 (5) The process for appealing the decision in accordance with chapter 35 of title 42
+30 ("administrative procedures"); and
+31 (6) The earliest date the person may reapply for an occupational license, permit, or
+32 certificate, which shall not be longer than two (2) years from the date of the final decision.
+33 39-14.4-5. Destruction of fingerprint record.
+34 At the conclusion of the criminal background check required in this chapter, the department
+LC001798 - Page 4 of 8
+1 of attorney general, state police, or local police department, as appropriate, shall promptly destroy
+2 the fingerprint record of the driver obtained pursuant to this chapter.
+3 39-14.4-6. Expiration of certificate.
+4 The clearance certificate shall expire five (5) years from the date of issuance; provided,
+5 however, that the division may invalidate a certificate and require the driver to obtain a new
+6 clearance certificate if the division determines that it is in the public interest.
+7 SECTION 2. Section 39-14-20 of the General Laws in Chapter 39-14 entitled "Taxicabs
+8 and Limited Public Motor Vehicles" is hereby amended to read as follows:
+9 39-14-20. Licensing of operators.
+10 (a) No person shall operate a taxicab or limited public motor vehicle upon the public
+11 highways until the person shall have first obtained:
+12 (1) An an operator’s license as provided for in chapter 10 of title 31.;
+13 (2) A background check clearance certificate in accordance with chapter 14.4 of title 39.
+14 Issuance of such certificate is a separate and distinct requirement from the special license required
+15 in subsection (3) of this section; and
+16 (b) Further, no person shall operate a taxicab or limited public motor vehicle upon the
+17 highways until the person shall have first obtained a
+18 (3) A special license from the division of public utilities and carriers under such rules and
+19 regulations as the division of public utilities and carriers shall require.
+20 SECTION 3. Section 39-14.1-8 of the General Laws in Chapter 39-14.1 entitled "Public
+21 Motor Vehicles" is hereby amended to read as follows:
+22 39-14.1-8. Licensing of operators.
+23 No person shall operate a public motor vehicle upon the public highways until the person
+24 shall have first obtained an operator’s license as provided for in chapter 10 of title 31. Further, no
+25 person shall operate a public motor vehicle upon the highways until the person shall have first
+26 obtained a special license from the division of public utilities and carriers under any rules and
+27 regulations that the division of public utilities and carriers shall require; and, further, until the
+28 person shall have obtained from the division a background check clearance certificate in accordance
+29 with chapter 14.4 of title 39.
+30 SECTION 4. Section 39-14.2-7 of the General Laws in Chapter 39-14.2 entitled
+31 "Transportation Network Company Services" is hereby amended to read as follows:
+32 39-14.2-7. Transportation network company operators or TNC operators, TNC
+33 drivers.
+34 (a) No individual shall provide TNC services or transport TNC riders in a personal vehicle
+LC001798 - Page 5 of 8
+1 until the individual shall have first submitted to required, periodic background checks conducted
+2 through the TNC in accordance with subsection (b).
+3 (b) Prior to permitting an individual to accept trip requests through its digital network, a
+4 TNC shall:
+5 (1) Require the individual to submit an application to the TNC. The application shall
+6 include the individual’s name; address; age; driver’s license number; photocopy or electronic copy
+7 of the driver’s license; motor-vehicle registration for the personal vehicle that the individual intends
+8 to use to provide prearranged rides; automobile liability insurance; and other information as may
+9 be required by the TNC;
+10 (2) Conduct, or have a third party accredited by the National Association of Professional
+11 Background Screeners conduct, a local and national criminal background check for each applicant
+12 that shall include:
+13 (i) A multistate/multi-jurisdictional criminal records locator or other similar commercial
+14 nationwide database with validation (primary source search); and
+15 (ii) The Dru Sjodin National Sex Offender Public Website; and
+16 (3) Obtain and review, or have a third party obtain and review, a driving history research
+17 report for such driving applicant.
+18 (c) The TNC shall certify that the required background checks verify that the applicant
+19 meets the following criteria:
+20 (1) Has not had more than three (3) moving violations in the prior three-year (3) period, or
+21 one of the following major violations in the prior three-year (3) period:
+22 (i) Attempting to evade the police;
+23 (ii) Reckless driving;
+24 (iii) Driving on a suspended license; or
+25 (iv) Revoked license.
+26 (2) Has not, in the past seven (7) years, been convicted of or pleaded nolo contendere to
+27 any of the following:
+28 (i) Driving under the influence of drugs or alcohol;
+29 (ii) Felony fraud;
+30 (iii) Sexual offenses;
+31 (iv) Use of a motor vehicle to commit a felony;
+32 (v) Felony crimes involving property damage and/or theft; or
+33 (vi) Acts of violence or felony acts of terror;
+34 (3) Is not a match in the Dru Sjodin National Sex Offender Public Website;
+LC001798 - Page 6 of 8
+1 (4) Possesses a valid driver’s license;
+2 (5) Possesses proof of registration for the motor vehicle to be used to provide prearranged
+3 rides or TNC services;
+4 (6) Possesses proof of automobile liability insurance, that satisfies the financial-
+5 responsibility requirement for a motor vehicle under § 31-47-2(13)(i)(A), for the motor vehicle(s)
+6 to be used to provide prearranged rides or TNC services; and
+7 (7) Is at least nineteen (19) years of age; and
+8 (8) Has obtained from the division a background check clearance certificate as required by
+9 § 39-14.4-3.
+10 (d) TNC operators may be affiliated with or may “partner” with more than one properly
+11 permitted transportation network company to provide TNC services.
+12 SECTION 5. This act shall take effect upon passage.
+========
+LC001798
+========
+LC001798 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DRIVER NATIONAL CRIMINAL
+BACKGROUND CHECK
+***
+1 This act would provide a criminal background check procedure for for-hire intrastate
+2 passenger transportation services.
+3 This act would take effect upon passage.
+========
+LC001798
+========
+LC001798 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 3 o t G L e " U A C C D 3 T u i t c s b c a f u a m i e ( ( e o o t t d h s c t b c r ( ( o c e ( ( " m a p s i a t p f i]
+[DELETED:  p ( a m f a r a s l o i ( 3 ( p s b d b r T d s b r f t c o c t n c b ( i w ( s t n i ( p w m f o i t c s f ( r r b o t a a d b o i d]
+[DELETED:  d i d i 3 ( f s i t d ( a ( ( ( ( ( s s w s b ( l t ( y a t s d f a p s n a b i ( ( s ( ( ( ( b]
+[DELETED:  t ( d ( o 3 ( o f ( r ( ( d ( ( b ( 1 f ( h ( s ( p ( s t t b f t d r f d ( T p f a t d i a w c 3 o t 4 ( ( T e d t p m r f a o l p o c 3 A]
+[DELETED:  o t 3 T h c S a 3 ( h ( ( I i ( h ( r S M 3 N s p o r p w S 4 S 3 o t G L i C 3 e " 3 T n c o o T o T d (]
+[DELETED:  u t ( T ( i o t b ( B t ( n ( ( r ( m ( o ( ( ( ( ( a ( ( ( ( ( ( (]
+[DELETED:  ( ( r ( P p o a l i t s t f r t ( ( § ( p S]
+[DELETED:  T a w p b c p f f p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5546
+========
+LC001798
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DRIVER NATIONAL CRIMINAL
+BACKGROUND CHECK
+Introduced By: Representative Arthur J. Corvese
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+(Division of Public Utilities & Carriers)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 14.4
+4 DRIVER NATIONAL CRIMINAL BACKGROUND CHECK
+5 39-14.4-1. Definitions.
+6 Terms used in this chapter shall be construed as follows, unless another meaning is
+7 expressed or is clearly apparent from the language or context:
+8 (1) "Administrator" means the administrator of the division of public utilities and carriers.
+9 (2) "Background check clearance certificate" means verification issued by the division,
+10 electronically or otherwise, that the driver has successfully completed the background check
+11 required under this section.
+12 (3) "Clearance certificate" means a background check clearance certificate.
+13 (4) "Conviction" means judgments of conviction entered by a court, subsequent to a finding
+14 of guilty or a plea of guilty; and those instances where a defendant has entered a plea of nolo
+15 contendere and has received a sentence of probation; and those instances where a defendant has
+16 entered into a deferred sentence agreement with the attorney general.
+17 (5) "Division" means the Rhode Island division of public utilities and carriers.
+18 (6) "Driver" means any person seeking initial authority to provide for-hire intrastate
+
+1 passenger transportation services under chapters 14, 14.1, or 14.2 of title 39.
+2 (7) "Initial authority" means first-time and renewal applicants for a special operator's
+3 license as defined in §§ 39-14-20 and 39-14.1-8; first-time TNC operators; and for active TNC
+4 operators, as defined in § 39-14.2-1, subject to subsequent periodic background checks as required
+5 in § 39-14.2-7, no later than December 31, 2019.
+6 (8) "TNC" means transportation network company as defined in § 39-14.2-1.
+7 39-14.4-2. Background check required.
+8 (a) No driver shall transport passengers for hire in a taxicab, limited public motor vehicle,
+9 public motor vehicle or TNC vehicle within the state without first having undergone a national and
+10 state criminal background check in accordance with this chapter. The driver shall apply to the
+11 bureau of criminal identification (BCI), department of attorney general, state police, or local police
+12 department where they reside, for a national and state criminal records check. Fingerprinting shall
+13 be required. The driver shall be responsible for the cost of conducting the national criminal
+14 background check.
+15 (b) In instances which no disqualifying information has been found, the bureau of criminal
+16 identification, state police, or local police department shall inform the driver and the division, in
+17 writing, of this fact.
+18 (c) Upon the discovery of any disqualifying information as defined in subsection (d) of this
+19 section, the bureau of criminal identification, state police or local police department shall inform
+20 the driver, in writing, of the nature of the disqualifying information; and, without disclosing the
+21 nature of the disqualifying information, will notify the division, in writing, that disqualifying
+22 information has been discovered.
+23 (d) For the purposes of this chapter, "disqualifying information" shall mean: information
+24 produced by a national criminal records check pertaining to conviction for the following crimes
+25 will result in a letter to the driver and the division: murder; voluntary manslaughter; involuntary
+26 manslaughter; first degree sexual assault; second degree sexual assault; third degree sexual assault;
+27 first degree child molestation sexual assault; second degree child molestation sexual assault; any
+28 offense under chapter 67 of title 11; assault on persons sixty (60) years of age or older; assault with
+29 intent to commit specified felonies (murder, robbery, rape, burglary, or the abominable and
+30 detestable crimes against nature); felony assault; patient abuse; neglect or mistreatment of patients;
+31 burglary; first degree arson; robbery; unlawful possession of a firearm; felony drug offenses; felony
+32 obtaining money under false pretenses; abuse, neglect and/or exploitation of adults with severe
+33 impairments; exploitation of elders; felony larceny; duty to stop in accidents, resulting in injury;
+34 duty to stop in accidents, resulting in serious bodily injury; duty to stop in accidents, resulting in
+LC001798 - Page 2 of 8
+
+1 death; driving so as to endanger, resulting in death; driving so as to endanger, resulting in personal
+2 injury; driving so as to endanger, resulting in physical injury; driving under influence of liquor or
+3 drugs; refusal to submit to chemical test; driving under the influence of liquor or drugs, resulting
+4 in death; driving under the influence of liquor or drugs, resulting in serious bodily injury.
+5 39-14.4-3. Background check clearance certificate.
+6 (a) Except as provided in subsection (b) of this section, no person shall transport passengers
+7 for hire in a taxicab, limited public motor vehicle, public motor vehicle or TNC vehicle within the
+8 state without first obtaining a background check clearance certificate, as defined in in § 39-14.4-1,
+9 issued by the division. The clearance certificate shall be issued to the driver; provided, however,
+10 the division shall transmit the clearance certificate to any TNC permit holder identified by the
+11 driver.
+12 (b) The following criminal records may not be used in connection with any application for
+13 a background check clearance certificate issued by the division:
+14 (1) Juvenile adjudications;
+15 (2) Records of arrest not followed by a valid conviction;
+16 (3) Convictions that have been, pursuant to law, annulled or expunged;
+17 (4) Misdemeanor convictions for which no jail sentence can be imposed.
+18 (c) A person who has been convicted of a crime or crimes referenced in § 39-14.4-2(d)
+19 shall not be disqualified from obtaining a background check clearance certificate if the person can
+20 show competent evidence of sufficient rehabilitation and present fitness to perform the duties for
+21 which the background clearance certificate is sought. The division shall consider the time elapsed
+22 since the conviction when determining sufficient rehabilitation, as well as any evidence presented
+23 by the applicant regarding:
+24 (1) Completion of a period of at least two (2) years after release from imprisonment, or at
+25 least two (2) years after the sentencing date for a probation sentence not accompanied by
+26 incarceration, without subsequent conviction or pending criminal charge;
+27 (2) The nature, seriousness, and relevance of the crime or crimes for which convicted;
+28 (3) All circumstances relative to the crime or crimes, including mitigating circumstances
+29 surrounding the commission of the crime or crimes;
+30 (4) The age of the person at the time the crime or crimes were committed;
+31 (5) Claims that the criminal record information is in error or inadmissible under subsection
+32 (b) of this section; and
+33 (6) All other competent evidence of rehabilitation and present fitness presented, including,
+34 but not limited to, letters of reference by persons who have been in contact with the applicant since
+LC001798 - Page 3 of 8
+
+1 the applicant's release from any state or federal correctional institution.
+2 (d) Any driver denied the issuance of a background clearance certificate may appeal the
+3 decision in accordance with chapter 35 of title 42 ("administrative procedures").
+4 (e) The clearance certificate shall be effective for a period of five (5) years from the date
+5 of issuance by the division.
+6 39-14.4-4. Denial and appeal process.
+7 (a) If the division intends to deny a background clearance certificate based solely or in part
+8 on § 39-14.4-2(d), the division shall notify the individual in writing of the following prior to the
+9 final decision:
+10 (1) The specific conviction(s) that form the basis for the potential denial, suspension, or
+11 revocation and the rationale for deeming the conviction substantially related to the relevant permit;
+12 (2) A copy of the conviction history report, if any, on which the division relies;
+13 (3) A statement that the applicant may provide evidence of mitigation or rehabilitation, as
+14 described in § 39-14.4-3(c); and
+15 (4) Instructions on how to respond to the revocation.
+16 (b) After receiving the notice of potential denial, the individual shall have thirty (30)
+17 business days to respond.
+18 (c) If the division denies a background clearance certificate based solely or in part on § 39-
+19 14.4-2(d), the division shall issue a final written decision that addresses each of the following
+20 factors:
+21 (1) The state's legitimate interest in equal access to employment for individuals who have
+22 had past contact with the criminal justice system;
+23 (2) The state's legitimate interest in protecting the property and the safety and welfare of
+24 specific individuals or the general public; and
+25 (3) The relationship of the crime or crimes to the ability, capacity, and fitness required to
+26 perform the duties and discharge the responsibilities of the position of employment or occupation.
+27 (4) The specific conviction(s) that form the basis for the denial and the rationale for
+28 deeming the conviction substantially related to the relevant permit.
+29 (5) The process for appealing the decision in accordance with chapter 35 of title 42
+30 ("administrative procedures"); and
+31 (6) The earliest date the person may reapply for an occupational license, permit, or
+32 certificate, which shall not be longer than two (2) years from the date of the final decision.
+33 39-14.4-5. Destruction of fingerprint record.
+34 At the conclusion of the criminal background check required in this chapter, the department
+LC001798 - Page 4 of 8
+
+1 of attorney general, state police, or local police department, as appropriate, shall promptly destroy
+2 the fingerprint record of the driver obtained pursuant to this chapter.
+3 39-14.4-6. Expiration of certificate.
+4 The clearance certificate shall expire five (5) years from the date of issuance; provided,
+5 however, that the division may invalidate a certificate and require the driver to obtain a new
+6 clearance certificate if the division determines that it is in the public interest.
+7 SECTION 2. Section 39-14-20 of the General Laws in Chapter 39-14 entitled "Taxicabs
+8 and Limited Public Motor Vehicles" is hereby amended to read as follows:
+9 39-14-20. Licensing of operators.
+10 (a) No person shall operate a taxicab or limited public motor vehicle upon the public
+11 highways until the person shall have first obtained:
+12 (1) An an operator’s license as provided for in chapter 10 of title 31.;
+13 (2) A background check clearance certificate in accordance with chapter 14.4 of title 39.
+14 Issuance of such certificate is a separate and distinct requirement from the special license required
+15 in subsection (3) of this section; and
+16 (b) Further, no person shall operate a taxicab or limited public motor vehicle upon the
+17 highways until the person shall have first obtained a
+18 (3) A special license from the division of public utilities and carriers under such rules and
+19 regulations as the division of public utilities and carriers shall require.
+20 SECTION 3. Section 39-14.1-8 of the General Laws in Chapter 39-14.1 entitled "Public
+21 Motor Vehicles" is hereby amended to read as follows:
+22 39-14.1-8. Licensing of operators.
+23 No person shall operate a public motor vehicle upon the public highways until the person
+24 shall have first obtained an operator’s license as provided for in chapter 10 of title 31. Further, no
+25 person shall operate a public motor vehicle upon the highways until the person shall have first
+26 obtained a special license from the division of public utilities and carriers under any rules and
+27 regulations that the division of public utilities and carriers shall require; and, further, until the
+28 person shall have obtained from the division a background check clearance certificate in accordance
+29 with chapter 14.4 of title 39.
+30 SECTION 4. Section 39-14.2-7 of the General Laws in Chapter 39-14.2 entitled
+31 "Transportation Network Company Services" is hereby amended to read as follows:
+32 39-14.2-7. Transportation network company operators or TNC operators, TNC
+33 drivers.
+34 (a) No individual shall provide TNC services or transport TNC riders in a personal vehicle
+LC001798 - Page 5 of 8
+
+1 until the individual shall have first submitted to required, periodic background checks conducted
+2 through the TNC in accordance with subsection (b).
+3 (b) Prior to permitting an individual to accept trip requests through its digital network, a
+4 TNC shall:
+5 (1) Require the individual to submit an application to the TNC. The application shall
+6 include the individual’s name; address; age; driver’s license number; photocopy or electronic copy
+7 of the driver’s license; motor-vehicle registration for the personal vehicle that the individual intends
+8 to use to provide prearranged rides; automobile liability insurance; and other information as may
+9 be required by the TNC;
+10 (2) Conduct, or have a third party accredited by the National Association of Professional
+11 Background Screeners conduct, a local and national criminal background check for each applicant
+12 that shall include:
+13 (i) A multistate/multi-jurisdictional criminal records locator or other similar commercial
+14 nationwide database with validation (primary source search); and
+15 (ii) The Dru Sjodin National Sex Offender Public Website; and
+16 (3) Obtain and review, or have a third party obtain and review, a driving history research
+17 report for such driving applicant.
+18 (c) The TNC shall certify that the required background checks verify that the applicant
+19 meets the following criteria:
+20 (1) Has not had more than three (3) moving violations in the prior three-year (3) period, or
+21 one of the following major violations in the prior three-year (3) period:
+22 (i) Attempting to evade the police;
+23 (ii) Reckless driving;
+24 (iii) Driving on a suspended license; or
+25 (iv) Revoked license.
+26 (2) Has not, in the past seven (7) years, been convicted of or pleaded nolo contendere to
+27 any of the following:
+28 (i) Driving under the influence of drugs or alcohol;
+29 (ii) Felony fraud;
+30 (iii) Sexual offenses;
+31 (iv) Use of a motor vehicle to commit a felony;
+32 (v) Felony crimes involving property damage and/or theft; or
+33 (vi) Acts of violence or felony acts of terror;
+34 (3) Is not a match in the Dru Sjodin National Sex Offender Public Website;
+LC001798 - Page 6 of 8
+
+1 (4) Possesses a valid driver’s license;
+2 (5) Possesses proof of registration for the motor vehicle to be used to provide prearranged
+3 rides or TNC services;
+4 (6) Possesses proof of automobile liability insurance, that satisfies the financial-
+5 responsibility requirement for a motor vehicle under § 31-47-2(13)(i)(A), for the motor vehicle(s)
+6 to be used to provide prearranged rides or TNC services; and
+7 (7) Is at least nineteen (19) years of age; and
+8 (8) Has obtained from the division a background check clearance certificate as required by
+9 § 39-14.4-3.
+10 (d) TNC operators may be affiliated with or may “partner” with more than one properly
+11 permitted transportation network company to provide TNC services.
+12 SECTION 5. This act shall take effect upon passage.
+========
+LC001798
+========
+LC001798 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DRIVER NATIONAL CRIMINAL
+BACKGROUND CHECK
+***
+1 This act would provide a criminal background check procedure for for-hire intrastate
+2 passenger transportation services.
+3 This act would take effect upon passage.
+========
+LC001798
+========
+LC001798 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 3 o t G L e " U A C C D 3 T u i t c s b c a f u a m i e ( ( e o o t t d h s c t b c r ( ( o c e ( ( " m a p s i a t p f i]
+[DELETED:  p ( a m f a r a s l o i ( 3 ( p s b d b r T d s b r f t c o c t n c b ( i w ( s t n i ( p w m f o i t c s f ( r r b o t a a d b o i d]
+[DELETED:  d i d i 3 ( f s i t d ( a ( ( ( ( ( s s w s b ( l t ( y a t s d f a p s n a b i ( ( s ( ( ( ( b]
+[DELETED:  t ( d ( o 3 ( o f ( r ( ( d ( ( b ( 1 f ( h ( s ( p ( s t t b f t d r f d ( T p f a t d i a w c 3 o t 4 ( ( T e d t p m r f a o l p o c 3 A]
+[DELETED:  o t 3 T h c S a 3 ( h ( ( I i ( h ( r S M 3 N s p o r p w S 4 S 3 o t G L i C 3 e " 3 T n c o o T o T d (]
+[DELETED:  u t ( T ( i o t b ( B t ( n ( ( r ( m ( o ( ( ( ( ( a ( ( ( ( ( ( (]
+[DELETED:  ( ( r ( P p o a l i t s t f r t ( ( § ( p S]
+[DELETED:  T a w p b c p f f p T]

@@ -1,0 +1,654 @@
+Title: RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND PROPERTY
+Official Title: RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND PROPERTY
+Number of Sections: 1
+Source: versions - 6276
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6276
+========
+LC002441
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RESILIENCE ACT
+Introduced By: Representative Lauren H. Carson
+Date Introduced: April 25, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 (1) The general assembly recognizes that the state is particularly vulnerable to adverse
+3 impacts from flooding resulting from increases in frequency and duration of rainfall events, storm
+4 surge from more frequent and severe weather systems, and sea level rise. Such adverse impacts
+5 pose economic, social, environmental, and public health and safety challenges to the state. To most
+6 effectively address these challenges the state must prioritize addressing the most significant risks
+7 to homes and businesses and in doing so helps to provide stability to the municipal tax base.
+8 (2) The general assembly further recognizes that the adverse impacts of flooding and sea
+9 level rise affect coastal and inland communities across the state. Consequently, a coordinated
+10 approach is necessary to maximize the benefit of efforts to address such impacts and to improve
+11 the state's resilience to flooding and sea level rise.
+12 (3) The general assembly further recognizes that to effectively and efficiently address and
+13 prepare for the adverse impacts of flooding and sea level rise in the state, it is necessary to conduct
+14 property assessments in areas affected by flooding and sea level rise and develop a statewide
+15 coordinated approach to addressing such risks.
+16 (4) The general assembly in order to address these risks posed by flooding can initiate the
+17 process through a state administered flood audit program supported by private sector expertise to
+18 adapt to any risk and minimize increased insurance rates and property loss by providing property
+1 owners of homes and businesses with actionable recommendations for reducing flood risks to
+2 protect homes and commercial properties and achieve affordable and effective solutions to guide
+3 building practices, retrofits, and mitigation programs for residential and commercial properties.
+4 Legislative findings.
+5 (a) The general assembly hereby finds that:
+6 (1) It is declared to be a public benefit to encourage the rehabilitation and renovation of
+7 commercial and residential buildings in a municipality and increase their resilience to storm surges,
+8 sea level rise, extreme weather events, and precipitation;
+9 (2) Flooding and storm-related erosion is causing problems for landowners on our open
+10 ocean coastline and rivers;
+11 (3) Rhode Island has a strong coastal resources management program that has historically
+12 been very protective of natural shorelines;
+13 (4) The special study commission created by resolution No. 392 passed by the house of
+14 representatives at its January session A.D. 2015, and approved June 17 2015, entitled "House
+15 Resolution Creating the Rhode Island House Commission on Economic Risk Due to Flooding and
+16 Sea Rise" has determined:
+17 (i) One of the best ways to prevent property damage due to sea level rise and flooding is to
+18 fortify vulnerable assets, limit interruptions, protect property evaluations, and limit lost property
+19 tax revenue;
+20 (ii) The state needs to develop an approach and develop a philosophy of resilience;
+21 (iii) Policymakers need to protect home and business owners by incentivizing resilience
+22 thereby insuring our assets.
+23 SECTION 2. Title 46 of the General Laws entitled "WATERS AND NAVIGATION" is
+24 hereby amended by adding thereto the following chapter:
+25 CHAPTER 23.5
+26 RHODE ISLAND PROPERTY RESILIENCE ACT
+27 46-23.5-1. Definitions.
+28 As used in this chapter, the term:
+29 (1) "Demolition" means to destroy or raze a building in cases in which a building is so
+30 severely damaged that it cannot be elevated, floodproofed, or relocated, or the building is in such
+31 poor condition and not worth the additional investment required to elevate, floodproof, or relocate.
+32 (2) "Dry floodproofing of residential structures" means a structure is made watertight
+33 below the level that needs flood protection to prevent floodwaters from entering. Making the
+34 structure watertight requires sealing the walls with waterproof coatings, impermeable membranes,
+LC002441 - Page 2 of 10
+1 or supplemental layer of masonry or concrete.
+2 (3) "Flood audit" means a comprehensive assessment of a property to identify flood risks
+3 and recommend mitigation measures.
+4 (4) "Flood audit programs" means programs for residential and commercial property
+5 owners that are initiatives designed to help homeowners and businesses assess their flood risk and
+6 identify mitigation strategies to protect properties from flooding.
+7 (5) "Levee" and "floodwall" mean a long, narrow embankment usually built to protect land
+8 from flooding. If built of concrete or masonry, the structure is usually referred to as a floodwall.
+9 Levees and floodwalls confine streamflow within a specified area to prevent flooding.
+10 (6) "Public-private partnership (PPP)" means a cooperative agreement between public
+11 agencies and private entities to execute the program.
+12 (7) "Relocation" means moving an entire building to another location on the same lot or to
+13 another lot, usually outside the floodplain. Relocation is a mitigation measure that can offer the
+14 greatest protection from future flooding.
+15 (8) "Resilience", as defined by FEMA and the Hazard Mitigation Unified Guidance, means
+16 and refers to the ability of individuals, communities, and systems to prepare for, respond to, recover
+17 from, and adapt to adverse events, including natural disasters, hazards, or climate-related impacts.
+18 The goal of resilience is to reduce the vulnerability to future disasters and ensure that communities
+19 can continue to function during and after a hazard event. Key aspects of resilience include:
+20 (i) Mitigation: Implementing proactive measures to reduce or eliminate the risks posed by
+21 hazards, such as strengthening infrastructure or adopting land-use planning that minimizes flood
+22 risks.
+23 (ii) Adaptation: The capacity to make adjustment to systems or practices in response to
+24 changing environmental conditions or experiences with past events.
+25 (iii) Recovery: The ability to return to normal or even improve systems after an event
+26 ensuring that communities can recover effectively from disasters.
+27 (9) "Structural elevation" means various techniques used to raise the existing building to
+28 or above the base flood elevation (BFE). Elevation is a common technique for protecting an existing
+29 building in the special flood hazard area (SFHA).
+30 (10) "Wet floodproofing" means a design method that allows water to move in the enclosed
+31 parts of a home's lower area, such as the crawlspace or an unoccupied area and then out when water
+32 recedes.
+33 46-23.5-2. Rhode Island flood mitigation council.
+34 (a) There is hereby established within the executive branch of state government a Rhode
+LC002441 - Page 3 of 10
+1 Island flood mitigation council (the "council") comprised of officials from state agencies and
+2 private industry with responsibility and oversight relating to assessing, integrating, and
+3 coordinating a flood audit program. The council shall include, the following members: The Rhode
+4 Island chief resilience officer (CRO); the director of the Rhode Island emergency management
+5 agency or designee; the executive director of the Rhode Island coastal resources management
+6 council or designee; a member of the Rhode Island flood mitigation association appointed by the
+7 governor; a member of the Rhode Island builders association appointed by the governor; a member
+8 of the act on coasts advisory council appointed by the governor; a municipal planner appointed by
+9 the governor; and a member of the insurance industry appointed by the governor.
+10 (b) The council shall be provided staff and support from the Rhode Island emergency
+11 management agency and the Rhode Island coastal resources management council which support
+12 shall include office space, supplies and support staff.
+13 46-23.5-3. Mission and duties of the council.
+14 (a) Mission of the council. Effective January 1, 2028 the council shall assemble to address
+15 the following:
+16 (1) Flood audit fund assessment and management;
+17 (2) Flood task force. It shall be staffed by the Rhode Island emergency management agency
+18 with members best suited to carry out the purposes of this chapter and to implement whatever
+19 measures are recommended by such auditor utilizing the report.
+20 (3) Conduct a review of RFP's submitted for the flood audit program and select an auditor
+21 to implement the flood audit program.
+22 (b) Duties of the council. Effective January 1, 2028 the council shall assemble for the
+23 following duties:
+24 (1) To administer the flood audit program using qualified auditors selected in accordance
+25 with this chapter.
+26 (2) To provide structure to the audit program in order to meet the requirements of this
+27 chapter;
+28 (3) To provide and manage any funding sources for the flood audit program;
+29 (4) To establish staff qualifications;
+30 (5) To create outreach programs to provide information to the public on the availability
+31 and parameters of the program;
+32 (6) To resolve any legal issues associated with the flood audit program; and
+33 (7) To provide benchmarks and goals in order to measure the effectiveness of the flood
+34 audit program.
+LC002441 - Page 4 of 10
+1 (8) To coordinate with the auditor chosen by the council and establish a pricing formula
+2 for flood audits of properties subject to this chapter.
+3 46-23.5-4. Resilient Rhode Island flood audit program.
+4 (a) Effective January 1, 2028, any home or business property owner may apply for funds
+5 under this chapter to fund the cost of home or business resilience planning for threats from flooding
+6 and sea level rise. This shall be done through a public/private partnership funded by property
+7 owners and the fund.
+8 (b) Programs and flood audit reports pursuant to this chapter shall include the following
+9 factors as they relate to the property:
+10 (1) Exterior property assessments.
+11 (i) Topography and location assessment; to include an assessment of the following factors
+12 as they relate to the property:
+13 (A) Proximity to floodplains, rivers, or other water bodies (see FEMA flood maps);
+14 (B) Elevation of the property relative to surrounding areas; and
+15 (C) Grading of the property to determine if water drains away from the structure.
+16 (ii) Drainage systems; to include an assessment of the following factors as they relate to
+17 the property:
+18 (A) Condition and placement of gutters, downspouts, and splash blocks; and
+19 (B) Presence and maintenance of drainage ditches, culverts, or storm drains.
+20 (iii) Flood barriers and protection measures; to include and assessment of the following
+21 factors as they relate to the property:
+22 (A) Presence and condition of flood walls, levees, or sandbag setups; and
+23 (B) Any existing floodproofing features (e.g., watertight doors or windows).
+24 (iv) Building elevation options; to include an assessment of the following:
+25 (A) Height of the lowest floor above the base flood elevation (BFE); and
+26 (B) Location and elevation of HVAC systems, electrical panels, and other utilities.
+27 (v) Risk assessment; to assess the following risks relative to the property:
+28 (A) Evaluate flood risk based on property location, elevation, and proximity to floodplains
+29 or waterways; and
+30 (B) Utilize flood maps and data from agencies including, but not limited to, FEMA or local
+31 authorities to assess risk.
+32 (vi) Property inspection; in order to:
+33 (A) Identify vulnerabilities in building structures, such as foundation issues, improper
+34 drainage, or low-lying entry points; and
+LC002441 - Page 5 of 10
+1 (B) Examine HVAC systems, electrical panels, and other components for flood risk.
+2 (vii) Mitigation recommendations for the property.
+3 (A) Suggest retrofitting measures like installing flood vents, elevating appliances, or using
+4 flood-resistant materials; and
+5 (B) Provide guidance on landscaping changes, such as adding swales or rain gardens to
+6 redirect water.
+7 (viii) Flood insurance guidance. Provide guidance to property owners to help them
+8 understand their flood insurance options and potential cost reductions through mitigation.
+9 (ix) Grants and incentives. Inform property owners about available grants, tax credits, or
+10 rebates for floodproofing measures.
+11 (2) Interior assessment; the following interior assessments shall be conducted:
+12 (i) Inspect all basement and crawl spaces: Look for moisture, mold, or water satins;
+13 (ii) Ensure sump pumps are functioning and inspect for proper waterproofing;
+14 (iii) Inspect windows and doors: Examine the seals around windows and doors, ensuring
+15 they are intact and can prevent water infiltration during storms; and
+16 (iv) Evaluate flooring and finishes: Inspect for signs of past water damage, such as warped
+17 floors or peeling paint, which could indicate flooding history.
+18 (3) Flood risk mapping shall be conducted as follows:
+19 (i) Consult storm tools used by Rhode Island coastal resources management council and
+20 FEMA maps to determine if the home is in a designated floodplain or flood zone and assess the
+21 likelihood of flooding based on historical data; and
+22 (ii) Consider proximity to water sources: examine at the property's location relative to
+23 rivers, streams, lakes, or coastal areas. Evaluate whether local infrastructure could pose a risk of
+24 overflow.
+25 (4) Flood preparedness and mitigation assessment.
+26 (i) Assess flood barriers: examine whether flood barriers, such as sandbags, flood gates, or
+27 barriers, are in place or could be added for future prevention; and
+28 (ii) Identify necessary repairs: Make recommendations for contractors to complete repairs
+29 or upgrades to the property or business to reduce flood risks, such as sealing cracks, installing a
+30 sump pump, or water proofing the basement.
+31 (5) Review local regulations and insurance as follows:
+32 (i) Evaluate flood insurance: Ensure the property is covered by flood insurance, especially
+33 if it is in a high-risk area; and
+34 (ii) Review of local ordinances: Review local floodplain management regulations to
+LC002441 - Page 6 of 10
+1 identify any obligations or restriction on flood mitigation measures.
+2 (c) Flood auditors shall conduct the assessments pursuant to subsection (b) of this section
+3 using a structure which shall include at a minimum:
+4 (1) A web-based assessment;
+5 (2) On-site assessment; and
+6 (3) A final site specific risk assessment at which time an assessment report with mitigation
+7 recommendations would be provided to the property owner.
+8 (d) At the conclusion of the flood audit, the property owner should have a clear
+9 understanding of the flood risks, mitigation strategies, and any improvements needed to reduce the
+10 impact of flooding.
+11 (e) The property owner is under no obligation to implement any of the flood audit
+12 recommendations provided pursuant to this chapter.
+13 46-23.5-5. Funding.
+14 (a)Effective January 1, 2026, funding for the property resilience act shall be generated by
+15 way of an annual flood audit surcharge of twenty-five dollars ($25.00) which shall be added to
+16 every property insurance policy issued in Rhode Island that provides coverage to a home or
+17 business. The twenty-five dollar ($25.00) surcharge shall be collected by the insurance company
+18 and forwarded to the council within thirty (30) days of the insurance policy's issuance or renewal.
+19 (b) There is hereby created a restricted receipt account managed by the council to be
+20 designated the "Flood audit mitigation fund". The fund shall be a continuing fund, not subject to
+21 fiscal year limitations, and shall consist of any monies deposited to the fund. All monies accruing
+22 to the credit of the fund are hereby appropriated and may be budgeted and expended by the council
+23 for the purpose of assisting the property resilience act program in performing all acts that relate to
+24 the function and purpose of this chapter. The Rhode Island property resilience act fund account
+25 shall not be subject to any cost recovery or other assessment from the state.
+26 (b) Monies collected pursuant to this chapter shall be deposited in the Rhode Island
+27 property resilience act fund. Monies shall not lapse, unless otherwise specified under federal
+28 funding or federal grant, or a grant or funds from another source, or be transferred to any other state
+29 funds and shall not be redistributed.
+30 46-23.5-6. Program eligibility.
+31 (a) The program shall be open to owners of single-family and multi-family residences and
+32 businesses located within Rhode Island.
+33 (b) Eligible property owners may apply through an online portal maintained by the auditor
+34 or by submitting a written application to the auditor.
+LC002441 - Page 7 of 10
+1 (c) Priority consideration shall be given to properties in high-risk flood zones and
+2 households with low-to-moderate income levels utilizing storm tools and FEMA maps.
+3 (d) Applications for funds for property owners, pursuant to this chapter shall be accepted
+4 on a first-come first-serve basis and are subject to the determination of need by the auditor based
+5 on risk factors determined by this chapter.
+6 (e) The council is authorized to promulgate rules and regulations necessary to effectuate
+7 the purposes of this chapter which shall include but not be limited to an application form and/or
+8 online application process which shall include an online portal for initial applications for the flood
+9 audit program.
+10 46-23.5-7. Procurement of auditors.
+11 (a) To be eligible to work on a project funded by this chapter as an auditor, the auditor shall
+12 meet all program requirements including, but not limited to, those listed in this subsection, and
+13 maintain a current copy of all applicable certificates, licenses, and proof of insurance coverages
+14 with the program office;
+15 (1) The auditor shall agree to follow the Rhode Island property resilience act's procedures
+16 and rules as prescribed by the council;
+17 (2) The auditor shall not have a financial interest in any project funded by this chapter for
+18 which they perform work other than receiving payment on behalf of the property owner from the
+19 flood audit and shall report to the council any potential conflicts of interest before the audit
+20 commences.
+21 46-23.5-8. Program outreach.
+22 The council shall ensure information regarding the Rhode Island property resilience act is
+23 provided to the public and is designed to target the audiences within the most vulnerable areas as
+24 determined by storm tools and FEMA maps and such outreach shall include notification to be
+25 provided by insurance companies, real estate agents, professional construction societies, financial
+26 institutions, cities and towns and whatever other method as determined by the council.
+27 46-23.5-9. Reporting and oversight.
+28 (a) The council shall submit an annual report to the general assembly, the director of the
+29 department of business regulation (DBR) and the coastal resources management council (CRMC)
+30 detailing the program's implementation, participation rate, and effectiveness in identifying flood
+31 risks.
+32 (b) Effectiveness of the program shall be measured based on the following:
+33 (1) The number of flood audits performed;
+34 (2) The percentage of property owners that implemented flood audit recommendations to
+LC002441 - Page 8 of 10
+1 mitigate risk;
+2 (3) The number of building permits requesting alteration or elevation of the property as a
+3 result of the audit; and
+4 (4) Usage metrics associated with the online portal.
+5 46-23.5-10. Severability.
+6 If any provision of this section or the application thereof to any person or circumstances is
+7 held invalid, that invalidity shall not affect other provisions or applications of the section, which
+8 can be given effect without the invalid provision or application, and to this end the provisions of
+9 this section are declared to be severable.
+10 SECTION 3. This act shall take effect upon passage.
+========
+LC002441
+========
+LC002441 - Page 9 of 10
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND PROPERTY
+RESILIENCE ACT
+***
+1 This act would create the resilient Rhode Island property resilience act.
+2 This act would take effect upon passage.
+========
+LC002441
+========
+LC002441 - Page 10 of 10
+[DELETED: TATE  OF  RHODE  ISLAND S ( i s p e t ( l a t ( p p c ( p a]
+[DELETED:  o p b L ( ( c s ( o ( b ( r R S ( f t ( ( t S h C R 4 A ( s p ( b s]
+[DELETED:  o ( a ( " a p m p f r a c p o i ( f L ( a ( a g ( a f T c ( h r ( c ( e ( o b ( p r 4 (]
+[DELETED:  I p i w r a o r t a i a c I a c g o t ( m s 4 ( t ( ( w m ( t ( f ( w ( c ( ( ( a ( ( a]
+[DELETED:  ( f 4 ( u a o ( f ( ( a ( ( ( ( t ( ( ( f ( ( ( ( ( ( ( o ( a ( ( d]
+[DELETED:  ( ( ( f ( r ( F i g P g t p o t h t u ( r ( ( ( ( t ( f ( ( F l ( r o ( ( b ( o s ( ( i ( R o l o R l f m r t]
+[DELETED:  i ( u ( ( ( r ( A t c o t f a t p o s h a c u i ( T p o i u n o t i a o t f a r 4 ( w e p i p i i R I t p c t a h o b a ( d f t f t s ( M c p t t c s b d i t R I p r a f M s n l u o s u f f f 4 ( b ( o]
+[DELETED:  ( P c s b g t p i h f z a h ( o o ( t o a 4 ( m m w ( a ( w f a s t t a p c o i t a c 4 T p d p i 4 ( d d r ( ( (]
+[DELETED:  m ( r ( 4 I h c t S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6276
+========
+LC002441
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND PROPERTY
+RESILIENCE ACT
+Introduced By: Representative Lauren H. Carson
+Date Introduced: April 25, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 (1) The general assembly recognizes that the state is particularly vulnerable to adverse
+3 impacts from flooding resulting from increases in frequency and duration of rainfall events, storm
+4 surge from more frequent and severe weather systems, and sea level rise. Such adverse impacts
+5 pose economic, social, environmental, and public health and safety challenges to the state. To most
+6 effectively address these challenges the state must prioritize addressing the most significant risks
+7 to homes and businesses and in doing so helps to provide stability to the municipal tax base.
+8 (2) The general assembly further recognizes that the adverse impacts of flooding and sea
+9 level rise affect coastal and inland communities across the state. Consequently, a coordinated
+10 approach is necessary to maximize the benefit of efforts to address such impacts and to improve
+11 the state's resilience to flooding and sea level rise.
+12 (3) The general assembly further recognizes that to effectively and efficiently address and
+13 prepare for the adverse impacts of flooding and sea level rise in the state, it is necessary to conduct
+14 property assessments in areas affected by flooding and sea level rise and develop a statewide
+15 coordinated approach to addressing such risks.
+16 (4) The general assembly in order to address these risks posed by flooding can initiate the
+17 process through a state administered flood audit program supported by private sector expertise to
+18 adapt to any risk and minimize increased insurance rates and property loss by providing property
+
+1 owners of homes and businesses with actionable recommendations for reducing flood risks to
+2 protect homes and commercial properties and achieve affordable and effective solutions to guide
+3 building practices, retrofits, and mitigation programs for residential and commercial properties.
+4 Legislative findings.
+5 (a) The general assembly hereby finds that:
+6 (1) It is declared to be a public benefit to encourage the rehabilitation and renovation of
+7 commercial and residential buildings in a municipality and increase their resilience to storm surges,
+8 sea level rise, extreme weather events, and precipitation;
+9 (2) Flooding and storm-related erosion is causing problems for landowners on our open
+10 ocean coastline and rivers;
+11 (3) Rhode Island has a strong coastal resources management program that has historically
+12 been very protective of natural shorelines;
+13 (4) The special study commission created by resolution No. 392 passed by the house of
+14 representatives at its January session A.D. 2015, and approved June 17 2015, entitled "House
+15 Resolution Creating the Rhode Island House Commission on Economic Risk Due to Flooding and
+16 Sea Rise" has determined:
+17 (i) One of the best ways to prevent property damage due to sea level rise and flooding is to
+18 fortify vulnerable assets, limit interruptions, protect property evaluations, and limit lost property
+19 tax revenue;
+20 (ii) The state needs to develop an approach and develop a philosophy of resilience;
+21 (iii) Policymakers need to protect home and business owners by incentivizing resilience
+22 thereby insuring our assets.
+23 SECTION 2. Title 46 of the General Laws entitled "WATERS AND NAVIGATION" is
+24 hereby amended by adding thereto the following chapter:
+25 CHAPTER 23.5
+26 RHODE ISLAND PROPERTY RESILIENCE ACT
+27 46-23.5-1. Definitions.
+28 As used in this chapter, the term:
+29 (1) "Demolition" means to destroy or raze a building in cases in which a building is so
+30 severely damaged that it cannot be elevated, floodproofed, or relocated, or the building is in such
+31 poor condition and not worth the additional investment required to elevate, floodproof, or relocate.
+32 (2) "Dry floodproofing of residential structures" means a structure is made watertight
+33 below the level that needs flood protection to prevent floodwaters from entering. Making the
+34 structure watertight requires sealing the walls with waterproof coatings, impermeable membranes,
+LC002441 - Page 2 of 10
+
+1 or supplemental layer of masonry or concrete.
+2 (3) "Flood audit" means a comprehensive assessment of a property to identify flood risks
+3 and recommend mitigation measures.
+4 (4) "Flood audit programs" means programs for residential and commercial property
+5 owners that are initiatives designed to help homeowners and businesses assess their flood risk and
+6 identify mitigation strategies to protect properties from flooding.
+7 (5) "Levee" and "floodwall" mean a long, narrow embankment usually built to protect land
+8 from flooding. If built of concrete or masonry, the structure is usually referred to as a floodwall.
+9 Levees and floodwalls confine streamflow within a specified area to prevent flooding.
+10 (6) "Public-private partnership (PPP)" means a cooperative agreement between public
+11 agencies and private entities to execute the program.
+12 (7) "Relocation" means moving an entire building to another location on the same lot or to
+13 another lot, usually outside the floodplain. Relocation is a mitigation measure that can offer the
+14 greatest protection from future flooding.
+15 (8) "Resilience", as defined by FEMA and the Hazard Mitigation Unified Guidance, means
+16 and refers to the ability of individuals, communities, and systems to prepare for, respond to, recover
+17 from, and adapt to adverse events, including natural disasters, hazards, or climate-related impacts.
+18 The goal of resilience is to reduce the vulnerability to future disasters and ensure that communities
+19 can continue to function during and after a hazard event. Key aspects of resilience include:
+20 (i) Mitigation: Implementing proactive measures to reduce or eliminate the risks posed by
+21 hazards, such as strengthening infrastructure or adopting land-use planning that minimizes flood
+22 risks.
+23 (ii) Adaptation: The capacity to make adjustment to systems or practices in response to
+24 changing environmental conditions or experiences with past events.
+25 (iii) Recovery: The ability to return to normal or even improve systems after an event
+26 ensuring that communities can recover effectively from disasters.
+27 (9) "Structural elevation" means various techniques used to raise the existing building to
+28 or above the base flood elevation (BFE). Elevation is a common technique for protecting an existing
+29 building in the special flood hazard area (SFHA).
+30 (10) "Wet floodproofing" means a design method that allows water to move in the enclosed
+31 parts of a home's lower area, such as the crawlspace or an unoccupied area and then out when water
+32 recedes.
+33 46-23.5-2. Rhode Island flood mitigation council.
+34 (a) There is hereby established within the executive branch of state government a Rhode
+LC002441 - Page 3 of 10
+
+1 Island flood mitigation council (the "council") comprised of officials from state agencies and
+2 private industry with responsibility and oversight relating to assessing, integrating, and
+3 coordinating a flood audit program. The council shall include, the following members: The Rhode
+4 Island chief resilience officer (CRO); the director of the Rhode Island emergency management
+5 agency or designee; the executive director of the Rhode Island coastal resources management
+6 council or designee; a member of the Rhode Island flood mitigation association appointed by the
+7 governor; a member of the Rhode Island builders association appointed by the governor; a member
+8 of the act on coasts advisory council appointed by the governor; a municipal planner appointed by
+9 the governor; and a member of the insurance industry appointed by the governor.
+10 (b) The council shall be provided staff and support from the Rhode Island emergency
+11 management agency and the Rhode Island coastal resources management council which support
+12 shall include office space, supplies and support staff.
+13 46-23.5-3. Mission and duties of the council.
+14 (a) Mission of the council. Effective January 1, 2028 the council shall assemble to address
+15 the following:
+16 (1) Flood audit fund assessment and management;
+17 (2) Flood task force. It shall be staffed by the Rhode Island emergency management agency
+18 with members best suited to carry out the purposes of this chapter and to implement whatever
+19 measures are recommended by such auditor utilizing the report.
+20 (3) Conduct a review of RFP's submitted for the flood audit program and select an auditor
+21 to implement the flood audit program.
+22 (b) Duties of the council. Effective January 1, 2028 the council shall assemble for the
+23 following duties:
+24 (1) To administer the flood audit program using qualified auditors selected in accordance
+25 with this chapter.
+26 (2) To provide structure to the audit program in order to meet the requirements of this
+27 chapter;
+28 (3) To provide and manage any funding sources for the flood audit program;
+29 (4) To establish staff qualifications;
+30 (5) To create outreach programs to provide information to the public on the availability
+31 and parameters of the program;
+32 (6) To resolve any legal issues associated with the flood audit program; and
+33 (7) To provide benchmarks and goals in order to measure the effectiveness of the flood
+34 audit program.
+LC002441 - Page 4 of 10
+
+1 (8) To coordinate with the auditor chosen by the council and establish a pricing formula
+2 for flood audits of properties subject to this chapter.
+3 46-23.5-4. Resilient Rhode Island flood audit program.
+4 (a) Effective January 1, 2028, any home or business property owner may apply for funds
+5 under this chapter to fund the cost of home or business resilience planning for threats from flooding
+6 and sea level rise. This shall be done through a public/private partnership funded by property
+7 owners and the fund.
+8 (b) Programs and flood audit reports pursuant to this chapter shall include the following
+9 factors as they relate to the property:
+10 (1) Exterior property assessments.
+11 (i) Topography and location assessment; to include an assessment of the following factors
+12 as they relate to the property:
+13 (A) Proximity to floodplains, rivers, or other water bodies (see FEMA flood maps);
+14 (B) Elevation of the property relative to surrounding areas; and
+15 (C) Grading of the property to determine if water drains away from the structure.
+16 (ii) Drainage systems; to include an assessment of the following factors as they relate to
+17 the property:
+18 (A) Condition and placement of gutters, downspouts, and splash blocks; and
+19 (B) Presence and maintenance of drainage ditches, culverts, or storm drains.
+20 (iii) Flood barriers and protection measures; to include and assessment of the following
+21 factors as they relate to the property:
+22 (A) Presence and condition of flood walls, levees, or sandbag setups; and
+23 (B) Any existing floodproofing features (e.g., watertight doors or windows).
+24 (iv) Building elevation options; to include an assessment of the following:
+25 (A) Height of the lowest floor above the base flood elevation (BFE); and
+26 (B) Location and elevation of HVAC systems, electrical panels, and other utilities.
+27 (v) Risk assessment; to assess the following risks relative to the property:
+28 (A) Evaluate flood risk based on property location, elevation, and proximity to floodplains
+29 or waterways; and
+30 (B) Utilize flood maps and data from agencies including, but not limited to, FEMA or local
+31 authorities to assess risk.
+32 (vi) Property inspection; in order to:
+33 (A) Identify vulnerabilities in building structures, such as foundation issues, improper
+34 drainage, or low-lying entry points; and
+LC002441 - Page 5 of 10
+
+1 (B) Examine HVAC systems, electrical panels, and other components for flood risk.
+2 (vii) Mitigation recommendations for the property.
+3 (A) Suggest retrofitting measures like installing flood vents, elevating appliances, or using
+4 flood-resistant materials; and
+5 (B) Provide guidance on landscaping changes, such as adding swales or rain gardens to
+6 redirect water.
+7 (viii) Flood insurance guidance. Provide guidance to property owners to help them
+8 understand their flood insurance options and potential cost reductions through mitigation.
+9 (ix) Grants and incentives. Inform property owners about available grants, tax credits, or
+10 rebates for floodproofing measures.
+11 (2) Interior assessment; the following interior assessments shall be conducted:
+12 (i) Inspect all basement and crawl spaces: Look for moisture, mold, or water satins;
+13 (ii) Ensure sump pumps are functioning and inspect for proper waterproofing;
+14 (iii) Inspect windows and doors: Examine the seals around windows and doors, ensuring
+15 they are intact and can prevent water infiltration during storms; and
+16 (iv) Evaluate flooring and finishes: Inspect for signs of past water damage, such as warped
+17 floors or peeling paint, which could indicate flooding history.
+18 (3) Flood risk mapping shall be conducted as follows:
+19 (i) Consult storm tools used by Rhode Island coastal resources management council and
+20 FEMA maps to determine if the home is in a designated floodplain or flood zone and assess the
+21 likelihood of flooding based on historical data; and
+22 (ii) Consider proximity to water sources: examine at the property's location relative to
+23 rivers, streams, lakes, or coastal areas. Evaluate whether local infrastructure could pose a risk of
+24 overflow.
+25 (4) Flood preparedness and mitigation assessment.
+26 (i) Assess flood barriers: examine whether flood barriers, such as sandbags, flood gates, or
+27 barriers, are in place or could be added for future prevention; and
+28 (ii) Identify necessary repairs: Make recommendations for contractors to complete repairs
+29 or upgrades to the property or business to reduce flood risks, such as sealing cracks, installing a
+30 sump pump, or water proofing the basement.
+31 (5) Review local regulations and insurance as follows:
+32 (i) Evaluate flood insurance: Ensure the property is covered by flood insurance, especially
+33 if it is in a high-risk area; and
+34 (ii) Review of local ordinances: Review local floodplain management regulations to
+LC002441 - Page 6 of 10
+
+1 identify any obligations or restriction on flood mitigation measures.
+2 (c) Flood auditors shall conduct the assessments pursuant to subsection (b) of this section
+3 using a structure which shall include at a minimum:
+4 (1) A web-based assessment;
+5 (2) On-site assessment; and
+6 (3) A final site specific risk assessment at which time an assessment report with mitigation
+7 recommendations would be provided to the property owner.
+8 (d) At the conclusion of the flood audit, the property owner should have a clear
+9 understanding of the flood risks, mitigation strategies, and any improvements needed to reduce the
+10 impact of flooding.
+11 (e) The property owner is under no obligation to implement any of the flood audit
+12 recommendations provided pursuant to this chapter.
+13 46-23.5-5. Funding.
+14 (a)Effective January 1, 2026, funding for the property resilience act shall be generated by
+15 way of an annual flood audit surcharge of twenty-five dollars ($25.00) which shall be added to
+16 every property insurance policy issued in Rhode Island that provides coverage to a home or
+17 business. The twenty-five dollar ($25.00) surcharge shall be collected by the insurance company
+18 and forwarded to the council within thirty (30) days of the insurance policy's issuance or renewal.
+19 (b) There is hereby created a restricted receipt account managed by the council to be
+20 designated the "Flood audit mitigation fund". The fund shall be a continuing fund, not subject to
+21 fiscal year limitations, and shall consist of any monies deposited to the fund. All monies accruing
+22 to the credit of the fund are hereby appropriated and may be budgeted and expended by the council
+23 for the purpose of assisting the property resilience act program in performing all acts that relate to
+24 the function and purpose of this chapter. The Rhode Island property resilience act fund account
+25 shall not be subject to any cost recovery or other assessment from the state.
+26 (b) Monies collected pursuant to this chapter shall be deposited in the Rhode Island
+27 property resilience act fund. Monies shall not lapse, unless otherwise specified under federal
+28 funding or federal grant, or a grant or funds from another source, or be transferred to any other state
+29 funds and shall not be redistributed.
+30 46-23.5-6. Program eligibility.
+31 (a) The program shall be open to owners of single-family and multi-family residences and
+32 businesses located within Rhode Island.
+33 (b) Eligible property owners may apply through an online portal maintained by the auditor
+34 or by submitting a written application to the auditor.
+LC002441 - Page 7 of 10
+
+1 (c) Priority consideration shall be given to properties in high-risk flood zones and
+2 households with low-to-moderate income levels utilizing storm tools and FEMA maps.
+3 (d) Applications for funds for property owners, pursuant to this chapter shall be accepted
+4 on a first-come first-serve basis and are subject to the determination of need by the auditor based
+5 on risk factors determined by this chapter.
+6 (e) The council is authorized to promulgate rules and regulations necessary to effectuate
+7 the purposes of this chapter which shall include but not be limited to an application form and/or
+8 online application process which shall include an online portal for initial applications for the flood
+9 audit program.
+10 46-23.5-7. Procurement of auditors.
+11 (a) To be eligible to work on a project funded by this chapter as an auditor, the auditor shall
+12 meet all program requirements including, but not limited to, those listed in this subsection, and
+13 maintain a current copy of all applicable certificates, licenses, and proof of insurance coverages
+14 with the program office;
+15 (1) The auditor shall agree to follow the Rhode Island property resilience act's procedures
+16 and rules as prescribed by the council;
+17 (2) The auditor shall not have a financial interest in any project funded by this chapter for
+18 which they perform work other than receiving payment on behalf of the property owner from the
+19 flood audit and shall report to the council any potential conflicts of interest before the audit
+20 commences.
+21 46-23.5-8. Program outreach.
+22 The council shall ensure information regarding the Rhode Island property resilience act is
+23 provided to the public and is designed to target the audiences within the most vulnerable areas as
+24 determined by storm tools and FEMA maps and such outreach shall include notification to be
+25 provided by insurance companies, real estate agents, professional construction societies, financial
+26 institutions, cities and towns and whatever other method as determined by the council.
+27 46-23.5-9. Reporting and oversight.
+28 (a) The council shall submit an annual report to the general assembly, the director of the
+29 department of business regulation (DBR) and the coastal resources management council (CRMC)
+30 detailing the program's implementation, participation rate, and effectiveness in identifying flood
+31 risks.
+32 (b) Effectiveness of the program shall be measured based on the following:
+33 (1) The number of flood audits performed;
+34 (2) The percentage of property owners that implemented flood audit recommendations to
+LC002441 - Page 8 of 10
+
+1 mitigate risk;
+2 (3) The number of building permits requesting alteration or elevation of the property as a
+3 result of the audit; and
+4 (4) Usage metrics associated with the online portal.
+5 46-23.5-10. Severability.
+6 If any provision of this section or the application thereof to any person or circumstances is
+7 held invalid, that invalidity shall not affect other provisions or applications of the section, which
+8 can be given effect without the invalid provision or application, and to this end the provisions of
+9 this section are declared to be severable.
+10 SECTION 3. This act shall take effect upon passage.
+========
+LC002441
+========
+LC002441 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND PROPERTY
+RESILIENCE ACT
+***
+1 This act would create the resilient Rhode Island property resilience act.
+2 This act would take effect upon passage.
+========
+LC002441
+========
+LC002441 - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( i s p e t ( l a t ( p p c ( p a]
+[DELETED:  o p b L ( ( c s ( o ( b ( r R S ( f t ( ( t S h C R 4 A ( s p ( b s]
+[DELETED:  o ( a ( " a p m p f r a c p o i ( f L ( a ( a g ( a f T c ( h r ( c ( e ( o b ( p r 4 (]
+[DELETED:  I p i w r a o r t a i a c I a c g o t ( m s 4 ( t ( ( w m ( t ( f ( w ( c ( ( ( a ( ( a]
+[DELETED:  ( f 4 ( u a o ( f ( ( a ( ( ( ( t ( ( ( f ( ( ( ( ( ( ( o ( a ( ( d]
+[DELETED:  ( ( ( f ( r ( F i g P g t p o t h t u ( r ( ( ( ( t ( f ( ( F l ( r o ( ( b ( o s ( ( i ( R o l o R l f m r t]
+[DELETED:  i ( u ( ( ( r ( A t c o t f a t p o s h a c u i ( T p o i u n o t i a o t f a r 4 ( w e p i p i i R I t p c t a h o b a ( d f t f t s ( M c p t t c s b d i t R I p r a f M s n l u o s u f f f 4 ( b ( o]
+[DELETED:  ( P c s b g t p i h f z a h ( o o ( t o a 4 ( m m w ( a ( w f a s t t a p c o i t a c 4 T p d p i 4 ( d d r ( ( (]
+[DELETED:  m ( r ( 4 I h c t S]
+[DELETED:  T T]

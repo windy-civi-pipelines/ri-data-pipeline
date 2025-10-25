@@ -1,0 +1,526 @@
+2025 -- S 0921
+========
+LC002642
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND COMMERCE
+CORPORATION -- QUALIFIED DATA CENTERS LOCATION INCENTIVE
+Introduced By: Senator Louis P. DiPalma
+Date Introduced: March 28, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-64-3 of the General Laws in Chapter 42-64 entitled "Rhode Island
+2 Commerce Corporation" is hereby amended to read as follows:
+3 42-64-3. Definitions.
+4 As used in this chapter, the following words and terms shall have the following meanings,
+5 unless the context indicates another or different meaning or intent:
+6 (1) “Administrative penalty” means a monetary penalty not to exceed the civil penalty
+7 specified in § 42-64-9.2.
+8 (2) “Airport facility” means developments consisting of runways, hangars, control towers,
+9 ramps, wharves, bulkheads, buildings, structures, parking areas, improvements, facilities, or other
+10 real or personal property necessary, convenient, or desirable for the landing, taking off,
+11 accommodation, and servicing of aircraft of all types, operated by carriers engaged in the
+12 transportation of passengers or cargo, or for the loading, unloading, interchange, or transfer of the
+13 passengers or their baggage, or the cargo, or otherwise for the accommodation, use or convenience
+14 of the passengers or the carriers or their employees (including related facilities and
+15 accommodations at sites removed from landing fields and other landing areas), or for the landing,
+16 taking off, accommodation, and servicing of aircraft owned or operated by persons other than
+17 carriers. It also means facilities providing access to an airport facility, consisting of rail, rapid
+18 transit, or other forms of mass transportation which furnish a connection between the air terminal
+
+1 and other points within the state, including appropriate mass transportation terminal facilities at
+2 and within the air terminal itself and suitable offsite facilities for the accommodation of air
+3 passengers, baggage, mail, express, freight, and other users of the connecting facility.
+4 (3) “BOCA code” means the BOCA basic building code published By Building Officials
+5 and Code Administrators International, Inc., as the code may from time to time be promulgated by
+6 the Building Officials and Code Administrators International, Inc.
+7 (4) “Bonds” and “notes” means the bonds, notes, securities, or other obligations or
+8 evidences of indebtedness issued by the corporation pursuant to this chapter, all of which shall be
+9 issued under the name of and known as obligations of the “Rhode Island commerce corporation.”
+10 (5) “Civic facility” means any real or personal property designed and intended for the
+11 purpose of providing facilities for educational, cultural, community, or other civic purposes.
+12 (6) "Colocation tenant" means a person that contracts with the owner or operator of a
+13 qualified data center to use or occupy all or part of a qualified data center for a period of at least
+14 two (2) years.
+15 (6)(7) “Compliance schedule” means a schedule of remedial measures including an
+16 enforceable sequence of actions or operations leading to compliance with an effluent limitation or
+17 any other limitation, prohibition, or standard.
+18 (7)(8) “Corporation,” “port authority,” or “authority” means the governmental agency and
+19 public instrumentality, formerly known as the “Rhode Island port authority and economic
+20 development corporation” and/or also formerly known as the “Rhode Island economic development
+21 corporation,” and now known as the Rhode Island commerce corporation authorized, created, and
+22 established pursuant to § 42-64-4, or any subsidiary corporation thereof which is established
+23 pursuant to § 42-64-7.1.
+24 (8)(9) “Director” means the executive director of the economic development corporation
+25 until such time that the secretary of commerce is appointed. Upon the appointment of a secretary
+26 of commerce, “Director” means the chief executive officer of the Rhode Island commerce
+27 corporation, who shall also be the secretary of the Rhode Island executive office of commerce.
+28 (10) “Eligible qualified data center costs” means expenditures made on or after July 1,
+29 2025, for the development, acquisition, construction, rehabilitation, including wages pursuant to §
+30 39-26.9-5 for any direct and indirect qualified licensed labor for construction and installation of
+31 data center equipment, renovation, repair or operation of a facility to be used as a qualified data
+32 center, including the cost of land, buildings, site characterization and assessment, engineering
+33 services, design services and data center equipment acquisitions. “Eligible qualified data center
+34 costs” does not include expenditures made in connection with real or personal property that is
+LC002642 - Page 2 of 15
+
+1 located outside the boundaries of the facility to be used as a qualified data center;
+2 (11) “Enterprise information technology equipment” means:
+3 (i) Hardware that support computing, networking or data storage functions, including
+4 servers and routers;
+5 (ii) Networking systems equipment that support computing, networking or data storage
+6 functions and have an industry designation as equipment within the enterprise class or data center
+7 class of networking systems; and
+8 (iii) Generators and other equipment used to ensure an uninterrupted power supply for the
+9 hardware and networking systems equipment.
+10 (12) “Facility” means one or more contiguous tracts of land in the state and any structure
+11 and person property contained on such land.
+12 (9)(13) “Federal land” means real property within the state, now acquired or hereafter
+13 acquired by the Rhode Island commerce corporation which was formerly owned by the United
+14 States government, or any agency or instrumentality thereof, including without limiting the
+15 generality of the foregoing, any and all real property now or formerly owned or used by the United
+16 States government in the towns of North Kingstown, Portsmouth, Middletown, and Charlestown
+17 and the city of Newport as military installations or for other purposes related to the national defense.
+18 Without limiting the generality of the foregoing, federal land shall also mean and include certain
+19 land in the town of North Kingstown, or any portion thereof, which has or shall revert to the state
+20 pursuant to the provisions of Public Laws 1939, chapter 696 and is now or hereafter acquired by
+21 the corporation from the state.
+22 (10)(14) “Industrial facility” means any real or personal property, the demolition, removal,
+23 relocation, acquisition, expansion, modification, alteration, or improvement of existing buildings,
+24 structures, or facilities, the construction of new buildings, structures, or facilities, the replacement,
+25 acquisition, modification, or renovation of existing machinery and equipment, or the acquisition of
+26 new machinery and equipment, or any combination of the United States, which shall be suitable
+27 for manufacturing, research, production, processing, agriculture, and marine commerce, or
+28 warehousing; or convention centers, trade centers, exhibition centers, or offices (including offices
+29 for the government of the United States or any agency, department, board, bureau, corporation, or
+30 other instrumentality of the United States, or for the state or any state agency, or for any
+31 municipality); or facilities for other industrial, commercial, or business purposes of every type and
+32 description; and facilities appurtenant or incidental to the foregoing, including headquarters or
+33 office facilities, whether or not at the location of the remainder of the facility, warehouses,
+34 distribution centers, access roads, sidewalks, utilities, railway sidings, trucking, and similar
+LC002642 - Page 3 of 15
+
+1 facilities, parking areas, waterways, dockage, wharfage, and other improvements necessary or
+2 convenient for the construction, development, maintenance, and operation of those facilities.
+3 (11)(15) “Local governing body” means any town or city council, commission, or other
+4 elective governing body now or hereafter vested by state statute, charter, or other law, with
+5 jurisdiction to initiate and adopt local ordinances, whether or not these local ordinances require the
+6 approval of the elected or appointed chief executive officer or other official or body to become
+7 effective.
+8 (12)(16) “Local redevelopment corporation” means any agency or corporation created and
+9 existing pursuant to the provisions of chapter 31 of title 45.
+10 (13)(17) “Municipality” means any city or town within the state now existing or hereafter
+11 created, or any state agency.
+12 (18) “Operator” means a person that contracts with the owner of a qualified data center to
+13 operate such a qualified data center.
+14 (19) “Owner” means a person that holds a leasehold estate in excess of fifty (50) years or
+15 a fee title to a facility.
+16 (14)(20) “Parent corporation” means, when used in connection with a subsidiary
+17 corporation established pursuant to § 42-64-7.1, the governmental agency and public
+18 instrumentality created and established pursuant to § 42-64-4.
+19 (21) “Person” means an individual, an estate, a trust, a receiver, a cooperative association,
+20 a corporation, a company, a firm, a partnership, a limited partnership, a limited liability company,
+21 a limited liability partnership or a joint venture.
+22 (15)(22) “Personal property” means all tangible personal property, new or used, including,
+23 without limiting the generality of the foregoing, all machinery, equipment, transportation
+24 equipment, ships, aircraft, railroad rolling stock, locomotives, pipelines, and all other things and
+25 rights usually included within that term. “Personal property” also means and includes any and all
+26 interests in the property which are less than full title, such as leasehold interests, security interests,
+27 and every other interest or right, legal or equitable.
+28 (16)(23) “Pollutant” means any material or effluent which may alter the chemical, physical,
+29 biological or radiological characteristics or integrity of water, including but not limited to, dredged
+30 spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical
+31 wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, cellar
+32 dirt, or industrial, municipal, agricultural or other waste petroleum or petroleum products,
+33 including, but not limited to, oil.
+34 (17)(24) “Pollution” means the discharge of any gaseous, liquid, or solid substance or
+LC002642 - Page 4 of 15
+
+1 combination thereof (including noise) into the air, water, or land which affects the physical,
+2 chemical, or biological properties (including temperature) of the air, water, or land in a manner or
+3 to an extent which renders or is likely to render the air, water, or land harmful or inimical to the
+4 public health, safety, or welfare, or to animal, bird, or aquatic life, or to the use of the air or water
+5 for domestic, industrial, or agricultural purposes or recreation including the man-made or man-
+6 induced alteration of the chemical, physical, biological or radiological integrity of water.
+7 (18)(25) “Pollution control facility” means any land or interest in land, the demolition,
+8 removal, relocation, acquisition, expansion, modification, alteration, or improvement of existing
+9 buildings, structures, or facilities, the construction of new buildings, structures, or facilities, the
+10 replacement, modification, or renovation of existing machinery and equipment, or the acquisition
+11 of new machinery and equipment, or any combination thereof, having to do with or the purpose of
+12 which is the abatement, control, or prevention of pollution, including industrial pollution, and all
+13 real and personal property incidental to that facility.
+14 (19)(26) “Port facility” means harbors, ports, and all real and personal property used in
+15 connection therewith, including, but not limited to, waterways, channels, wharves, docks, yards,
+16 bulkheads, slips, basins, pipelines, ships, boats, railroads, trucks, and other motor vehicles, aircraft,
+17 parking areas, shipyards, piers, quays, elevators, compressors, loading and unloading facilities,
+18 storage facilities, and warehouses of every type, buildings and facilities used in the manufacturing,
+19 processing, assembling, storing, or handling of any produce or products, other structures and
+20 facilities necessary for the convenient use of the harbors and seaports, including dredged
+21 approaches, railways, railroad terminals, side tracks, airports, roads, highways, tunnels, viaducts,
+22 bridges, and other approaches, useful in connection therewith, and any other shipping or
+23 transportation facility useful in the operation of a port or harbor.
+24 (20)(27) “Project” or “port project” means the acquisition, ownership, operation,
+25 construction, reconstruction, rehabilitation, improvement, development, sale, lease, or other
+26 disposition of, or the provision of financing for, any real or personal property (by whomever owned)
+27 or any interests in real or personal property, including without limiting the generality of the
+28 foregoing, any port facility, recreational facility, industrial facility, airport facility, pollution control
+29 facility, utility facility, solid waste disposal facility, civic facility, residential facility, water supply
+30 facility, energy facility or renewable energy facility, or any other facility, or any combination of
+31 two (2) or more of the foregoing, or any other activity undertaken by the corporation.
+32 (21)(28) “Project cost” means the sum total of all costs incurred by the Rhode Island
+33 commerce corporation in carrying out all works and undertakings, which the corporation deems
+34 reasonable and necessary for the development of a project. These shall include, but are not
+LC002642 - Page 5 of 15
+
+1 necessarily limited to, the costs of all necessary studies, surveys, plans, and specifications,
+2 architectural, engineering, or other special services, acquisition of land and any buildings on the
+3 land, site preparation and development, construction, reconstruction, rehabilitation, improvement,
+4 and the acquisition of any machinery and equipment or other personal property as may be deemed
+5 necessary in connection with the project (other than raw materials, work in process, or stock in
+6 trade); the necessary expenses incurred in connection with the initial occupancy of the project; an
+7 allocable portion of the administrative and operating expenses of the corporation; the cost of
+8 financing the project, including interest on all bonds and notes issued by the corporation to finance
+9 the project from the date thereof to one year from the date when the corporation shall deem the
+10 project substantially occupied; and the cost of those other items, including any indemnity or surety
+11 bonds and premiums on insurance, legal fees, real estate brokers and agent fees, fees and expenses
+12 of trustees, depositories, and paying agent for bonds and notes issued by the Rhode Island
+13 commerce corporation, including reimbursement to any project user for any expenditures as may
+14 be allowed by the corporation (as would be costs of the project under this section had they been
+15 made directly by the corporation), and relocation costs, all as the corporation shall deem necessary.
+16 (22)(29) “Project user” means the person, company, corporation, partnership, or
+17 commercial entity, municipality, state, or United States of America who shall be the user of, or
+18 beneficiary of, a port project.
+19 (30) “Qualified data center” means a facility that is developed, acquired, constructed,
+20 rehabilitated, renovated, repaired or operated, to house a group of networked computer services in
+21 one physical location or multiple contiguous locations to centralize the storage, management and
+22 dissemination of data and information pertaining to a particular business or classification or body
+23 of knowledge.
+24 (31) “Qualified data center equipment” means computer equipment, software and hardware
+25 purchased or leased for the processing, storage, retrieval or communication of data including:
+26 (i) Computer servers, routers, connections, chassis, networking equipment, switches,
+27 racking, fiber optics and copper cables, trays, conduits and other enabling machinery, equipment
+28 and hardware, regardless of whether such personal property is affixed to or incorporated into real
+29 property;
+30 (ii) Equipment used in the operation of computer equipment or software for the benefit of
+31 a qualified data center, including component parts, replacement parts and upgrades, regardless of
+32 whether the person property is affixed to or incorporated into real property;
+33 (iii) Equipment necessary to the transformation, generation, distribution or management of
+34 electricity that is required to operate computer servers and related equipment, including substations,
+LC002642 - Page 6 of 15
+
+1 generators, uninterrupted energy equipment, supplies, conduits, fuel piping and storage, cabling,
+2 duct banks, switches, switchboards, batteries and testing equipment;
+3 (iv) Equipment necessary to cool and maintain a controlled environment for the operation
+4 of computer servers and other equipment of a qualified data center, including chillers, mechanical
+5 equipment, refrigerant piping, fuel piping and storage, adiabatic and free cooling systems, cooling
+6 towers, water softeners, air handling units, indoor direct exchange units, fans, ducting and filters;
+7 (v) Water conservation systems, including equipment designated to collect, conserve and
+8 reuse water;
+9 (vi) Conduit, ducting and fiber optic and copper cables located outside the qualified data
+10 center, that are directly related to connecting one or more qualified data center locations;
+11 (vii) Monitoring equipment and security systems;
+12 (viii) Modular data centers and preassembled components of any item described in this
+13 subsection, including components used in the manufacturing of modular data centers; and
+14 (ix) Any other personal property, exclusive of motor vehicles, that is essential to the
+15 operations of a qualified data center or that is acquired for incorporation into or used or consumed
+16 in the operation of the qualified data center.
+17 (32) “Qualified investment” means the aggregate, nonduplicative eligible data center costs
+18 expended by an owner, operator and colocation tenant of a qualified data center.
+19 (23)(33) “Real property” means lands, structures (new or used), franchises, and interests in
+20 land, including lands under water, and riparian rights, space rights, and air rights, and all other
+21 things and rights usually included within the term. “Real property” shall also mean and include any
+22 and all interests in that property less than fee simple, such as easements, incorporeal hereditaments,
+23 and every estate, interest or right, legal or equitable, including terms for years and liens thereon by
+24 way of judgments, mortgages or otherwise, and also all claims for damages to that real property.
+25 (24)(34) “Recreational facility” means any building, development, or improvement,
+26 provided that building, facility, development, or improvement is designed in whole or in part to
+27 attract tourists to the state or to provide essential overnight accommodations to transients visiting
+28 this state, including, without limiting in any way the generality of the foregoing, marinas, beaches,
+29 bathing facilities, ski facilities, convention facilities, hotels, motels, golf courses, camp grounds,
+30 arenas, theatres, lodges, guest cottages, and all types of real or personal property related thereto as
+31 may be determined from time to time by the corporation.
+32 (25)(35) “Renewable energy facility” means any real or personal property, or any
+33 combination thereof, related to, or incidental to, any project, designed, intended, or utilized for an
+34 eligible renewable energy resource that meets the criteria set forth in §§ 39-26-5(a) and 39-26-5(c).
+LC002642 - Page 7 of 15
+
+1 (26)(36) “Revenues” means: (i) with respect to any project, the rents, fees, tolls, charges,
+2 installment payments, repayments, and other income or profit derived from a project or a
+3 combination of projects pursuant to any lease, conditional sales contract, installment sales contract,
+4 loan agreement, or other contract or agreement, or any combination thereof, and (ii) any receipts,
+5 fees, payments, moneys, revenues, or other payments received or to be received by the corporation
+6 in the exercise of its corporate powers under this chapter, including, without limitation, loan
+7 repayments, grants, aid, appropriations and other assistance for the state, the United States or any
+8 corporation, department or instrumentality of either or of a political subdivision thereof, bond
+9 proceeds, investment earnings, insurance proceeds, amounts in reserves and other funds and
+10 accounts established by or pursuant to this chapter or in connection with the issuance of bonds, and
+11 any other taxes, assessments, fees, charges, awards or other income or amounts received or
+12 receivable by the corporation.
+13 (27)(37) “Rule or regulation” means any directive promulgated by the Rhode Island
+14 commerce corporation not inconsistent with the laws of the United States or the state, for the
+15 improvement of navigation and commerce or other project purposes and shall include, but not be
+16 limited to, charges, tolls, rates, rentals, and security provisions fixed or established by the
+17 corporation.
+18 (28)(38) “Sewage” shall be construed to mean the same as “pollutant” as defined in
+19 subsection (16) above.
+20 (29)(39) “Sewage treatment facility” means the sewage treatment plant, structure,
+21 combined sewer overflows, equipment, interceptors, mains, pumping stations and other property,
+22 real, personal or mixed, for the treatment, storage, collection, transporting or disposal of sewage,
+23 or any property or system to be used in whole or in part for any of the aforesaid purposes located
+24 or operated within the boundaries of the Quonset Point/Davisville Industrial Park, or utilized by
+25 the corporation for the transport, collection, treatment, storage, or disposal of waste.
+26 (30)(40) “Solid waste” means garbage, refuse, and other discarded materials, including,
+27 but not limited to, solid waste materials resulting from industrial, recreational, utility, and
+28 commercial enterprises, hotels, apartments, or any other public building or private building, or
+29 agricultural, or residential activities.
+30 (31)(41) “Solid waste disposal facility” means any real or personal property, related to or
+31 incidental to any project, which is designed or intended or designated for the purpose of treating,
+32 compacting, composting, or disposing of solid waste materials, including treatment, compacting,
+33 composting, or disposal plants, site and equipment furnishings thereof, and their appurtenances.
+34 (32)(42) “Source” means any building, structure, facility, or installation from which there
+LC002642 - Page 8 of 15
+
+1 is or may be the discharge of sewage.
+2 (33)(43) “State” means the state of Rhode Island.
+3 (34)(44) “State agency” means any office, department, board, commission, bureau,
+4 division, authority, or public corporation, agency, or instrumentality of the state.
+5 (35)(45) “State guide plan” means the plan adopted pursuant to § 42-11-10, which
+6 establishes the statewide planning program.
+7 (36)(46) “Utility facility” means any real or personal property designed, intended or
+8 utilized for generating, manufacturing, producing, storing, transmitting, distributing, delivering, or
+9 furnishing natural or manufactured gas, steam, electrical, or nuclear energy, heat, light, or power
+10 directly or indirectly to or for any project, project user, or for the public, the collection and disposal
+11 of storm and sanitary sewage; any railroads necessary or desirable for the free flow of commerce
+12 to and from projects; any roads, highways, bridges, tunnels, viaducts, or other crossings necessary
+13 or desirable for the free flow of commerce to and from projects, and any public transportation
+14 systems or facilities, including, but not limited to, bus, truck, ferry, and railroad terminals, depots,
+15 tracked vehicles, and other rolling stock and ferries; and any appurtenances, equipment, and
+16 machinery or other personal property necessary or desirable for the utilization thereof.
+17 (37)(47) “Water supply facility” means any real or personal property, or any combination
+18 thereof, related to or incidental to any project, designed, intended, or utilized for the furnishing of
+19 water for domestic, industrial, irrigation, or other purposes and including artesian wells, reservoirs,
+20 dams, related equipment, and pipelines, and other facilities.
+21 SECTION 2. Chapter 42-64 of the General Laws entitled "Rhode Island Commerce
+22 Corporation" is hereby amended by adding thereto the following section:
+23 42-64-43. Qualified data center location incentive.
+24 (a) Any person that anticipates it will own, operate or be a colocation tenant in a qualified
+25 data center in this state may apply to the corporation to enter into an agreement in accordance with
+26 the provisions of this section, for an exemption from taxes imposed under chapter 3 of title 44
+27 ("property subject to taxation") and chapter 18 of title 44 ("sales and use taxes").
+28 (b)(1) Any person described in subsection (a) of this section that seeks an exemption shall
+29 apply to the corporation, in a manner and form prescribed by the secretary of commerce. If the
+30 corporation approves such an application, the secretary of commerce shall enter into an agreement
+31 with such persons, provided such person demonstrates to the satisfaction of the secretary of
+32 commerce that:
+33 (i) The facility to be developed, acquired, constructed, rehabilitated, renovated, repaired or
+34 operated shall be used as a qualified data center; and;
+LC002642 - Page 9 of 15
+
+1 (ii) The qualified data center shall make, on or before the fifth anniversary of the date an
+2 agreement entered into pursuant to this section becomes effective, a qualified investment of at least:
+3 (A) Two hundred million dollars ($200,000,000) provided the qualified data center is
+4 located in an enterprise zone pursuant to chapter 64.3 of title 42 ("distressed areas economic
+5 revitalization act") or a federal qualified opportunity zone designated pursuant to the Tax Cuts and
+6 Jobs Act of 2017 Pub L. 115-97, as amended from time to time; or
+7 (B) Four hundred million dollars ($400,000,000) provided the qualified data center is not
+8 located in an enterprise zone or federal qualified opportunity zone.
+9 (2) Any agreement entered into pursuant to this subsection shall:
+10 (i) Be for a period of no less than thirty (30) years and no greater than fifty (50) years from
+11 the date an agreement entered into pursuant to this section becomes effective, which may be in the
+12 year in which the construction, rehabilitation, renovation or repair of a qualified data center
+13 commences;
+14 (ii) Include a five (5) year qualifying period, from the date of an agreement entered into
+15 pursuant to this section becomes effective, for the applicable qualified investment amount set forth
+16 in subsection (b)(1)(ii) of this section to be reached;
+17 (iii) Include the payment of an annual fee by the qualified data center, to be determined
+18 annually by the corporation and not to exceed twenty-five thousand dollars ($25,000), for the
+19 administrative and operational costs of the corporation for the administration of this chapter. The
+20 fee shall be paid by the qualified data center to the secretary of commerce during each year of such
+21 qualifying period or until the applicable qualified investment amount set forth in subsection
+22 (b)(1)(ii) of this section is reached, whichever is sooner;
+23 (iv) Included a detailed description of the capital project that is the subject of the
+24 agreement;
+25 (v) Provide that the provisions of agreement are applicable, within the time period such
+26 agreement is effective and for the remaining duration of such time period, to any:
+27 (A) Subsequent owner of the qualified data center;
+28 (B) Operator or affiliate of the operator of the qualified data center; or
+29 (C) Colocation tenant, provided the facility continues to be used as a qualified data center;
+30 and
+31 (D) Include provisions for the assessments and payment of the taxes exempted pursuant to
+32 such agreement and the rates or amounts of penalties and interest to be imposed thereon, if the
+33 corporation determines that the requirements of the agreement or of a qualified data center are not
+34 being met or have not been met.
+LC002642 - Page 10 of 15
+
+1 (3) If a qualified data center makes a qualified investment of at least:
+2 (i) Two hundred million dollars ($200,000,000) if the qualified data center is located in an
+3 enterprise zone designated pursuant to chapter 64.3 of title 42 ("distressed areas economic
+4 revitalization act") or a federal qualified opportunity zone designated pursuant to the Tax Cuts and
+5 Jobs Act of 2017, Pub. L. 115-97, as amended from time to time; or
+6 (ii) Four hundred million dollars ($400,000,000) if the qualified data center is not located
+7 in an enterprise zone or federal qualified opportunity zone, the agreement entered into with the
+8 corporation pursuant to this section shall be effective for no less than thirty (30) years and not more
+9 than to fifty (50) years.
+10 (4) Any qualified data center that enters into an agreement pursuant to this section and
+11 makes the applicable qualified investment amount set forth in subsection (b)(3) of this section, and
+12 any operator or affiliate of and colocation tenant of such qualified data center, shall be exempt from
+13 any financial transactions tax or fee that may be imposed by the state on trades of stocks, bonds,
+14 derivatives and other financial products. The exemption under this section shall be effective for a
+15 period of up to fifty (50) years from the date of the construction, rehabilitation, renovation or repair
+16 of a facility is completed, as determined by the corporation. The corporation may incorporate the
+17 provisions of this section into the agreement entered into herein or amend an existing agreement
+18 with a qualified data center to incorporate the provisions of this section.
+19 (5) The secretary of commerce, or designee, shall:
+20 (i) Serve as the liaison between applicants and qualified data centers and other state
+21 agencies:
+22 (ii) Provide assistance to applicants and qualified data centers from the preapplication
+23 phase to the post-operational stage; and
+24 (iii) Seek to ensure coordinated, efficient and timely responses to applicants and qualified
+25 data centers.
+26 (c)(1) With respect to the exemption of taxes imposed under chapter 18 of title 44, the
+27 secretary of commerce shall notify the tax administrator of any person that has entered into an
+28 agreement pursuant to this section. The tax administrator shall provide to the person a certificate
+29 that exempts the person, and any contractor or subcontractor of the person, from taxes for the sale
+30 of and the storage, use or other consumption in this state of qualified data center equipment acquired
+31 for incorporation into or used and consumed in the development, acquisition, construction,
+32 rehabilitation, renovation, repair or operation of a facility that is used or to be used as a qualified
+33 data center; and
+34 (2) The certificate provided pursuant to this section shall apply, during the time period the
+LC002642 - Page 11 of 15
+
+1 agreement is effective, to:
+2 (i) Any additional building or structure at a qualified data center to be developed, acquired,
+3 constructed, rehabilitated, renovated, repaired or operated, to house a group of networked computer
+4 servers, regardless of whether such development, acquisition, construction, rehabilitation,
+5 renovation, repair or operation was contemplated at the time of entering into the agreement; and
+6 (ii) Any additional qualified data center equipment, services and electricity acquired or
+7 used by such qualified data center after the date the agreement was entered into.
+8 (d)(1) With respect to the exemption from the tax imposed under chapter 3 of title 44
+9 ("property subject to taxation"), the exemption shall apply to:
+10 (i) Real property, buildings or structures, located within or at a qualified data center; and
+11 (ii) Enterprise information technology equipment used by a qualified data center.
+12 (2) The exemption under this subsection shall apply, during the time period the agreement
+13 entered into pursuant to subsection (b) of this section is effective to:
+14 (i) Any additional building or structure at a qualified data center that is developed,
+15 acquired, constructed, rehabilitated, renovated, repaired or operated, to house a group of networked
+16 computer servers, regardless of whether any such development, acquisition, construction,
+17 rehabilitation, renovation, repair or operation was contemplated at the time of entering into the
+18 agreement;
+19 (ii) Any additional enterprise information technology equipment used by a qualified data
+20 center that is acquired after the date the agreement was entered into; and
+21 (iii) Any additional facility acquired by the owner of a qualified data center for the
+22 development, construction, rehabilitation, renovation, repair or operation of a qualified data center,
+23 after the date of the agreement was entered into, provided such owner enters into a negotiated host
+24 municipality fee agreement as required under this section for each such additional facility.
+25 (3) The secretary of commerce shall notify each municipality in which a facility is located
+26 of any agreement entered into pursuant to this section and shall provide the identity of the person
+27 with which the secretary has entered into an agreement, the date the agreement is effective and the
+28 terms of the agreement with respect to the exemption from the tax imposed under chapter 3 of title
+29 44 ("property subject to taxation").
+30 (4)(i) No developer or owner shall commence construction, rehabilitation, renovation or
+31 repair of a facility that shall be a qualified data center unless the owner has entered into a negotiated
+32 host municipality fee agreement with the municipality in which the facility is located. The owner
+33 shall enter into a negotiated host municipality fee agreement for each additional facility that shall
+34 be a qualified data center that the owner acquires. If a facility is located in contiguous
+LC002642 - Page 12 of 15
+
+1 municipalities, the owner shall enter into a negotiated host municipality fee agreement for each
+2 additional facility that shall be a qualified data center that the owner acquires. If a facility is located
+3 in contiguous municipalities, such owner shall enter into a negotiated host municipality fee
+4 agreement with each such municipality.
+5 (ii) Each negotiated host municipality fee agreement shall include provisions for the
+6 assessment and payment of the tax under chapter 3 of title 44 ("property subject to taxation")
+7 exempted pursuant to the agreement entered into pursuant to subsection (b) of this section, and the
+8 rates or amounts of penalties and interest to be imposed thereon, if the legislative body of the
+9 municipality in which the qualified data center is located determines that the requirements of the
+10 negotiated host municipality fee agreement are not being met or have not been met.
+11 (5) The chief elected official of the municipality in which a qualified data center is located
+12 shall notify the qualified data center if the legislative body of the municipality determines the
+13 requirements of a negotiated host municipality fee agreement entered into pursuant to the
+14 provisions of this subsection are not being met or have not been met. The qualified data center shall
+15 cure the noncompliance not later than one hundred eighty (180) days after the date of such
+16 notification. If the legislative body of such municipality determines the noncompliance has not
+17 been cured, the negotiated host municipality fee agreement shall be terminated.
+18 (6) Upon termination of a negotiated host municipality fee agreement pursuant to the
+19 provisions of this subsection or subsection (e)(2) of this section, the qualified data center, the owner
+20 of the property on which the qualified data center is located or the owner’s successors or assigns
+21 shall be subject to the tax imposed under chapter 3 of title 44 ("property subject to taxation") and
+22 shall be liable for the payment of the taxes on the property that was exempted from taxation, from
+23 the date of noncompliance under subsection (d)(5) of this section or the date of termination under
+24 subsection (e)(2) of this section, as applicable. Such liability shall attach to the property as a charge
+25 thereon. The tax and any related penalty and interest shall be due, payable and collectible as other
+26 municipal taxes and subject to the same liens and processes of collection.
+27 (e)(1) If the corporation terminates an agreement entered into pursuant to subsection (b) of
+28 this section due to making the determination that the requirements of the agreement or of a qualified
+29 data center are not being met or have not been met the secretary of commerce shall notify the tax
+30 administrator and the chief elected official of the municipality in which the applicable qualified
+31 data center is located of the termination.
+32 (2) Any negotiated host municipality fee agreement entered into pursuant to subsection
+33 (d)(4) of this section by such qualified data center shall be terminated as of the date of the agreement
+34 entered into pursuant to subsection (b) of this section is terminated. The municipality in which the
+LC002642 - Page 13 of 15
+
+1 qualified data center is located may use any remedy authorized by the general laws to secure the
+2 interest of the municipality and recover the amount of any fee, tax, penalty and interest that become
+3 due and owing to the municipality due to the termination.
+4 (3) The amount of taxes under chapter 18 of title 44 ("sales and use taxes-liability and
+5 computation"), penalty or interest that becomes due and owing pursuant to the termination by the
+6 corporation of an agreement entered into pursuant to subsection (b) of this section may be collected
+7 by the tax administrator under the provisions of chapter 1 of title 44 ("state tax officials"). The
+8 amount of any such tax, penalty or interest shall be a lien on the real estate of the qualified data
+9 center from the last day of the month next proceeding the due date of such tax until the tax is paid.
+10 The tax administrator may record the lien in the records of any municipality in which the real estate
+11 of the qualified data center is located but no lien pursuant to the provisions of this subsection shall
+12 be enforceable against a bona fide purchaser or qualified encumbrancer of the real estate. When
+13 any tax with respect to which a lien has been recorded under the provisions of this subsection has
+14 been satisfied, the tax administrator shall, upon request of any interested party, issue a certificate
+15 discharging the lien, which certificate shall be recorded in the same office in which the lien was
+16 recorded. Any action for the foreclosure of the lien shall be brought by the attorney general in the
+17 name of the state in the superior court for the county in which the real estate subject to the lien is
+18 located, or, if the property is located in two (2) or more counties, in the superior court for one of
+19 the counties, and the court may limit the time for redemption or order the sale of the real estate or
+20 make such other or further decree as it judges equitable.
+21 SECTION 3. This act shall take effect upon passage.
+========
+LC002642
+========
+LC002642 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND COMMERCE
+CORPORATION -- QUALIFIED DATA CENTERS LOCATION INCENTIVE
+***
+1 This act would create qualified data centers, a facility that is developed, acquired,
+2 constructed, rehabilitated, renovated, repaired or operated, to house a group of networked computer
+3 services in one physical location or multiple contiguous locations to centralize the storage,
+4 management and dissemination of data and information pertaining to a particular business or
+5 classification or body of knowledge. The act establishes tax exemptions, for said centers, to be
+6 approved by the commerce corporation.
+7 This act would take effect upon passage.
+========
+LC002642
+========
+LC002642 - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 4 A u ( s ( r r o p p n c o d f t l t o a a s o a o a t o b c e i t t p o t p o t c o t e ( r f a a t c t]
+[DELETED:  a a w t a t i a s o f f t a o a p ( a t ( “ a “ m t b n s o o o o e i ( p ( q t ( “ s m a s o r m i a e a ( p i f k a t “ I p a a e d c e p t § 4 o a s c t w i e p ( u o c “ m t c e o o t R I c c ( 2 3 d c s c]
+[DELETED:  l ( ( H t s c n o d s f i s ( f c ( h ( a ( a S g o a a o i t i w l t g S a W l p t ( r s a n f m r p p a a m c o w f o i o t U S o f t s o a s a o f a m d o f w o n a t l o t r o t f w d c a r s u r s t a s]
+[DELETED:  f c ( e g b n o h v b s s c o o l w j a e ( e ( c ( o ( a ( “ c m w u i c w a s c e p t § 4 t g a a p i ( a a ( w l t g o t f a m e t e r i a ( b s s w i r s g s s m c w d o i m a o o w p o p p i (]
+[DELETED:  c t ( n i t a w o l w a t p c t p f i ( r b r o w r ( c b p s p a s o o p o p o s a f n f t c u o t h a s i d a b a o a u i c t a a o s o t ( “ o “ p m t a o o c r r i d s l o o d o a i i r o p p i w l t g o t f f f t ( c r a n f t d o a p T s i b a n]
+[DELETED:  n l t t c o a n s s p a s a l a n t a f t p b o t d a p a f b a n i b t R I c b m ( “ u m t p c c p o c b ( r o d o ( p ( C s r c c n e s r a p ( a w ( e]
+[DELETED:  g d ( o e t ( r ( c ( ( s ( A o p p e o m v t i e t t o i ( e ( l t a a w ( “ f m a b d o i p a t b a m ( “ e f m a r o p p o a c e]
+[DELETED:  ( i p r a o i o p d f a p o a c l f i t e o i c p u t c i w l r c p i e i p a i r a o f a a a o t a f c a o o i o a r o r ( “ o r m a d p b t R I c i l t c t r r a s p f o e b t c ( “ s b c t m t s a “ a d i s ( “ t f m t s t p s c r o o t ( b n l t s w m r f i r u a c a ( i c c (]
+[DELETED:  i ( ( “ a m a o d b c b d ( “ g p m t p a p t § 4 w e ( “ f m a r o p p d i o u f d o t o s t v a o r s a f a a a e a m ( t w d S 2 C 4 o t G L e " I C C 4 ( d t ( ( a c w s p p s p d t t s o t s o c ( o]
+[DELETED:  ( a ( t l r J ( l ( ( t y i w t c r r o r o a q d c c ( p i ( a a f q p o u t a q i a s f i s ( ( I a d d o t c p t i t s o t a ( a ( ( ( a ( s c b]
+[DELETED:  ( ( e z d p t c 6 o t 4 ( a e r J ( i c t ( m a a d p o p w ( ( S a t l b a a q d c a o s a ( p ( d ( s a t o f i i o u a c i t d a c r d (]
+[DELETED:  a ( c s r o w s d a c r r ( u ( ( ( ( ( e ( A a b o s a a q d c t i d a c s r o w a s d a c r a ( c ( A a f a b t o o a q d c f t d a m ( o w t 4 ( r h s b a q d c t t o a I a f i l i c]
+[DELETED:  m a i c m s o s e i a n h m f a ( E n h m f a s i p f t a e r m n ( s r o a n h m f a e i p t t p c t n n l t o h e ( d a t d o s n b ( t p o s s t s t m ( t d a d ( ( e]
+[DELETED:  q i d ( c c b a c T o b a b d r n l t m S]
+[DELETED:  T a w c q d c a f t i d a c s i o p l o m c l t c t s m a d o d a t p b o c a T]

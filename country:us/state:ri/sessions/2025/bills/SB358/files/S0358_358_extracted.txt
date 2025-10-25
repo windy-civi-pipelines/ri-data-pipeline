@@ -1,0 +1,230 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Number of Sections: 1
+Source: versions - 358
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0358
+========
+LC000784
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CAUSES OF ACTION
+Introduced By: Senators Gu, Zurier, DiPalma, Burke, Bell, Kallman, Bissaillon, Euer,
+and Tikoian
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-1 of the General Laws entitled "Causes of Action" is hereby
+2 amended by adding thereto the following section:
+3 9-1-55. Artificial intelligence; liability for injuries.
+4 (a) When used in this section, the following words and phrases shall have the following
+5 meanings:
+6 (1) "Artificial intelligence" means an engineered or machine-based system that varies in its
+7 level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives
+8 how to generate outputs that can influence physical or virtual environments.
+9 (2) "Covered model" means either of the following:
+10 (i) An artificial intelligence model trained using a quantity of computing power greater
+11 than 10ˆ26 integer or floating-point operations, the cost of which exceeds one hundred million
+12 dollars ($100,000,000) when calculated using the average market prices of cloud compute at the
+13 start of training as reasonably assessed by the developer; or
+14 (ii) An artificial intelligence model created by fine-tuning a covered model using a quantity
+15 of computing power equal to or greater than three (3) times 10ˆ25 integer or floating-point
+16 operations, the cost of which, as reasonably assessed by the developer, exceeds ten million dollars
+17 ($10,000,000) if calculated using the average market price of cloud compute at the start of fine-
+18 tuning.
+1 (3) "Covered model derivative" means any of the following:
+2 (i) An unmodified copy of a covered model;
+3 (ii) A copy of a covered model that has been subjected to post-training modifications
+4 unrelated to fine-tuning;
+5 (iii) A copy of a covered model that has been fine-tuned using a quantity of computing
+6 power not exceeding three (3) times 10ˆ25 integer or floating-point operations, the cost of which,
+7 as reasonably assessed by the developer, does not exceed one million dollars ($1,000,000) if
+8 calculated using the average market price of cloud compute at the start of fine-tuning; or
+9 (4) A copy of a covered model that has been combined with other software.
+10 (5) "Developer" means a person that performs the initial training of a covered model either
+11 by training a model using a sufficient quantity of computing power and cost, or by fine-tuning an
+12 existing covered model or covered model derivative using a quantity of computing power and cost
+13 greater than the amount specified in subsection (a)(2) of this section.
+14 (6) "Fine-tuning" means adjusting the model weights of a trained covered model or covered
+15 model derivative by exposing it to additional data.
+16 (b) Artificial intelligence; liability for injuries. Except with respect to any causes of action
+17 for defamation, developers of covered models or covered model derivatives shall be strictly liable,
+18 regardless of the degree of care they exercised, for all injuries to a non-user of the covered model
+19 or covered model derivative that satisfy the actual harm element of an ordinary negligence claim
+20 if:
+21 (1) Those injuries are factually and proximately caused by a covered model or covered
+22 model derivative that engages in conduct that, if undertaken by an adult human of sound mind,
+23 would satisfy the elements of negligence or any intentional tort or crime; and
+24 (2) That conduct was neither intended nor could have been reasonably anticipated by:
+25 (i) The user of the model; or
+26 (ii) Any intermediary that fine-tuned, scaffolded, or otherwise modified the model.
+27 (c)(1) For the purposes of this section, any torts for which the mental state of the alleged
+28 tortfeasor is relevant to elements of the tort, there shall be a rebuttable presumption that the artificial
+29 intelligence system satisfies the relevant mental state if the finder of fact determines by a
+30 preponderance of the evidence that, if a natural person under similar circumstances to the artificial
+31 intelligence system took actions similar to those taken by the artificial intelligence system, that
+32 natural person would have acted with the relevant mental state.
+33 (2) Unless the court determines that the presumption established in subsection (c)(1) of this
+34 section is not applicable, if the party against whom the presumption is invoked presents evidence
+LC000784 - Page 2 of 4
+1 tending to rebut the presumption established in subsection (c)(1) of this section, the court shall
+2 instruct the finder of fact to find that the presumed facts exist unless the finder of fact is persuaded
+3 that the presumed facts do not exist.
+4 (3) For the purposes of this section, it shall not be a defense that artificial intelligence
+5 systems are incapable of having mental states.
+6 (d)(1) It shall be an affirmative defense to strict liability if the developer establishes that
+7 the covered model or covered model derivative satisfied the standard of care applicable to humans
+8 who perform the same function that the covered model or covered model derivative was engaged
+9 in performing when its conduct allegedly caused the plaintiff's injury.
+10 (2) It shall be an affirmative defense to strict liability if the developer establishes that the
+11 injuries to a non-user as described in this section were a result of a capabilities failure, in which a
+12 covered model or covered model derivative falls short of performing the intended or reasonably
+13 anticipated performance of the user, but the conduct of the system would not satisfy the elements
+14 of negligence or any intentional tort or crime if engaged in by an adult human of sound mind.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC000784
+========
+LC000784 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+CAUSES OF ACTION
+***
+1 This act would provide a civil cause of action for individuals injured by artificial
+2 intelligence.
+3 This act would take effect upon passage.
+========
+LC000784
+========
+LC000784 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S a 9 ( m ( l h ( ( t d s ( o c p e t o g t t ( t 1 i o f o ( t]
+[DELETED:  ( ( ( u ( p a c ( ( b e g ( m ( f r o i ( m w ( ( ( ( t i s s t r m s i t f o f d b a p i n ( s]
+[DELETED:  t i t ( s ( t w i ( i c a o S]
+[DELETED:  T a w p a c c o a f i i b a i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0358
+========
+LC000784
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+CAUSES OF ACTION
+Introduced By: Senators Gu, Zurier, DiPalma, Burke, Bell, Kallman, Bissaillon, Euer,
+and Tikoian
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-1 of the General Laws entitled "Causes of Action" is hereby
+2 amended by adding thereto the following section:
+3 9-1-55. Artificial intelligence; liability for injuries.
+4 (a) When used in this section, the following words and phrases shall have the following
+5 meanings:
+6 (1) "Artificial intelligence" means an engineered or machine-based system that varies in its
+7 level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives
+8 how to generate outputs that can influence physical or virtual environments.
+9 (2) "Covered model" means either of the following:
+10 (i) An artificial intelligence model trained using a quantity of computing power greater
+11 than 10ˆ26 integer or floating-point operations, the cost of which exceeds one hundred million
+12 dollars ($100,000,000) when calculated using the average market prices of cloud compute at the
+13 start of training as reasonably assessed by the developer; or
+14 (ii) An artificial intelligence model created by fine-tuning a covered model using a quantity
+15 of computing power equal to or greater than three (3) times 10ˆ25 integer or floating-point
+16 operations, the cost of which, as reasonably assessed by the developer, exceeds ten million dollars
+17 ($10,000,000) if calculated using the average market price of cloud compute at the start of fine-
+18 tuning.
+
+1 (3) "Covered model derivative" means any of the following:
+2 (i) An unmodified copy of a covered model;
+3 (ii) A copy of a covered model that has been subjected to post-training modifications
+4 unrelated to fine-tuning;
+5 (iii) A copy of a covered model that has been fine-tuned using a quantity of computing
+6 power not exceeding three (3) times 10ˆ25 integer or floating-point operations, the cost of which,
+7 as reasonably assessed by the developer, does not exceed one million dollars ($1,000,000) if
+8 calculated using the average market price of cloud compute at the start of fine-tuning; or
+9 (4) A copy of a covered model that has been combined with other software.
+10 (5) "Developer" means a person that performs the initial training of a covered model either
+11 by training a model using a sufficient quantity of computing power and cost, or by fine-tuning an
+12 existing covered model or covered model derivative using a quantity of computing power and cost
+13 greater than the amount specified in subsection (a)(2) of this section.
+14 (6) "Fine-tuning" means adjusting the model weights of a trained covered model or covered
+15 model derivative by exposing it to additional data.
+16 (b) Artificial intelligence; liability for injuries. Except with respect to any causes of action
+17 for defamation, developers of covered models or covered model derivatives shall be strictly liable,
+18 regardless of the degree of care they exercised, for all injuries to a non-user of the covered model
+19 or covered model derivative that satisfy the actual harm element of an ordinary negligence claim
+20 if:
+21 (1) Those injuries are factually and proximately caused by a covered model or covered
+22 model derivative that engages in conduct that, if undertaken by an adult human of sound mind,
+23 would satisfy the elements of negligence or any intentional tort or crime; and
+24 (2) That conduct was neither intended nor could have been reasonably anticipated by:
+25 (i) The user of the model; or
+26 (ii) Any intermediary that fine-tuned, scaffolded, or otherwise modified the model.
+27 (c)(1) For the purposes of this section, any torts for which the mental state of the alleged
+28 tortfeasor is relevant to elements of the tort, there shall be a rebuttable presumption that the artificial
+29 intelligence system satisfies the relevant mental state if the finder of fact determines by a
+30 preponderance of the evidence that, if a natural person under similar circumstances to the artificial
+31 intelligence system took actions similar to those taken by the artificial intelligence system, that
+32 natural person would have acted with the relevant mental state.
+33 (2) Unless the court determines that the presumption established in subsection (c)(1) of this
+34 section is not applicable, if the party against whom the presumption is invoked presents evidence
+LC000784 - Page 2 of 4
+
+1 tending to rebut the presumption established in subsection (c)(1) of this section, the court shall
+2 instruct the finder of fact to find that the presumed facts exist unless the finder of fact is persuaded
+3 that the presumed facts do not exist.
+4 (3) For the purposes of this section, it shall not be a defense that artificial intelligence
+5 systems are incapable of having mental states.
+6 (d)(1) It shall be an affirmative defense to strict liability if the developer establishes that
+7 the covered model or covered model derivative satisfied the standard of care applicable to humans
+8 who perform the same function that the covered model or covered model derivative was engaged
+9 in performing when its conduct allegedly caused the plaintiff's injury.
+10 (2) It shall be an affirmative defense to strict liability if the developer establishes that the
+11 injuries to a non-user as described in this section were a result of a capabilities failure, in which a
+12 covered model or covered model derivative falls short of performing the intended or reasonably
+13 anticipated performance of the user, but the conduct of the system would not satisfy the elements
+14 of negligence or any intentional tort or crime if engaged in by an adult human of sound mind.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC000784
+========
+LC000784 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+CAUSES OF ACTION
+***
+1 This act would provide a civil cause of action for individuals injured by artificial
+2 intelligence.
+3 This act would take effect upon passage.
+========
+LC000784
+========
+LC000784 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 9 ( m ( l h ( ( t d s ( o c p e t o g t t ( t 1 i o f o ( t]
+[DELETED:  ( ( ( u ( p a c ( ( b e g ( m ( f r o i ( m w ( ( ( ( t i s s t r m s i t f o f d b a p i n ( s]
+[DELETED:  t i t ( s ( t w i ( i c a o S]
+[DELETED:  T a w p a c c o a f i i b a i T]

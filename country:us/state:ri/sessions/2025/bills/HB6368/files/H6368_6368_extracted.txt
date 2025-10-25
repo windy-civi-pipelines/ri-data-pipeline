@@ -1,0 +1,670 @@
+Title: RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Official Title: RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Number of Sections: 1
+Source: versions - 6368
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6368
+========
+LC002772
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Kislak, Donovan, Speakman, McGaw, Potter, Caldwell,
+Cortvriend, Fogarty, Cotter, and Handy
+Date Introduced: May 28, 2025
+Referred To: House Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-25 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-25. Unfair discrimination prohibited.
+4 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+5 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+6 reimbursement for any services that may be legally performed by any person licensed under the
+7 provisions of chapters 29, 30, 35 and 37 of title 5, reimbursement under the insurance policy,
+8 certificate, or service contract shall be based upon a determination of medical necessity and shall
+9 not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+10 discrimination against particular individuals or persons licensed under chapters 29, 30, 35 and 37
+11 of title 5.
+12 (a) For the purposes of this section, the following terms are defined as follows:
+13 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+14 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+15 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+16 plans.
+17 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+18 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+19 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 2 of 10
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 2. Section 27-19-75 of the General Laws in Chapter 27-19 entitled "Nonprofit
+17 Hospital Service Corporations" is hereby amended to read as follows:
+18 27-19-75. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35 [repealed], and 37 of title 5, reimbursement under the insurance
+23 policy, certificate, or service contract shall be based upon a determination of medical necessity and
+24 shall not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35
+26 [repealed], and 37 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 3 of 10
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 4 of 10
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 3. Section 27-20-71 of the General Laws in Chapter 27-20 entitled "Nonprofit
+17 Medical Service Corporations" is hereby amended to read as follows:
+18 27-20-71. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35 [repealed], and 37 of title 5, reimbursement under the insurance
+23 policy, certificate, or service contract shall be based upon a determination of medical necessity and
+24 shall not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35
+26 [repealed], and 37 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 5 of 10
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 6 of 10
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 4. Section 27-41-88 of the General Laws in Chapter 27-41 entitled "Health
+17 Maintenance Organizations" is hereby amended to read as follows:
+18 27-41-88. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35, and 37 of title 5, reimbursement under the insurance policy,
+23 certificate, or service contract shall be based upon a determination of medical necessity and shall
+24 not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35, and 37
+26 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 7 of 10
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 8 of 10
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 5. This act shall take effect upon passage.
+========
+LC002772
+========
+LC002772 - Page 9 of 10
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would amend unfair discrimination statutes to encompass more protected
+2 categories and protect against additional forms of discrimination.
+3 This act would take effect upon passage.
+========
+LC002772
+========
+LC002772 - Page 10 of 10
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 N i r p c n d o ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S H 2 N i r p p s d a p i o p l u c 2 3 3 [ ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S M 2 N i r p p s d a p i o p l u c 2 3 3 [ ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S M 2 N i r p c n d o ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S]
+[DELETED:  T a w a u d s t e m p c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6368
+========
+LC002772
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representatives Kislak, Donovan, Speakman, McGaw, Potter, Caldwell,
+Cortvriend, Fogarty, Cotter, and Handy
+Date Introduced: May 28, 2025
+Referred To: House Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-25 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-25. Unfair discrimination prohibited.
+4 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+5 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+6 reimbursement for any services that may be legally performed by any person licensed under the
+7 provisions of chapters 29, 30, 35 and 37 of title 5, reimbursement under the insurance policy,
+8 certificate, or service contract shall be based upon a determination of medical necessity and shall
+9 not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+10 discrimination against particular individuals or persons licensed under chapters 29, 30, 35 and 37
+11 of title 5.
+12 (a) For the purposes of this section, the following terms are defined as follows:
+13 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+14 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+15 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+16 plans.
+17 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+18 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+19 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 2 of 10
+
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 2. Section 27-19-75 of the General Laws in Chapter 27-19 entitled "Nonprofit
+17 Hospital Service Corporations" is hereby amended to read as follows:
+18 27-19-75. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35 [repealed], and 37 of title 5, reimbursement under the insurance
+23 policy, certificate, or service contract shall be based upon a determination of medical necessity and
+24 shall not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35
+26 [repealed], and 37 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 3 of 10
+
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 4 of 10
+
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 3. Section 27-20-71 of the General Laws in Chapter 27-20 entitled "Nonprofit
+17 Medical Service Corporations" is hereby amended to read as follows:
+18 27-20-71. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35 [repealed], and 37 of title 5, reimbursement under the insurance
+23 policy, certificate, or service contract shall be based upon a determination of medical necessity and
+24 shall not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35
+26 [repealed], and 37 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 5 of 10
+
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 6 of 10
+
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 4. Section 27-41-88 of the General Laws in Chapter 27-41 entitled "Health
+17 Maintenance Organizations" is hereby amended to read as follows:
+18 27-41-88. Unfair discrimination prohibited.
+19 Notwithstanding any provision of any policy of insurance, certificate, or service contract
+20 issued in this state, whenever the insurance policy, certificate, or service contract provides for
+21 reimbursement for any services that may be legally performed by any person licensed under the
+22 provisions of chapters 29, 30, 35, and 37 of title 5, reimbursement under the insurance policy,
+23 certificate, or service contract shall be based upon a determination of medical necessity and shall
+24 not be denied because of race, color, or creed, nor shall any insurer make or permit any unfair
+25 discrimination against particular individuals or persons licensed under chapters 29, 30, 35, and 37
+26 of title 5.
+27 (a) For the purposes of this section, the following terms are defined as follows:
+28 (1) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+29 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+30 pay for, or reimburse any of the costs of healthcare services, and includes individual and group
+31 plans.
+32 (2) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+33 by the State of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+34 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+LC002772 - Page 7 of 10
+
+1 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+2 reimburse any of the costs of healthcare services including, without limitation: a for-profit or
+3 nonprofit hospital, medical or dental service corporation or plan; a health maintenance
+4 organization; a health insurance company; or any other entity providing a plan of health insurance,
+5 accident and sickness insurance, health benefits, or healthcare services.
+6 (b) An individual may not be excluded from participation in, be denied benefits of, or
+7 otherwise be subject to discrimination under any health-benefit plan on the basis of actual or
+8 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+9 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+10 or related conditions; age; disability; or any combination thereof.
+11 (c) No healthcare entity may, in offering, providing, or administering a health plan:
+12 (1) Deny, cancel, delay, limit, or refuse to issue or renew a health-benefit plan on the basis
+13 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+14 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+15 childbirth, or related conditions; age; disability; or any combination thereof;
+16 (2) Have or implement marketing practices or benefit designs that discriminate on the basis
+17 of actual or perceived: race; ethnicity; color; religion; national origin, including language; sex,
+18 including sex characteristics, sexual orientation, gender identity, gender expression, and pregnancy,
+19 childbirth, or related conditions; age; disability; or any combination thereof;
+20 (3) Deny or limit coverage, deny or limit coverage of a claim, or impose additional cost
+21 sharing or other limitations or restrictions on coverage, to an individual on the basis of actual or
+22 perceived: race; ethnicity; color; religion; national origin, including language; sex, including sex
+23 characteristics, sexual orientation, gender identity, gender expression, and pregnancy, childbirth,
+24 or related conditions; age; disability; or any combination thereof;
+25 (4) Have or implement a categorical coverage exclusion or limitation for all health services
+26 related to gender transition or other gender-affirming care, or reproductive health care;
+27 (5) Otherwise deny or limit coverage, deny or limit coverage of a claim, or impose
+28 additional cost sharing or other limitations or restrictions on coverage, for specific health services
+29 related to gender transition or other gender-affirming care if such denial, limitation, or restriction
+30 results in discrimination against a member of protected class, as described in subsection (b) of this
+31 section; or
+32 (6) Have or implement benefit designs that do not provide or administer health insurance
+33 coverage in the most integrated setting appropriate to the needs of qualified individuals with
+34 disabilities, including practices that result in the serious risk of institutionalization or segregation.
+LC002772 - Page 8 of 10
+
+1 (d) Nothing in this section requires coverage of any health service where the healthcare
+2 entity has a legitimate, nondiscriminatory reason for denying or limiting coverage of the health
+3 service or determining that such health service fails to meet applicable coverage requirements,
+4 including reasonable medical management techniques such as medical necessity requirements.
+5 Such coverage denial or limitation must not be based on unlawful animus or bias, or constitute a
+6 pretext for discrimination.
+7 (e) The enumeration of specific forms of discrimination in subsection (c) of this section
+8 does not limit the general applicability of the prohibition in subsection (b) of this section.
+9 (f) No healthcare entity may discriminate with respect to participation under a health-
+10 benefit plan or coverage against any healthcare professional who is acting within the scope of that
+11 healthcare professional’s license or certification under applicable state law, on the basis of that
+12 healthcare professional’s actual or perceived: race; ethnicity; color; religion; national origin,
+13 including language; sex, including sex characteristics, sexual orientation, gender identity, gender
+14 expression, and pregnancy, childbirth, or related conditions; age; disability; or any combination
+15 thereof.
+16 SECTION 5. This act shall take effect upon passage.
+========
+LC002772
+========
+LC002772 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would amend unfair discrimination statutes to encompass more protected
+2 categories and protect against additional forms of discrimination.
+3 This act would take effect upon passage.
+========
+LC002772
+========
+LC002772 - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 N i r p c n d o ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S H 2 N i r p p s d a p i o p l u c 2 3 3 [ ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S M 2 N i r p p s d a p i o p l u c 2 3 3 [ ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S M 2 N i r p c n d o ( ( “ p o “ p m a p c c o a p p ( b j]
+[DELETED:  o r n h m o d s c o p a h m o a ( o p c o ( ( o i c ( o i c ( s p c o ( r ( O d o l c d o l c o a c o i a r r s ( c i t m a o q i w d]
+[DELETED:  ( e s i S p ( d ( b h h p a o p r e c r n o i e t S]
+[DELETED:  T a w a u d s t e m p c T]

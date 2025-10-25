@@ -1,0 +1,157 @@
+Title: RELATING TO MOTOR AND OTHER VEHICLES -- RIDESHARE OR TRANSPORTATION
+Official Title: RELATING TO MOTOR AND OTHER VEHICLES -- RIDESHARE OR TRANSPORTATION
+Number of Sections: 1
+Source: versions - 92
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0092
+========
+LC000172
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+NETWORK COMPANY VEHICLE SURCHARGE
+Introduced By: Senators Kallman, Ciccone, Britto, Sosnowski, Murray, Acosta, Mack,
+Euer, and Appollonio
+Date Introduced: January 31, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 34.2
+4 RIDESHARE OR TRANSPORTATION NETWORK COMPANY VEHICLE SURCHARGE
+5 31-34.2-1. Rideshare or transportation network company vehicle surcharge.
+6 (a) Each rideshare or transportation network company shall collect a surcharge which shall
+7 be added to the fare charged to each customer. For the purposes of this chapter, "rideshare or
+8 transportation network company" means a company that provides on-demand transportation
+9 services through app-based platforms to connect drivers with clients or passengers to facilitate
+10 and/or provide transportation for compensation or a fee.
+11 (b) The surcharge shall be seventy-five cents ($0.75) per fare.
+12 (c) The total amount of surcharge collections shall be remitted to the State of Rhode Island,
+13 and fifty percent (50%) of the surcharge collections shall be deposited in a restricted account to be
+14 used for street infrastructure improvements in the municipality where the fare originated, and fifty
+15 percent (50%) of the surcharge collections shall be deposited in a restricted account to be used as
+16 funding for implementation of Transit Forward RI as adopted by the state planning council.
+17 (d) The tax administrator shall promulgate rules and regulations necessary to implement
+18 the provisions of this chapter.
+1 (e) All disbursements and expenditures of funds from the restricted accounts subject to the
+2 provisions of this section shall be by appropriation of the general assembly.
+3 SECTION 2. Chapter 44-18 of the General Laws entitled "Sales and Use Taxes — Liability
+4 and Computation" is hereby amended by adding thereto the following section:
+5 44-18-18.2. Transportation network companies tax.
+6 All sales tax revenue collected from transportation network companies, as defined in § 44-
+7 18-7.3, shall be deposited in a restricted receipt account for the benefit of the Rhode Island public
+8 transit authority (RIPTA).
+9 SECTION 3. This act shall take effect upon passage.
+========
+LC000172
+========
+LC000172 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- RIDESHARE OR TRANSPORTATION
+NETWORK COMPANY VEHICLE SURCHARGE
+***
+1 This act would impose a seventy-five cent ($0.75) surcharge on fares charged by rideshare
+2 or transportation network companies. This act would also require that fifty percent (50%) of the
+3 surcharge be deposited in a restricted account to be used for street improvements in the municipality
+4 where the fare originated, and fifty percent (50%) of the surcharge be deposited in a restricted
+5 account to fund Transit Forward RI. The tax administrator would promulgate rules and regulations
+6 to implement the provisions of this chapter. The act would also establish a restricted receipt account
+7 for the benefit of RIPTA funded by sales tax collected from ride-share companies such as Uber and
+8 Lyft.
+9 This act would take effect upon passage.
+========
+LC000172
+========
+LC000172 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S i C R 3 ( b t n c m a c t p o t s a ( ( a u p f ( t]
+[DELETED:  ( p S a 4 A 1 t S]
+[DELETED:  T o s w a t f L T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0092
+========
+LC000172
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- RIDESHARE OR TRANSPORTATION
+NETWORK COMPANY VEHICLE SURCHARGE
+Introduced By: Senators Kallman, Ciccone, Britto, Sosnowski, Murray, Acosta, Mack,
+Euer, and Appollonio
+Date Introduced: January 31, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 34.2
+4 RIDESHARE OR TRANSPORTATION NETWORK COMPANY VEHICLE SURCHARGE
+5 31-34.2-1. Rideshare or transportation network company vehicle surcharge.
+6 (a) Each rideshare or transportation network company shall collect a surcharge which shall
+7 be added to the fare charged to each customer. For the purposes of this chapter, "rideshare or
+8 transportation network company" means a company that provides on-demand transportation
+9 services through app-based platforms to connect drivers with clients or passengers to facilitate
+10 and/or provide transportation for compensation or a fee.
+11 (b) The surcharge shall be seventy-five cents ($0.75) per fare.
+12 (c) The total amount of surcharge collections shall be remitted to the State of Rhode Island,
+13 and fifty percent (50%) of the surcharge collections shall be deposited in a restricted account to be
+14 used for street infrastructure improvements in the municipality where the fare originated, and fifty
+15 percent (50%) of the surcharge collections shall be deposited in a restricted account to be used as
+16 funding for implementation of Transit Forward RI as adopted by the state planning council.
+17 (d) The tax administrator shall promulgate rules and regulations necessary to implement
+18 the provisions of this chapter.
+
+1 (e) All disbursements and expenditures of funds from the restricted accounts subject to the
+2 provisions of this section shall be by appropriation of the general assembly.
+3 SECTION 2. Chapter 44-18 of the General Laws entitled "Sales and Use Taxes — Liability
+4 and Computation" is hereby amended by adding thereto the following section:
+5 44-18-18.2. Transportation network companies tax.
+6 All sales tax revenue collected from transportation network companies, as defined in § 44-
+7 18-7.3, shall be deposited in a restricted receipt account for the benefit of the Rhode Island public
+8 transit authority (RIPTA).
+9 SECTION 3. This act shall take effect upon passage.
+========
+LC000172
+========
+LC000172 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- RIDESHARE OR TRANSPORTATION
+NETWORK COMPANY VEHICLE SURCHARGE
+***
+1 This act would impose a seventy-five cent ($0.75) surcharge on fares charged by rideshare
+2 or transportation network companies. This act would also require that fifty percent (50%) of the
+3 surcharge be deposited in a restricted account to be used for street improvements in the municipality
+4 where the fare originated, and fifty percent (50%) of the surcharge be deposited in a restricted
+5 account to fund Transit Forward RI. The tax administrator would promulgate rules and regulations
+6 to implement the provisions of this chapter. The act would also establish a restricted receipt account
+7 for the benefit of RIPTA funded by sales tax collected from ride-share companies such as Uber and
+8 Lyft.
+9 This act would take effect upon passage.
+========
+LC000172
+========
+LC000172 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S i C R 3 ( b t n c m a c t p o t s a ( ( a u p f ( t]
+[DELETED:  ( p S a 4 A 1 t S]
+[DELETED:  T o s w a t f L T]

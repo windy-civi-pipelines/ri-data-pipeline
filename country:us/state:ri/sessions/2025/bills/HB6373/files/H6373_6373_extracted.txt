@@ -1,0 +1,197 @@
+Title: Introduced By: Representatives Cotter, Donovan, Speakman, Boylan, McGaw, Casimiro,
+Official Title: Introduced By: Representatives Cotter, Donovan, Speakman, Boylan, McGaw, Casimiro,
+Number of Sections: 1
+Source: versions - 6373
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6373
+========
+LC002954
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+Fogarty, Kislak, Potter, and Place
+Date Introduced: May 28, 2025
+Referred To: House Finance
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 40-8 of the General Laws entitled "Medical Assistance" is hereby
+2 amended by adding thereto the following section:
+3 40-8-33. Payment parity for primary care services.
+4 (a) Definitions. As used in this section, unless the context clearly requires otherwise:
+5 (1) “Primary care billing and payment codes” means the primary care payment codes to be
+6 used by health insurers to meet the primary care expenditure requirements established by the office
+7 of the health insurance commissioner pursuant to §§ 42-14-5, 42-14-17 and 42-14.5-1, et seq.
+8 (2) “Primary care provider” means a provider within the practice types of family medicine,
+9 geriatrics, internal medicine, and pediatrics, as described by the primary care provider taxonomy
+10 codes as defined in this section, and providers with the following professional credentials:
+11 physicians, certified nurse practitioners, and physician assistants; except that a specialty medical
+12 provider including, but not limited to, an obstetrics/gynecology or behavioral health provider, may
+13 be considered a primary care provider if they meet any criteria set forth, or are otherwise designated
+14 as such, pursuant to guidance or regulations issued by the executive office of health and human
+15 services pursuant to § 42-7.2-11.
+16 (3) “Primary care services” means services described by the primary care billing and
+17 payment codes, as defined in this section, for:
+18 (i) Care management;
+19 (ii) Care planning;
+1 (iii) Consultation services;
+2 (iv) Health risk assessments, screening and health behavior counseling;
+3 (v) Home visits;
+4 (vi) Hospice and home health services;
+5 (vii) Immunization administrations; and
+6 (viii) Office visits and preventive medicine visits.
+7 (4) “Primary care provider taxonomy codes” means the primary care specialty provider
+8 taxonomy codes to be used by health insurers to meet the primary care expenditure requirements
+9 established by the office of the health insurance commissioner pursuant to §§ 42-14-5, 42-14-17,
+10 and 42-14.5-1, et seq.
+11 (b) Achieving parity with Medicare rates for primary care services. The executive office of
+12 health and human services shall pursue a Medicaid state plan amendment, waiver submission, or
+13 any other necessary change in regulation or guidance, and shall allocate sufficient state general
+14 revenue, to increase Medicaid payment rates for primary care services furnished by primary care
+15 providers to equal no less than one hundred percent (100%) of Medicare rates. This increase shall
+16 be effective beginning July 1, 2025.
+17 (c) Implementation. In implementing this section, the executive office of health and human
+18 services shall ensure that Medicaid managed care organizations shall pay no less than the rates that
+19 would be paid for that care under subsection (b) of this section for these service types and shall
+20 pursue any necessary amendment to, or any execution of, contracts with Medicaid managed care
+21 organizations to promptly effectuate this provision. With respect to primary care services furnished
+22 by primary care providers participating in the Medicaid accountable entity program, the executive
+23 office of health and human services shall make any such payment adjustments as may be necessary
+24 to ensure such entities receive an equivalent benefit, taking into account the financial methodology
+25 of such program. With respect to primary care services furnished by primary care providers at
+26 community health centers, the executive office of health and human services shall adjust the
+27 alternative payment methodology under which community health centers are reimbursed as may
+28 be necessary to ensure such centers receive an equivalent increase in reimbursement.
+29 (d) Sunset. Unless extended by the general assembly, the provisions of this section shall
+30 sunset and expire on June 30, 2027.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC002954
+========
+LC002954 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+***
+1 This act would require the executive office of health and human services to increase
+2 Medicaid payment rates for primary care services furnished by primary care providers to be
+3 commensurate with Medicare rates, and would require the executive office of health and human
+4 services to ensure equivalent rate adjustments are made available to providers participating in
+5 Medicaid managed care organizations, Medicaid accountable entities, and community health
+6 centers.
+7 This act would take effect upon passage.
+========
+LC002954
+========
+LC002954 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S a 4 ( ( u o ( g c a d i t s a p w t f p c p p b a s ( p ( (]
+[DELETED:  ( ( ( ( ( ( ( t e a ( h a r p b ( s w p o b o t o c h c t o o h a h s a a b ( s S]
+[DELETED:  T w r t e o h a s M p r f p c s f b p c p t b c s M m c o M a e a c h c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6373
+========
+LC002954
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+Introduced By: Representatives Cotter, Donovan, Speakman, Boylan, McGaw, Casimiro,
+Fogarty, Kislak, Potter, and Place
+Date Introduced: May 28, 2025
+Referred To: House Finance
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 40-8 of the General Laws entitled "Medical Assistance" is hereby
+2 amended by adding thereto the following section:
+3 40-8-33. Payment parity for primary care services.
+4 (a) Definitions. As used in this section, unless the context clearly requires otherwise:
+5 (1) “Primary care billing and payment codes” means the primary care payment codes to be
+6 used by health insurers to meet the primary care expenditure requirements established by the office
+7 of the health insurance commissioner pursuant to §§ 42-14-5, 42-14-17 and 42-14.5-1, et seq.
+8 (2) “Primary care provider” means a provider within the practice types of family medicine,
+9 geriatrics, internal medicine, and pediatrics, as described by the primary care provider taxonomy
+10 codes as defined in this section, and providers with the following professional credentials:
+11 physicians, certified nurse practitioners, and physician assistants; except that a specialty medical
+12 provider including, but not limited to, an obstetrics/gynecology or behavioral health provider, may
+13 be considered a primary care provider if they meet any criteria set forth, or are otherwise designated
+14 as such, pursuant to guidance or regulations issued by the executive office of health and human
+15 services pursuant to § 42-7.2-11.
+16 (3) “Primary care services” means services described by the primary care billing and
+17 payment codes, as defined in this section, for:
+18 (i) Care management;
+19 (ii) Care planning;
+
+1 (iii) Consultation services;
+2 (iv) Health risk assessments, screening and health behavior counseling;
+3 (v) Home visits;
+4 (vi) Hospice and home health services;
+5 (vii) Immunization administrations; and
+6 (viii) Office visits and preventive medicine visits.
+7 (4) “Primary care provider taxonomy codes” means the primary care specialty provider
+8 taxonomy codes to be used by health insurers to meet the primary care expenditure requirements
+9 established by the office of the health insurance commissioner pursuant to §§ 42-14-5, 42-14-17,
+10 and 42-14.5-1, et seq.
+11 (b) Achieving parity with Medicare rates for primary care services. The executive office of
+12 health and human services shall pursue a Medicaid state plan amendment, waiver submission, or
+13 any other necessary change in regulation or guidance, and shall allocate sufficient state general
+14 revenue, to increase Medicaid payment rates for primary care services furnished by primary care
+15 providers to equal no less than one hundred percent (100%) of Medicare rates. This increase shall
+16 be effective beginning July 1, 2025.
+17 (c) Implementation. In implementing this section, the executive office of health and human
+18 services shall ensure that Medicaid managed care organizations shall pay no less than the rates that
+19 would be paid for that care under subsection (b) of this section for these service types and shall
+20 pursue any necessary amendment to, or any execution of, contracts with Medicaid managed care
+21 organizations to promptly effectuate this provision. With respect to primary care services furnished
+22 by primary care providers participating in the Medicaid accountable entity program, the executive
+23 office of health and human services shall make any such payment adjustments as may be necessary
+24 to ensure such entities receive an equivalent benefit, taking into account the financial methodology
+25 of such program. With respect to primary care services furnished by primary care providers at
+26 community health centers, the executive office of health and human services shall adjust the
+27 alternative payment methodology under which community health centers are reimbursed as may
+28 be necessary to ensure such centers receive an equivalent increase in reimbursement.
+29 (d) Sunset. Unless extended by the general assembly, the provisions of this section shall
+30 sunset and expire on June 30, 2027.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC002954
+========
+LC002954 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+***
+1 This act would require the executive office of health and human services to increase
+2 Medicaid payment rates for primary care services furnished by primary care providers to be
+3 commensurate with Medicare rates, and would require the executive office of health and human
+4 services to ensure equivalent rate adjustments are made available to providers participating in
+5 Medicaid managed care organizations, Medicaid accountable entities, and community health
+6 centers.
+7 This act would take effect upon passage.
+========
+LC002954
+========
+LC002954 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 4 ( ( u o ( g c a d i t s a p w t f p c p p b a s ( p ( (]
+[DELETED:  ( ( ( ( ( ( ( t e a ( h a r p b ( s w p o b o t o c h c t o o h a h s a a b ( s S]
+[DELETED:  T w r t e o h a s M p r f p c s f b p c p t b c s M m c o M a e a c h c T]

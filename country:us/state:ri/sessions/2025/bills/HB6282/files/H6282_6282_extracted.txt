@@ -1,0 +1,226 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 6282
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6282
+========
+LC002816
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+GROCERY STORES
+Introduced By: Representatives Cotter, Carson, Donovan, Potter, Morales, Serpa, and
+Ajello
+Date Introduced: April 30, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings.
+2 The general assembly finds and declares that:
+3 (1) Grocery stores provide many people with their primary place of social connection and
+4 sense of community. This activity is particularly true for the elderly;
+5 (2) The increasing use of self-service checkouts, where the customer does not interact with
+6 a human, contributes to social isolation and related negative health consequences;
+7 (3) Elderly customers and customers with disabilities often lack the confidence or ability
+8 to use self-service checkouts;
+9 (4) Self-service checkouts increase the risk for shoplifting, credit card theft and hacking of
+10 customers' personal information;
+11 (5) Self-service checkouts essentially turn customers into unpaid employees and allows
+12 grocery retailers to decrease labor costs and actual customer service;
+13 (6) Self-service checkouts contribute to retail workers feeling devalued and adds efficiency
+14 pressures on workers as well as encourages grocery stores to allow longer lines for check-out stands
+15 staffed by a cashier to encourage customers to use the self-service checkout;
+16 (7) Self-service checkouts allow grocery stores to rely more heavily on part-time
+17 employees, positions which do not provide retail workers with a living wage or access to benefits;
+18 (8) Many retail workers, particularly those with a part-time schedule, qualify and receive
+1 income-based public benefits such as food stamps (currently known as Supplemental Nutrition
+2 Assistance Program benefits or "SNAP"), and subsidized healthcare;
+3 (9) Because people of color are overrepresented in cashier positions, which is the lowest
+4 paid position in retail businesses, the increasing use of self-service checkouts has a disproportionate
+5 negative impact on people of color.
+6 SECTION 2. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+7 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+8 CHAPTER 61
+9 GROCERY STORES
+10 6-61-1. Definitions.
+11 As used in this chapter:
+12 (1) "Grocery store" means a retail store in the State of Rhode Island that earns the majority
+13 of its gross income from the retail sale of groceries and sells primarily household foodstuffs for off-
+14 site consumption, including the sale of fresh produce, meats, poultry, fish, deli products, dairy
+15 products, canned foods, dry foods, beverages, baked goods or prepared foods. Other household
+16 supplies or other products shall be secondary to the primary purpose of food sales.
+17 (2) "Manual checkout station" provides human assistance to shoppers, scanning, bagging
+18 and accepting payment for their purchases.
+19 (3) "Retail sale" means the sale of groceries to a consumer for use or consumption, and not
+20 for the purpose of resale.
+21 (4) "Self-service checkout" means an automated process that enable shoppers to scan, bag
+22 and pay for their purchases without human assistance.
+23 6-61-2. Restriction on number of self-service checkouts in grocery stores.
+24 Grocery stores shall not have more than six (6) self-service checkout stations operating at
+25 any one time per location.
+26 6-61-3. Minimum manual checkout.
+27 Grocery stores with self-checkout stations shall have a minimum of one manual checkout
+28 station per self-service checkout station.
+29 6-61-4. Enforcement.
+30 (a) The consumer protection unit of the department of attorney general ("CPU") shall have
+31 primary authority to enforce the restrictions of this chapter.
+32 (b) The CPU shall enact rules and regulations as necessary to implement this chapter. The
+33 fine for the first and second violations shall be five hundred ($500) dollars. The fine for third and
+34 subsequent violations shall be one thousand ($1,000) dollars.
+LC002816 - Page 2 of 4
+1 (c) Any Rhode Island resident may file a complaint with the CPU alleging a violation, free
+2 from fear of retaliation.
+3 (d) Any employee alleging retaliation by their employer for making a complaint alleging
+4 violations of this chapter may bring a cause of action in Rhode Island superior court.
+5 (e) Any Rhode Island consumer alleging a violation of this chapter may file a complaint
+6 with the CPU. Retaliation against a consumer for complaining about a violation of this chapter shall
+7 be an unlawful trade practice.
+8 6-61-5. Severability.
+9 If any part, section or provision of this chapter is found unconstitutional, illegal or invalid,
+10 such a finding will affect only that part, section or provision of this chapter and the remaining parts,
+11 sections or provisions shall remain in full force and effect.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC002816
+========
+LC002816 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+GROCERY STORES
+***
+1 This act would require grocery stores to specifically limit the number of self-service
+2 checkout units to six (6) units per location. The consumer protection unit of the department of
+3 attorney general would have authority to enforce these restrictions.
+4 This act would take effect upon passage.
+========
+LC002816
+========
+LC002816 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S T ( s ( a ( t ( c ( g ( p s ( S c a g s t r m h o p e (]
+[DELETED:  i A ( p n S R C G 6 A ( o s p s ( a ( f ( a 6 G a 6 G s 6 ( p ( f s]
+[DELETED:  ( f ( v ( w b 6 I s s S]
+[DELETED:  T a w r g s t s l t n o s c a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6282
+========
+LC002816
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+GROCERY STORES
+Introduced By: Representatives Cotter, Carson, Donovan, Potter, Morales, Serpa, and
+Ajello
+Date Introduced: April 30, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings.
+2 The general assembly finds and declares that:
+3 (1) Grocery stores provide many people with their primary place of social connection and
+4 sense of community. This activity is particularly true for the elderly;
+5 (2) The increasing use of self-service checkouts, where the customer does not interact with
+6 a human, contributes to social isolation and related negative health consequences;
+7 (3) Elderly customers and customers with disabilities often lack the confidence or ability
+8 to use self-service checkouts;
+9 (4) Self-service checkouts increase the risk for shoplifting, credit card theft and hacking of
+10 customers' personal information;
+11 (5) Self-service checkouts essentially turn customers into unpaid employees and allows
+12 grocery retailers to decrease labor costs and actual customer service;
+13 (6) Self-service checkouts contribute to retail workers feeling devalued and adds efficiency
+14 pressures on workers as well as encourages grocery stores to allow longer lines for check-out stands
+15 staffed by a cashier to encourage customers to use the self-service checkout;
+16 (7) Self-service checkouts allow grocery stores to rely more heavily on part-time
+17 employees, positions which do not provide retail workers with a living wage or access to benefits;
+18 (8) Many retail workers, particularly those with a part-time schedule, qualify and receive
+
+1 income-based public benefits such as food stamps (currently known as Supplemental Nutrition
+2 Assistance Program benefits or "SNAP"), and subsidized healthcare;
+3 (9) Because people of color are overrepresented in cashier positions, which is the lowest
+4 paid position in retail businesses, the increasing use of self-service checkouts has a disproportionate
+5 negative impact on people of color.
+6 SECTION 2. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+7 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+8 CHAPTER 61
+9 GROCERY STORES
+10 6-61-1. Definitions.
+11 As used in this chapter:
+12 (1) "Grocery store" means a retail store in the State of Rhode Island that earns the majority
+13 of its gross income from the retail sale of groceries and sells primarily household foodstuffs for off-
+14 site consumption, including the sale of fresh produce, meats, poultry, fish, deli products, dairy
+15 products, canned foods, dry foods, beverages, baked goods or prepared foods. Other household
+16 supplies or other products shall be secondary to the primary purpose of food sales.
+17 (2) "Manual checkout station" provides human assistance to shoppers, scanning, bagging
+18 and accepting payment for their purchases.
+19 (3) "Retail sale" means the sale of groceries to a consumer for use or consumption, and not
+20 for the purpose of resale.
+21 (4) "Self-service checkout" means an automated process that enable shoppers to scan, bag
+22 and pay for their purchases without human assistance.
+23 6-61-2. Restriction on number of self-service checkouts in grocery stores.
+24 Grocery stores shall not have more than six (6) self-service checkout stations operating at
+25 any one time per location.
+26 6-61-3. Minimum manual checkout.
+27 Grocery stores with self-checkout stations shall have a minimum of one manual checkout
+28 station per self-service checkout station.
+29 6-61-4. Enforcement.
+30 (a) The consumer protection unit of the department of attorney general ("CPU") shall have
+31 primary authority to enforce the restrictions of this chapter.
+32 (b) The CPU shall enact rules and regulations as necessary to implement this chapter. The
+33 fine for the first and second violations shall be five hundred ($500) dollars. The fine for third and
+34 subsequent violations shall be one thousand ($1,000) dollars.
+LC002816 - Page 2 of 4
+
+1 (c) Any Rhode Island resident may file a complaint with the CPU alleging a violation, free
+2 from fear of retaliation.
+3 (d) Any employee alleging retaliation by their employer for making a complaint alleging
+4 violations of this chapter may bring a cause of action in Rhode Island superior court.
+5 (e) Any Rhode Island consumer alleging a violation of this chapter may file a complaint
+6 with the CPU. Retaliation against a consumer for complaining about a violation of this chapter shall
+7 be an unlawful trade practice.
+8 6-61-5. Severability.
+9 If any part, section or provision of this chapter is found unconstitutional, illegal or invalid,
+10 such a finding will affect only that part, section or provision of this chapter and the remaining parts,
+11 sections or provisions shall remain in full force and effect.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC002816
+========
+LC002816 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+GROCERY STORES
+***
+1 This act would require grocery stores to specifically limit the number of self-service
+2 checkout units to six (6) units per location. The consumer protection unit of the department of
+3 attorney general would have authority to enforce these restrictions.
+4 This act would take effect upon passage.
+========
+LC002816
+========
+LC002816 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S T ( s ( a ( t ( c ( g ( p s ( S c a g s t r m h o p e (]
+[DELETED:  i A ( p n S R C G 6 A ( o s p s ( a ( f ( a 6 G a 6 G s 6 ( p ( f s]
+[DELETED:  ( f ( v ( w b 6 I s s S]
+[DELETED:  T a w r g s t s l t n o s c a T]

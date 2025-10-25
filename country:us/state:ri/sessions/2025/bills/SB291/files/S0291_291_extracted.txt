@@ -1,0 +1,177 @@
+Title: Introduced By: Senators Kallman, Acosta, Lauria, Mack, and Bissaillon
+Official Title: Introduced By: Senators Kallman, Acosta, Lauria, Mack, and Bissaillon
+Number of Sections: 1
+Source: versions - 291
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0291
+========
+LC000174
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- ARREST
+Date Introduced: February 13, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-7 of the General Laws entitled "Arrest" is hereby amended by
+2 adding thereto the following section:
+3 12-7-23. Limitations on civil arrests.
+4 (a) Except as provided in subsection (b) of this section or for a crime committed and
+5 witnessed in the immediate presence of a law enforcement officer, no person shall be arrested while
+6 in the act of seeking immediate access to the courts or a judicial proceeding.
+7 (b) A person duly and in good faith attending a court proceeding in which the person is a
+8 party or potential witness, or a family or household member is a party or potential witness, is
+9 privileged from civil arrest while going to, remaining at, and returning from, the place of the court
+10 proceeding, unless the arrest is supported by an arrest warrant issued by a court of competent
+11 jurisdiction or other judicial order authorizing a criminal or civil arrest. Evidence of intent to attend
+12 a court proceeding shall include, but not be limited to, providing a copy of a complaint, summons,
+13 subpoena or documents involving the person or a family or household member relative to a
+14 contemporaneously scheduled court hearing.
+15 (c) It shall constitute contempt of the court and false imprisonment for any person to
+16 willfully violate this section by executing an arrest prohibited by this section or willfully assisting
+17 or willfully facilitating an arrest prohibited by this section; provided, however, that nothing herein
+18 shall affect any right or defense of any person, police officer, peace officer or public officer for an
+19 arrest made in good faith.
+1 (d) Regardless of whether a proceeding for contempt of the court pursuant to subsection
+2 (c) of this section has been initiated:
+3 (1) A person arrested in violation of this section may bring a civil action for appropriate
+4 equitable and declaratory relief;
+5 (2) The department of attorney general may bring an action on behalf of the person arrested
+6 and/or on behalf of the court in the court's discretion; and
+7 (3) In any successful action brought pursuant to the provision of this section, the person
+8 shall be entitled to reasonable attorneys' fees.
+9 (e) Nothing contained in this section shall be construed to narrow or in any way lessen any
+10 common law or other right or privilege of a person to be free from unlawful arrest.
+11 (f) As used in this section:
+12 (1) "Civil arrest" means an arrest that is not for the sole or primary purpose of preparing
+13 the person subject to arrest for a violation of criminal law for which a duly authorized arrest warrant
+14 has been executed by a judge of this state, any other state or by a federal judge or magistrate for
+15 which a term of imprisonment is authorized by law.
+16 (2) "Court proceeding" means any appearance in a court of this state before any judge or
+17 magistrate or other judicial officer or a hearing scheduled by any judicial officer, including clerks
+18 of the court, or the filing of any papers, petitions or requests for relief designed to initiate an
+19 appearance before any judge, magistrate or judicial officer.
+20 (3) "Family or household member" shall have their ordinary meanings and shall mean
+21 anyone related by blood or marriage and any persons who are co-habiting.
+22 (g) If any provision of this section or the application thereof to any person or circumstances
+23 is held invalid, such invalidity shall not affect other provisions or applications of this section, which
+24 can be given effect without the invalid provision or application, and to this end, the provisions of
+25 this section are declared to be severable.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC000174
+========
+LC000174 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- ARREST
+***
+1 This act would prohibit the civil arrest of any person who is attending court either on behalf
+2 of themselves or a family or household member. Any person who violates this act would be subject
+3 to civil suit, and for contempt of court.
+4 This act would take effect upon passage.
+========
+LC000174
+========
+LC000174 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( w i ( p p p j a s o d i t p o a f o h m r t a c ( w o s a]
+[DELETED:  ( ( ( e ( a ( s ( c ( ( t h w ( m o a ( a ( i c t S]
+[DELETED:  T o t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0291
+========
+LC000174
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- ARREST
+Introduced By: Senators Kallman, Acosta, Lauria, Mack, and Bissaillon
+Date Introduced: February 13, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-7 of the General Laws entitled "Arrest" is hereby amended by
+2 adding thereto the following section:
+3 12-7-23. Limitations on civil arrests.
+4 (a) Except as provided in subsection (b) of this section or for a crime committed and
+5 witnessed in the immediate presence of a law enforcement officer, no person shall be arrested while
+6 in the act of seeking immediate access to the courts or a judicial proceeding.
+7 (b) A person duly and in good faith attending a court proceeding in which the person is a
+8 party or potential witness, or a family or household member is a party or potential witness, is
+9 privileged from civil arrest while going to, remaining at, and returning from, the place of the court
+10 proceeding, unless the arrest is supported by an arrest warrant issued by a court of competent
+11 jurisdiction or other judicial order authorizing a criminal or civil arrest. Evidence of intent to attend
+12 a court proceeding shall include, but not be limited to, providing a copy of a complaint, summons,
+13 subpoena or documents involving the person or a family or household member relative to a
+14 contemporaneously scheduled court hearing.
+15 (c) It shall constitute contempt of the court and false imprisonment for any person to
+16 willfully violate this section by executing an arrest prohibited by this section or willfully assisting
+17 or willfully facilitating an arrest prohibited by this section; provided, however, that nothing herein
+18 shall affect any right or defense of any person, police officer, peace officer or public officer for an
+19 arrest made in good faith.
+
+1 (d) Regardless of whether a proceeding for contempt of the court pursuant to subsection
+2 (c) of this section has been initiated:
+3 (1) A person arrested in violation of this section may bring a civil action for appropriate
+4 equitable and declaratory relief;
+5 (2) The department of attorney general may bring an action on behalf of the person arrested
+6 and/or on behalf of the court in the court's discretion; and
+7 (3) In any successful action brought pursuant to the provision of this section, the person
+8 shall be entitled to reasonable attorneys' fees.
+9 (e) Nothing contained in this section shall be construed to narrow or in any way lessen any
+10 common law or other right or privilege of a person to be free from unlawful arrest.
+11 (f) As used in this section:
+12 (1) "Civil arrest" means an arrest that is not for the sole or primary purpose of preparing
+13 the person subject to arrest for a violation of criminal law for which a duly authorized arrest warrant
+14 has been executed by a judge of this state, any other state or by a federal judge or magistrate for
+15 which a term of imprisonment is authorized by law.
+16 (2) "Court proceeding" means any appearance in a court of this state before any judge or
+17 magistrate or other judicial officer or a hearing scheduled by any judicial officer, including clerks
+18 of the court, or the filing of any papers, petitions or requests for relief designed to initiate an
+19 appearance before any judge, magistrate or judicial officer.
+20 (3) "Family or household member" shall have their ordinary meanings and shall mean
+21 anyone related by blood or marriage and any persons who are co-habiting.
+22 (g) If any provision of this section or the application thereof to any person or circumstances
+23 is held invalid, such invalidity shall not affect other provisions or applications of this section, which
+24 can be given effect without the invalid provision or application, and to this end, the provisions of
+25 this section are declared to be severable.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC000174
+========
+LC000174 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- ARREST
+***
+1 This act would prohibit the civil arrest of any person who is attending court either on behalf
+2 of themselves or a family or household member. Any person who violates this act would be subject
+3 to civil suit, and for contempt of court.
+4 This act would take effect upon passage.
+========
+LC000174
+========
+LC000174 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( w i ( p p p j a s o d i t p o a f o h m r t a c ( w o s a]
+[DELETED:  ( ( ( e ( a ( s ( c ( ( t h w ( m o a ( a ( i c t S]
+[DELETED:  T o t T]

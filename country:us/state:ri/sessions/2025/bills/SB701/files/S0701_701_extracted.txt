@@ -1,0 +1,895 @@
+Title: Introduced By: Senators Lauria, Valverde, Euer, Ujifusa, DiMario, Lawson, Pearson, and
+Official Title: Introduced By: Senators Lauria, Valverde, Euer, Ujifusa, DiMario, Lawson, Pearson, and
+Number of Sections: 1
+Source: versions - 701
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0701
+========
+LC001654
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+Murray
+Date Introduced: March 07, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-34-3 of the General Laws in Chapter 5-34 entitled "Nurses" is
+2 hereby amended to read as follows:
+3 5-34-3. Definitions.
+4 As used in this chapter:
+5 (1) “Advanced practice registered nurse” (APRN) is the title given to an individual licensed
+6 to practice advanced practice registered nursing within one of the following roles: certified nurse
+7 practitioner (CNP), certified registered nurse anesthetist (CRNA) as defined in chapter 34.2 of this
+8 title, or certified clinical nurse specialist (CNS), and who functions in a population focus. An APRN
+9 may serve as a primary- or acute-care provider of record.
+10 (2) “Advanced practice registered nursing” means an independent and expanded scope of
+11 nursing in a role and population focus approved by the board of nurse registration and nursing
+12 education that includes the registered nurse scope of practice and may include, but is not limited
+13 to, performing acts of advanced assessment, diagnosing, prescribing, and ordering. Each APRN is
+14 accountable to patients, the nursing profession, and the board of nursing for complying with the
+15 requirements of this chapter and the quality of advanced nursing care rendered; recognizing limits
+16 of knowledge and experience; planning for the management of situations beyond the APRN’s
+17 expertise; and for consulting with or referring patients to other healthcare providers as appropriate.
+18 (3) “Approval” means the process where the board of nursing evaluates and grants official
+19 recognition to basic nursing education programs meeting established criteria and standards.
+1 (4) “Certified clinical nurse specialist” is an advanced practice registered nurse who
+2 independently provides care to clients; facilitates attainment of health goals; and provides
+3 innovation in nursing practice, based on clinical expertise, evidence-based decision-making, and
+4 leadership skills. The clinical nurse specialist practices with individual clients and populations;
+5 nurses, and other multidisciplinary team members; and organizations to effect systemwide changes
+6 to improve programs of care. The practice may include prescriptive privileges.
+7 (5) “Certified nurse practitioner” is an advanced practice nurse utilizing independent
+8 knowledge of physical assessment, diagnosis, and management of health care and illnesses. The
+9 practice includes prescriptive privileges. Certified nurse practitioners are members of the healthcare
+10 delivery system practicing in areas including, but not limited to: family practice, pediatrics, adult
+11 health care, geriatrics, and women’s health care in primary, acute, long-term, and critical-care
+12 settings in healthcare facilities and the community. Certified nurse practitioners may be recognized
+13 as the primary-care provider or acute-care provider of record.
+14 (6) “Certified registered nurse anesthetist” is as defined in chapter 34.2 of this title (“Nurse
+15 Anesthetist”).
+16 (7) “Department” means the department of health.
+17 (8) “Health” means optimum well-being.
+18 (9) “Health care” means those services provided to promote the optimum well-being of
+19 individuals.
+20 (10) “Licensed” means the status of qualified individuals who have completed a designated
+21 process by which the board of nursing grants permission to individuals accountable and/or
+22 responsible for the practice of nursing and to engage in that practice, prohibiting all others from
+23 legally doing so.
+24 (11) “Nursing” means the provision of services that are essential to the promotion,
+25 maintenance, and restoration of health throughout the continuum of life. It provides care and
+26 support of individuals and families during periods of wellness, illness, and injury, and incorporates
+27 the appropriate healthcare plan of care prescribed by a licensed advanced practice registered nurse,
+28 certified nurse midwife, licensed physician, dentist, or podiatrist. It is a distinct component of health
+29 services. Nursing practice is based on specialized knowledge, judgment, and nursing skills acquired
+30 through educational preparation in nursing and in the biological, physical, social, and behavioral
+31 sciences.
+32 (12) “Population foci” means focus of the patient population. Population focus shall
+33 include:
+34 (i) Family/Individual across the lifespan;
+LC001654 - Page 2 of 13
+1 (ii) Adult-gerontology;
+2 (iii) Neonatal;
+3 (iv) Pediatrics;
+4 (v) Women’s health/gender-related; and
+5 (vi) Psychiatric/mental health.
+6 (13) “Practical nursing” is practiced by licensed practical nurses (L.P.N.s). It is an integral
+7 part of nursing based on a knowledge and skill level commensurate with education. It includes
+8 promotion, maintenance, and restoration of health and utilizes standardized procedures leading to
+9 predictable outcomes that are in accord with the professional nurse regimen under the direction of
+10 a registered nurse. In situations where registered nurses are not employed, the licensed practical
+11 nurse functions under the direction of a licensed physician, dentist, podiatrist, or other licensed
+12 healthcare providers authorized by law to prescribe. Each L.P.N. is responsible for the nursing care
+13 rendered.
+14 (14) “Professional nursing” is practiced by registered nurses (R.N.s). The practice of
+15 professional nursing is a dynamic process of assessment of an individual’s health status;
+16 identification of healthcare needs; determination of healthcare goals with the individual and/or
+17 family participation; and the development of a plan of nursing care to achieve these goals. Nursing
+18 actions, including teaching and counseling, are directed toward the promotion, maintenance, and
+19 restoration of health and evaluation of the individual’s response to nursing actions and the medical
+20 regimen of care. The professional nurse provides care and support of individuals and families
+21 during periods of wellness and injury and incorporates, where appropriate, the medical plan of care
+22 as prescribed by a licensed physician, dentist, podiatrist, or other licensed healthcare providers
+23 authorized by law to prescribe. Each R.N. is directly accountable and responsible to the consumer
+24 for the nursing care rendered.
+25 (15) “Psychiatric and mental health nurse clinical specialist” is a certified clinical nurse
+26 specialist working in the population foci of psychiatric/mental health as an advanced practice nurse
+27 utilizing independent knowledge in psychiatric mental-health assessment; diagnosis, health
+28 promotion, psychotherapeutic modalities, and management of mental health and illnesses. The
+29 practice may include prescription privileges within their scope of practice. The practice may also
+30 include consultation and education.
+31 (16) “Telemedicine” has the meaning as provided in § 27-81-3.
+32 SECTION 2. Chapter 5-34 of the General Laws entitled "Nurses" is hereby amended by
+33 adding thereto the following section:
+34 5-34-51. Telemedicine in the practice of medicine for advanced practice registered
+LC001654 - Page 3 of 13
+1 nurses.
+2 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+3 medicine shall be subject to the same standard of care that would apply to the provision of the same
+4 medical care service or procedure in an in-person setting.
+5 (b) The board of nursing shall not sanction an APRN solely because the healthcare service
+6 is provided through telemedicine and is not provided through in-person consultation or contact;
+7 provided that, the healthcare service is necessary and medically and clinically appropriate to be
+8 provided through telemedicine services.
+9 (c) When another state or territory seeks to sanction a Rhode Island licensed APRN for
+10 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+11 which the APRN is not licensed, the board of nursing shall not sanction the APRN based on the
+12 delivery of service via telemedicine; provided that, the following conditions are met:
+13 (1) The patient is an established patient or the APRN is covering a provider with the
+14 established patient-provider relationship; and
+15 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+16 APRN or the provider for whom the APRN is providing coverage.
+17 (d) The state shall not require an APRN who uses telemedicine in the practice of medicine
+18 to be licensed or registered in the state in accordance with state law when the following conditions
+19 are met:
+20 (1) The APRN is licensed as an APRN or its equivalent in a state or territory of the United
+21 States of America;
+22 (2) The license is in good standing and without restriction;
+23 (3) The APRN has professional liability insurance coverage for any care provided to a
+24 person while the person is located in Rhode Island; and
+25 (4) There is an established patient-provider relationship and the patient has been seen in-
+26 person within the previous twenty-four (24) months by the APRN; or
+27 (5) The patient has been referred to the APRN for purposes other than direct diagnosis or
+28 treatment by an in-state provider who retains authority and responsibility for the patient’s care, and
+29 the APRN makes all recommendations to the in-state provider after communicating with the
+30 patient; or
+31 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+32 treatment of a new patient who will be seen in person within the next three (3) months, and the
+33 APRN does not directly diagnose or treat the patient until the patient is seen in person. The APRN
+34 may make a request or recommendation to a Rhode Island licensed provider who has treated the
+LC001654 - Page 4 of 13
+1 patient in person, whether or not the Rhode Island provider referred the patient to the APRN;
+2 however, the Rhode Island provider has no obligation to accept a request or recommendation from
+3 an APRN who has not fully evaluated the patient.
+4 (e) In all cases, the Rhode Island board of nursing shall have jurisdiction in evaluating
+5 whether an APRN has conformed to the standards of care and conduct applicable to a Rhode Island
+6 licensed provider when telemedicine service is provided to a patient while the patient is located
+7 within the state.
+8 (f) In all cases, an APRN who delivers telemedicine service to a patient who is located in
+9 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+10 courts.
+11 SECTION 3. Section 5-37-1 of the General Laws in Chapter 5-37 entitled "Board of
+12 Medical Licensure and Discipline" is hereby amended to read as follows:
+13 5-37-1. Definitions.
+14 As used in this chapter:
+15 (1) “Board” means the Rhode Island board of medical licensure and discipline or any
+16 committee or subcommittee thereof.
+17 (2) “Chief administrative officer” means the administrator of the Rhode Island board of
+18 medical licensure and discipline.
+19 (3) “Department” means the Rhode Island department of health.
+20 (4) “Director” means the director of the Rhode Island department of health.
+21 (5) “Healthcare facility” means any institutional health-service provider licensed pursuant
+22 to the provisions of chapter 17 of title 23.
+23 (6) “Health-maintenance organization” means a public or private organization licensed
+24 pursuant to the provisions of chapter 17 of title 23 or chapter 41 of title 27.
+25 (7) “Limited registrant” means a person holding a limited-registration certificate pursuant
+26 to the provisions of this chapter.
+27 (8) “Medical malpractice” or “malpractice” means any tort, or breach of contract, based on
+28 health care or professional services rendered or that should have been rendered, by a physician,
+29 dentist, hospital, clinic, health-maintenance organization, or professional service corporation
+30 providing healthcare services and organized under chapter 5.1 of title 7, to a patient or the rendering
+31 of medically unnecessary services except at the informed request of the patient.
+32 (9) “Medical-practice group” means a single legal entity formed primarily for the purpose
+33 of being a physician group practice in any organizational form recognized by the state in which the
+34 group practice achieves its legal status, including, but not limited to, a partnership, professional
+LC001654 - Page 5 of 13
+1 corporation, limited-liability company, limited-liability partnership, foundation, not-for-profit
+2 corporation, faculty practice plan, or similar association.
+3 (10) “Medical record” means a record of a patient’s medical information and treatment
+4 history maintained by physicians and other medical personnel, which includes, but is not limited
+5 to, information related to medical diagnosis, immunizations, allergies, x-rays, copies of laboratory
+6 reports, records of prescriptions, and other technical information used in assessing the patient’s
+7 health condition, whether such information is maintained in a paper or electronic format.
+8 (11) “Nonprofit medical-services corporation” or “nonprofit hospital-service corporation”
+9 means any corporation organized pursuant to chapter 19 or chapter 20 of title 27 for the purpose of
+10 establishing, maintaining, and operating a nonprofit medical-service plan.
+11 (12)(i) “Peer-review board” means any committee of a state or local professional
+12 association or society including a hospital association, or a committee of any licensed healthcare
+13 facility, or the medical staff thereof, or any committee of a medical-care foundation or health-
+14 maintenance organization, or any committee of a professional-service corporation or nonprofit
+15 corporation employing twenty (20) or more practicing professionals, organized for the purpose of
+16 furnishing medical service, or any staff committee or consultant of a hospital-service or medical-
+17 service corporation, the function of which, or one of the functions of which, is to evaluate and
+18 improve the quality of health care rendered by providers of healthcare services or to determine that
+19 healthcare services rendered were professionally indicated or were performed in compliance with
+20 the applicable standard of care or that the cost of health care rendered was considered reasonable
+21 by the providers of professional healthcare services in the area and shall include a committee
+22 functioning as a utilization-review committee under the provisions of 42 U.S.C. § 1395 et seq.
+23 (Medicare law) or as a professional-standards review organization or statewide professional-
+24 standards review council under the provisions of 42 U.S.C. § 1301 et seq. (professional-standards
+25 review organizations) or a similar committee or a committee of similar purpose, to evaluate or
+26 review the diagnosis or treatment of the performance or rendition of medical or hospital services
+27 that are performed under public medical programs of either state or federal design.
+28 (ii) “Peer-review board” also means the board of trustees or board of directors of a state or
+29 local professional association or society, a licensed healthcare facility, a medical-care foundation,
+30 a health-maintenance organization, and a hospital-service or medical-service corporation only
+31 when such board of trustees or board of directors is reviewing the proceedings, records, or
+32 recommendations of a peer-review board of the above enumerated organizations.
+33 (13) “Person” means any individual, partnership, firm, corporation, association, trust or
+34 estate, state or political subdivision, or instrumentality of a state.
+LC001654 - Page 6 of 13
+1 (14) “Physician” means a person with a license to practice allopathic or osteopathic
+2 medicine in this state under the provisions of this chapter.
+3 (15) “Practice of medicine” includes the practice of allopathic and osteopathic medicine.
+4 Any person is regarded as practicing medicine within the meaning of this chapter who holds himself
+5 or herself out as being able to diagnose, treat, operate, or prescribe for any person ill or alleged to
+6 be ill with disease, pain, injury, deformity, or abnormal physical or mental condition, or who either
+7 professes to heal, offer, or undertake, by any means or method, to diagnose, treat, operate, or
+8 prescribe for any person for disease, pain, injury, deformity, or physical or mental condition. In
+9 addition, one who attaches the title, M.D., physician, surgeon, D.O., osteopathic physician, and
+10 surgeon, or any other similar word or words or abbreviation to his or her name indicating that he
+11 or she is engaged in the treatment or diagnosis of the diseases, injuries, or conditions of persons,
+12 shall be held to be engaged in the practice of medicine.
+13 (16) “Telemedicine” has the meaning as provided in § 27-81-3.
+14 SECTION 4. Chapter 5-37 of the General Laws entitled "Board of Medical Licensure and
+15 Discipline" is hereby amended by adding thereto the following section:
+16 5-37-34. Telemedicine in the practice of medicine for physicians.
+17 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+18 medicine shall be subject to the same standard of care that would apply to the provision of the same
+19 medical care service or procedure in an in-person setting.
+20 (b) The board of medical licensure and discipline shall not sanction a physician solely
+21 because the healthcare service is provided through telemedicine and is not provided through in-
+22 person consultation or contact; provided that, the healthcare service is necessary and medically and
+23 clinically appropriate to be provided through telemedicine services.
+24 (c) When another state or territory seeks to sanction a Rhode Island licensed physician for
+25 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+26 which the physician is not licensed, the board of medical licensure and discipline shall not sanction
+27 the physician based on the delivery of service via telemedicine; provided that, the following
+28 conditions are met:
+29 (1) The patient is an established patient or the physician is covering a provider with the
+30 established patient-provider relationship; and
+31 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+32 Rhode Island licensed physician or the provider for whom the physician is providing coverage.
+33 (d) The state shall not require a physician who uses telemedicine in the practice of medicine
+34 to be licensed or registered in the state in accordance with state law when the following conditions
+LC001654 - Page 7 of 13
+1 are met:
+2 (1) The physician is licensed as an osteopathic or allopathic physician in a state or territory
+3 of the United States of America;
+4 (2) The license is in good standing and without restriction;
+5 (3) The physician has professional liability insurance coverage for any care provided to a
+6 person while the person is located in Rhode Island; and
+7 (4) There is an established patient-provider relationship and the patient has been seen in
+8 person within the previous twenty-four (24) months by the physician; or
+9 (5) The patient has been referred to the physician for purposes other than direct diagnosis
+10 or treatment by an in-state provider who retains authority and responsibility for the patient’s care,
+11 and the physician makes all recommendations to the in-state provider after communicating with
+12 the patient; or
+13 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+14 treatment of a new patient who will be seen in person within the next three (3) months, and the
+15 physician does not directly diagnose or treat the patient until the patient is seen in person. The
+16 physician may make a request or recommendation to a Rhode Island licensed provider who has
+17 treated the patient in-person, whether or not the Rhode Island provider referred the patient to the
+18 physician; however, the Rhode Island provider has no obligation to accept a request or
+19 recommendation from a physician who has not fully evaluated the patient.
+20 (e) In all cases, the Rhode Island board of medical licensure and discipline shall have
+21 jurisdiction in evaluating whether a physician has conformed to the standards of care and conduct
+22 applicable to a Rhode Island licensed physician when telemedicine service is provided to a patient
+23 while the patient is located within the state.
+24 (f) In all cases, a physician who delivers telemedicine service to a patient who is located in
+25 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+26 courts.
+27 SECTION 5. Section 5-54-2 of the General Laws in Chapter 5-54 entitled "Physician
+28 Assistants" is hereby amended to read as follows:
+29 5-54-2. Definitions.
+30 As used in this chapter, the following words have the following meanings:
+31 (1) “Administrator” means the administrator, division of professional regulation.
+32 (2) “Approved program” means a program for the education and training of physician
+33 assistants formally approved by the American Medical Association’s (A.M.A.’s) Committee on
+34 Allied Health, Education and Accreditation, its successor, the Commission on Accreditation of
+LC001654 - Page 8 of 13
+1 Allied Health Education Programs (CAAHEP) or its successor.
+2 (3) “Approved program for continuing medical education” means a program for continuing
+3 education approved by the American Academy of Physician Assistants (AAPA) or the
+4 Accreditation Council for Continuing Medical Education of the American Medical Association
+5 (AMA), or the American Academy of Family Physicians (AAPFP) or the American Osteopathic
+6 Association Committee on Continuing Medical Education (AOACCME) or any other board-
+7 approved program.
+8 (4) “Board” means the board of licensure of physician assistants.
+9 (5) “Collaboration” means the physician assistant shall, as indicated by the patient’s
+10 condition, the education, competencies, and experience of the physician assistant, and the standards
+11 of care, consult with or refer to an appropriate physician or other healthcare professional. The
+12 degree of collaboration shall be determined by the practice and includes decisions made by a
+13 physician employer, physician group practice, and the credentialing and privileging systems of a
+14 licensed hospital, health center, or ambulatory care center. A physician must be accessible at all
+15 times for consultation by the physician assistant.
+16 (6) “Director” means the director of the department of health.
+17 (7) “Division” means the division of professional regulation, department of health.
+18 (8) [Deleted by P.L. 2013, ch. 320, § 1 and P.L. 2013, ch. 420, § 1.]
+19 (9) “Physician” means a person licensed under the provisions of chapter 29 or 37 of this
+20 title.
+21 (10) “Physician assistant” or “PA” means a person who is qualified by academic and
+22 practical training to provide medical and surgical services in collaboration with physicians.
+23 (11) “Telemedicine” has the meaning as provided in § 27-81-3.
+24 (11)(12) “Unprofessional conduct” includes, but is not limited to, the following items or
+25 any combination and may be defined by regulations established by the board with prior approval
+26 of the director:
+27 (i) Fraudulent or deceptive procuring or use of a license;
+28 (ii) Representation of himself or herself as a physician;
+29 (iii) Conviction of a felony; conviction of a crime arising out of the practice of medicine.
+30 All advertising of medical business that is intended or has a tendency to deceive the public;
+31 (iv) Abandonment of a patient;
+32 (v) Dependence upon a controlled substance, habitual drunkenness, or rendering
+33 professional services to a patient while intoxicated or incapacitated by the use of drugs;
+34 (vi) Promotion of the sale of drugs, devices, appliances, or goods or services provided for
+LC001654 - Page 9 of 13
+1 a patient in a manner that exploits the patient for the financial gain of the physician assistant;
+2 (vii) Immoral conduct of a physician assistant in the practice of medicine;
+3 (viii) Willfully making and filing false reports or records;
+4 (ix) Willful omission to file or record or willfully impeding or obstructing a filing or
+5 recording, or inducing another person to omit to file or record medical or other reports as required
+6 by law;
+7 (x) Agreeing with clinical or bioanalytical laboratories to accept payments from these
+8 laboratories for individual tests or test series for patients;
+9 (xi) Practicing with an unlicensed physician or physician assistant or aiding or abetting
+10 these unlicensed persons in the practice of medicine;
+11 (xii) Offering, undertaking, or agreeing to cure or treat a disease by a secret method,
+12 procedure, treatment, or medicine;
+13 (xiii) Professional or mental incompetence;
+14 (xiv) Surrender, revocation, suspension, limitation of privilege based on quality of care
+15 provided, or any other disciplinary action against a license or authorization to practice in another
+16 state or jurisdiction; or surrender, revocation, suspension, or any other disciplinary action relating
+17 to membership on any medical staff or in any medical professional association, or society while
+18 under disciplinary investigation by any of those authorities or bodies for acts or conduct similar to
+19 acts or conduct that would constitute grounds for action as stated in this chapter;
+20 (xv) Any adverse judgment, settlement, or award arising from a medical liability claim
+21 related to acts or conduct that would constitute grounds for action as stated in this chapter;
+22 (xvi) Failure to furnish the board, the administrator, investigator, or representatives,
+23 information legally requested by the board;
+24 (xvii) Violation of any provisions of this chapter or the rules and regulations promulgated
+25 by the director or an action, stipulation, or agreement of the board;
+26 (xviii) Cheating or attempting to subvert the certifying examination;
+27 (xix) Violating any state or federal law or regulation relating to controlled substances;
+28 (xx) Medical malpractice;
+29 (xxi) Sexual contact between a physician assistant and patient during the existence of the
+30 physician assistant/patient relationship;
+31 (xxii) Providing services to a person who is making a claim as a result of a personal injury,
+32 who charges or collects from the person any amount in excess of the reimbursement to the physician
+33 assistant by the insurer as a condition of providing or continuing to provide services or treatment.
+34 SECTION 6. Chapter 5-37 of the General Laws entitled "Board of Medical Licensure and
+LC001654 - Page 10 of 13
+1 Discipline " is hereby amended by adding thereto the following section:
+2 5-54-29. Telemedicine in the practice of medicine for physician assistants.
+3 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+4 medicine shall be subject to the same standard of care that would apply to the provision of the same
+5 medical care service or procedure in an in-person setting.
+6 (b) The board of medical licensure and discipline shall not sanction a physician solely
+7 because the healthcare service is provided through telemedicine and is not provided through in-
+8 person consultation or contact; provided that, the healthcare service is necessary and medically and
+9 clinically appropriate to be provided through telemedicine services.
+10 (c) When another state or territory seeks to sanction a Rhode Island licensed physician for
+11 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+12 which the physician is not licensed, the board of medical licensure and discipline shall not sanction
+13 the physician based on the delivery of service via telemedicine; provided that, the following
+14 conditions are met:
+15 (1) The patient is an established patient or the physician is covering a provider with the
+16 established patient-provider relationship; and
+17 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+18 Rhode Island licensed physician or the provider for whom the physician is providing coverage.
+19 (d) The state shall not require a physician who uses telemedicine in the practice of medicine
+20 to be licensed or registered in the state in accordance with state law when the following conditions
+21 are met:
+22 (1) The physician is licensed as an osteopathic or allopathic physician in a state or territory
+23 of the United States of America;
+24 (2) The license is in good standing and without restriction;
+25 (3) The physician has professional liability insurance coverage for any care provided to a
+26 person while the person is located in Rhode Island; and
+27 (4) There is an established patient-provider relationship and the patient has been seen in-
+28 person within the previous twenty-four (24) months by the physician; or
+29 (5) The patient has been referred to the physician for purposes other than direct diagnosis
+30 or treatment by an in-state provider who retains authority and responsibility for the patient’s care,
+31 and the physician makes all recommendations to the in-state provider after communicating with
+32 the patient; or
+33 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+34 treatment of a new patient who will be seen in person within the next three (3) months, and the
+LC001654 - Page 11 of 13
+1 physician does not directly diagnose or treat the patient until the patient is seen in person. The
+2 physician may make a request or recommendation to a Rhode Island licensed provider who has
+3 treated the patient in person, whether or not the Rhode Island provider referred the patient to the
+4 physician; however, the Rhode Island provider has no obligation to accept a request or
+5 recommendation from a physician who has not fully evaluated the patient.
+6 (e) In all cases, the Rhode Island board of medical licensure and discipline shall have
+7 jurisdiction in evaluating whether a physician has conformed to the standards of care and conduct
+8 applicable to a Rhode Island licensed physician when telemedicine service is provided to a patient
+9 while the patient is located within the state.
+10 (f) In all cases, a physician who delivers telemedicine service to a patient who is located in
+11 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+12 courts.
+13 SECTION 7. This act shall take effect upon passage.
+========
+LC001654
+========
+LC001654 - Page 12 of 13
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+***
+1 This act would permit advanced practice registered nurses (APRN), physicians, and
+2 physician assistants to provide services to patients located in Rhode Island via telemedicine when
+3 those services are necessary and medically and clinically appropriate. This act would also allow
+4 APRNs, physicians, and physician assistants who are licensed in other states or U.S. territories who
+5 have appropriate professional liability insurance coverage and who are licensed and in good
+6 standing in those jurisdictions to provide telemedicine services to patients who are in Rhode Island
+7 when those services are rendered. Further, this act would bring providers who render telemedicine
+8 services to patients who are in the state when the services are rendered under the jurisdiction of the
+9 state and its courts.
+10 This act would take effect upon passage.
+========
+LC001654
+========
+LC001654 - Page 13 of 13
+[DELETED: TATE  OF  RHODE  ISLAND S h 5 A ( t p t m ( n e t a r o e ( r]
+[DELETED:  ( “ c n s i a a p r n w i p c t c f a o h g a p i l n t ( “ n p i a a p n u i k p d h s a ( A ( ( ( i ( p b w t b o n g p t i a a r l ( “ m t p o s t a e t t p m s t c s t s ( “ f m f o t p p P f s i (]
+[DELETED:  ( ( ( ( ( ( p p p a n h r ( “ n i p b r n ( T p o p n i a d p o a o a i h s i f a r r d a a f ( s u i k i p m a d h p p i ( S a 5]
+[DELETED:  n ( P l u t c w u t i t p o m m ( i p p ( p w d ( e ( A ( t a ( S ( ( p ( p ( t t A m a r t t i p a c w t p ( t A m]
+[DELETED:  p h a ( w l w ( t c S M 5 A ( c ( m ( ( ( t ( p ( t ( h d h c h o o p s c p o ( o g]
+[DELETED:  c l c l p f n c ( h t r h ( m e ( “ b m a c o a s o l p a f m c f s i h t b f ( l o a a p r o o s p s r r t ( l a h o a a h o m c o w s b o t o b o d i r t p r o r ( e]
+[DELETED:  ( “ m a p w a l t p a o o m ( A o b p p a s o s ( S D 5 ( P l u t c w u t i t p o m m ( b p c ( p w t p b o t d o s v t p t t f c ( e ( R ( t]
+[DELETED:  a ( o ( ( p ( p ( o a t ( t p p t p h t R I p h n o t a a r o r ( j a w ( t c S A 5 A ( ( a A]
+[DELETED:  A ( e a b t A A o P A ( o t A ( A C o C M E ( o a o b a ( ( “ m t p a s a i b t p c o d p l t ( ( ( ( t ( p ( ( a o ( ( ( A ( ( D u a c s h d o r p (]
+[DELETED:  a ( ( ( r b ( l ( t ( p ( ( p s t u a ( r ( F t f t b t a i o r i ( b ( ( ( ( p ( w a S]
+[DELETED:  D 5 ( P l u t c w u t i t p o m m ( b p c ( p w t p b o t d o s v t p t t f c ( e ( R ( t a ( o ( ( p ( p ( o a t ( t]
+[DELETED:  p p t p h t R I p h n o t a a r o r ( j a w ( t c S]
+[DELETED:  T a w p a p r n ( p a p t A h a p l i c a w a l a i g s w s s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0701
+========
+LC001654
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+Introduced By: Senators Lauria, Valverde, Euer, Ujifusa, DiMario, Lawson, Pearson, and
+Murray
+Date Introduced: March 07, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-34-3 of the General Laws in Chapter 5-34 entitled "Nurses" is
+2 hereby amended to read as follows:
+3 5-34-3. Definitions.
+4 As used in this chapter:
+5 (1) “Advanced practice registered nurse” (APRN) is the title given to an individual licensed
+6 to practice advanced practice registered nursing within one of the following roles: certified nurse
+7 practitioner (CNP), certified registered nurse anesthetist (CRNA) as defined in chapter 34.2 of this
+8 title, or certified clinical nurse specialist (CNS), and who functions in a population focus. An APRN
+9 may serve as a primary- or acute-care provider of record.
+10 (2) “Advanced practice registered nursing” means an independent and expanded scope of
+11 nursing in a role and population focus approved by the board of nurse registration and nursing
+12 education that includes the registered nurse scope of practice and may include, but is not limited
+13 to, performing acts of advanced assessment, diagnosing, prescribing, and ordering. Each APRN is
+14 accountable to patients, the nursing profession, and the board of nursing for complying with the
+15 requirements of this chapter and the quality of advanced nursing care rendered; recognizing limits
+16 of knowledge and experience; planning for the management of situations beyond the APRN’s
+17 expertise; and for consulting with or referring patients to other healthcare providers as appropriate.
+18 (3) “Approval” means the process where the board of nursing evaluates and grants official
+19 recognition to basic nursing education programs meeting established criteria and standards.
+
+1 (4) “Certified clinical nurse specialist” is an advanced practice registered nurse who
+2 independently provides care to clients; facilitates attainment of health goals; and provides
+3 innovation in nursing practice, based on clinical expertise, evidence-based decision-making, and
+4 leadership skills. The clinical nurse specialist practices with individual clients and populations;
+5 nurses, and other multidisciplinary team members; and organizations to effect systemwide changes
+6 to improve programs of care. The practice may include prescriptive privileges.
+7 (5) “Certified nurse practitioner” is an advanced practice nurse utilizing independent
+8 knowledge of physical assessment, diagnosis, and management of health care and illnesses. The
+9 practice includes prescriptive privileges. Certified nurse practitioners are members of the healthcare
+10 delivery system practicing in areas including, but not limited to: family practice, pediatrics, adult
+11 health care, geriatrics, and women’s health care in primary, acute, long-term, and critical-care
+12 settings in healthcare facilities and the community. Certified nurse practitioners may be recognized
+13 as the primary-care provider or acute-care provider of record.
+14 (6) “Certified registered nurse anesthetist” is as defined in chapter 34.2 of this title (“Nurse
+15 Anesthetist”).
+16 (7) “Department” means the department of health.
+17 (8) “Health” means optimum well-being.
+18 (9) “Health care” means those services provided to promote the optimum well-being of
+19 individuals.
+20 (10) “Licensed” means the status of qualified individuals who have completed a designated
+21 process by which the board of nursing grants permission to individuals accountable and/or
+22 responsible for the practice of nursing and to engage in that practice, prohibiting all others from
+23 legally doing so.
+24 (11) “Nursing” means the provision of services that are essential to the promotion,
+25 maintenance, and restoration of health throughout the continuum of life. It provides care and
+26 support of individuals and families during periods of wellness, illness, and injury, and incorporates
+27 the appropriate healthcare plan of care prescribed by a licensed advanced practice registered nurse,
+28 certified nurse midwife, licensed physician, dentist, or podiatrist. It is a distinct component of health
+29 services. Nursing practice is based on specialized knowledge, judgment, and nursing skills acquired
+30 through educational preparation in nursing and in the biological, physical, social, and behavioral
+31 sciences.
+32 (12) “Population foci” means focus of the patient population. Population focus shall
+33 include:
+34 (i) Family/Individual across the lifespan;
+LC001654 - Page 2 of 13
+
+1 (ii) Adult-gerontology;
+2 (iii) Neonatal;
+3 (iv) Pediatrics;
+4 (v) Women’s health/gender-related; and
+5 (vi) Psychiatric/mental health.
+6 (13) “Practical nursing” is practiced by licensed practical nurses (L.P.N.s). It is an integral
+7 part of nursing based on a knowledge and skill level commensurate with education. It includes
+8 promotion, maintenance, and restoration of health and utilizes standardized procedures leading to
+9 predictable outcomes that are in accord with the professional nurse regimen under the direction of
+10 a registered nurse. In situations where registered nurses are not employed, the licensed practical
+11 nurse functions under the direction of a licensed physician, dentist, podiatrist, or other licensed
+12 healthcare providers authorized by law to prescribe. Each L.P.N. is responsible for the nursing care
+13 rendered.
+14 (14) “Professional nursing” is practiced by registered nurses (R.N.s). The practice of
+15 professional nursing is a dynamic process of assessment of an individual’s health status;
+16 identification of healthcare needs; determination of healthcare goals with the individual and/or
+17 family participation; and the development of a plan of nursing care to achieve these goals. Nursing
+18 actions, including teaching and counseling, are directed toward the promotion, maintenance, and
+19 restoration of health and evaluation of the individual’s response to nursing actions and the medical
+20 regimen of care. The professional nurse provides care and support of individuals and families
+21 during periods of wellness and injury and incorporates, where appropriate, the medical plan of care
+22 as prescribed by a licensed physician, dentist, podiatrist, or other licensed healthcare providers
+23 authorized by law to prescribe. Each R.N. is directly accountable and responsible to the consumer
+24 for the nursing care rendered.
+25 (15) “Psychiatric and mental health nurse clinical specialist” is a certified clinical nurse
+26 specialist working in the population foci of psychiatric/mental health as an advanced practice nurse
+27 utilizing independent knowledge in psychiatric mental-health assessment; diagnosis, health
+28 promotion, psychotherapeutic modalities, and management of mental health and illnesses. The
+29 practice may include prescription privileges within their scope of practice. The practice may also
+30 include consultation and education.
+31 (16) “Telemedicine” has the meaning as provided in § 27-81-3.
+32 SECTION 2. Chapter 5-34 of the General Laws entitled "Nurses" is hereby amended by
+33 adding thereto the following section:
+34 5-34-51. Telemedicine in the practice of medicine for advanced practice registered
+LC001654 - Page 3 of 13
+
+1 nurses.
+2 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+3 medicine shall be subject to the same standard of care that would apply to the provision of the same
+4 medical care service or procedure in an in-person setting.
+5 (b) The board of nursing shall not sanction an APRN solely because the healthcare service
+6 is provided through telemedicine and is not provided through in-person consultation or contact;
+7 provided that, the healthcare service is necessary and medically and clinically appropriate to be
+8 provided through telemedicine services.
+9 (c) When another state or territory seeks to sanction a Rhode Island licensed APRN for
+10 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+11 which the APRN is not licensed, the board of nursing shall not sanction the APRN based on the
+12 delivery of service via telemedicine; provided that, the following conditions are met:
+13 (1) The patient is an established patient or the APRN is covering a provider with the
+14 established patient-provider relationship; and
+15 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+16 APRN or the provider for whom the APRN is providing coverage.
+17 (d) The state shall not require an APRN who uses telemedicine in the practice of medicine
+18 to be licensed or registered in the state in accordance with state law when the following conditions
+19 are met:
+20 (1) The APRN is licensed as an APRN or its equivalent in a state or territory of the United
+21 States of America;
+22 (2) The license is in good standing and without restriction;
+23 (3) The APRN has professional liability insurance coverage for any care provided to a
+24 person while the person is located in Rhode Island; and
+25 (4) There is an established patient-provider relationship and the patient has been seen in-
+26 person within the previous twenty-four (24) months by the APRN; or
+27 (5) The patient has been referred to the APRN for purposes other than direct diagnosis or
+28 treatment by an in-state provider who retains authority and responsibility for the patient’s care, and
+29 the APRN makes all recommendations to the in-state provider after communicating with the
+30 patient; or
+31 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+32 treatment of a new patient who will be seen in person within the next three (3) months, and the
+33 APRN does not directly diagnose or treat the patient until the patient is seen in person. The APRN
+34 may make a request or recommendation to a Rhode Island licensed provider who has treated the
+LC001654 - Page 4 of 13
+
+1 patient in person, whether or not the Rhode Island provider referred the patient to the APRN;
+2 however, the Rhode Island provider has no obligation to accept a request or recommendation from
+3 an APRN who has not fully evaluated the patient.
+4 (e) In all cases, the Rhode Island board of nursing shall have jurisdiction in evaluating
+5 whether an APRN has conformed to the standards of care and conduct applicable to a Rhode Island
+6 licensed provider when telemedicine service is provided to a patient while the patient is located
+7 within the state.
+8 (f) In all cases, an APRN who delivers telemedicine service to a patient who is located in
+9 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+10 courts.
+11 SECTION 3. Section 5-37-1 of the General Laws in Chapter 5-37 entitled "Board of
+12 Medical Licensure and Discipline" is hereby amended to read as follows:
+13 5-37-1. Definitions.
+14 As used in this chapter:
+15 (1) “Board” means the Rhode Island board of medical licensure and discipline or any
+16 committee or subcommittee thereof.
+17 (2) “Chief administrative officer” means the administrator of the Rhode Island board of
+18 medical licensure and discipline.
+19 (3) “Department” means the Rhode Island department of health.
+20 (4) “Director” means the director of the Rhode Island department of health.
+21 (5) “Healthcare facility” means any institutional health-service provider licensed pursuant
+22 to the provisions of chapter 17 of title 23.
+23 (6) “Health-maintenance organization” means a public or private organization licensed
+24 pursuant to the provisions of chapter 17 of title 23 or chapter 41 of title 27.
+25 (7) “Limited registrant” means a person holding a limited-registration certificate pursuant
+26 to the provisions of this chapter.
+27 (8) “Medical malpractice” or “malpractice” means any tort, or breach of contract, based on
+28 health care or professional services rendered or that should have been rendered, by a physician,
+29 dentist, hospital, clinic, health-maintenance organization, or professional service corporation
+30 providing healthcare services and organized under chapter 5.1 of title 7, to a patient or the rendering
+31 of medically unnecessary services except at the informed request of the patient.
+32 (9) “Medical-practice group” means a single legal entity formed primarily for the purpose
+33 of being a physician group practice in any organizational form recognized by the state in which the
+34 group practice achieves its legal status, including, but not limited to, a partnership, professional
+LC001654 - Page 5 of 13
+
+1 corporation, limited-liability company, limited-liability partnership, foundation, not-for-profit
+2 corporation, faculty practice plan, or similar association.
+3 (10) “Medical record” means a record of a patient’s medical information and treatment
+4 history maintained by physicians and other medical personnel, which includes, but is not limited
+5 to, information related to medical diagnosis, immunizations, allergies, x-rays, copies of laboratory
+6 reports, records of prescriptions, and other technical information used in assessing the patient’s
+7 health condition, whether such information is maintained in a paper or electronic format.
+8 (11) “Nonprofit medical-services corporation” or “nonprofit hospital-service corporation”
+9 means any corporation organized pursuant to chapter 19 or chapter 20 of title 27 for the purpose of
+10 establishing, maintaining, and operating a nonprofit medical-service plan.
+11 (12)(i) “Peer-review board” means any committee of a state or local professional
+12 association or society including a hospital association, or a committee of any licensed healthcare
+13 facility, or the medical staff thereof, or any committee of a medical-care foundation or health-
+14 maintenance organization, or any committee of a professional-service corporation or nonprofit
+15 corporation employing twenty (20) or more practicing professionals, organized for the purpose of
+16 furnishing medical service, or any staff committee or consultant of a hospital-service or medical-
+17 service corporation, the function of which, or one of the functions of which, is to evaluate and
+18 improve the quality of health care rendered by providers of healthcare services or to determine that
+19 healthcare services rendered were professionally indicated or were performed in compliance with
+20 the applicable standard of care or that the cost of health care rendered was considered reasonable
+21 by the providers of professional healthcare services in the area and shall include a committee
+22 functioning as a utilization-review committee under the provisions of 42 U.S.C. § 1395 et seq.
+23 (Medicare law) or as a professional-standards review organization or statewide professional-
+24 standards review council under the provisions of 42 U.S.C. § 1301 et seq. (professional-standards
+25 review organizations) or a similar committee or a committee of similar purpose, to evaluate or
+26 review the diagnosis or treatment of the performance or rendition of medical or hospital services
+27 that are performed under public medical programs of either state or federal design.
+28 (ii) “Peer-review board” also means the board of trustees or board of directors of a state or
+29 local professional association or society, a licensed healthcare facility, a medical-care foundation,
+30 a health-maintenance organization, and a hospital-service or medical-service corporation only
+31 when such board of trustees or board of directors is reviewing the proceedings, records, or
+32 recommendations of a peer-review board of the above enumerated organizations.
+33 (13) “Person” means any individual, partnership, firm, corporation, association, trust or
+34 estate, state or political subdivision, or instrumentality of a state.
+LC001654 - Page 6 of 13
+
+1 (14) “Physician” means a person with a license to practice allopathic or osteopathic
+2 medicine in this state under the provisions of this chapter.
+3 (15) “Practice of medicine” includes the practice of allopathic and osteopathic medicine.
+4 Any person is regarded as practicing medicine within the meaning of this chapter who holds himself
+5 or herself out as being able to diagnose, treat, operate, or prescribe for any person ill or alleged to
+6 be ill with disease, pain, injury, deformity, or abnormal physical or mental condition, or who either
+7 professes to heal, offer, or undertake, by any means or method, to diagnose, treat, operate, or
+8 prescribe for any person for disease, pain, injury, deformity, or physical or mental condition. In
+9 addition, one who attaches the title, M.D., physician, surgeon, D.O., osteopathic physician, and
+10 surgeon, or any other similar word or words or abbreviation to his or her name indicating that he
+11 or she is engaged in the treatment or diagnosis of the diseases, injuries, or conditions of persons,
+12 shall be held to be engaged in the practice of medicine.
+13 (16) “Telemedicine” has the meaning as provided in § 27-81-3.
+14 SECTION 4. Chapter 5-37 of the General Laws entitled "Board of Medical Licensure and
+15 Discipline" is hereby amended by adding thereto the following section:
+16 5-37-34. Telemedicine in the practice of medicine for physicians.
+17 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+18 medicine shall be subject to the same standard of care that would apply to the provision of the same
+19 medical care service or procedure in an in-person setting.
+20 (b) The board of medical licensure and discipline shall not sanction a physician solely
+21 because the healthcare service is provided through telemedicine and is not provided through in-
+22 person consultation or contact; provided that, the healthcare service is necessary and medically and
+23 clinically appropriate to be provided through telemedicine services.
+24 (c) When another state or territory seeks to sanction a Rhode Island licensed physician for
+25 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+26 which the physician is not licensed, the board of medical licensure and discipline shall not sanction
+27 the physician based on the delivery of service via telemedicine; provided that, the following
+28 conditions are met:
+29 (1) The patient is an established patient or the physician is covering a provider with the
+30 established patient-provider relationship; and
+31 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+32 Rhode Island licensed physician or the provider for whom the physician is providing coverage.
+33 (d) The state shall not require a physician who uses telemedicine in the practice of medicine
+34 to be licensed or registered in the state in accordance with state law when the following conditions
+LC001654 - Page 7 of 13
+
+1 are met:
+2 (1) The physician is licensed as an osteopathic or allopathic physician in a state or territory
+3 of the United States of America;
+4 (2) The license is in good standing and without restriction;
+5 (3) The physician has professional liability insurance coverage for any care provided to a
+6 person while the person is located in Rhode Island; and
+7 (4) There is an established patient-provider relationship and the patient has been seen in
+8 person within the previous twenty-four (24) months by the physician; or
+9 (5) The patient has been referred to the physician for purposes other than direct diagnosis
+10 or treatment by an in-state provider who retains authority and responsibility for the patient’s care,
+11 and the physician makes all recommendations to the in-state provider after communicating with
+12 the patient; or
+13 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+14 treatment of a new patient who will be seen in person within the next three (3) months, and the
+15 physician does not directly diagnose or treat the patient until the patient is seen in person. The
+16 physician may make a request or recommendation to a Rhode Island licensed provider who has
+17 treated the patient in-person, whether or not the Rhode Island provider referred the patient to the
+18 physician; however, the Rhode Island provider has no obligation to accept a request or
+19 recommendation from a physician who has not fully evaluated the patient.
+20 (e) In all cases, the Rhode Island board of medical licensure and discipline shall have
+21 jurisdiction in evaluating whether a physician has conformed to the standards of care and conduct
+22 applicable to a Rhode Island licensed physician when telemedicine service is provided to a patient
+23 while the patient is located within the state.
+24 (f) In all cases, a physician who delivers telemedicine service to a patient who is located in
+25 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+26 courts.
+27 SECTION 5. Section 5-54-2 of the General Laws in Chapter 5-54 entitled "Physician
+28 Assistants" is hereby amended to read as follows:
+29 5-54-2. Definitions.
+30 As used in this chapter, the following words have the following meanings:
+31 (1) “Administrator” means the administrator, division of professional regulation.
+32 (2) “Approved program” means a program for the education and training of physician
+33 assistants formally approved by the American Medical Association’s (A.M.A.’s) Committee on
+34 Allied Health, Education and Accreditation, its successor, the Commission on Accreditation of
+LC001654 - Page 8 of 13
+
+1 Allied Health Education Programs (CAAHEP) or its successor.
+2 (3) “Approved program for continuing medical education” means a program for continuing
+3 education approved by the American Academy of Physician Assistants (AAPA) or the
+4 Accreditation Council for Continuing Medical Education of the American Medical Association
+5 (AMA), or the American Academy of Family Physicians (AAPFP) or the American Osteopathic
+6 Association Committee on Continuing Medical Education (AOACCME) or any other board-
+7 approved program.
+8 (4) “Board” means the board of licensure of physician assistants.
+9 (5) “Collaboration” means the physician assistant shall, as indicated by the patient’s
+10 condition, the education, competencies, and experience of the physician assistant, and the standards
+11 of care, consult with or refer to an appropriate physician or other healthcare professional. The
+12 degree of collaboration shall be determined by the practice and includes decisions made by a
+13 physician employer, physician group practice, and the credentialing and privileging systems of a
+14 licensed hospital, health center, or ambulatory care center. A physician must be accessible at all
+15 times for consultation by the physician assistant.
+16 (6) “Director” means the director of the department of health.
+17 (7) “Division” means the division of professional regulation, department of health.
+18 (8) [Deleted by P.L. 2013, ch. 320, § 1 and P.L. 2013, ch. 420, § 1.]
+19 (9) “Physician” means a person licensed under the provisions of chapter 29 or 37 of this
+20 title.
+21 (10) “Physician assistant” or “PA” means a person who is qualified by academic and
+22 practical training to provide medical and surgical services in collaboration with physicians.
+23 (11) “Telemedicine” has the meaning as provided in § 27-81-3.
+24 (11)(12) “Unprofessional conduct” includes, but is not limited to, the following items or
+25 any combination and may be defined by regulations established by the board with prior approval
+26 of the director:
+27 (i) Fraudulent or deceptive procuring or use of a license;
+28 (ii) Representation of himself or herself as a physician;
+29 (iii) Conviction of a felony; conviction of a crime arising out of the practice of medicine.
+30 All advertising of medical business that is intended or has a tendency to deceive the public;
+31 (iv) Abandonment of a patient;
+32 (v) Dependence upon a controlled substance, habitual drunkenness, or rendering
+33 professional services to a patient while intoxicated or incapacitated by the use of drugs;
+34 (vi) Promotion of the sale of drugs, devices, appliances, or goods or services provided for
+LC001654 - Page 9 of 13
+
+1 a patient in a manner that exploits the patient for the financial gain of the physician assistant;
+2 (vii) Immoral conduct of a physician assistant in the practice of medicine;
+3 (viii) Willfully making and filing false reports or records;
+4 (ix) Willful omission to file or record or willfully impeding or obstructing a filing or
+5 recording, or inducing another person to omit to file or record medical or other reports as required
+6 by law;
+7 (x) Agreeing with clinical or bioanalytical laboratories to accept payments from these
+8 laboratories for individual tests or test series for patients;
+9 (xi) Practicing with an unlicensed physician or physician assistant or aiding or abetting
+10 these unlicensed persons in the practice of medicine;
+11 (xii) Offering, undertaking, or agreeing to cure or treat a disease by a secret method,
+12 procedure, treatment, or medicine;
+13 (xiii) Professional or mental incompetence;
+14 (xiv) Surrender, revocation, suspension, limitation of privilege based on quality of care
+15 provided, or any other disciplinary action against a license or authorization to practice in another
+16 state or jurisdiction; or surrender, revocation, suspension, or any other disciplinary action relating
+17 to membership on any medical staff or in any medical professional association, or society while
+18 under disciplinary investigation by any of those authorities or bodies for acts or conduct similar to
+19 acts or conduct that would constitute grounds for action as stated in this chapter;
+20 (xv) Any adverse judgment, settlement, or award arising from a medical liability claim
+21 related to acts or conduct that would constitute grounds for action as stated in this chapter;
+22 (xvi) Failure to furnish the board, the administrator, investigator, or representatives,
+23 information legally requested by the board;
+24 (xvii) Violation of any provisions of this chapter or the rules and regulations promulgated
+25 by the director or an action, stipulation, or agreement of the board;
+26 (xviii) Cheating or attempting to subvert the certifying examination;
+27 (xix) Violating any state or federal law or regulation relating to controlled substances;
+28 (xx) Medical malpractice;
+29 (xxi) Sexual contact between a physician assistant and patient during the existence of the
+30 physician assistant/patient relationship;
+31 (xxii) Providing services to a person who is making a claim as a result of a personal injury,
+32 who charges or collects from the person any amount in excess of the reimbursement to the physician
+33 assistant by the insurer as a condition of providing or continuing to provide services or treatment.
+34 SECTION 6. Chapter 5-37 of the General Laws entitled "Board of Medical Licensure and
+LC001654 - Page 10 of 13
+
+1 Discipline " is hereby amended by adding thereto the following section:
+2 5-54-29. Telemedicine in the practice of medicine for physician assistants.
+3 (a) Professionals licensed under this chapter who use telemedicine in the practice of
+4 medicine shall be subject to the same standard of care that would apply to the provision of the same
+5 medical care service or procedure in an in-person setting.
+6 (b) The board of medical licensure and discipline shall not sanction a physician solely
+7 because the healthcare service is provided through telemedicine and is not provided through in-
+8 person consultation or contact; provided that, the healthcare service is necessary and medically and
+9 clinically appropriate to be provided through telemedicine services.
+10 (c) When another state or territory seeks to sanction a Rhode Island licensed physician for
+11 providing services via telemedicine to a patient outside of Rhode Island in a state or territory in
+12 which the physician is not licensed, the board of medical licensure and discipline shall not sanction
+13 the physician based on the delivery of service via telemedicine; provided that, the following
+14 conditions are met:
+15 (1) The patient is an established patient or the physician is covering a provider with the
+16 established patient-provider relationship; and
+17 (2) The patient has been seen in person within the previous twenty-four (24) months by the
+18 Rhode Island licensed physician or the provider for whom the physician is providing coverage.
+19 (d) The state shall not require a physician who uses telemedicine in the practice of medicine
+20 to be licensed or registered in the state in accordance with state law when the following conditions
+21 are met:
+22 (1) The physician is licensed as an osteopathic or allopathic physician in a state or territory
+23 of the United States of America;
+24 (2) The license is in good standing and without restriction;
+25 (3) The physician has professional liability insurance coverage for any care provided to a
+26 person while the person is located in Rhode Island; and
+27 (4) There is an established patient-provider relationship and the patient has been seen in-
+28 person within the previous twenty-four (24) months by the physician; or
+29 (5) The patient has been referred to the physician for purposes other than direct diagnosis
+30 or treatment by an in-state provider who retains authority and responsibility for the patient’s care,
+31 and the physician makes all recommendations to the in-state provider after communicating with
+32 the patient; or
+33 (6) The purpose of the telemedicine service is to initiate the evaluation and potential
+34 treatment of a new patient who will be seen in person within the next three (3) months, and the
+LC001654 - Page 11 of 13
+
+1 physician does not directly diagnose or treat the patient until the patient is seen in person. The
+2 physician may make a request or recommendation to a Rhode Island licensed provider who has
+3 treated the patient in person, whether or not the Rhode Island provider referred the patient to the
+4 physician; however, the Rhode Island provider has no obligation to accept a request or
+5 recommendation from a physician who has not fully evaluated the patient.
+6 (e) In all cases, the Rhode Island board of medical licensure and discipline shall have
+7 jurisdiction in evaluating whether a physician has conformed to the standards of care and conduct
+8 applicable to a Rhode Island licensed physician when telemedicine service is provided to a patient
+9 while the patient is located within the state.
+10 (f) In all cases, a physician who delivers telemedicine service to a patient who is located in
+11 the state during the rendition of those services shall be subject to the jurisdiction of the state and its
+12 courts.
+13 SECTION 7. This act shall take effect upon passage.
+========
+LC001654
+========
+LC001654 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+***
+1 This act would permit advanced practice registered nurses (APRN), physicians, and
+2 physician assistants to provide services to patients located in Rhode Island via telemedicine when
+3 those services are necessary and medically and clinically appropriate. This act would also allow
+4 APRNs, physicians, and physician assistants who are licensed in other states or U.S. territories who
+5 have appropriate professional liability insurance coverage and who are licensed and in good
+6 standing in those jurisdictions to provide telemedicine services to patients who are in Rhode Island
+7 when those services are rendered. Further, this act would bring providers who render telemedicine
+8 services to patients who are in the state when the services are rendered under the jurisdiction of the
+9 state and its courts.
+10 This act would take effect upon passage.
+========
+LC001654
+========
+LC001654 - Page 13 of 13
+
+[DELETED: TATE  OF  RHODE  ISLAND S h 5 A ( t p t m ( n e t a r o e ( r]
+[DELETED:  ( “ c n s i a a p r n w i p c t c f a o h g a p i l n t ( “ n p i a a p n u i k p d h s a ( A ( ( ( i ( p b w t b o n g p t i a a r l ( “ m t p o s t a e t t p m s t c s t s ( “ f m f o t p p P f s i (]
+[DELETED:  ( ( ( ( ( ( p p p a n h r ( “ n i p b r n ( T p o p n i a d p o a o a i h s i f a r r d a a f ( s u i k i p m a d h p p i ( S a 5]
+[DELETED:  n ( P l u t c w u t i t p o m m ( i p p ( p w d ( e ( A ( t a ( S ( ( p ( p ( t t A m a r t t i p a c w t p ( t A m]
+[DELETED:  p h a ( w l w ( t c S M 5 A ( c ( m ( ( ( t ( p ( t ( h d h c h o o p s c p o ( o g]
+[DELETED:  c l c l p f n c ( h t r h ( m e ( “ b m a c o a s o l p a f m c f s i h t b f ( l o a a p r o o s p s r r t ( l a h o a a h o m c o w s b o t o b o d i r t p r o r ( e]
+[DELETED:  ( “ m a p w a l t p a o o m ( A o b p p a s o s ( S D 5 ( P l u t c w u t i t p o m m ( b p c ( p w t p b o t d o s v t p t t f c ( e ( R ( t]
+[DELETED:  a ( o ( ( p ( p ( o a t ( t p p t p h t R I p h n o t a a r o r ( j a w ( t c S A 5 A ( ( a A]
+[DELETED:  A ( e a b t A A o P A ( o t A ( A C o C M E ( o a o b a ( ( “ m t p a s a i b t p c o d p l t ( ( ( ( t ( p ( ( a o ( ( ( A ( ( D u a c s h d o r p (]
+[DELETED:  a ( ( ( r b ( l ( t ( p ( ( p s t u a ( r ( F t f t b t a i o r i ( b ( ( ( ( p ( w a S]
+[DELETED:  D 5 ( P l u t c w u t i t p o m m ( b p c ( p w t p b o t d o s v t p t t f c ( e ( R ( t a ( o ( ( p ( p ( o a t ( t]
+[DELETED:  p p t p h t R I p h n o t a a r o r ( j a w ( t c S]
+[DELETED:  T a w p a p r n ( p a p t A h a p l i c a w a l a i g s w s s T]

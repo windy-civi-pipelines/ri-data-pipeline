@@ -1,0 +1,2365 @@
+Title: RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+Official Title: RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+Number of Sections: 1
+Source: versions - 939
+Media Type: application/pdf
+Strikethrough Detection: 33 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0939
+========
+LC002567
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+FOR PACKAGING AND PAPER ACT
+Introduced By: Senator Jacob Bissaillon
+Date Introduced: April 04, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 19.19
+4 EXTENDED PRODUCER RESPONSIBILITY FOR PACKAGING AND PAPER ACT
+5 23-19.19-1. Legislative intent.
+6 (a) This chapter shall be known and may be cited as the "Extended Producer Responsibility
+7 For Packaging and Paper Act."
+8 (b) The legislature finds that valuable resources are wasted when products are disposed
+9 instead of recycled or reused and that state and local policy have created a municipal recycling
+10 system that lacks coordination, adequate funding, and accountability. Product producers have a
+11 responsibility to correct these shortcomings by funding municipal recycling programs; improving
+12 those programs; and coordinating their planning, performance, and effectiveness. Producer
+13 responsibility is in the public interest of the state and furthers environmental objectives, including
+14 the establishment of a circular economy, preserving resources, and reducing carbon and other
+15 emissions associated with primary production.
+16 23-19.19-2. Definitions.
+17 As used in this chapter, unless the context requires otherwise:
+18 (1) "Advisory board" means the producer responsibility program for the statewide
+1 recycling advisory board created in § 23-19.19-3.
+2 (2) "Baseline assessment" means the assessment of the state's recycling baseline conducted
+3 pursuant to § 23-19.19-5.
+4 (3) "Collection" means the gathering and transportation of covered materials from covered
+5 entities for the purpose of recycling.
+6 (4) "Collection rate" means the weight of covered materials that are collected under the
+7 program in a calendar year divided by the weight of covered materials used for products sold or
+8 distributed by producers within or into the state in the same calendar year, expressed as a
+9 percentage.
+10 (5) "Compost" means the material or product that is developed under controlled conditions
+11 and that results from biological degradation processes by which organic wastes decompose.
+12 (6) "Compostable" means a covered material associated with organic waste streams that is
+13 capable of undergoing aerobic biological decomposition in a controlled composting system as
+14 demonstrated by meeting ASTM D6400 or ASTM D6868, or any successor standards.
+15 (7) "Compost facility" means a site where compost is produced and includes only those
+16 facilities that readily accept and process packaging collected from consumers.
+17 (8) "Consumer" means any person who purchases or receives covered materials in the state
+18 and is located at a covered entity.
+19 (9) "Covered entity" means the following locations in the state from which covered
+20 materials are collected:
+21 (i) All single-family residences in the state; and
+22 (ii) All multifamily residences in the state.
+23 (10) "Covered materials" includes:
+24 (i) Packaging as defined in this section; and
+25 (ii) Paper products as defined in this section.
+26 (11) "Covered services" means services provided for the recycling, composting, or reuse
+27 of covered materials, including the collection from covered entities through various means,
+28 including curbside and drop-off services; transportation of collected materials; sorting and
+29 contamination removal; and processing of covered materials for end markets.
+30 (12) "Covered services costs" means the reasonable net costs of recycling, composting, or
+31 reuse programs to provide covered services, including applicable costs related to:
+32 (i) The administration of the programs;
+33 (ii) Capital investments in the programs;
+34 (iii) The collection, transportation, sorting, and processing of covered materials net of the
+LC002567 - Page 2 of 33
+1 commodity value earned from the sale of materials;
+2 (iv) Public education about the programs; and
+3 (v) Disposal of nonmarketable collected covered materials.
+4 (13) "Department" means the department of environmental management.
+5 (14) "Director" means the director of the department of environmental management.
+6 (15) "Environmentally sound management practices" means policies that ensure
+7 compliance with all applicable environmental laws, including laws addressing:
+8 (i) Record keeping;
+9 (ii) Tracking and documenting the disposition of covered materials collected from covered
+10 entities; and
+11 (iii) Environmental liability coverage for professional services and contractor operations.
+12 (16) "Materials recovery facility" means a facility for processing covered materials that are
+13 collected for recycling before they are conveyed to end-market businesses.
+14 (17) "Minimum recyclable or compostable lists" means the lists of covered materials
+15 eligible for collection and reimbursement, developed under § 23-19.19-9.
+16 (18) "Nonprofit organization" means a tax-exempt charitable or social welfare organization
+17 operating under 26 U.S.C. §§ 501 (c)(3) or (4) of the federal "Internal Revenue Code of 1986 as
+18 amended".
+19 (19) "Packaging" or "consumer packaging" means any material, regardless of recyclability,
+20 which is intended for short-term use and is used for the containment, protection, handling, or
+21 delivery of products to the consumer at the point of sale, including through an Internet transaction.
+22 (i) Packaging includes products supplied to or purchased by consumers for the express
+23 purpose of facilitating food or beverage consumption and that are:
+24 (A) Ordinarily disposed of after short-term use; and
+25 (B) Not designed for reuse or refill.
+26 (ii) Packaging includes paper, plastic, glass, metal, cartons, flexibles, foams, rigid
+27 packaging, or other materials or combinations of these materials.
+28 (iii) Packaging does not include:
+29 (A) Packaging that is not sold or distributed to covered entities;
+30 (B) Packaging used solely in transportation or distribution to non-consumers;
+31 (C) Packaging used exclusively in industrial or manufacturing processes;
+32 (D) Packaging used for products sold or distributed outside the state;
+33 (E) Packaging intended to be used for the long-term storage or protection of a durable
+34 product and that is intended to transport, protect, or store the product for at least five (5) years;
+LC002567 - Page 3 of 33
+1 (F) Beverage containers subject to a returnable container deposit, if applicable;
+2 (G) Packaging used to contain a product that is regulated as a drug, medical device, or
+3 dietary supplement by the federal food and drug administration under the "Federal Food, Drug, and
+4 Cosmetic Act", 21 U.S.C. Ch. 9 § 301 et seq., as amended, or any related federal regulations
+5 promulgated thereunder, or any equipment and materials used to manufacture such products;
+6 (H) Packaging used to contain a product that is regulated as animal biologics, including
+7 vaccines, bacterins, antisera, diagnostic kits, and other products of biological origin under the
+8 federal "Virus-Serum-Toxin Act", 21 U.S.C. Ch. 5 § 151-159, as amended;
+9 (I) Packaging used to contain a product that is regulated under the "Federal Insecticide,
+10 Fungicide, and Rodenticide Act", 7 U.S.C. Ch. 6 § 136-136y, as amended; or
+11 (J) Packaging used to contain a product that is required under state law to be sold in
+12 packaging material that meets the standards set forth in the "Poison Prevention Packaging Act of
+13 1970", 15 U.S.C. Ch. 39A § 1471 et seq., as amended.
+14 (20) "Paper products" means paper and other cellulosic fibers, whether or not they are used
+15 as a medium for text or images, including flyers, brochures, booklets, telephone and other
+16 directories, newspapers, magazines and other periodicals, and paper used for writing or any other
+17 purpose; provided, however, paper products do not include:
+18 (i) Paper products that, through their use, could become unsafe or unsanitary to handle; or
+19 (ii) Bound books.
+20 (21) "Postconsumer recycled content rate" means the average amount of postconsumer
+21 recycled material used by a producer in the production of covered materials in a calendar year
+22 divided by the amount of that type of covered material sold or distributed by producers within or
+23 into their United States market territory in the same calendar year, expressed as a percentage.
+24 (22) "Postconsumer recycled material" means only those covered materials that have
+25 served their intended end use as consumer items and that have been separated or diverted from the
+26 waste stream for the purposes of collection and recycling as a secondary material feedstock.
+27 (i) Postconsumer recycled material includes returns of material from the distribution chain.
+28 (ii) Postconsumer recycled material does not include waste material generated during or
+29 after the completion of a manufacturing process.
+30 (23) "Processing" means preparing collected covered materials at a materials recovery
+31 facility or similar establishment for sale or delivery to material reclaimers or end markets.
+32 (24) "Producer" means the following person responsible for compliance with requirements
+33 under this chapter for a covered material introduced:
+34 (i) For items sold in or with packaging at a physical retail location in this state:
+LC002567 - Page 4 of 33
+1 (A) If the item is sold in or with packaging under the brand of the item manufacturer or is
+2 sold in packaging that lacks identification of a brand, the producer is the person that manufactures
+3 the item;
+4 (B) If there is no person to which subsection (24)(i)(A) of this section applies, the producer
+5 is the person that is licensed to manufacture and sell or offer for sale to consumers in this state an
+6 item with packaging under the brand or trademark of another manufacturer or person;
+7 (C) If there is no person to which subsections (24)(i)(A) or (24)(i)(B) of this section apply,
+8 the producer is the brand owner of the item;
+9 (ii) If there is no person described in subsection (24)(i) of this section within the United
+10 States, the producer is the person who is the importer of record for the item into the United States
+11 for use in a commercial enterprise that sells, offers for sale, or distributes the item in this state; or
+12 (iii) If there is no person described in subsections (24)(i) or (24)(ii) of this section, the
+13 producer is the person that first distributes the item in or into this state;
+14 (iv) For items sold or distributed in packaging in or into this state via e-commerce, remote
+15 sale, or distribution:
+16 (A) For packaging used to directly protect or contain the item, the producer of the
+17 packaging is the same as the producer identified under subsection (24)(i) of this section; and
+18 (B) For packaging used to ship the item to a consumer, the producer of the packaging is
+19 the person that packages the item to be shipped to the consumer;
+20 (v) For packaging that is a covered material and is not included in subsections (24)(i) or
+21 (24)(ii) of this section, the producer of the packaging is the person that first distributes the item in
+22 or into this state;
+23 (vi) For paper products that are magazines, catalogs, telephone directories, or similar
+24 publications, the producer is the publisher;
+25 (vii) For paper products not described in subsections (24)(i) through (24)(vi) of this section:
+26 (A) If the paper product is sold under the manufacturer's own brand, the producer is the
+27 person that manufactures the paper product;
+28 (B) If there is no person to which subsection (24)(vii)(A) of this section applies, the
+29 producer is the person that is the owner or licensee of a brand or trademark under which the paper
+30 product is used in a commercial enterprise, sold, offered for sale, or distributed in or into this state,
+31 whether or not the trademark is registered in this state;
+32 (C) If there is no person to which subsection (24)(vii)(A) or (24)(B) of this section applies,
+33 the producer is the brand owner of the paper product;
+34 (D) If there is no person described in subsections (24)(vii)(A) through (24)(C) of this
+LC002567 - Page 5 of 33
+1 section within the United States, the producer is the person that imports the paper product into the
+2 United States for use in a commercial enterprise that sells, offers for sale, or distributes the paper
+3 product in this state; or
+4 (E) If there is no person described in subsections (24)(vii)(A) through (24)(vii)(D) of this
+5 section, the producer is the person that first distributes the paper product in or into this state.
+6 (viii) A person is the producer of a covered material sold, offered for sale, or distributed in
+7 or into this state, as defined in the prior subsections, except where another person has mutually
+8 signed an agreement with a producer as defined herein that contractually assigns responsibility to
+9 the person as the producer, and the person has joined a registered producer responsibility
+10 organization as the responsible producer for that covered material under this chapter. In the event
+11 that another person is assigned responsibility as the producer under subsections (24)(i) through
+12 (24)(vii) of this section, the producer shall provide written certification of that contractual
+13 agreement to the producer responsibility organization; and
+14 (ix) If the producer described in subsections (24)(i) through (24)(viii) of this section is a
+15 business operated, wholly or in part, as a franchise, the producer is the franchisor if that franchisor
+16 has franchisees that have a commercial presence within the state.
+17 (x) The following are excluded from the definition of producer under this chapter:
+18 (A) A person with less than five million dollars ($5,000,000) in realized gross total revenue
+19 during the prior calendar year. The department shall adjust by rule this dollar limit on July 1 of
+20 each year after enactment using the percentage change in an appropriate consumer price index for
+21 the region;
+22 (B) A person that has used less than one ton of covered materials for products sold or
+23 distributed within or into the state during the prior calendar year;
+24 (C) The state or a local government; and
+25 (D) A nonprofit organization.
+26 (25) "Producer responsibility organization" or "organization" means a nonprofit
+27 organization established pursuant to § 23-19.19-4 to implement the program.
+28 (26) "Producer responsibility program" or "program" means the producer responsibility
+29 program for statewide recycling, composting, and reuse created in accordance with this chapter.
+30 (27) "Proprietary information" means information that, if made public, would divulge
+31 competitive business information or trade secrets of the entity that developed the information or
+32 would reasonably hinder the entity's competitive advantage in the market.
+33 (28) "Readily recyclable or compostable material" means a covered material included on
+34 the minimum recyclable or compostable lists.
+LC002567 - Page 6 of 33
+1 (29) "Recycling" means the reprocessing, by means of a manufacturing process, of a used
+2 material into a product or a secondary raw material. Recycling does not include:
+3 (i) Energy recovery or energy generation by means of combustion;
+4 (ii) Use as a fuel; or
+5 (iii) Use as alternative daily cover at a landfill.
+6 (30) "Recycling rate" means the weight of covered materials that are recycled under the
+7 program in a calendar year divided by the weight of covered materials used for products sold or
+8 distributed by producers within or into the state in the same calendar year, expressed as a
+9 percentage. The recycling rate is measured at the point where collected covered materials have been
+10 prepared for sale or delivery to material reclaimers or end markets after processing at a materials
+11 recovery facility or similar establishment that sells directly to reclaimers or end markets.
+12 (31) "Responsible end market" means a materials market in which the recycling,
+13 composting, or reuse of materials or the disposal of contaminants is conducted in a way that benefits
+14 the environment and minimizes risks to public health and worker health and safety.
+15 (32) "Retailer" means a person that sells products to consumers within or into the state,
+16 including sales made through an Internet transaction, where those products are covered materials
+17 or are packaged with covered materials.
+18 (33) "Reuse" or "refill" means the return into the marketplace of a covered material that
+19 has already been used in the same manner as originally intended without a change in the covered
+20 material's purpose and was intended to be used for its original purpose at least five (5) times.
+21 (34) "Service provider" means a public or private entity, other than the producer
+22 responsibility organization, which provides recycling, composting, or reuse services to covered
+23 entities in the state.
+24 23-19.19-3. Advisory board.
+25 (a)(1) The producer responsibility program for statewide recycling advisory board is
+26 hereby created within the department. The department may select an impartial third-party facilitator
+27 to convene and provide administrative support to the advisory board.
+28 (2) The advisory board consists of the following thirteen (13) voting members and two (2)
+29 nonvoting members appointed by the director:
+30 (i) Three (3) voting members representing local governments in the state, including:
+31 (A) One member representing a city with a population greater than one hundred fifty
+32 thousand (150,000);
+33 (B) One member representing a coastal city or town; and
+34 (C) One member representing a non-coastal city or town;
+LC002567 - Page 7 of 33
+1 (ii) One voting member representing a materials recovery facility in the state that processes
+2 covered materials from covered entities;
+3 (iii) One voting member representing a private sector collector of recyclable covered
+4 materials from covered entities;
+5 (iv) One voting member representing an environmental or community-based nonprofit
+6 organization;
+7 (v) One voting member representing a packaging material supplier that is not a producer,
+8 with the member rotating to a supplier of a different type of packaging material after each new
+9 term;
+10 (vi) One voting member representing a manufacturer of recycled paper products that is not
+11 a producer;
+12 (vii) One voting member representing a trade association, chamber of commerce, or other
+13 business advocacy organization representing businesses in the state;
+14 (viii) One voting member representing a retailer's association or a retailer that is not a
+15 producer;
+16 (ix) One voting member representing a compost facility in the state that handles covered
+17 materials;
+18 (x) One voting member who has experience in environmental justice and represents
+19 underserved communities in the state;
+20 (xi) One voting member representing a solid waste landfill or transfer station operating an
+21 on-site, public-facing recycling collection program;
+22 (xii) One nonvoting member representing the department; and
+23 (xiii) One nonvoting member representing the producer responsibility organization.
+24 (b)(1) The members of the advisory board shall have relevant knowledge and expertise in
+25 recycling programs or the impact of covered materials on the state and the environment. In
+26 appointing members, the director shall ensure to the extent possible the geographic diversity of the
+27 advisory board's membership.
+28 (2) The director shall make all appointments to the advisory board no later than December
+29 31, 2025. The appointments for initial terms to the advisory board shall be staggered in order that
+30 some of the members serve initial two (2) year terms and other members serve initial three (3) year
+31 terms; all subsequent appointments shall be for three (3) year terms. The director shall fill any
+32 vacancy by appointment for the remainder of the unexpired term.
+33 (3) The advisory board shall convene its first meeting no later than March 1, 2026. At the
+34 first meeting, the voting members shall select a chair and vice-chair from among the voting
+LC002567 - Page 8 of 33
+1 members for a term not to exceed two (2) years, as determined by the advisory board. The advisory
+2 board shall conduct annual meetings and may conduct meetings more frequently upon the request
+3 of the chair or of at least seven (7) of the voting members of the advisory board. The decisions of
+4 the advisory board shall be made by a vote of the majority of its membership. The organization
+5 may provide technical and staff assistance to the advisory board.
+6 (4) The advisory board is subject to the open meetings provisions of chapter 46 of title 42
+7 ("open meetings").
+8 (5) Advisory board members shall be entitled to be reimbursed at a rate consistent with
+9 other boards and commissions created within the department for necessary travel within the state
+10 and other reasonable expenses incurred in the performance of their official duties.
+11 (6) The advisory board shall:
+12 (i) Advise the organization throughout the baseline assessment process in accordance with
+13 the provisions of this chapter;
+14 (ii) Review the baseline assessment reported to the advisory board pursuant to the
+15 provisions of this chapter;
+16 (iii) Review the plan proposal submitted pursuant to § 23-19.19-6;
+17 (iv) Consult with the organization on amendments to the plan proposal and the amended
+18 plan proposal;
+19 (v) Recommend that the director approve or reject the plan proposal or amended plan
+20 proposal;
+21 (vi) Review the annual report submitted by the organization pursuant to § 23-19.19-12 and
+22 may, in consultation with the organization, recommend to the director amendments to the final plan
+23 as part of this review; and
+24 (vii) Consult with the organization on the development and updating of the minimum
+25 recyclable or compostable list.
+26 23-19.19-4. Producer responsibility organizations and service providers.
+27 (a) On or before March 31, 2026, the director shall approve a single producer responsibility
+28 organization to represent the interests of producers under this chapter. Prospective organizations
+29 shall apply by February 1, 2026, for recognition by submitting to the commissioner contact
+30 information, proof of or application for nonprofit status, and the producers it represents.
+31 (b) In the event that the director receives multiple applications, the approved organization
+32 shall be the one best able to represent producers based on the market share of covered materials
+33 represented by the organization and its experience as an organization in states or
+34 countries/provinces with similar programs.
+LC002567 - Page 9 of 33
+1 (c) The organization designated by the director pursuant to this section shall have a
+2 governing board with voting members that represent a diverse range of producers by size and type
+3 and represent producers of different types of covered materials. The members of the governing
+4 board shall not have more than one member per corporate entity.
+5 (d) The producer responsibility organization shall:
+6 (1) Facilitate a baseline assessment in consultation with the advisory board;
+7 (2) Consult with the advisory board in the development of the plan proposal prior to its
+8 submission, including in the development of the cost formulas for reimbursements to service
+9 providers pursuant to §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8;
+10 (3) Submit a plan proposal in accordance with §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8
+11 that covers a period of five (5) years; and
+12 (4) Operate and administer the program in accordance with the final plan, the provisions
+13 of this chapter, and the rules and regulations adopted by the department under this chapter.
+14 (d)(1) Beginning January 1, 2033, and every January 1 thereafter, a nonprofit organization
+15 may request that the director designate that organization as an additional producer responsibility
+16 organization.
+17 (2) The director may designate a nonprofit organization as an additional producer
+18 responsibility organization if the director, in coordination with the advisory board, determines that
+19 the designation of the additional producer responsibility organization is necessary to:
+20 (i) Increase recycling rates for covered materials;
+21 (ii) Expand covered services to covered entities that are not covered under the final plan;
+22 (iii) Provide recycling services for a specific type of covered material; or
+23 (iv) Lower costs.
+24 (e) If the director designates an additional producer responsibility organization, the
+25 additional organization shall submit to the director an additional plan consistent with §§ 23-19.19-
+26 6, 23-19.19-7, and 23-19.19-8 requirements as appropriate as well as a coordination plan meeting
+27 the requirements developed under this section. The additional plan shall be subject to the same
+28 review and approval processes as the organization's plan as outlined in §§ 23-19.19-6, 23-19.19-7,
+29 and 23-19.19-8.
+30 (f) Within one hundred twenty (120) days after the designation of the first additional
+31 producer responsibility organization, the director shall promulgate by rules and regulation
+32 standards and requirements for a coordination plan and for coordination between the organization
+33 and any additional producer responsibility organizations designated by the director. A coordination
+34 plan shall also include a method for allocating administrative and enforcement reimbursements
+LC002567 - Page 10 of 33
+1 under § 23-19.19-17 among organizations. A coordination plan approved or ordered by the director
+2 shall be implemented by the organization and any additional producer responsibility organizations
+3 designated by the director. If the coordination plan conflicts with the final plan or any other plan
+4 approved by the director pursuant to this chapter, the provisions of the coordination plan prevail.
+5 A coordination plan approved or ordered by the director is valid until revoked or until a new
+6 coordination plan is approved or ordered by the director.
+7 (g) Registration of service providers. By January 1, 2027, and annually thereafter, a service
+8 provider seeking reimbursement for covered services provided under an approved program plan
+9 shall register with the department by submitting the following information:
+10 (1) The contact information for a person representing the service provider;
+11 (2) The address of the service provider; and
+12 (3) If applicable to services provided, a report of the total amount billed for collection for
+13 covered entities, processing services, and transfer station operations provided during the preceding
+14 calendar year and, when possible, values shall be separated for collection, transfer, and processing.
+15 (h) The organization, any additional producer responsibility organization, and any person
+16 administering a plan approved by the director pursuant to this chapter shall maintain all documents
+17 and records necessary for the director to determine compliance with this chapter and submit any
+18 such documents and records to the director upon a request by the director.
+19 23-19.19-5. Baseline assessment.
+20 (a) On or before August 1, 2026, the organization shall hire an independent third party
+21 approved by the director to develop a baseline of the state's recycling system. The organization
+22 shall develop a request for proposals for the baseline assessment and shall consult with the advisory
+23 board on the scope of the assessment prior to finalizing the scope and putting the work out to bid.
+24 (b) The baseline assessment is a compilation of information collected from service
+25 providers in the state, both public and private, that currently provide recycling and/or composting
+26 services for covered materials. As this information is critical to developing a plan, service providers
+27 shall respond to data requests from the third-party organization contracted for this work or be
+28 subject to enforcement action under § 23-19.19-13. The third party, organization, department, and
+29 advisory board shall keep confidential any proprietary information from a service provider.
+30 (c) Collection service. The scope of the baseline data collection shall include, but not be
+31 limited to:
+32 (1) Access to covered material recycling and composting service for residential customers
+33 of the service providers, including households served, type of service provided (e.g., single-stream
+34 curbside, drop-off), types of collection containers used, materials accepted, frequency of service
+LC002567 - Page 11 of 33
+1 provided where relevant, and length of contracts;
+2 (2) Weight of material collected per time period and the capacity of the current collection
+3 method; and
+4 (3) Total cost of service and households served or contracted rates for service (e.g., dollars
+5 per household) and the services covered by the rates.
+6 (d) Processing. The scope of the baseline data collection shall include, but not be limited
+7 to:
+8 (1) The material throughput at processing facilities providing recycling services to covered
+9 entities and the facilities' capacity for processing material;
+10 (2) The design and capabilities of the facility (e.g., single vs dual stream, use of optical
+11 sorters);
+12 (3) Composition of tons received and composition of tons processed and sold;
+13 (4) Tip fees charged for processing; and
+14 (5) Data on contamination.
+15 (e) Additional data. The scope of the baseline assessment may include:
+16 (1) The market conditions and opportunities for the use of recycled covered materials in
+17 the state and region and issues with access to markets for recycled covered materials;
+18 (2) Size and number of transfer stations and transfer locations for recyclable covered
+19 materials;
+20 (3) The availability and scope of any reuse or refill systems in the state affecting the use of
+21 covered materials;
+22 (4) Access to, capacity, technology used, and characteristics of compost facilities to process
+23 and recover compostable covered materials; and
+24 (5) Recommendations for covered materials that meet the criteria for inclusion on the
+25 collection lists described in § 23-19.19-9, including materials that may be appropriate for inclusion
+26 in an alternative collection program.
+27 (f) On or before January 31, 2027, the organization shall deliver a draft of the needs
+28 assessment to the advisory board and the department. The advisory board and the department shall
+29 submit comments to the organization within thirty (30) days, and the organization shall finalize the
+30 needs assessment by April 30, 2027, including a summary of any comments received and
+31 significant changes made to the needs assessment based on those comments.
+32 23-19.19-6. Program plan.
+33 On or before December 31, 2027, the organization shall submit a proposed program plan
+34 to the advisory board that addresses covered services for covered entities. The plan shall cover a
+LC002567 - Page 12 of 33
+1 period of five (5) years, and an updated plan proposal shall be submitted to the advisory board one
+2 year before the expiration of the current plan. In developing the plan proposal and any updated plan
+3 proposals, the organization shall solicit and consider input from the advisory board and provide an
+4 opportunity for additional stakeholder input.
+5 23-19.19-7. Approval of program plan.
+6 To be approved, a program plan proposal shall:
+7 (1) Provide contact information for the organization and a representative of the
+8 organization;
+9 (2) Describe how the plan proposal will address and implement the findings of the baseline
+10 assessment;
+11 (3) Describe the manner in which the organization solicited and considered input from
+12 stakeholders and the advisory board in developing the plan proposal. The organization shall provide
+13 a summary of any comments about the plan proposal from the advisory board and additional
+14 stakeholders and identify changes made to the plan proposal based on the comments;
+15 (4) Describe how the organization will notify affected producers of their obligations under
+16 this chapter, track compliance among producers, and collaborate with the director to bring
+17 producers into compliance;
+18 (5) Include a comprehensive list of the covered materials included in the program and the
+19 mechanism for producers to report data on covered materials to the organization;
+20 (6) Establish recycling practices that:
+21 (i) Meet or exceed the convenience standards for covered materials on the proposed
+22 collection lists, including any alternative collection programs as described in § 23-19.19-9;
+23 (ii) Use open, competitive, and fair procurement practices when entering into contracts
+24 with service providers;
+25 (iii) Incorporate preferences for service providers with strong labor standards and worker
+26 safety practices when entering into contracts with private service providers;
+27 (iv) Ensure that any covered materials collected and processed for recycling or composting
+28 will be transferred to a responsible end market; and
+29 (v) Use environmentally sound management practices;
+30 (7) Describe how the organization will work with newspaper publishers and magazine and
+31 periodical publishers to accept print or online advertising in lieu of all or a portion of the producer
+32 responsibility dues for newspapers, magazines, and periodicals circulated within the state;
+33 (8) Establish a funding mechanism for the program that:
+34 (i) Does not exceed the direct and indirect costs of implementing the program, including
+LC002567 - Page 13 of 33
+1 the costs of:
+2 (A) Providing covered services under the program through contracts with service providers
+3 or reimbursement of reasonable covered services costs pursuant to this section;
+4 (B) Meeting the reporting requirements set forth in § 23-19.19-12;
+5 (C) Conducting the baseline assessment;
+6 (D) Developing and updating the final plan;
+7 (E) Implementing the education and outreach program set forth in § 23-19.19-10;
+8 (F) Reimbursing the department pursuant to § 23-19.19-17 for its costs in administering
+9 and implementing this chapter, including the costs of the advisory board; and
+10 (G) Reimbursing the department pursuant to § 23-19.19-17 for the costs of enforcing this
+11 chapter pursuant to § 23-19.19-13;
+12 (ii) Is funded through producer responsibility dues. The producer responsibility dues shall
+13 vary by the type of covered material, whether or not the material is readily recyclable, and be based
+14 on the net covered services costs for each covered material in the state as well as allocated fixed
+15 costs of the organization for administration, education and outreach, and other costs not linked to
+16 material type.
+17 (iii) Requires:
+18 (A) Any surplus money generated by the program to be placed back into the program for
+19 program improvements or a reduction in producer responsibility dues;
+20 (B) The organization to maintain a financial reserve sufficient to operate the program in a
+21 fiscally prudent and responsible manner; and
+22 (C) Annual updates to the producer responsibility dues schedule to reflect changes in
+23 program costs and relevant plan revisions and how the organization will inform and solicit input
+24 from producers in setting and revising the annual producer responsibility dues schedule;
+25 (iv) Includes eco-modulation factors that lower producer responsibility dues to incentivize:
+26 (A) Reductions in the amount of packaging used for products, including through design
+27 innovations and elimination of unnecessary or redundant packaging;
+28 (B) Innovations and practices to enhance the recyclability, compostability, or commodity
+29 value of covered materials;
+30 (C) Postconsumer recycled material use;
+31 (D) Packages designed for reuse and refill where supporting infrastructure exists in the
+32 state; and
+33 (E) High recycling, composting, and refill rates of covered materials
+34 (v) Includes eco-modulation factors that increase producer responsibility dues to
+LC002567 - Page 14 of 33
+1 discourage:
+2 (A) Designs and materials that increase the costs of recycling, reusing, or composting
+3 covered materials;
+4 (B) Designs and materials that disrupt the recycling or composting of other materials; and
+5 (C) Producers' use of covered materials that are not on the minimum recyclable or
+6 compostable list; and
+7 (vi) At the request of a producer or producers of a covered material, may include a special
+8 assessment paid by the producers of that covered material to improve or establish a method for
+9 collecting and recycling that covered material or to facilitate the addition of the covered material
+10 to the list of readily recyclable materials;
+11 (9) Include a proposed budget and a description of the processes used to determine
+12 producer responsibility dues, levied on a material-specific basis. Describe any producer sales limits
+13 where dues would be eliminated or based on a flat rate to minimize administrative and reporting
+14 costs of the producers and the organization;
+15 (10) Provide a methodology for reimbursement rates for covered services for covered
+16 materials:
+17 (i) The methodology for reimbursement rates shall consider estimated revenue received by
+18 service providers from the sale of covered materials based upon relevant material indices and
+19 incorporate relevant cost information identified by the needs assessment. Reimbursement rates
+20 shall be annually updated and reflect the net costs for covered services for covered materials from
+21 covered entities. Reimbursement rates shall be established equivalent to net costs as established by
+22 a methodology in an approved plan as follows:
+23 (A) No less than fifty percent (50%) of the net cost for the first year of initial plan operation;
+24 (B) No less than seventy-five percent (75%) of the net cost for the second year of initial
+25 plan operation; and
+26 (C) No less than ninety percent (90%) of the net cost thereafter;
+27 (11) Reimbursement rates shall be based on the following, as applicable based on the
+28 service provided:
+29 (i) The cost to collect covered material for recycling, a proportional share of composting,
+30 or reuse adjusted to reflect conditions that affect those costs, varied by region or jurisdiction in
+31 which the covered services are provided including, but not limited to:
+32 (A) The number and type of covered entities;
+33 (B) Population density;
+34 (C) Collections methods employed;
+LC002567 - Page 15 of 33
+1 (D) Distance traveled by collection vehicles to consolidation or transfer facilities; to reuse,
+2 recycling, or composting facilities; and to responsible markets;
+3 (E) Other factors that may contribute to regional or jurisdictional cost differences;
+4 (F) The proportion of covered compostable materials within all source-separated
+5 compostable materials collected or managed through composting; and
+6 (G) The general quality of covered materials collected by service providers;
+7 (ii) The cost to transfer collected covered materials from consolidation or transfer facilities
+8 to reuse, processing, recycling, or composting facilities or to responsible markets;
+9 (iii) The cost to:
+10 (A) Sort and process covered materials for sale or use and remove contamination from
+11 covered materials by a recycling or composting facility, less the average fair market value for that
+12 covered material based on market indices for the region; and
+13 (B) Manage contamination removed from collected covered material;
+14 (iv) Administrative costs of service providers, including education, public awareness
+15 campaigns, and outreach program costs as applicable; and
+16 (v) The costs of covered services for a refill system or covered services provided for
+17 reusable covered materials and management of contamination;
+18 (12) A service provider retains all revenue from the sale of covered materials. Nothing in
+19 this chapter shall restrict a service provider from charging a fee for covered services of covered
+20 materials to the extent that reimbursement from a producer responsibility organization does not
+21 cover all costs of services, including continued investment and innovation in operations, operating
+22 profits, and returns on investments required by a service provider to maintain the services;
+23 (13) Reimbursement rates may be calculated per ton, by household, or by another unit of
+24 measurement under an approved program plan;
+25 (14) Describe the process to develop and revise the reimbursement methodology as
+26 necessary, including use of documented costs;
+27 (15) Describe a plan that outlines, if the organization ceased to exist or ceased to administer
+28 the program, how any producer responsibility dues that had not been used to implement the
+29 program would be transferred to another organization designated by the director to administer the
+30 program or would be transferred to the fund to be managed by the department until transferred to
+31 another designated organization;
+32 (16) Include the minimum recyclable or compostable lists established in accordance with
+33 § 23-19.19-9;
+34 (17) Set targets that the program will strive to meet by December 31, 2033, and December
+LC002567 - Page 16 of 33
+1 31, 2038, for:
+2 (i) Minimum collection and recycling rates for all covered materials and by type of covered
+3 materials; and
+4 (ii) Minimum postconsumer recycled content rates for covered materials, including paper
+5 products, glass, metal, and plastic, but excluding covered materials that cannot include
+6 postconsumer recycled content because of technical or market barriers, unique chemical or physical
+7 properties, or health and safety requirements that prevent its use;
+8 (18) Describe how postconsumer recycled content rates will be calculated using weight
+9 and other metrics, how the organization will verify minimum postconsumer recycled content rates,
+10 and describe a process to temporarily waive postconsumer recycled content rates for a type or
+11 subcategory of covered materials and the criteria for evaluating such waivers, including food safety
+12 requirements, technological feasibility, or inadequate or disrupted supply;
+13 (19) Describe how the organization will provide producers with the opportunity to purchase
+14 postconsumer recycled materials from processors at market prices if the producer is interested in
+15 obtaining recycled feedstock to achieve minimum postconsumer recycled content rates;
+16 (20) Describe how the organization will reduce or offset the producer responsibility dues
+17 for any producer or group of producers that fund or operate a collection program that:
+18 (i) Covers a specific type of covered material that is not processed by materials recovery
+19 facilities; and
+20 (ii) Has recycling rates that meet or exceed the minimum recycling rate target set forth in
+21 the plan;
+22 (21) Describe how the organization will work with service providers to:
+23 (i) Utilize and expand on existing covered services and infrastructure and existing
+24 education and outreach programs;
+25 (ii) Reduce contamination of covered materials delivered to materials recovery facilities
+26 and compost facilities by:
+27 (A) Requiring each materials recovery facility and compost facility participating in the
+28 program to report annually to the organization on in-bound contamination levels at each facility;
+29 and
+30 (B) Providing funding or other assistance to compost facilities to reduce the costs of
+31 managing or increase the effectiveness of efforts to manage contamination and to process and
+32 recover compostable packaging;
+33 (iii) Invest in new or upgraded recycling infrastructure;
+34 (iv) Mitigate the impacts of covered materials on other materials and equipment at sorting
+LC002567 - Page 17 of 33
+1 and processing facilities;
+2 (v) Invest in market development for covered materials in the state; and
+3 (vi) Increase the recycling of collected covered materials;
+4 (22) Describe how the organization will work with and incentivize producers to reduce
+5 packaging through product design changes, the development or expansion of systems for reusable
+6 packaging, and product innovation;
+7 (23) Describe how the program will prioritize the use of end markets that return
+8 postconsumer recycled materials to their original product type;
+9 (24) Describe how the organization will evaluate and monitor the use of responsible end
+10 markets through methods such as processor contracts or financial incentives;
+11 (25) Describe how the organization will implement the education and outreach program
+12 set forth in § 23-19.19-10; and
+13 (26) Include any additional information required by the department.
+14 23-19.19-8. Review of advisory plan.
+15 (a) The advisory board shall review the plan proposal for compliance with this chapter. The
+16 advisory board shall consult with the organization throughout its review of the plan proposal.
+17 (1) Within ninety (90) days after the submission of the plan proposal to the advisory board,
+18 the advisory board shall either provide any recommended amendments to the plan proposal to the
+19 organization or, if the advisory board does not have any recommended amendments, forward the
+20 plan proposal to the director;
+21 (2) The organization shall provide responsive answers to the advisory board's
+22 recommendations and submit an amended plan proposal to the advisory board within sixty (60)
+23 days after its receipt of the recommended amendments;
+24 (3) Within thirty (30) days after the submission of the amended plan proposal to the
+25 advisory board, the advisory board shall forward the amended plan proposal to the director with its
+26 recommendation for approval or rejection and, if applicable, a written explanation of the basis for
+27 recommending rejection of the plan proposal;
+28 (4) Within one week of receiving the plan proposal, the director shall post the plan proposal
+29 on the department's website and provide public notice and an opportunity to comment on the plan
+30 proposal.
+31 (b)(1) Within sixty (60) days after receiving the plan proposal or amended plan proposal,
+32 the director shall either approve or reject the plan proposal or amended plan proposal;
+33 (2) If the director rejects the plan proposal or amended plan proposal, the director shall
+34 notify the organization of the rejection and the reasons for the rejection, which reasons shall be
+LC002567 - Page 18 of 33
+1 based on the failure of the plan proposal or amended plan proposal to comply with the requirements
+2 specified in this section. The organization shall submit a revised plan proposal to the advisory board
+3 within sixty (60) days after receiving the director's rejection. The revised plan proposal shall be
+4 reviewed by the advisory board and the revised plan proposal or amended plan proposal shall be
+5 expeditiously reviewed and approved or rejected by the director in thirty (30) days in accordance
+6 with this section.
+7 (c) If the director approves the plan proposal or amended plan proposal pursuant to this
+8 section, the director shall designate the plan proposal or amended plan proposal as the final plan
+9 and shall publish the final plan on the department's website.
+10 (d) The organization shall begin implementing the final plan within six (6) months after it
+11 is approved.
+12 (e) As part of its annual report under § 23-19.19-12, the organization may submit proposed
+13 amendments to a final plan. The organization shall submit these amendments to the advisory board
+14 at least sixty (60) days prior to the deadline to submit the annual report:
+15 (1) The department may request that the organization amend the plan in any year to address
+16 a specific concern or aspect of the plan by submitting the request at least ninety (90) days prior to
+17 the annual report deadline. The organization shall consult with the advisory board on these
+18 proposed amendments.
+19 (2) The advisory board shall submit any proposed amendments to the director concurrent
+20 with the annual report for approval or rejection based on the plan proposal requirements specified
+21 in this section.
+22 (f) The organization shall continue to operate the program in accordance with the final plan
+23 pending the approval or rejection of a proposed amendment by the director. The director's rejection
+24 of a proposed amendment does not relieve the organization of its responsibility to continue to
+25 operate the program in accordance with the final plan.
+26 (g) The director shall enforce this chapter in accordance with § 23-19.19-13 and the
+27 department shall promulgate rules as may be necessary for the administration and enforcement of
+28 this chapter. Notwithstanding any law to the contrary, the organization shall not make any
+29 determination as to a person's compliance with this chapter.
+30 (h)(1) By December 31, 2027, and each December 31 thereafter, as an alternative to
+31 participating in the program, a producer may submit to the advisory board an individual program
+32 plan proposal. A producer shall notify the department of its intent to submit an individual program
+33 plan as described in § 23-19.19-11.
+34 (2) An individual program plan proposal shall:
+LC002567 - Page 19 of 33
+1 (i) Comply with the requirements of subsection (h)(1) of this section, as applicable;
+2 (ii) Describe how the producer participating in the individual program plan proposal will
+3 contribute its share of department costs to oversee the program under § 23-19.19-17;
+4 (iii) Describe how the producer will reimburse service providers that provide recycling
+5 services for the covered materials covered by the individual program plan proposal; and
+6 (iv) Describe any alternative collection programs run by the producer and their recycling
+7 rates by material type.
+8 (i) The advisory board shall review and make recommendations on, and the director shall
+9 approve or reject, any individual program plan proposals in accordance with the criteria and
+10 procedures set forth in this section. If the director approves an individual program plan proposal,
+11 the director shall designate the individual program plan proposal as the plan that the producer is
+12 authorized to implement and administer as an alternative to participating in the program.
+13 (j) The producer implementing an individual program plan shall submit any amendments
+14 to the plan to the advisory board in accordance with this section. The advisory board shall review
+15 and make recommendations on and the director shall approve or reject any amendments to the plan
+16 in accordance with this section.
+17 23-19.19-9. Minimum recyclable or compostable lists and convenience standards.
+18 (a) As part of the plan, the producer responsibility organization shall develop a list of
+19 covered materials determined to be recyclable or compostable statewide through systems where
+20 covered materials are commingled into a recyclables stream and a separate compostables stream.
+21 These covered materials shall be collected at an optimal level and method of service and
+22 convenience for covered entities, at a minimum, wherever collection services for mixed municipal
+23 solid waste are available.
+24 (b) The producer responsibility organization may propose a list of covered materials
+25 determined to be recyclable or compostable and collected statewide through systems other than the
+26 system required for covered materials on the list established in subsection (a) of this section.
+27 (1) These alternative collection programs shall:
+28 (i) Provide year-round, convenient, statewide collection opportunities, including at least
+29 one drop-off collection site located in each county;
+30 (ii) Provide tiers of service for collection, convenience, number of drop-off collection sites,
+31 and additional collection systems based on county population size and county population density;
+32 (iii) Ensure materials are sent to responsible markets;
+33 (iv) Use education and outreach strategies that can be expected to significantly increase
+34 consumer awareness of the program throughout the state; and
+LC002567 - Page 20 of 33
+1 (v) Measure the amount of each covered material collected and the applicable performance
+2 target and statewide requirement.
+3 (2) A proposal for an alternative collection program shall include:
+4 (i) The type, number, and location of each collection opportunity;
+5 (ii) A description of how each of the program requirements established in this section will
+6 be met;
+7 (iii) Performance targets for each covered material, as applicable, to be managed through
+8 an alternative collection program; and
+9 (iv) How the alternative collection program will work in combination with the collection
+10 systems described in this section to meet performance targets for any material type that is managed
+11 through a combination of an alternative collection program and the commingled systems described
+12 in this section.
+13 (c) The producer responsibility organization shall draw on the findings of the baseline
+14 assessment and consult with the advisory board, producers submitting individual program plans,
+15 service providers, and other interested parties to develop or amend the recyclable or compostable
+16 covered materials lists and shall review any requests by interested parties for addition or removal
+17 of covered materials from the lists created under this section.
+18 (d) In developing the lists under this section, the producer responsibility organization may
+19 consider
+20 (1) The availability of recycling and composting collection services;
+21 (2) Recycling and composting processing infrastructure;
+22 (3) Capacity and technology for sorting covered materials;
+23 (4) Whether a covered material is of a type and form that is regularly sorted and aggregated
+24 into defined streams for recycling processes or is included in a relevant Institute of Scrap Recycling
+25 Industries specification or its successors;
+26 (5) Availability of responsible markets;
+27 (6) Presence and amount of processing residuals, contamination, and toxic substances;
+28 (7) Quantity of covered material estimated to be available and recoverable; and
+29 (8) Projected future conditions for the criteria in this section.
+30 (e) The producer responsibility organization may propose amendments to these lists as part
+31 of its annual report to the advisory board and department. Upon approval, the producer
+32 responsibility organizations shall provide amended lists to service providers as soon as possible
+33 after approval and incorporate changes in relevant service provider reimbursement rates within a
+34 year.
+LC002567 - Page 21 of 33
+1 (f)(1) To be eligible for reimbursement for covered services provided under the program,
+2 service providers shall be registered with the department as required in § 23-19.19-4 and shall
+3 provide covered services for all readily recyclable and compostable covered materials in a manner
+4 that facilitates attaining the rate targets established in the final plan and in compliance with
+5 requirements in this section.
+6 (2) The director may grant a service provider an exception to the requirements of subsection
+7 (a) of this section if the service provider demonstrates to the reasonable satisfaction of the director
+8 that it is not able to provide covered services or meet the convenience standards for a readily
+9 recyclable or compostable material.
+10 (3) Notwithstanding any law to the contrary, nothing in this chapter restricts a service
+11 provider from collecting or processing covered materials that are not included in the minimum
+12 recyclable or compostable lists.
+13 (g)(1) The organization shall contract with service providers to provide covered entities
+14 with convenient and equitable access to covered services for all readily recyclable and compostable
+15 covered materials, at no charge to the covered entity, with the goal of achieving the recycling rate,
+16 collection rate, and postconsumer recycled content rate targets established in the final plan under
+17 §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8.
+18 (2) The collection of readily recyclable and compostable covered materials shall be
+19 provided in a manner that is as convenient as the collection of solid waste in the geographic area in
+20 which the covered entity is located.
+21 (3) Any covered entities in the state that are receiving covered services on December 31,
+22 2027 shall continue to receive equivalent covered services through the program or a service
+23 provider once the final plan is implemented.
+24 (4) The organization shall not restrict a person's ability to contract directly with service
+25 providers to obtain covered services for covered materials.
+26 (5) Notwithstanding any law to the contrary, nothing in this chapter voids or cancels any
+27 contract between a resident and a service provider for the provision of recycling or composting
+28 services that is executed prior to December 31, 2027.
+29 23-19.19-10. Education and outreach program.
+30 (a) The organization shall develop and implement a statewide education and outreach
+31 program that is designed to increase the recycling, composting, and reuse of covered materials and
+32 includes education and outreach on proper end-of-life management of covered materials, the
+33 location and availability of covered services under the program, and how to prevent littering in the
+34 process of providing covered services.
+LC002567 - Page 22 of 33
+1 (b) The education and outreach program shall, at a minimum:
+2 (1) Provide clear and concise recycling, composting, and reuse instructions that are
+3 consistent statewide and accessible for all demographic groups;
+4 (2) Coordinate and align existing recycling education materials and services provided
+5 throughout the state; and
+6 (3) Be designed to help the state achieve the minimum collection rate and minimum
+7 recycling rate targets established in the final plan and reduce levels and impacts of inbound
+8 contamination from covered materials at materials recovery facilities and compost facilities.
+9 (c) The organization shall consult with the advisory board and other entities providing
+10 recycling education in the state on the development and distribution of education outreach services
+11 and materials. The organization may contract with service providers, local governments, and
+12 nonprofit organizations to conduct recycling education and outreach services under the program
+13 developed under this section.
+14 (d) The organization shall develop a proposed methodology for evaluating and reporting
+15 on the effectiveness of the education and outreach program.
+16 23-19.19-11. Producer requirements, records, and data.
+17 (a) Producers shall join the approved producer responsibility organization by July 1, 2026.
+18 As an alternative to participating in the program, a producer shall notify the department and the
+19 approved producer responsibility organization of its intent to submit an individual program plan
+20 proposal. A producer shall notify the department of its initial intent to submit an individual program
+21 plan proposal by July 1, 2026.
+22 (b) Effective July 1, 2027, a producer shall not sell or distribute any products that use
+23 covered materials in the state unless the producer is participating in the program as a member of
+24 the organization or having notified the department of its intent to submit an individual program
+25 plan proposal. Participation includes providing data necessary to meet its plan obligations as
+26 determined by the organization and may use prorated national or regional data if state-specific data
+27 is not available or feasible to generate. Participation also includes payment of dues according to the
+28 schedule developed by the organization on the terms and conditions established by the organization.
+29 (c) A producer shall make all documents and records related to the calculation and payment
+30 of producer responsibility dues, recycling rates, collection rates, postconsumer recycled content
+31 rates, and any other materials necessary for the director to determine compliance with this chapter
+32 available for inspection by the director. In connection with enforcing a violation by a producer
+33 pursuant to § 23-19.19-13, the director may request in writing that the producer provide any such
+34 documents or records to the director.
+LC002567 - Page 23 of 33
+1 (d) The director, the advisory board, the organization, an additional producer responsibility
+2 organization, and any other person administering a plan approved by the director pursuant to this
+3 chapter shall keep confidential any proprietary information provided by a producer and shall not
+4 include any proprietary information provided by a producer in the plan proposal, the amended plan
+5 proposal, the final plan, any other plan approved by the director pursuant to this chapter, or any
+6 amendment to the final plan or other plan approved by the director pursuant to this chapter.
+7 23-19.19-12. Annual reporting.
+8 (a) The organization, any additional producer responsibility organization, and any person
+9 administering a plan approved by the director pursuant to this chapter shall cause to be conducted
+10 an annual financial audit of the program or any other plan approved by the director pursuant to this
+11 chapter by an independent third-party auditor.
+12 (b)(1) Before March 31 of the second year of the program's implementation, and by March
+13 31 each year thereafter, the organization shall submit a report to the advisory board describing the
+14 progress of the program. The advisory board shall review the report and forward the report to the
+15 director. The advisory board shall also review any proposed amendments to the final plan and any
+16 updates to the minimum recyclable or compostable lists and forward the amendments and updates
+17 to the director with its recommendation for approval or rejection. The director shall post the report
+18 on the department's website. The program report shall include the following information from the
+19 preceding calendar year:
+20 (i) A detailed description of the progress toward each element of the final plan as described
+21 in §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8;
+22 (ii) A list of all the producers, brands, and covered materials covered by the final plan;
+23 (iii) A list of known producers that are not participating in the program and any known
+24 producers that may be out of compliance with one or more obligations imposed by this chapter;
+25 (iv) The total amount of producer responsibility dues collected under the program,
+26 including an annual schedule of producer responsibility dues assessed by weight for each type of
+27 covered material and any annual increases or decreases in the dues schedule and the reasons for
+28 these adjustments;
+29 (v) The total weight of each type of covered materials that producers used for products that
+30 were sold or distributed in the state;
+31 (vi) The total weight of each type of covered material that was collected and recycled under
+32 the program, with the data broken down by the means of collection, including by curbside service,
+33 drop-off center, or other means;
+34 (vii) The number of covered entities, by type, such as single-family residential and multi-
+LC002567 - Page 24 of 33
+1 family residential, and the means of collection, including curbside service, drop-off, or other means;
+2 (viii) A list of the names, locations, and scope of services for curbside, drop-off, and other
+3 operations accepting or collecting covered materials under the program;
+4 (ix) The collection and recycling rates for all covered materials and by type of covered
+5 materials and the postconsumer recycled content rate as applicable for each type of covered
+6 material; a description of the organization's process in achieving the minimum rate targets set forth
+7 in the final plan; and in the event that the program is not on target to meet the rates, actions the
+8 organization plans to undertake to meet the rates;
+9 (x) The rate methodology and/or schedules for reimbursement to service providers, any
+10 proposed adjustments to the methodology, and a summary of any disputes arising between the
+11 organization and service providers concerning rates and how the disputes were addressed;
+12 (xi) A summary of the education and outreach efforts implemented, including samples of
+13 materials distributed and the methodology and results of the evaluation of education program
+14 effectiveness;
+15 (xii) A description of the organization's efforts to ensure that covered materials have been
+16 responsibly managed and delivered to responsible end markets under the program, including a list
+17 of the recycling end markets for each type of covered materials processed;
+18 (xiii) A financial statement of income and expenses supported by a copy of the independent
+19 third party's report auditing the program pursuant to subsection (a) of this section;
+20 (xiv) A description of the status of reserve funds, an assessment of the adequacy of those
+21 funds to cover program costs, and a description of how any program funding shortfalls will be
+22 addressed; and
+23 (xv) Any amendments to the final plan, including any updates to the minimum recyclable
+24 or compostable lists.
+25 (c) The responsible organization or person administering any additional plan approved by
+26 the commissioner shall also submit a report to the advisory board by March 31 of the second year
+27 of any such plan and every March 31 thereafter describing the progress of the plan. The report shall
+28 include the information described in subsection (b)(1) of this section, as applicable, from the
+29 preceding calendar year. The advisory board shall review the report and forward the report to the
+30 director. The advisory board shall also review any proposed amendments to the plan and forward
+31 the amendments to the director with its recommendation for approval or rejection. The director
+32 shall post the report on the department's website.
+33 (d) If, based on the annual reports submitted under this section, the program or any other
+34 plan approved by the director pursuant to this chapter is not on track to meet the minimum
+LC002567 - Page 25 of 33
+1 collection rates, minimum recycling rates, or minimum postconsumer recycled content rates set
+2 forth in the program or plans, the director may require the organization, additional producer
+3 responsibility organization, or other person responsible for administering a plan approved by the
+4 director under this chapter to amend its respective plan as described in § 23-19.19-8.
+5 (e) Department report. The director shall annually compile the results of the reports
+6 received pursuant to this section into a general report describing the progress of the program and
+7 any other plans approved by the director pursuant to this chapter. The department report shall
+8 include a review of the department's activities and expenses that were reimbursed pursuant to § 23-
+9 19.19-17. The director shall post the report on the department's website and submit the report to the
+10 governor, to the senate committee on environment and agriculture, and to the house committee on
+11 environment and natural resources.
+12 23-19.19-13. Enforcement and penalties.
+13 (a) If the organization, an additional producer responsibility organization, a person
+14 administering a plan approved by the director pursuant to this chapter, a producer, or a service
+15 provider (referred to in this section as a "regulated entity") violates any portion of this chapter, the
+16 regulated entity is liable for an administrative penalty not to exceed:
+17 (1) For a first violation, an initial penalty of two thousand dollars ($2,000) for the first day
+18 of each violation and one thousand dollars ($1,000) per day for each day the violation continues;
+19 (2) For a second violation committed within twelve (12) months after a prior violation, an
+20 initial penalty of five thousand dollars ($5,000) for the first day of each violation and two thousand
+21 five hundred dollars ($2,500) per day for each day the violation continues; and
+22 (3) For a third or subsequent violation committed within twelve (12) months after two (2)
+23 or more prior violations, an initial penalty of ten thousand dollars ($10,000) for the first day of each
+24 violation and five thousand dollars ($5,000) per day for each day the violation continues.
+25 (b)(1) If the regulated entity violates any portion of this chapter, the director shall serve by
+26 personal service or by certified mail an order that imposes an administrative penalty.
+27 (2) The regulated entity may submit a written request for a hearing to the director by
+28 personal service or by certified mail within thirty (30) calendar days after the date of the order
+29 imposing an administrative penalty. The department's office of administrative adjudication shall
+30 conduct the hearing.
+31 (3) If a request for a hearing is filed, the requirement to pay a penalty is stayed pending a
+32 final decision by the office of administrative adjudication after a hearing on the merits. The director
+33 is not precluded from imposing an administrative penalty against the regulated entity for subsequent
+34 violations of this chapter committed during the pendency of the stay.
+LC002567 - Page 26 of 33
+1 (4) The director bears the burden of proof by a preponderance of the evidence in a hearing
+2 held pursuant to this section.
+3 (c) The director may enter into a settlement agreement with a regulated entity assessed an
+4 administrative penalty under this section.
+5 (d) The director shall transfer any money collected under this section to the office of the
+6 general treasurer, which shall credit the money to the ocean state climate adaptation and resilience
+7 fund established in the § 46-23.3-4.
+8 (e) Notwithstanding any law to the contrary, nothing in this chapter:
+9 (1) Creates a private right of action; or
+10 (2) Authorizes enforcement of this chapter against anyone other than a regulated entity.
+11 23-19.19-14. Limited exemption from antitrust and unfair trade practices.
+12 If the program or any other plan approved by the director pursuant to this chapter engages
+13 in an activity performed solely in furtherance of implementing the program or plan and in
+14 compliance with this chapter, the activity is not a violation of the antitrust provisions of the Rhode
+15 Island antitrust act in chapter 36 of title 6 or of the unfair methods of competition and unfair or
+16 deceptive acts or practices described in the deceptive trade practices provisions of chapter 13.1 of
+17 title 6.
+18 23-19.19-15. Local government eligibility and obligations.
+19 (a) Nothing in this chapter affects a person's eligibility for any state or local incentive
+20 programs for which the person is otherwise eligible.
+21 (b) Notwithstanding any law to the contrary, a local government is not required to provide
+22 covered services under the program or any other plan approved by the director pursuant to this
+23 chapter. To the extent that a local government elects to provide covered services under the program
+24 or any other plan approved by the director pursuant to this chapter, the organization, additional
+25 producer responsibility organization, or other person responsible for administering a plan approved
+26 by the director under this chapter shall reimburse the local government for those covered services
+27 in accordance with § 23-19.19-9 and the final plan or any other plan approved by the director
+28 pursuant to this chapter.
+29 (c) A local government that receives reimbursement funds from the organization or in
+30 accordance with any other plan approved by the director shall use such funds for the local
+31 government's recycling program and shall not charge residents for costs reimbursed through the
+32 program.
+33 23-19.19-16. Restriction on consumer fees.
+34 A person shall not charge any kind of point-of-sale or point-of-collection fee to consumers
+LC002567 - Page 27 of 33
+1 to recoup its costs in meeting the obligations of or complying with this chapter. Nor shall a service
+2 provider charge a fee for costs for which the service provider is reimbursed under this chapter.
+3 23-19.19-17. Administrative fund.
+4 (a) There is hereby created in the office of the general treasurer the extended producer
+5 responsibility for packaging and paper administrative fund, referred to in this section as the "fund."
+6 The fund consists of any producer funds designated for administrative costs pursuant to this section,
+7 including a portion of dues transferred to the fund by the organization and administrative funds
+8 transferred from an additional producer responsibility organization or a person administering a plan
+9 approved by the director pursuant to this chapter. The fund also includes money that the general
+10 assembly transfers to the fund for use by the department. Payments for administrative costs made
+11 in accordance with approved plans are limited to reimbursing:
+12 (1) The department, including the advisory board, for the reasonable costs incurred in
+13 administering and implementing any portion of this chapter; and
+14 (2) The department for the reasonable costs incurred in enforcing this chapter.
+15 (b)(1) By August 1, 2026, the department shall notify the organization of the costs in
+16 administering, implementing, and enforcing this chapter from the effective date of this chapter
+17 through June 30, 2026.
+18 (2) By August 1 of each subsequent year, the department shall notify the organization of
+19 the costs of administering, implementing, and enforcing this chapter during the immediately
+20 preceding state fiscal year.
+21 (c) Upon receipt of the department's cost accounting, the organization, an additional
+22 producer responsibility organization, or a person administering a plan approved by the director
+23 pursuant to this chapter shall transmit to the general treasurer, for deposit in the fund, their allocated
+24 share of the funds necessary to reimburse the department for its costs.
+25 (d) The general assembly shall annually appropriate money from the fund to the department
+26 for the purposes set forth in this section.
+27 (e) All unexpended and unencumbered money in the fund at the end of any state fiscal year
+28 remains in the fund and shall not be credited or transferred to the general fund or any other fund;
+29 this money shall be used to reduce the reimbursement obligations under subsection (b) of this
+30 section. All interest derived from the deposit and investment of money in the fund remains in the
+31 fund and does not revert to the general fund.
+32 23-19.19-18. No obligation to provide covered services.
+33 Notwithstanding any law to the contrary, a private service provider is not required to
+34 provide covered services under the program or any other plan approved by the director pursuant to
+LC002567 - Page 28 of 33
+1 this chapter.
+2 23-19.19-19. Regional coordination and harmonization encouraged.
+3 The department and any approved organizations shall seek opportunities for coordination
+4 and harmonization with similar programs in the region including, but not limited to, conduct of the
+5 baseline assessment, management of organizations, development of the minimum recyclable or
+6 compostable lists, and composition and representation of the advisory committee. Further, the
+7 organizations and service providers shall seek to optimize scale through regional recycling services
+8 and infrastructure wherever practical.
+9 23-19.19-20. Severability.
+10 If any provision of this chapter or the application thereof to any person or circumstance is
+11 held invalid, such invalidity does not affect other provisions or applications of the chapter that can
+12 be given effect without the invalid provision or application, and to this end the provisions of this
+13 chapter are declared to be severable.
+14 SECTION 2. The title of Chapter 44-44 of the General Laws entitled "Taxation of Beverage
+15 Containers and Hard-To-Dispose Material" is hereby amended to read as follows:
+16 CHAPTER 44-44
+17 Taxation of Beverage Containers and Hard-To-Dispose Material
+18 CHAPTER 44-44
+19 TAXATION OF HARD-TO-DISPOSE MATERIAL
+20 SECTION 3. Sections 44-44-3, 44-44-8 and 44-44-13 of the General Laws in Chapter 44-
+21 44 entitled "Taxation of Beverage Containers and Hard-To-Dispose Material" are hereby repealed.
+22 44-44-3. Imposition of tax on beverage containers.
+23 There shall be levied and imposed a tax of eight cents ($0.08) on each case of beverage
+24 containers sold by a beverage wholesaler to a beverage retailer or consumer within this state. The
+25 tax shall be collected by the beverage wholesaler. The tax provided for in this section shall not be
+26 levied, imposed, or collected on reusable and refillable beverage containers.
+27 44-44-8. Records required — Inspection of records.
+28 Every beverage wholesaler shall keep books, including records, receipts, and other
+29 pertinent papers, in a form the tax administrator may require. The records shall be open at all times
+30 to the inspection of the tax administrator and his or her agents and, upon summons issued by the
+31 tax administrator, shall be produced at the time and place that he or she may designate for inspection
+32 by the tax administrator or his or her agents.
+33 44-44-13. Contingency provision.
+34 The provisions of this chapter shall become null and void, and the tax imposed under this
+LC002567 - Page 29 of 33
+1 chapter shall terminate, if federal or state legislation is enacted which requires a deposit on beverage
+2 containers.
+3 SECTION 4. Sections 44-44-1, 44-44-2, 44-44-4, 44-44-17, 44-44-18 and 44-44-19 of the
+4 General Laws in Chapter 44-44 entitled "Taxation of Beverage Containers and Hard-To-Dispose
+5 Material" are hereby amended to read as follows:
+6 44-44-1. Purpose.
+7 This chapter is enacted to provide funding for the litter reduction and recycling program,
+8 created pursuant to chapter 15.1 of title 37, and the hard-to-dispose material — control and
+9 recycling program, created pursuant to chapter 15.1 of title 37.
+10 44-44-2. Definitions.
+11 As used in this chapter:
+12 (1) "Beverage" means all non-alcoholic drinks for human consumption, except milk but
+13 including beer and other malt beverages.
+14 (2) "Beverage container" means any sealable bottle, can, jar, or carton which contains a
+15 beverage.
+16 (3) "Beverage retailer" means any person who engages in the sale of a beverage container
+17 to a consumer within the state of Rhode Island, including any operator of a vending machine.
+18 (4) "Beverage wholesaler" means any person who engages in the sale of beverage
+19 containers to beverage retailers in this state, including any brewer, manufacturer, or bottler who
+20 engages in those sales.
+21 (5) "Case" means:
+22 (i) Forty-eight (48) beverage containers sold or offered for sale within this state when each
+23 beverage container has a liquid capacity of seven (7) fluid ounces or less;
+24 (ii) Twenty-four (24) beverage containers sold or offered for sale within this state when
+25 each beverage container has a liquid capacity in excess of seven (7) fluid ounces but less than or
+26 equal to sixteen and nine tenths (16.9) fluid ounces;
+27 (iii) Twelve (12) beverage containers sold or offered for sale within this state when each
+28 beverage container has a liquid capacity in excess of sixteen and nine tenths (16.9) fluid ounces but
+29 less than thirty-three and nine tenths (33.9) fluid ounces; and
+30 (iv) Six (6) beverage containers sold or offered for sale within this state when each
+31 beverage container has a liquid capacity of thirty-three and nine tenths (33.9) fluid ounces or more.
+32 (6) "Consumer" means any person who purchases a beverage in a beverage container for
+33 use or consumption with no intent to resell that filled beverage container.
+34 (7) "Hard-to-dispose material" is as defined in § 37-15.1-3.
+LC002567 - Page 30 of 33
+1 (8) "Hard-to-dispose material retailer" means any person who engages in the retail sale of
+2 hard-to-dispose material (as defined in § 37-15.1-3) in this state.
+3 (9) "Hard-to-dispose material wholesaler" means any person, wherever located, who
+4 engages in the sale of hard-to-dispose material (as defined in § 37-15.1-3) to customers for sale in
+5 this state (including manufacturers, refiners, and distributors and retailers), and to other persons as
+6 defined above.
+7 (10) "New vehicle" means any mode of transportation for which a certificate of title is
+8 required pursuant to title 31 and for which a certificate of title has not been previously issued in
+9 this state or any other state or country.
+10 (11) "Organic solvent" is as defined in § 37-15.1-3.
+11 (12) "Person" means any natural person, corporation, partnership, joint venture,
+12 association, proprietorship, firm, or other business entity.
+13 (13) "Vending machine" means a self-contained automatic device that dispenses for sale
+14 foods, beverages, or confection products.
+15 44-44-4. Filing of returns and extensions of time for filing returns.
+16 On or before the twenty-fifth day of the month next succeeding the month in which any
+17 taxes imposed by this chapter are collected, the beverage wholesaler and/or hard-to-dispose
+18 material wholesaler or hard-to-dispose material retailers or person liable for tax pursuant to § 44-
+19 44-3.7, shall pay the taxes to the tax administrator and at the same time shall file a return in a form
+20 that the tax administrator may by regulation prescribe. The tax administrator may grant reasonable
+21 extensions of time for filing returns under rules and regulations that he or she prescribes. If any
+22 taxes are not paid to the tax administrator when due, or if any return is not filed when due, there
+23 shall be added to the taxes and made a part of the taxes interest at the rate set forth in § 44-1-7 from
+24 the date when the taxes became due until the date of payment.
+25 44-44-17. Deficiency determination — Determination without return.
+26 If any hard-to-dispose material wholesaler or hard-to-dispose material retailer or person or
+27 beverage wholesaler fails to file a return or application or to keep records described in § 44-44-8,
+28 or if the tax administrator is not satisfied with the amount of taxes or fees paid to the tax
+29 administrator, the tax administrator may compute and determine the amount required by this
+30 chapter to be paid to the tax administrator upon the basis of the facts contained in the returns or
+31 applications that have been filed or upon the basis of any information in the tax administrator's
+32 possession or that may come into the tax administrator's possession.
+33 44-44-18. Notice of determination.
+34 The tax administrator shall give written notice of the tax administrator's determination to
+LC002567 - Page 31 of 33
+1 the beverage wholesaler or hard-to-dispose material wholesaler or hard-to-dispose material retailer
+2 or person. Except in the case of fraud or failure to make a return, or noncompliance with § 44-44-
+3 8, every notice of determination shall be mailed within three (3) years of the date the taxes first
+4 became due. The amount of this determination shall bear interest at the rate prescribed in § 44-1-7
+5 from the date when taxes should have been paid until the date of payment.
+6 44-44-19. Payment of refunds.
+7 Whenever the tax administrator shall determine that any beverage wholesaler or hard-to-
+8 dispose material wholesaler or hard-to-dispose material retailer or person is entitled to a refund of
+9 any moneys paid under the provisions of this chapter, or whenever a court of competent jurisdiction
+10 orders a refund of any moneys paid, the general treasurer shall, upon certification by the tax
+11 administrator, pay the refund from any moneys in the litter control account or hard-to-dispose
+12 material account other than those moneys already appropriated for the administration of the taxes
+13 and programs entitled by this chapter and § 37-15-13; provided, that no refund shall be allowed
+14 unless a claim for a refund is filed with the tax administrator within three (3) years from the date
+15 the overpayment was made. Every claim for a refund shall be made in writing, shall be in a form,
+16 and shall present only information that the tax administrator may, by regulation, require. Within
+17 thirty (30) days after disallowing any claim in whole or in part the tax administrator shall give
+18 written notice of the tax administrator's decision to the beverage wholesaler or hard-to-dispose
+19 material wholesaler or hard-to-dispose material retailer or person. A refund of less than ten dollars
+20 ($10.00) will not be processed, but may be credited to the following month's return without interest.
+21 SECTION 5. Sections 2, 3 and 4 of this act shall take effect upon the director of the
+22 department of environmental management approving the final plan set forth in Section 1 of this act.
+23 The remaining sections of this act shall take effect upon passage.
+========
+LC002567
+========
+LC002567 - Page 32 of 33
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+FOR PACKAGING AND PAPER ACT
+***
+1 This act would create the extended producer responsibility for packaging and paper
+2 program for the recycling of packaging and paper products.
+3 Sections 2, 3, and 4 of this act would take effect upon the director of the department of
+4 environmental management approving the final plan set forth in Section 1 of this act. The remaining
+5 sections of this act would take effect upon passage.
+========
+LC002567
+========
+LC002567 - Page 33 of 33
+[DELETED: TATE  OF  RHODE  ISLAND S a C E 2 ( F ( i s r t p a c t p p a e P r t e 2 A ( " b m t p r p f t s]
+[DELETED:  r ( p ( e ( p d b p w o i t s i t s c y e a a p ( a ( c d ( f ( a ( " e m t f l i t s f w c m ( ( ( ( ( ( o c m i t c f c e t v m i c a d s t o c m s a c ( r ( ( (]
+[DELETED:  c ( ( ( ( ( " s m p m p t e c ( ( e ( ( c ( " r o c l m t l o c m e ( o a ( w d ( p ( ( ( P i p p g m c f f r p ( ( ( ( ( ( p]
+[DELETED:  ( ( d C p ( v f ( F ( p 1 ( a a m f t o i i f b b t a o d p ( ( ( r d i ( " r m m o t c m t h s w ( ( a ( f ( u (]
+[DELETED:  ( s t ( i i ( t ( S f ( p ( s ( F p u t d p o c t i t p o t p ( t ( ( o ( F p p t a m c t d o s p ( ( p ( I t i n p w s ( o s a p p w ( t (]
+[DELETED:  s U p ( s ( o s t p a t p a t p h j a r p r o t ( o t s t p s p w c o t c a ( b h ( ( d e t ( d ( ( ( " r o o " m a n o ( p ( c w ( t]
+[DELETED:  ( m ( ( ( ( p d b p w o i t s i t s c y e a a p p r ( " e m m a m m i w t r c t ( i o ( h m ( " p m a p o p e o t t p r e 2 ( T p r p f s r a b i h t ( n ( ( t ( (]
+[DELETED:  ( c ( O v m r a p s c o r c m ( o ( w t ( a ( b ( p ( m ( O v m w h e i e j a r u ( o ( ( ( r p o t i o c m o t s a t e I a a ( 3 s t v ( f m t v m s s a c a v f a t v]
+[DELETED:  m b o t m ( ( ( o a ( ( t ( R t b a r t t a b p t t p ( ( p ( p ( m a ( r 2 ( o s a b F 1 2 f r b s t t c c i ( s r b t o a i e a a o i s o c]
+[DELETED:  ( T o d b t d p t t s s h a g a b ( ( ( s i i t d o t c f r t p ( t ( o ( m o ( T d m d a n o a a a p r t ( ( ( ( ( I t d d a a p r o t a 6 t r a ( p r o t d s p b r a r s a p]
+[DELETED:  u s d a A c ( p s ( ( ( c c ( a a s 2 ( a s b ( T b a i a c o i c f s p s s s a ( l ( o c]
+[DELETED:  p ( m ( p ( t ( e ( s ( ( ( ( ( t ( m ( c ( a ( c i ( a s n a b A 3 2 i a s o a c r a s 2 O t]
+[DELETED:  p y p o 2 T ( P c i f t o a a r o t o ( a ( s a s ( t c t c a p a c w t d t b p ( m ( ( M o e t c s f c m o t p c ( w ( s ( w ( ( p r ( (]
+[DELETED:  t ( o ( ( ( ( ( a ( c ( v o c m ( ( p ( f ( p f ( ( i ( v ( ( s ( ( I e f t i p r d t]
+[DELETED:  d ( c ( ( P u o c m t a n o t m r o c ( a c t ( I a p b a a d o t p u t d p w c ( m ( s i s c a ( ( p ( ( s ( o w ( ( (]
+[DELETED:  ( r ( ( T p o c c m w a s c ( ( t ( ( c c ( ( A c o s p i e p a c ( r ( t m c p ( m ( D t p t d a r t r m a n ( t p h a p r d t h n b u t i t p p a ( § (]
+[DELETED:  3 ( m ( p g m a p b e c m t c i p p ( a a s r ( p o ( f ( f ( t ( ( U a e o e c s a i a e e ( a ( p a ( P f o a t c o m r ( (]
+[DELETED:  a ( ( ( p p ( D h t p w p t u o e m t r p ( m ( s ( 2 ( a ( t o p ( T o s p r a t t a b r d ( a r r ( o p ( t ( n]
+[DELETED:  b s w r e w ( s a ( i ( a a ( a t a r d T o s c w t a b o t p ( w i ( p o o ( T d s e t c i a w § 2 a t d t c N a l t t c t o s n m a d ( B D 3 2 a D t a a p p p (]
+[DELETED:  ( ( c ( s ( r ( a o r a i p p p i a w t c a p t a ( t a i 2 ( c c T c m s b c a a o l a m o s a c s ( T p r o m p a l o c m d s ( ( o ( a ( ( c]
+[DELETED:  ( t ( ( ( b ( a ( s t i ( a s c o ( c ( ( ( ( i I ( ( ( ( ( o i a r t t a b a d U a t p r a y]
+[DELETED:  ( s p t f a t r t e i t f p a i c w r ( ( t r ( p r ( w c c § ( T c o r r a c c m s b p w ( 2 s c t r e c s t t p o a s p ( p ( c s 2 ( p i e a o o p e m o c m t l p]
+[DELETED:  ( ( P c a c r c a r i t a c ( a t ( B d t h s t m c a r r t e i t f p a r l a i o i c ( r a m T o m c w s p l g a n d ( o 2 ( A a p p ( c t p p P i p d n t m i p o a d i s ( o r a p d]
+[DELETED:  ( o c i p a 2 ( a a c ( 3 p d u t o p ( i ( ( p ( T t a o p r d c u t p i c t ( w ( t d (]
+[DELETED:  f ( o ( m a t p r c r a a f e t o c m i o ( p o ( m e ( r o ( t ( f a ( o ( t o i p d t s ( p a b t d p t t c i n o t t m t m]
+[DELETED:  c f i t p o p t d m r t o a p r d ( D r T d s a c t r o t r r a i 1 g e 2 ( I t o a a p r o a p a p r ( o ( i f ( o v ( p ( p i c ( f i v]
+[DELETED:  ( h ( a ( g f ( ( ( 2 I i a a p s i f o i t p o p a i c I d t 2 ( p ( c c o p b i p ( a w a o p a b t d s u s f f t l g p 2 A]
+[DELETED:  t p 2 ( r T i t a a i ( a ( ( a t ( t c o a i a e t c d t i p ( U r o t d c a t o a a p p s ( f ( r t s f 2 N p]
+[DELETED:  t 2 T a b c o a 2 I h b c S C C T C T S 4 4 T c t l 4 E b w s k b i r r a o p t t b 4 T]
+[DELETED:  c c S G M 4 T c p t c 1 o t 3 a t h m — c a r 4 A ( i ( b ( t ( " w m a p w e i t s o b c e ( ( b ( e e ( b l ( S ( b c s o o f s w t s w e b ( u (]
+[DELETED:  ( h ( " m w m a p w l w e t d ( r t ( ( " m a n p c p j v a ( f 4 O t i b t c a c t b w a h m 4 t e t s t 4 I b o i t t a i n s w t a o t o f p t t t a t t a m c a d t a r b t c a p 4 T]
+[DELETED:  t o 8 b f 4 W d a o a m a u t a t w m ( S d T]
+[DELETED:  T a w c t e p r f p a p p S e s]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0939
+========
+LC002567
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+FOR PACKAGING AND PAPER ACT
+Introduced By: Senator Jacob Bissaillon
+Date Introduced: April 04, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 19.19
+4 EXTENDED PRODUCER RESPONSIBILITY FOR PACKAGING AND PAPER ACT
+5 23-19.19-1. Legislative intent.
+6 (a) This chapter shall be known and may be cited as the "Extended Producer Responsibility
+7 For Packaging and Paper Act."
+8 (b) The legislature finds that valuable resources are wasted when products are disposed
+9 instead of recycled or reused and that state and local policy have created a municipal recycling
+10 system that lacks coordination, adequate funding, and accountability. Product producers have a
+11 responsibility to correct these shortcomings by funding municipal recycling programs; improving
+12 those programs; and coordinating their planning, performance, and effectiveness. Producer
+13 responsibility is in the public interest of the state and furthers environmental objectives, including
+14 the establishment of a circular economy, preserving resources, and reducing carbon and other
+15 emissions associated with primary production.
+16 23-19.19-2. Definitions.
+17 As used in this chapter, unless the context requires otherwise:
+18 (1) "Advisory board" means the producer responsibility program for the statewide
+
+1 recycling advisory board created in § 23-19.19-3.
+2 (2) "Baseline assessment" means the assessment of the state's recycling baseline conducted
+3 pursuant to § 23-19.19-5.
+4 (3) "Collection" means the gathering and transportation of covered materials from covered
+5 entities for the purpose of recycling.
+6 (4) "Collection rate" means the weight of covered materials that are collected under the
+7 program in a calendar year divided by the weight of covered materials used for products sold or
+8 distributed by producers within or into the state in the same calendar year, expressed as a
+9 percentage.
+10 (5) "Compost" means the material or product that is developed under controlled conditions
+11 and that results from biological degradation processes by which organic wastes decompose.
+12 (6) "Compostable" means a covered material associated with organic waste streams that is
+13 capable of undergoing aerobic biological decomposition in a controlled composting system as
+14 demonstrated by meeting ASTM D6400 or ASTM D6868, or any successor standards.
+15 (7) "Compost facility" means a site where compost is produced and includes only those
+16 facilities that readily accept and process packaging collected from consumers.
+17 (8) "Consumer" means any person who purchases or receives covered materials in the state
+18 and is located at a covered entity.
+19 (9) "Covered entity" means the following locations in the state from which covered
+20 materials are collected:
+21 (i) All single-family residences in the state; and
+22 (ii) All multifamily residences in the state.
+23 (10) "Covered materials" includes:
+24 (i) Packaging as defined in this section; and
+25 (ii) Paper products as defined in this section.
+26 (11) "Covered services" means services provided for the recycling, composting, or reuse
+27 of covered materials, including the collection from covered entities through various means,
+28 including curbside and drop-off services; transportation of collected materials; sorting and
+29 contamination removal; and processing of covered materials for end markets.
+30 (12) "Covered services costs" means the reasonable net costs of recycling, composting, or
+31 reuse programs to provide covered services, including applicable costs related to:
+32 (i) The administration of the programs;
+33 (ii) Capital investments in the programs;
+34 (iii) The collection, transportation, sorting, and processing of covered materials net of the
+LC002567 - Page 2 of 33
+
+1 commodity value earned from the sale of materials;
+2 (iv) Public education about the programs; and
+3 (v) Disposal of nonmarketable collected covered materials.
+4 (13) "Department" means the department of environmental management.
+5 (14) "Director" means the director of the department of environmental management.
+6 (15) "Environmentally sound management practices" means policies that ensure
+7 compliance with all applicable environmental laws, including laws addressing:
+8 (i) Record keeping;
+9 (ii) Tracking and documenting the disposition of covered materials collected from covered
+10 entities; and
+11 (iii) Environmental liability coverage for professional services and contractor operations.
+12 (16) "Materials recovery facility" means a facility for processing covered materials that are
+13 collected for recycling before they are conveyed to end-market businesses.
+14 (17) "Minimum recyclable or compostable lists" means the lists of covered materials
+15 eligible for collection and reimbursement, developed under § 23-19.19-9.
+16 (18) "Nonprofit organization" means a tax-exempt charitable or social welfare organization
+17 operating under 26 U.S.C. §§ 501 (c)(3) or (4) of the federal "Internal Revenue Code of 1986 as
+18 amended".
+19 (19) "Packaging" or "consumer packaging" means any material, regardless of recyclability,
+20 which is intended for short-term use and is used for the containment, protection, handling, or
+21 delivery of products to the consumer at the point of sale, including through an Internet transaction.
+22 (i) Packaging includes products supplied to or purchased by consumers for the express
+23 purpose of facilitating food or beverage consumption and that are:
+24 (A) Ordinarily disposed of after short-term use; and
+25 (B) Not designed for reuse or refill.
+26 (ii) Packaging includes paper, plastic, glass, metal, cartons, flexibles, foams, rigid
+27 packaging, or other materials or combinations of these materials.
+28 (iii) Packaging does not include:
+29 (A) Packaging that is not sold or distributed to covered entities;
+30 (B) Packaging used solely in transportation or distribution to non-consumers;
+31 (C) Packaging used exclusively in industrial or manufacturing processes;
+32 (D) Packaging used for products sold or distributed outside the state;
+33 (E) Packaging intended to be used for the long-term storage or protection of a durable
+34 product and that is intended to transport, protect, or store the product for at least five (5) years;
+LC002567 - Page 3 of 33
+
+1 (F) Beverage containers subject to a returnable container deposit, if applicable;
+2 (G) Packaging used to contain a product that is regulated as a drug, medical device, or
+3 dietary supplement by the federal food and drug administration under the "Federal Food, Drug, and
+4 Cosmetic Act", 21 U.S.C. Ch. 9 § 301 et seq., as amended, or any related federal regulations
+5 promulgated thereunder, or any equipment and materials used to manufacture such products;
+6 (H) Packaging used to contain a product that is regulated as animal biologics, including
+7 vaccines, bacterins, antisera, diagnostic kits, and other products of biological origin under the
+8 federal "Virus-Serum-Toxin Act", 21 U.S.C. Ch. 5 § 151-159, as amended;
+9 (I) Packaging used to contain a product that is regulated under the "Federal Insecticide,
+10 Fungicide, and Rodenticide Act", 7 U.S.C. Ch. 6 § 136-136y, as amended; or
+11 (J) Packaging used to contain a product that is required under state law to be sold in
+12 packaging material that meets the standards set forth in the "Poison Prevention Packaging Act of
+13 1970", 15 U.S.C. Ch. 39A § 1471 et seq., as amended.
+14 (20) "Paper products" means paper and other cellulosic fibers, whether or not they are used
+15 as a medium for text or images, including flyers, brochures, booklets, telephone and other
+16 directories, newspapers, magazines and other periodicals, and paper used for writing or any other
+17 purpose; provided, however, paper products do not include:
+18 (i) Paper products that, through their use, could become unsafe or unsanitary to handle; or
+19 (ii) Bound books.
+20 (21) "Postconsumer recycled content rate" means the average amount of postconsumer
+21 recycled material used by a producer in the production of covered materials in a calendar year
+22 divided by the amount of that type of covered material sold or distributed by producers within or
+23 into their United States market territory in the same calendar year, expressed as a percentage.
+24 (22) "Postconsumer recycled material" means only those covered materials that have
+25 served their intended end use as consumer items and that have been separated or diverted from the
+26 waste stream for the purposes of collection and recycling as a secondary material feedstock.
+27 (i) Postconsumer recycled material includes returns of material from the distribution chain.
+28 (ii) Postconsumer recycled material does not include waste material generated during or
+29 after the completion of a manufacturing process.
+30 (23) "Processing" means preparing collected covered materials at a materials recovery
+31 facility or similar establishment for sale or delivery to material reclaimers or end markets.
+32 (24) "Producer" means the following person responsible for compliance with requirements
+33 under this chapter for a covered material introduced:
+34 (i) For items sold in or with packaging at a physical retail location in this state:
+LC002567 - Page 4 of 33
+
+1 (A) If the item is sold in or with packaging under the brand of the item manufacturer or is
+2 sold in packaging that lacks identification of a brand, the producer is the person that manufactures
+3 the item;
+4 (B) If there is no person to which subsection (24)(i)(A) of this section applies, the producer
+5 is the person that is licensed to manufacture and sell or offer for sale to consumers in this state an
+6 item with packaging under the brand or trademark of another manufacturer or person;
+7 (C) If there is no person to which subsections (24)(i)(A) or (24)(i)(B) of this section apply,
+8 the producer is the brand owner of the item;
+9 (ii) If there is no person described in subsection (24)(i) of this section within the United
+10 States, the producer is the person who is the importer of record for the item into the United States
+11 for use in a commercial enterprise that sells, offers for sale, or distributes the item in this state; or
+12 (iii) If there is no person described in subsections (24)(i) or (24)(ii) of this section, the
+13 producer is the person that first distributes the item in or into this state;
+14 (iv) For items sold or distributed in packaging in or into this state via e-commerce, remote
+15 sale, or distribution:
+16 (A) For packaging used to directly protect or contain the item, the producer of the
+17 packaging is the same as the producer identified under subsection (24)(i) of this section; and
+18 (B) For packaging used to ship the item to a consumer, the producer of the packaging is
+19 the person that packages the item to be shipped to the consumer;
+20 (v) For packaging that is a covered material and is not included in subsections (24)(i) or
+21 (24)(ii) of this section, the producer of the packaging is the person that first distributes the item in
+22 or into this state;
+23 (vi) For paper products that are magazines, catalogs, telephone directories, or similar
+24 publications, the producer is the publisher;
+25 (vii) For paper products not described in subsections (24)(i) through (24)(vi) of this section:
+26 (A) If the paper product is sold under the manufacturer's own brand, the producer is the
+27 person that manufactures the paper product;
+28 (B) If there is no person to which subsection (24)(vii)(A) of this section applies, the
+29 producer is the person that is the owner or licensee of a brand or trademark under which the paper
+30 product is used in a commercial enterprise, sold, offered for sale, or distributed in or into this state,
+31 whether or not the trademark is registered in this state;
+32 (C) If there is no person to which subsection (24)(vii)(A) or (24)(B) of this section applies,
+33 the producer is the brand owner of the paper product;
+34 (D) If there is no person described in subsections (24)(vii)(A) through (24)(C) of this
+LC002567 - Page 5 of 33
+
+1 section within the United States, the producer is the person that imports the paper product into the
+2 United States for use in a commercial enterprise that sells, offers for sale, or distributes the paper
+3 product in this state; or
+4 (E) If there is no person described in subsections (24)(vii)(A) through (24)(vii)(D) of this
+5 section, the producer is the person that first distributes the paper product in or into this state.
+6 (viii) A person is the producer of a covered material sold, offered for sale, or distributed in
+7 or into this state, as defined in the prior subsections, except where another person has mutually
+8 signed an agreement with a producer as defined herein that contractually assigns responsibility to
+9 the person as the producer, and the person has joined a registered producer responsibility
+10 organization as the responsible producer for that covered material under this chapter. In the event
+11 that another person is assigned responsibility as the producer under subsections (24)(i) through
+12 (24)(vii) of this section, the producer shall provide written certification of that contractual
+13 agreement to the producer responsibility organization; and
+14 (ix) If the producer described in subsections (24)(i) through (24)(viii) of this section is a
+15 business operated, wholly or in part, as a franchise, the producer is the franchisor if that franchisor
+16 has franchisees that have a commercial presence within the state.
+17 (x) The following are excluded from the definition of producer under this chapter:
+18 (A) A person with less than five million dollars ($5,000,000) in realized gross total revenue
+19 during the prior calendar year. The department shall adjust by rule this dollar limit on July 1 of
+20 each year after enactment using the percentage change in an appropriate consumer price index for
+21 the region;
+22 (B) A person that has used less than one ton of covered materials for products sold or
+23 distributed within or into the state during the prior calendar year;
+24 (C) The state or a local government; and
+25 (D) A nonprofit organization.
+26 (25) "Producer responsibility organization" or "organization" means a nonprofit
+27 organization established pursuant to § 23-19.19-4 to implement the program.
+28 (26) "Producer responsibility program" or "program" means the producer responsibility
+29 program for statewide recycling, composting, and reuse created in accordance with this chapter.
+30 (27) "Proprietary information" means information that, if made public, would divulge
+31 competitive business information or trade secrets of the entity that developed the information or
+32 would reasonably hinder the entity's competitive advantage in the market.
+33 (28) "Readily recyclable or compostable material" means a covered material included on
+34 the minimum recyclable or compostable lists.
+LC002567 - Page 6 of 33
+
+1 (29) "Recycling" means the reprocessing, by means of a manufacturing process, of a used
+2 material into a product or a secondary raw material. Recycling does not include:
+3 (i) Energy recovery or energy generation by means of combustion;
+4 (ii) Use as a fuel; or
+5 (iii) Use as alternative daily cover at a landfill.
+6 (30) "Recycling rate" means the weight of covered materials that are recycled under the
+7 program in a calendar year divided by the weight of covered materials used for products sold or
+8 distributed by producers within or into the state in the same calendar year, expressed as a
+9 percentage. The recycling rate is measured at the point where collected covered materials have been
+10 prepared for sale or delivery to material reclaimers or end markets after processing at a materials
+11 recovery facility or similar establishment that sells directly to reclaimers or end markets.
+12 (31) "Responsible end market" means a materials market in which the recycling,
+13 composting, or reuse of materials or the disposal of contaminants is conducted in a way that benefits
+14 the environment and minimizes risks to public health and worker health and safety.
+15 (32) "Retailer" means a person that sells products to consumers within or into the state,
+16 including sales made through an Internet transaction, where those products are covered materials
+17 or are packaged with covered materials.
+18 (33) "Reuse" or "refill" means the return into the marketplace of a covered material that
+19 has already been used in the same manner as originally intended without a change in the covered
+20 material's purpose and was intended to be used for its original purpose at least five (5) times.
+21 (34) "Service provider" means a public or private entity, other than the producer
+22 responsibility organization, which provides recycling, composting, or reuse services to covered
+23 entities in the state.
+24 23-19.19-3. Advisory board.
+25 (a)(1) The producer responsibility program for statewide recycling advisory board is
+26 hereby created within the department. The department may select an impartial third-party facilitator
+27 to convene and provide administrative support to the advisory board.
+28 (2) The advisory board consists of the following thirteen (13) voting members and two (2)
+29 nonvoting members appointed by the director:
+30 (i) Three (3) voting members representing local governments in the state, including:
+31 (A) One member representing a city with a population greater than one hundred fifty
+32 thousand (150,000);
+33 (B) One member representing a coastal city or town; and
+34 (C) One member representing a non-coastal city or town;
+LC002567 - Page 7 of 33
+
+1 (ii) One voting member representing a materials recovery facility in the state that processes
+2 covered materials from covered entities;
+3 (iii) One voting member representing a private sector collector of recyclable covered
+4 materials from covered entities;
+5 (iv) One voting member representing an environmental or community-based nonprofit
+6 organization;
+7 (v) One voting member representing a packaging material supplier that is not a producer,
+8 with the member rotating to a supplier of a different type of packaging material after each new
+9 term;
+10 (vi) One voting member representing a manufacturer of recycled paper products that is not
+11 a producer;
+12 (vii) One voting member representing a trade association, chamber of commerce, or other
+13 business advocacy organization representing businesses in the state;
+14 (viii) One voting member representing a retailer's association or a retailer that is not a
+15 producer;
+16 (ix) One voting member representing a compost facility in the state that handles covered
+17 materials;
+18 (x) One voting member who has experience in environmental justice and represents
+19 underserved communities in the state;
+20 (xi) One voting member representing a solid waste landfill or transfer station operating an
+21 on-site, public-facing recycling collection program;
+22 (xii) One nonvoting member representing the department; and
+23 (xiii) One nonvoting member representing the producer responsibility organization.
+24 (b)(1) The members of the advisory board shall have relevant knowledge and expertise in
+25 recycling programs or the impact of covered materials on the state and the environment. In
+26 appointing members, the director shall ensure to the extent possible the geographic diversity of the
+27 advisory board's membership.
+28 (2) The director shall make all appointments to the advisory board no later than December
+29 31, 2025. The appointments for initial terms to the advisory board shall be staggered in order that
+30 some of the members serve initial two (2) year terms and other members serve initial three (3) year
+31 terms; all subsequent appointments shall be for three (3) year terms. The director shall fill any
+32 vacancy by appointment for the remainder of the unexpired term.
+33 (3) The advisory board shall convene its first meeting no later than March 1, 2026. At the
+34 first meeting, the voting members shall select a chair and vice-chair from among the voting
+LC002567 - Page 8 of 33
+
+1 members for a term not to exceed two (2) years, as determined by the advisory board. The advisory
+2 board shall conduct annual meetings and may conduct meetings more frequently upon the request
+3 of the chair or of at least seven (7) of the voting members of the advisory board. The decisions of
+4 the advisory board shall be made by a vote of the majority of its membership. The organization
+5 may provide technical and staff assistance to the advisory board.
+6 (4) The advisory board is subject to the open meetings provisions of chapter 46 of title 42
+7 ("open meetings").
+8 (5) Advisory board members shall be entitled to be reimbursed at a rate consistent with
+9 other boards and commissions created within the department for necessary travel within the state
+10 and other reasonable expenses incurred in the performance of their official duties.
+11 (6) The advisory board shall:
+12 (i) Advise the organization throughout the baseline assessment process in accordance with
+13 the provisions of this chapter;
+14 (ii) Review the baseline assessment reported to the advisory board pursuant to the
+15 provisions of this chapter;
+16 (iii) Review the plan proposal submitted pursuant to § 23-19.19-6;
+17 (iv) Consult with the organization on amendments to the plan proposal and the amended
+18 plan proposal;
+19 (v) Recommend that the director approve or reject the plan proposal or amended plan
+20 proposal;
+21 (vi) Review the annual report submitted by the organization pursuant to § 23-19.19-12 and
+22 may, in consultation with the organization, recommend to the director amendments to the final plan
+23 as part of this review; and
+24 (vii) Consult with the organization on the development and updating of the minimum
+25 recyclable or compostable list.
+26 23-19.19-4. Producer responsibility organizations and service providers.
+27 (a) On or before March 31, 2026, the director shall approve a single producer responsibility
+28 organization to represent the interests of producers under this chapter. Prospective organizations
+29 shall apply by February 1, 2026, for recognition by submitting to the commissioner contact
+30 information, proof of or application for nonprofit status, and the producers it represents.
+31 (b) In the event that the director receives multiple applications, the approved organization
+32 shall be the one best able to represent producers based on the market share of covered materials
+33 represented by the organization and its experience as an organization in states or
+34 countries/provinces with similar programs.
+LC002567 - Page 9 of 33
+
+1 (c) The organization designated by the director pursuant to this section shall have a
+2 governing board with voting members that represent a diverse range of producers by size and type
+3 and represent producers of different types of covered materials. The members of the governing
+4 board shall not have more than one member per corporate entity.
+5 (d) The producer responsibility organization shall:
+6 (1) Facilitate a baseline assessment in consultation with the advisory board;
+7 (2) Consult with the advisory board in the development of the plan proposal prior to its
+8 submission, including in the development of the cost formulas for reimbursements to service
+9 providers pursuant to §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8;
+10 (3) Submit a plan proposal in accordance with §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8
+11 that covers a period of five (5) years; and
+12 (4) Operate and administer the program in accordance with the final plan, the provisions
+13 of this chapter, and the rules and regulations adopted by the department under this chapter.
+14 (d)(1) Beginning January 1, 2033, and every January 1 thereafter, a nonprofit organization
+15 may request that the director designate that organization as an additional producer responsibility
+16 organization.
+17 (2) The director may designate a nonprofit organization as an additional producer
+18 responsibility organization if the director, in coordination with the advisory board, determines that
+19 the designation of the additional producer responsibility organization is necessary to:
+20 (i) Increase recycling rates for covered materials;
+21 (ii) Expand covered services to covered entities that are not covered under the final plan;
+22 (iii) Provide recycling services for a specific type of covered material; or
+23 (iv) Lower costs.
+24 (e) If the director designates an additional producer responsibility organization, the
+25 additional organization shall submit to the director an additional plan consistent with §§ 23-19.19-
+26 6, 23-19.19-7, and 23-19.19-8 requirements as appropriate as well as a coordination plan meeting
+27 the requirements developed under this section. The additional plan shall be subject to the same
+28 review and approval processes as the organization's plan as outlined in §§ 23-19.19-6, 23-19.19-7,
+29 and 23-19.19-8.
+30 (f) Within one hundred twenty (120) days after the designation of the first additional
+31 producer responsibility organization, the director shall promulgate by rules and regulation
+32 standards and requirements for a coordination plan and for coordination between the organization
+33 and any additional producer responsibility organizations designated by the director. A coordination
+34 plan shall also include a method for allocating administrative and enforcement reimbursements
+LC002567 - Page 10 of 33
+
+1 under § 23-19.19-17 among organizations. A coordination plan approved or ordered by the director
+2 shall be implemented by the organization and any additional producer responsibility organizations
+3 designated by the director. If the coordination plan conflicts with the final plan or any other plan
+4 approved by the director pursuant to this chapter, the provisions of the coordination plan prevail.
+5 A coordination plan approved or ordered by the director is valid until revoked or until a new
+6 coordination plan is approved or ordered by the director.
+7 (g) Registration of service providers. By January 1, 2027, and annually thereafter, a service
+8 provider seeking reimbursement for covered services provided under an approved program plan
+9 shall register with the department by submitting the following information:
+10 (1) The contact information for a person representing the service provider;
+11 (2) The address of the service provider; and
+12 (3) If applicable to services provided, a report of the total amount billed for collection for
+13 covered entities, processing services, and transfer station operations provided during the preceding
+14 calendar year and, when possible, values shall be separated for collection, transfer, and processing.
+15 (h) The organization, any additional producer responsibility organization, and any person
+16 administering a plan approved by the director pursuant to this chapter shall maintain all documents
+17 and records necessary for the director to determine compliance with this chapter and submit any
+18 such documents and records to the director upon a request by the director.
+19 23-19.19-5. Baseline assessment.
+20 (a) On or before August 1, 2026, the organization shall hire an independent third party
+21 approved by the director to develop a baseline of the state's recycling system. The organization
+22 shall develop a request for proposals for the baseline assessment and shall consult with the advisory
+23 board on the scope of the assessment prior to finalizing the scope and putting the work out to bid.
+24 (b) The baseline assessment is a compilation of information collected from service
+25 providers in the state, both public and private, that currently provide recycling and/or composting
+26 services for covered materials. As this information is critical to developing a plan, service providers
+27 shall respond to data requests from the third-party organization contracted for this work or be
+28 subject to enforcement action under § 23-19.19-13. The third party, organization, department, and
+29 advisory board shall keep confidential any proprietary information from a service provider.
+30 (c) Collection service. The scope of the baseline data collection shall include, but not be
+31 limited to:
+32 (1) Access to covered material recycling and composting service for residential customers
+33 of the service providers, including households served, type of service provided (e.g., single-stream
+34 curbside, drop-off), types of collection containers used, materials accepted, frequency of service
+LC002567 - Page 11 of 33
+
+1 provided where relevant, and length of contracts;
+2 (2) Weight of material collected per time period and the capacity of the current collection
+3 method; and
+4 (3) Total cost of service and households served or contracted rates for service (e.g., dollars
+5 per household) and the services covered by the rates.
+6 (d) Processing. The scope of the baseline data collection shall include, but not be limited
+7 to:
+8 (1) The material throughput at processing facilities providing recycling services to covered
+9 entities and the facilities' capacity for processing material;
+10 (2) The design and capabilities of the facility (e.g., single vs dual stream, use of optical
+11 sorters);
+12 (3) Composition of tons received and composition of tons processed and sold;
+13 (4) Tip fees charged for processing; and
+14 (5) Data on contamination.
+15 (e) Additional data. The scope of the baseline assessment may include:
+16 (1) The market conditions and opportunities for the use of recycled covered materials in
+17 the state and region and issues with access to markets for recycled covered materials;
+18 (2) Size and number of transfer stations and transfer locations for recyclable covered
+19 materials;
+20 (3) The availability and scope of any reuse or refill systems in the state affecting the use of
+21 covered materials;
+22 (4) Access to, capacity, technology used, and characteristics of compost facilities to process
+23 and recover compostable covered materials; and
+24 (5) Recommendations for covered materials that meet the criteria for inclusion on the
+25 collection lists described in § 23-19.19-9, including materials that may be appropriate for inclusion
+26 in an alternative collection program.
+27 (f) On or before January 31, 2027, the organization shall deliver a draft of the needs
+28 assessment to the advisory board and the department. The advisory board and the department shall
+29 submit comments to the organization within thirty (30) days, and the organization shall finalize the
+30 needs assessment by April 30, 2027, including a summary of any comments received and
+31 significant changes made to the needs assessment based on those comments.
+32 23-19.19-6. Program plan.
+33 On or before December 31, 2027, the organization shall submit a proposed program plan
+34 to the advisory board that addresses covered services for covered entities. The plan shall cover a
+LC002567 - Page 12 of 33
+
+1 period of five (5) years, and an updated plan proposal shall be submitted to the advisory board one
+2 year before the expiration of the current plan. In developing the plan proposal and any updated plan
+3 proposals, the organization shall solicit and consider input from the advisory board and provide an
+4 opportunity for additional stakeholder input.
+5 23-19.19-7. Approval of program plan.
+6 To be approved, a program plan proposal shall:
+7 (1) Provide contact information for the organization and a representative of the
+8 organization;
+9 (2) Describe how the plan proposal will address and implement the findings of the baseline
+10 assessment;
+11 (3) Describe the manner in which the organization solicited and considered input from
+12 stakeholders and the advisory board in developing the plan proposal. The organization shall provide
+13 a summary of any comments about the plan proposal from the advisory board and additional
+14 stakeholders and identify changes made to the plan proposal based on the comments;
+15 (4) Describe how the organization will notify affected producers of their obligations under
+16 this chapter, track compliance among producers, and collaborate with the director to bring
+17 producers into compliance;
+18 (5) Include a comprehensive list of the covered materials included in the program and the
+19 mechanism for producers to report data on covered materials to the organization;
+20 (6) Establish recycling practices that:
+21 (i) Meet or exceed the convenience standards for covered materials on the proposed
+22 collection lists, including any alternative collection programs as described in § 23-19.19-9;
+23 (ii) Use open, competitive, and fair procurement practices when entering into contracts
+24 with service providers;
+25 (iii) Incorporate preferences for service providers with strong labor standards and worker
+26 safety practices when entering into contracts with private service providers;
+27 (iv) Ensure that any covered materials collected and processed for recycling or composting
+28 will be transferred to a responsible end market; and
+29 (v) Use environmentally sound management practices;
+30 (7) Describe how the organization will work with newspaper publishers and magazine and
+31 periodical publishers to accept print or online advertising in lieu of all or a portion of the producer
+32 responsibility dues for newspapers, magazines, and periodicals circulated within the state;
+33 (8) Establish a funding mechanism for the program that:
+34 (i) Does not exceed the direct and indirect costs of implementing the program, including
+LC002567 - Page 13 of 33
+
+1 the costs of:
+2 (A) Providing covered services under the program through contracts with service providers
+3 or reimbursement of reasonable covered services costs pursuant to this section;
+4 (B) Meeting the reporting requirements set forth in § 23-19.19-12;
+5 (C) Conducting the baseline assessment;
+6 (D) Developing and updating the final plan;
+7 (E) Implementing the education and outreach program set forth in § 23-19.19-10;
+8 (F) Reimbursing the department pursuant to § 23-19.19-17 for its costs in administering
+9 and implementing this chapter, including the costs of the advisory board; and
+10 (G) Reimbursing the department pursuant to § 23-19.19-17 for the costs of enforcing this
+11 chapter pursuant to § 23-19.19-13;
+12 (ii) Is funded through producer responsibility dues. The producer responsibility dues shall
+13 vary by the type of covered material, whether or not the material is readily recyclable, and be based
+14 on the net covered services costs for each covered material in the state as well as allocated fixed
+15 costs of the organization for administration, education and outreach, and other costs not linked to
+16 material type.
+17 (iii) Requires:
+18 (A) Any surplus money generated by the program to be placed back into the program for
+19 program improvements or a reduction in producer responsibility dues;
+20 (B) The organization to maintain a financial reserve sufficient to operate the program in a
+21 fiscally prudent and responsible manner; and
+22 (C) Annual updates to the producer responsibility dues schedule to reflect changes in
+23 program costs and relevant plan revisions and how the organization will inform and solicit input
+24 from producers in setting and revising the annual producer responsibility dues schedule;
+25 (iv) Includes eco-modulation factors that lower producer responsibility dues to incentivize:
+26 (A) Reductions in the amount of packaging used for products, including through design
+27 innovations and elimination of unnecessary or redundant packaging;
+28 (B) Innovations and practices to enhance the recyclability, compostability, or commodity
+29 value of covered materials;
+30 (C) Postconsumer recycled material use;
+31 (D) Packages designed for reuse and refill where supporting infrastructure exists in the
+32 state; and
+33 (E) High recycling, composting, and refill rates of covered materials
+34 (v) Includes eco-modulation factors that increase producer responsibility dues to
+LC002567 - Page 14 of 33
+
+1 discourage:
+2 (A) Designs and materials that increase the costs of recycling, reusing, or composting
+3 covered materials;
+4 (B) Designs and materials that disrupt the recycling or composting of other materials; and
+5 (C) Producers' use of covered materials that are not on the minimum recyclable or
+6 compostable list; and
+7 (vi) At the request of a producer or producers of a covered material, may include a special
+8 assessment paid by the producers of that covered material to improve or establish a method for
+9 collecting and recycling that covered material or to facilitate the addition of the covered material
+10 to the list of readily recyclable materials;
+11 (9) Include a proposed budget and a description of the processes used to determine
+12 producer responsibility dues, levied on a material-specific basis. Describe any producer sales limits
+13 where dues would be eliminated or based on a flat rate to minimize administrative and reporting
+14 costs of the producers and the organization;
+15 (10) Provide a methodology for reimbursement rates for covered services for covered
+16 materials:
+17 (i) The methodology for reimbursement rates shall consider estimated revenue received by
+18 service providers from the sale of covered materials based upon relevant material indices and
+19 incorporate relevant cost information identified by the needs assessment. Reimbursement rates
+20 shall be annually updated and reflect the net costs for covered services for covered materials from
+21 covered entities. Reimbursement rates shall be established equivalent to net costs as established by
+22 a methodology in an approved plan as follows:
+23 (A) No less than fifty percent (50%) of the net cost for the first year of initial plan operation;
+24 (B) No less than seventy-five percent (75%) of the net cost for the second year of initial
+25 plan operation; and
+26 (C) No less than ninety percent (90%) of the net cost thereafter;
+27 (11) Reimbursement rates shall be based on the following, as applicable based on the
+28 service provided:
+29 (i) The cost to collect covered material for recycling, a proportional share of composting,
+30 or reuse adjusted to reflect conditions that affect those costs, varied by region or jurisdiction in
+31 which the covered services are provided including, but not limited to:
+32 (A) The number and type of covered entities;
+33 (B) Population density;
+34 (C) Collections methods employed;
+LC002567 - Page 15 of 33
+
+1 (D) Distance traveled by collection vehicles to consolidation or transfer facilities; to reuse,
+2 recycling, or composting facilities; and to responsible markets;
+3 (E) Other factors that may contribute to regional or jurisdictional cost differences;
+4 (F) The proportion of covered compostable materials within all source-separated
+5 compostable materials collected or managed through composting; and
+6 (G) The general quality of covered materials collected by service providers;
+7 (ii) The cost to transfer collected covered materials from consolidation or transfer facilities
+8 to reuse, processing, recycling, or composting facilities or to responsible markets;
+9 (iii) The cost to:
+10 (A) Sort and process covered materials for sale or use and remove contamination from
+11 covered materials by a recycling or composting facility, less the average fair market value for that
+12 covered material based on market indices for the region; and
+13 (B) Manage contamination removed from collected covered material;
+14 (iv) Administrative costs of service providers, including education, public awareness
+15 campaigns, and outreach program costs as applicable; and
+16 (v) The costs of covered services for a refill system or covered services provided for
+17 reusable covered materials and management of contamination;
+18 (12) A service provider retains all revenue from the sale of covered materials. Nothing in
+19 this chapter shall restrict a service provider from charging a fee for covered services of covered
+20 materials to the extent that reimbursement from a producer responsibility organization does not
+21 cover all costs of services, including continued investment and innovation in operations, operating
+22 profits, and returns on investments required by a service provider to maintain the services;
+23 (13) Reimbursement rates may be calculated per ton, by household, or by another unit of
+24 measurement under an approved program plan;
+25 (14) Describe the process to develop and revise the reimbursement methodology as
+26 necessary, including use of documented costs;
+27 (15) Describe a plan that outlines, if the organization ceased to exist or ceased to administer
+28 the program, how any producer responsibility dues that had not been used to implement the
+29 program would be transferred to another organization designated by the director to administer the
+30 program or would be transferred to the fund to be managed by the department until transferred to
+31 another designated organization;
+32 (16) Include the minimum recyclable or compostable lists established in accordance with
+33 § 23-19.19-9;
+34 (17) Set targets that the program will strive to meet by December 31, 2033, and December
+LC002567 - Page 16 of 33
+
+1 31, 2038, for:
+2 (i) Minimum collection and recycling rates for all covered materials and by type of covered
+3 materials; and
+4 (ii) Minimum postconsumer recycled content rates for covered materials, including paper
+5 products, glass, metal, and plastic, but excluding covered materials that cannot include
+6 postconsumer recycled content because of technical or market barriers, unique chemical or physical
+7 properties, or health and safety requirements that prevent its use;
+8 (18) Describe how postconsumer recycled content rates will be calculated using weight
+9 and other metrics, how the organization will verify minimum postconsumer recycled content rates,
+10 and describe a process to temporarily waive postconsumer recycled content rates for a type or
+11 subcategory of covered materials and the criteria for evaluating such waivers, including food safety
+12 requirements, technological feasibility, or inadequate or disrupted supply;
+13 (19) Describe how the organization will provide producers with the opportunity to purchase
+14 postconsumer recycled materials from processors at market prices if the producer is interested in
+15 obtaining recycled feedstock to achieve minimum postconsumer recycled content rates;
+16 (20) Describe how the organization will reduce or offset the producer responsibility dues
+17 for any producer or group of producers that fund or operate a collection program that:
+18 (i) Covers a specific type of covered material that is not processed by materials recovery
+19 facilities; and
+20 (ii) Has recycling rates that meet or exceed the minimum recycling rate target set forth in
+21 the plan;
+22 (21) Describe how the organization will work with service providers to:
+23 (i) Utilize and expand on existing covered services and infrastructure and existing
+24 education and outreach programs;
+25 (ii) Reduce contamination of covered materials delivered to materials recovery facilities
+26 and compost facilities by:
+27 (A) Requiring each materials recovery facility and compost facility participating in the
+28 program to report annually to the organization on in-bound contamination levels at each facility;
+29 and
+30 (B) Providing funding or other assistance to compost facilities to reduce the costs of
+31 managing or increase the effectiveness of efforts to manage contamination and to process and
+32 recover compostable packaging;
+33 (iii) Invest in new or upgraded recycling infrastructure;
+34 (iv) Mitigate the impacts of covered materials on other materials and equipment at sorting
+LC002567 - Page 17 of 33
+
+1 and processing facilities;
+2 (v) Invest in market development for covered materials in the state; and
+3 (vi) Increase the recycling of collected covered materials;
+4 (22) Describe how the organization will work with and incentivize producers to reduce
+5 packaging through product design changes, the development or expansion of systems for reusable
+6 packaging, and product innovation;
+7 (23) Describe how the program will prioritize the use of end markets that return
+8 postconsumer recycled materials to their original product type;
+9 (24) Describe how the organization will evaluate and monitor the use of responsible end
+10 markets through methods such as processor contracts or financial incentives;
+11 (25) Describe how the organization will implement the education and outreach program
+12 set forth in § 23-19.19-10; and
+13 (26) Include any additional information required by the department.
+14 23-19.19-8. Review of advisory plan.
+15 (a) The advisory board shall review the plan proposal for compliance with this chapter. The
+16 advisory board shall consult with the organization throughout its review of the plan proposal.
+17 (1) Within ninety (90) days after the submission of the plan proposal to the advisory board,
+18 the advisory board shall either provide any recommended amendments to the plan proposal to the
+19 organization or, if the advisory board does not have any recommended amendments, forward the
+20 plan proposal to the director;
+21 (2) The organization shall provide responsive answers to the advisory board's
+22 recommendations and submit an amended plan proposal to the advisory board within sixty (60)
+23 days after its receipt of the recommended amendments;
+24 (3) Within thirty (30) days after the submission of the amended plan proposal to the
+25 advisory board, the advisory board shall forward the amended plan proposal to the director with its
+26 recommendation for approval or rejection and, if applicable, a written explanation of the basis for
+27 recommending rejection of the plan proposal;
+28 (4) Within one week of receiving the plan proposal, the director shall post the plan proposal
+29 on the department's website and provide public notice and an opportunity to comment on the plan
+30 proposal.
+31 (b)(1) Within sixty (60) days after receiving the plan proposal or amended plan proposal,
+32 the director shall either approve or reject the plan proposal or amended plan proposal;
+33 (2) If the director rejects the plan proposal or amended plan proposal, the director shall
+34 notify the organization of the rejection and the reasons for the rejection, which reasons shall be
+LC002567 - Page 18 of 33
+
+1 based on the failure of the plan proposal or amended plan proposal to comply with the requirements
+2 specified in this section. The organization shall submit a revised plan proposal to the advisory board
+3 within sixty (60) days after receiving the director's rejection. The revised plan proposal shall be
+4 reviewed by the advisory board and the revised plan proposal or amended plan proposal shall be
+5 expeditiously reviewed and approved or rejected by the director in thirty (30) days in accordance
+6 with this section.
+7 (c) If the director approves the plan proposal or amended plan proposal pursuant to this
+8 section, the director shall designate the plan proposal or amended plan proposal as the final plan
+9 and shall publish the final plan on the department's website.
+10 (d) The organization shall begin implementing the final plan within six (6) months after it
+11 is approved.
+12 (e) As part of its annual report under § 23-19.19-12, the organization may submit proposed
+13 amendments to a final plan. The organization shall submit these amendments to the advisory board
+14 at least sixty (60) days prior to the deadline to submit the annual report:
+15 (1) The department may request that the organization amend the plan in any year to address
+16 a specific concern or aspect of the plan by submitting the request at least ninety (90) days prior to
+17 the annual report deadline. The organization shall consult with the advisory board on these
+18 proposed amendments.
+19 (2) The advisory board shall submit any proposed amendments to the director concurrent
+20 with the annual report for approval or rejection based on the plan proposal requirements specified
+21 in this section.
+22 (f) The organization shall continue to operate the program in accordance with the final plan
+23 pending the approval or rejection of a proposed amendment by the director. The director's rejection
+24 of a proposed amendment does not relieve the organization of its responsibility to continue to
+25 operate the program in accordance with the final plan.
+26 (g) The director shall enforce this chapter in accordance with § 23-19.19-13 and the
+27 department shall promulgate rules as may be necessary for the administration and enforcement of
+28 this chapter. Notwithstanding any law to the contrary, the organization shall not make any
+29 determination as to a person's compliance with this chapter.
+30 (h)(1) By December 31, 2027, and each December 31 thereafter, as an alternative to
+31 participating in the program, a producer may submit to the advisory board an individual program
+32 plan proposal. A producer shall notify the department of its intent to submit an individual program
+33 plan as described in § 23-19.19-11.
+34 (2) An individual program plan proposal shall:
+LC002567 - Page 19 of 33
+
+1 (i) Comply with the requirements of subsection (h)(1) of this section, as applicable;
+2 (ii) Describe how the producer participating in the individual program plan proposal will
+3 contribute its share of department costs to oversee the program under § 23-19.19-17;
+4 (iii) Describe how the producer will reimburse service providers that provide recycling
+5 services for the covered materials covered by the individual program plan proposal; and
+6 (iv) Describe any alternative collection programs run by the producer and their recycling
+7 rates by material type.
+8 (i) The advisory board shall review and make recommendations on, and the director shall
+9 approve or reject, any individual program plan proposals in accordance with the criteria and
+10 procedures set forth in this section. If the director approves an individual program plan proposal,
+11 the director shall designate the individual program plan proposal as the plan that the producer is
+12 authorized to implement and administer as an alternative to participating in the program.
+13 (j) The producer implementing an individual program plan shall submit any amendments
+14 to the plan to the advisory board in accordance with this section. The advisory board shall review
+15 and make recommendations on and the director shall approve or reject any amendments to the plan
+16 in accordance with this section.
+17 23-19.19-9. Minimum recyclable or compostable lists and convenience standards.
+18 (a) As part of the plan, the producer responsibility organization shall develop a list of
+19 covered materials determined to be recyclable or compostable statewide through systems where
+20 covered materials are commingled into a recyclables stream and a separate compostables stream.
+21 These covered materials shall be collected at an optimal level and method of service and
+22 convenience for covered entities, at a minimum, wherever collection services for mixed municipal
+23 solid waste are available.
+24 (b) The producer responsibility organization may propose a list of covered materials
+25 determined to be recyclable or compostable and collected statewide through systems other than the
+26 system required for covered materials on the list established in subsection (a) of this section.
+27 (1) These alternative collection programs shall:
+28 (i) Provide year-round, convenient, statewide collection opportunities, including at least
+29 one drop-off collection site located in each county;
+30 (ii) Provide tiers of service for collection, convenience, number of drop-off collection sites,
+31 and additional collection systems based on county population size and county population density;
+32 (iii) Ensure materials are sent to responsible markets;
+33 (iv) Use education and outreach strategies that can be expected to significantly increase
+34 consumer awareness of the program throughout the state; and
+LC002567 - Page 20 of 33
+
+1 (v) Measure the amount of each covered material collected and the applicable performance
+2 target and statewide requirement.
+3 (2) A proposal for an alternative collection program shall include:
+4 (i) The type, number, and location of each collection opportunity;
+5 (ii) A description of how each of the program requirements established in this section will
+6 be met;
+7 (iii) Performance targets for each covered material, as applicable, to be managed through
+8 an alternative collection program; and
+9 (iv) How the alternative collection program will work in combination with the collection
+10 systems described in this section to meet performance targets for any material type that is managed
+11 through a combination of an alternative collection program and the commingled systems described
+12 in this section.
+13 (c) The producer responsibility organization shall draw on the findings of the baseline
+14 assessment and consult with the advisory board, producers submitting individual program plans,
+15 service providers, and other interested parties to develop or amend the recyclable or compostable
+16 covered materials lists and shall review any requests by interested parties for addition or removal
+17 of covered materials from the lists created under this section.
+18 (d) In developing the lists under this section, the producer responsibility organization may
+19 consider
+20 (1) The availability of recycling and composting collection services;
+21 (2) Recycling and composting processing infrastructure;
+22 (3) Capacity and technology for sorting covered materials;
+23 (4) Whether a covered material is of a type and form that is regularly sorted and aggregated
+24 into defined streams for recycling processes or is included in a relevant Institute of Scrap Recycling
+25 Industries specification or its successors;
+26 (5) Availability of responsible markets;
+27 (6) Presence and amount of processing residuals, contamination, and toxic substances;
+28 (7) Quantity of covered material estimated to be available and recoverable; and
+29 (8) Projected future conditions for the criteria in this section.
+30 (e) The producer responsibility organization may propose amendments to these lists as part
+31 of its annual report to the advisory board and department. Upon approval, the producer
+32 responsibility organizations shall provide amended lists to service providers as soon as possible
+33 after approval and incorporate changes in relevant service provider reimbursement rates within a
+34 year.
+LC002567 - Page 21 of 33
+
+1 (f)(1) To be eligible for reimbursement for covered services provided under the program,
+2 service providers shall be registered with the department as required in § 23-19.19-4 and shall
+3 provide covered services for all readily recyclable and compostable covered materials in a manner
+4 that facilitates attaining the rate targets established in the final plan and in compliance with
+5 requirements in this section.
+6 (2) The director may grant a service provider an exception to the requirements of subsection
+7 (a) of this section if the service provider demonstrates to the reasonable satisfaction of the director
+8 that it is not able to provide covered services or meet the convenience standards for a readily
+9 recyclable or compostable material.
+10 (3) Notwithstanding any law to the contrary, nothing in this chapter restricts a service
+11 provider from collecting or processing covered materials that are not included in the minimum
+12 recyclable or compostable lists.
+13 (g)(1) The organization shall contract with service providers to provide covered entities
+14 with convenient and equitable access to covered services for all readily recyclable and compostable
+15 covered materials, at no charge to the covered entity, with the goal of achieving the recycling rate,
+16 collection rate, and postconsumer recycled content rate targets established in the final plan under
+17 §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8.
+18 (2) The collection of readily recyclable and compostable covered materials shall be
+19 provided in a manner that is as convenient as the collection of solid waste in the geographic area in
+20 which the covered entity is located.
+21 (3) Any covered entities in the state that are receiving covered services on December 31,
+22 2027 shall continue to receive equivalent covered services through the program or a service
+23 provider once the final plan is implemented.
+24 (4) The organization shall not restrict a person's ability to contract directly with service
+25 providers to obtain covered services for covered materials.
+26 (5) Notwithstanding any law to the contrary, nothing in this chapter voids or cancels any
+27 contract between a resident and a service provider for the provision of recycling or composting
+28 services that is executed prior to December 31, 2027.
+29 23-19.19-10. Education and outreach program.
+30 (a) The organization shall develop and implement a statewide education and outreach
+31 program that is designed to increase the recycling, composting, and reuse of covered materials and
+32 includes education and outreach on proper end-of-life management of covered materials, the
+33 location and availability of covered services under the program, and how to prevent littering in the
+34 process of providing covered services.
+LC002567 - Page 22 of 33
+
+1 (b) The education and outreach program shall, at a minimum:
+2 (1) Provide clear and concise recycling, composting, and reuse instructions that are
+3 consistent statewide and accessible for all demographic groups;
+4 (2) Coordinate and align existing recycling education materials and services provided
+5 throughout the state; and
+6 (3) Be designed to help the state achieve the minimum collection rate and minimum
+7 recycling rate targets established in the final plan and reduce levels and impacts of inbound
+8 contamination from covered materials at materials recovery facilities and compost facilities.
+9 (c) The organization shall consult with the advisory board and other entities providing
+10 recycling education in the state on the development and distribution of education outreach services
+11 and materials. The organization may contract with service providers, local governments, and
+12 nonprofit organizations to conduct recycling education and outreach services under the program
+13 developed under this section.
+14 (d) The organization shall develop a proposed methodology for evaluating and reporting
+15 on the effectiveness of the education and outreach program.
+16 23-19.19-11. Producer requirements, records, and data.
+17 (a) Producers shall join the approved producer responsibility organization by July 1, 2026.
+18 As an alternative to participating in the program, a producer shall notify the department and the
+19 approved producer responsibility organization of its intent to submit an individual program plan
+20 proposal. A producer shall notify the department of its initial intent to submit an individual program
+21 plan proposal by July 1, 2026.
+22 (b) Effective July 1, 2027, a producer shall not sell or distribute any products that use
+23 covered materials in the state unless the producer is participating in the program as a member of
+24 the organization or having notified the department of its intent to submit an individual program
+25 plan proposal. Participation includes providing data necessary to meet its plan obligations as
+26 determined by the organization and may use prorated national or regional data if state-specific data
+27 is not available or feasible to generate. Participation also includes payment of dues according to the
+28 schedule developed by the organization on the terms and conditions established by the organization.
+29 (c) A producer shall make all documents and records related to the calculation and payment
+30 of producer responsibility dues, recycling rates, collection rates, postconsumer recycled content
+31 rates, and any other materials necessary for the director to determine compliance with this chapter
+32 available for inspection by the director. In connection with enforcing a violation by a producer
+33 pursuant to § 23-19.19-13, the director may request in writing that the producer provide any such
+34 documents or records to the director.
+LC002567 - Page 23 of 33
+
+1 (d) The director, the advisory board, the organization, an additional producer responsibility
+2 organization, and any other person administering a plan approved by the director pursuant to this
+3 chapter shall keep confidential any proprietary information provided by a producer and shall not
+4 include any proprietary information provided by a producer in the plan proposal, the amended plan
+5 proposal, the final plan, any other plan approved by the director pursuant to this chapter, or any
+6 amendment to the final plan or other plan approved by the director pursuant to this chapter.
+7 23-19.19-12. Annual reporting.
+8 (a) The organization, any additional producer responsibility organization, and any person
+9 administering a plan approved by the director pursuant to this chapter shall cause to be conducted
+10 an annual financial audit of the program or any other plan approved by the director pursuant to this
+11 chapter by an independent third-party auditor.
+12 (b)(1) Before March 31 of the second year of the program's implementation, and by March
+13 31 each year thereafter, the organization shall submit a report to the advisory board describing the
+14 progress of the program. The advisory board shall review the report and forward the report to the
+15 director. The advisory board shall also review any proposed amendments to the final plan and any
+16 updates to the minimum recyclable or compostable lists and forward the amendments and updates
+17 to the director with its recommendation for approval or rejection. The director shall post the report
+18 on the department's website. The program report shall include the following information from the
+19 preceding calendar year:
+20 (i) A detailed description of the progress toward each element of the final plan as described
+21 in §§ 23-19.19-6, 23-19.19-7, and 23-19.19-8;
+22 (ii) A list of all the producers, brands, and covered materials covered by the final plan;
+23 (iii) A list of known producers that are not participating in the program and any known
+24 producers that may be out of compliance with one or more obligations imposed by this chapter;
+25 (iv) The total amount of producer responsibility dues collected under the program,
+26 including an annual schedule of producer responsibility dues assessed by weight for each type of
+27 covered material and any annual increases or decreases in the dues schedule and the reasons for
+28 these adjustments;
+29 (v) The total weight of each type of covered materials that producers used for products that
+30 were sold or distributed in the state;
+31 (vi) The total weight of each type of covered material that was collected and recycled under
+32 the program, with the data broken down by the means of collection, including by curbside service,
+33 drop-off center, or other means;
+34 (vii) The number of covered entities, by type, such as single-family residential and multi-
+LC002567 - Page 24 of 33
+
+1 family residential, and the means of collection, including curbside service, drop-off, or other means;
+2 (viii) A list of the names, locations, and scope of services for curbside, drop-off, and other
+3 operations accepting or collecting covered materials under the program;
+4 (ix) The collection and recycling rates for all covered materials and by type of covered
+5 materials and the postconsumer recycled content rate as applicable for each type of covered
+6 material; a description of the organization's process in achieving the minimum rate targets set forth
+7 in the final plan; and in the event that the program is not on target to meet the rates, actions the
+8 organization plans to undertake to meet the rates;
+9 (x) The rate methodology and/or schedules for reimbursement to service providers, any
+10 proposed adjustments to the methodology, and a summary of any disputes arising between the
+11 organization and service providers concerning rates and how the disputes were addressed;
+12 (xi) A summary of the education and outreach efforts implemented, including samples of
+13 materials distributed and the methodology and results of the evaluation of education program
+14 effectiveness;
+15 (xii) A description of the organization's efforts to ensure that covered materials have been
+16 responsibly managed and delivered to responsible end markets under the program, including a list
+17 of the recycling end markets for each type of covered materials processed;
+18 (xiii) A financial statement of income and expenses supported by a copy of the independent
+19 third party's report auditing the program pursuant to subsection (a) of this section;
+20 (xiv) A description of the status of reserve funds, an assessment of the adequacy of those
+21 funds to cover program costs, and a description of how any program funding shortfalls will be
+22 addressed; and
+23 (xv) Any amendments to the final plan, including any updates to the minimum recyclable
+24 or compostable lists.
+25 (c) The responsible organization or person administering any additional plan approved by
+26 the commissioner shall also submit a report to the advisory board by March 31 of the second year
+27 of any such plan and every March 31 thereafter describing the progress of the plan. The report shall
+28 include the information described in subsection (b)(1) of this section, as applicable, from the
+29 preceding calendar year. The advisory board shall review the report and forward the report to the
+30 director. The advisory board shall also review any proposed amendments to the plan and forward
+31 the amendments to the director with its recommendation for approval or rejection. The director
+32 shall post the report on the department's website.
+33 (d) If, based on the annual reports submitted under this section, the program or any other
+34 plan approved by the director pursuant to this chapter is not on track to meet the minimum
+LC002567 - Page 25 of 33
+
+1 collection rates, minimum recycling rates, or minimum postconsumer recycled content rates set
+2 forth in the program or plans, the director may require the organization, additional producer
+3 responsibility organization, or other person responsible for administering a plan approved by the
+4 director under this chapter to amend its respective plan as described in § 23-19.19-8.
+5 (e) Department report. The director shall annually compile the results of the reports
+6 received pursuant to this section into a general report describing the progress of the program and
+7 any other plans approved by the director pursuant to this chapter. The department report shall
+8 include a review of the department's activities and expenses that were reimbursed pursuant to § 23-
+9 19.19-17. The director shall post the report on the department's website and submit the report to the
+10 governor, to the senate committee on environment and agriculture, and to the house committee on
+11 environment and natural resources.
+12 23-19.19-13. Enforcement and penalties.
+13 (a) If the organization, an additional producer responsibility organization, a person
+14 administering a plan approved by the director pursuant to this chapter, a producer, or a service
+15 provider (referred to in this section as a "regulated entity") violates any portion of this chapter, the
+16 regulated entity is liable for an administrative penalty not to exceed:
+17 (1) For a first violation, an initial penalty of two thousand dollars ($2,000) for the first day
+18 of each violation and one thousand dollars ($1,000) per day for each day the violation continues;
+19 (2) For a second violation committed within twelve (12) months after a prior violation, an
+20 initial penalty of five thousand dollars ($5,000) for the first day of each violation and two thousand
+21 five hundred dollars ($2,500) per day for each day the violation continues; and
+22 (3) For a third or subsequent violation committed within twelve (12) months after two (2)
+23 or more prior violations, an initial penalty of ten thousand dollars ($10,000) for the first day of each
+24 violation and five thousand dollars ($5,000) per day for each day the violation continues.
+25 (b)(1) If the regulated entity violates any portion of this chapter, the director shall serve by
+26 personal service or by certified mail an order that imposes an administrative penalty.
+27 (2) The regulated entity may submit a written request for a hearing to the director by
+28 personal service or by certified mail within thirty (30) calendar days after the date of the order
+29 imposing an administrative penalty. The department's office of administrative adjudication shall
+30 conduct the hearing.
+31 (3) If a request for a hearing is filed, the requirement to pay a penalty is stayed pending a
+32 final decision by the office of administrative adjudication after a hearing on the merits. The director
+33 is not precluded from imposing an administrative penalty against the regulated entity for subsequent
+34 violations of this chapter committed during the pendency of the stay.
+LC002567 - Page 26 of 33
+
+1 (4) The director bears the burden of proof by a preponderance of the evidence in a hearing
+2 held pursuant to this section.
+3 (c) The director may enter into a settlement agreement with a regulated entity assessed an
+4 administrative penalty under this section.
+5 (d) The director shall transfer any money collected under this section to the office of the
+6 general treasurer, which shall credit the money to the ocean state climate adaptation and resilience
+7 fund established in the § 46-23.3-4.
+8 (e) Notwithstanding any law to the contrary, nothing in this chapter:
+9 (1) Creates a private right of action; or
+10 (2) Authorizes enforcement of this chapter against anyone other than a regulated entity.
+11 23-19.19-14. Limited exemption from antitrust and unfair trade practices.
+12 If the program or any other plan approved by the director pursuant to this chapter engages
+13 in an activity performed solely in furtherance of implementing the program or plan and in
+14 compliance with this chapter, the activity is not a violation of the antitrust provisions of the Rhode
+15 Island antitrust act in chapter 36 of title 6 or of the unfair methods of competition and unfair or
+16 deceptive acts or practices described in the deceptive trade practices provisions of chapter 13.1 of
+17 title 6.
+18 23-19.19-15. Local government eligibility and obligations.
+19 (a) Nothing in this chapter affects a person's eligibility for any state or local incentive
+20 programs for which the person is otherwise eligible.
+21 (b) Notwithstanding any law to the contrary, a local government is not required to provide
+22 covered services under the program or any other plan approved by the director pursuant to this
+23 chapter. To the extent that a local government elects to provide covered services under the program
+24 or any other plan approved by the director pursuant to this chapter, the organization, additional
+25 producer responsibility organization, or other person responsible for administering a plan approved
+26 by the director under this chapter shall reimburse the local government for those covered services
+27 in accordance with § 23-19.19-9 and the final plan or any other plan approved by the director
+28 pursuant to this chapter.
+29 (c) A local government that receives reimbursement funds from the organization or in
+30 accordance with any other plan approved by the director shall use such funds for the local
+31 government's recycling program and shall not charge residents for costs reimbursed through the
+32 program.
+33 23-19.19-16. Restriction on consumer fees.
+34 A person shall not charge any kind of point-of-sale or point-of-collection fee to consumers
+LC002567 - Page 27 of 33
+
+1 to recoup its costs in meeting the obligations of or complying with this chapter. Nor shall a service
+2 provider charge a fee for costs for which the service provider is reimbursed under this chapter.
+3 23-19.19-17. Administrative fund.
+4 (a) There is hereby created in the office of the general treasurer the extended producer
+5 responsibility for packaging and paper administrative fund, referred to in this section as the "fund."
+6 The fund consists of any producer funds designated for administrative costs pursuant to this section,
+7 including a portion of dues transferred to the fund by the organization and administrative funds
+8 transferred from an additional producer responsibility organization or a person administering a plan
+9 approved by the director pursuant to this chapter. The fund also includes money that the general
+10 assembly transfers to the fund for use by the department. Payments for administrative costs made
+11 in accordance with approved plans are limited to reimbursing:
+12 (1) The department, including the advisory board, for the reasonable costs incurred in
+13 administering and implementing any portion of this chapter; and
+14 (2) The department for the reasonable costs incurred in enforcing this chapter.
+15 (b)(1) By August 1, 2026, the department shall notify the organization of the costs in
+16 administering, implementing, and enforcing this chapter from the effective date of this chapter
+17 through June 30, 2026.
+18 (2) By August 1 of each subsequent year, the department shall notify the organization of
+19 the costs of administering, implementing, and enforcing this chapter during the immediately
+20 preceding state fiscal year.
+21 (c) Upon receipt of the department's cost accounting, the organization, an additional
+22 producer responsibility organization, or a person administering a plan approved by the director
+23 pursuant to this chapter shall transmit to the general treasurer, for deposit in the fund, their allocated
+24 share of the funds necessary to reimburse the department for its costs.
+25 (d) The general assembly shall annually appropriate money from the fund to the department
+26 for the purposes set forth in this section.
+27 (e) All unexpended and unencumbered money in the fund at the end of any state fiscal year
+28 remains in the fund and shall not be credited or transferred to the general fund or any other fund;
+29 this money shall be used to reduce the reimbursement obligations under subsection (b) of this
+30 section. All interest derived from the deposit and investment of money in the fund remains in the
+31 fund and does not revert to the general fund.
+32 23-19.19-18. No obligation to provide covered services.
+33 Notwithstanding any law to the contrary, a private service provider is not required to
+34 provide covered services under the program or any other plan approved by the director pursuant to
+LC002567 - Page 28 of 33
+
+1 this chapter.
+2 23-19.19-19. Regional coordination and harmonization encouraged.
+3 The department and any approved organizations shall seek opportunities for coordination
+4 and harmonization with similar programs in the region including, but not limited to, conduct of the
+5 baseline assessment, management of organizations, development of the minimum recyclable or
+6 compostable lists, and composition and representation of the advisory committee. Further, the
+7 organizations and service providers shall seek to optimize scale through regional recycling services
+8 and infrastructure wherever practical.
+9 23-19.19-20. Severability.
+10 If any provision of this chapter or the application thereof to any person or circumstance is
+11 held invalid, such invalidity does not affect other provisions or applications of the chapter that can
+12 be given effect without the invalid provision or application, and to this end the provisions of this
+13 chapter are declared to be severable.
+14 SECTION 2. The title of Chapter 44-44 of the General Laws entitled "Taxation of Beverage
+15 Containers and Hard-To-Dispose Material" is hereby amended to read as follows:
+16 CHAPTER 44-44
+17 Taxation of Beverage Containers and Hard-To-Dispose Material
+18 CHAPTER 44-44
+19 TAXATION OF HARD-TO-DISPOSE MATERIAL
+20 SECTION 3. Sections 44-44-3, 44-44-8 and 44-44-13 of the General Laws in Chapter 44-
+21 44 entitled "Taxation of Beverage Containers and Hard-To-Dispose Material" are hereby repealed.
+22 44-44-3. Imposition of tax on beverage containers.
+23 There shall be levied and imposed a tax of eight cents ($0.08) on each case of beverage
+24 containers sold by a beverage wholesaler to a beverage retailer or consumer within this state. The
+25 tax shall be collected by the beverage wholesaler. The tax provided for in this section shall not be
+26 levied, imposed, or collected on reusable and refillable beverage containers.
+27 44-44-8. Records required — Inspection of records.
+28 Every beverage wholesaler shall keep books, including records, receipts, and other
+29 pertinent papers, in a form the tax administrator may require. The records shall be open at all times
+30 to the inspection of the tax administrator and his or her agents and, upon summons issued by the
+31 tax administrator, shall be produced at the time and place that he or she may designate for inspection
+32 by the tax administrator or his or her agents.
+33 44-44-13. Contingency provision.
+34 The provisions of this chapter shall become null and void, and the tax imposed under this
+LC002567 - Page 29 of 33
+
+1 chapter shall terminate, if federal or state legislation is enacted which requires a deposit on beverage
+2 containers.
+3 SECTION 4. Sections 44-44-1, 44-44-2, 44-44-4, 44-44-17, 44-44-18 and 44-44-19 of the
+4 General Laws in Chapter 44-44 entitled "Taxation of Beverage Containers and Hard-To-Dispose
+5 Material" are hereby amended to read as follows:
+6 44-44-1. Purpose.
+7 This chapter is enacted to provide funding for the litter reduction and recycling program,
+8 created pursuant to chapter 15.1 of title 37, and the hard-to-dispose material — control and
+9 recycling program, created pursuant to chapter 15.1 of title 37.
+10 44-44-2. Definitions.
+11 As used in this chapter:
+12 (1) "Beverage" means all non-alcoholic drinks for human consumption, except milk but
+13 including beer and other malt beverages.
+14 (2) "Beverage container" means any sealable bottle, can, jar, or carton which contains a
+15 beverage.
+16 (3) "Beverage retailer" means any person who engages in the sale of a beverage container
+17 to a consumer within the state of Rhode Island, including any operator of a vending machine.
+18 (4) "Beverage wholesaler" means any person who engages in the sale of beverage
+19 containers to beverage retailers in this state, including any brewer, manufacturer, or bottler who
+20 engages in those sales.
+21 (5) "Case" means:
+22 (i) Forty-eight (48) beverage containers sold or offered for sale within this state when each
+23 beverage container has a liquid capacity of seven (7) fluid ounces or less;
+24 (ii) Twenty-four (24) beverage containers sold or offered for sale within this state when
+25 each beverage container has a liquid capacity in excess of seven (7) fluid ounces but less than or
+26 equal to sixteen and nine tenths (16.9) fluid ounces;
+27 (iii) Twelve (12) beverage containers sold or offered for sale within this state when each
+28 beverage container has a liquid capacity in excess of sixteen and nine tenths (16.9) fluid ounces but
+29 less than thirty-three and nine tenths (33.9) fluid ounces; and
+30 (iv) Six (6) beverage containers sold or offered for sale within this state when each
+31 beverage container has a liquid capacity of thirty-three and nine tenths (33.9) fluid ounces or more.
+32 (6) "Consumer" means any person who purchases a beverage in a beverage container for
+33 use or consumption with no intent to resell that filled beverage container.
+34 (7) "Hard-to-dispose material" is as defined in § 37-15.1-3.
+LC002567 - Page 30 of 33
+
+1 (8) "Hard-to-dispose material retailer" means any person who engages in the retail sale of
+2 hard-to-dispose material (as defined in § 37-15.1-3) in this state.
+3 (9) "Hard-to-dispose material wholesaler" means any person, wherever located, who
+4 engages in the sale of hard-to-dispose material (as defined in § 37-15.1-3) to customers for sale in
+5 this state (including manufacturers, refiners, and distributors and retailers), and to other persons as
+6 defined above.
+7 (10) "New vehicle" means any mode of transportation for which a certificate of title is
+8 required pursuant to title 31 and for which a certificate of title has not been previously issued in
+9 this state or any other state or country.
+10 (11) "Organic solvent" is as defined in § 37-15.1-3.
+11 (12) "Person" means any natural person, corporation, partnership, joint venture,
+12 association, proprietorship, firm, or other business entity.
+13 (13) "Vending machine" means a self-contained automatic device that dispenses for sale
+14 foods, beverages, or confection products.
+15 44-44-4. Filing of returns and extensions of time for filing returns.
+16 On or before the twenty-fifth day of the month next succeeding the month in which any
+17 taxes imposed by this chapter are collected, the beverage wholesaler and/or hard-to-dispose
+18 material wholesaler or hard-to-dispose material retailers or person liable for tax pursuant to § 44-
+19 44-3.7, shall pay the taxes to the tax administrator and at the same time shall file a return in a form
+20 that the tax administrator may by regulation prescribe. The tax administrator may grant reasonable
+21 extensions of time for filing returns under rules and regulations that he or she prescribes. If any
+22 taxes are not paid to the tax administrator when due, or if any return is not filed when due, there
+23 shall be added to the taxes and made a part of the taxes interest at the rate set forth in § 44-1-7 from
+24 the date when the taxes became due until the date of payment.
+25 44-44-17. Deficiency determination — Determination without return.
+26 If any hard-to-dispose material wholesaler or hard-to-dispose material retailer or person or
+27 beverage wholesaler fails to file a return or application or to keep records described in § 44-44-8,
+28 or if the tax administrator is not satisfied with the amount of taxes or fees paid to the tax
+29 administrator, the tax administrator may compute and determine the amount required by this
+30 chapter to be paid to the tax administrator upon the basis of the facts contained in the returns or
+31 applications that have been filed or upon the basis of any information in the tax administrator's
+32 possession or that may come into the tax administrator's possession.
+33 44-44-18. Notice of determination.
+34 The tax administrator shall give written notice of the tax administrator's determination to
+LC002567 - Page 31 of 33
+
+1 the beverage wholesaler or hard-to-dispose material wholesaler or hard-to-dispose material retailer
+2 or person. Except in the case of fraud or failure to make a return, or noncompliance with § 44-44-
+3 8, every notice of determination shall be mailed within three (3) years of the date the taxes first
+4 became due. The amount of this determination shall bear interest at the rate prescribed in § 44-1-7
+5 from the date when taxes should have been paid until the date of payment.
+6 44-44-19. Payment of refunds.
+7 Whenever the tax administrator shall determine that any beverage wholesaler or hard-to-
+8 dispose material wholesaler or hard-to-dispose material retailer or person is entitled to a refund of
+9 any moneys paid under the provisions of this chapter, or whenever a court of competent jurisdiction
+10 orders a refund of any moneys paid, the general treasurer shall, upon certification by the tax
+11 administrator, pay the refund from any moneys in the litter control account or hard-to-dispose
+12 material account other than those moneys already appropriated for the administration of the taxes
+13 and programs entitled by this chapter and § 37-15-13; provided, that no refund shall be allowed
+14 unless a claim for a refund is filed with the tax administrator within three (3) years from the date
+15 the overpayment was made. Every claim for a refund shall be made in writing, shall be in a form,
+16 and shall present only information that the tax administrator may, by regulation, require. Within
+17 thirty (30) days after disallowing any claim in whole or in part the tax administrator shall give
+18 written notice of the tax administrator's decision to the beverage wholesaler or hard-to-dispose
+19 material wholesaler or hard-to-dispose material retailer or person. A refund of less than ten dollars
+20 ($10.00) will not be processed, but may be credited to the following month's return without interest.
+21 SECTION 5. Sections 2, 3 and 4 of this act shall take effect upon the director of the
+22 department of environmental management approving the final plan set forth in Section 1 of this act.
+23 The remaining sections of this act shall take effect upon passage.
+========
+LC002567
+========
+LC002567 - Page 32 of 33
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+FOR PACKAGING AND PAPER ACT
+***
+1 This act would create the extended producer responsibility for packaging and paper
+2 program for the recycling of packaging and paper products.
+3 Sections 2, 3, and 4 of this act would take effect upon the director of the department of
+4 environmental management approving the final plan set forth in Section 1 of this act. The remaining
+5 sections of this act would take effect upon passage.
+========
+LC002567
+========
+LC002567 - Page 33 of 33
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C E 2 ( F ( i s r t p a c t p p a e P r t e 2 A ( " b m t p r p f t s]
+[DELETED:  r ( p ( e ( p d b p w o i t s i t s c y e a a p ( a ( c d ( f ( a ( " e m t f l i t s f w c m ( ( ( ( ( ( o c m i t c f c e t v m i c a d s t o c m s a c ( r ( ( (]
+[DELETED:  c ( ( ( ( ( " s m p m p t e c ( ( e ( ( c ( " r o c l m t l o c m e ( o a ( w d ( p ( ( ( P i p p g m c f f r p ( ( ( ( ( ( p]
+[DELETED:  ( ( d C p ( v f ( F ( p 1 ( a a m f t o i i f b b t a o d p ( ( ( r d i ( " r m m o t c m t h s w ( ( a ( f ( u (]
+[DELETED:  ( s t ( i i ( t ( S f ( p ( s ( F p u t d p o c t i t p o t p ( t ( ( o ( F p p t a m c t d o s p ( ( p ( I t i n p w s ( o s a p p w ( t (]
+[DELETED:  s U p ( s ( o s t p a t p a t p h j a r p r o t ( o t s t p s p w c o t c a ( b h ( ( d e t ( d ( ( ( " r o o " m a n o ( p ( c w ( t]
+[DELETED:  ( m ( ( ( ( p d b p w o i t s i t s c y e a a p p r ( " e m m a m m i w t r c t ( i o ( h m ( " p m a p o p e o t t p r e 2 ( T p r p f s r a b i h t ( n ( ( t ( (]
+[DELETED:  ( c ( O v m r a p s c o r c m ( o ( w t ( a ( b ( p ( m ( O v m w h e i e j a r u ( o ( ( ( r p o t i o c m o t s a t e I a a ( 3 s t v ( f m t v m s s a c a v f a t v]
+[DELETED:  m b o t m ( ( ( o a ( ( t ( R t b a r t t a b p t t p ( ( p ( p ( m a ( r 2 ( o s a b F 1 2 f r b s t t c c i ( s r b t o a i e a a o i s o c]
+[DELETED:  ( T o d b t d p t t s s h a g a b ( ( ( s i i t d o t c f r t p ( t ( o ( m o ( T d m d a n o a a a p r t ( ( ( ( ( I t d d a a p r o t a 6 t r a ( p r o t d s p b r a r s a p]
+[DELETED:  u s d a A c ( p s ( ( ( c c ( a a s 2 ( a s b ( T b a i a c o i c f s p s s s a ( l ( o c]
+[DELETED:  p ( m ( p ( t ( e ( s ( ( ( ( ( t ( m ( c ( a ( c i ( a s n a b A 3 2 i a s o a c r a s 2 O t]
+[DELETED:  p y p o 2 T ( P c i f t o a a r o t o ( a ( s a s ( t c t c a p a c w t d t b p ( m ( ( M o e t c s f c m o t p c ( w ( s ( w ( ( p r ( (]
+[DELETED:  t ( o ( ( ( ( ( a ( c ( v o c m ( ( p ( f ( p f ( ( i ( v ( ( s ( ( I e f t i p r d t]
+[DELETED:  d ( c ( ( P u o c m t a n o t m r o c ( a c t ( I a p b a a d o t p u t d p w c ( m ( s i s c a ( ( p ( ( s ( o w ( ( (]
+[DELETED:  ( r ( ( T p o c c m w a s c ( ( t ( ( c c ( ( A c o s p i e p a c ( r ( t m c p ( m ( D t p t d a r t r m a n ( t p h a p r d t h n b u t i t p p a ( § (]
+[DELETED:  3 ( m ( p g m a p b e c m t c i p p ( a a s r ( p o ( f ( f ( t ( ( U a e o e c s a i a e e ( a ( p a ( P f o a t c o m r ( (]
+[DELETED:  a ( ( ( p p ( D h t p w p t u o e m t r p ( m ( s ( 2 ( a ( t o p ( T o s p r a t t a b r d ( a r r ( o p ( t ( n]
+[DELETED:  b s w r e w ( s a ( i ( a a ( a t a r d T o s c w t a b o t p ( w i ( p o o ( T d s e t c i a w § 2 a t d t c N a l t t c t o s n m a d ( B D 3 2 a D t a a p p p (]
+[DELETED:  ( ( c ( s ( r ( a o r a i p p p i a w t c a p t a ( t a i 2 ( c c T c m s b c a a o l a m o s a c s ( T p r o m p a l o c m d s ( ( o ( a ( ( c]
+[DELETED:  ( t ( ( ( b ( a ( s t i ( a s c o ( c ( ( ( ( i I ( ( ( ( ( o i a r t t a b a d U a t p r a y]
+[DELETED:  ( s p t f a t r t e i t f p a i c w r ( ( t r ( p r ( w c c § ( T c o r r a c c m s b p w ( 2 s c t r e c s t t p o a s p ( p ( c s 2 ( p i e a o o p e m o c m t l p]
+[DELETED:  ( ( P c a c r c a r i t a c ( a t ( B d t h s t m c a r r t e i t f p a r l a i o i c ( r a m T o m c w s p l g a n d ( o 2 ( A a p p ( c t p p P i p d n t m i p o a d i s ( o r a p d]
+[DELETED:  ( o c i p a 2 ( a a c ( 3 p d u t o p ( i ( ( p ( T t a o p r d c u t p i c t ( w ( t d (]
+[DELETED:  f ( o ( m a t p r c r a a f e t o c m i o ( p o ( m e ( r o ( t ( f a ( o ( t o i p d t s ( p a b t d p t t c i n o t t m t m]
+[DELETED:  c f i t p o p t d m r t o a p r d ( D r T d s a c t r o t r r a i 1 g e 2 ( I t o a a p r o a p a p r ( o ( i f ( o v ( p ( p i c ( f i v]
+[DELETED:  ( h ( a ( g f ( ( ( 2 I i a a p s i f o i t p o p a i c I d t 2 ( p ( c c o p b i p ( a w a o p a b t d s u s f f t l g p 2 A]
+[DELETED:  t p 2 ( r T i t a a i ( a ( ( a t ( t c o a i a e t c d t i p ( U r o t d c a t o a a p p s ( f ( r t s f 2 N p]
+[DELETED:  t 2 T a b c o a 2 I h b c S C C T C T S 4 4 T c t l 4 E b w s k b i r r a o p t t b 4 T]
+[DELETED:  c c S G M 4 T c p t c 1 o t 3 a t h m — c a r 4 A ( i ( b ( t ( " w m a p w e i t s o b c e ( ( b ( e e ( b l ( S ( b c s o o f s w t s w e b ( u (]
+[DELETED:  ( h ( " m w m a p w l w e t d ( r t ( ( " m a n p c p j v a ( f 4 O t i b t c a c t b w a h m 4 t e t s t 4 I b o i t t a i n s w t a o t o f p t t t a t t a m c a d t a r b t c a p 4 T]
+[DELETED:  t o 8 b f 4 W d a o a m a u t a t w m ( S d T]
+[DELETED:  T a w c t e p r f p a p p S e s]

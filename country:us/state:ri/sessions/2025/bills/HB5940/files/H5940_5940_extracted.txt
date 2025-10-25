@@ -1,0 +1,331 @@
+Title: RELATING TO LABOR AND LABOR RELATIONS -- THE RHODE ISLAND
+Official Title: RELATING TO LABOR AND LABOR RELATIONS -- THE RHODE ISLAND
+Number of Sections: 1
+Source: versions - 5940
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5940
+========
+LC001857
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+Introduced By: Representatives Stewart, J. Lombardi, Tanzi, Morales, Cruz, Potter,
+Alzate, Cotter, and Casimiro
+Date Introduced: February 28, 2025
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 28 of the General Laws entitled "LABOR AND LABOR RELATIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 THE RHODE ISLAND OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+5 28-61-1. Definitions.
+6 As used in this chapter, the following words shall have the following meanings unless the
+7 context clearly requires otherwise:
+8 (1) “Employee-owned business” means:
+9 (i) An employee cooperative corporation organized under title 7; or
+10 (ii) A limited liability company (LLC) or limited liability partnership (LLP), in either case,
+11 whose bylaws, operating agreement or partnership agreement, as applicable, meets the following
+12 requirements:
+13 (A) All persons who meet the definition of employee-owner (“worker-owner”) according
+14 to the bylaws, operating agreement or partnership agreement of the business are voting members
+15 of the company, and have equal voting rights in all decisions brought before the membership; and
+16 (B) Any profits distributed to said worker-owners by the company are distributed on the
+17 basis of their patronage in the company, with patronage measured based on the labor supplied to
+18 the company.
+1 (2) "Employee-owned business resource list" means a list of local and regional entities
+2 qualified to offer guidance with starting, converting, or maintaining an employee-owned business.
+3 Such an employee-owned business resource list shall be created and maintained by the secretary of
+4 state's office, publicly visible and searchable on their website, available as a printable document,
+5 and updated on a regular basis.
+6 (3) “Owner” means the owner(s) of a qualified business prior to a qualified business sale.
+7 (4) “Qualified business” means an entity that:
+8 (i) Has operated a principal place of business in Rhode Island for at least one year;
+9 (ii) Is a taxpayer subject to Rhode Island tax pursuant to title 44, but not limited to a C
+10 corporation, S corporation, limited liability company, partnership, limited liability partnership, or
+11 a sole proprietorship;
+12 (iii) Is a privately held business;
+13 (iv) Has at least three (3) workers not including the owner, or other similar pass-through
+14 entity;
+15 (v) Meets the relevant size standards for a small business by industry, as set forth by the
+16 U.S. Small Business Administration in 13 CFR§ 121.201;
+17 (vi) Is not a medium or large business as defined by the U.S. Small Business
+18 Administration; and
+19 (vii) Is not a publicly traded company.
+20 (5) “Qualified business sale” means any transaction between the owner of a qualified
+21 business and a QEG that concludes in the qualified business becoming an employee-owned
+22 business or at least a fifty-one percent (51%) increment of total ownership of the qualified business
+23 being transferred to an employee-owned business. Such transactions shall not include transfers by
+24 inheritance, nor transfers or sales to immediate family, defined as siblings, spouses and/or children.
+25 (6) “Qualified employee group (QEG)” means a group containing at least a simple majority
+26 of full-time and/or part-time workers at the qualified business, totaling a minimum of three (3), at
+27 the point of formal notice of business sale by the owner to workers.
+28 28-61-2. Sale of a qualified business
+29 (a) In the event the owner of a qualified business decides to sell such qualified business or
+30 at least a fifty-one percent (51%) increment of total ownership of such qualified business in an
+31 equity sale, they shall notify all current full-time and part-time workers at the business within seven
+32 (7) days of the decision in a dated written notice. Such notice shall be posted on the date listed in
+33 the notice in a prominent location to which all workers have access, or if no such place exists, via
+34 an existing electronic medium used to communicate with workers. The notice shall communicate:
+LC001857 - Page 2 of 5
+1 (1) Date of the notice;
+2 (2) The owner’s intent to sell the business;
+3 (3) Information about the existence of the opportunity to own law, specifying that
+4 employees have an exclusive opportunity for thirty (30) days from the written notice to officially
+5 initiate a process to potentially purchase the business as an employee group, as outlined in that law;
+6 (4) Information about the secretary of state's employee-owned business resource list,
+7 including the URL or website, if applicable, and specifying the employee-owned business resource
+8 list as a resource to assist employees considering buying the business; and
+9 (5) Any price the owner of the qualified business proposes for the business sale.
+10 (b) In the event a QEG does not purchase one hundred percent (100%) of total ownership
+11 of the qualified business, such as where owners or other parties retain or purchase a stake in the
+12 business, the provisions of this section shall apply only if the QEG holds the sole voting rights and
+13 decision-making power in the resulting business. Sales of the qualified business that include
+14 agreements infringing on this requirement for democratic governance by worker-owners shall
+15 nullify the benefits to the owner from this section.
+16 (c) Any group of workers that is eligible to form a QEG has thirty (30) days from the date
+17 the owner’s notice was posted or upon the workers’ electronic receipt thereof, to signal in writing
+18 via registered mail to the owner their intent to compete to buy the qualified business, and list all
+19 members of the QEG. The owner shall immediately make available any financial records necessary
+20 for evaluating the health and value of the business, following the signing of a non-disclosure
+21 agreement between the owner and the QEG. If, after thirty (30) days, no QEG has signaled interest
+22 in a purchase, the owner shall be free to sell the business as they choose.
+23 (d) From the date any QEG signals intent to buy the business, the owner and the applicable
+24 QEG shall have one hundred eighty (180) days to have the value of the business assessed by a
+25 qualified independent business valuation consultant agreed to by the owner and the QEG, and to
+26 reach agreement on a price; or alternatively, if a competitive good-faith offer is made by a third
+27 party, the QEG shall have the opportunity to match that offer.
+28 (e) In the event the owner and QEG reach a price that is equivalent or superior to all other
+29 good-faith offers received on the open market within the one hundred eighty (180) day period, the
+30 owner shall be obligated to sell the business to the QEG; however, the highest bid need not be the
+31 winning bid, and the owner may sell to a QEG for reasons other than preferring the highest bid.
+32 (f) In the event of a completed qualified business sale, the owner shall be exempted from
+33 obligation under § 44-30-2.7, to pay the state capital gains tax on any gains from the sale of the
+34 qualified business under one million dollars ($1,000,000). Any gains from the sale of the qualified
+LC001857 - Page 3 of 5
+1 business over one million dollars ($1,000,000) shall continue to be subject to the relevant capital
+2 gains tax. In the event of a partial sale of the qualified business to the QEG, this exemption shall
+3 apply only to the proportion of the business being sold to the QEG.
+4 (g) All labor union membership or collective bargaining agreements existing prior to a
+5 qualified business sale shall continue to be in effect under the new ownership structure.
+6 (h) Upon the completion of a qualified business sale, the resulting business shall not be
+7 subject to external governance, decision-making or management influence from non-worker or
+8 non-member parties, including non-member shareholders or outside investors. Any contract
+9 enabling control of the company by outside investors shall not be in compliance with this section.
+10 (i) In the event that the owner of a qualified business fails to comply with the terms of this
+11 section, the QEG shall have the right to request a court injunction to stop such improper sale and
+12 require compliance with this section.
+13 28-61-3. Communication notices.
+14 On the effective date of this chapter, within sixty (60) days, the secretary of state's office
+15 shall send communication notices both via paper mail and electronic mail, if possible, to any entity
+16 actively doing business in the State of Rhode Island which may potentially be in the category of
+17 "qualifying business" as defined in this chapter. The communication notice shall contain a summary
+18 of this law, and shall include an additional notice in locally used languages stating the importance
+19 of having the information translated. The communication notice shall also contain reference to the
+20 employee-owned cooperative business resource list, including other information regarding where
+21 it can be found on the secretary of state's website. After such initial communication notice from the
+22 secretary of state's office, the same communication notice shall be sent to existing businesses each
+23 year via electronic or paper mail, as well as to new businesses upon incorporation. Implementation
+24 of this chapter shall be considered effective sixty (60) days after communication notices are sent to
+25 Rhode Island businesses, after which time any qualifying business shall be obligated to follow the
+26 provisions of this chapter.
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC001857
+========
+LC001857 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- THE RHODE ISLAND
+OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+***
+1 This act would establish an opportunity for employee ownership and the process whereby,
+2 if the owner of a qualified business decides to sell said business or at least fifty-one percent (51%)
+3 of said business, the owner would notify all current full-time and part-time workers within seven
+4 (7) days of the date of the decision.
+5 This act would take effect upon passage.
+========
+LC001857
+========
+LC001857 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND B R S J L T M C P S i C T 2 A c ( ( ( w r ( t o ( b t]
+[DELETED:  ( q S s a ( ( ( ( c a ( ( e ( U ( I n a m o l b a d b t U S B A ( ( b a a Q t c i t q b b a e b b i ( o t 2 ( a e ( t a]
+[DELETED:  ( ( ( I a t e o t o t o l s t e i ( I a t s o s e b r l i l ( ( o b d p i t r b S o t q b t i a n ( t v m f a i ( Q q r p ( g o w ( o q]
+[DELETED:  b g a ( q ( s n p i n s o o i A c e ( s r 2 O s a " o o e i s y o R p S]
+[DELETED:  T i o ( T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5940
+========
+LC001857
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- THE RHODE ISLAND
+OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+Introduced By: Representatives Stewart, J. Lombardi, Tanzi, Morales, Cruz, Potter,
+Alzate, Cotter, and Casimiro
+Date Introduced: February 28, 2025
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 28 of the General Laws entitled "LABOR AND LABOR RELATIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 THE RHODE ISLAND OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+5 28-61-1. Definitions.
+6 As used in this chapter, the following words shall have the following meanings unless the
+7 context clearly requires otherwise:
+8 (1) “Employee-owned business” means:
+9 (i) An employee cooperative corporation organized under title 7; or
+10 (ii) A limited liability company (LLC) or limited liability partnership (LLP), in either case,
+11 whose bylaws, operating agreement or partnership agreement, as applicable, meets the following
+12 requirements:
+13 (A) All persons who meet the definition of employee-owner (“worker-owner”) according
+14 to the bylaws, operating agreement or partnership agreement of the business are voting members
+15 of the company, and have equal voting rights in all decisions brought before the membership; and
+16 (B) Any profits distributed to said worker-owners by the company are distributed on the
+17 basis of their patronage in the company, with patronage measured based on the labor supplied to
+18 the company.
+
+1 (2) "Employee-owned business resource list" means a list of local and regional entities
+2 qualified to offer guidance with starting, converting, or maintaining an employee-owned business.
+3 Such an employee-owned business resource list shall be created and maintained by the secretary of
+4 state's office, publicly visible and searchable on their website, available as a printable document,
+5 and updated on a regular basis.
+6 (3) “Owner” means the owner(s) of a qualified business prior to a qualified business sale.
+7 (4) “Qualified business” means an entity that:
+8 (i) Has operated a principal place of business in Rhode Island for at least one year;
+9 (ii) Is a taxpayer subject to Rhode Island tax pursuant to title 44, but not limited to a C
+10 corporation, S corporation, limited liability company, partnership, limited liability partnership, or
+11 a sole proprietorship;
+12 (iii) Is a privately held business;
+13 (iv) Has at least three (3) workers not including the owner, or other similar pass-through
+14 entity;
+15 (v) Meets the relevant size standards for a small business by industry, as set forth by the
+16 U.S. Small Business Administration in 13 CFR§ 121.201;
+17 (vi) Is not a medium or large business as defined by the U.S. Small Business
+18 Administration; and
+19 (vii) Is not a publicly traded company.
+20 (5) “Qualified business sale” means any transaction between the owner of a qualified
+21 business and a QEG that concludes in the qualified business becoming an employee-owned
+22 business or at least a fifty-one percent (51%) increment of total ownership of the qualified business
+23 being transferred to an employee-owned business. Such transactions shall not include transfers by
+24 inheritance, nor transfers or sales to immediate family, defined as siblings, spouses and/or children.
+25 (6) “Qualified employee group (QEG)” means a group containing at least a simple majority
+26 of full-time and/or part-time workers at the qualified business, totaling a minimum of three (3), at
+27 the point of formal notice of business sale by the owner to workers.
+28 28-61-2. Sale of a qualified business
+29 (a) In the event the owner of a qualified business decides to sell such qualified business or
+30 at least a fifty-one percent (51%) increment of total ownership of such qualified business in an
+31 equity sale, they shall notify all current full-time and part-time workers at the business within seven
+32 (7) days of the decision in a dated written notice. Such notice shall be posted on the date listed in
+33 the notice in a prominent location to which all workers have access, or if no such place exists, via
+34 an existing electronic medium used to communicate with workers. The notice shall communicate:
+LC001857 - Page 2 of 5
+
+1 (1) Date of the notice;
+2 (2) The owner’s intent to sell the business;
+3 (3) Information about the existence of the opportunity to own law, specifying that
+4 employees have an exclusive opportunity for thirty (30) days from the written notice to officially
+5 initiate a process to potentially purchase the business as an employee group, as outlined in that law;
+6 (4) Information about the secretary of state's employee-owned business resource list,
+7 including the URL or website, if applicable, and specifying the employee-owned business resource
+8 list as a resource to assist employees considering buying the business; and
+9 (5) Any price the owner of the qualified business proposes for the business sale.
+10 (b) In the event a QEG does not purchase one hundred percent (100%) of total ownership
+11 of the qualified business, such as where owners or other parties retain or purchase a stake in the
+12 business, the provisions of this section shall apply only if the QEG holds the sole voting rights and
+13 decision-making power in the resulting business. Sales of the qualified business that include
+14 agreements infringing on this requirement for democratic governance by worker-owners shall
+15 nullify the benefits to the owner from this section.
+16 (c) Any group of workers that is eligible to form a QEG has thirty (30) days from the date
+17 the owner’s notice was posted or upon the workers’ electronic receipt thereof, to signal in writing
+18 via registered mail to the owner their intent to compete to buy the qualified business, and list all
+19 members of the QEG. The owner shall immediately make available any financial records necessary
+20 for evaluating the health and value of the business, following the signing of a non-disclosure
+21 agreement between the owner and the QEG. If, after thirty (30) days, no QEG has signaled interest
+22 in a purchase, the owner shall be free to sell the business as they choose.
+23 (d) From the date any QEG signals intent to buy the business, the owner and the applicable
+24 QEG shall have one hundred eighty (180) days to have the value of the business assessed by a
+25 qualified independent business valuation consultant agreed to by the owner and the QEG, and to
+26 reach agreement on a price; or alternatively, if a competitive good-faith offer is made by a third
+27 party, the QEG shall have the opportunity to match that offer.
+28 (e) In the event the owner and QEG reach a price that is equivalent or superior to all other
+29 good-faith offers received on the open market within the one hundred eighty (180) day period, the
+30 owner shall be obligated to sell the business to the QEG; however, the highest bid need not be the
+31 winning bid, and the owner may sell to a QEG for reasons other than preferring the highest bid.
+32 (f) In the event of a completed qualified business sale, the owner shall be exempted from
+33 obligation under § 44-30-2.7, to pay the state capital gains tax on any gains from the sale of the
+34 qualified business under one million dollars ($1,000,000). Any gains from the sale of the qualified
+LC001857 - Page 3 of 5
+
+1 business over one million dollars ($1,000,000) shall continue to be subject to the relevant capital
+2 gains tax. In the event of a partial sale of the qualified business to the QEG, this exemption shall
+3 apply only to the proportion of the business being sold to the QEG.
+4 (g) All labor union membership or collective bargaining agreements existing prior to a
+5 qualified business sale shall continue to be in effect under the new ownership structure.
+6 (h) Upon the completion of a qualified business sale, the resulting business shall not be
+7 subject to external governance, decision-making or management influence from non-worker or
+8 non-member parties, including non-member shareholders or outside investors. Any contract
+9 enabling control of the company by outside investors shall not be in compliance with this section.
+10 (i) In the event that the owner of a qualified business fails to comply with the terms of this
+11 section, the QEG shall have the right to request a court injunction to stop such improper sale and
+12 require compliance with this section.
+13 28-61-3. Communication notices.
+14 On the effective date of this chapter, within sixty (60) days, the secretary of state's office
+15 shall send communication notices both via paper mail and electronic mail, if possible, to any entity
+16 actively doing business in the State of Rhode Island which may potentially be in the category of
+17 "qualifying business" as defined in this chapter. The communication notice shall contain a summary
+18 of this law, and shall include an additional notice in locally used languages stating the importance
+19 of having the information translated. The communication notice shall also contain reference to the
+20 employee-owned cooperative business resource list, including other information regarding where
+21 it can be found on the secretary of state's website. After such initial communication notice from the
+22 secretary of state's office, the same communication notice shall be sent to existing businesses each
+23 year via electronic or paper mail, as well as to new businesses upon incorporation. Implementation
+24 of this chapter shall be considered effective sixty (60) days after communication notices are sent to
+25 Rhode Island businesses, after which time any qualifying business shall be obligated to follow the
+26 provisions of this chapter.
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC001857
+========
+LC001857 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- THE RHODE ISLAND
+OPPORTUNITY FOR EMPLOYEE OWNERSHIP ACT
+***
+1 This act would establish an opportunity for employee ownership and the process whereby,
+2 if the owner of a qualified business decides to sell said business or at least fifty-one percent (51%)
+3 of said business, the owner would notify all current full-time and part-time workers within seven
+4 (7) days of the date of the decision.
+5 This act would take effect upon passage.
+========
+LC001857
+========
+LC001857 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND B R S J L T M C P S i C T 2 A c ( ( ( w r ( t o ( b t]
+[DELETED:  ( q S s a ( ( ( ( c a ( ( e ( U ( I n a m o l b a d b t U S B A ( ( b a a Q t c i t q b b a e b b i ( o t 2 ( a e ( t a]
+[DELETED:  ( ( ( I a t e o t o t o l s t e i ( I a t s o s e b r l i l ( ( o b d p i t r b S o t q b t i a n ( t v m f a i ( Q q r p ( g o w ( o q]
+[DELETED:  b g a ( q ( s n p i n s o o i A c e ( s r 2 O s a " o o e i s y o R p S]
+[DELETED:  T i o ( T]

@@ -1,0 +1,295 @@
+Title: RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+Official Title: RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+Number of Sections: 1
+Source: versions - 5636
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5636
+========
+LC000509
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Kennedy, Azzinaro, Edwards, Solomon, O'Brien,
+Kazarian, and Diaz
+Date Introduced: February 26, 2025
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.3-1.1 of the General Laws in Chapter 19-14.3 entitled
+2 "Currency Transmissions" is hereby amended to read as follows:
+3 19-14.3-1.1. Definitions.
+4 In addition to the definitions provided in § 19-14-1 the following definitions are applicable
+5 to this chapter:
+6 (1) “Control” means:
+7 (i) When used in reference to a transaction or relationship involving virtual currency, the
+8 power to execute unilaterally or prevent indefinitely a virtual currency transaction; and
+9 (ii) When used in reference to a person, the direct or indirect power to direct the
+10 management, operations, or policies of the person through legal or beneficial ownership of twenty-
+11 five percent (25%) or more of the voting power in the person or under a contract, arrangement, or
+12 understanding.
+13 (2) “Department” means the department of business regulation, division of banking.
+14 (3) “Exchange,” used as a verb, means to assume control of virtual currency from or on
+15 behalf of a resident, at least momentarily, to sell, trade, or convert:
+16 (i) Virtual currency for legal tender, bank credit, or one or more forms of virtual currency;
+17 or
+18 (ii) Legal tender or bank credit for one or more forms of virtual currency.
+19 (4) “Legal tender” means a medium of exchange or unit of value, including the coin or
+1 paper money of the United States, issued by the United States or by another government.
+2 (5) “Licensee” means a person licensed under this chapter.
+3 (6) “Monetary value” means a medium of exchange, whether or not redeemable in money.
+4 (7) “Reciprocity agreement” means an arrangement between the department and the
+5 appropriate licensing agency of another state that permits a licensee operating under a license
+6 granted by the other state to engage in currency transmission business activity with or on behalf of
+7 a resident.
+8 (8) “Record” means information that is inscribed on a tangible medium or that is stored in
+9 an electronic or other medium and is retrievable in perceivable form.
+10 (9) “Registry” means the Nationwide Multistate Licensing System.
+11 (10) “Resident”:
+12 (i) Means a person that:
+13 (A) Is domiciled in this state;
+14 (B) Is physically located in this state for more than one hundred eighty-three (183) days of
+15 the previous three hundred sixty-five (365) days; or
+16 (C) Has a place of business in this state; and
+17 (ii) Includes a legal representative of a person that satisfies subsection (10)(i) of this
+18 section.
+19 (11) “Responsible individual” means an individual who has managerial authority with
+20 respect to a licensee’s currency transmission business activity with or on behalf of a resident.
+21 (12) “Sign” means, with present intent to authenticate or adopt a record:
+22 (i) To execute or adopt a tangible symbol; or
+23 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+24 process.
+25 (13) “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+26 United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the
+27 United States.
+28 (14) “Store,” except in the phrase “store of value,” means to maintain control of virtual
+29 currency on behalf of a resident by a person other than the resident. “Storage” and “storing” have
+30 corresponding meanings.
+31 (15) “Transfer” means to assume control of virtual currency from or on behalf of a resident
+32 and to:
+33 (i) Credit the virtual currency to the account of another person;
+34 (ii) Move the virtual currency from one account of a resident to another account of the
+LC000509 - Page 2 of 5
+1 same resident; or
+2 (iii) Relinquish control of virtual currency to another person.
+3 (16) “U.S. Dollar equivalent of virtual currency” means the equivalent value of a particular
+4 virtual currency in United States dollars shown on a virtual currency exchange based in the United
+5 States for a particular date or period specified in this chapter.
+6 (17) “Virtual currency business activity” means:
+7 (i) Exchanging, transferring, or storing virtual currency whether directly or through an
+8 agreement with a virtual currency control-services vendor;
+9 (ii) Holding electronic precious metals or electronic certificates representing interests in
+10 precious metals on behalf of another person or issuing shares or electronic certificates representing
+11 interests in precious metals; or
+12 (iii) Exchanging one or more digital representations of value used within one or more
+13 online games, game platforms, or family of games for:
+14 (A) Virtual currency offered by or on behalf of the same publisher from which the original
+15 digital representation of value was received; or
+16 (B) Legal tender or bank credit outside the online game, game platform, or family of games
+17 offered by or on behalf of the same publisher from which the original digital representation of value
+18 was received.
+19 (18) “Virtual currency control-services vendor” means a person who has control of virtual
+20 currency solely under an agreement with a person who, on behalf of another person, assumes
+21 control of virtual currency.
+22 (19) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of
+23 the owner or operator to enable the owner or operator to facilitate the exchange of virtual currency
+24 for fiat currency or other virtual currency including, but not limited to, by:
+25 (i) Connecting directly to a separate virtual currency exchanger that performs the actual
+26 virtual currency transmission; or
+27 (ii) Drawing upon the virtual currency in the possession of the owner or operator of the
+28 electronic terminal.
+29 SECTION 2. Chapter 19-14.3 of the General Laws entitled "Currency Transmissions" is
+30 hereby amended by adding thereto the following section:
+31 19-14.3-3.9. Virtual currency kiosk -- Receipts required.
+32 On or after January 1, 2026, any person who owns, operates, solicits, markets, advertises,
+33 or facilitates virtual currency kiosks in this state shall provide customers of the virtual currency
+34 kiosk with an option to receive a paper receipt, or electronic receipt, or both detailing the virtual
+LC000509 - Page 3 of 5
+1 currency kiosk transaction. The receipt required by this section shall include any:
+2 (i) Public virtual currency wallet addresses;
+3 (ii) The full name of the account owner;
+4 (iii) Unique transaction identifiers; and
+5 (iv) Statements regarding the company fraud victim refund policy.
+6 (b) In addition to mandatory paper receipts required pursuant to subsection (a) of this
+7 section, virtual currency kiosk operators shall provide electronic copies of virtual currency kiosk
+8 transactions to the customers email address or record with the operator of the virtual currency kiosk.
+9 (c) Virtual currency kiosks unable to provide paper receipts at the time of the transactions
+10 shall be disabled by the operator to prevent the processing of any virtual currency transaction
+11 without a paper receipt.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC000509
+========
+LC000509 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+***
+1 This act would provide that operators of virtual currency kiosks must provide customers
+2 with a paper receipt, electronic receipt, or both of the transaction.
+3 This act would take effect upon passage.
+========
+LC000509
+========
+LC000509 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND B R K A E S O S 1 S 1 o t G L i C 1 e " 1 I t ( ( p ( W u i r t a p t d o i p t d t m f u ( ( b ( o ( (]
+[DELETED:  p ( ( ( “ a m a a b t d a t a g a ( a ( ( ( ( ( t ( ( I a l r o a p s o s ( r ( ( ( p ( U U ( c c ( a ( (]
+[DELETED:  s ( ( v S ( ( a ( p i ( o ( d ( o w ( c c ( t f ( v ( e S h 1 O o k]
+[DELETED:  c ( ( ( ( ( s t ( s w S]
+[DELETED:  T w T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5636
+========
+LC000509
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+Introduced By: Representatives Kennedy, Azzinaro, Edwards, Solomon, O'Brien,
+Kazarian, and Diaz
+Date Introduced: February 26, 2025
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.3-1.1 of the General Laws in Chapter 19-14.3 entitled
+2 "Currency Transmissions" is hereby amended to read as follows:
+3 19-14.3-1.1. Definitions.
+4 In addition to the definitions provided in § 19-14-1 the following definitions are applicable
+5 to this chapter:
+6 (1) “Control” means:
+7 (i) When used in reference to a transaction or relationship involving virtual currency, the
+8 power to execute unilaterally or prevent indefinitely a virtual currency transaction; and
+9 (ii) When used in reference to a person, the direct or indirect power to direct the
+10 management, operations, or policies of the person through legal or beneficial ownership of twenty-
+11 five percent (25%) or more of the voting power in the person or under a contract, arrangement, or
+12 understanding.
+13 (2) “Department” means the department of business regulation, division of banking.
+14 (3) “Exchange,” used as a verb, means to assume control of virtual currency from or on
+15 behalf of a resident, at least momentarily, to sell, trade, or convert:
+16 (i) Virtual currency for legal tender, bank credit, or one or more forms of virtual currency;
+17 or
+18 (ii) Legal tender or bank credit for one or more forms of virtual currency.
+19 (4) “Legal tender” means a medium of exchange or unit of value, including the coin or
+
+1 paper money of the United States, issued by the United States or by another government.
+2 (5) “Licensee” means a person licensed under this chapter.
+3 (6) “Monetary value” means a medium of exchange, whether or not redeemable in money.
+4 (7) “Reciprocity agreement” means an arrangement between the department and the
+5 appropriate licensing agency of another state that permits a licensee operating under a license
+6 granted by the other state to engage in currency transmission business activity with or on behalf of
+7 a resident.
+8 (8) “Record” means information that is inscribed on a tangible medium or that is stored in
+9 an electronic or other medium and is retrievable in perceivable form.
+10 (9) “Registry” means the Nationwide Multistate Licensing System.
+11 (10) “Resident”:
+12 (i) Means a person that:
+13 (A) Is domiciled in this state;
+14 (B) Is physically located in this state for more than one hundred eighty-three (183) days of
+15 the previous three hundred sixty-five (365) days; or
+16 (C) Has a place of business in this state; and
+17 (ii) Includes a legal representative of a person that satisfies subsection (10)(i) of this
+18 section.
+19 (11) “Responsible individual” means an individual who has managerial authority with
+20 respect to a licensee’s currency transmission business activity with or on behalf of a resident.
+21 (12) “Sign” means, with present intent to authenticate or adopt a record:
+22 (i) To execute or adopt a tangible symbol; or
+23 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+24 process.
+25 (13) “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+26 United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the
+27 United States.
+28 (14) “Store,” except in the phrase “store of value,” means to maintain control of virtual
+29 currency on behalf of a resident by a person other than the resident. “Storage” and “storing” have
+30 corresponding meanings.
+31 (15) “Transfer” means to assume control of virtual currency from or on behalf of a resident
+32 and to:
+33 (i) Credit the virtual currency to the account of another person;
+34 (ii) Move the virtual currency from one account of a resident to another account of the
+LC000509 - Page 2 of 5
+
+1 same resident; or
+2 (iii) Relinquish control of virtual currency to another person.
+3 (16) “U.S. Dollar equivalent of virtual currency” means the equivalent value of a particular
+4 virtual currency in United States dollars shown on a virtual currency exchange based in the United
+5 States for a particular date or period specified in this chapter.
+6 (17) “Virtual currency business activity” means:
+7 (i) Exchanging, transferring, or storing virtual currency whether directly or through an
+8 agreement with a virtual currency control-services vendor;
+9 (ii) Holding electronic precious metals or electronic certificates representing interests in
+10 precious metals on behalf of another person or issuing shares or electronic certificates representing
+11 interests in precious metals; or
+12 (iii) Exchanging one or more digital representations of value used within one or more
+13 online games, game platforms, or family of games for:
+14 (A) Virtual currency offered by or on behalf of the same publisher from which the original
+15 digital representation of value was received; or
+16 (B) Legal tender or bank credit outside the online game, game platform, or family of games
+17 offered by or on behalf of the same publisher from which the original digital representation of value
+18 was received.
+19 (18) “Virtual currency control-services vendor” means a person who has control of virtual
+20 currency solely under an agreement with a person who, on behalf of another person, assumes
+21 control of virtual currency.
+22 (19) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of
+23 the owner or operator to enable the owner or operator to facilitate the exchange of virtual currency
+24 for fiat currency or other virtual currency including, but not limited to, by:
+25 (i) Connecting directly to a separate virtual currency exchanger that performs the actual
+26 virtual currency transmission; or
+27 (ii) Drawing upon the virtual currency in the possession of the owner or operator of the
+28 electronic terminal.
+29 SECTION 2. Chapter 19-14.3 of the General Laws entitled "Currency Transmissions" is
+30 hereby amended by adding thereto the following section:
+31 19-14.3-3.9. Virtual currency kiosk -- Receipts required.
+32 On or after January 1, 2026, any person who owns, operates, solicits, markets, advertises,
+33 or facilitates virtual currency kiosks in this state shall provide customers of the virtual currency
+34 kiosk with an option to receive a paper receipt, or electronic receipt, or both detailing the virtual
+LC000509 - Page 3 of 5
+
+1 currency kiosk transaction. The receipt required by this section shall include any:
+2 (i) Public virtual currency wallet addresses;
+3 (ii) The full name of the account owner;
+4 (iii) Unique transaction identifiers; and
+5 (iv) Statements regarding the company fraud victim refund policy.
+6 (b) In addition to mandatory paper receipts required pursuant to subsection (a) of this
+7 section, virtual currency kiosk operators shall provide electronic copies of virtual currency kiosk
+8 transactions to the customers email address or record with the operator of the virtual currency kiosk.
+9 (c) Virtual currency kiosks unable to provide paper receipts at the time of the transactions
+10 shall be disabled by the operator to prevent the processing of any virtual currency transaction
+11 without a paper receipt.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC000509
+========
+LC000509 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+***
+1 This act would provide that operators of virtual currency kiosks must provide customers
+2 with a paper receipt, electronic receipt, or both of the transaction.
+3 This act would take effect upon passage.
+========
+LC000509
+========
+LC000509 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND B R K A E S O S 1 S 1 o t G L i C 1 e " 1 I t ( ( p ( W u i r t a p t d o i p t d t m f u ( ( b ( o ( (]
+[DELETED:  p ( ( ( “ a m a a b t d a t a g a ( a ( ( ( ( ( t ( ( I a l r o a p s o s ( r ( ( ( p ( U U ( c c ( a ( (]
+[DELETED:  s ( ( v S ( ( a ( p i ( o ( d ( o w ( c c ( t f ( v ( e S h 1 O o k]
+[DELETED:  c ( ( ( ( ( s t ( s w S]
+[DELETED:  T w T]

@@ -1,0 +1,410 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Number of Sections: 1
+Source: versions - 385
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0385
+========
+LC001809
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+-- 2025 UTILITY COMPANY BILLING TRANSPARENCY ACT
+Introduced By: Senators Ujifusa, Murray, Felag, Lauria, Lawson, Mack, Kallman,
+Bissaillon, Ciccone, and E Morgan
+Date Introduced: February 26, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Short Title.
+2 This act may be cited as the "2025 Utility Company Billing Transparency Act."
+3 SECTION 2. Findings.
+4 The general assembly finds as follows:
+5 1. Consumers have expressed concerns that utility company bills, such as those from Rhode
+6 Island Energy (RIE), contain a variety of charges that are confusing and burdensome, particularly
+7 regarding how costs are calculated and how funds are used;
+8 2. Clear and concise explanations of the charges on utility company bills would enable
+9 consumers to better understand their utility costs and make informed decisions regarding their
+10 service;
+11 3. Transparency regarding the costs included in utility company bills would promote trust
+12 and accountability among all stakeholders and the general public; and
+13 4. Similar measures to ensure billing transparency and understanding of utility company
+14 charges have been successfully implemented in other states
+15 SECTION 3. Definitions.
+16 For the purposes of this act:
+17 (1) “Utility company bill” or “utility bill” means the utility bill issued by the electric
+18 distribution company as defined by § 39-1-2(a)(12) and gas distribution company included as a
+1 public utility in § 39-1-2(a)(20) having greater than one hundred thousand (100,000) customers that
+2 includes charges for residential energy services, which may include, but are not limited to, base
+3 utility charges, fees, taxes, and any other charges related to the provision of energy services.
+4 SECTION 4. Section 39-1-27.7.1 of the General Laws in Chapter 39-1 entitled "Public
+5 Utilities Commission" is hereby amended to read as follows:
+6 39-1-27.7.1. Revenue decoupling.
+7 (a) The general assembly finds and declares that electricity and gas revenues shall be fully
+8 decoupled from sales pursuant to the provisions of this chapter and further finds and declares that
+9 any decoupling proposal submitted by an electric distribution company as defined in § 39-1-
+10 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+11 than one hundred thousand (100,000) customers, shall be for the following purposes:
+12 (1) Increasing efficiency in the operations and management of the electric and gas
+13 distribution system;
+14 (2) Achieving the goals established in the electric distribution company’s plan for system
+15 reliability and energy efficiency and conservation procurement as required pursuant to § 39-1-
+16 27.7(d);
+17 (3) Increasing investment in least-cost resources that will reduce long-term electricity
+18 demand;
+19 (4) Reducing risks for both customers and the distribution company including, but not
+20 limited to, societal risks, weather risks, and economic risks;
+21 (5) Increasing investment in end-use energy efficiency;
+22 (6) Eliminating disincentives to support energy-efficiency programs;
+23 (7) Facilitating and encouraging investment in utility infrastructure, safety, and reliability;
+24 and
+25 (8) Considering the reduction of fixed, recurring customer charges and transition to
+26 increased unit charges that more accurately reflect the long-term costs of energy production and
+27 delivery.
+28 (b) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+29 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+30 (100,000) customers shall file proposals at the commission to implement the policy set forth in
+31 subsection (a) of this section. The commission shall approve these proposals, provided they contain
+32 the features and components set forth in subsection (c) of this section, and that they are consistent
+33 with the intent and objectives contained in subsection (a) of this section. Actions taken by the
+34 commission in the exercise of its ratemaking authority for electric and gas rate cases shall be within
+LC001809 - Page 2 of 6
+1 the norm of industry standards and recognize the need to maintain the financial health of the
+2 distribution company as a stand-alone entity in Rhode Island.
+3 (c) The proposals shall contain the following features and components:
+4 (1) A revenue decoupling reconciliation mechanism that reconciles annually the revenue
+5 requirement allowed in the company’s base distribution-rate case to revenues actually received for
+6 the applicable twelve-month (12) period. Any revenues over-recovered or under-recovered shall be
+7 credited to, or recovered from, customers, as applicable; and
+8 (2) An annual infrastructure, safety, and reliability spending plan for each fiscal year and
+9 an annual rate-reconciliation mechanism that includes a reconcilable allowance for the anticipated
+10 capital investments and other spending pursuant to the annual pre-approved budget as developed
+11 in accordance with subsection (d) of this section.
+12 (d) Prior to the beginning of each fiscal year, gas and electric distribution companies shall
+13 consult with the division of public utilities and carriers regarding their infrastructure, safety, and
+14 reliability spending plan for the following fiscal year, addressing the following categories:
+15 (1) Capital spending on utility infrastructure;
+16 (2) For electric distribution companies, operation and maintenance expenses on vegetation
+17 management;
+18 (3) For electric distribution companies, operation and maintenance expenses on system
+19 inspection, including expenses from expected resulting repairs; and
+20 (4) Any other costs relating to maintaining safety and reliability that are mutually agreed
+21 upon by the division and the company.
+22 The distribution company shall submit a plan to the division and the division shall
+23 cooperate in good faith to reach an agreement on a proposed plan for these categories of costs for
+24 the prospective fiscal year within sixty (60) days. To the extent that the company and the division
+25 mutually agree on a plan, such plan shall be filed with the commission for review and approval
+26 within ninety (90) days. If the company and the division cannot agree on a plan, the company shall
+27 file a proposed plan with the commission and the commission shall review and, if the investments
+28 and spending are found to be reasonably needed to maintain safe and reliable distribution service
+29 over the short and long term, approve the plan within ninety (90) days.
+30 (e) The commission shall have the following duties and powers, in addition to its existing
+31 authorities established in this title:
+32 (1) To maintain reasonable and adequate service-quality standards, after decoupling, that
+33 are in effect at the time of the proposal and were established pursuant to § 39-3-7.
+34 (2) The commission may exclude the low-income rate class from the revenue decoupling
+LC001809 - Page 3 of 6
+1 reconciliation-rate mechanism for either electric or gas distribution. The commission also may
+2 exclude customers in the large commercial and industrial rate class from the gas-distribution
+3 mechanism.
+4 (3) The commission may adopt performance incentives for the electric distribution
+5 company that provide a shared-savings mechanism whereby the company would receive a
+6 percentage of savings realized as a result of achieving the purposes of this section while the
+7 remaining savings are credited to customers.
+8 (4) The commission shall review and approve, with any necessary amendments,
+9 performance-based, energy-savings targets developed and submitted by the Rhode Island energy
+10 efficiency and resources management council. The performance-based targets shall also be used as
+11 a consideration in any shared-savings mechanism established by the commission pursuant to
+12 subsection (e)(3) of this section.
+13 (f) The Rhode Island energy efficiency and resources management council shall propose
+14 performance-based, energy-savings targets to the commission no later than September 1, 2010. The
+15 targets shall include, but not be limited to, specific energy kilowatt-hour savings overall and peak-
+16 demand savings for both summer and winter peak periods expressed in total megawatts as well as
+17 appropriate targets recommended in the opportunities report filed with the commission pursuant to
+18 § 39-1-27.7(d)(3). The council shall revise, as necessary, these targets on an annual basis prior to
+19 the reconciliation process established pursuant to subsection (c) of this section and submit its
+20 revisions to the commission for approval.
+21 (g) Reporting. Every electric distribution company, as defined in subsection (a) of this
+22 section, shall report to the governor, general assembly, division of public utilities and carriers, and
+23 public utilities commission on or before September 1, 2012. The report shall include, but not be
+24 limited to, the following elements:
+25 (1) A comparison of revenues from traditional rate regulation and how the revenues have
+26 differed as part of an approved decoupling structure;
+27 (2) A summary of how the company is achieving the performance-based targets that may
+28 have been adopted pursuant to subsection (e)(4) of this section;
+29 (3) A summary of any shared savings the company may have received pursuant to the
+30 performance incentives authorized in subsection (e)(3) of this section;
+31 (4) A summary of how the company is achieving the service-quality standards required in
+32 subsection (e)(1) of this section;
+33 (5) An overview of how decoupling is impacting revenue stabilization goals that have
+34 resulted from decoupling; and
+LC001809 - Page 4 of 6
+1 (6) A summary of any customer education programs provided.
+2 SECTION 5. Chapter 39-3 of the General Laws entitled "Regulatory Powers of
+3 Administration" is hereby amended by adding thereto the following section:
+4 39-3-45. Requirements prior to implementing rate changes.
+5 (a) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+6 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+7 (100,000) customers shall comply with the following:
+8 (1) Before implementing rate changes, utilities shall submit a ratepayer impact analyses
+9 (RIA) that estimates the impact of proposed rate changes on different customer classes. This RIA
+10 shall include analysis of the cost-benefit relationship of rate adjustments, particularly how they
+11 benefit or disadvantage various sectors;
+12 (2) Provide monthly detailed descriptions of charges in utility company bills, including
+13 how much of the charge goes toward various services in order that customers can understand the
+14 effects of rate adjustments;
+15 (3) Provide periodic explanations of significant rate changes or cost fluctuations, such as
+16 variations in energy procurement costs, regulatory adjustments, changes in charges for supply,
+17 transmission, distribution and other costs, and how those factors may change over time; as well as
+18 an explanation that shall include information of how customers can reduce their bill; and
+19 (4) Provide annual reports that include a breakdown of the costs contributing to rate
+20 adjustments, such as energy procurement costs, infrastructure investments, revenues and profits,
+21 and operational costs.
+22 (b) Enforcement.
+23 (1) The public utilities commission shall oversee compliance with this section and may
+24 impose fines or penalties for failure to provide accurate, timely, and clear explanations of rate
+25 changes.
+26 (2) Failure to include with a rate filing a clear explanation as required under this section
+27 shall result in suspension of the rate filing until proper notifications and explanations are provided.
+28 SECTION 6. This act shall take effect upon passage.
+========
+LC001809
+========
+LC001809 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- 2025 UTILITY COMPANY BILLING TRANSPARENCY ACT
+***
+1 This act would impose requirements and actions that electric distribution companies and
+2 gas distribution companies having over one hundred thousand (100,000) customers would need to
+3 take prior to implementing rate changes. The act would also add additional requirements of
+4 providing explanations and annual reports with information on costs contributing to rate
+5 adjustments, for the purpose of providing greater transparency to customers and consumers of
+6 electricity and gas.
+7 This act would take effect upon passage.
+========
+LC001809
+========
+LC001809 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND B S U M F L L M K S T S T 1 I r 2 c s 3 a 4 c S F ( d]
+[DELETED:  p i u S U 3 ( d a 2 t ( I e i t o a m o t e a g d ( r 2 ( d ( l ( ( ( a ( C t r o f r c c a t t i d ( c ( s t w c]
+[DELETED:  t d ( ( r t c ( a c i ( c r ( ( m ( i ( u T d c s s a p t t d a t d s c t m w f a o ( a ( a (]
+[DELETED:  r e c i t l c a i r c f t g m ( T c m a p i f t e d c t p a s m w t c w r a p r ( T c s r a a w a n a p e a c i a s m e b t c p t s ( p t d a § t r ( s p l ( d ( h ( p ( s ( r]
+[DELETED:  ( S 5 C 3 o t G L e " P o A 3 ( c ( ( ( s b ( h e ( v t a ( P a r t i a b o t c c t r a a ( ( i c ( s S]
+[DELETED:  T g t p t i r c T a w a a a r o p e a a r w i o c c t r a e T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0385
+========
+LC001809
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- 2025 UTILITY COMPANY BILLING TRANSPARENCY ACT
+Introduced By: Senators Ujifusa, Murray, Felag, Lauria, Lawson, Mack, Kallman,
+Bissaillon, Ciccone, and E Morgan
+Date Introduced: February 26, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Short Title.
+2 This act may be cited as the "2025 Utility Company Billing Transparency Act."
+3 SECTION 2. Findings.
+4 The general assembly finds as follows:
+5 1. Consumers have expressed concerns that utility company bills, such as those from Rhode
+6 Island Energy (RIE), contain a variety of charges that are confusing and burdensome, particularly
+7 regarding how costs are calculated and how funds are used;
+8 2. Clear and concise explanations of the charges on utility company bills would enable
+9 consumers to better understand their utility costs and make informed decisions regarding their
+10 service;
+11 3. Transparency regarding the costs included in utility company bills would promote trust
+12 and accountability among all stakeholders and the general public; and
+13 4. Similar measures to ensure billing transparency and understanding of utility company
+14 charges have been successfully implemented in other states
+15 SECTION 3. Definitions.
+16 For the purposes of this act:
+17 (1) “Utility company bill” or “utility bill” means the utility bill issued by the electric
+18 distribution company as defined by § 39-1-2(a)(12) and gas distribution company included as a
+
+1 public utility in § 39-1-2(a)(20) having greater than one hundred thousand (100,000) customers that
+2 includes charges for residential energy services, which may include, but are not limited to, base
+3 utility charges, fees, taxes, and any other charges related to the provision of energy services.
+4 SECTION 4. Section 39-1-27.7.1 of the General Laws in Chapter 39-1 entitled "Public
+5 Utilities Commission" is hereby amended to read as follows:
+6 39-1-27.7.1. Revenue decoupling.
+7 (a) The general assembly finds and declares that electricity and gas revenues shall be fully
+8 decoupled from sales pursuant to the provisions of this chapter and further finds and declares that
+9 any decoupling proposal submitted by an electric distribution company as defined in § 39-1-
+10 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+11 than one hundred thousand (100,000) customers, shall be for the following purposes:
+12 (1) Increasing efficiency in the operations and management of the electric and gas
+13 distribution system;
+14 (2) Achieving the goals established in the electric distribution company’s plan for system
+15 reliability and energy efficiency and conservation procurement as required pursuant to § 39-1-
+16 27.7(d);
+17 (3) Increasing investment in least-cost resources that will reduce long-term electricity
+18 demand;
+19 (4) Reducing risks for both customers and the distribution company including, but not
+20 limited to, societal risks, weather risks, and economic risks;
+21 (5) Increasing investment in end-use energy efficiency;
+22 (6) Eliminating disincentives to support energy-efficiency programs;
+23 (7) Facilitating and encouraging investment in utility infrastructure, safety, and reliability;
+24 and
+25 (8) Considering the reduction of fixed, recurring customer charges and transition to
+26 increased unit charges that more accurately reflect the long-term costs of energy production and
+27 delivery.
+28 (b) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+29 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+30 (100,000) customers shall file proposals at the commission to implement the policy set forth in
+31 subsection (a) of this section. The commission shall approve these proposals, provided they contain
+32 the features and components set forth in subsection (c) of this section, and that they are consistent
+33 with the intent and objectives contained in subsection (a) of this section. Actions taken by the
+34 commission in the exercise of its ratemaking authority for electric and gas rate cases shall be within
+LC001809 - Page 2 of 6
+
+1 the norm of industry standards and recognize the need to maintain the financial health of the
+2 distribution company as a stand-alone entity in Rhode Island.
+3 (c) The proposals shall contain the following features and components:
+4 (1) A revenue decoupling reconciliation mechanism that reconciles annually the revenue
+5 requirement allowed in the company’s base distribution-rate case to revenues actually received for
+6 the applicable twelve-month (12) period. Any revenues over-recovered or under-recovered shall be
+7 credited to, or recovered from, customers, as applicable; and
+8 (2) An annual infrastructure, safety, and reliability spending plan for each fiscal year and
+9 an annual rate-reconciliation mechanism that includes a reconcilable allowance for the anticipated
+10 capital investments and other spending pursuant to the annual pre-approved budget as developed
+11 in accordance with subsection (d) of this section.
+12 (d) Prior to the beginning of each fiscal year, gas and electric distribution companies shall
+13 consult with the division of public utilities and carriers regarding their infrastructure, safety, and
+14 reliability spending plan for the following fiscal year, addressing the following categories:
+15 (1) Capital spending on utility infrastructure;
+16 (2) For electric distribution companies, operation and maintenance expenses on vegetation
+17 management;
+18 (3) For electric distribution companies, operation and maintenance expenses on system
+19 inspection, including expenses from expected resulting repairs; and
+20 (4) Any other costs relating to maintaining safety and reliability that are mutually agreed
+21 upon by the division and the company.
+22 The distribution company shall submit a plan to the division and the division shall
+23 cooperate in good faith to reach an agreement on a proposed plan for these categories of costs for
+24 the prospective fiscal year within sixty (60) days. To the extent that the company and the division
+25 mutually agree on a plan, such plan shall be filed with the commission for review and approval
+26 within ninety (90) days. If the company and the division cannot agree on a plan, the company shall
+27 file a proposed plan with the commission and the commission shall review and, if the investments
+28 and spending are found to be reasonably needed to maintain safe and reliable distribution service
+29 over the short and long term, approve the plan within ninety (90) days.
+30 (e) The commission shall have the following duties and powers, in addition to its existing
+31 authorities established in this title:
+32 (1) To maintain reasonable and adequate service-quality standards, after decoupling, that
+33 are in effect at the time of the proposal and were established pursuant to § 39-3-7.
+34 (2) The commission may exclude the low-income rate class from the revenue decoupling
+LC001809 - Page 3 of 6
+
+1 reconciliation-rate mechanism for either electric or gas distribution. The commission also may
+2 exclude customers in the large commercial and industrial rate class from the gas-distribution
+3 mechanism.
+4 (3) The commission may adopt performance incentives for the electric distribution
+5 company that provide a shared-savings mechanism whereby the company would receive a
+6 percentage of savings realized as a result of achieving the purposes of this section while the
+7 remaining savings are credited to customers.
+8 (4) The commission shall review and approve, with any necessary amendments,
+9 performance-based, energy-savings targets developed and submitted by the Rhode Island energy
+10 efficiency and resources management council. The performance-based targets shall also be used as
+11 a consideration in any shared-savings mechanism established by the commission pursuant to
+12 subsection (e)(3) of this section.
+13 (f) The Rhode Island energy efficiency and resources management council shall propose
+14 performance-based, energy-savings targets to the commission no later than September 1, 2010. The
+15 targets shall include, but not be limited to, specific energy kilowatt-hour savings overall and peak-
+16 demand savings for both summer and winter peak periods expressed in total megawatts as well as
+17 appropriate targets recommended in the opportunities report filed with the commission pursuant to
+18 § 39-1-27.7(d)(3). The council shall revise, as necessary, these targets on an annual basis prior to
+19 the reconciliation process established pursuant to subsection (c) of this section and submit its
+20 revisions to the commission for approval.
+21 (g) Reporting. Every electric distribution company, as defined in subsection (a) of this
+22 section, shall report to the governor, general assembly, division of public utilities and carriers, and
+23 public utilities commission on or before September 1, 2012. The report shall include, but not be
+24 limited to, the following elements:
+25 (1) A comparison of revenues from traditional rate regulation and how the revenues have
+26 differed as part of an approved decoupling structure;
+27 (2) A summary of how the company is achieving the performance-based targets that may
+28 have been adopted pursuant to subsection (e)(4) of this section;
+29 (3) A summary of any shared savings the company may have received pursuant to the
+30 performance incentives authorized in subsection (e)(3) of this section;
+31 (4) A summary of how the company is achieving the service-quality standards required in
+32 subsection (e)(1) of this section;
+33 (5) An overview of how decoupling is impacting revenue stabilization goals that have
+34 resulted from decoupling; and
+LC001809 - Page 4 of 6
+
+1 (6) A summary of any customer education programs provided.
+2 SECTION 5. Chapter 39-3 of the General Laws entitled "Regulatory Powers of
+3 Administration" is hereby amended by adding thereto the following section:
+4 39-3-45. Requirements prior to implementing rate changes.
+5 (a) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+6 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+7 (100,000) customers shall comply with the following:
+8 (1) Before implementing rate changes, utilities shall submit a ratepayer impact analyses
+9 (RIA) that estimates the impact of proposed rate changes on different customer classes. This RIA
+10 shall include analysis of the cost-benefit relationship of rate adjustments, particularly how they
+11 benefit or disadvantage various sectors;
+12 (2) Provide monthly detailed descriptions of charges in utility company bills, including
+13 how much of the charge goes toward various services in order that customers can understand the
+14 effects of rate adjustments;
+15 (3) Provide periodic explanations of significant rate changes or cost fluctuations, such as
+16 variations in energy procurement costs, regulatory adjustments, changes in charges for supply,
+17 transmission, distribution and other costs, and how those factors may change over time; as well as
+18 an explanation that shall include information of how customers can reduce their bill; and
+19 (4) Provide annual reports that include a breakdown of the costs contributing to rate
+20 adjustments, such as energy procurement costs, infrastructure investments, revenues and profits,
+21 and operational costs.
+22 (b) Enforcement.
+23 (1) The public utilities commission shall oversee compliance with this section and may
+24 impose fines or penalties for failure to provide accurate, timely, and clear explanations of rate
+25 changes.
+26 (2) Failure to include with a rate filing a clear explanation as required under this section
+27 shall result in suspension of the rate filing until proper notifications and explanations are provided.
+28 SECTION 6. This act shall take effect upon passage.
+========
+LC001809
+========
+LC001809 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- 2025 UTILITY COMPANY BILLING TRANSPARENCY ACT
+***
+1 This act would impose requirements and actions that electric distribution companies and
+2 gas distribution companies having over one hundred thousand (100,000) customers would need to
+3 take prior to implementing rate changes. The act would also add additional requirements of
+4 providing explanations and annual reports with information on costs contributing to rate
+5 adjustments, for the purpose of providing greater transparency to customers and consumers of
+6 electricity and gas.
+7 This act would take effect upon passage.
+========
+LC001809
+========
+LC001809 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND B S U M F L L M K S T S T 1 I r 2 c s 3 a 4 c S F ( d]
+[DELETED:  p i u S U 3 ( d a 2 t ( I e i t o a m o t e a g d ( r 2 ( d ( l ( ( ( a ( C t r o f r c c a t t i d ( c ( s t w c]
+[DELETED:  t d ( ( r t c ( a c i ( c r ( ( m ( i ( u T d c s s a p t t d a t d s c t m w f a o ( a ( a (]
+[DELETED:  r e c i t l c a i r c f t g m ( T c m a p i f t e d c t p a s m w t c w r a p r ( T c s r a a w a n a p e a c i a s m e b t c p t s ( p t d a § t r ( s p l ( d ( h ( p ( s ( r]
+[DELETED:  ( S 5 C 3 o t G L e " P o A 3 ( c ( ( ( s b ( h e ( v t a ( P a r t i a b o t c c t r a a ( ( i c ( s S]
+[DELETED:  T g t p t i r c T a w a a a r o p e a a r w i o c c t r a e T]

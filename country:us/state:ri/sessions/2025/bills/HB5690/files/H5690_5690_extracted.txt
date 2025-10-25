@@ -1,0 +1,2165 @@
+Title: RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+Official Title: RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+Number of Sections: 1
+Source: versions - 5690
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5690
+========
+LC001042
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Quattrocchi, Nardone, Place, Hopkins, Paplauskas,
+Santucci, Fascia, and Chippendale
+Date Introduced: February 26, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 45-53 of the General Laws entitled "Low and Moderate Income
+2 Housing" is hereby repealed in its entirety.
+3 CHAPTER 45-53
+4 Low and Moderate Income Housing
+5 45-53-1. Short title.
+6 This chapter shall be known as the “Rhode Island Low and Moderate Income Housing
+7 Act”.
+8 45-53-2. Legislative findings and intent.
+9 The general assembly finds and declares that there exists an acute shortage of affordable,
+10 accessible, safe, and sanitary housing for its citizens of low and moderate income, both individuals
+11 and families; that it is imperative that action is taken immediately to assure the availability of
+12 affordable, accessible, safe, and sanitary housing for these persons; that it is necessary that each
+13 city and town provide opportunities for the establishment of low and moderate income housing;
+14 and that the provisions of this chapter are necessary to assure the health, safety, and welfare of all
+15 citizens of this state, and that each citizen enjoys the right to affordable, accessible, safe, and
+16 sanitary housing. It is further declared to be the purpose of this chapter to provide for housing
+17 opportunities for low and moderate income individuals and families in each city and town of the
+18 state and that an equal consideration shall be given to the retrofitting and rehabilitation of existing
+19 dwellings for low and moderate income housing and assimilating low and moderate income
+1 housing into existing and future developments and neighborhoods.
+2 45-53-3. Definitions.
+3 The following words, wherever used in this chapter, unless a different meaning clearly
+4 appears from the context, have the following meanings:
+5 (1) “Adjustment(s)” means a request or requests by the applicant to seek relief from the
+6 literal use and dimensional requirements of the municipal zoning ordinance and/or the design
+7 standards or requirements of the municipal land development and subdivision regulations. The
+8 standard for the local review board’s consideration of adjustments is set forth in § 45-53-
+9 4(d)(2)(iii)(E)(II).
+10 (2) “Affordable housing plan” means a component of a housing element, as defined in §
+11 45-22.2-4(1), that addresses housing needs in a city or town that is prepared in accordance with
+12 guidelines adopted by the state planning council, and/or to meet the provisions of § 45-53-4(e)(1)
+13 and (f).
+14 (3) “Approved affordable housing plan” means an affordable housing plan that has been
+15 approved by the director of administration as meeting the guidelines for the local comprehensive
+16 plan as promulgated by the state planning council; provided, however, that state review and
+17 approval, for plans submitted by December 31, 2004, shall not be contingent on the city or town
+18 having completed, adopted, or amended its comprehensive plan as provided for in § 45-22.2-8, §
+19 45-22.2-9, or § 45-22.2-12.
+20 (4) “Comprehensive plan” means a comprehensive plan adopted and approved by a city or
+21 town pursuant to chapters 22.2 and 22.3 of this title.
+22 (5) “Consistent with local needs” means reasonable in view of the state need for low- and
+23 moderate-income housing, considered with the number of low-income persons in the city or town
+24 affected and the need to protect the health and safety of the occupants of the proposed housing or
+25 of the residents of the city or town, to promote better site and building design in relation to the
+26 surroundings, or to preserve open spaces, and if the local zoning or land use ordinances,
+27 requirements, and regulations are applied as equally as possible to both subsidized and
+28 unsubsidized housing. Local zoning and land use ordinances, requirements, or regulations are
+29 consistent with local needs when imposed by a city or town council after a comprehensive hearing
+30 in a city or town where:
+31 (i) Low- or moderate-income housing exists which is: (A) In the case of an urban city or
+32 town which has at least 5,000 occupied year-round rental units and the units, as reported in the
+33 latest decennial census of the city or town, comprise twenty-five percent (25%) or more of the year-
+34 round housing units, and is in excess of fifteen percent (15%) of the total occupied year-round
+LC001042 - Page 2 of 31
+1 rental units; or (B) In the case of all other cities or towns, is in excess of ten percent (10%) of the
+2 year-round housing units reported in the census.
+3 (ii) The city or town has promulgated zoning or land use ordinances, requirements, and
+4 regulations to implement a comprehensive plan that has been adopted and approved pursuant to
+5 chapters 22.2 and 22.3 of this title, and the housing element of the comprehensive plan provides
+6 for low- and moderate-income housing in excess of either ten percent (10%) of the year-round
+7 housing units or fifteen percent (15%) of the occupied year-round rental housing units as provided
+8 in subsection (5)(i).
+9 (iii) Multi-family rental units built under a comprehensive permit may be calculated
+10 towards meeting the requirements of a municipality’s low- or moderate-income housing inventory,
+11 as long as the units meet and are in compliance with the provisions of § 45-53-3.1.
+12 (6) “Infeasible” means any condition brought about by any single factor or combination of
+13 factors, as a result of limitations imposed on the development by conditions attached to the approval
+14 of the comprehensive permit, to the extent that it makes it financially or logistically impracticable
+15 for any applicant to proceed in building or operating low- or moderate-income housing within the
+16 limitations set by the subsidizing agency of government or local review board, on the size or
+17 character of the development, on the amount or nature of the subsidy, or on the tenants, rentals, and
+18 income permissible, and without substantially changing the rent levels and unit sizes proposed by
+19 the applicant.
+20 (7) “Letter of eligibility” means a letter issued by the Rhode Island housing and mortgage
+21 finance corporation in accordance with § 42-55-5.3(a).
+22 (8) “Local review board” means the planning board as defined by § 45-22.2-4.
+23 (9) “Low- or moderate-income housing” shall be synonymous with “affordable housing”
+24 as defined in § 42-128-8.1, and further means any type of housing whether built or operated by any
+25 public agency or any nonprofit organization or by any limited equity housing cooperative or any
+26 private developer, that is subsidized by a federal, state, or municipal government subsidy under any
+27 program to assist the construction or rehabilitation of affordable housing and that will remain
+28 affordable through a land lease and/or deed restriction for ninety-nine (99) years or such other
+29 period that is either agreed to by the applicant and town or prescribed by the federal, state, or
+30 municipal government subsidy program but that is not less than thirty (30) years from initial
+31 occupancy.
+32 (i) Any housing unit that qualifies under this subsection (9) and under § 42-128-8.1 shall
+33 be counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+34 housing.
+LC001042 - Page 3 of 31
+1 (ii) Any mobile or manufactured home(s) that meet the requirements of § 42-128-
+2 8.1(d)(1)(ii) but are not subsidized by a federal, state, or municipal government subsidy and/or do
+3 not have a deed restriction or land lease as described in this subsection (9), shall count as one-half
+4 (½) of one unit for the purpose of the calculation of the total of low- or moderate-income year-
+5 round housing within a city or town, as long as a municipality contracts with a monitoring agent to
+6 verify that the requirements of § 42-128-8.1(d)(1)(ii) are met for these units. Such units shall not
+7 be required to meet the income verification requirements of § 42-128-8.1. The monitoring agent
+8 shall provide a listing of the eligible units to Rhode Island Housing, who shall provide a report as
+9 to the qualifying mobile or manufactured homes under this subsection (9) to the governor, speaker
+10 of the house of representatives, senate president, and secretary of housing on an annual basis,
+11 beginning on or before December 31, 2025.
+12 (iii) Low- or moderate-income housing also includes rental property located within a
+13 municipality that is secured with a federal government rental assistance voucher.
+14 (iv) For the period beginning on or after July 1, 2024, any housing unit that qualifies as
+15 low- or moderate-income housing under this subsection (9) and under § 42-128-8.1 and any rental
+16 property secured with a federal government rental assistance voucher that does not otherwise meet
+17 the other requirements to qualify as low- or moderate-income housing under this section shall be
+18 counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+19 housing, as long as a municipality confirms with the issuing authority that the voucher is in good
+20 standing and active.
+21 (10) “Meeting local housing needs” means as a result of the adoption of the implementation
+22 program of an approved affordable housing plan, the absence of unreasonable denial of applications
+23 that are made pursuant to an approved affordable housing plan in order to accomplish the purposes
+24 and expectations of the approved affordable housing plan, and a showing that at least twenty percent
+25 (20%) of the total residential units approved by a local review board or any other municipal board
+26 in a calendar year are for low- and moderate-income housing as defined in § 42-128-8.1.
+27 (11) “Monitoring agents” means those monitoring agents appointed by the Rhode Island
+28 housing resources commission pursuant to § 45-53-3.2 and to provide the monitoring and oversight
+29 set forth in this chapter, including, but not limited to, §§ 45-53-3.2 and 45-53-4.
+30 (12) “Municipal government subsidy” means assistance that is made available through a
+31 city or town program sufficient to make housing affordable, as affordable housing is defined in §
+32 42-128-8.1(d)(1); such assistance shall include a combination of, but is not limited to, direct
+33 financial support, abatement of taxes, waiver of fees and charges, and approval of density bonuses
+34 and/or internal subsidies, zoning incentives, and adjustments as defined in this section and any
+LC001042 - Page 4 of 31
+1 combination of forms of assistance.
+2 45-53-3.1. Formula to include non-income restricted multi-family rental units as low-
+3 and moderate-income housing.
+4 (a) In calculating the number of year-round housing units towards meeting the goals of an
+5 excess of ten percent (10%) of the year-round housing units consistent with local needs required
+6 pursuant to § 45-53-4, rental units in multi-family housing built after June 30, 2022, may be
+7 included as low- or moderate-income housing, in accordance with the following conditions:
+8 (1) At least thirty percent (30%) of the units created are deed restricted for households
+9 earning not more than sixty percent (60%) of the area median income, adjusted for household size;
+10 or
+11 (2) At least fifty percent (50%) of the units created are deed restricted for households
+12 earning not more than eighty percent (80%) of the area median income, adjusted for household
+13 size; and
+14 (3) The proposed affordable units meet all other requirements of this chapter to be
+15 calculated as low- or moderate-income housing; and
+16 (4) All non-deed restricted units developed under the same comprehensive permit shall be
+17 included in the low- and moderate-income housing inventory as one-half (0.5) units each.
+18 (b) As used in this section and as applied to this chapter:
+19 (1) “Area median income (AMI)” means area median household income as defined by the
+20 U.S. Department of Housing and Urban Development, adjusted for household size.
+21 (2) “Multi-family housing’' means a building with three (3) or more residential dwelling
+22 units or two (2) or more buildings on the same lot with more than one residential dwelling unit in
+23 each building.
+24 45-53-3.2. Approved monitoring agent program.
+25 (a) There is hereby established an approved monitoring agent program (the “program”).
+26 Effective July 1, 2022, the Rhode Island housing resources commission (the “commission”)
+27 established pursuant to chapter 128 of title 42 shall appoint and oversee approved monitoring agents
+28 as part of this program.
+29 (b) On or before July 1, 2023, the commission shall promulgate rules and regulations
+30 pursuant to chapter 35 of title 42 (“administrative procedures”) for the implementation of the
+31 program, which shall include a process for the selection and approval of monitoring agents. These
+32 rules and regulations shall be prepared to ensure the selection and appointment of organizations
+33 that shall be capable of monitoring and ensuring that municipally subsidized housing developments
+34 remain affordable, and that income-eligible buyers and tenants are occupying these units. The
+LC001042 - Page 5 of 31
+1 commission shall appoint these monitoring agents, who shall serve for terms of not more than five
+2 (5) consecutive years; provided that, the term of an approved monitoring agent may be renewed by
+3 the commission.
+4 (c) As used in this section, the term “LMI” means low- and moderate-income housing and
+5 includes area median-income levels as established by the U.S. Department of Housing and Urban
+6 Development (“HUD”).
+7 (d) Specific duties of approved monitoring agents shall include, but not be limited to, the
+8 following:
+9 (1) To oversee, monitor, and ensure that tenants in LMI rental units meet income limits
+10 annually and that monthly rental rates are consistent with the low- and moderate-income guidelines
+11 and the recorded deed restrictions;
+12 (2) To oversee, monitor, and ensure that LMI homeownership units continue to serve as
+13 the owners’ year-round principal residences; monitor and ensure that any proposed refinance of a
+14 LMI unit during the period in which a deed restriction is in effect is in compliance with program
+15 requirements: in the case of the resale of any LMI unit during the period in which a deed restriction
+16 is in effect, the maximum sales price is consistent with the recorded deed restriction and that the
+17 proposed buyer of the LMI unit meets the income limits as defined within the recorded deed
+18 restriction;
+19 (3) To oversee, monitor and ensure any LMI accessory dwelling unit being counted is in
+20 compliance with the following requirements:
+21 (i) An annual lease; and
+22 (ii) The accessory dwelling unit is occupied by a household whose income does not exceed
+23 eighty percent (80%) of the area median income (AMI), adjusted for family size; and
+24 (iii) The cost of rent, heat, and utilities other than telephone, cable, and internet, based on
+25 the number of the bedrooms in the unit does not exceed thirty percent (30%) of the gross annual
+26 household income for a household with eighty percent (80%) or less of area median income,
+27 adjusted for family size as certified by the selected approved monitoring agent;
+28 (4) Any other provision contained in chapter 24 of this title that reasonably relates to
+29 affordable housing compliance and enforcement; and
+30 (5) Such other duties as the commission sets forth in its rules and regulations for the
+31 monitoring agents.
+32 (e) The commission shall also promulgate rules and regulations providing for the terms of
+33 engagement of the approved monitoring agents, standards for approval and recertification of the
+34 approved monitoring agents, and establish reporting requirements for the approved monitoring
+LC001042 - Page 6 of 31
+1 agents to the commission.
+2 (f) Commencing on or before January 1, 2023, and on or before January 1 thereafter, the
+3 commission shall prepare a report on the approved monitoring agent program to the governor, the
+4 speaker of the house, the president of the senate, and the secretary of housing.
+5 45-53-4. Procedure for approval of construction of low- or moderate-income housing.
+6 (a) Any applicant proposing to build low- or moderate-income housing may submit to the
+7 local review board a single application for a comprehensive permit to build that housing in lieu of
+8 separate applications to the applicable local boards. This procedure is only available for proposals
+9 in which at least twenty-five percent (25%) of the housing is low- or moderate-income housing.
+10 (b) Municipal government subsidies, including adjustments and zoning incentives, are to
+11 be made available to applications under this chapter to offset the differential costs of the low- or
+12 moderate-incoming housing units in a development under this chapter. At a minimum, the
+13 following zoning incentives shall be allowed for projects submitted under this chapter:
+14 (1) Density bonus. A municipality shall provide an applicant with more dwelling units
+15 than allowed by right under its zoning ordinance in the form of a density bonus to allow an increase
+16 in the allowed dwelling units per acre (DU/A), as well as other incentives and municipal
+17 government subsidies as defined in § 45-53-3. Furthermore, a municipality shall provide, at a
+18 minimum, the following density bonuses for projects submitted under this chapter, provided that
+19 the total land utilized in the density calculation shall exclude wetlands; wetland buffers; area
+20 devoted to infrastructure necessary for development; and easements or rights of way of record:
+21 (i) For properties connected to public sewer and water, or eligible to be connected to public
+22 sewer and water based on written confirmation from each respective service provider, the density
+23 bonus for a project that provides at least twenty-five percent (25%) low- and moderate-income
+24 housing shall be at least five (5) units per acre;
+25 (ii) For properties connected to public sewer and water, or eligible to be connected to public
+26 sewer and water based on written confirmation from each respective service provider, the density
+27 bonus for a project that provides at least fifty percent (50%) low- and moderate-income housing
+28 shall be at least nine (9) units per acre;
+29 (iii) For properties connected to public sewer and water, or eligible to be connected to
+30 public sewer and water based on written confirmation from each respective service provider, the
+31 density bonus for a project that provides one hundred percent (100%) low- and moderate-income
+32 housing shall be at least twelve (12) units per acre;
+33 (iv) For properties not connected to either public water or sewer or both, but which provide
+34 competent evidence as to the availability of water to service the development and/or a permit for
+LC001042 - Page 7 of 31
+1 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+2 agency, the density bonus for a project that provides at least twenty-five percent (25%) low- and
+3 moderate-income housing shall be at least three (3) units per acre;
+4 (v) For properties not connected to either public water or sewer or both, but which provide
+5 competent evidence as to the availability of water to service the development and/or a permit for
+6 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+7 agency, the density bonus for a project that provides at least fifty percent (50%) low- and moderate-
+8 income housing shall be at least five (5) units per acre;
+9 (vi) For properties not connected to either public water or sewer or both, but which provide
+10 competent evidence as to the availability of water to service the development and/or a permit for
+11 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+12 agency, the density bonus for a project that provides one hundred percent (100%) low- and
+13 moderate-income housing shall be at least eight (8) units per acre;
+14 (2) Parking. A municipality shall not require more than one off-street parking space per
+15 dwelling unit for units up to and including two (2) bedrooms in applications submitted under this
+16 chapter;
+17 (3) Bedrooms. A municipality shall not limit the number of bedrooms for applications
+18 submitted under this chapter to anything less than three (3) bedrooms per dwelling unit for single-
+19 family dwelling units;
+20 (4) Floor area. A municipality shall not utilize floor area requirements to limit any
+21 application, except as provided by § 45-24.3-11.
+22 (c) A municipality shall not restrict comprehensive permit applications and permits by any
+23 locally adopted ordinance or policy that places a limit or moratorium on the development of
+24 residential units.
+25 (d) The application and review process for a comprehensive permit shall be as follows:
+26 (1) Pre-application conference. A municipality may require an applicant proposing a
+27 project under this chapter to complete, or the applicant proposing a project under this chapter may
+28 request a pre-application conference with the local review board, the technical review committee
+29 established pursuant to § 45-23-56, or with the administrative officer for the local review board as
+30 appropriate. In advance of a pre-application conference, the applicant shall be required to submit
+31 only a short description of the project in writing including the number of units, type of housing,
+32 density analysis, preliminary list of adjustments needed, as well as a location map, and conceptual
+33 site plan. The purpose of the pre-application conference shall be to review a concept plan of the
+34 proposed development and to elicit feedback from the reviewing person or board. Upon receipt of
+LC001042 - Page 8 of 31
+1 a request by an applicant for a pre-application conference, the municipality shall have thirty (30)
+2 days to schedule and hold the pre-application conference, unless a different timeframe is agreed to
+3 by the applicant in writing. If thirty (30) days has elapsed from the filing of the pre-application
+4 submission and no pre-application conference has taken place, nothing shall be deemed to preclude
+5 an applicant from thereafter filing and proceeding with an application for preliminary plan review
+6 for a comprehensive permit.
+7 (2) Preliminary plan review.
+8 (i) Submission requirements. Applications for preliminary plan review under this chapter
+9 shall include:
+10 (A) A letter of eligibility issued by the Rhode Island housing and mortgage finance
+11 corporation, or in the case of projects primarily funded by the U.S. Department of Housing and
+12 Urban Development or other state or federal agencies, an award letter indicating the subsidy, or
+13 application in such form as may be prescribed for a municipal government subsidy; and
+14 (B) A letter signed by the authorized representative of the applicant, setting forth the
+15 specific sections and provisions of applicable local ordinances and regulations from which the
+16 applicant is seeking adjustments; and
+17 (C) A proposed timetable for the commencement of construction and completion of the
+18 project; and
+19 (D) Those items required by local regulations promulgated pursuant to applicable state law,
+20 with the exception of evidence of state or federal permits; and for comprehensive permit
+21 applications included in the checklist for the preliminary plan review in the local regulations
+22 promulgated pursuant to chapter 23 of this title; and
+23 (E) Notwithstanding the submission requirements set forth above, the local review board
+24 may request additional, reasonable documentation throughout the public hearing, including, but not
+25 limited to, opinions of experts, credible evidence of application for necessary federal and/or state
+26 permits, statements and advice from other local boards and officials.
+27 (ii) Certification of completeness. The preliminary plan application must be certified
+28 complete or incomplete by the administrative officer according to the provisions of § 45-23-36;
+29 provided, however, that the certificate shall be granted within twenty-five (25) days of submission
+30 of the application. The running of the time period set forth herein will be deemed stopped upon the
+31 issuance of a written certificate of incompleteness of the application by the administrative officer
+32 and will recommence upon the resubmission of a corrected application by the applicant. However,
+33 in no event will the administrative officer be required to certify a corrected submission as complete
+34 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+LC001042 - Page 9 of 31
+1 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+2 incomplete items.
+3 (iii) Review of applications. An application filed in accordance with this chapter shall be
+4 reviewed in accordance with the following provisions:
+5 (A) Public hearing. A public hearing shall be noticed and held as soon as practicable after
+6 the issuance of a certificate of completeness.
+7 (B) Notice. Public notice for the public hearing will be the same notice required under local
+8 regulations for a public hearing for a preliminary plan promulgated in accordance with § 45-23-42.
+9 The cost of notice shall be paid by the applicant.
+10 (C) Timeframe for review. The local review board shall render a decision on the
+11 preliminary plan application within ninety (90) days of the date the application is certified
+12 complete, or within a further amount of time that may be consented to by the applicant through the
+13 submission of a written consent.
+14 (D) Failure to act. Failure of the local review board to act within the prescribed period
+15 constitutes approval of the preliminary plan, and a certificate of the administrative officer as to the
+16 failure of the local review board to act within the required time and the resulting approval shall be
+17 issued on request of the applicant. Further, if the public hearing is not convened or a decision is not
+18 rendered within the time allowed in subsections (d)(2)(iii)(A) and (d)(2)(iii)(C) of this section, the
+19 application is deemed to have been allowed and the preliminary plan approval shall be issued
+20 immediately.
+21 (E) Required findings for approval. In approving an application, the local review board
+22 shall make positive findings, supported by legally competent evidence on the record that discloses
+23 the nature and character of the observations upon which the fact finders acted, on each of the
+24 following standard provisions, where applicable:
+25 (I) The proposed development is consistent with local needs as identified in the local
+26 comprehensive community plan with particular emphasis on the community’s affordable housing
+27 plan and/or has satisfactorily addressed the issues where there may be inconsistencies.
+28 (II) The proposed development is in compliance with the standards and provisions of the
+29 municipality’s zoning ordinance and subdivision regulations, and/or where adjustments are
+30 requested by the applicant, that local concerns that have been affected by the relief granted do not
+31 outweigh the state and local need for low- and moderate-income housing.
+32 (III) All low- and moderate-income housing units proposed are integrated throughout the
+33 development; are compatible in scale and architectural style to the market rate units within the
+34 project; and will be built and occupied prior to, or simultaneous with the construction and
+LC001042 - Page 10 of 31
+1 occupancy of any market rate units.
+2 (IV) There will be no significant negative impacts on the health and safety of current or
+3 future residents of the community, in areas including, but not limited to, safe circulation of
+4 pedestrian and vehicular traffic, provision of emergency services, sewerage disposal, availability
+5 of potable water, adequate surface water run-off, and the preservation of natural, historical, or
+6 cultural features that contribute to the attractiveness of the community.
+7 (V) All proposed land developments and all subdivisions lots will have adequate and
+8 permanent physical access to a public street in accordance with the requirements of § 45-23-
+9 60(a)(5).
+10 (VI) The proposed development will not result in the creation of individual lots with any
+11 physical constraints to development that building on those lots according to pertinent regulations
+12 and building standards would be impracticable, unless created only as permanent open space or
+13 permanently reserved for a public purpose on the approved, recorded plans.
+14 (F) Required findings for denial. In reviewing the comprehensive permit request, the
+15 local review board may deny the request for any of the following reasons: (I) If the city or town
+16 has an approved affordable housing plan and is meeting housing needs, and the proposal is
+17 inconsistent with the affordable housing plan; provided that, the local review board also finds that
+18 the municipality has made significant progress in implementing that housing plan; (II) The proposal
+19 is not consistent with local needs, including, but not limited to, the needs identified in an approved
+20 comprehensive plan, and/or local zoning ordinances and procedures promulgated in conformance
+21 with the comprehensive plan; (III) The proposal is not in conformance with the comprehensive
+22 plan; (IV) The community has met or has plans to meet the goal of ten percent (10%) of the year-
+23 round units or, in the case of an urban town or city, fifteen percent (15%) of the occupied rental
+24 housing units as defined in § 45-53-3(5)(i) being low- and moderate-income housing; provided
+25 that, the local review board also finds that the community has achieved or has made significant
+26 progress towards meeting the goals required by this section; or (V) Concerns for the environment
+27 and the health and safety of current residents have not been adequately addressed.
+28 (iv) Vesting. The approved preliminary plan is vested for a period of two (2) years with
+29 the right to extend for two (2), one-year extensions upon written request by the applicant, who must
+30 appear before the planning board for each annual review and provide proof of valid state or federal
+31 permits as applicable. Thereafter, vesting may be extended for a longer period, for good cause
+32 shown, if requested, in writing by the applicant, and approved by the local review board. The
+33 vesting for the preliminary plan approval includes all ordinance provisions and regulations at the
+34 time of the approval, general and specific conditions shown on the approved preliminary plan
+LC001042 - Page 11 of 31
+1 drawings and supporting material.
+2 (3) Final plan review. The second and final stage of review for the comprehensive permit
+3 project shall be done administratively, unless an applicant has requested and been granted any
+4 waivers from the submission of checklist items for preliminary plan review, and then, at the local
+5 review board’s discretion, it may vote to require the applicant to return for final plan review and
+6 approval.
+7 (i) Submission requirements. Applications for final plan review under this chapter shall
+8 include:
+9 (A) All required state and federal permits must be obtained prior to the final plan approval
+10 or the issuance of a building permit; and
+11 (B) A draft monitoring agreement which identifies an approved entity that will monitor the
+12 long-term affordability of the low- and moderate-income units pursuant to § 45-53-3.2; and
+13 (C) A sample land lease or deed restriction with affordability liens that will restrict use as
+14 low- and moderate-income housing in conformance with the guidelines of the agency providing
+15 the subsidy for the low- and moderate-income housing, but for a period of not less than thirty (30)
+16 years; and
+17 (D) Those items required by local regulations promulgated pursuant to applicable state law
+18 included in the checklist for final plan review in the local regulations promulgated pursuant to
+19 chapter 23 of this title, including, but not limited to:
+20 (I) Arrangements for completion of the required public improvements, including
+21 construction schedule and/or financial guarantees; and
+22 (II) Certification by the tax collector that all property taxes are current; and
+23 (III) For phased projects, the final plan for phases following the first phase, shall be
+24 accompanied by copies of as-built drawings not previously submitted of all existing public
+25 improvements for prior phases.
+26 (ii) Certification of completeness. The final plan application must be certified complete
+27 or incomplete by the administrative officer according to the provisions of § 45-23-36; provided
+28 however, that the certificate shall be granted within twenty-five (25) days of submission of the
+29 application. The running of the time period set forth herein will be deemed stopped upon the
+30 issuance of a written certificate of incompleteness of the application by the administrative officer
+31 and will recommence upon the resubmission of a corrected application by the applicant. However,
+32 in no event will the administrative officer be required to certify a corrected submission as complete
+33 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+34 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+LC001042 - Page 12 of 31
+1 incomplete items.
+2 (iii) Review of applications.
+3 (A) Timeframe for review. The reviewing authority shall render a decision on the final
+4 plan application within forty-five (45) days of the date the application is certified complete.
+5 (B) Modifications and changes to plans:
+6 (I) Minor changes, as defined in the local regulations, to the plans approved at preliminary
+7 plan may be approved administratively, by the administrative officer, whereupon final plan
+8 approval may be issued. The changes may be authorized without additional public hearings, at the
+9 discretion of the administrative officer. All changes shall be made part of the permanent record of
+10 the project application. This provision does not prohibit the administrative officer from requesting
+11 a recommendation from either the technical review committee or the local review board. Denial of
+12 the proposed change(s) shall be referred to the local review board for review as a major change.
+13 (II) Major changes, as defined in the local regulations, to the plans approved at preliminary
+14 plan may be approved only by the local review board and must follow the same review and public
+15 hearing process required for approval of preliminary plans as described in subsection (d)(2)(iii) of
+16 this section.
+17 (III) The administrative officer shall notify the applicant in writing within fourteen (14)
+18 days of submission of the final plan application if the administrative officer is referring the
+19 application to the local review board under this subsection.
+20 (C) Decision on final plan. An application filed in accordance with this chapter shall be
+21 approved by the administrative officer unless such application does not satisfy conditions set forth
+22 in the preliminary plan approval decision or such application does not have the requisite state and/or
+23 federal approvals or other required submissions, does not post the required improvement bonds, or
+24 such application is a major modification of the plans approved at preliminary plan.
+25 (D) Failure to act. Failure of the reviewing authority to act within the prescribed period
+26 constitutes approval of the final plan, and a certificate of the administrative officer as to the failure
+27 to act within the required time and the resulting approval shall be issued on request of the applicant.
+28 (iv) Vesting. The approved final plan is vested for a period of two (2) years with the right
+29 to extend for one one-year extension upon written request by the applicant, who must appear before
+30 the planning board for the extension request. Thereafter, vesting may be extended for a longer
+31 period, for good cause shown, if requested, in writing by the applicant, and approved by the local
+32 review board.
+33 (4) Infeasibility of conditions of approval. The burden is on the applicant to show, by
+34 competent evidence before the local review board, that proposed conditions of approval are
+LC001042 - Page 13 of 31
+1 infeasible, as defined in § 45-53-3. Upon request, the applicant shall be provided a reasonable
+2 opportunity to respond to such proposed conditions prior to a final vote on the application.
+3 (5) Fees. Municipalities may impose fees on comprehensive permit applications that are
+4 consistent with but do not exceed fees that would otherwise be assessed for a project of the same
+5 scope and type, but not proceeding under this chapter; provided, however, the imposition of such
+6 fees shall not preclude a showing by an applicant that the fees make the project financially
+7 infeasible.
+8 (6) Recording of written decisions. All written decisions on applications under this
+9 chapter shall be recorded in the land evidence records within twenty (20) days after the local review
+10 board’s vote or the administrative officer’s decision, as applicable. A copy of the recorded decision
+11 shall be mailed within one business day of recording, by any method that provides confirmation of
+12 receipt, to the applicant and to any objector who has filed a written request for notice with the
+13 administrative officer.
+14 (7) Local review board powers. The local review board has the same power to issue
+15 permits or approvals that any local board or official who would otherwise act with respect to the
+16 application, including, but not limited to, the power to attach to the permit or approval, conditions,
+17 and requirements with respect to height, site plan, size or shape, or building materials, as are
+18 consistent with the terms of this section.
+19 (8) Majority vote required. All local review board decisions on comprehensive permits
+20 shall be by majority vote of the members present at the proceeding.
+21 (9) Construction timetable. A comprehensive permit shall expire unless construction is
+22 started within twelve (12) months and completed within sixty (60) months of the recording of the
+23 final plan unless a longer and/or phased period for development is agreed to by the local review
+24 board and the applicant. Low- and moderate-income housing units shall be built and occupied prior
+25 to, or simultaneous with the construction and occupancy of market rate units.
+26 (10) For-profit developers — Limits. A town with an approved affordable housing plan
+27 and that is meeting local housing needs, as defined in this chapter, may by council action limit the
+28 annual total number of dwelling units in comprehensive permit applications from for-profit
+29 developers to an aggregate of one percent (1%) of the total number of year-round housing units in
+30 the town, as recognized in the affordable housing plan and notwithstanding the timetables set forth
+31 elsewhere in this section, the local review board shall have the authority to consider comprehensive
+32 permit applications from for-profit developers, which are made pursuant to this paragraph,
+33 sequentially in the order in which they are submitted.
+34 (11) Report. The local review board of a town with an approved affordable housing plan
+LC001042 - Page 14 of 31
+1 shall report the status of implementation to the housing resources commission, including the
+2 disposition of any applications made under the plan, as of June 30, 2006, by September 1, 2006,
+3 and for each June 30 thereafter by September 1 through 2010. The housing resources commission
+4 shall prepare by October 15 and adopt by December 31, a report on the status of implementation,
+5 which shall be submitted to the governor, the speaker and the president of the senate, and shall find
+6 which towns are not in compliance with implementation requirements.
+7 (12) Remanded applications. Notwithstanding the provisions of § 45-53-4 in effect on
+8 February 13, 2004, a local review board shall commence hearings within thirty (30) days of
+9 receiving an application remanded pursuant to § 45-53-5 or, effective January 1, 2024, § 45-53-
+10 5.1. In any town with more than one remanded application, applications may be scheduled for
+11 hearing in the order in which they were received, and may be taken up sequentially, with the thirty-
+12 day (30) requirement for the initiation of hearings, commencing upon the decision of the earlier
+13 filed application.
+14 (e)(1) The general assembly finds and declares that in January 2004 towns throughout
+15 Rhode Island have been confronted by an unprecedented volume and complexity of development
+16 applications as a result of private for-profit developers using the provisions of this chapter and that
+17 in order to protect the public health and welfare in communities and to provide sufficient time to
+18 establish a reasonable and orderly process for the consideration of applications made under the
+19 provisions of this chapter, and to have communities prepare plans to meet low- and moderate-
+20 income housing goals, that it is necessary to impose a moratorium on the use of comprehensive
+21 permit applications as herein provided by private for-profit developers; a moratorium is hereby
+22 imposed on the use of the provisions of this chapter by private for-profit developers, which
+23 moratorium shall be effective on passage and shall expire on January 31, 2005, and may be revisited
+24 prior to expiration and extended to such other date as may be established by law. Notwithstanding
+25 the provisions of subsection (a) of this section, private for-profit developers may not utilize the
+26 procedure of this chapter until the expiration of the moratorium.
+27 (2) No for-profit developer shall submit a new application for comprehensive permits until
+28 July 1, 2005, except by mutual agreement with the local review board.
+29 (3) Notwithstanding the provisions of subsection (e)(2) of this section, a local review board
+30 in a town which has submitted a plan in accordance with subsection (f) of this section, shall not be
+31 required to accept an application for a new comprehensive permit from a for-profit developer until
+32 October 1, 2005.
+33 (f) Towns and cities that are not in conformity with the provisions of § 45-53-3(5)(i) shall
+34 prepare by December 31, 2004, a comprehensive plan housing element for low- and moderate-
+LC001042 - Page 15 of 31
+1 income housing as specified by § 45-53-3(5)(ii), consistent with applicable law and regulation.
+2 That the secretary of the planning board or commission of each city or town subject to the
+3 requirements of this paragraph shall report in writing the status of the preparation of the housing
+4 element for low- and moderate-income housing on or before June 30, 2004, and on or before
+5 December 31, 2004, to the secretary of the state planning council, to the chair of the house
+6 committee on corporations and to the chair of the senate committee on commerce, housing and
+7 municipal government.
+8 (g) If any provision of this section or the application thereof shall for any reason be judged
+9 invalid, the judgment shall not affect, impair, or invalidate the remainder of this section or of any
+10 other provision of this chapter, but shall be confined in its effect to the provision or application
+11 directly involved in the controversy giving rise to the judgment, and a moratorium on the
+12 applications of for-profit developers pursuant to this chapter shall remain and continue to be in
+13 effect for the period commencing on the day this section becomes law [February 13, 2004] and
+14 continue until it shall expire on January 31, 2005, or until amended further.
+15 (h) In planning for, awarding, and otherwise administering programs and funds for housing
+16 and for community development, state departments, agencies, boards and commissions, and public
+17 corporations, as defined in chapter 18 of title 35, shall among the towns subject to the provision of
+18 § 45-53-3(5)(ii), give priority to the maximum extent allowable by law to towns with an approved
+19 affordable housing plan. The director of administration shall adopt not later than January 31, 2005,
+20 regulations to implement the provisions of this section.
+21 (i) Multi-family rental units built under a comprehensive permit may be calculated towards
+22 meeting the requirements of a municipality’s low- or moderate-income housing inventory, as long
+23 as the units meet and are in compliance with the provisions of § 45-53-3.1.
+24 45-53-5.1. Appeals — Judicial review.
+25 (a) Effective January 1, 2024, as a replacement to § 45-53-5. A decision of a local review
+26 board may be appealed by the applicant or an aggrieved party, as defined by § 45-24-31, to the
+27 superior court for the county in which the property is situated. The appeal shall be taken within
+28 twenty (20) days after the date of the recording and posting of the decision by the local review
+29 board, by filing with the superior court a complaint that contains a statement of the prior
+30 proceedings and the reasons upon which the appeal is based. The complaint shall name the local
+31 review board as the appellee and serve the local review board with the appeal within twenty (20)
+32 days of filing of the appeal. If an aggrieved party who or that is not the applicant files an appeal,
+33 the original applicant shall be named as a party and served in the same manner as the local review
+34 board.
+LC001042 - Page 16 of 31
+1 (b) The local review board shall not be required to answer the complaint, but it shall submit
+2 the complete local review board record to superior court within thirty (30) days of receiving service
+3 of the complaint. Should the local review board fail to file the record within thirty (30) days, the
+4 applicant may move for default.
+5 (c) The appeal shall be expedited and given priority on the court calendar as soon as proof
+6 of service of the complaint on the local review board is filed. The appeal shall be decided as soon
+7 as possible by the superior court, without delay.
+8 (d) The review shall be conducted by the superior court without a jury. The court shall
+9 consider the record of the hearing before the local review board and, if it appears to the court that
+10 additional evidence is necessary for the proper disposition of the matter, it may allow any party to
+11 the appeal to present that evidence in open court, which evidence, along with the record, constitutes
+12 the record upon which the determination of the court is made.
+13 (e) The superior court shall review the appeal under the following standards:
+14 (1) Whether the decision was arbitrary and capricious or clearly erroneous in light of
+15 considerations regarding:
+16 (i) The consistency of the decision to deny or condition the permit with the approved
+17 affordable housing plan;
+18 (ii) The extent to which the community meets or plans to meet housing needs, as defined
+19 in an affordable housing plan, including, but not limited to, the ten percent (10%) goal for existing
+20 low- and moderate-income housing units as a proportion of year-round housing;
+21 (iii) The consideration of environmental protection;
+22 (iv) The state’s need for low- and moderate-income housing;
+23 (v) The need to protect the health and safety of the occupants of the proposed housing or
+24 the residents of the city or town;
+25 (vi) The need to promote better site and building design in relation to the surroundings or
+26 to preserve open space; and
+27 (vii) Whether the reasons for denial, local zoning or land use ordinances, requirements and
+28 regulations are applied as equally as possible to both subsidized and unsubsidized housing.
+29 (f) If the appeal is by an applicant for a decision approving an application with conditions,
+30 the superior court shall, in addition to reviewing the standards and considerations set forth in
+31 subsection (e) of this section, determine whether such conditions and requirements imposed make
+32 the construction or operation of the housing infeasible.
+33 (g) The court shall not substitute its judgment for that of the local review board as to the
+34 weight of the evidence on questions of fact. The court may affirm the decision of the local review
+LC001042 - Page 17 of 31
+1 board or remand the case for further proceedings, or may reverse or modify the decision if
+2 substantial rights of the appellant have been prejudiced because of findings, inferences,
+3 conclusions, or decisions that were arbitrary, capricious or unreasonable.
+4 (h) An aggrieved party may, within twenty (20) days from the date of entry of the judgment
+5 of superior court, petition the supreme court of the state of Rhode Island for a writ of certiorari to
+6 review any questions of law involved. The petition for a writ of certiorari shall set forth the errors
+7 claimed. Upon the filing of such a petition with the clerk of the supreme court, the supreme court
+8 may, if it sees fit, issue its writ of certiorari to the superior court to certify to the supreme court the
+9 record of the record under review, or so much thereof as was submitted to the superior court by the
+10 parties, together with any additional record of the proceedings in the superior court.
+11 (i) Effective January 1, 2024, all matters pending before the state housing appeals board
+12 shall be transferred to superior court for the county in which the property is situated by the applicant
+13 filing a complaint in superior court and providing a copy of the complaint to the attorney
+14 representing the local review board within ten (10) days of filing. An applicant with an appeal
+15 pending before the state housing appeals board shall have until March 1, 2024, to file the complaint
+16 transferring the matter to superior court for the county in which the property is situated. The parties
+17 shall be required to file the entire record before the state housing appeals board with superior court
+18 within forty-five (45) days of the filing of the complaint.
+19 (j) Effective January 1, 2024, this section shall replace the provisions of § 45-53-5 and any
+20 reference in the general laws to § 45-53-5 shall mean § 45-53-5.1.
+21 45-53-6. Powers of state housing appeals board. [Expires January 1, 2024.]
+22 (a) Effective until January 1, 2024, the state housing appeals board shall have the powers
+23 to: (i) Adopt, amend, and repeal rules and regulations that are consistent with this chapter and are
+24 necessary to implement the requirements of §§ 45-53-5, 45-53-6, and 45-53-7; (ii) Receive and
+25 expend state appropriations; and (iii) Establish a reasonable fee schedule, which may be waived, to
+26 carry out its duties.
+27 (b) In hearing the appeal, the state housing appeals board shall determine whether: (i) In
+28 the case of the denial of an application, the decision of the local review board was consistent with
+29 an approved affordable housing plan, or if the town does not have an approved affordable housing
+30 plan, was reasonable and consistent with local needs; and (ii) In the case of an approval of an
+31 application with conditions and requirements imposed, whether those conditions and requirements
+32 make the construction or operation of the housing infeasible and whether those conditions and
+33 requirements are consistent with an approved affordable housing plan, or if the town does not have
+34 an approved affordable housing plan, are consistent with local needs.
+LC001042 - Page 18 of 31
+1 (c) In making a determination, the standards for reviewing the appeal include, but are not
+2 limited to:
+3 (1) The consistency of the decision to deny or condition the permit with the approved
+4 affordable housing plan and/or approved comprehensive plan;
+5 (2) The extent to which the community meets or plans to meet housing needs, as defined
+6 in an affordable housing plan, including, but not limited to, the ten percent (10%) goal for existing
+7 low- and moderate-income housing units as a proportion of year-round housing;
+8 (3) The consideration of the health and safety of existing residents;
+9 (4) The consideration of environmental protection; and
+10 (5) The extent to which the community applies local zoning ordinances and review
+11 procedures evenly on subsidized and unsubsidized housing applications alike.
+12 (d) If the appeals board finds, in the case of a denial, that the decision of the local review
+13 board was not consistent with an approved affordable housing plan, or if the town does not have an
+14 approved affordable housing plan, was not reasonable and consistent with local needs, it shall
+15 vacate the decision and issue a decision and order approving the application, denying the
+16 application, or approving with various conditions consistent with local needs. If the appeals board
+17 finds, in the case of an approval with conditions and requirements imposed, that the decision of the
+18 local review board makes the building or operation of the housing infeasible, and/or the conditions
+19 and requirements are not consistent with an approved affordable housing plan, or if the town does
+20 not have an approved affordable housing plan, are not consistent with local needs, it shall issue a
+21 decision and order, modifying or removing any condition or requirement so as to make the proposal
+22 no longer infeasible and/or consistent, and approving the application; provided, that the appeals
+23 board shall not issue any decision and order that would permit the building or operation of the
+24 housing in accordance with standards less safe than the applicable building and site plan
+25 requirements of the federal Department of Housing and Urban Development or the Rhode Island
+26 housing and mortgage finance corporation, whichever agency is financially assisting the housing.
+27 Decisions or conditions and requirements imposed by a local review board that are consistent with
+28 approved affordable housing plans and/or with local needs shall not be vacated, modified, or
+29 removed by the appeals board notwithstanding that the decision or conditions and requirements
+30 have the effect of denying or making the applicant’s proposal infeasible.
+31 (e) The appeals board or the applicant has the power to enforce the orders of the appeals
+32 board by an action brought in the superior court. The local review board shall carry out the decision
+33 and order of the appeals board within thirty (30) days of its entry and, upon failure to do so, the
+34 decision and order of the appeals board is, for all purposes, deemed to be the action of the local
+LC001042 - Page 19 of 31
+1 review board, unless the applicant consents to a different decision or order by the local review
+2 board. The decision and order of the appeals board is binding on the city or town, which shall
+3 immediately issue any and all necessary permits and approvals to allow the construction and
+4 operation of the housing as approved by the appeals board.
+5 (f) The state housing appeals board shall:
+6 (1) Upon an appeal of the applicant prior to August 1, 2004, rule on December 1, 2004, on
+7 the substantial completeness of applications as of February 13, 2004, that were affected by the
+8 moratorium established by § 45-53-4(b).
+9 (i) The determination of substantial completeness shall be based on whether there was on
+10 or before February 13, 2004, substantial completeness of substantially all of the following:
+11 (A) A written request to the zoning board of review to submit a single application to build
+12 or rehabilitate low- or moderate-income housing in lieu of separate applications to the application
+13 local boards;
+14 (B) A written list of variances, special use permits and waivers requested to local
+15 requirements and regulations, including local codes, ordinances, bylaws or regulations, including
+16 any requested waivers from the land development or subdivisions regulations, and a proposed
+17 timetable for completion of the project;
+18 (C) Evidence of site control;
+19 (D) Evidence of eligibility for a state or federal government subsidy, including a letter from
+20 the funding agency indicating the applicant and the project;
+21 (E) Site development plans showing the locations and outlines of proposed buildings; the
+22 proposed location, general dimensions, and materials for street, drives, parking areas, walks, and
+23 paved areas; proposed landscaping improvements and open areas within the site; and the proposed
+24 location and types of sewage, drainage, and water facilities;
+25 (F) A report on existing site conditions and a summary of conditions in the surrounding
+26 areas, showing the location and nature of existing buildings, existing street elevations, traffic
+27 patterns and character of open areas, including wetlands and flood plains, in the neighborhood;
+28 (G) A tabulation of proposed buildings by type, size (number of bedrooms, floor area) and
+29 ground coverage and a summary showing the percentage of the tract to be occupied by buildings,
+30 by parking and other paved vehicular areas and by open spaces;
+31 (H) A master plan, if the development proposal is for a major or minor land development
+32 plan or a major or minor subdivision;
+33 (I) A sample land lease or deed restrictions with affordability liens that will restrict use as
+34 low- and moderate-income housing units for a period of not less than thirty (30) years; and
+LC001042 - Page 20 of 31
+1 (J) The list of all persons entitled to notice in accordance with § 45-24-53.
+2 (ii) Notwithstanding the provisions of subsection (f)(1) of this section, if the zoning board
+3 of review determined the application to be substantially complete and/or acted in a manner
+4 demonstrating that it considered the application substantially complete for the purposes of
+5 reviewing the application, the state housing appeals board shall consider the application
+6 substantially complete.
+7 (2) Remand for hearing in accordance with the provisions of § 45-53-4 applications that
+8 are determined to be substantially complete, which hearings may be conducted (or resume) under
+9 the provisions in effect on February 13, 2004, unless the applicant and the board shall mutually
+10 agree that the hearing shall proceed under the provisions in effect on December 1, 2004, which
+11 hearings may commence on or after January 1, 2005, but shall commence not later than January
+12 31, 2005, on applications in the order in which they were received by the town, unless a different
+13 commencement date is mutually agreed to by the applicant and the local board hearing the
+14 applications; the local review board shall not be obligated to hear, and may deny, any application
+15 affected by the moratorium unless it was determined to be substantially complete in accordance
+16 with the provisions of subsection (f)(1) of this section, and the local review board may require such
+17 additional submissions as may be specified by the town or necessary for the review of the
+18 application.
+19 (3) Hear and decide appeals, other than those covered by subsection (f)(1) of this section,
+20 for which it took jurisdiction on or before May 1, 2004.
+21 (4) Continue to hear and decide appeals filed by nonprofit organizations.
+22 (5) Conduct such other business as may be reasonable and appropriate in order to facilitate
+23 an orderly transfer of activities to the state housing appeals board as it shall be constituted after
+24 January 1, 2005.
+25 (g) This section shall sunset on January 1, 2024.
+26 45-53-7. Housing appeals board. [Expires January 1, 2024.]
+27 (a)(1) Effective until January 1, 2024, there shall be within the state a housing appeals
+28 board consisting of nine (9) voting members and three (3) alternates as follows: one voting member
+29 who shall be from the Center for Justice Rhode Island; one voting member who shall be from Direct
+30 Action for Rights and Equality (DARE); and seven (7) voting members to be appointed by the
+31 governor, who shall include four (4) local officials, who shall not be from the same city or town;
+32 two (2) of whom shall be from a city or town with a population of less than twenty-five thousand
+33 (25,000); and two (2) of whom shall be from a city or town with a population of twenty-five
+34 thousand (25,000) or greater, and shall include one local zoning board member, one local planning
+LC001042 - Page 21 of 31
+1 board member, one city council member and one town council member, one of the local official
+2 members shall be designated by the governor as the alternative local official member who shall be
+3 a voting member of the board only in the event that one or more of the other three (3) local officials
+4 is unable to serve at a hearing; one affordable housing developer; one affordable housing advocate;
+5 one representative of the business community; and one attorney knowledgeable in land use
+6 regulation, who should be chairperson of the board. There shall be two (2) additional alternates
+7 appointed by the governor chosen from candidates submitted by realtors or developers doing
+8 business in the state and the alternates shall rotate service as a voting member at the discretion of
+9 the chairperson.
+10 (2) Those members of the board as of July 2, 2004, who were appointed to the board by
+11 members of the general assembly shall cease to be members of the board on July 2, 2004, and the
+12 governor shall thereupon nominate four (4) new members each of whom shall serve for the balance
+13 of the current term of his or her predecessor.
+14 (3) All other members of the commission as of July 2, 2004, shall continue to serve for the
+15 duration of their current terms.
+16 (4) All gubernatorial appointments made under this section after July 2, 2004, shall be
+17 subject to the advice and consent of the senate.
+18 (b)(1) All appointments are for two-year (2) terms; except as otherwise provided in
+19 subsection (a)(2) of this section, the terms of members appointed after December 31, 2004, shall
+20 be for three (3) years. Each member who is duly appointed or continued in office after January 1,
+21 2005, shall hold office for the term for which the member is appointed and until the member’s
+22 successor shall have been appointed and qualified, or until the member’s earlier death, resignation,
+23 or removal. A member shall receive no compensation for his or her services, but shall be reimbursed
+24 by the state for all reasonable expenses actually and necessarily incurred in the performance of his
+25 or her official duties. The board shall hear all petitions for review filed under § 45-53-5, and shall
+26 conduct all hearings in accordance with the rules and regulations established by the chair. Rhode
+27 Island housing shall provide space, and clerical and other assistance, as the board may require.
+28 (2) Provided, effective January 1, 2023, the Rhode Island housing resources commission
+29 (the “commission”) established pursuant to chapter 128 of title 42 shall provide all space, and
+30 clerical and other assistance, as the board may require. All duties and responsibilities of Rhode
+31 Island housing resources commission as to providing space, clerical and other assistance to the
+32 board pursuant to subsection (b)(1) of this section shall be transferred to the commission effective
+33 January 1, 2023.
+34 (c) This section shall sunset on January 1, 2024.
+LC001042 - Page 22 of 31
+1 45-53-8. Severability.
+2 If any provision of this chapter or of any rule, regulation, or determination made under this
+3 chapter, or its application to any person, agency, or circumstances, is held invalid by a court of
+4 competent jurisdiction, the remainder of the chapter, rule, regulation, or determination, and the
+5 application of the provision to other persons, agencies, or circumstances, shall not be affected
+6 thereby. The invalidity of any section or sections, or part of any section or sections, of this chapter
+7 shall not affect the validity of the remainder of the chapter.
+8 45-53-9. Oversight commission.
+9 (a) There is hereby created an oversight commission to be known as “The Housing Act of
+10 2013 Implementation Oversight Commission” to consist of fifteen (15) members: chair of house
+11 corporations or designee; chair of senate housing and municipal government or designee; two (2)
+12 members of the house appointed by the speaker, one of whom shall be from the minority party; two
+13 (2) members of the senate appointed by the senate president, one of whom shall be from the
+14 minority party; four (4) designees of the president of the League of Cities and Towns, two (2) of
+15 whom shall be from a municipality under twenty-five thousand (25,000) population, and two (2)
+16 of whom shall be from a municipality of twenty-five thousand (25,000) population or over; and
+17 one representative each from the Rhode Island Builders Association, Rhode Island Housing,
+18 Housing Action Coalition, Grow Smart Rhode Island and Housing Network.
+19 (b) The purposes of the commission shall be: (1) to monitor and evaluate the
+20 implementation of the act including the preparation and review, by statewide planning, of local
+21 plans; (2) to monitor the development and adoption of the state strategic housing plan by the
+22 housing resources commission and statewide planning; (3) to review the progress reports submitted
+23 by the housing resources commission; (4) to recommend any changes that may be needed in the
+24 law; and (5) to assess the need for resources to accomplish housing objectives and to make
+25 recommendations.
+26 (c) Forthwith upon the passage of this act, the members shall meet at the call of the speaker,
+27 and shall elect from among themselves co-chairs, who shall be legislators. Vacancies in said
+28 commission shall be filled in the manner as the original appointment.
+29 (d) The commission is empowered to appoint committees, which may include persons who
+30 are not members of the commission. Five (5) members of the commission shall constitute a quorum.
+31 All departments and agencies of the state shall furnish such advice and information, documentary
+32 and otherwise, to said commission and its agents as necessary or desirable to accomplish the
+33 purpose set forth in this section. The speaker is hereby authorized and directed to provide quarters
+34 for the commission. The commission shall report findings and recommendations to the general
+LC001042 - Page 23 of 31
+1 assembly on or before March 1, 2017. The commission shall expire on March 31, 2020.
+2 45-53-10. Repurposing of vacant schools for affordable housing program.
+3 (a) There is hereby established the repurposing of school buildings for an affordable
+4 housing program (the “program”). The program shall be administered by the secretary of housing
+5 as set forth herein.
+6 (b) The purpose of the program shall be to provide guidance and assistance in the
+7 repurposing of vacant and unused school buildings as identified and existing as of July 1 of each
+8 year, commencing October 1, 2022.
+9 (c) The department of elementary and secondary education (the “department”) shall,
+10 commencing on October 1, 2022, on an annual basis, provide to the speaker of the house, the
+11 president of the senate, and the secretary of housing a list of all school buildings that have been
+12 abandoned or are no longer being used by a school district.
+13 (d)(1) In the case of a municipality that has less than ten percent (10%) low- or moderate-
+14 income housing as defined in § 45-53-3, the municipality shall provide the department with a
+15 complete list of buildings abandoned or no longer being used by the school district for the purposes
+16 of conducting a feasibility assessment to repurpose the building as affordable housing. In the case
+17 of a municipality that has greater than ten percent (10%) low- and moderate-income housing as
+18 defined in § 45-53-3, the municipality may offer to the department a list of buildings abandoned or
+19 no longer being utilized by the school district by an affirmative vote of a majority of both the
+20 governing body of the school board and the municipality, and have voted to be willing to offer the
+21 former school building for a feasibility assessment for use by the program. In the case of buildings
+22 being abandoned or no longer used by a charter school that owns the school building in question,
+23 an affirmative vote of the governing body of the charter school and/or mayoral academy shall be
+24 required. The department shall also include and identify in the list those school buildings that the
+25 department anticipates will become abandoned or no longer used by a school district within the
+26 next six (6) months following the issuance of the list.
+27 (2) The secretary of housing shall conduct an assessment, in conjunction with a task force
+28 comprised of the Rhode Island housing and mortgage finance corporation, the department of
+29 environmental management, the department of health, a fire marshal, the local building inspector,
+30 and the local planning office, into its feasibility to be repurposed as affordable housing, and the
+31 anticipated costs of renovating the building for that intended purpose. This assessment shall be
+32 completed within one hundred and fifty (150) days after being notified by the task force of the
+33 availability of a vacant building available pursuant to this section.
+34 (3) Once a building is determined by the task force to be appropriate for repurposing as
+LC001042 - Page 24 of 31
+1 affordable housing, the office of housing and community development shall actively identify and
+2 invite prospective developers to submit an application to the program, with the goal of repurposing
+3 the building into affordable housing.
+4 (e) The office of housing and community development shall maintain on its website a
+5 separate page related to the repurposing of buildings for the affordable housing program. This
+6 website shall contain a listing of all buildings for which a feasibility assessment was conducted and
+7 the outcome of the assessment, including a general statement of the condition of the property, an
+8 estimate of the types of renovations, if any, that must be performed to the property, a copy of the
+9 feasibility assessment, and an estimate of the costs thereof. Provided, it shall be made clear on the
+10 website that these are estimates to repurpose used buildings, and that neither the state, the
+11 corporation, the division, the commission, or any instrumentality of the state or of a municipality
+12 or school district shall be liable for any estimates that are incorrect.
+13 (f) The office of housing and community development shall seek to assist and facilitate
+14 persons and developers who or that want to repurpose former buildings as affordable housing. This
+15 assistance may include, but need not be limited to, technical and financial assistance, all to assist
+16 in the repurposing of the school building.
+17 (g) The Rhode Island department of education shall promulgate rules and regulations for
+18 the implementation and enforcement of this section.
+19 (h) The secretary of housing shall provide an annual report on or before December 31,
+20 commencing with calendar year 2023, including, but not limited to, the number of schools that are
+21 vacant and include a status report of any development and/or feasibility to repurpose a vacant
+22 building.
+23 (i) As used herein, the term “affordable housing” means housing that meets the definition
+24 for low- or moderate-income housing in § 45-53-3.
+25 45-53-11. Annual comprehensive permit report.
+26 (a) The department of housing shall maintain records and shall prepare a report (“report”)
+27 on an annual basis to be submitted to the speaker of the house, the president of the senate, and the
+28 housing resources commission. The report shall also be made available on the department’s website
+29 for a period of at least three (3) years, and shall also be deemed to be a public record. The report
+30 shall be due on or before March 15, of each year, commencing in calendar year 2023.
+31 (b) The report required by this section shall contain the following for the preceding twelve-
+32 month (12) calendar period covered by the report:
+33 (1) The number of letters of eligibility issued for low- and moderate-income housing for
+34 applications made pursuant to this chapter and § 42-55-5.3, the federal, state, and municipal subsidy
+LC001042 - Page 25 of 31
+1 programs under which they were eligible, and the number of proposed subsidized units involved,
+2 by city and town, during the preceding calendar year, as provided by the Rhode Island housing
+3 corporation.
+4 (2) The status of each comprehensive permit application for which a letter of eligibility
+5 was issued disaggregated by municipality.
+6 (3) The number of comprehensive permit applications that have had building permits
+7 issued, including the number of market rate housing units, the number of low- and moderate-
+8 income housing units, and the AMI restrictions associated both pursuant to § 45-53-4, aggregated
+9 by the total number of such applications in the state and disaggregated by each municipality in the
+10 state.
+11 (4) The number of comprehensive permit applications that have had certificates of
+12 occupancy issued, aggregated by the total number of such applications in the state and
+13 disaggregated by each municipality in the state.
+14 (c) Each municipality shall annually provide to the department the information on
+15 comprehensive permit activity described in subsection (b) of this section by February 1.
+16 45-53-12. Annual report.
+17 (a) The Rhode Island housing corporation established pursuant to chapter 55 of title 42 (the
+18 “corporation”) shall collect data on the number of Section 8 Housing Choice Vouchers, as
+19 authorized by 42 U.S.C. § 1437(f) (“vouchers”), that are received and utilized by the public housing
+20 authorities (PHA) and agencies.
+21 (b) The office of housing and community development (OHCD) shall prepare a report
+22 (“report”) on an annual basis to the general assembly, the housing resources commission, the Rhode
+23 Island housing corporation, the division of statewide planning, and the secretary of housing. The
+24 report required by this section shall be made available on the OHCD website for a period of at least
+25 three (3) years, and shall be deemed to be a public record. The report shall be due on or before
+26 March 1 of each year, commencing in the calendar year 2023.
+27 (c) The annual report required by this section shall contain the following information for
+28 the twelve-month (12) calendar period covered by the report commencing January 1, 2022, through
+29 December 31, 2022, and annually thereafter on an aggregated and disaggregated basis by each
+30 public housing authority:
+31 (1) The total fees collected by each municipality from developers in lieu of development
+32 of low- and moderate-income housing as defined in § 45-24-46.1.
+33 (2) The number of unfunded vouchers that result either due to cost of rent or due to an
+34 unavailability of housing units. The information required by this subsection shall be provided by
+LC001042 - Page 26 of 31
+1 all public housing authorities or agencies directly to the office of housing and community
+2 development (OHCD).
+3 (3) The total number of vouchers received and utilized by all public housing authorities in
+4 the state during the preceding calendar year.
+5 (4) The administrative fees received and utilized by the public housing authorities to
+6 administer the vouchers.
+7 (d) As used herein, the term “public housing authority and agency” means and includes
+8 any public housing authority or agency established under chapter 25 of this title or chapter 26 of
+9 this title.
+10 45-53-13. Annual status report on appeals.
+11 (a) The Rhode Island housing resources commission established pursuant to chapter 128
+12 of title 42 (the “commission”) shall maintain accurate records and shall prepare an annual status
+13 report (“status report”) on all active cases and appeals pending before the state housing appeals
+14 board (the “board”). The status report shall be forwarded to the secretary of housing, the speaker
+15 of the house, and the president of the senate. Each report shall also be made available on the
+16 commission’s website for a period of at least three (3) years, and shall also be deemed to be a public
+17 record. The report shall be due on or before March 15 of each year, commencing in the calendar
+18 year 2023.
+19 (b) The report required by this section shall contain the following information for the
+20 twelve-month (12) calendar period covered by the report:
+21 (1) The total number of appeals pending before the board;
+22 (2) The number of appeals for which a decision has been rendered, have been settled by
+23 agreement, or have otherwise been disposed of during the previous calendar year;
+24 (3) The number of board decisions which were appealed in the previous calendar year and
+25 the status of those cases; and
+26 (4) The length of time for the board to decide appeals in the previous calendar year
+27 aggregated by:
+28 (i) Appeals decided by the board within six (6) months;
+29 (ii) Appeals decided by the board within six (6) to nine (9) months; and
+30 (iii) Appeals decided by the board in more than nine (9) months.
+31 45-53-14. Database of low-income rental units.
+32 (a) The Rhode Island housing and mortgage finance corporation established pursuant to §
+33 42-55-4 (the “corporation”) shall maintain an online database (“database”) of low-income housing
+34 tax credit developments that are designated only for households at or below sixty percent (60%) of
+LC001042 - Page 27 of 31
+1 area median income, adjusted for household size and subsidized housing developments, as
+2 referenced in the corporation’s Rhode Island resource guide, which are designated only for
+3 households at or below eighty percent (80%) of area median income, adjusted for household size
+4 (collectively “low-income rental units”) in the state on the corporation’s website. The corporation
+5 shall place an emphasis on the database containing the following:
+6 (1) Current, updated information on the existing inventory of low-income rental units in
+7 the state;
+8 (2) The contact person or entity and contact information pertaining to individual
+9 developments;
+10 (3) To the extent the information is available, a copy of the application to apply for housing
+11 in individual developments; and
+12 (4) Information pertaining to any special populations, including, but not limited to, elderly,
+13 disabled, homeless individuals, and victims of domestic violence, served by individual
+14 developments.
+15 (b) This database shall be accessible to the public by July 1, 2023.
+16 45-53-15. Annual reports.
+17 (a) The Rhode Island housing corporation established pursuant to § 42-55-4 (the
+18 “corporation”) shall provide the annual reports pursuant to subsections (b) and (c) of this section to
+19 the speaker of the house, the president of the senate, the housing resources commission, the division
+20 of statewide planning, and the secretary of housing. Reports shall be made available on the
+21 corporation’s website for a period of at least three (3) years, and shall be deemed to be a public
+22 record. Reports shall be due on or before March 15, of each year, commencing in the calendar year
+23 2023.
+24 (b) Report on Rhode Island housing corporation housing development and preservation
+25 activity. This report shall include the following information:
+26 (1) The identity of projects that have been provided funding by the corporation for housing
+27 development or preservation and that closed on that financing by December 31 of the previous
+28 calendar year;
+29 (2) The total aggregate of funds, in dollar amounts, that have been provided to projects by
+30 the corporation for housing development or preservation and that closed on that financing by
+31 December 31, of the previous calendar year, as well as those amounts disaggregated by each
+32 project; and
+33 (3) The number of housing units that received funding from the corporation for housing
+34 development or preservation that received a certificate of occupancy in the previous calendar year,
+LC001042 - Page 28 of 31
+1 both in total and disaggregated by project.
+2 (c) Report on tax payments made by affordable housing developments to municipalities
+3 pursuant to § 44-5-13.11. This report shall include data aggregated by all the municipalities and
+4 disaggregated by each individual municipality on the total amount of fees collected in the previous
+5 calendar year by municipalities on any assessment and taxation made pursuant to § 44-5-13.11.
+6 (d) With regard to the report in subsection (c) of this section, all municipalities in the state
+7 shall annually submit to the corporation by January 15, of each year, the total amount of fees
+8 collected in the previous calendar year by the municipality on any assessment and taxation made
+9 pursuant to § 44-5-13.11 disaggregated by individual development.
+10 45-53-16. Electronic permitting.
+11 (a) On or before October 1, 2025, every municipality in the state shall adopt and implement
+12 electronic permitting for all development applications under this chapter. For purposes of this
+13 section, “electronic permitting” means use of computer-based tools and services that automate and
+14 streamline the application process to include, but not be limited to, task-specific tools for:
+15 applications; submission of plans; completed checklists and checklist documents; reports; plan
+16 review; permitting; scheduling; project tracking; staff and technical review committee comments;
+17 fee calculation and collection.
+18 (b) The state building commissioner, with the assistance of the office of regulatory reform
+19 and the division of statewide planning, pursuant to the provisions of § 23-27.3-108.2 may
+20 promulgate rules and regulations to implement the provisions of this section.
+21 (c) The local towns and cities shall charge each applicant an additional one-tenth of one
+22 percent (.001%) of the total application fee for each application submitted. This additional amount
+23 shall be transmitted monthly to the state building office at the department of business regulation,
+24 and shall be used to staff and support the purchase or lease and operation of one web-accessible
+25 service and/or system to be utilized by the state and municipalities for the uniform, statewide
+26 electronic submission, review and processing of development applications as set forth in this
+27 section.
+28 (d) On or before October 1, 2025, notwithstanding any other provision of this chapter to
+29 the contrary, all acts, requirements, filings, and documents necessary to comply with the application
+30 process shall be conducted by means of electronic permitting.
+31 (e) The department of business regulation shall reimburse annual fees and costs associated
+32 with compliance with this program in accordance with procedures established by the department.
+LC001042 - Page 29 of 31
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001042
+========
+LC001042 - Page 30 of 31
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+***
+1 This act would repeal the chapter entitled "Low and Moderate Income Housing".
+2 This act would take effect upon passage.
+========
+LC001042
+========
+LC001042 - Page 31 of 31
+[DELETED: TATE  OF  RHODE  ISLAND B R Q N P H P S H C L 4 T A 4 T a a a c a c s o s d f l a m i h a a l a m i]
+[DELETED:  h 4 T a ( l s s f t l r b c o a i s f i § 4 4 ( 4 g a ( a p a p b t s p c p h t s r a a h 4 ( t ( m a o s o t p o s a i t l z o l u o r a r a a a e a p t b s a u c i ( t l r]
+[DELETED:  r y ( r c f h i ( M r u b u a c p m b c t a ( f o f l c i t ( f ( ( a p p p a p m o ( b h]
+[DELETED:  ( A m o m h  t m t r o § 4 8 n ( r v b s t o b ( L o m h a i r p l w a m ( l p t c h s ( p t a ( i ( h s ( c 4 s a a c o b n l t d f a]
+[DELETED:  c 4 a ( e p i ( e o ( e s ( T p a u m a o r o t c t b c ( i ( ( U ( u e 4 ( E J 1 2 t R I h r c ( “ e a ( p p r t r]
+[DELETED:  c ( t ( i D ( f ( a a ( t L r i p r ( c ( ( e ( t h a ( a ( m ( e a]
+[DELETED:  a ( c s 4 ( l s i ( b m h u i a d u t c A a m t f ( t i t a d u p a ( a w a o i a m g m t d ( s b h ( s b s ( p d h ( c]
+[DELETED:  o w t f t s t d u f t a s a m ( c o w t f t s t d u f t a s a i ( c o w t f t s t d u f t a s a m ( d c ( s f ( F a A m s n u f a r t l a a ( l m r ( ( p r e a o d s p]
+[DELETED:  a d b s a f ( ( s ( A l o e i b t R I h a m f c U a ( s a ( p ( w t e o e o s o f p a f c p a p ( m l p ( c p o i a i o]
+[DELETED:  t i ( r ( t ( r T ( T f r T l r b s r a d o t p p a w n ( d o t d t a i c c s ( c f i r a i ( s t f ( c p ( m z o a s r a w a a r o ( d p a w b b a o p t o s w t c a]
+[DELETED:  o ( f r o t c i a i b n l t s c o p o c ( p 6 ( p a p ( l h a a a h p a i m h n a t p i i t i c w p r h t p a ( t a p s v t]
+[DELETED:  d ( p w r a ( i ( o ( l ( l t y ( i c ( A f c o t r p i i c ( ( F p p p t f p s b a b c o a d n p s o a e p i ( o h a i a i o t]
+[DELETED:  i ( ( p ( ( p m b a a b t a o w f p a d t a t ( p h t ( d o s o t f p a i t a o i r t a ( a i f s ( c t ( t t p r ( c e b t l r b t p c o a a]
+[DELETED:  i o ( c s f s n p a s b a a t t f m t p f i ( R o w d A w d o a u t c b s r a ( p a a c ( s ( s f b t ( a a t n o d u i c p a f f d t e p a f f d w a m p t t p s (]
+[DELETED:  s r t s o i t t h r c i t d a s w w ( F 1 2 a r c h w t ( d o r 5 h d f ( R a i e p i p i o t u o t p o t c b p f d w m p t p ( J ( i r O ( p]
+[DELETED:  i T t s o t p b o c o e c o t s t t r e D 3 2 t t s o t s p c t t c o t h c m ( i o d i i t c g r t t j a a m o t a e c ( a c § a r ( m a 4 ( b s t b b f w t s c a c  t c a s o t p p r d t b]
+[DELETED:  ( t o a ( o a ( c a t t ( ( c ( a ( i l ( ( ( t ( t ( r ( t s t ( w]
+[DELETED:  b o r t c f f p o m r o m t d i s r o t a h b p b o f i c ( o r c m r p ( s f a c i s c a p a c o t c t t a r p t s w ( r 4 ( t n e c ( t a p a m r a]
+[DELETED:  ( l ( a ( i l ( ( ( T e t w t c a l z o a r p ( b a v t d a i a d a o a t a d t a f l a n d n b h i a w s l s t t a b a s p r h D a r h ( b a d]
+[DELETED:  r b i o ( ( t m ( o ( o l ( A w l o v s u p a w r t l r a t ( ( t ( p p l ( a p ( g b ( p ( l]
+[DELETED:  ( ( o r d t a t b s c a a i a m d t i c t a s c f t p o r t a t s h a b s c t a s ( a t a h 3 c d i m a t b t a a t l b h t a a w a s a m b s b t t o n f t r o t a ( f ( ( a J ( 4 ( b w A g t ( t]
+[DELETED:  b m a i o r o t b c a o a k i l u r a b t g c c b r o d d b t ( m g o ( d ( s ( A a a f t ( t e a o p i s b 2 s o b o c I ( ( c I b J (]
+[DELETED:  4 I c c a t s 4 ( 2 c m ( m w o o r e f t R I B A R I H H ( T p o t c s b ( t m a e t i p h b l a ( t a t n f r t a h o a t m r ( a s f a t c w s b l i s c ( a A a p f]
+[DELETED:  a 4 ( T i h e t r o s b f a a h a ( T p o t p s b t p g a a i t r y ( T d o e a s e ( “ s c p a ( i c o o d n g f b a r d n ( c o t R I a m f c t d o e a a c a (]
+[DELETED:  a i t ( s w t e f w t t a e t r u b a t n t s t c o ( p a i ( t ( c v b ( f 4 ( o h f s ( m ( a]
+[DELETED:  p b c ( w ( n o p a h h b p i i b s ( T n o c p a t h h c o o i a b t t n o s a i t s a d ( E m s a p t t d t i o c 4 ( “ s c d o t n o S 8 H C V a a a ( ( I r t M ( t D p ( o ( u]
+[DELETED:  a p h a o a d t t o o h a c d ( t ( a f r a u b t p h a t a ( a t 4 ( o r b o c r y ( t ( ( a ( t ( o t f t b d a t p c y a ( ( ( 4 ( 4 t]
+[DELETED:  a m i a f h s a s h d a r i t c R I r g w a d o f h ( s ( t ( T c p o e a c i p t i d ( i ( d h i a v o d v s b i d ( 4 ( T R I h c e p t § 4 ( “ t o s p a t s o h R s b m a o t c r 2 ( a ( d c ( t D p ( d]
+[DELETED:  b ( p d c ( s c p 4 ( e s s t a p t i b n b l t t t f a r f ( a t d o s p p t t p o § 2 m p ( p s a s e s r p o a s ( t p ( w ]
+[DELETED:  S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5690
+========
+LC001042
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+Introduced By: Representatives Quattrocchi, Nardone, Place, Hopkins, Paplauskas,
+Santucci, Fascia, and Chippendale
+Date Introduced: February 26, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 45-53 of the General Laws entitled "Low and Moderate Income
+2 Housing" is hereby repealed in its entirety.
+3 CHAPTER 45-53
+4 Low and Moderate Income Housing
+5 45-53-1. Short title.
+6 This chapter shall be known as the “Rhode Island Low and Moderate Income Housing
+7 Act”.
+8 45-53-2. Legislative findings and intent.
+9 The general assembly finds and declares that there exists an acute shortage of affordable,
+10 accessible, safe, and sanitary housing for its citizens of low and moderate income, both individuals
+11 and families; that it is imperative that action is taken immediately to assure the availability of
+12 affordable, accessible, safe, and sanitary housing for these persons; that it is necessary that each
+13 city and town provide opportunities for the establishment of low and moderate income housing;
+14 and that the provisions of this chapter are necessary to assure the health, safety, and welfare of all
+15 citizens of this state, and that each citizen enjoys the right to affordable, accessible, safe, and
+16 sanitary housing. It is further declared to be the purpose of this chapter to provide for housing
+17 opportunities for low and moderate income individuals and families in each city and town of the
+18 state and that an equal consideration shall be given to the retrofitting and rehabilitation of existing
+19 dwellings for low and moderate income housing and assimilating low and moderate income
+
+1 housing into existing and future developments and neighborhoods.
+2 45-53-3. Definitions.
+3 The following words, wherever used in this chapter, unless a different meaning clearly
+4 appears from the context, have the following meanings:
+5 (1) “Adjustment(s)” means a request or requests by the applicant to seek relief from the
+6 literal use and dimensional requirements of the municipal zoning ordinance and/or the design
+7 standards or requirements of the municipal land development and subdivision regulations. The
+8 standard for the local review board’s consideration of adjustments is set forth in § 45-53-
+9 4(d)(2)(iii)(E)(II).
+10 (2) “Affordable housing plan” means a component of a housing element, as defined in §
+11 45-22.2-4(1), that addresses housing needs in a city or town that is prepared in accordance with
+12 guidelines adopted by the state planning council, and/or to meet the provisions of § 45-53-4(e)(1)
+13 and (f).
+14 (3) “Approved affordable housing plan” means an affordable housing plan that has been
+15 approved by the director of administration as meeting the guidelines for the local comprehensive
+16 plan as promulgated by the state planning council; provided, however, that state review and
+17 approval, for plans submitted by December 31, 2004, shall not be contingent on the city or town
+18 having completed, adopted, or amended its comprehensive plan as provided for in § 45-22.2-8, §
+19 45-22.2-9, or § 45-22.2-12.
+20 (4) “Comprehensive plan” means a comprehensive plan adopted and approved by a city or
+21 town pursuant to chapters 22.2 and 22.3 of this title.
+22 (5) “Consistent with local needs” means reasonable in view of the state need for low- and
+23 moderate-income housing, considered with the number of low-income persons in the city or town
+24 affected and the need to protect the health and safety of the occupants of the proposed housing or
+25 of the residents of the city or town, to promote better site and building design in relation to the
+26 surroundings, or to preserve open spaces, and if the local zoning or land use ordinances,
+27 requirements, and regulations are applied as equally as possible to both subsidized and
+28 unsubsidized housing. Local zoning and land use ordinances, requirements, or regulations are
+29 consistent with local needs when imposed by a city or town council after a comprehensive hearing
+30 in a city or town where:
+31 (i) Low- or moderate-income housing exists which is: (A) In the case of an urban city or
+32 town which has at least 5,000 occupied year-round rental units and the units, as reported in the
+33 latest decennial census of the city or town, comprise twenty-five percent (25%) or more of the year-
+34 round housing units, and is in excess of fifteen percent (15%) of the total occupied year-round
+LC001042 - Page 2 of 31
+
+1 rental units; or (B) In the case of all other cities or towns, is in excess of ten percent (10%) of the
+2 year-round housing units reported in the census.
+3 (ii) The city or town has promulgated zoning or land use ordinances, requirements, and
+4 regulations to implement a comprehensive plan that has been adopted and approved pursuant to
+5 chapters 22.2 and 22.3 of this title, and the housing element of the comprehensive plan provides
+6 for low- and moderate-income housing in excess of either ten percent (10%) of the year-round
+7 housing units or fifteen percent (15%) of the occupied year-round rental housing units as provided
+8 in subsection (5)(i).
+9 (iii) Multi-family rental units built under a comprehensive permit may be calculated
+10 towards meeting the requirements of a municipality’s low- or moderate-income housing inventory,
+11 as long as the units meet and are in compliance with the provisions of § 45-53-3.1.
+12 (6) “Infeasible” means any condition brought about by any single factor or combination of
+13 factors, as a result of limitations imposed on the development by conditions attached to the approval
+14 of the comprehensive permit, to the extent that it makes it financially or logistically impracticable
+15 for any applicant to proceed in building or operating low- or moderate-income housing within the
+16 limitations set by the subsidizing agency of government or local review board, on the size or
+17 character of the development, on the amount or nature of the subsidy, or on the tenants, rentals, and
+18 income permissible, and without substantially changing the rent levels and unit sizes proposed by
+19 the applicant.
+20 (7) “Letter of eligibility” means a letter issued by the Rhode Island housing and mortgage
+21 finance corporation in accordance with § 42-55-5.3(a).
+22 (8) “Local review board” means the planning board as defined by § 45-22.2-4.
+23 (9) “Low- or moderate-income housing” shall be synonymous with “affordable housing”
+24 as defined in § 42-128-8.1, and further means any type of housing whether built or operated by any
+25 public agency or any nonprofit organization or by any limited equity housing cooperative or any
+26 private developer, that is subsidized by a federal, state, or municipal government subsidy under any
+27 program to assist the construction or rehabilitation of affordable housing and that will remain
+28 affordable through a land lease and/or deed restriction for ninety-nine (99) years or such other
+29 period that is either agreed to by the applicant and town or prescribed by the federal, state, or
+30 municipal government subsidy program but that is not less than thirty (30) years from initial
+31 occupancy.
+32 (i) Any housing unit that qualifies under this subsection (9) and under § 42-128-8.1 shall
+33 be counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+34 housing.
+LC001042 - Page 3 of 31
+
+1 (ii) Any mobile or manufactured home(s) that meet the requirements of § 42-128-
+2 8.1(d)(1)(ii) but are not subsidized by a federal, state, or municipal government subsidy and/or do
+3 not have a deed restriction or land lease as described in this subsection (9), shall count as one-half
+4 (½) of one unit for the purpose of the calculation of the total of low- or moderate-income year-
+5 round housing within a city or town, as long as a municipality contracts with a monitoring agent to
+6 verify that the requirements of § 42-128-8.1(d)(1)(ii) are met for these units. Such units shall not
+7 be required to meet the income verification requirements of § 42-128-8.1. The monitoring agent
+8 shall provide a listing of the eligible units to Rhode Island Housing, who shall provide a report as
+9 to the qualifying mobile or manufactured homes under this subsection (9) to the governor, speaker
+10 of the house of representatives, senate president, and secretary of housing on an annual basis,
+11 beginning on or before December 31, 2025.
+12 (iii) Low- or moderate-income housing also includes rental property located within a
+13 municipality that is secured with a federal government rental assistance voucher.
+14 (iv) For the period beginning on or after July 1, 2024, any housing unit that qualifies as
+15 low- or moderate-income housing under this subsection (9) and under § 42-128-8.1 and any rental
+16 property secured with a federal government rental assistance voucher that does not otherwise meet
+17 the other requirements to qualify as low- or moderate-income housing under this section shall be
+18 counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+19 housing, as long as a municipality confirms with the issuing authority that the voucher is in good
+20 standing and active.
+21 (10) “Meeting local housing needs” means as a result of the adoption of the implementation
+22 program of an approved affordable housing plan, the absence of unreasonable denial of applications
+23 that are made pursuant to an approved affordable housing plan in order to accomplish the purposes
+24 and expectations of the approved affordable housing plan, and a showing that at least twenty percent
+25 (20%) of the total residential units approved by a local review board or any other municipal board
+26 in a calendar year are for low- and moderate-income housing as defined in § 42-128-8.1.
+27 (11) “Monitoring agents” means those monitoring agents appointed by the Rhode Island
+28 housing resources commission pursuant to § 45-53-3.2 and to provide the monitoring and oversight
+29 set forth in this chapter, including, but not limited to, §§ 45-53-3.2 and 45-53-4.
+30 (12) “Municipal government subsidy” means assistance that is made available through a
+31 city or town program sufficient to make housing affordable, as affordable housing is defined in §
+32 42-128-8.1(d)(1); such assistance shall include a combination of, but is not limited to, direct
+33 financial support, abatement of taxes, waiver of fees and charges, and approval of density bonuses
+34 and/or internal subsidies, zoning incentives, and adjustments as defined in this section and any
+LC001042 - Page 4 of 31
+
+1 combination of forms of assistance.
+2 45-53-3.1. Formula to include non-income restricted multi-family rental units as low-
+3 and moderate-income housing.
+4 (a) In calculating the number of year-round housing units towards meeting the goals of an
+5 excess of ten percent (10%) of the year-round housing units consistent with local needs required
+6 pursuant to § 45-53-4, rental units in multi-family housing built after June 30, 2022, may be
+7 included as low- or moderate-income housing, in accordance with the following conditions:
+8 (1) At least thirty percent (30%) of the units created are deed restricted for households
+9 earning not more than sixty percent (60%) of the area median income, adjusted for household size;
+10 or
+11 (2) At least fifty percent (50%) of the units created are deed restricted for households
+12 earning not more than eighty percent (80%) of the area median income, adjusted for household
+13 size; and
+14 (3) The proposed affordable units meet all other requirements of this chapter to be
+15 calculated as low- or moderate-income housing; and
+16 (4) All non-deed restricted units developed under the same comprehensive permit shall be
+17 included in the low- and moderate-income housing inventory as one-half (0.5) units each.
+18 (b) As used in this section and as applied to this chapter:
+19 (1) “Area median income (AMI)” means area median household income as defined by the
+20 U.S. Department of Housing and Urban Development, adjusted for household size.
+21 (2) “Multi-family housing’' means a building with three (3) or more residential dwelling
+22 units or two (2) or more buildings on the same lot with more than one residential dwelling unit in
+23 each building.
+24 45-53-3.2. Approved monitoring agent program.
+25 (a) There is hereby established an approved monitoring agent program (the “program”).
+26 Effective July 1, 2022, the Rhode Island housing resources commission (the “commission”)
+27 established pursuant to chapter 128 of title 42 shall appoint and oversee approved monitoring agents
+28 as part of this program.
+29 (b) On or before July 1, 2023, the commission shall promulgate rules and regulations
+30 pursuant to chapter 35 of title 42 (“administrative procedures”) for the implementation of the
+31 program, which shall include a process for the selection and approval of monitoring agents. These
+32 rules and regulations shall be prepared to ensure the selection and appointment of organizations
+33 that shall be capable of monitoring and ensuring that municipally subsidized housing developments
+34 remain affordable, and that income-eligible buyers and tenants are occupying these units. The
+LC001042 - Page 5 of 31
+
+1 commission shall appoint these monitoring agents, who shall serve for terms of not more than five
+2 (5) consecutive years; provided that, the term of an approved monitoring agent may be renewed by
+3 the commission.
+4 (c) As used in this section, the term “LMI” means low- and moderate-income housing and
+5 includes area median-income levels as established by the U.S. Department of Housing and Urban
+6 Development (“HUD”).
+7 (d) Specific duties of approved monitoring agents shall include, but not be limited to, the
+8 following:
+9 (1) To oversee, monitor, and ensure that tenants in LMI rental units meet income limits
+10 annually and that monthly rental rates are consistent with the low- and moderate-income guidelines
+11 and the recorded deed restrictions;
+12 (2) To oversee, monitor, and ensure that LMI homeownership units continue to serve as
+13 the owners’ year-round principal residences; monitor and ensure that any proposed refinance of a
+14 LMI unit during the period in which a deed restriction is in effect is in compliance with program
+15 requirements: in the case of the resale of any LMI unit during the period in which a deed restriction
+16 is in effect, the maximum sales price is consistent with the recorded deed restriction and that the
+17 proposed buyer of the LMI unit meets the income limits as defined within the recorded deed
+18 restriction;
+19 (3) To oversee, monitor and ensure any LMI accessory dwelling unit being counted is in
+20 compliance with the following requirements:
+21 (i) An annual lease; and
+22 (ii) The accessory dwelling unit is occupied by a household whose income does not exceed
+23 eighty percent (80%) of the area median income (AMI), adjusted for family size; and
+24 (iii) The cost of rent, heat, and utilities other than telephone, cable, and internet, based on
+25 the number of the bedrooms in the unit does not exceed thirty percent (30%) of the gross annual
+26 household income for a household with eighty percent (80%) or less of area median income,
+27 adjusted for family size as certified by the selected approved monitoring agent;
+28 (4) Any other provision contained in chapter 24 of this title that reasonably relates to
+29 affordable housing compliance and enforcement; and
+30 (5) Such other duties as the commission sets forth in its rules and regulations for the
+31 monitoring agents.
+32 (e) The commission shall also promulgate rules and regulations providing for the terms of
+33 engagement of the approved monitoring agents, standards for approval and recertification of the
+34 approved monitoring agents, and establish reporting requirements for the approved monitoring
+LC001042 - Page 6 of 31
+
+1 agents to the commission.
+2 (f) Commencing on or before January 1, 2023, and on or before January 1 thereafter, the
+3 commission shall prepare a report on the approved monitoring agent program to the governor, the
+4 speaker of the house, the president of the senate, and the secretary of housing.
+5 45-53-4. Procedure for approval of construction of low- or moderate-income housing.
+6 (a) Any applicant proposing to build low- or moderate-income housing may submit to the
+7 local review board a single application for a comprehensive permit to build that housing in lieu of
+8 separate applications to the applicable local boards. This procedure is only available for proposals
+9 in which at least twenty-five percent (25%) of the housing is low- or moderate-income housing.
+10 (b) Municipal government subsidies, including adjustments and zoning incentives, are to
+11 be made available to applications under this chapter to offset the differential costs of the low- or
+12 moderate-incoming housing units in a development under this chapter. At a minimum, the
+13 following zoning incentives shall be allowed for projects submitted under this chapter:
+14 (1) Density bonus. A municipality shall provide an applicant with more dwelling units
+15 than allowed by right under its zoning ordinance in the form of a density bonus to allow an increase
+16 in the allowed dwelling units per acre (DU/A), as well as other incentives and municipal
+17 government subsidies as defined in § 45-53-3. Furthermore, a municipality shall provide, at a
+18 minimum, the following density bonuses for projects submitted under this chapter, provided that
+19 the total land utilized in the density calculation shall exclude wetlands; wetland buffers; area
+20 devoted to infrastructure necessary for development; and easements or rights of way of record:
+21 (i) For properties connected to public sewer and water, or eligible to be connected to public
+22 sewer and water based on written confirmation from each respective service provider, the density
+23 bonus for a project that provides at least twenty-five percent (25%) low- and moderate-income
+24 housing shall be at least five (5) units per acre;
+25 (ii) For properties connected to public sewer and water, or eligible to be connected to public
+26 sewer and water based on written confirmation from each respective service provider, the density
+27 bonus for a project that provides at least fifty percent (50%) low- and moderate-income housing
+28 shall be at least nine (9) units per acre;
+29 (iii) For properties connected to public sewer and water, or eligible to be connected to
+30 public sewer and water based on written confirmation from each respective service provider, the
+31 density bonus for a project that provides one hundred percent (100%) low- and moderate-income
+32 housing shall be at least twelve (12) units per acre;
+33 (iv) For properties not connected to either public water or sewer or both, but which provide
+34 competent evidence as to the availability of water to service the development and/or a permit for
+LC001042 - Page 7 of 31
+
+1 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+2 agency, the density bonus for a project that provides at least twenty-five percent (25%) low- and
+3 moderate-income housing shall be at least three (3) units per acre;
+4 (v) For properties not connected to either public water or sewer or both, but which provide
+5 competent evidence as to the availability of water to service the development and/or a permit for
+6 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+7 agency, the density bonus for a project that provides at least fifty percent (50%) low- and moderate-
+8 income housing shall be at least five (5) units per acre;
+9 (vi) For properties not connected to either public water or sewer or both, but which provide
+10 competent evidence as to the availability of water to service the development and/or a permit for
+11 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+12 agency, the density bonus for a project that provides one hundred percent (100%) low- and
+13 moderate-income housing shall be at least eight (8) units per acre;
+14 (2) Parking. A municipality shall not require more than one off-street parking space per
+15 dwelling unit for units up to and including two (2) bedrooms in applications submitted under this
+16 chapter;
+17 (3) Bedrooms. A municipality shall not limit the number of bedrooms for applications
+18 submitted under this chapter to anything less than three (3) bedrooms per dwelling unit for single-
+19 family dwelling units;
+20 (4) Floor area. A municipality shall not utilize floor area requirements to limit any
+21 application, except as provided by § 45-24.3-11.
+22 (c) A municipality shall not restrict comprehensive permit applications and permits by any
+23 locally adopted ordinance or policy that places a limit or moratorium on the development of
+24 residential units.
+25 (d) The application and review process for a comprehensive permit shall be as follows:
+26 (1) Pre-application conference. A municipality may require an applicant proposing a
+27 project under this chapter to complete, or the applicant proposing a project under this chapter may
+28 request a pre-application conference with the local review board, the technical review committee
+29 established pursuant to § 45-23-56, or with the administrative officer for the local review board as
+30 appropriate. In advance of a pre-application conference, the applicant shall be required to submit
+31 only a short description of the project in writing including the number of units, type of housing,
+32 density analysis, preliminary list of adjustments needed, as well as a location map, and conceptual
+33 site plan. The purpose of the pre-application conference shall be to review a concept plan of the
+34 proposed development and to elicit feedback from the reviewing person or board. Upon receipt of
+LC001042 - Page 8 of 31
+
+1 a request by an applicant for a pre-application conference, the municipality shall have thirty (30)
+2 days to schedule and hold the pre-application conference, unless a different timeframe is agreed to
+3 by the applicant in writing. If thirty (30) days has elapsed from the filing of the pre-application
+4 submission and no pre-application conference has taken place, nothing shall be deemed to preclude
+5 an applicant from thereafter filing and proceeding with an application for preliminary plan review
+6 for a comprehensive permit.
+7 (2) Preliminary plan review.
+8 (i) Submission requirements. Applications for preliminary plan review under this chapter
+9 shall include:
+10 (A) A letter of eligibility issued by the Rhode Island housing and mortgage finance
+11 corporation, or in the case of projects primarily funded by the U.S. Department of Housing and
+12 Urban Development or other state or federal agencies, an award letter indicating the subsidy, or
+13 application in such form as may be prescribed for a municipal government subsidy; and
+14 (B) A letter signed by the authorized representative of the applicant, setting forth the
+15 specific sections and provisions of applicable local ordinances and regulations from which the
+16 applicant is seeking adjustments; and
+17 (C) A proposed timetable for the commencement of construction and completion of the
+18 project; and
+19 (D) Those items required by local regulations promulgated pursuant to applicable state law,
+20 with the exception of evidence of state or federal permits; and for comprehensive permit
+21 applications included in the checklist for the preliminary plan review in the local regulations
+22 promulgated pursuant to chapter 23 of this title; and
+23 (E) Notwithstanding the submission requirements set forth above, the local review board
+24 may request additional, reasonable documentation throughout the public hearing, including, but not
+25 limited to, opinions of experts, credible evidence of application for necessary federal and/or state
+26 permits, statements and advice from other local boards and officials.
+27 (ii) Certification of completeness. The preliminary plan application must be certified
+28 complete or incomplete by the administrative officer according to the provisions of § 45-23-36;
+29 provided, however, that the certificate shall be granted within twenty-five (25) days of submission
+30 of the application. The running of the time period set forth herein will be deemed stopped upon the
+31 issuance of a written certificate of incompleteness of the application by the administrative officer
+32 and will recommence upon the resubmission of a corrected application by the applicant. However,
+33 in no event will the administrative officer be required to certify a corrected submission as complete
+34 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+LC001042 - Page 9 of 31
+
+1 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+2 incomplete items.
+3 (iii) Review of applications. An application filed in accordance with this chapter shall be
+4 reviewed in accordance with the following provisions:
+5 (A) Public hearing. A public hearing shall be noticed and held as soon as practicable after
+6 the issuance of a certificate of completeness.
+7 (B) Notice. Public notice for the public hearing will be the same notice required under local
+8 regulations for a public hearing for a preliminary plan promulgated in accordance with § 45-23-42.
+9 The cost of notice shall be paid by the applicant.
+10 (C) Timeframe for review. The local review board shall render a decision on the
+11 preliminary plan application within ninety (90) days of the date the application is certified
+12 complete, or within a further amount of time that may be consented to by the applicant through the
+13 submission of a written consent.
+14 (D) Failure to act. Failure of the local review board to act within the prescribed period
+15 constitutes approval of the preliminary plan, and a certificate of the administrative officer as to the
+16 failure of the local review board to act within the required time and the resulting approval shall be
+17 issued on request of the applicant. Further, if the public hearing is not convened or a decision is not
+18 rendered within the time allowed in subsections (d)(2)(iii)(A) and (d)(2)(iii)(C) of this section, the
+19 application is deemed to have been allowed and the preliminary plan approval shall be issued
+20 immediately.
+21 (E) Required findings for approval. In approving an application, the local review board
+22 shall make positive findings, supported by legally competent evidence on the record that discloses
+23 the nature and character of the observations upon which the fact finders acted, on each of the
+24 following standard provisions, where applicable:
+25 (I) The proposed development is consistent with local needs as identified in the local
+26 comprehensive community plan with particular emphasis on the community’s affordable housing
+27 plan and/or has satisfactorily addressed the issues where there may be inconsistencies.
+28 (II) The proposed development is in compliance with the standards and provisions of the
+29 municipality’s zoning ordinance and subdivision regulations, and/or where adjustments are
+30 requested by the applicant, that local concerns that have been affected by the relief granted do not
+31 outweigh the state and local need for low- and moderate-income housing.
+32 (III) All low- and moderate-income housing units proposed are integrated throughout the
+33 development; are compatible in scale and architectural style to the market rate units within the
+34 project; and will be built and occupied prior to, or simultaneous with the construction and
+LC001042 - Page 10 of 31
+
+1 occupancy of any market rate units.
+2 (IV) There will be no significant negative impacts on the health and safety of current or
+3 future residents of the community, in areas including, but not limited to, safe circulation of
+4 pedestrian and vehicular traffic, provision of emergency services, sewerage disposal, availability
+5 of potable water, adequate surface water run-off, and the preservation of natural, historical, or
+6 cultural features that contribute to the attractiveness of the community.
+7 (V) All proposed land developments and all subdivisions lots will have adequate and
+8 permanent physical access to a public street in accordance with the requirements of § 45-23-
+9 60(a)(5).
+10 (VI) The proposed development will not result in the creation of individual lots with any
+11 physical constraints to development that building on those lots according to pertinent regulations
+12 and building standards would be impracticable, unless created only as permanent open space or
+13 permanently reserved for a public purpose on the approved, recorded plans.
+14 (F) Required findings for denial. In reviewing the comprehensive permit request, the
+15 local review board may deny the request for any of the following reasons: (I) If the city or town
+16 has an approved affordable housing plan and is meeting housing needs, and the proposal is
+17 inconsistent with the affordable housing plan; provided that, the local review board also finds that
+18 the municipality has made significant progress in implementing that housing plan; (II) The proposal
+19 is not consistent with local needs, including, but not limited to, the needs identified in an approved
+20 comprehensive plan, and/or local zoning ordinances and procedures promulgated in conformance
+21 with the comprehensive plan; (III) The proposal is not in conformance with the comprehensive
+22 plan; (IV) The community has met or has plans to meet the goal of ten percent (10%) of the year-
+23 round units or, in the case of an urban town or city, fifteen percent (15%) of the occupied rental
+24 housing units as defined in § 45-53-3(5)(i) being low- and moderate-income housing; provided
+25 that, the local review board also finds that the community has achieved or has made significant
+26 progress towards meeting the goals required by this section; or (V) Concerns for the environment
+27 and the health and safety of current residents have not been adequately addressed.
+28 (iv) Vesting. The approved preliminary plan is vested for a period of two (2) years with
+29 the right to extend for two (2), one-year extensions upon written request by the applicant, who must
+30 appear before the planning board for each annual review and provide proof of valid state or federal
+31 permits as applicable. Thereafter, vesting may be extended for a longer period, for good cause
+32 shown, if requested, in writing by the applicant, and approved by the local review board. The
+33 vesting for the preliminary plan approval includes all ordinance provisions and regulations at the
+34 time of the approval, general and specific conditions shown on the approved preliminary plan
+LC001042 - Page 11 of 31
+
+1 drawings and supporting material.
+2 (3) Final plan review. The second and final stage of review for the comprehensive permit
+3 project shall be done administratively, unless an applicant has requested and been granted any
+4 waivers from the submission of checklist items for preliminary plan review, and then, at the local
+5 review board’s discretion, it may vote to require the applicant to return for final plan review and
+6 approval.
+7 (i) Submission requirements. Applications for final plan review under this chapter shall
+8 include:
+9 (A) All required state and federal permits must be obtained prior to the final plan approval
+10 or the issuance of a building permit; and
+11 (B) A draft monitoring agreement which identifies an approved entity that will monitor the
+12 long-term affordability of the low- and moderate-income units pursuant to § 45-53-3.2; and
+13 (C) A sample land lease or deed restriction with affordability liens that will restrict use as
+14 low- and moderate-income housing in conformance with the guidelines of the agency providing
+15 the subsidy for the low- and moderate-income housing, but for a period of not less than thirty (30)
+16 years; and
+17 (D) Those items required by local regulations promulgated pursuant to applicable state law
+18 included in the checklist for final plan review in the local regulations promulgated pursuant to
+19 chapter 23 of this title, including, but not limited to:
+20 (I) Arrangements for completion of the required public improvements, including
+21 construction schedule and/or financial guarantees; and
+22 (II) Certification by the tax collector that all property taxes are current; and
+23 (III) For phased projects, the final plan for phases following the first phase, shall be
+24 accompanied by copies of as-built drawings not previously submitted of all existing public
+25 improvements for prior phases.
+26 (ii) Certification of completeness. The final plan application must be certified complete
+27 or incomplete by the administrative officer according to the provisions of § 45-23-36; provided
+28 however, that the certificate shall be granted within twenty-five (25) days of submission of the
+29 application. The running of the time period set forth herein will be deemed stopped upon the
+30 issuance of a written certificate of incompleteness of the application by the administrative officer
+31 and will recommence upon the resubmission of a corrected application by the applicant. However,
+32 in no event will the administrative officer be required to certify a corrected submission as complete
+33 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+34 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+LC001042 - Page 12 of 31
+
+1 incomplete items.
+2 (iii) Review of applications.
+3 (A) Timeframe for review. The reviewing authority shall render a decision on the final
+4 plan application within forty-five (45) days of the date the application is certified complete.
+5 (B) Modifications and changes to plans:
+6 (I) Minor changes, as defined in the local regulations, to the plans approved at preliminary
+7 plan may be approved administratively, by the administrative officer, whereupon final plan
+8 approval may be issued. The changes may be authorized without additional public hearings, at the
+9 discretion of the administrative officer. All changes shall be made part of the permanent record of
+10 the project application. This provision does not prohibit the administrative officer from requesting
+11 a recommendation from either the technical review committee or the local review board. Denial of
+12 the proposed change(s) shall be referred to the local review board for review as a major change.
+13 (II) Major changes, as defined in the local regulations, to the plans approved at preliminary
+14 plan may be approved only by the local review board and must follow the same review and public
+15 hearing process required for approval of preliminary plans as described in subsection (d)(2)(iii) of
+16 this section.
+17 (III) The administrative officer shall notify the applicant in writing within fourteen (14)
+18 days of submission of the final plan application if the administrative officer is referring the
+19 application to the local review board under this subsection.
+20 (C) Decision on final plan. An application filed in accordance with this chapter shall be
+21 approved by the administrative officer unless such application does not satisfy conditions set forth
+22 in the preliminary plan approval decision or such application does not have the requisite state and/or
+23 federal approvals or other required submissions, does not post the required improvement bonds, or
+24 such application is a major modification of the plans approved at preliminary plan.
+25 (D) Failure to act. Failure of the reviewing authority to act within the prescribed period
+26 constitutes approval of the final plan, and a certificate of the administrative officer as to the failure
+27 to act within the required time and the resulting approval shall be issued on request of the applicant.
+28 (iv) Vesting. The approved final plan is vested for a period of two (2) years with the right
+29 to extend for one one-year extension upon written request by the applicant, who must appear before
+30 the planning board for the extension request. Thereafter, vesting may be extended for a longer
+31 period, for good cause shown, if requested, in writing by the applicant, and approved by the local
+32 review board.
+33 (4) Infeasibility of conditions of approval. The burden is on the applicant to show, by
+34 competent evidence before the local review board, that proposed conditions of approval are
+LC001042 - Page 13 of 31
+
+1 infeasible, as defined in § 45-53-3. Upon request, the applicant shall be provided a reasonable
+2 opportunity to respond to such proposed conditions prior to a final vote on the application.
+3 (5) Fees. Municipalities may impose fees on comprehensive permit applications that are
+4 consistent with but do not exceed fees that would otherwise be assessed for a project of the same
+5 scope and type, but not proceeding under this chapter; provided, however, the imposition of such
+6 fees shall not preclude a showing by an applicant that the fees make the project financially
+7 infeasible.
+8 (6) Recording of written decisions. All written decisions on applications under this
+9 chapter shall be recorded in the land evidence records within twenty (20) days after the local review
+10 board’s vote or the administrative officer’s decision, as applicable. A copy of the recorded decision
+11 shall be mailed within one business day of recording, by any method that provides confirmation of
+12 receipt, to the applicant and to any objector who has filed a written request for notice with the
+13 administrative officer.
+14 (7) Local review board powers. The local review board has the same power to issue
+15 permits or approvals that any local board or official who would otherwise act with respect to the
+16 application, including, but not limited to, the power to attach to the permit or approval, conditions,
+17 and requirements with respect to height, site plan, size or shape, or building materials, as are
+18 consistent with the terms of this section.
+19 (8) Majority vote required. All local review board decisions on comprehensive permits
+20 shall be by majority vote of the members present at the proceeding.
+21 (9) Construction timetable. A comprehensive permit shall expire unless construction is
+22 started within twelve (12) months and completed within sixty (60) months of the recording of the
+23 final plan unless a longer and/or phased period for development is agreed to by the local review
+24 board and the applicant. Low- and moderate-income housing units shall be built and occupied prior
+25 to, or simultaneous with the construction and occupancy of market rate units.
+26 (10) For-profit developers — Limits. A town with an approved affordable housing plan
+27 and that is meeting local housing needs, as defined in this chapter, may by council action limit the
+28 annual total number of dwelling units in comprehensive permit applications from for-profit
+29 developers to an aggregate of one percent (1%) of the total number of year-round housing units in
+30 the town, as recognized in the affordable housing plan and notwithstanding the timetables set forth
+31 elsewhere in this section, the local review board shall have the authority to consider comprehensive
+32 permit applications from for-profit developers, which are made pursuant to this paragraph,
+33 sequentially in the order in which they are submitted.
+34 (11) Report. The local review board of a town with an approved affordable housing plan
+LC001042 - Page 14 of 31
+
+1 shall report the status of implementation to the housing resources commission, including the
+2 disposition of any applications made under the plan, as of June 30, 2006, by September 1, 2006,
+3 and for each June 30 thereafter by September 1 through 2010. The housing resources commission
+4 shall prepare by October 15 and adopt by December 31, a report on the status of implementation,
+5 which shall be submitted to the governor, the speaker and the president of the senate, and shall find
+6 which towns are not in compliance with implementation requirements.
+7 (12) Remanded applications. Notwithstanding the provisions of § 45-53-4 in effect on
+8 February 13, 2004, a local review board shall commence hearings within thirty (30) days of
+9 receiving an application remanded pursuant to § 45-53-5 or, effective January 1, 2024, § 45-53-
+10 5.1. In any town with more than one remanded application, applications may be scheduled for
+11 hearing in the order in which they were received, and may be taken up sequentially, with the thirty-
+12 day (30) requirement for the initiation of hearings, commencing upon the decision of the earlier
+13 filed application.
+14 (e)(1) The general assembly finds and declares that in January 2004 towns throughout
+15 Rhode Island have been confronted by an unprecedented volume and complexity of development
+16 applications as a result of private for-profit developers using the provisions of this chapter and that
+17 in order to protect the public health and welfare in communities and to provide sufficient time to
+18 establish a reasonable and orderly process for the consideration of applications made under the
+19 provisions of this chapter, and to have communities prepare plans to meet low- and moderate-
+20 income housing goals, that it is necessary to impose a moratorium on the use of comprehensive
+21 permit applications as herein provided by private for-profit developers; a moratorium is hereby
+22 imposed on the use of the provisions of this chapter by private for-profit developers, which
+23 moratorium shall be effective on passage and shall expire on January 31, 2005, and may be revisited
+24 prior to expiration and extended to such other date as may be established by law. Notwithstanding
+25 the provisions of subsection (a) of this section, private for-profit developers may not utilize the
+26 procedure of this chapter until the expiration of the moratorium.
+27 (2) No for-profit developer shall submit a new application for comprehensive permits until
+28 July 1, 2005, except by mutual agreement with the local review board.
+29 (3) Notwithstanding the provisions of subsection (e)(2) of this section, a local review board
+30 in a town which has submitted a plan in accordance with subsection (f) of this section, shall not be
+31 required to accept an application for a new comprehensive permit from a for-profit developer until
+32 October 1, 2005.
+33 (f) Towns and cities that are not in conformity with the provisions of § 45-53-3(5)(i) shall
+34 prepare by December 31, 2004, a comprehensive plan housing element for low- and moderate-
+LC001042 - Page 15 of 31
+
+1 income housing as specified by § 45-53-3(5)(ii), consistent with applicable law and regulation.
+2 That the secretary of the planning board or commission of each city or town subject to the
+3 requirements of this paragraph shall report in writing the status of the preparation of the housing
+4 element for low- and moderate-income housing on or before June 30, 2004, and on or before
+5 December 31, 2004, to the secretary of the state planning council, to the chair of the house
+6 committee on corporations and to the chair of the senate committee on commerce, housing and
+7 municipal government.
+8 (g) If any provision of this section or the application thereof shall for any reason be judged
+9 invalid, the judgment shall not affect, impair, or invalidate the remainder of this section or of any
+10 other provision of this chapter, but shall be confined in its effect to the provision or application
+11 directly involved in the controversy giving rise to the judgment, and a moratorium on the
+12 applications of for-profit developers pursuant to this chapter shall remain and continue to be in
+13 effect for the period commencing on the day this section becomes law [February 13, 2004] and
+14 continue until it shall expire on January 31, 2005, or until amended further.
+15 (h) In planning for, awarding, and otherwise administering programs and funds for housing
+16 and for community development, state departments, agencies, boards and commissions, and public
+17 corporations, as defined in chapter 18 of title 35, shall among the towns subject to the provision of
+18 § 45-53-3(5)(ii), give priority to the maximum extent allowable by law to towns with an approved
+19 affordable housing plan. The director of administration shall adopt not later than January 31, 2005,
+20 regulations to implement the provisions of this section.
+21 (i) Multi-family rental units built under a comprehensive permit may be calculated towards
+22 meeting the requirements of a municipality’s low- or moderate-income housing inventory, as long
+23 as the units meet and are in compliance with the provisions of § 45-53-3.1.
+24 45-53-5.1. Appeals — Judicial review.
+25 (a) Effective January 1, 2024, as a replacement to § 45-53-5. A decision of a local review
+26 board may be appealed by the applicant or an aggrieved party, as defined by § 45-24-31, to the
+27 superior court for the county in which the property is situated. The appeal shall be taken within
+28 twenty (20) days after the date of the recording and posting of the decision by the local review
+29 board, by filing with the superior court a complaint that contains a statement of the prior
+30 proceedings and the reasons upon which the appeal is based. The complaint shall name the local
+31 review board as the appellee and serve the local review board with the appeal within twenty (20)
+32 days of filing of the appeal. If an aggrieved party who or that is not the applicant files an appeal,
+33 the original applicant shall be named as a party and served in the same manner as the local review
+34 board.
+LC001042 - Page 16 of 31
+
+1 (b) The local review board shall not be required to answer the complaint, but it shall submit
+2 the complete local review board record to superior court within thirty (30) days of receiving service
+3 of the complaint. Should the local review board fail to file the record within thirty (30) days, the
+4 applicant may move for default.
+5 (c) The appeal shall be expedited and given priority on the court calendar as soon as proof
+6 of service of the complaint on the local review board is filed. The appeal shall be decided as soon
+7 as possible by the superior court, without delay.
+8 (d) The review shall be conducted by the superior court without a jury. The court shall
+9 consider the record of the hearing before the local review board and, if it appears to the court that
+10 additional evidence is necessary for the proper disposition of the matter, it may allow any party to
+11 the appeal to present that evidence in open court, which evidence, along with the record, constitutes
+12 the record upon which the determination of the court is made.
+13 (e) The superior court shall review the appeal under the following standards:
+14 (1) Whether the decision was arbitrary and capricious or clearly erroneous in light of
+15 considerations regarding:
+16 (i) The consistency of the decision to deny or condition the permit with the approved
+17 affordable housing plan;
+18 (ii) The extent to which the community meets or plans to meet housing needs, as defined
+19 in an affordable housing plan, including, but not limited to, the ten percent (10%) goal for existing
+20 low- and moderate-income housing units as a proportion of year-round housing;
+21 (iii) The consideration of environmental protection;
+22 (iv) The state’s need for low- and moderate-income housing;
+23 (v) The need to protect the health and safety of the occupants of the proposed housing or
+24 the residents of the city or town;
+25 (vi) The need to promote better site and building design in relation to the surroundings or
+26 to preserve open space; and
+27 (vii) Whether the reasons for denial, local zoning or land use ordinances, requirements and
+28 regulations are applied as equally as possible to both subsidized and unsubsidized housing.
+29 (f) If the appeal is by an applicant for a decision approving an application with conditions,
+30 the superior court shall, in addition to reviewing the standards and considerations set forth in
+31 subsection (e) of this section, determine whether such conditions and requirements imposed make
+32 the construction or operation of the housing infeasible.
+33 (g) The court shall not substitute its judgment for that of the local review board as to the
+34 weight of the evidence on questions of fact. The court may affirm the decision of the local review
+LC001042 - Page 17 of 31
+
+1 board or remand the case for further proceedings, or may reverse or modify the decision if
+2 substantial rights of the appellant have been prejudiced because of findings, inferences,
+3 conclusions, or decisions that were arbitrary, capricious or unreasonable.
+4 (h) An aggrieved party may, within twenty (20) days from the date of entry of the judgment
+5 of superior court, petition the supreme court of the state of Rhode Island for a writ of certiorari to
+6 review any questions of law involved. The petition for a writ of certiorari shall set forth the errors
+7 claimed. Upon the filing of such a petition with the clerk of the supreme court, the supreme court
+8 may, if it sees fit, issue its writ of certiorari to the superior court to certify to the supreme court the
+9 record of the record under review, or so much thereof as was submitted to the superior court by the
+10 parties, together with any additional record of the proceedings in the superior court.
+11 (i) Effective January 1, 2024, all matters pending before the state housing appeals board
+12 shall be transferred to superior court for the county in which the property is situated by the applicant
+13 filing a complaint in superior court and providing a copy of the complaint to the attorney
+14 representing the local review board within ten (10) days of filing. An applicant with an appeal
+15 pending before the state housing appeals board shall have until March 1, 2024, to file the complaint
+16 transferring the matter to superior court for the county in which the property is situated. The parties
+17 shall be required to file the entire record before the state housing appeals board with superior court
+18 within forty-five (45) days of the filing of the complaint.
+19 (j) Effective January 1, 2024, this section shall replace the provisions of § 45-53-5 and any
+20 reference in the general laws to § 45-53-5 shall mean § 45-53-5.1.
+21 45-53-6. Powers of state housing appeals board. [Expires January 1, 2024.]
+22 (a) Effective until January 1, 2024, the state housing appeals board shall have the powers
+23 to: (i) Adopt, amend, and repeal rules and regulations that are consistent with this chapter and are
+24 necessary to implement the requirements of §§ 45-53-5, 45-53-6, and 45-53-7; (ii) Receive and
+25 expend state appropriations; and (iii) Establish a reasonable fee schedule, which may be waived, to
+26 carry out its duties.
+27 (b) In hearing the appeal, the state housing appeals board shall determine whether: (i) In
+28 the case of the denial of an application, the decision of the local review board was consistent with
+29 an approved affordable housing plan, or if the town does not have an approved affordable housing
+30 plan, was reasonable and consistent with local needs; and (ii) In the case of an approval of an
+31 application with conditions and requirements imposed, whether those conditions and requirements
+32 make the construction or operation of the housing infeasible and whether those conditions and
+33 requirements are consistent with an approved affordable housing plan, or if the town does not have
+34 an approved affordable housing plan, are consistent with local needs.
+LC001042 - Page 18 of 31
+
+1 (c) In making a determination, the standards for reviewing the appeal include, but are not
+2 limited to:
+3 (1) The consistency of the decision to deny or condition the permit with the approved
+4 affordable housing plan and/or approved comprehensive plan;
+5 (2) The extent to which the community meets or plans to meet housing needs, as defined
+6 in an affordable housing plan, including, but not limited to, the ten percent (10%) goal for existing
+7 low- and moderate-income housing units as a proportion of year-round housing;
+8 (3) The consideration of the health and safety of existing residents;
+9 (4) The consideration of environmental protection; and
+10 (5) The extent to which the community applies local zoning ordinances and review
+11 procedures evenly on subsidized and unsubsidized housing applications alike.
+12 (d) If the appeals board finds, in the case of a denial, that the decision of the local review
+13 board was not consistent with an approved affordable housing plan, or if the town does not have an
+14 approved affordable housing plan, was not reasonable and consistent with local needs, it shall
+15 vacate the decision and issue a decision and order approving the application, denying the
+16 application, or approving with various conditions consistent with local needs. If the appeals board
+17 finds, in the case of an approval with conditions and requirements imposed, that the decision of the
+18 local review board makes the building or operation of the housing infeasible, and/or the conditions
+19 and requirements are not consistent with an approved affordable housing plan, or if the town does
+20 not have an approved affordable housing plan, are not consistent with local needs, it shall issue a
+21 decision and order, modifying or removing any condition or requirement so as to make the proposal
+22 no longer infeasible and/or consistent, and approving the application; provided, that the appeals
+23 board shall not issue any decision and order that would permit the building or operation of the
+24 housing in accordance with standards less safe than the applicable building and site plan
+25 requirements of the federal Department of Housing and Urban Development or the Rhode Island
+26 housing and mortgage finance corporation, whichever agency is financially assisting the housing.
+27 Decisions or conditions and requirements imposed by a local review board that are consistent with
+28 approved affordable housing plans and/or with local needs shall not be vacated, modified, or
+29 removed by the appeals board notwithstanding that the decision or conditions and requirements
+30 have the effect of denying or making the applicant’s proposal infeasible.
+31 (e) The appeals board or the applicant has the power to enforce the orders of the appeals
+32 board by an action brought in the superior court. The local review board shall carry out the decision
+33 and order of the appeals board within thirty (30) days of its entry and, upon failure to do so, the
+34 decision and order of the appeals board is, for all purposes, deemed to be the action of the local
+LC001042 - Page 19 of 31
+
+1 review board, unless the applicant consents to a different decision or order by the local review
+2 board. The decision and order of the appeals board is binding on the city or town, which shall
+3 immediately issue any and all necessary permits and approvals to allow the construction and
+4 operation of the housing as approved by the appeals board.
+5 (f) The state housing appeals board shall:
+6 (1) Upon an appeal of the applicant prior to August 1, 2004, rule on December 1, 2004, on
+7 the substantial completeness of applications as of February 13, 2004, that were affected by the
+8 moratorium established by § 45-53-4(b).
+9 (i) The determination of substantial completeness shall be based on whether there was on
+10 or before February 13, 2004, substantial completeness of substantially all of the following:
+11 (A) A written request to the zoning board of review to submit a single application to build
+12 or rehabilitate low- or moderate-income housing in lieu of separate applications to the application
+13 local boards;
+14 (B) A written list of variances, special use permits and waivers requested to local
+15 requirements and regulations, including local codes, ordinances, bylaws or regulations, including
+16 any requested waivers from the land development or subdivisions regulations, and a proposed
+17 timetable for completion of the project;
+18 (C) Evidence of site control;
+19 (D) Evidence of eligibility for a state or federal government subsidy, including a letter from
+20 the funding agency indicating the applicant and the project;
+21 (E) Site development plans showing the locations and outlines of proposed buildings; the
+22 proposed location, general dimensions, and materials for street, drives, parking areas, walks, and
+23 paved areas; proposed landscaping improvements and open areas within the site; and the proposed
+24 location and types of sewage, drainage, and water facilities;
+25 (F) A report on existing site conditions and a summary of conditions in the surrounding
+26 areas, showing the location and nature of existing buildings, existing street elevations, traffic
+27 patterns and character of open areas, including wetlands and flood plains, in the neighborhood;
+28 (G) A tabulation of proposed buildings by type, size (number of bedrooms, floor area) and
+29 ground coverage and a summary showing the percentage of the tract to be occupied by buildings,
+30 by parking and other paved vehicular areas and by open spaces;
+31 (H) A master plan, if the development proposal is for a major or minor land development
+32 plan or a major or minor subdivision;
+33 (I) A sample land lease or deed restrictions with affordability liens that will restrict use as
+34 low- and moderate-income housing units for a period of not less than thirty (30) years; and
+LC001042 - Page 20 of 31
+
+1 (J) The list of all persons entitled to notice in accordance with § 45-24-53.
+2 (ii) Notwithstanding the provisions of subsection (f)(1) of this section, if the zoning board
+3 of review determined the application to be substantially complete and/or acted in a manner
+4 demonstrating that it considered the application substantially complete for the purposes of
+5 reviewing the application, the state housing appeals board shall consider the application
+6 substantially complete.
+7 (2) Remand for hearing in accordance with the provisions of § 45-53-4 applications that
+8 are determined to be substantially complete, which hearings may be conducted (or resume) under
+9 the provisions in effect on February 13, 2004, unless the applicant and the board shall mutually
+10 agree that the hearing shall proceed under the provisions in effect on December 1, 2004, which
+11 hearings may commence on or after January 1, 2005, but shall commence not later than January
+12 31, 2005, on applications in the order in which they were received by the town, unless a different
+13 commencement date is mutually agreed to by the applicant and the local board hearing the
+14 applications; the local review board shall not be obligated to hear, and may deny, any application
+15 affected by the moratorium unless it was determined to be substantially complete in accordance
+16 with the provisions of subsection (f)(1) of this section, and the local review board may require such
+17 additional submissions as may be specified by the town or necessary for the review of the
+18 application.
+19 (3) Hear and decide appeals, other than those covered by subsection (f)(1) of this section,
+20 for which it took jurisdiction on or before May 1, 2004.
+21 (4) Continue to hear and decide appeals filed by nonprofit organizations.
+22 (5) Conduct such other business as may be reasonable and appropriate in order to facilitate
+23 an orderly transfer of activities to the state housing appeals board as it shall be constituted after
+24 January 1, 2005.
+25 (g) This section shall sunset on January 1, 2024.
+26 45-53-7. Housing appeals board. [Expires January 1, 2024.]
+27 (a)(1) Effective until January 1, 2024, there shall be within the state a housing appeals
+28 board consisting of nine (9) voting members and three (3) alternates as follows: one voting member
+29 who shall be from the Center for Justice Rhode Island; one voting member who shall be from Direct
+30 Action for Rights and Equality (DARE); and seven (7) voting members to be appointed by the
+31 governor, who shall include four (4) local officials, who shall not be from the same city or town;
+32 two (2) of whom shall be from a city or town with a population of less than twenty-five thousand
+33 (25,000); and two (2) of whom shall be from a city or town with a population of twenty-five
+34 thousand (25,000) or greater, and shall include one local zoning board member, one local planning
+LC001042 - Page 21 of 31
+
+1 board member, one city council member and one town council member, one of the local official
+2 members shall be designated by the governor as the alternative local official member who shall be
+3 a voting member of the board only in the event that one or more of the other three (3) local officials
+4 is unable to serve at a hearing; one affordable housing developer; one affordable housing advocate;
+5 one representative of the business community; and one attorney knowledgeable in land use
+6 regulation, who should be chairperson of the board. There shall be two (2) additional alternates
+7 appointed by the governor chosen from candidates submitted by realtors or developers doing
+8 business in the state and the alternates shall rotate service as a voting member at the discretion of
+9 the chairperson.
+10 (2) Those members of the board as of July 2, 2004, who were appointed to the board by
+11 members of the general assembly shall cease to be members of the board on July 2, 2004, and the
+12 governor shall thereupon nominate four (4) new members each of whom shall serve for the balance
+13 of the current term of his or her predecessor.
+14 (3) All other members of the commission as of July 2, 2004, shall continue to serve for the
+15 duration of their current terms.
+16 (4) All gubernatorial appointments made under this section after July 2, 2004, shall be
+17 subject to the advice and consent of the senate.
+18 (b)(1) All appointments are for two-year (2) terms; except as otherwise provided in
+19 subsection (a)(2) of this section, the terms of members appointed after December 31, 2004, shall
+20 be for three (3) years. Each member who is duly appointed or continued in office after January 1,
+21 2005, shall hold office for the term for which the member is appointed and until the member’s
+22 successor shall have been appointed and qualified, or until the member’s earlier death, resignation,
+23 or removal. A member shall receive no compensation for his or her services, but shall be reimbursed
+24 by the state for all reasonable expenses actually and necessarily incurred in the performance of his
+25 or her official duties. The board shall hear all petitions for review filed under § 45-53-5, and shall
+26 conduct all hearings in accordance with the rules and regulations established by the chair. Rhode
+27 Island housing shall provide space, and clerical and other assistance, as the board may require.
+28 (2) Provided, effective January 1, 2023, the Rhode Island housing resources commission
+29 (the “commission”) established pursuant to chapter 128 of title 42 shall provide all space, and
+30 clerical and other assistance, as the board may require. All duties and responsibilities of Rhode
+31 Island housing resources commission as to providing space, clerical and other assistance to the
+32 board pursuant to subsection (b)(1) of this section shall be transferred to the commission effective
+33 January 1, 2023.
+34 (c) This section shall sunset on January 1, 2024.
+LC001042 - Page 22 of 31
+
+1 45-53-8. Severability.
+2 If any provision of this chapter or of any rule, regulation, or determination made under this
+3 chapter, or its application to any person, agency, or circumstances, is held invalid by a court of
+4 competent jurisdiction, the remainder of the chapter, rule, regulation, or determination, and the
+5 application of the provision to other persons, agencies, or circumstances, shall not be affected
+6 thereby. The invalidity of any section or sections, or part of any section or sections, of this chapter
+7 shall not affect the validity of the remainder of the chapter.
+8 45-53-9. Oversight commission.
+9 (a) There is hereby created an oversight commission to be known as “The Housing Act of
+10 2013 Implementation Oversight Commission” to consist of fifteen (15) members: chair of house
+11 corporations or designee; chair of senate housing and municipal government or designee; two (2)
+12 members of the house appointed by the speaker, one of whom shall be from the minority party; two
+13 (2) members of the senate appointed by the senate president, one of whom shall be from the
+14 minority party; four (4) designees of the president of the League of Cities and Towns, two (2) of
+15 whom shall be from a municipality under twenty-five thousand (25,000) population, and two (2)
+16 of whom shall be from a municipality of twenty-five thousand (25,000) population or over; and
+17 one representative each from the Rhode Island Builders Association, Rhode Island Housing,
+18 Housing Action Coalition, Grow Smart Rhode Island and Housing Network.
+19 (b) The purposes of the commission shall be: (1) to monitor and evaluate the
+20 implementation of the act including the preparation and review, by statewide planning, of local
+21 plans; (2) to monitor the development and adoption of the state strategic housing plan by the
+22 housing resources commission and statewide planning; (3) to review the progress reports submitted
+23 by the housing resources commission; (4) to recommend any changes that may be needed in the
+24 law; and (5) to assess the need for resources to accomplish housing objectives and to make
+25 recommendations.
+26 (c) Forthwith upon the passage of this act, the members shall meet at the call of the speaker,
+27 and shall elect from among themselves co-chairs, who shall be legislators. Vacancies in said
+28 commission shall be filled in the manner as the original appointment.
+29 (d) The commission is empowered to appoint committees, which may include persons who
+30 are not members of the commission. Five (5) members of the commission shall constitute a quorum.
+31 All departments and agencies of the state shall furnish such advice and information, documentary
+32 and otherwise, to said commission and its agents as necessary or desirable to accomplish the
+33 purpose set forth in this section. The speaker is hereby authorized and directed to provide quarters
+34 for the commission. The commission shall report findings and recommendations to the general
+LC001042 - Page 23 of 31
+
+1 assembly on or before March 1, 2017. The commission shall expire on March 31, 2020.
+2 45-53-10. Repurposing of vacant schools for affordable housing program.
+3 (a) There is hereby established the repurposing of school buildings for an affordable
+4 housing program (the “program”). The program shall be administered by the secretary of housing
+5 as set forth herein.
+6 (b) The purpose of the program shall be to provide guidance and assistance in the
+7 repurposing of vacant and unused school buildings as identified and existing as of July 1 of each
+8 year, commencing October 1, 2022.
+9 (c) The department of elementary and secondary education (the “department”) shall,
+10 commencing on October 1, 2022, on an annual basis, provide to the speaker of the house, the
+11 president of the senate, and the secretary of housing a list of all school buildings that have been
+12 abandoned or are no longer being used by a school district.
+13 (d)(1) In the case of a municipality that has less than ten percent (10%) low- or moderate-
+14 income housing as defined in § 45-53-3, the municipality shall provide the department with a
+15 complete list of buildings abandoned or no longer being used by the school district for the purposes
+16 of conducting a feasibility assessment to repurpose the building as affordable housing. In the case
+17 of a municipality that has greater than ten percent (10%) low- and moderate-income housing as
+18 defined in § 45-53-3, the municipality may offer to the department a list of buildings abandoned or
+19 no longer being utilized by the school district by an affirmative vote of a majority of both the
+20 governing body of the school board and the municipality, and have voted to be willing to offer the
+21 former school building for a feasibility assessment for use by the program. In the case of buildings
+22 being abandoned or no longer used by a charter school that owns the school building in question,
+23 an affirmative vote of the governing body of the charter school and/or mayoral academy shall be
+24 required. The department shall also include and identify in the list those school buildings that the
+25 department anticipates will become abandoned or no longer used by a school district within the
+26 next six (6) months following the issuance of the list.
+27 (2) The secretary of housing shall conduct an assessment, in conjunction with a task force
+28 comprised of the Rhode Island housing and mortgage finance corporation, the department of
+29 environmental management, the department of health, a fire marshal, the local building inspector,
+30 and the local planning office, into its feasibility to be repurposed as affordable housing, and the
+31 anticipated costs of renovating the building for that intended purpose. This assessment shall be
+32 completed within one hundred and fifty (150) days after being notified by the task force of the
+33 availability of a vacant building available pursuant to this section.
+34 (3) Once a building is determined by the task force to be appropriate for repurposing as
+LC001042 - Page 24 of 31
+
+1 affordable housing, the office of housing and community development shall actively identify and
+2 invite prospective developers to submit an application to the program, with the goal of repurposing
+3 the building into affordable housing.
+4 (e) The office of housing and community development shall maintain on its website a
+5 separate page related to the repurposing of buildings for the affordable housing program. This
+6 website shall contain a listing of all buildings for which a feasibility assessment was conducted and
+7 the outcome of the assessment, including a general statement of the condition of the property, an
+8 estimate of the types of renovations, if any, that must be performed to the property, a copy of the
+9 feasibility assessment, and an estimate of the costs thereof. Provided, it shall be made clear on the
+10 website that these are estimates to repurpose used buildings, and that neither the state, the
+11 corporation, the division, the commission, or any instrumentality of the state or of a municipality
+12 or school district shall be liable for any estimates that are incorrect.
+13 (f) The office of housing and community development shall seek to assist and facilitate
+14 persons and developers who or that want to repurpose former buildings as affordable housing. This
+15 assistance may include, but need not be limited to, technical and financial assistance, all to assist
+16 in the repurposing of the school building.
+17 (g) The Rhode Island department of education shall promulgate rules and regulations for
+18 the implementation and enforcement of this section.
+19 (h) The secretary of housing shall provide an annual report on or before December 31,
+20 commencing with calendar year 2023, including, but not limited to, the number of schools that are
+21 vacant and include a status report of any development and/or feasibility to repurpose a vacant
+22 building.
+23 (i) As used herein, the term “affordable housing” means housing that meets the definition
+24 for low- or moderate-income housing in § 45-53-3.
+25 45-53-11. Annual comprehensive permit report.
+26 (a) The department of housing shall maintain records and shall prepare a report (“report”)
+27 on an annual basis to be submitted to the speaker of the house, the president of the senate, and the
+28 housing resources commission. The report shall also be made available on the department’s website
+29 for a period of at least three (3) years, and shall also be deemed to be a public record. The report
+30 shall be due on or before March 15, of each year, commencing in calendar year 2023.
+31 (b) The report required by this section shall contain the following for the preceding twelve-
+32 month (12) calendar period covered by the report:
+33 (1) The number of letters of eligibility issued for low- and moderate-income housing for
+34 applications made pursuant to this chapter and § 42-55-5.3, the federal, state, and municipal subsidy
+LC001042 - Page 25 of 31
+
+1 programs under which they were eligible, and the number of proposed subsidized units involved,
+2 by city and town, during the preceding calendar year, as provided by the Rhode Island housing
+3 corporation.
+4 (2) The status of each comprehensive permit application for which a letter of eligibility
+5 was issued disaggregated by municipality.
+6 (3) The number of comprehensive permit applications that have had building permits
+7 issued, including the number of market rate housing units, the number of low- and moderate-
+8 income housing units, and the AMI restrictions associated both pursuant to § 45-53-4, aggregated
+9 by the total number of such applications in the state and disaggregated by each municipality in the
+10 state.
+11 (4) The number of comprehensive permit applications that have had certificates of
+12 occupancy issued, aggregated by the total number of such applications in the state and
+13 disaggregated by each municipality in the state.
+14 (c) Each municipality shall annually provide to the department the information on
+15 comprehensive permit activity described in subsection (b) of this section by February 1.
+16 45-53-12. Annual report.
+17 (a) The Rhode Island housing corporation established pursuant to chapter 55 of title 42 (the
+18 “corporation”) shall collect data on the number of Section 8 Housing Choice Vouchers, as
+19 authorized by 42 U.S.C. § 1437(f) (“vouchers”), that are received and utilized by the public housing
+20 authorities (PHA) and agencies.
+21 (b) The office of housing and community development (OHCD) shall prepare a report
+22 (“report”) on an annual basis to the general assembly, the housing resources commission, the Rhode
+23 Island housing corporation, the division of statewide planning, and the secretary of housing. The
+24 report required by this section shall be made available on the OHCD website for a period of at least
+25 three (3) years, and shall be deemed to be a public record. The report shall be due on or before
+26 March 1 of each year, commencing in the calendar year 2023.
+27 (c) The annual report required by this section shall contain the following information for
+28 the twelve-month (12) calendar period covered by the report commencing January 1, 2022, through
+29 December 31, 2022, and annually thereafter on an aggregated and disaggregated basis by each
+30 public housing authority:
+31 (1) The total fees collected by each municipality from developers in lieu of development
+32 of low- and moderate-income housing as defined in § 45-24-46.1.
+33 (2) The number of unfunded vouchers that result either due to cost of rent or due to an
+34 unavailability of housing units. The information required by this subsection shall be provided by
+LC001042 - Page 26 of 31
+
+1 all public housing authorities or agencies directly to the office of housing and community
+2 development (OHCD).
+3 (3) The total number of vouchers received and utilized by all public housing authorities in
+4 the state during the preceding calendar year.
+5 (4) The administrative fees received and utilized by the public housing authorities to
+6 administer the vouchers.
+7 (d) As used herein, the term “public housing authority and agency” means and includes
+8 any public housing authority or agency established under chapter 25 of this title or chapter 26 of
+9 this title.
+10 45-53-13. Annual status report on appeals.
+11 (a) The Rhode Island housing resources commission established pursuant to chapter 128
+12 of title 42 (the “commission”) shall maintain accurate records and shall prepare an annual status
+13 report (“status report”) on all active cases and appeals pending before the state housing appeals
+14 board (the “board”). The status report shall be forwarded to the secretary of housing, the speaker
+15 of the house, and the president of the senate. Each report shall also be made available on the
+16 commission’s website for a period of at least three (3) years, and shall also be deemed to be a public
+17 record. The report shall be due on or before March 15 of each year, commencing in the calendar
+18 year 2023.
+19 (b) The report required by this section shall contain the following information for the
+20 twelve-month (12) calendar period covered by the report:
+21 (1) The total number of appeals pending before the board;
+22 (2) The number of appeals for which a decision has been rendered, have been settled by
+23 agreement, or have otherwise been disposed of during the previous calendar year;
+24 (3) The number of board decisions which were appealed in the previous calendar year and
+25 the status of those cases; and
+26 (4) The length of time for the board to decide appeals in the previous calendar year
+27 aggregated by:
+28 (i) Appeals decided by the board within six (6) months;
+29 (ii) Appeals decided by the board within six (6) to nine (9) months; and
+30 (iii) Appeals decided by the board in more than nine (9) months.
+31 45-53-14. Database of low-income rental units.
+32 (a) The Rhode Island housing and mortgage finance corporation established pursuant to §
+33 42-55-4 (the “corporation”) shall maintain an online database (“database”) of low-income housing
+34 tax credit developments that are designated only for households at or below sixty percent (60%) of
+LC001042 - Page 27 of 31
+
+1 area median income, adjusted for household size and subsidized housing developments, as
+2 referenced in the corporation’s Rhode Island resource guide, which are designated only for
+3 households at or below eighty percent (80%) of area median income, adjusted for household size
+4 (collectively “low-income rental units”) in the state on the corporation’s website. The corporation
+5 shall place an emphasis on the database containing the following:
+6 (1) Current, updated information on the existing inventory of low-income rental units in
+7 the state;
+8 (2) The contact person or entity and contact information pertaining to individual
+9 developments;
+10 (3) To the extent the information is available, a copy of the application to apply for housing
+11 in individual developments; and
+12 (4) Information pertaining to any special populations, including, but not limited to, elderly,
+13 disabled, homeless individuals, and victims of domestic violence, served by individual
+14 developments.
+15 (b) This database shall be accessible to the public by July 1, 2023.
+16 45-53-15. Annual reports.
+17 (a) The Rhode Island housing corporation established pursuant to § 42-55-4 (the
+18 “corporation”) shall provide the annual reports pursuant to subsections (b) and (c) of this section to
+19 the speaker of the house, the president of the senate, the housing resources commission, the division
+20 of statewide planning, and the secretary of housing. Reports shall be made available on the
+21 corporation’s website for a period of at least three (3) years, and shall be deemed to be a public
+22 record. Reports shall be due on or before March 15, of each year, commencing in the calendar year
+23 2023.
+24 (b) Report on Rhode Island housing corporation housing development and preservation
+25 activity. This report shall include the following information:
+26 (1) The identity of projects that have been provided funding by the corporation for housing
+27 development or preservation and that closed on that financing by December 31 of the previous
+28 calendar year;
+29 (2) The total aggregate of funds, in dollar amounts, that have been provided to projects by
+30 the corporation for housing development or preservation and that closed on that financing by
+31 December 31, of the previous calendar year, as well as those amounts disaggregated by each
+32 project; and
+33 (3) The number of housing units that received funding from the corporation for housing
+34 development or preservation that received a certificate of occupancy in the previous calendar year,
+LC001042 - Page 28 of 31
+
+1 both in total and disaggregated by project.
+2 (c) Report on tax payments made by affordable housing developments to municipalities
+3 pursuant to § 44-5-13.11. This report shall include data aggregated by all the municipalities and
+4 disaggregated by each individual municipality on the total amount of fees collected in the previous
+5 calendar year by municipalities on any assessment and taxation made pursuant to § 44-5-13.11.
+6 (d) With regard to the report in subsection (c) of this section, all municipalities in the state
+7 shall annually submit to the corporation by January 15, of each year, the total amount of fees
+8 collected in the previous calendar year by the municipality on any assessment and taxation made
+9 pursuant to § 44-5-13.11 disaggregated by individual development.
+10 45-53-16. Electronic permitting.
+11 (a) On or before October 1, 2025, every municipality in the state shall adopt and implement
+12 electronic permitting for all development applications under this chapter. For purposes of this
+13 section, “electronic permitting” means use of computer-based tools and services that automate and
+14 streamline the application process to include, but not be limited to, task-specific tools for:
+15 applications; submission of plans; completed checklists and checklist documents; reports; plan
+16 review; permitting; scheduling; project tracking; staff and technical review committee comments;
+17 fee calculation and collection.
+18 (b) The state building commissioner, with the assistance of the office of regulatory reform
+19 and the division of statewide planning, pursuant to the provisions of § 23-27.3-108.2 may
+20 promulgate rules and regulations to implement the provisions of this section.
+21 (c) The local towns and cities shall charge each applicant an additional one-tenth of one
+22 percent (.001%) of the total application fee for each application submitted. This additional amount
+23 shall be transmitted monthly to the state building office at the department of business regulation,
+24 and shall be used to staff and support the purchase or lease and operation of one web-accessible
+25 service and/or system to be utilized by the state and municipalities for the uniform, statewide
+26 electronic submission, review and processing of development applications as set forth in this
+27 section.
+28 (d) On or before October 1, 2025, notwithstanding any other provision of this chapter to
+29 the contrary, all acts, requirements, filings, and documents necessary to comply with the application
+30 process shall be conducted by means of electronic permitting.
+31 (e) The department of business regulation shall reimburse annual fees and costs associated
+32 with compliance with this program in accordance with procedures established by the department.
+LC001042 - Page 29 of 31
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001042
+========
+LC001042 - Page 30 of 31
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+***
+1 This act would repeal the chapter entitled "Low and Moderate Income Housing".
+2 This act would take effect upon passage.
+========
+LC001042
+========
+LC001042 - Page 31 of 31
+
+[DELETED: TATE  OF  RHODE  ISLAND B R Q N P H P S H C L 4 T A 4 T a a a c a c s o s d f l a m i h a a l a m i]
+[DELETED:  h 4 T a ( l s s f t l r b c o a i s f i § 4 4 ( 4 g a ( a p a p b t s p c p h t s r a a h 4 ( t ( m a o s o t p o s a i t l z o l u o r a r a a a e a p t b s a u c i ( t l r]
+[DELETED:  r y ( r c f h i ( M r u b u a c p m b c t a ( f o f l c i t ( f ( ( a p p p a p m o ( b h]
+[DELETED:  ( A m o m h  t m t r o § 4 8 n ( r v b s t o b ( L o m h a i r p l w a m ( l p t c h s ( p t a ( i ( h s ( c 4 s a a c o b n l t d f a]
+[DELETED:  c 4 a ( e p i ( e o ( e s ( T p a u m a o r o t c t b c ( i ( ( U ( u e 4 ( E J 1 2 t R I h r c ( “ e a ( p p r t r]
+[DELETED:  c ( t ( i D ( f ( a a ( t L r i p r ( c ( ( e ( t h a ( a ( m ( e a]
+[DELETED:  a ( c s 4 ( l s i ( b m h u i a d u t c A a m t f ( t i t a d u p a ( a w a o i a m g m t d ( s b h ( s b s ( p d h ( c]
+[DELETED:  o w t f t s t d u f t a s a m ( c o w t f t s t d u f t a s a i ( c o w t f t s t d u f t a s a m ( d c ( s f ( F a A m s n u f a r t l a a ( l m r ( ( p r e a o d s p]
+[DELETED:  a d b s a f ( ( s ( A l o e i b t R I h a m f c U a ( s a ( p ( w t e o e o s o f p a f c p a p ( m l p ( c p o i a i o]
+[DELETED:  t i ( r ( t ( r T ( T f r T l r b s r a d o t p p a w n ( d o t d t a i c c s ( c f i r a i ( s t f ( c p ( m z o a s r a w a a r o ( d p a w b b a o p t o s w t c a]
+[DELETED:  o ( f r o t c i a i b n l t s c o p o c ( p 6 ( p a p ( l h a a a h p a i m h n a t p i i t i c w p r h t p a ( t a p s v t]
+[DELETED:  d ( p w r a ( i ( o ( l ( l t y ( i c ( A f c o t r p i i c ( ( F p p p t f p s b a b c o a d n p s o a e p i ( o h a i a i o t]
+[DELETED:  i ( ( p ( ( p m b a a b t a o w f p a d t a t ( p h t ( d o s o t f p a i t a o i r t a ( a i f s ( c t ( t t p r ( c e b t l r b t p c o a a]
+[DELETED:  i o ( c s f s n p a s b a a t t f m t p f i ( R o w d A w d o a u t c b s r a ( p a a c ( s ( s f b t ( a a t n o d u i c p a f f d t e p a f f d w a m p t t p s (]
+[DELETED:  s r t s o i t t h r c i t d a s w w ( F 1 2 a r c h w t ( d o r 5 h d f ( R a i e p i p i o t u o t p o t c b p f d w m p t p ( J ( i r O ( p]
+[DELETED:  i T t s o t p b o c o e c o t s t t r e D 3 2 t t s o t s p c t t c o t h c m ( i o d i i t c g r t t j a a m o t a e c ( a c § a r ( m a 4 ( b s t b b f w t s c a c  t c a s o t p p r d t b]
+[DELETED:  ( t o a ( o a ( c a t t ( ( c ( a ( i l ( ( ( t ( t ( r ( t s t ( w]
+[DELETED:  b o r t c f f p o m r o m t d i s r o t a h b p b o f i c ( o r c m r p ( s f a c i s c a p a c o t c t t a r p t s w ( r 4 ( t n e c ( t a p a m r a]
+[DELETED:  ( l ( a ( i l ( ( ( T e t w t c a l z o a r p ( b a v t d a i a d a o a t a d t a f l a n d n b h i a w s l s t t a b a s p r h D a r h ( b a d]
+[DELETED:  r b i o ( ( t m ( o ( o l ( A w l o v s u p a w r t l r a t ( ( t ( p p l ( a p ( g b ( p ( l]
+[DELETED:  ( ( o r d t a t b s c a a i a m d t i c t a s c f t p o r t a t s h a b s c t a s ( a t a h 3 c d i m a t b t a a t l b h t a a w a s a m b s b t t o n f t r o t a ( f ( ( a J ( 4 ( b w A g t ( t]
+[DELETED:  b m a i o r o t b c a o a k i l u r a b t g c c b r o d d b t ( m g o ( d ( s ( A a a f t ( t e a o p i s b 2 s o b o c I ( ( c I b J (]
+[DELETED:  4 I c c a t s 4 ( 2 c m ( m w o o r e f t R I B A R I H H ( T p o t c s b ( t m a e t i p h b l a ( t a t n f r t a h o a t m r ( a s f a t c w s b l i s c ( a A a p f]
+[DELETED:  a 4 ( T i h e t r o s b f a a h a ( T p o t p s b t p g a a i t r y ( T d o e a s e ( “ s c p a ( i c o o d n g f b a r d n ( c o t R I a m f c t d o e a a c a (]
+[DELETED:  a i t ( s w t e f w t t a e t r u b a t n t s t c o ( p a i ( t ( c v b ( f 4 ( o h f s ( m ( a]
+[DELETED:  p b c ( w ( n o p a h h b p i i b s ( T n o c p a t h h c o o i a b t t n o s a i t s a d ( E m s a p t t d t i o c 4 ( “ s c d o t n o S 8 H C V a a a ( ( I r t M ( t D p ( o ( u]
+[DELETED:  a p h a o a d t t o o h a c d ( t ( a f r a u b t p h a t a ( a t 4 ( o r b o c r y ( t ( ( a ( t ( o t f t b d a t p c y a ( ( ( 4 ( 4 t]
+[DELETED:  a m i a f h s a s h d a r i t c R I r g w a d o f h ( s ( t ( T c p o e a c i p t i d ( i ( d h i a v o d v s b i d ( 4 ( T R I h c e p t § 4 ( “ t o s p a t s o h R s b m a o t c r 2 ( a ( d c ( t D p ( d]
+[DELETED:  b ( p d c ( s c p 4 ( e s s t a p t i b n b l t t t f a r f ( a t d o s p p t t p o § 2 m p ( p s a s e s r p o a s ( t p ( w ]
+[DELETED:  S]
+[DELETED:  T T]

@@ -1,0 +1,254 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 6055
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6055
+========
+LC002347
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+INTEREST AND USURY
+Introduced By: Representatives Potter, Cruz, Sanchez, Alzate, J. Lombardi, Slater, and
+Giraldo
+Date Introduced: March 12, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 6-26 of the General Laws entitled "Interest and Usury" is hereby
+2 amended by adding thereto the following section:
+3 6-26-11. The Federal Depository Institutions Deregulation and Monetary Control Act
+4 of 1980.
+5 In accordance with section 525 of the Depository Institutions Deregulation and Monetary
+6 Control Act of 1980 (Pub. L. 96-221; 94 Stat. 161) (“DIDMCA”), it is hereby expressly provided
+7 that the State of Rhode Island rejects the application of the amendments made by sections 521
+8 through 523 of DIDMCA with respect to loans made in the State of Rhode Island.
+9 SECTION 2. Title 19 of the General Laws entitled "FINANCIAL INSTITUTIONS" is
+10 hereby amended by adding thereto the following chapter:
+11 CHAPTER 14.12
+12 ANTI-EVASION OF LENDING RULES ACT OF 2025
+13 19-14.12-1. Short title.
+14 This chapter shall be known and may be cited as “The Anti-Evasion of Lending Rules Act
+15 of 2025.”
+16 19-14.12-2. Application.
+17 This chapter shall apply to any loan made according to chapters 14.1 and 14.2 of title 19
+18 and shall apply to any loan made in the State of Rhode Island through any medium whatsoever
+1 including, but not limited to, paper, mail, facsimile, Internet, telephone or any electronic means,
+2 regardless of whether the lender has a physical presence in the state.
+3 19-14.12-3. Prohibition of subterfuge to evade lending rules and interest rate limits.
+4 No person shall engage in any device, subterfuge, or pretense to evade the requirements of
+5 this chapter or chapters 14.1 and 14.2 of title 19 including, without limitation to:
+6 (1) Making a loan disguised as a personal or real property sale and leaseback transaction;
+7 (2) Disguising loan proceeds as a cash rebate for the pretextual sale of goods or services;
+8 (3) Disguising a loan as the sale or assignment of goods, services or things in action;
+9 (4) Disguising loan charges, interest or the annual percentage rate, including without
+10 limitation in the price of goods, services or things in action;
+11 (5) Offering, charging, contracting for, receiving, arranging or facilitating interest, fees,
+12 charges, or other payments or consideration in excess of those permitted by chapters 14.1 and 14.2
+13 of title 19;
+14 (6) Otherwise obscuring the fact that the transaction is a loan or that it is subject to this
+15 chapter or chapters 14.1 and 14.2 of title 19.
+16 19-14.12-4. Application to persons purporting not to be lenders.
+17 If a loan exceeds the rate permitted by chapters 14.1 and 14.2 of title 19, a person shall be
+18 a lender subject to the requirements of this chapter notwithstanding the fact that the person purports
+19 to act as an agent or service provider or in another capacity for another entity that is exempt from
+20 chapters 14.1 and 14.2 of title 19, if, among other things:
+21 (1) The person holds, acquires, or maintains, directly or indirectly, the predominant
+22 economic interest, risk or reward, in the loan;
+23 (2) The person:
+24 (i) Markets, solicits, brokers, arranges, facilitates or services loans and directly or
+25 indirectly;
+26 (ii) Holds or has the right to, requirement to, first right of refusal to, or expectation that it
+27 will acquire the loans, a share of receivables or another direct or indirect interest in the loans or
+28 loan program; or
+29 (3) The totality of the circumstances indicate that the person is the lender and that the
+30 transaction is structured to evade the requirements of chapters 14.1 and 14.2 of title 19.
+31 Circumstances that weigh in favor of a person being a lender include, without limitation, when the
+32 person:
+33 (i) Indemnifies, insures or protects an exempt entity from costs or risks related to the loan;
+34 (ii) Predominantly designs, controls or operates the loan program;
+LC002347 - Page 2 of 4
+1 (iii) Holds the trademark or intellectual property rights in the brand, underwriting system,
+2 or other core aspects of the loan program; or
+3 (iv) Purports to act as an agent or service provider or in another capacity for an exempt
+4 entity while acting directly as a lender in other states.
+5 19-14.12-5. Facilitating loans.
+6 No person shall solicit, broker, or engage in any other activity intended to facilitate or result
+7 in, or that in fact facilitates or results in, the origination of a loan that violates chapters 14.1 and
+8 14.2 of title 19.
+9 19-14.12-6. Violations.
+10 (a) A loan made in violation of this chapter shall be void and uncollectible as to any
+11 principal, fee, interest, charge or payment, and the borrower shall be entitled to restitution of any
+12 amounts paid.
+13 (b) An action for violation of this chapter may be brought in any court of competent
+14 jurisdiction.
+15 (c) Any person who violates this chapter is liable to the borrower for:
+16 (1) Actual and consequential damages, including treble the amount of any excess fee,
+17 interest, charge, or payment;
+18 (2) Statutory damages of one thousand dollars ($1,000) per violation;
+19 (3) Reasonable attorneys' fees and costs; and
+20 (4) Any other legal or equitable relief that the court deems appropriate in addition to any
+21 other remedies provided at law.
+22 SECTION 3. This act shall take effect on October 1, 2025.
+========
+LC002347
+========
+LC002347 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTEREST AND USURY
+***
+1 This act would allow Rhode Island to opt out of the provisions of the “Depository
+2 Institutions Deregulation and Monetary Control Act of 1980” (DIDMCA), for loans made within
+3 the State of Rhode Island, which allow financial institutions chartered in other states to be exempt
+4 from interest rate limits which apply to financial institutions chartered in Rhode Island. This act
+5 would also prevent evasion of Rhode Island’s interest rate limits and lending rules by making clear
+6 that lenders, whether they identify themselves as such or not, remain bound by Rhode Island’s
+7 lending laws for both small loans and loans in general.
+8 This act would take effect on October 1, 2025.
+========
+LC002347
+========
+LC002347 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S a 6 o I C t t S h C A 1 T o 1 T a]
+[DELETED:  i r 1 N t ( ( ( ( D l c i o t a p r i w l ( c o ( c 1 I a t c ( T p h a o m d o i t p e ( ( M s b a f o s l a d o i ( w l ( t i s t e t r o c 1 a 1 o t 1 C p ( (]
+[DELETED:  ( o ( e 1 N i 1 1 ( p a ( j ( ( i ( ( ( o S]
+[DELETED:  T a w a R I t o o o t p o t “ I t f w t l T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6055
+========
+LC002347
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTEREST AND USURY
+Introduced By: Representatives Potter, Cruz, Sanchez, Alzate, J. Lombardi, Slater, and
+Giraldo
+Date Introduced: March 12, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 6-26 of the General Laws entitled "Interest and Usury" is hereby
+2 amended by adding thereto the following section:
+3 6-26-11. The Federal Depository Institutions Deregulation and Monetary Control Act
+4 of 1980.
+5 In accordance with section 525 of the Depository Institutions Deregulation and Monetary
+6 Control Act of 1980 (Pub. L. 96-221; 94 Stat. 161) (“DIDMCA”), it is hereby expressly provided
+7 that the State of Rhode Island rejects the application of the amendments made by sections 521
+8 through 523 of DIDMCA with respect to loans made in the State of Rhode Island.
+9 SECTION 2. Title 19 of the General Laws entitled "FINANCIAL INSTITUTIONS" is
+10 hereby amended by adding thereto the following chapter:
+11 CHAPTER 14.12
+12 ANTI-EVASION OF LENDING RULES ACT OF 2025
+13 19-14.12-1. Short title.
+14 This chapter shall be known and may be cited as “The Anti-Evasion of Lending Rules Act
+15 of 2025.”
+16 19-14.12-2. Application.
+17 This chapter shall apply to any loan made according to chapters 14.1 and 14.2 of title 19
+18 and shall apply to any loan made in the State of Rhode Island through any medium whatsoever
+
+1 including, but not limited to, paper, mail, facsimile, Internet, telephone or any electronic means,
+2 regardless of whether the lender has a physical presence in the state.
+3 19-14.12-3. Prohibition of subterfuge to evade lending rules and interest rate limits.
+4 No person shall engage in any device, subterfuge, or pretense to evade the requirements of
+5 this chapter or chapters 14.1 and 14.2 of title 19 including, without limitation to:
+6 (1) Making a loan disguised as a personal or real property sale and leaseback transaction;
+7 (2) Disguising loan proceeds as a cash rebate for the pretextual sale of goods or services;
+8 (3) Disguising a loan as the sale or assignment of goods, services or things in action;
+9 (4) Disguising loan charges, interest or the annual percentage rate, including without
+10 limitation in the price of goods, services or things in action;
+11 (5) Offering, charging, contracting for, receiving, arranging or facilitating interest, fees,
+12 charges, or other payments or consideration in excess of those permitted by chapters 14.1 and 14.2
+13 of title 19;
+14 (6) Otherwise obscuring the fact that the transaction is a loan or that it is subject to this
+15 chapter or chapters 14.1 and 14.2 of title 19.
+16 19-14.12-4. Application to persons purporting not to be lenders.
+17 If a loan exceeds the rate permitted by chapters 14.1 and 14.2 of title 19, a person shall be
+18 a lender subject to the requirements of this chapter notwithstanding the fact that the person purports
+19 to act as an agent or service provider or in another capacity for another entity that is exempt from
+20 chapters 14.1 and 14.2 of title 19, if, among other things:
+21 (1) The person holds, acquires, or maintains, directly or indirectly, the predominant
+22 economic interest, risk or reward, in the loan;
+23 (2) The person:
+24 (i) Markets, solicits, brokers, arranges, facilitates or services loans and directly or
+25 indirectly;
+26 (ii) Holds or has the right to, requirement to, first right of refusal to, or expectation that it
+27 will acquire the loans, a share of receivables or another direct or indirect interest in the loans or
+28 loan program; or
+29 (3) The totality of the circumstances indicate that the person is the lender and that the
+30 transaction is structured to evade the requirements of chapters 14.1 and 14.2 of title 19.
+31 Circumstances that weigh in favor of a person being a lender include, without limitation, when the
+32 person:
+33 (i) Indemnifies, insures or protects an exempt entity from costs or risks related to the loan;
+34 (ii) Predominantly designs, controls or operates the loan program;
+LC002347 - Page 2 of 4
+
+1 (iii) Holds the trademark or intellectual property rights in the brand, underwriting system,
+2 or other core aspects of the loan program; or
+3 (iv) Purports to act as an agent or service provider or in another capacity for an exempt
+4 entity while acting directly as a lender in other states.
+5 19-14.12-5. Facilitating loans.
+6 No person shall solicit, broker, or engage in any other activity intended to facilitate or result
+7 in, or that in fact facilitates or results in, the origination of a loan that violates chapters 14.1 and
+8 14.2 of title 19.
+9 19-14.12-6. Violations.
+10 (a) A loan made in violation of this chapter shall be void and uncollectible as to any
+11 principal, fee, interest, charge or payment, and the borrower shall be entitled to restitution of any
+12 amounts paid.
+13 (b) An action for violation of this chapter may be brought in any court of competent
+14 jurisdiction.
+15 (c) Any person who violates this chapter is liable to the borrower for:
+16 (1) Actual and consequential damages, including treble the amount of any excess fee,
+17 interest, charge, or payment;
+18 (2) Statutory damages of one thousand dollars ($1,000) per violation;
+19 (3) Reasonable attorneys' fees and costs; and
+20 (4) Any other legal or equitable relief that the court deems appropriate in addition to any
+21 other remedies provided at law.
+22 SECTION 3. This act shall take effect on October 1, 2025.
+========
+LC002347
+========
+LC002347 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTEREST AND USURY
+***
+1 This act would allow Rhode Island to opt out of the provisions of the “Depository
+2 Institutions Deregulation and Monetary Control Act of 1980” (DIDMCA), for loans made within
+3 the State of Rhode Island, which allow financial institutions chartered in other states to be exempt
+4 from interest rate limits which apply to financial institutions chartered in Rhode Island. This act
+5 would also prevent evasion of Rhode Island’s interest rate limits and lending rules by making clear
+6 that lenders, whether they identify themselves as such or not, remain bound by Rhode Island’s
+7 lending laws for both small loans and loans in general.
+8 This act would take effect on October 1, 2025.
+========
+LC002347
+========
+LC002347 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 6 o I C t t S h C A 1 T o 1 T a]
+[DELETED:  i r 1 N t ( ( ( ( D l c i o t a p r i w l ( c o ( c 1 I a t c ( T p h a o m d o i t p e ( ( M s b a f o s l a d o i ( w l ( t i s t e t r o c 1 a 1 o t 1 C p ( (]
+[DELETED:  ( o ( e 1 N i 1 1 ( p a ( j ( ( i ( ( ( o S]
+[DELETED:  T a w a R I t o o o t p o t “ I t f w t l T]

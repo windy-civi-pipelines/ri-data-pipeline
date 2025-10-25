@@ -1,0 +1,195 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- HEALTH CARE FOR
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- HEALTH CARE FOR
+Number of Sections: 1
+Source: versions - 5988
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5988
+========
+LC001642
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CHILDREN AND PREGNANT WOMEN
+Introduced By: Representatives Tanzi, Handy, Ajello, McGaw, Kislak, Hull, Carson,
+Morales, Potter, and Cortvriend
+Date Introduced: February 28, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings. The general assembly finds and declares:
+2 (1) Rhode Island pediatricians are facing a major workforce crisis which is causing
+3 decreased healthcare access for children. Without significant intervention, the situation is expected
+4 to worsen and negatively impact not only the health or our children, but the long-term health of the
+5 adults in our state.
+6 (2) According to a 2024 survey of Rhode Island pediatricians, less than fifty percent (50%)
+7 of pediatric primary care offices were accepting new or transfer patients other than newborns or
+8 siblings of current patients. Families that move to Rhode Island to work, or those whose pediatric
+9 providers retire, cannot find a doctor to care for their child.
+10 (3) The same survey showed that forty-two (42) of one hundred fifty-six (156), twenty-six
+11 and nine-tenths percent (26.9%) of respondents, stated that they plan to retire within the next six
+12 (6) years. This correlates to a potential loss of seventy-one (71) providers when applied to the two
+13 hundred sixty-two (262) pediatricians who are currently practicing primary care in Rhode Island,
+14 and a projected net loss of forty (40) to forty-five (45) providers by 2030. Current providers do not
+15 have the capacity to increase panel size to accommodate more patients as most are working with
+16 full patient loads.
+17 (4) Rhode Island also suffers from shortages in pediatric subspecialists and child
+18 psychiatrists, causing unnecessary delays in care for children. The American Academy of Pediatrics
+1 has predicted that despite increasing medical complexity of American children, the supply of
+2 specialists will continue to decline without significant investments in the workforce. In Rhode
+3 Island, current Medicaid payment rates for pediatric specialists is lower than that for general
+4 pediatricians, as they were not included in the last rate increase in the governor’s budget.
+5 (5) On average, Medicaid payment rates in Rhode Island are approximately twenty-five
+6 percent (25%) lower than those in Massachusetts and Connecticut, which causes significant
+7 difficulty in recruiting new pediatric providers to our state.
+8 (6) Medicaid rates have a significant impact on the availability of pediatric health care to
+9 children statewide, regardless of income. Nationally and in Rhode Island, pediatric health care
+10 providers are more dependent on Medicaid than adult health care providers to keep their practices
+11 open and operating because Medicaid covers a large portion of children’s health care. In Rhode
+12 Island in 2022, fifty-eight percent (58%) of children under age seven (7), and fifty-four percent
+13 (54%) of children ages zero to eighteen (18) were covered by Medicaid insurance. Only eight
+14 percent (8%) of Rhode Islanders over age nineteen (19) were covered by Medicaid. In 2019,
+15 children represented about twenty-five percent (25%) of the U.S. population, yet received less than
+16 ten percent (10%) of total health care spending.
+17 (7) Spending on health care during childhood has been documented to improve health into
+18 adulthood, thereby reducing future costs. Investments in children’s health care can produce
+19 improved outcomes in subsequent generations.
+20 SECTION 2. Chapter 42-12.3 of the General Laws entitled "Health Care for Children and
+21 Pregnant Women" is hereby amended by adding thereto the following section:
+22 42-12.3-17. Access to pediatric health care.
+23 The executive office of health and human services shall pursue a Medicaid state plan
+24 amendment and allocate sufficient state general revenue to increase Medicaid payment rates to
+25 equal one hundred thirty percent (130%) of Medicare rates for all payment codes for outpatient
+26 clinical services rendered to patients under nineteen (19) years old on or before October 1, 2025 to
+27 ensure rates allow pediatric providers to provide adequate services for their current patient panels.
+28 Increased rates will allow practices to recruit and retain pediatric providers to include, but not be
+29 limited to, pediatricians, pediatric specialists, child psychiatrists, family medicine physicians, nurse
+30 practitioners, and physician’s assistants to improve the current workforce shortage, and offset the
+31 projected shortfall in replacing physicians who plan to retire.
+32 SECTION 3. This act shall take effect upon passage.
+========
+LC001642
+========
+LC001642 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- HEALTH CARE FOR
+CHILDREN AND PREGNANT WOMEN
+***
+1 This act would require the executive office of health and human services to amend the state
+2 Medicaid plan and secure sufficient state general revenue to increase Medicaid payment rates to an
+3 amount equal to one hundred thirty percent (130%) of Medicare rates for outpatient clinical
+4 pediatric services.
+5 This act would take effect upon passage.
+========
+LC001642
+========
+LC001642 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S ( R I p a f a m w c w i c d t a ( o s p ( a ( h a h f ( R I a s f s i p s a c p]
+[DELETED:  h s I c M p r p s l t g p ( p ( l t t i M a C w c s d ( c p o I ( p c t ( a t r f c I i c h c c p i S P 4 T a e c e I l p p S]
+[DELETED:  T M a e t o h t p ( o M r f o c p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5988
+========
+LC001642
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- HEALTH CARE FOR
+CHILDREN AND PREGNANT WOMEN
+Introduced By: Representatives Tanzi, Handy, Ajello, McGaw, Kislak, Hull, Carson,
+Morales, Potter, and Cortvriend
+Date Introduced: February 28, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings. The general assembly finds and declares:
+2 (1) Rhode Island pediatricians are facing a major workforce crisis which is causing
+3 decreased healthcare access for children. Without significant intervention, the situation is expected
+4 to worsen and negatively impact not only the health or our children, but the long-term health of the
+5 adults in our state.
+6 (2) According to a 2024 survey of Rhode Island pediatricians, less than fifty percent (50%)
+7 of pediatric primary care offices were accepting new or transfer patients other than newborns or
+8 siblings of current patients. Families that move to Rhode Island to work, or those whose pediatric
+9 providers retire, cannot find a doctor to care for their child.
+10 (3) The same survey showed that forty-two (42) of one hundred fifty-six (156), twenty-six
+11 and nine-tenths percent (26.9%) of respondents, stated that they plan to retire within the next six
+12 (6) years. This correlates to a potential loss of seventy-one (71) providers when applied to the two
+13 hundred sixty-two (262) pediatricians who are currently practicing primary care in Rhode Island,
+14 and a projected net loss of forty (40) to forty-five (45) providers by 2030. Current providers do not
+15 have the capacity to increase panel size to accommodate more patients as most are working with
+16 full patient loads.
+17 (4) Rhode Island also suffers from shortages in pediatric subspecialists and child
+18 psychiatrists, causing unnecessary delays in care for children. The American Academy of Pediatrics
+
+1 has predicted that despite increasing medical complexity of American children, the supply of
+2 specialists will continue to decline without significant investments in the workforce. In Rhode
+3 Island, current Medicaid payment rates for pediatric specialists is lower than that for general
+4 pediatricians, as they were not included in the last rate increase in the governor’s budget.
+5 (5) On average, Medicaid payment rates in Rhode Island are approximately twenty-five
+6 percent (25%) lower than those in Massachusetts and Connecticut, which causes significant
+7 difficulty in recruiting new pediatric providers to our state.
+8 (6) Medicaid rates have a significant impact on the availability of pediatric health care to
+9 children statewide, regardless of income. Nationally and in Rhode Island, pediatric health care
+10 providers are more dependent on Medicaid than adult health care providers to keep their practices
+11 open and operating because Medicaid covers a large portion of children’s health care. In Rhode
+12 Island in 2022, fifty-eight percent (58%) of children under age seven (7), and fifty-four percent
+13 (54%) of children ages zero to eighteen (18) were covered by Medicaid insurance. Only eight
+14 percent (8%) of Rhode Islanders over age nineteen (19) were covered by Medicaid. In 2019,
+15 children represented about twenty-five percent (25%) of the U.S. population, yet received less than
+16 ten percent (10%) of total health care spending.
+17 (7) Spending on health care during childhood has been documented to improve health into
+18 adulthood, thereby reducing future costs. Investments in children’s health care can produce
+19 improved outcomes in subsequent generations.
+20 SECTION 2. Chapter 42-12.3 of the General Laws entitled "Health Care for Children and
+21 Pregnant Women" is hereby amended by adding thereto the following section:
+22 42-12.3-17. Access to pediatric health care.
+23 The executive office of health and human services shall pursue a Medicaid state plan
+24 amendment and allocate sufficient state general revenue to increase Medicaid payment rates to
+25 equal one hundred thirty percent (130%) of Medicare rates for all payment codes for outpatient
+26 clinical services rendered to patients under nineteen (19) years old on or before October 1, 2025 to
+27 ensure rates allow pediatric providers to provide adequate services for their current patient panels.
+28 Increased rates will allow practices to recruit and retain pediatric providers to include, but not be
+29 limited to, pediatricians, pediatric specialists, child psychiatrists, family medicine physicians, nurse
+30 practitioners, and physician’s assistants to improve the current workforce shortage, and offset the
+31 projected shortfall in replacing physicians who plan to retire.
+32 SECTION 3. This act shall take effect upon passage.
+========
+LC001642
+========
+LC001642 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- HEALTH CARE FOR
+CHILDREN AND PREGNANT WOMEN
+***
+1 This act would require the executive office of health and human services to amend the state
+2 Medicaid plan and secure sufficient state general revenue to increase Medicaid payment rates to an
+3 amount equal to one hundred thirty percent (130%) of Medicare rates for outpatient clinical
+4 pediatric services.
+5 This act would take effect upon passage.
+========
+LC001642
+========
+LC001642 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( R I p a f a m w c w i c d t a ( o s p ( a ( h a h f ( R I a s f s i p s a c p]
+[DELETED:  h s I c M p r p s l t g p ( p ( l t t i M a C w c s d ( c p o I ( p c t ( a t r f c I i c h c c p i S P 4 T a e c e I l p p S]
+[DELETED:  T M a e t o h t p ( o M r f o c p T]

@@ -1,0 +1,287 @@
+2025 -- H 6062
+========
+LC000982
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+PRIVACY PROTECTIONS FOR LOCATION INFORMATION DERIVED FROM
+ELECTRONIC DEVICES
+Introduced By: Representatives Tanzi, Donovan, Speakman, McGaw, Ajello, Knight,
+Stewart, Kislak, Felix, and Cruz
+Date Introduced: March 12, 2025
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 PRIVACY PROTECTIONS FOR LOCATION INFORMATION DERIVED FROM
+5 ELECTRONIC DEVICES
+6 6-61-1. Title.
+7 This chapter shall be known and may be cited as the "Privacy Protections for Location
+8 Information Derived from Electronic Devices".
+9 6-61-2. Definitions.
+10 As used in this chapter:
+11 (1) "Application" means a software program that runs on the operating system of a device.
+12 (2) "Collect" means to obtain, infer, generate, create, receive, or access an individual's
+13 location information.
+14 (3) "Consent" means to freely given, specific, informed, unambiguous, opt-in consent. This
+15 term does not include either of the following:
+16 (i) Agreement secured without first providing to the individual a clear and conspicuous
+17 disclosure of all information material to the provision of consent, apart from any privacy policy,
+18 terms of service, terms of use, general release, user agreement, or other similar document; or
+
+1 (ii) Agreement obtained through the use of a user interface designed or manipulated with
+2 the substantial effect of subverting or impairing user autonomy, decision making, or choice.
+3 (4) "Covered entity" means any individual, partnership, corporation, limited liability
+4 company, association, or other group, however organized. A covered entity does not include a state
+5 or local government agency, or any court of Rhode Island, a clerk of the court, or a judge or justice
+6 thereof. A covered entity does not include an individual acting in a non-commercial context. A
+7 covered entity includes all agents of the entity.
+8 (5) "Device" means a mobile telephone or any other electronic device that is or may
+9 commonly be carried by or on an individual and is capable of connecting to a cellular, Bluetooth,
+10 or other wireless network.
+11 (6) “Director” means the director of the department of business regulation established
+12 pursuant to § 42-14-1.
+13 (7) "Disclose" means to make location information available to a third party including, but
+14 not limited to, by sharing, publishing, releasing, transferring, disseminating, providing access to,
+15 or otherwise communicating such location information orally, in writing, electronically, or by any
+16 other means.
+17 (8) "Individual" means a person located in the State of Rhode Island.
+18 (9) "Location information" means information derived from a device or from interactions
+19 between devices, with or without the knowledge of the user and regardless of the technological
+20 method used, that pertains to or directly or indirectly reveals the present or past geographical
+21 location of an individual or device within the State of Rhode Island with sufficient precision to
+22 identify street-level location information within a range of one thousand eight hundred fifty feet
+23 (1,850') or less. Location information includes, but is not limited to:
+24 (i) An Internet protocol (IP) address capable of revealing the physical or geographical
+25 location of an individual;
+26 (ii) Global positioning system (GPS) coordinates; and
+27 (iii) Cell-site location information. This term does not include location information
+28 identifiable or derived solely from the visual content of a legally obtained image, including the
+29 location of the device that captured such image, or publicly posted words.
+30 (10) "Location privacy policy" means a description of the policies, practices, and
+31 procedures controlling a covered entity's collection, processing, management, storage, retention,
+32 and deletion of location information.
+33 (11) ''Mobile telephone'' means a handheld or portable cellular, analog, wireless, satellite
+34 or digital telephone, including a telephone with two (2)-way radio functionality, capable of sending
+LC000982 - Page 2 of 9
+
+1 or receiving telephone communications and with which a user initiates, terminates or engages in a
+2 call using at least one hand. For the purposes of this chapter, ''mobile telephone'' shall not include
+3 amateur radios operated by those licensed by the Federal Communications Commission to operate
+4 such radios, or citizen band radios.
+5 (12) "Monetize" means to collect, process, or disclose an individual's location information
+6 for profit or in exchange for monetary or other consideration. This term includes, but is not limited
+7 to, selling, renting, trading, or leasing location information.
+8 (13) "Person" means any natural person.
+9 (14) "Permissible purpose" means one of the following purposes:
+10 (i) Provision of a product, service, or service feature to the individual to whom the location
+11 information pertains when that individual requested the provision of such product, service, or
+12 service feature by subscribing to, creating an account, or otherwise contracting with a covered
+13 entity;
+14 (ii) Initiation, management, execution, or completion of a financial or commercial
+15 transaction or fulfill an order for specific products or services requested by an individual, including
+16 any associated routine administrative, operational, and account-servicing activity such as billing,
+17 shipping, delivery, storage, and accounting;
+18 (iii) Compliance with an obligation under federal or state law; or
+19 (iv) Response to an emergency service agency, an emergency alert, a 911 communication,
+20 or any other communication reporting an imminent threat to human life.
+21 (15) "Process" means to perform any action or set of actions on or with location information
+22 including, but not limited to, collecting, accessing, using, storing, retaining, analyzing, creating,
+23 generating, aggregating, altering, correlating, operating on, recording, modifying, organizing,
+24 structuring, disposing of, destroying, de-identifying, or otherwise manipulating location
+25 information. This term does not include disclosing location information.
+26 (16) "Reasonably understandable" means of length and complexity such that an individual
+27 with an eighth-grade reading level, as established by the department of elementary and secondary
+28 education, can read and comprehend.
+29 (17) "Service feature" means a discrete aspect of a service provided by a covered entity
+30 including, but not limited to, real-time directions, real-time weather, and identity authentication.
+31 (18) "Service provider" means an individual, partnership, corporation, limited liability
+32 company, association, or other group, however organized, that collects, processes, or transfers
+33 location information for the sole purpose of, and only to the extent that such service provider is,
+34 conducting business activities on behalf of, for the benefit of, at the direction of, and under
+LC000982 - Page 3 of 9
+
+1 contractual agreement with a covered entity.
+2 (19) "Third party" means any covered entity or person other than:
+3 (i) A covered entity that collected or processed location information in accordance with
+4 this chapter or its service providers; or
+5 (ii) The individual to whom the location information pertains. This term does not include
+6 government entities.
+7 6-61-3. Protection of location information.
+8 (a) No covered entity shall collect or process an individual's location information except
+9 for a permissible purpose. Prior to collecting or processing an individual's location information for
+10 one of those permissible purposes, a covered entity shall provide the individual with a copy of the
+11 location privacy policy and obtain consent from that individual; provided, however, that this shall
+12 not be required when the collection and processing is done in:
+13 (1) Compliance with an obligation under federal or state law; or
+14 (2) In response to an emergency service agency, an emergency alert, a 911 communication,
+15 or any other communication reporting an imminent threat to human life.
+16 (b) If a covered entity collects location information for the provision of multiple
+17 permissible purposes, it should be mentioned in the location privacy policy and individuals shall
+18 provide informed consent for each purpose; provided, however, that this shall not be required for
+19 the purpose of collecting and processing location information to comply with an obligation under
+20 federal or state law or to respond to an emergency service agency, an emergency alert, a 911
+21 communication, or any other communication reporting an imminent threat to human life.
+22 (c) A covered entity that directly delivers targeted advertisements as part of its product or
+23 services shall provide individuals with a clear, conspicuous, and simple means to opt out of the
+24 processing of their location information for purposes of selecting and delivering targeted
+25 advertisements.
+26 (d) Consent provided under this section shall expire:
+27 (1) After one year;
+28 (2) When the initial purpose for processing the information has been satisfied; or
+29 (3) When the individual revokes consent, whichever occurs first; provided that, consent
+30 may be renewed pursuant to the same procedures. Upon expiration of consent, any location
+31 information possessed by a covered entity must be permanently destroyed.
+32 (e) No covered entity or service provider that lawfully collects and processes location
+33 information shall:
+34 (1) Collect more precise location information than necessary to carry out the permissible
+LC000982 - Page 4 of 9
+
+1 purpose;
+2 (2) Retain location information longer than necessary to carry out the permissible purpose;
+3 (3) Sell, rent, trade, or lease location information to third parties;
+4 (4) Derive or infer from location information any data that is not necessary to carry out a
+5 permissible purpose; or
+6 (5) Disclose, cause to disclose, or assist with or facilitate the disclosure of an individual's
+7 location information to third parties, unless such disclosure is:
+8 (i) Necessary to carry out the permissible purpose for which the information was collected;
+9 or
+10 (ii) Requested by the individual to whom the location data pertains.
+11 (f) No covered entity or service providers shall disclose location information to any federal,
+12 state, or local government agency or official unless:
+13 (1) The agency or official serves the covered entity or service provider with a valid warrant
+14 or establishes the existence of exigent circumstances that make it impracticable to obtain a warrant;
+15 (2) Disclosure is mandated under federal or state law; or
+16 (3) The data subject requests such disclosure.
+17 (g) A covered entity shall maintain and make available to the data subject a location privacy
+18 policy, which shall include, at a minimum, the following:
+19 (1) The permissible purpose for which the covered entity is collecting, processing, or
+20 disclosing any location information;
+21 (2) The type of location information collected, including the precision of the data;
+22 (3) The identities of service providers with which the covered entity contracts with respect
+23 to location data;
+24 (4) Any disclosures of location data necessary to carry out a permissible purpose and the
+25 identities of the third parties to whom the location information could be disclosed;
+26 (5) Whether the covered entity's practices include the internal use of location information
+27 for purposes of targeted advertisement;
+28 (6) The data management and data security policies governing location information;
+29 (7) The retention schedule and guidelines for permanently deleting location information.
+30 (h) A covered entity in lawful possession of location information shall provide notice to
+31 individuals to whom that information pertains of any change to its location privacy policy at least
+32 twenty (20) business days before the change goes into effect, and shall request and obtain consent
+33 before collecting or processing location information in accordance with the new location privacy
+34 policy.
+LC000982 - Page 5 of 9
+
+1 (i) No government entity shall monetize location information.
+2 6-61-4. Transparency.
+3 (a) A covered entity shall, on an annual basis, report to the director aggregate information
+4 pertaining to any warrants seeking location information collected and processed by that covered
+5 entity that were received during the preceding calendar year by the entity and, if known, by any
+6 service providers and third parties. The report shall disaggregate orders by requesting agency,
+7 statutory offense under investigation, and source of authority.
+8 (b) Covered entities that are required to regularly disclose location information as a matter
+9 of law shall, on an annual basis, report to the director aggregate information related to such
+10 disclosures.
+11 (c) The director shall develop standardized reporting forms to comply with this section and
+12 make the reports available to the general public online.
+13 6-61-5. Prohibition against retaliation.
+14 A covered entity shall not take adverse action against an individual because the individual
+15 exercised or refused to waive any of such individual's rights under this chapter, unless location data
+16 is essential to the provision of the good, service, or service feature that the individual requests, and
+17 then only to the extent that such data is essential. This prohibition includes, but is not limited to:
+18 (1) Refusing to provide a good or service to the individual;
+19 (2) Charging different prices or rates for goods or services, including through the use of
+20 discounts or other benefits or imposing penalties; or
+21 (3) Providing a different level or quality of goods or services to the individual.
+22 6-61-6. Enforcement.
+23 (a) A violation of this chapter or a regulation promulgated under this chapter regarding an
+24 individual's location information constitutes an injury to that individual.
+25 (b) Any individual alleging a violation of this chapter by a covered entity or service
+26 provider may bring a civil action in the superior court or any court of competent jurisdiction;
+27 provided that, venue in the superior court shall be proper in the county in which the plaintiff resides
+28 or was located at the time of any violation.
+29 (c) An individual protected by this chapter shall not be required, as a condition of service
+30 or otherwise, to file an administrative complaint with the director or to accept mandatory arbitration
+31 of a claim arising under this chapter.
+32 (d) In a civil action in which the plaintiff prevails, the court may award:
+33 (1) Actual damages, including damages for emotional distress, or five thousand dollars
+34 ($5,000) per violation, whichever is greater;
+LC000982 - Page 6 of 9
+
+1 (2) Punitive damages; and
+2 (3) Any other relief including, but not limited to, an injunction or declaratory judgment,
+3 that the court deems to be appropriate.
+4 (e) The court shall consider each instance in which a covered entity or service provider
+5 collects, processes, or discloses location information in a manner prohibited by this chapter or a
+6 regulation promulgated under this chapter as constituting a separate violation of this chapter or
+7 regulation promulgated under this chapter. In addition to any relief awarded, the court shall award
+8 reasonable attorneys' fees and costs to any prevailing plaintiff.
+9 (f) Any provision of a contract or agreement of any kind, including a covered entity's terms
+10 of service or policies including, but not limited to, the location privacy policy, that purports to
+11 waive or limit in any way an individual's rights under this chapter including, but not limited to, any
+12 right to a remedy or means of enforcement, shall be deemed contrary to state law and shall be void
+13 and unenforceable.
+14 (g) No private or government action brought pursuant to this chapter shall preclude any
+15 other action under this chapter.
+16 6-61-7. Non-applicability.
+17 This chapter shall not apply to location information collected from a patient by a healthcare
+18 provider or healthcare facility, or collected, processed, used, or stored exclusively for medical
+19 education or research, public health or epidemiological purposes, healthcare treatment, health
+20 insurance, payment, or operations, if the information is protected from disclosure under the federal
+21 Health Insurance Portability and Accountability Act of 1996 (Pub. L. No. 104-191), as amended,
+22 or other applicable federal and state laws and regulations.
+23 6-61-8. Regulations.
+24 (a) The department of the business regulator shall:
+25 (1) Promulgate rules and regulations for the implementation, administration, and
+26 enforcement of this chapter;
+27 (2) Gather facts and information applicable to the attorney general's obligation to enforce
+28 this chapter and ensure its compliance;
+29 (3) Conduct investigations for possible violations of this chapter;
+30 (4) Refer cases for criminal prosecution to the appropriate federal, state, or local
+31 authorities; and
+32 (5) Maintain an official Internet website outlining the provisions of this chapter.
+33 6-61-9. Location information collected before effective date.
+34 Within six (6) months after the effective date of this chapter, covered entities shall obtain
+LC000982 - Page 7 of 9
+
+1 consent in accordance with the provisions of § 6-61-3 for any location information collected,
+2 processed, and stored before such effective date, and shall permanently destroy any location
+3 information for which they have not obtained consent.
+4 SECTION 2. This act shall take effect upon passage.
+========
+LC000982
+========
+LC000982 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+PRIVACY PROTECTIONS FOR LOCATION INFORMATION DERIVED FROM
+ELECTRONIC DEVICES
+***
+1 This act would establish a new chapter for privacy protections for location information
+2 derived from electronic devices. The department of the business regulation would be responsible
+3 for promulgating rules and regulations to implement, administer, and enforce this chapter.
+4 This act would take effect upon passage.
+========
+LC000982
+========
+LC000982 - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S R C P E 6 T I 6 A ( ( l ( t ( d t]
+[DELETED:  ( t ( " e m a i p c l l c o t c ( c o ( r p ( n o o ( ( b m l i ( ( l ( ( C l i T t d n i l i i l ( " p p m a d o t p p a p a ( o]
+[DELETED:  o c a s ( f t ( ( ( i s e ( I m e o c o a f o c t a s ( ( o ( i g a a c o o r m o s d o d d o o m l i ( w e ( i ( c l c b a o b o f t b o a t d o a u]
+[DELETED:  c ( ( t ( g 6 ( f o l n ( ( o ( I a c e c l i f t p o m p p t f c ( s p o t l i f p o s a d t a ( ( ( ( m b r p t t s p U e o c a l i ( i (]
+[DELETED:  p ( ( ( p ( l ( o ( ( s ( o ( ( ( p ( d ( ( t ( i ( f ( ( ( i t b p]
+[DELETED:  ( 6 ( p e s s ( o l o a a b t d a i t s d ( m 6 A e i t ( ( d ( 6 ( i ( A i a v c b a o p p o ( o o ( ( (]
+[DELETED:  ( ( t ( c r r r ( o w r a ( o 6 T p m e o p h o e p h t h i H o 6 ( ( P r a r f t i a a e ( t ( ( R c f c p t t a f s o l a ( 6 W]
+[DELETED:  c p a s b s e d a s p d a l i S]
+[DELETED:  T d f T]
