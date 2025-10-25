@@ -1,0 +1,151 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Number of Sections: 1
+Source: versions - 5642
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5642
+========
+LC001487
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+DISTRICT COURT PRACTICE
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: February 26, 2025
+Referred To: House Judiciary
+(Judiciary)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 9-12-10 and 9-12-10.1 of the General Laws in Chapter 9-12 entitled
+2 "District Court Practice" are hereby amended to read as follows:
+3 9-12-10. Claim of appeal of superior court Claim of appeal to the superior court in
+4 civil cases.
+5 Except as otherwise provided, in all civil cases in the district court, any party may cause
+6 the case to be removed for trial on all questions of law and fact to the superior court for the county
+7 in which division the suit is pending by claiming an appeal from the judgment of the district court,
+8 in writing, filed with the clerk of the division within two (2) days, exclusive of Saturdays, Sundays,
+9 and legal holidays, after the judgment is entered; provided, that the party claiming the appeal, at
+10 the time of claiming the appeal, shall pay to the clerk all costs, including an attorney’s fee of fifty
+11 dollars ($50.00), for the party or parties adversely interested in the judgment, to be paid by the clerk
+12 to the attorney for the adverse party. The attorney’s fee of fifty dollars ($50.00) shall be divided
+13 equally among the attorneys for the parties adversely interested when more than one adverse party
+14 is involved; and provided, further, that costs shall not be taxed, exclusive of the attorney’s fee, at a
+15 sum not less than twenty-five dollars ($25.00), in addition to a seventy-five dollar ($75.00) filing
+16 fee, inclusive of a civil case processing fee and a technology surcharge assessed in accordance with
+17 § 8-15-11.
+18 9-12-10.1. Claim of appeal to superior court in landlord tenant actions.
+1 In any civil action pursuant to chapter 18 of title 34, in the district court or other appropriate
+2 court, any party may cause the case to be removed for trial on all questions of law and fact to the
+3 superior court for the county in which division the suit is pending, by claiming an appeal from the
+4 judgment of the district or other appropriate court, in writing, filed with the clerk of the division
+5 within five (5) days, inclusive of Saturdays, Sundays or legal holidays, after the judgment is
+6 entered; provided, that the party claiming the appeal at the time of claiming the appeal, shall pay to
+7 the clerk all costs, including an attorney’s fee of fifty dollars ($50.00) for the party or parties
+8 adversely interested in the judgment, to be paid by the clerk to the attorney for the adverse party;
+9 provided, further, that costs shall not be taxed, exclusive of the attorney’s fee, at a sum less than
+10 twenty-five dollars ($25.00), in addition to a seventy-five dollar ($75.00) filing fee, inclusive of a
+11 civil case processing fee and a technology surcharge assessed in accordance with § 8-15-11.
+12 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001487
+========
+LC001487 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+DISTRICT COURT PRACTICE
+***
+1 This act would provide amendments to the assessment of filing fees required to appeal from
+2 certain matters adjudicated by the district court.
+3 This act would take effect on January 1, 2026.
+========
+LC001487
+========
+LC001487 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S " 9 c E t i i a t d t e i s f § 9]
+[DELETED:  I c s j w e t a p t c S]
+[DELETED:  T c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5642
+========
+LC001487
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+DISTRICT COURT PRACTICE
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: February 26, 2025
+Referred To: House Judiciary
+(Judiciary)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 9-12-10 and 9-12-10.1 of the General Laws in Chapter 9-12 entitled
+2 "District Court Practice" are hereby amended to read as follows:
+3 9-12-10. Claim of appeal of superior court Claim of appeal to the superior court in
+4 civil cases.
+5 Except as otherwise provided, in all civil cases in the district court, any party may cause
+6 the case to be removed for trial on all questions of law and fact to the superior court for the county
+7 in which division the suit is pending by claiming an appeal from the judgment of the district court,
+8 in writing, filed with the clerk of the division within two (2) days, exclusive of Saturdays, Sundays,
+9 and legal holidays, after the judgment is entered; provided, that the party claiming the appeal, at
+10 the time of claiming the appeal, shall pay to the clerk all costs, including an attorney’s fee of fifty
+11 dollars ($50.00), for the party or parties adversely interested in the judgment, to be paid by the clerk
+12 to the attorney for the adverse party. The attorney’s fee of fifty dollars ($50.00) shall be divided
+13 equally among the attorneys for the parties adversely interested when more than one adverse party
+14 is involved; and provided, further, that costs shall not be taxed, exclusive of the attorney’s fee, at a
+15 sum not less than twenty-five dollars ($25.00), in addition to a seventy-five dollar ($75.00) filing
+16 fee, inclusive of a civil case processing fee and a technology surcharge assessed in accordance with
+17 § 8-15-11.
+18 9-12-10.1. Claim of appeal to superior court in landlord tenant actions.
+
+1 In any civil action pursuant to chapter 18 of title 34, in the district court or other appropriate
+2 court, any party may cause the case to be removed for trial on all questions of law and fact to the
+3 superior court for the county in which division the suit is pending, by claiming an appeal from the
+4 judgment of the district or other appropriate court, in writing, filed with the clerk of the division
+5 within five (5) days, inclusive of Saturdays, Sundays or legal holidays, after the judgment is
+6 entered; provided, that the party claiming the appeal at the time of claiming the appeal, shall pay to
+7 the clerk all costs, including an attorney’s fee of fifty dollars ($50.00) for the party or parties
+8 adversely interested in the judgment, to be paid by the clerk to the attorney for the adverse party;
+9 provided, further, that costs shall not be taxed, exclusive of the attorney’s fee, at a sum less than
+10 twenty-five dollars ($25.00), in addition to a seventy-five dollar ($75.00) filing fee, inclusive of a
+11 civil case processing fee and a technology surcharge assessed in accordance with § 8-15-11.
+12 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001487
+========
+LC001487 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+DISTRICT COURT PRACTICE
+***
+1 This act would provide amendments to the assessment of filing fees required to appeal from
+2 certain matters adjudicated by the district court.
+3 This act would take effect on January 1, 2026.
+========
+LC001487
+========
+LC001487 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S " 9 c E t i i a t d t e i s f § 9]
+[DELETED:  I c s j w e t a p t c S]
+[DELETED:  T c T]

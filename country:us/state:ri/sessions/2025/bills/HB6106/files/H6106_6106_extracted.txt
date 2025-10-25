@@ -1,0 +1,830 @@
+Title: RELATING TO PROPERTY -- INSURANCE ON MULTI-UNIT DWELLINGS -- TENANT
+Official Title: RELATING TO PROPERTY -- INSURANCE ON MULTI-UNIT DWELLINGS -- TENANT
+Number of Sections: 1
+Source: versions - 6106
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6106
+========
+LC002440
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELOCATION INSURANCE
+Introduced By: Representatives Fellela, Fascia, Perez, Morales, and Cruz
+Date Introduced: March 19, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 43.1
+4 INSURANCE ON MULTI-UNIT DWELLING -- TENANT RELOCATION INSURANCE
+5 34-43.1-1. Definitions.
+6 As used in this chapter:
+7 (1) "Act of God" means an unforeseeable and unavoidable natural disaster or phenomenon,
+8 to include, but not limited to, a flood, earthquake, tornado, hurricane, wildfire, or other similar
+9 event that occurs without human intervention and could not have been prevented by reasonable
+10 foresight or care.
+11 (2) "Certificate of occupancy" means the document issued by the local government agency
+12 or building department certifying that a building or dwelling unit complies with applicable building
+13 codes and regulations and may be occupied for its intended use.
+14 (3) “Department” means the department of business regulation established pursuant to §
+15 42-14-1.
+16 (4) "Large multi-family dwelling" means any building or structure containing more than
+17 twelve (12) residential dwelling units including, but not limited to, apartment buildings,
+18 condominium complexes, and cooperative housing.
+1
+2 (5) "Temporary housing" means alternative accommodations provided to tenants when
+3 their primary residence becomes uninhabitable including, but not limited to, hotels, motels, short-
+4 term rentals, or other suitable living arrangements that meet the standards set forth in this chapter.
+5 34-43.1-2. Temporary housing insurance requirement.
+6 (a) Pursuant to the provisions of § 34-43.1-5, the owner, landlord, maintenance company,
+7 executive board or entity responsible to provide insurance for the structure of any multi-family
+8 dwelling in this state shall maintain insurance coverage that provides for the temporary housing of
+9 tenants and residents for a period of at least thirty (30) days in the event the large multi-family
+10 dwelling loses its certificate of occupancy or becomes uninhabitable due to a fire, act of God, flood,
+11 or other sudden occurrence that renders the property uninhabitable.
+12 (b) The insurance coverage required by this section shall, at a minimum:
+13 (1) Provide for the relocation and temporary housing of all tenants and residents residing
+14 in the multi-family dwelling at the time of the event;
+15 (2) Cover the reasonable costs of such temporary housing, including rent for occupancy
+16 and storage for property for the persons and property displaced by an event described in subsection
+17 (a) of this section; and
+18 (3) Remain in effect for a minimum period of thirty (30) days following the date the large
+19 multi-family dwelling becomes uninhabitable.
+20 34-43.1-3. Enforcement and penalties.
+21 (a) The department shall have the authority to request proof of insurance to verify
+22 compliance with the coverage requirements set forth in this chapter.
+23 (b) Any entity responsible for maintaining insurance required pursuant to § 34-43.1-2(a)
+24 who fails to maintain the insurance coverage shall be subject to a fine of not less than one thousand
+25 dollars ($1,000) per day, for each day the large multi-family dwelling is not in compliance.
+26 (c) Tenants may initiate legal action against landlords for non-compliance with the
+27 temporary housing insurance requirement or failure to provide adequate temporary housing as
+28 required by the provisions of this chapter. Tenants prevailing in a civil action may seek injunctive
+29 relief, damages, and reasonable attorneys' fees.
+30 34-43.1-4. Tenant rights and protections.
+31 (a) Tenants shall have the right to be informed of the temporary housing insurance coverage
+32 maintained by the landlord of their large multi-family dwelling. Landlords shall provide a summary
+33 of the coverage to tenants at the time of lease signing and annually thereafter.
+34 (b) In the event of displacement, tenants and residents shall have the right to:
+LC002440 - Page 2 of 12
+1 (1) Be promptly notified of the temporary housing arrangements and relocation process;
+2 (2) Receive clear and timely information about their rights and responsibilities during the
+3 temporary housing period;
+4 (3) Have reasonable access to their personal belongings in the affected multi-family
+5 dwelling, when safe to do so;
+6 (4) Be provided with temporary housing that meets the minimum standards established
+7 pursuant to chapter 24.2 of title 45;
+8 (5) Receive regular updates on the status of repairs or reconstruction of their primary
+9 residence; and
+10 (6) Return to their original dwelling unit once it has been deemed habitable and has
+11 regained its certificate of occupancy, subject to the terms of their original lease agreement.
+12 (c) No tenant shall be subject to rent increases, lease termination, or other adverse actions
+13 by the landlord as a result of exercising their rights under this law.
+14 34-43.1-5. Transition.
+15 (a) Landlords of large multi-family dwellings in existence on or before July 1, 2025, shall
+16 comply with the provisions of this chapter on or before January 1, 2027. On or after July 1, 2025,
+17 newly constructed or converted multi-family dwellings shall comply with the provisions of this
+18 chapter upon issuance of their initial certificate of occupancy.
+19 (b) The department shall have the authority to promulgate rules and regulations necessary
+20 to implement and enforce the provisions of this chapter including, but not limited to:
+21 (1) Detailed standards for temporary housing accommodations;
+22 (2) Procedures for conducting compliance inspections;
+23 (3) Guidelines for the financial assistance program;
+24 (4) Processes for handling tenant and resident complaints and dispute resolution; and
+25 (5) Reporting requirements for multi-family dwelling landlords and insurance providers.
+26 34-43.1-6. Severability.
+27 If any provision of this chapter or its application to any person or circumstance is held
+28 invalid, the invalidity does not affect other provisions or applications of this chapter that can be
+29 given effect without the invalid provision or application, and to this end the provisions of this
+30 chapter are severable.
+31 34-43.1-7. Preemption.
+32 This law shall supersede any conflicting local ordinances or regulations relating to
+33 temporary housing insurance requirements for large multi-family dwellings; provided however,
+34 local governments may enact additional requirements that do not conflict with or weaken the
+LC002440 - Page 3 of 12
+1 provisions of this chapter.
+2 SECTION 2. Section 27-5-3 of the General Laws in Chapter 27-5 entitled "Fire Insurance
+3 Policies and Reserves" is hereby amended to read as follows:
+4 27-5-3. Form of standard policy.
+5 The form of the standard fire insurance policy of the state of Rhode Island, with permission
+6 to substitute for the word “company” or “companies” a more accurate descriptive term for the type
+7 of insurer, shall be as follows:
+8 No
+9 Space for insertion of name of company or companies issuing the policy and other matter
+10 permitted to be stated at the head of the policy.
+11 Space for listing amounts of insurance, rates, and premiums for the basic coverages insured
+12 under the standard form of policy and for additional coverages or perils insured under endorsements
+13 attached.
+14 In consideration of the provisions and stipulations herein or added hereto and of ...............
+15 dollars premium this company, for the term of ……………
+16 from the ………… day of ………………………………………………, 20 ……
+17 to the ………… day of ………………………………………………, 20 ………
+18 at 12:01 a.m. standard time at location of property involved,
+19 to an amount not exceeding ..................... dollars, does insure, .......................... and legal
+20 representatives, to the extent of the actual cash value of the property at the time of loss, but not
+21 exceeding the amount which it would cost to repair or replace the property with material of like
+22 kind and quality within a reasonable time after a loss, without allowance for any increased cost of
+23 repair or reconstruction by reason of any ordinance or law regulating construction or repair, and
+24 without compensation for loss resulting from interruption of business or manufacture, nor in any
+25 event for more than the interest of the insured, against all direct loss by fire and lightning, and by
+26 removal from the premises endangered by the perils insured against in this policy, except as
+27 hereinafter provided, to the property described hereinafter while located or contained as described
+28 in this policy, or pro rata for five (5) days at each proper place to which any of the property shall
+29 necessarily be removed for preservation from the perils insured against in this policy, but not
+30 elsewhere.
+31 Assignment of this policy shall not be valid except with the written consent of this
+32 company.
+33 This policy is made and accepted subject to the foregoing provisions and stipulations and
+34 those hereinafter stated, which are hereby made a part of this policy, together with such other
+LC002440 - Page 4 of 12
+1 provisions, stipulations, and agreements as may be added hereto, as provided in this policy.
+2 IN WITNESS WHEREOF, this company has executed and attested these presents;
+3 at ..........................................................................................................................................
+4 ………………………………… ..................................................
+5 Secretary President
+6 In the event the domicile state of the company issuing the policy requires a Rhode Island company
+7 to have a countersignature affixed by a licensed resident agent to a policy issued in that state then
+8 in accordance with the provisions of § 27-2-17, the form of the standard fire insurance policy shall
+9 in lieu of the foregoing execution and attestation clause contain the following execution and
+10 attestation clause: IN WITNESS WHEREOF, this company has executed and attested these
+11 presents; but this policy shall not be valid unless countersigned by the duly authorized agent of this
+12 company at .......................................................................................................................................
+13 ..........................................................................................................................................................
+14 ………………………………… ..................................................
+15 Secretary President
+16 Countersigned this .…………………... day of ……………………………………20 ..………….
+17 ..................................................
+18 Agent
+19 1 Concealment, This entire policy shall be void if, whether
+20 2 fraud. before or after a loss, the insured will-
+21 3 fully concealed or misrepresented any material
+22 4 fact or circumstance concerning this insurance or the subject
+23 5 thereof, or the interest of the insured therein, or in the case of
+24 6 any fraud or false swearing by the insured relating thereto.
+25 7 Uninsurable This policy shall not cover accounts, bills,
+26 8 and excepted currency, deeds, evidences of debt, money, or
+27 9 property. securities; nor, unless specifically named here-
+28 10 on in writing, bullion or manuscripts.
+29 11 Perils not This company shall not be liable for loss by
+30 12 included. fire or other perils insured against in this
+31 13 policy caused, directly or indirectly, by: (a)
+32 14 enemy attack by armed forces, including action taken by mili-
+33 15 tary, naval, or air forces in resisting an actual or an immediately
+34 16 impending enemy attack; (b) invasion; (c) insurrection; (d)
+35 17 rebellion; (e) revolution; (f) civil war; (g) usurped power; (h)
+36 18 order of any civil authority except acts of destruction at the time
+LC002440 - Page 5 of 12
+1 19 of and for the purpose of preventing the spread of fire, provided
+2 20 that this fire did not originate from any of the perils excluded
+3 21 by this policy; (i) neglect of the insured to use all reasonable
+4 22 means to save and preserve the property at and after a loss, or
+5 23 when the property is endangered by fire in neighboring prem-
+6 24 ises; (j) loss by theft.
+7 25 Other Insurance. Other insurance may be prohibited or the
+8 26 amount of insurance may be limited by an
+9 27 endorsement attached hereto.
+10 28 Conditions suspending or restricting insurance. Unless
+11 29 otherwise provided in writing and added hereto this company
+12 or companies shall not
+13 30 be liable for loss occurring:
+14 31 (a) While the hazard is increased by any means within the con-
+15 32 trol or knowledge of the insured; or
+16 33 (b) While a described building, whether intended for occupancy
+17 34 by owner or tenant, is vacant or unoccupied beyond a period of
+18 35 sixty (60) consecutive days or
+19 35A thirty (30) consecutive days subsequent to the date on which an
+20 35B order is issued by the local building inspector pursuant to
+21 § 23-27.3-124.2,
+22 35C whichever first occurs; or
+23 36 (c) As a result of explosion or riot, unless fire ensues, and in
+24 37 that event for loss by fire only.
+25 38 Other perils Any other peril to be insured against or sub-
+26 39 or subjects. ject of insurance to be covered in this policy
+27 40 shall be by endorsement in writing hereon or
+28 41 added hereto.
+29 Provisions for large multi-family properties. Every policy which insures multi-unit
+30 residential property, as defined in §34-43.1-1, against loss or damage by fire shall provide
+31 additional benefits, by endorsement attached to the policy, up to a limit of ten thousand dollars
+32 ($10,000), without deductible, for each rental unit to cover the actual costs of relocation of any
+33 tenant or lawful occupant displaced by fire or from a loss described in § 34-43.1-2(a). The actual
+34 costs of relocation shall include, but not be limited to, hotel room rental, a security deposit and first
+LC002440 - Page 6 of 12
+1 month's rent for a new rental unit if the security deposit or last month's rent is not already due and
+2 owing from the landlord to the tenant, clothing replacement, furniture replacement and other
+3 reasonable costs and living expenses as a result of being displaced or damaged by a covered loss.
+4 Benefits under this clause shall be paid by the insurer to the tenant or lawful occupant after
+5 considering benefits available under any other policy. The terms and conditions of such clause shall
+6 be approved or prescribed by the commissioner. The landlord or lessor of the property shall notify
+7 each tenant or lawful occupant in writing of the benefits payable under this clause at the beginning
+8 of the lease or tenancy period. A waiver of this provision in any lease or other rental agreement
+9 shall be void and unenforceable.
+10 The department of business regulation may exempt from the provisions of this section residence
+11 halls and dormitories operated by institutions of public higher education; provided, however, that
+12 the institution assumes responsibility for the relocation of any tenant displaced by fire or by damage
+13 resulting from a loss described in § 34-43.1-2(a).
+14 42 Added provisions. The extent of the application of insurance
+15 43 under this policy and of the contribution to
+16 44 be made by this company in case of loss, and any other pro-
+17 45 vision or agreement not inconsistent with the provisions of this
+18 46 policy, may be provided for in writing and added hereto, but no
+19 47 provision may be waived except such as by the terms of this
+20 48 policy is subject to change.
+21 49 Waiver No permission affecting this insurance shall
+22 50 provisions. exist, or waiver of any provision is valid,
+23 51 unless granted herein or expressed in writing
+24 52 and added hereto. No provision, stipulation, or forfeiture shall
+25 53 be held to be waived by any requirement or proceeding on the
+26 54 part of this company relating to appraisal or to any examina-
+27 55 tion provided for herein.
+28 56 Cancellation This policy shall be cancelled at any time
+29 57 of policy. at the request of the insured, in which case
+30 58 this company shall, upon demand and sur-
+31 59 render of this policy, refund the excess of the paid premium
+32 above
+33 60 the customary short rates for the expired time. This pol-
+34 61 icy may be cancelled at any time by this company by giving
+LC002440 - Page 7 of 12
+1 62 to the insured a thirty (30) days’ written notice of cancellation except that when cancellation is
+2 for nonpayment of premium, a ten (10) days’ written notice shall be required with
+3 63 or without tender of the excess of the paid premium above the
+4 pro
+5 64 rata premium for the expired time.
+6 65 Notice of cancellation shall state that
+7 66 the excess premium (if not tendered) will be promptly
+8 67 re-funded.
+9 68 Mortgagee If loss hereunder is made payable, in whole
+10 69 interests and or in part, to a designated mortgagee not
+11 70 obligations. named herein as the insured, that interest in
+12 71 this policy may be cancelled by giving to that
+13 72 mortgagee a ten (10) days’ written notice of
+14 73 cancellation.
+15 74 If the insured fails to render proof of loss the mortgagee, upon
+16 75 notice, shall render proof of loss in the form herein specified
+17 76 within sixty (60) days thereafter and shall be subject to the pro-
+18 77 visions hereof relating to appraisal and time of payment and of
+19 78 bringing suit. If this company shall claim that no liability ex-
+20 79 isted as to the mortgagor or owner, it shall, to the extent of the pay-
+21 80 ment of loss to the mortgagee, be subrogated to all the mort-
+22 81 gagee's rights of recovery, but without impairing the mort-
+23 gagee's
+24 82 right to sue; or it may pay off the mortgage debt and require
+25 83 an assignment thereof and of the mortgage. Other provisions
+26 84 relating to the interests and obligations of the mortgagee may
+27 85 be added hereto by agreement in writing.
+28 86 Pro rata liability. This company shall not be liable for a
+29 87 greater proportion of any loss than the
+30 88 amount hereby insured shall bear to the whole insurance cover-
+31 89 ing the property against the peril involved, whether collectible
+32 or not.
+33 90 Requirements in The insured shall give immediate written
+34 91 case loss occurs. notice to this company of any loss, protect
+LC002440 - Page 8 of 12
+1 92 the property from further damage, forth
+2 with
+3 93 separate the damaged and undamaged personal property, put
+4 94 it in the best possible order, furnish a complete inventory of
+5 95 the destroyed, damaged, and undamaged property, showing in
+6 96 detail quantities, costs, actual cash value and amount of loss
+7 97 claimed; and within sixty (60) days after the loss, unless such
+8 98 time is extended in writing by this company, the insured shall
+9 99 render to this company a proof of loss, signed and sworn to by
+10 100 the insured, stating the knowledge and belief of the insured as to
+11 101 the following: the time and origin of the loss, the interest of the
+12 102 insured and of all others in the property, the actual cash value of
+13 103 each item thereof and the amount of loss thereto, all encum-
+14 104 brances thereon, all other contracts of insurance, whether valid
+15 105 or not, covering any of the property, any changes in the title,
+16 106 use, occupation, location, possession, or exposures of the prop-
+17 107 erty since the issuing of this policy, and by whom and for what
+18 108 purpose any building herein described and the several parts
+19 109 thereof were occupied at the time of loss and whether or not it
+20 110 then stood on leased ground, and shall furnish a copy of all the
+21 111 descriptions and schedules in all policies and, if required, veri-
+22 112 fied plans and specifications of any building, fixtures, or
+23 machin-
+24 113 ery destroyed or damaged. The insured, as often as may be
+25 114 reasonably required, shall exhibit to any person designated by
+26 115 this company all that remains of any property herein described,
+27 116 and submit to examinations under oath by any person named by
+28 117 this company, and subscribe the same; and, as often as may be
+29 118 reasonably required, shall produce for examination all books of
+30 119 account, bills, invoices, and other vouchers, or certified copies
+31 120 thereof if the originals are lost, at such reasonable time and
+32 place as
+33 121 may be designated by this company or its representative, and
+34 122 shall permit extracts and copies thereof to be made.
+LC002440 - Page 9 of 12
+1 123 Appraisal. In case the insured and this company shall
+2 124 fail to agree as to the actual cash value or
+3 125 the amount of loss, then, on the written demand of either, each
+4 126 shall select a competent and disinterested appraiser and notify
+5 127 the other of the appraiser selected within twenty (20) days of
+6 128 that demand. The appraisers shall first select a competent and
+7 129 disinterested umpire; and failing for fifteen (15) days to agree
+8 130 upon the umpire, then, on request of the insured or this com-
+9 131 pany, the umpire shall be selected by a judge of a court of
+10 132 record in the state in which the property covered is located. The
+11 133 appraisers shall then appraise the loss, stating separately actual
+12 134 cash value and loss to each item; and, failing to agree, shall
+13 135 submit their differences, only, to the umpire. An award in writ-
+14 136 ing, so itemized, of any two (2) when filed with this company
+15 shall
+16 137 determine the amount of actual cash value and loss. Each
+17 138 appraiser shall be paid by the party selecting him or her and
+18 139 the expenses of appraisal and the umpire shall be paid by
+19 140 the parties equally.
+20 141 Company's It shall be optional with this company to
+21 142 options. take all, or any part, of the property at the
+22 143 agreed or appraised value, and also to re-
+23 144 pair, rebuild, or replace the property destroyed or damaged with
+24 145 another of like kind and quality within a reasonable time, on
+25 146 giving notice of its intention so to do within thirty (30) days
+26 147 after the receipt of the proof of the loss herein required.
+27 148 Abandonment. There can be no abandonment to this com-
+28 149 pany of any property.
+29 150 When loss The amount of loss for which this company
+30 151 payable may be liable shall be payable sixty (60)
+31 152 days after proof of loss, as herein provided,
+32 153 is received by this company and ascertainment of the loss is
+33 154 made either by agreement between the insured and this com-
+34 155 pany expressed in writing or by the filing with this company
+LC002440 - Page 10 of 12
+1 156 of an award as herein provided.
+2 157 Suit. No suit or action on this policy for the recov-
+3 158 ery of any claim shall be sustainable in any
+4 159 court of law or equity unless all the requirements of this policy
+5 160 shall have been complied with, and unless commenced within
+6 161 twenty-four (24) months next after inception of the loss.
+7 162 Subrogation. This company may require from the insured
+8 163 an assignment of all rights of recovery.
+9 164 against any party for loss to the extent that payment therefor
+10 165 is made by this company.
+11 Standard Fire Insurance Policy of the State of
+12 Expires ..............................................................................................................................................
+13 Property .............................................................................................................................................
+14 Assured .............................................................................................................................................
+15 No. ……………………………
+16 (COMPANY)
+17 It is important that the written portions of all policies covering
+18 the same property read exactly alike. If they do not, they should
+19 be made uniform at once.
+20 SECTION 3. This act shall take effect on July 1, 2025.
+========
+LC002440
+========
+LC002440 - Page 11 of 12
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- INSURANCE ON MULTI-UNIT DWELLINGS -- TENANT
+RELOCATION INSURANCE
+***
+1 This act would require owners of large multi-family dwellings to secure insurance coverage
+2 that provides for the temporary housing of tenants for a period of at least thirty (30) days in the
+3 event the large multi-family dwelling loses its certificate of occupancy or becomes uninhabitable
+4 due to a fire, act of God, flood, or other sudden occurrence that renders the property uninhabitable.
+5 This act would take effect on July 1, 2025.
+========
+LC002440
+========
+LC002440 - Page 12 of 12
+[DELETED: TATE  OF  RHODE  ISLAND S a C I 3 A ( t e f ( o c ( 4 ( t ( r d u i b n l t a b c]
+[DELETED:   ( t t 3 ( e d t d o ( ( i ( a ( ( m 3 ( T d s h t a t r p o i t v c ( w d ( T m i l a a l f n w t t r r 3 ( m o (]
+[DELETED:  ( ( t ( H r a t t p b i t a m d ( p ( r ( R t o d u o i h b d h h r ( b 3 ( c n c ( t ( ( ( ( ( 3 I i g c 3 T l s s a c l o o r r t t l]
+[DELETED:  p S P 2 T t o N S p S u a I d  f  t  a t a a n e . d d i . a l r e k r w e r f t p e b t p i e a h i n e A o t p s n b v e w t w c o t c T t]
+[DELETED:  p I a …   S P I t i 2 i l o t f e a a c c t e a a c I W W t c h e a a t p c   …   S P C     A 1 T 2   3 f 4 5 6 7 T 8 c 9 s 1 o 1 T 1 f 1 p 1 1 1 1 1]
+[DELETED:  1 2 2 2 2 2 2 2 a 2 2 2  o 3 3 W 3 t 3 W 3 b 3 s 3 t 3 o  § 3 w 3 A 3 t 3 A 3 j 4 s 4 P f l m p E p w i m r p a d i § a l o d b f s p a ( t c]
+[DELETED:  m o f t l t t t c r f r a o r B u t c s b p t i t t o o a c b e o s T h t r 4   4 u 4 4 4 4 4 4 N 5 e 5 u 5 5 5 5 5 T 5   5 t 5  a 6 6]
+[DELETED:  6 f 6  p 6 6 6 6 6 I 6 o 7 n 7 t 7 m 7 7 7 7 7 7 7 8 8  g 8 8 8 8 8 T 8 g 8 8  o 9 T 9 n]
+[DELETED:  9 t  w 9 9 9 9 9 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1  m 1 1 1 1 1 1 1 1  p 1 1]
+[DELETED:  1 I 1 f 1 1 1 1 1 1 1 1 1 1 1 1  s 1 1 1 1 1 I 1   1 a 1 1 1 1 1 1 p 1 T 1 m 1 d 1 1 1]
+[DELETED:  1 1 N 1 e 1 1 1 1 T 1 a 1 1 S E P A N  ( I t b S]
+[DELETED:  T t e d T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6106
+========
+LC002440
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- INSURANCE ON MULTI-UNIT DWELLINGS -- TENANT
+RELOCATION INSURANCE
+Introduced By: Representatives Fellela, Fascia, Perez, Morales, and Cruz
+Date Introduced: March 19, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 43.1
+4 INSURANCE ON MULTI-UNIT DWELLING -- TENANT RELOCATION INSURANCE
+5 34-43.1-1. Definitions.
+6 As used in this chapter:
+7 (1) "Act of God" means an unforeseeable and unavoidable natural disaster or phenomenon,
+8 to include, but not limited to, a flood, earthquake, tornado, hurricane, wildfire, or other similar
+9 event that occurs without human intervention and could not have been prevented by reasonable
+10 foresight or care.
+11 (2) "Certificate of occupancy" means the document issued by the local government agency
+12 or building department certifying that a building or dwelling unit complies with applicable building
+13 codes and regulations and may be occupied for its intended use.
+14 (3) “Department” means the department of business regulation established pursuant to §
+15 42-14-1.
+16 (4) "Large multi-family dwelling" means any building or structure containing more than
+17 twelve (12) residential dwelling units including, but not limited to, apartment buildings,
+18 condominium complexes, and cooperative housing.
+
+1
+2 (5) "Temporary housing" means alternative accommodations provided to tenants when
+3 their primary residence becomes uninhabitable including, but not limited to, hotels, motels, short-
+4 term rentals, or other suitable living arrangements that meet the standards set forth in this chapter.
+5 34-43.1-2. Temporary housing insurance requirement.
+6 (a) Pursuant to the provisions of § 34-43.1-5, the owner, landlord, maintenance company,
+7 executive board or entity responsible to provide insurance for the structure of any multi-family
+8 dwelling in this state shall maintain insurance coverage that provides for the temporary housing of
+9 tenants and residents for a period of at least thirty (30) days in the event the large multi-family
+10 dwelling loses its certificate of occupancy or becomes uninhabitable due to a fire, act of God, flood,
+11 or other sudden occurrence that renders the property uninhabitable.
+12 (b) The insurance coverage required by this section shall, at a minimum:
+13 (1) Provide for the relocation and temporary housing of all tenants and residents residing
+14 in the multi-family dwelling at the time of the event;
+15 (2) Cover the reasonable costs of such temporary housing, including rent for occupancy
+16 and storage for property for the persons and property displaced by an event described in subsection
+17 (a) of this section; and
+18 (3) Remain in effect for a minimum period of thirty (30) days following the date the large
+19 multi-family dwelling becomes uninhabitable.
+20 34-43.1-3. Enforcement and penalties.
+21 (a) The department shall have the authority to request proof of insurance to verify
+22 compliance with the coverage requirements set forth in this chapter.
+23 (b) Any entity responsible for maintaining insurance required pursuant to § 34-43.1-2(a)
+24 who fails to maintain the insurance coverage shall be subject to a fine of not less than one thousand
+25 dollars ($1,000) per day, for each day the large multi-family dwelling is not in compliance.
+26 (c) Tenants may initiate legal action against landlords for non-compliance with the
+27 temporary housing insurance requirement or failure to provide adequate temporary housing as
+28 required by the provisions of this chapter. Tenants prevailing in a civil action may seek injunctive
+29 relief, damages, and reasonable attorneys' fees.
+30 34-43.1-4. Tenant rights and protections.
+31 (a) Tenants shall have the right to be informed of the temporary housing insurance coverage
+32 maintained by the landlord of their large multi-family dwelling. Landlords shall provide a summary
+33 of the coverage to tenants at the time of lease signing and annually thereafter.
+34 (b) In the event of displacement, tenants and residents shall have the right to:
+LC002440 - Page 2 of 12
+
+1 (1) Be promptly notified of the temporary housing arrangements and relocation process;
+2 (2) Receive clear and timely information about their rights and responsibilities during the
+3 temporary housing period;
+4 (3) Have reasonable access to their personal belongings in the affected multi-family
+5 dwelling, when safe to do so;
+6 (4) Be provided with temporary housing that meets the minimum standards established
+7 pursuant to chapter 24.2 of title 45;
+8 (5) Receive regular updates on the status of repairs or reconstruction of their primary
+9 residence; and
+10 (6) Return to their original dwelling unit once it has been deemed habitable and has
+11 regained its certificate of occupancy, subject to the terms of their original lease agreement.
+12 (c) No tenant shall be subject to rent increases, lease termination, or other adverse actions
+13 by the landlord as a result of exercising their rights under this law.
+14 34-43.1-5. Transition.
+15 (a) Landlords of large multi-family dwellings in existence on or before July 1, 2025, shall
+16 comply with the provisions of this chapter on or before January 1, 2027. On or after July 1, 2025,
+17 newly constructed or converted multi-family dwellings shall comply with the provisions of this
+18 chapter upon issuance of their initial certificate of occupancy.
+19 (b) The department shall have the authority to promulgate rules and regulations necessary
+20 to implement and enforce the provisions of this chapter including, but not limited to:
+21 (1) Detailed standards for temporary housing accommodations;
+22 (2) Procedures for conducting compliance inspections;
+23 (3) Guidelines for the financial assistance program;
+24 (4) Processes for handling tenant and resident complaints and dispute resolution; and
+25 (5) Reporting requirements for multi-family dwelling landlords and insurance providers.
+26 34-43.1-6. Severability.
+27 If any provision of this chapter or its application to any person or circumstance is held
+28 invalid, the invalidity does not affect other provisions or applications of this chapter that can be
+29 given effect without the invalid provision or application, and to this end the provisions of this
+30 chapter are severable.
+31 34-43.1-7. Preemption.
+32 This law shall supersede any conflicting local ordinances or regulations relating to
+33 temporary housing insurance requirements for large multi-family dwellings; provided however,
+34 local governments may enact additional requirements that do not conflict with or weaken the
+LC002440 - Page 3 of 12
+
+1 provisions of this chapter.
+2 SECTION 2. Section 27-5-3 of the General Laws in Chapter 27-5 entitled "Fire Insurance
+3 Policies and Reserves" is hereby amended to read as follows:
+4 27-5-3. Form of standard policy.
+5 The form of the standard fire insurance policy of the state of Rhode Island, with permission
+6 to substitute for the word “company” or “companies” a more accurate descriptive term for the type
+7 of insurer, shall be as follows:
+8 No
+9 Space for insertion of name of company or companies issuing the policy and other matter
+10 permitted to be stated at the head of the policy.
+11 Space for listing amounts of insurance, rates, and premiums for the basic coverages insured
+12 under the standard form of policy and for additional coverages or perils insured under endorsements
+13 attached.
+14 In consideration of the provisions and stipulations herein or added hereto and of ...............
+15 dollars premium this company, for the term of ……………
+16 from the ………… day of ………………………………………………, 20 ……
+17 to the ………… day of ………………………………………………, 20 ………
+18 at 12:01 a.m. standard time at location of property involved,
+19 to an amount not exceeding ..................... dollars, does insure, .......................... and legal
+20 representatives, to the extent of the actual cash value of the property at the time of loss, but not
+21 exceeding the amount which it would cost to repair or replace the property with material of like
+22 kind and quality within a reasonable time after a loss, without allowance for any increased cost of
+23 repair or reconstruction by reason of any ordinance or law regulating construction or repair, and
+24 without compensation for loss resulting from interruption of business or manufacture, nor in any
+25 event for more than the interest of the insured, against all direct loss by fire and lightning, and by
+26 removal from the premises endangered by the perils insured against in this policy, except as
+27 hereinafter provided, to the property described hereinafter while located or contained as described
+28 in this policy, or pro rata for five (5) days at each proper place to which any of the property shall
+29 necessarily be removed for preservation from the perils insured against in this policy, but not
+30 elsewhere.
+31 Assignment of this policy shall not be valid except with the written consent of this
+32 company.
+33 This policy is made and accepted subject to the foregoing provisions and stipulations and
+34 those hereinafter stated, which are hereby made a part of this policy, together with such other
+LC002440 - Page 4 of 12
+
+1 provisions, stipulations, and agreements as may be added hereto, as provided in this policy.
+2 IN WITNESS WHEREOF, this company has executed and attested these presents;
+3 at ..........................................................................................................................................
+4 ………………………………… ..................................................
+5 Secretary President
+6 In the event the domicile state of the company issuing the policy requires a Rhode Island company
+7 to have a countersignature affixed by a licensed resident agent to a policy issued in that state then
+8 in accordance with the provisions of § 27-2-17, the form of the standard fire insurance policy shall
+9 in lieu of the foregoing execution and attestation clause contain the following execution and
+10 attestation clause: IN WITNESS WHEREOF, this company has executed and attested these
+11 presents; but this policy shall not be valid unless countersigned by the duly authorized agent of this
+12 company at .......................................................................................................................................
+13 ..........................................................................................................................................................
+14 ………………………………… ..................................................
+15 Secretary President
+16 Countersigned this .…………………... day of ……………………………………20 ..………….
+17 ..................................................
+18 Agent
+19 1 Concealment, This entire policy shall be void if, whether
+20 2 fraud. before or after a loss, the insured will-
+21 3 fully concealed or misrepresented any material
+22 4 fact or circumstance concerning this insurance or the subject
+23 5 thereof, or the interest of the insured therein, or in the case of
+24 6 any fraud or false swearing by the insured relating thereto.
+25 7 Uninsurable This policy shall not cover accounts, bills,
+26 8 and excepted currency, deeds, evidences of debt, money, or
+27 9 property. securities; nor, unless specifically named here-
+28 10 on in writing, bullion or manuscripts.
+29 11 Perils not This company shall not be liable for loss by
+30 12 included. fire or other perils insured against in this
+31 13 policy caused, directly or indirectly, by: (a)
+32 14 enemy attack by armed forces, including action taken by mili-
+33 15 tary, naval, or air forces in resisting an actual or an immediately
+34 16 impending enemy attack; (b) invasion; (c) insurrection; (d)
+35 17 rebellion; (e) revolution; (f) civil war; (g) usurped power; (h)
+36 18 order of any civil authority except acts of destruction at the time
+LC002440 - Page 5 of 12
+
+1 19 of and for the purpose of preventing the spread of fire, provided
+2 20 that this fire did not originate from any of the perils excluded
+3 21 by this policy; (i) neglect of the insured to use all reasonable
+4 22 means to save and preserve the property at and after a loss, or
+5 23 when the property is endangered by fire in neighboring prem-
+6 24 ises; (j) loss by theft.
+7 25 Other Insurance. Other insurance may be prohibited or the
+8 26 amount of insurance may be limited by an
+9 27 endorsement attached hereto.
+10 28 Conditions suspending or restricting insurance. Unless
+11 29 otherwise provided in writing and added hereto this company
+12 or companies shall not
+13 30 be liable for loss occurring:
+14 31 (a) While the hazard is increased by any means within the con-
+15 32 trol or knowledge of the insured; or
+16 33 (b) While a described building, whether intended for occupancy
+17 34 by owner or tenant, is vacant or unoccupied beyond a period of
+18 35 sixty (60) consecutive days or
+19 35A thirty (30) consecutive days subsequent to the date on which an
+20 35B order is issued by the local building inspector pursuant to
+21 § 23-27.3-124.2,
+22 35C whichever first occurs; or
+23 36 (c) As a result of explosion or riot, unless fire ensues, and in
+24 37 that event for loss by fire only.
+25 38 Other perils Any other peril to be insured against or sub-
+26 39 or subjects. ject of insurance to be covered in this policy
+27 40 shall be by endorsement in writing hereon or
+28 41 added hereto.
+29 Provisions for large multi-family properties. Every policy which insures multi-unit
+30 residential property, as defined in §34-43.1-1, against loss or damage by fire shall provide
+31 additional benefits, by endorsement attached to the policy, up to a limit of ten thousand dollars
+32 ($10,000), without deductible, for each rental unit to cover the actual costs of relocation of any
+33 tenant or lawful occupant displaced by fire or from a loss described in § 34-43.1-2(a). The actual
+34 costs of relocation shall include, but not be limited to, hotel room rental, a security deposit and first
+LC002440 - Page 6 of 12
+
+1 month's rent for a new rental unit if the security deposit or last month's rent is not already due and
+2 owing from the landlord to the tenant, clothing replacement, furniture replacement and other
+3 reasonable costs and living expenses as a result of being displaced or damaged by a covered loss.
+4 Benefits under this clause shall be paid by the insurer to the tenant or lawful occupant after
+5 considering benefits available under any other policy. The terms and conditions of such clause shall
+6 be approved or prescribed by the commissioner. The landlord or lessor of the property shall notify
+7 each tenant or lawful occupant in writing of the benefits payable under this clause at the beginning
+8 of the lease or tenancy period. A waiver of this provision in any lease or other rental agreement
+9 shall be void and unenforceable.
+10 The department of business regulation may exempt from the provisions of this section residence
+11 halls and dormitories operated by institutions of public higher education; provided, however, that
+12 the institution assumes responsibility for the relocation of any tenant displaced by fire or by damage
+13 resulting from a loss described in § 34-43.1-2(a).
+14 42 Added provisions. The extent of the application of insurance
+15 43 under this policy and of the contribution to
+16 44 be made by this company in case of loss, and any other pro-
+17 45 vision or agreement not inconsistent with the provisions of this
+18 46 policy, may be provided for in writing and added hereto, but no
+19 47 provision may be waived except such as by the terms of this
+20 48 policy is subject to change.
+21 49 Waiver No permission affecting this insurance shall
+22 50 provisions. exist, or waiver of any provision is valid,
+23 51 unless granted herein or expressed in writing
+24 52 and added hereto. No provision, stipulation, or forfeiture shall
+25 53 be held to be waived by any requirement or proceeding on the
+26 54 part of this company relating to appraisal or to any examina-
+27 55 tion provided for herein.
+28 56 Cancellation This policy shall be cancelled at any time
+29 57 of policy. at the request of the insured, in which case
+30 58 this company shall, upon demand and sur-
+31 59 render of this policy, refund the excess of the paid premium
+32 above
+33 60 the customary short rates for the expired time. This pol-
+34 61 icy may be cancelled at any time by this company by giving
+LC002440 - Page 7 of 12
+
+1 62 to the insured a thirty (30) days’ written notice of cancellation except that when cancellation is
+2 for nonpayment of premium, a ten (10) days’ written notice shall be required with
+3 63 or without tender of the excess of the paid premium above the
+4 pro
+5 64 rata premium for the expired time.
+6 65 Notice of cancellation shall state that
+7 66 the excess premium (if not tendered) will be promptly
+8 67 re-funded.
+9 68 Mortgagee If loss hereunder is made payable, in whole
+10 69 interests and or in part, to a designated mortgagee not
+11 70 obligations. named herein as the insured, that interest in
+12 71 this policy may be cancelled by giving to that
+13 72 mortgagee a ten (10) days’ written notice of
+14 73 cancellation.
+15 74 If the insured fails to render proof of loss the mortgagee, upon
+16 75 notice, shall render proof of loss in the form herein specified
+17 76 within sixty (60) days thereafter and shall be subject to the pro-
+18 77 visions hereof relating to appraisal and time of payment and of
+19 78 bringing suit. If this company shall claim that no liability ex-
+20 79 isted as to the mortgagor or owner, it shall, to the extent of the pay-
+21 80 ment of loss to the mortgagee, be subrogated to all the mort-
+22 81 gagee's rights of recovery, but without impairing the mort-
+23 gagee's
+24 82 right to sue; or it may pay off the mortgage debt and require
+25 83 an assignment thereof and of the mortgage. Other provisions
+26 84 relating to the interests and obligations of the mortgagee may
+27 85 be added hereto by agreement in writing.
+28 86 Pro rata liability. This company shall not be liable for a
+29 87 greater proportion of any loss than the
+30 88 amount hereby insured shall bear to the whole insurance cover-
+31 89 ing the property against the peril involved, whether collectible
+32 or not.
+33 90 Requirements in The insured shall give immediate written
+34 91 case loss occurs. notice to this company of any loss, protect
+LC002440 - Page 8 of 12
+
+1 92 the property from further damage, forth
+2 with
+3 93 separate the damaged and undamaged personal property, put
+4 94 it in the best possible order, furnish a complete inventory of
+5 95 the destroyed, damaged, and undamaged property, showing in
+6 96 detail quantities, costs, actual cash value and amount of loss
+7 97 claimed; and within sixty (60) days after the loss, unless such
+8 98 time is extended in writing by this company, the insured shall
+9 99 render to this company a proof of loss, signed and sworn to by
+10 100 the insured, stating the knowledge and belief of the insured as to
+11 101 the following: the time and origin of the loss, the interest of the
+12 102 insured and of all others in the property, the actual cash value of
+13 103 each item thereof and the amount of loss thereto, all encum-
+14 104 brances thereon, all other contracts of insurance, whether valid
+15 105 or not, covering any of the property, any changes in the title,
+16 106 use, occupation, location, possession, or exposures of the prop-
+17 107 erty since the issuing of this policy, and by whom and for what
+18 108 purpose any building herein described and the several parts
+19 109 thereof were occupied at the time of loss and whether or not it
+20 110 then stood on leased ground, and shall furnish a copy of all the
+21 111 descriptions and schedules in all policies and, if required, veri-
+22 112 fied plans and specifications of any building, fixtures, or
+23 machin-
+24 113 ery destroyed or damaged. The insured, as often as may be
+25 114 reasonably required, shall exhibit to any person designated by
+26 115 this company all that remains of any property herein described,
+27 116 and submit to examinations under oath by any person named by
+28 117 this company, and subscribe the same; and, as often as may be
+29 118 reasonably required, shall produce for examination all books of
+30 119 account, bills, invoices, and other vouchers, or certified copies
+31 120 thereof if the originals are lost, at such reasonable time and
+32 place as
+33 121 may be designated by this company or its representative, and
+34 122 shall permit extracts and copies thereof to be made.
+LC002440 - Page 9 of 12
+
+1 123 Appraisal. In case the insured and this company shall
+2 124 fail to agree as to the actual cash value or
+3 125 the amount of loss, then, on the written demand of either, each
+4 126 shall select a competent and disinterested appraiser and notify
+5 127 the other of the appraiser selected within twenty (20) days of
+6 128 that demand. The appraisers shall first select a competent and
+7 129 disinterested umpire; and failing for fifteen (15) days to agree
+8 130 upon the umpire, then, on request of the insured or this com-
+9 131 pany, the umpire shall be selected by a judge of a court of
+10 132 record in the state in which the property covered is located. The
+11 133 appraisers shall then appraise the loss, stating separately actual
+12 134 cash value and loss to each item; and, failing to agree, shall
+13 135 submit their differences, only, to the umpire. An award in writ-
+14 136 ing, so itemized, of any two (2) when filed with this company
+15 shall
+16 137 determine the amount of actual cash value and loss. Each
+17 138 appraiser shall be paid by the party selecting him or her and
+18 139 the expenses of appraisal and the umpire shall be paid by
+19 140 the parties equally.
+20 141 Company's It shall be optional with this company to
+21 142 options. take all, or any part, of the property at the
+22 143 agreed or appraised value, and also to re-
+23 144 pair, rebuild, or replace the property destroyed or damaged with
+24 145 another of like kind and quality within a reasonable time, on
+25 146 giving notice of its intention so to do within thirty (30) days
+26 147 after the receipt of the proof of the loss herein required.
+27 148 Abandonment. There can be no abandonment to this com-
+28 149 pany of any property.
+29 150 When loss The amount of loss for which this company
+30 151 payable may be liable shall be payable sixty (60)
+31 152 days after proof of loss, as herein provided,
+32 153 is received by this company and ascertainment of the loss is
+33 154 made either by agreement between the insured and this com-
+34 155 pany expressed in writing or by the filing with this company
+LC002440 - Page 10 of 12
+
+1 156 of an award as herein provided.
+2 157 Suit. No suit or action on this policy for the recov-
+3 158 ery of any claim shall be sustainable in any
+4 159 court of law or equity unless all the requirements of this policy
+5 160 shall have been complied with, and unless commenced within
+6 161 twenty-four (24) months next after inception of the loss.
+7 162 Subrogation. This company may require from the insured
+8 163 an assignment of all rights of recovery.
+9 164 against any party for loss to the extent that payment therefor
+10 165 is made by this company.
+11 Standard Fire Insurance Policy of the State of
+12 Expires ..............................................................................................................................................
+13 Property .............................................................................................................................................
+14 Assured .............................................................................................................................................
+15 No. ……………………………
+16 (COMPANY)
+17 It is important that the written portions of all policies covering
+18 the same property read exactly alike. If they do not, they should
+19 be made uniform at once.
+20 SECTION 3. This act shall take effect on July 1, 2025.
+========
+LC002440
+========
+LC002440 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- INSURANCE ON MULTI-UNIT DWELLINGS -- TENANT
+RELOCATION INSURANCE
+***
+1 This act would require owners of large multi-family dwellings to secure insurance coverage
+2 that provides for the temporary housing of tenants for a period of at least thirty (30) days in the
+3 event the large multi-family dwelling loses its certificate of occupancy or becomes uninhabitable
+4 due to a fire, act of God, flood, or other sudden occurrence that renders the property uninhabitable.
+5 This act would take effect on July 1, 2025.
+========
+LC002440
+========
+LC002440 - Page 12 of 12
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C I 3 A ( t e f ( o c ( 4 ( t ( r d u i b n l t a b c]
+[DELETED:   ( t t 3 ( e d t d o ( ( i ( a ( ( m 3 ( T d s h t a t r p o i t v c ( w d ( T m i l a a l f n w t t r r 3 ( m o (]
+[DELETED:  ( ( t ( H r a t t p b i t a m d ( p ( r ( R t o d u o i h b d h h r ( b 3 ( c n c ( t ( ( ( ( ( 3 I i g c 3 T l s s a c l o o r r t t l]
+[DELETED:  p S P 2 T t o N S p S u a I d  f  t  a t a a n e . d d i . a l r e k r w e r f t p e b t p i e a h i n e A o t p s n b v e w t w c o t c T t]
+[DELETED:  p I a …   S P I t i 2 i l o t f e a a c c t e a a c I W W t c h e a a t p c   …   S P C     A 1 T 2   3 f 4 5 6 7 T 8 c 9 s 1 o 1 T 1 f 1 p 1 1 1 1 1]
+[DELETED:  1 2 2 2 2 2 2 2 a 2 2 2  o 3 3 W 3 t 3 W 3 b 3 s 3 t 3 o  § 3 w 3 A 3 t 3 A 3 j 4 s 4 P f l m p E p w i m r p a d i § a l o d b f s p a ( t c]
+[DELETED:  m o f t l t t t c r f r a o r B u t c s b p t i t t o o a c b e o s T h t r 4   4 u 4 4 4 4 4 4 N 5 e 5 u 5 5 5 5 5 T 5   5 t 5  a 6 6]
+[DELETED:  6 f 6  p 6 6 6 6 6 I 6 o 7 n 7 t 7 m 7 7 7 7 7 7 7 8 8  g 8 8 8 8 8 T 8 g 8 8  o 9 T 9 n]
+[DELETED:  9 t  w 9 9 9 9 9 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1  m 1 1 1 1 1 1 1 1  p 1 1]
+[DELETED:  1 I 1 f 1 1 1 1 1 1 1 1 1 1 1 1  s 1 1 1 1 1 I 1   1 a 1 1 1 1 1 1 p 1 T 1 m 1 d 1 1 1]
+[DELETED:  1 1 N 1 e 1 1 1 1 T 1 a 1 1 S E P A N  ( I t b S]
+[DELETED:  T t e d T]

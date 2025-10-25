@@ -1,0 +1,161 @@
+Title: RELATING TO TAXATION -- PUBLIC SERVICE CORPORATION TAX
+Official Title: RELATING TO TAXATION -- PUBLIC SERVICE CORPORATION TAX
+Number of Sections: 1
+Source: versions - 895
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0895
+========
+LC002554
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Patalano, Dimitri, Ciccone, Burke, Raptakis, Thompson, Britto,
+Appollonio, Vargas, and Gallo
+Date Introduced: March 27, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-13-4 of the General Laws in Chapter 44-13 entitled "Public
+2 Service Corporation Tax" is hereby amended to read as follows:
+3 44-13-4. Rate of taxation.
+4 The tax imposed will be at the following rates:
+5 (1) In the case of every corporation whose principal business is a steamboat or ferryboat
+6 business as a common carrier, every common carrier steam or electric railroad corporation, every
+7 street railway corporation, every common carrier dining, sleeping, chair, or parlor car corporation,
+8 every corporation whose principal business is selling and distributing water to the public, and every
+9 toll bridge corporation, one and one-fourth percent (1.25%) of its gross earnings;
+10 (2) In the case of every corporation whose principal business is manufacturing, selling,
+11 distributing and/or transmitting currents of electricity to be used for light, heat, or motive power,
+12 four percent (4%) of its gross earnings, but deductions shall be made of gross earnings from the
+13 transmission or sale of electricity to other public utility corporations, non-regulated power
+14 producers, or municipal utilities for resale, whether within or outside of this state; provided, that
+15 the tax measured by the portion of the utility’s gross earnings as is derived from the manufacture
+16 and sale of illuminating and heating gas and its by-products and the merchandising of gas
+17 appliances shall be computed at the rate of three percent (3%); Notwithstanding the above, on and
+18 after January 1, 2026, the rate of tax set forth in subsection (2) of this section shall be suspended
+19 until January 1, 2035;
+1 (3) In the case of every express corporation carrying on its business on steamboats, steam
+2 or electric railroads, or street railways and of every public service corporation whose principal
+3 business is that of a telegraph corporation, four percent (4%) of its gross earnings;
+4 (4) In the case of every telecommunications corporation providing telecommunications
+5 service, ten percent (10%) of its gross earnings; provided, that the rate shall be nine percent (9%)
+6 effective July 1, 1985, eight percent (8%) effective July 1, 1986, seven percent (7%) effective July
+7 1, 1987, six percent (6%) effective July 1, 1988, and five percent (5%) effective July 1, 1997. For
+8 purposes of this chapter, “telecommunications service” means the transmission of any interactive
+9 two-way electromagnetic communications including voice, image, data, and other information, by
+10 means of wire, cable, including fiber optical cable, microwave, and radio wave, or any
+11 combinations of these media. This definition does not include value added non-voice services in
+12 which computer processing applications are used to act on the form, content, code, and protocol of
+13 the information to be transmitted;
+14 (5) In the case of every public service cable corporation, eight percent (8%) of its gross
+15 earnings;
+16 (6) In the case of every corporation whose principal business is manufacturing, selling
+17 and/or distributing to the public illuminating or heating gas, three percent (3%) of its gross earnings.
+18 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC002554
+========
+LC002554 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PUBLIC SERVICE CORPORATION TAX
+***
+1 This act would suspend the gross earnings tax on electric and gas companies until January
+2 1, 2035.
+3 This act would take effect on January 1, 2026.
+========
+LC002554
+========
+LC002554 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 4 o t G L C e S 4 T ( b s e t ( d f t o s o e t o p u c n p p t a s o i a h g a i b a t m o g a a u]
+[DELETED:  ( o b ( s e 1 p t m o w c i f o c m a r w o a c w t ( e ( a S]
+[DELETED:  T 1 T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0895
+========
+LC002554
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- PUBLIC SERVICE CORPORATION TAX
+Introduced By: Senators Patalano, Dimitri, Ciccone, Burke, Raptakis, Thompson, Britto,
+Appollonio, Vargas, and Gallo
+Date Introduced: March 27, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-13-4 of the General Laws in Chapter 44-13 entitled "Public
+2 Service Corporation Tax" is hereby amended to read as follows:
+3 44-13-4. Rate of taxation.
+4 The tax imposed will be at the following rates:
+5 (1) In the case of every corporation whose principal business is a steamboat or ferryboat
+6 business as a common carrier, every common carrier steam or electric railroad corporation, every
+7 street railway corporation, every common carrier dining, sleeping, chair, or parlor car corporation,
+8 every corporation whose principal business is selling and distributing water to the public, and every
+9 toll bridge corporation, one and one-fourth percent (1.25%) of its gross earnings;
+10 (2) In the case of every corporation whose principal business is manufacturing, selling,
+11 distributing and/or transmitting currents of electricity to be used for light, heat, or motive power,
+12 four percent (4%) of its gross earnings, but deductions shall be made of gross earnings from the
+13 transmission or sale of electricity to other public utility corporations, non-regulated power
+14 producers, or municipal utilities for resale, whether within or outside of this state; provided, that
+15 the tax measured by the portion of the utility’s gross earnings as is derived from the manufacture
+16 and sale of illuminating and heating gas and its by-products and the merchandising of gas
+17 appliances shall be computed at the rate of three percent (3%); Notwithstanding the above, on and
+18 after January 1, 2026, the rate of tax set forth in subsection (2) of this section shall be suspended
+19 until January 1, 2035;
+
+1 (3) In the case of every express corporation carrying on its business on steamboats, steam
+2 or electric railroads, or street railways and of every public service corporation whose principal
+3 business is that of a telegraph corporation, four percent (4%) of its gross earnings;
+4 (4) In the case of every telecommunications corporation providing telecommunications
+5 service, ten percent (10%) of its gross earnings; provided, that the rate shall be nine percent (9%)
+6 effective July 1, 1985, eight percent (8%) effective July 1, 1986, seven percent (7%) effective July
+7 1, 1987, six percent (6%) effective July 1, 1988, and five percent (5%) effective July 1, 1997. For
+8 purposes of this chapter, “telecommunications service” means the transmission of any interactive
+9 two-way electromagnetic communications including voice, image, data, and other information, by
+10 means of wire, cable, including fiber optical cable, microwave, and radio wave, or any
+11 combinations of these media. This definition does not include value added non-voice services in
+12 which computer processing applications are used to act on the form, content, code, and protocol of
+13 the information to be transmitted;
+14 (5) In the case of every public service cable corporation, eight percent (8%) of its gross
+15 earnings;
+16 (6) In the case of every corporation whose principal business is manufacturing, selling
+17 and/or distributing to the public illuminating or heating gas, three percent (3%) of its gross earnings.
+18 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC002554
+========
+LC002554 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PUBLIC SERVICE CORPORATION TAX
+***
+1 This act would suspend the gross earnings tax on electric and gas companies until January
+2 1, 2035.
+3 This act would take effect on January 1, 2026.
+========
+LC002554
+========
+LC002554 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 4 o t G L C e S 4 T ( b s e t ( d f t o s o e t o p u c n p p t a s o i a h g a i b a t m o g a a u]
+[DELETED:  ( o b ( s e 1 p t m o w c i f o c m a r w o a c w t ( e ( a S]
+[DELETED:  T 1 T]

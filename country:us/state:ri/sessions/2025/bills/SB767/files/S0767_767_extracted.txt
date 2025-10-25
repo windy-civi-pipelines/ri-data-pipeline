@@ -1,0 +1,684 @@
+Title: RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 767
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0767
+========
+LC000556
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+GENETIC INFORMATION PRIVACY ACT
+Introduced By: Senators Zurier, Valverde, and Euer
+Date Introduced: March 14, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and short title.
+2 (a) The general assembly finds and declares the following:
+3 (1) Direct-to-consumer genetic testing services are largely unregulated and could expose
+4 personal and genetic information, and potentially create unintended security consequences and
+5 increased risk.
+6 (2) There is growing concern in the scientific community that outside parties are exploiting
+7 the use of genetic data for questionable purposes, including mass surveillance and the ability to
+8 track individuals without their authorization.
+9 (3) Genomic data is highly distinguishable. There is a confirmation that a sequence of 30
+10 to 80 single nucleotide polymorphisms could uniquely identify an individual. Genomic data is also
+11 very stable. It undergoes little change over the lifetime of an individual and thus has a long-lived
+12 value, as opposed to other biometric data such as blood tests, which have expiration dates.
+13 (4) The potential information hidden within genomic data is cause for significant concern.
+14 As our knowledge in genomics evolves, so will our view on the sensitivity of genomic data.
+15 (b) Short title. This chapter shall be known, and may be cited, as the "Genetic Information
+16 Privacy Act."
+17 SECTION 2. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+18 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+1 CHAPTER 61
+2 GENETIC INFORMATION PRIVACY ACT
+3 6-61-1. Definitions.
+4 For purposes of this chapter, the following definitions apply:
+5 (1) “Affirmative authorization” means an action that demonstrates an intentional decision
+6 by the consumer.
+7 (2) “Biological sample” means any material part of the human, discharge therefrom, or
+8 derivative thereof, such as tissue, blood, urine, or saliva, known to contain deoxyribonucleic acid
+9 (DNA).
+10 (3) “Consumer” means a natural person who is a Rhode Island resident.
+11 (4) “Dark pattern” means a user interface designed or manipulated with the substantial
+12 effect of subverting or impairing user autonomy, decision making, or choice.
+13 (5) “Direct-to-consumer genetic testing company” means an entity that does any of the
+14 following:
+15 (i) Sells, markets, interprets, or otherwise offers consumer-initiated genetic testing
+16 products or services directly to consumers.
+17 (ii) Analyzes genetic data obtained from a consumer, except to the extent that the analysis
+18 is performed by a person licensed in the healing arts for diagnosis or treatment of a medical
+19 condition.
+20 (iii) Collects, uses, maintains, or discloses genetic data collected or derived from a direct-
+21 to-consumer genetic testing product or service, or is directly provided by a consumer.
+22 (6) “Express consent” means a consumer’s affirmative authorization to grant permission in
+23 response to a clear, meaningful, and prominent notice regarding the collection, use, maintenance,
+24 or disclosure of genetic data for a specific purpose. The nature of the data collection, use,
+25 maintenance, or disclosure shall be conveyed in clear and prominent terms in such a manner that
+26 an ordinary consumer would notice and understand it. Express consent cannot be inferred from
+27 inaction. Agreement obtained through use of dark patterns does not constitute consent.
+28 (7)(i) “Genetic data” means any data, regardless of its format, that results from the analysis
+29 of a biological sample from a consumer, or from another element enabling equivalent information
+30 to be obtained, and concerns genetic material. Genetic material includes, but is not limited to,
+31 deoxyribonucleic acids (DNA), ribonucleic acids (RNA), genes, chromosomes, alleles, genomes,
+32 alterations or modifications to DNA or RNA, single nucleotide polymorphisms (SNPs),
+33 uninterpreted data that results from the analysis of the biological sample, and any information
+34 extrapolated, derived, or inferred therefrom.
+LC000556 - Page 2 of 10
+1 (ii) “Genetic data” does not include deidentified data. For purposes of this subsection,
+2 “deidentified data” means data that cannot be used to infer information about, or otherwise be
+3 linked to, a particular individual; provided that, the business that possesses the information does all
+4 of the following:
+5 (A) Takes reasonable measures to ensure that the information cannot be associated with a
+6 consumer or household;
+7 (B) Publicly commits to maintain and use the information only in deidentified form and
+8 not to attempt to reidentify the information, except that the business may attempt to reidentify the
+9 information solely for the purpose of determining whether its deidentification processes satisfy the
+10 requirements of this subsection; provided that, the business does not use or disclose any information
+11 reidentified in this process and destroys the reidentified information upon completion of that
+12 assessment; and
+13 (C) Contractually obligates any recipients of the information to take reasonable measures
+14 to ensure that the information cannot be associated with a consumer or household and to commit
+15 to maintaining and using the information only in deidentified form and not to reidentify the
+16 information;
+17 (iii) “Genetic data” does not include data or a biological sample to the extent that data or a
+18 biological sample is collected, used, maintained, and disclosed exclusively for scientific research
+19 conducted by an investigator with an institution that holds an assurance with the United States
+20 Department of Health and Human Services pursuant to Part 46 (commencing with Section 46.101)
+21 of Title 45 of the Code of Federal Regulations, in compliance with all applicable federal and state
+22 laws and regulations for the protection of human subjects in research including, but not limited to,
+23 the Common Rule pursuant to Part 46 (commencing with Section 46.101) of Title 45 of the Code
+24 of Federal Regulations, United States Food and Drug Administration regulations pursuant to Parts
+25 50 and 56 of Title 21 of the Code of Federal Regulations, and the federal Family Educational Rights
+26 and Privacy Act (20 U.S.C. Sec. 1232g).
+27 (8) “Genetic testing” means any laboratory test of a biological sample from a consumer for
+28 the purpose of determining information concerning genetic material contained within the biological
+29 sample, or any information extrapolated, derived, or inferred therefrom.
+30 (9) “Person” means an individual, partnership, corporation, association, business, business
+31 trust, or legal representative of an organization.
+32 (10) “Service provider” means a sole proprietorship, partnership, limited liability company,
+33 corporation, association, or other legal entity that is organized or operated for the profit or financial
+34 benefit of its shareholders or other owners, that is involved in the collection, transportation, and
+LC000556 - Page 3 of 10
+1 analysis of the consumer’s biological sample or extracted genetic material on behalf of the direct-
+2 to-consumer genetic testing company, or on behalf of any other company that collects, uses,
+3 maintains, or discloses genetic data collected or derived from a direct-to-consumer genetic testing
+4 product or service, or is directly provided by a consumer, or the delivery of the results of the
+5 analysis of the biological sample or genetic material. The contract between the company and the
+6 service provider shall prohibit the service provider from retaining, using, or disclosing the
+7 biological sample, extracted genetic material, genetic data, or any information regarding the
+8 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+9 as applicable, for any purpose other than for the specific purpose of performing the services
+10 specified in the contract for the business, including both of the following:
+11 (i) A provision prohibiting the service provider from retaining, using, or disclosing the
+12 biological sample, extracted genetic material, genetic data, or any information regarding the
+13 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+14 as applicable, for a commercial purpose other than providing the services specified in the contract
+15 with the business; and
+16 (ii) A provision prohibiting the service provider from associating or combining the
+17 biological sample, extracted genetic material, genetic data, or any information regarding the
+18 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+19 as applicable, with information the service provider has received from or on behalf of another
+20 person or persons, or has collected from its own interaction with consumers or as required by law.
+21 6-61-2. Privacy of genetic data.
+22 (a) To safeguard the privacy, confidentiality, security, and integrity of a consumer’s genetic
+23 data, a direct-to-consumer genetic testing company shall do both of the following:
+24 (1) Provide clear and complete information regarding the company’s policies and
+25 procedures for the collection, use, maintenance, and disclosure, as applicable, of genetic data by
+26 making available to a consumer all of the following:
+27 (i) A summary of its privacy practices, written in plain language, that includes information
+28 about the company’s collection, use, maintenance, and disclosure, as applicable, of genetic data;
+29 (ii) A prominent and easily accessible privacy notice that includes, at a minimum, complete
+30 information about the company’s data collection, consent, use, access, disclosure, maintenance,
+31 transfer, security, and retention and deletion practices, and information that clearly describes how
+32 to file a complaint alleging a violation of this chapter; and
+33 (iii) A notice that the consumer’s deidentified genetic or phenotypic information may be
+34 shared with or disclosed to third parties for research purposes in accordance with Part 46
+LC000556 - Page 4 of 10
+1 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations.
+2 (2) Obtain a consumer’s express consent for collection, use, and disclosure of the
+3 consumer’s genetic data, including, at a minimum, separate and express consent for each of the
+4 following:
+5 (i) The use of the genetic data collected through the genetic testing product or service
+6 offered to the consumer, including who has access to genetic data, and how genetic data may be
+7 shared, and the specific purposes for which it will be collected, used, and disclosed;
+8 (ii) The storage of a consumer’s biological sample after the initial testing requested by the
+9 consumer has been fulfilled;
+10 (iii) Each use of genetic data or the biological sample beyond the primary purpose of the
+11 genetic testing or service and inherent contextual uses;
+12 (iv) Each transfer or disclosure of the consumer’s genetic data or biological sample to a
+13 third party other than to a service provider, including the name of the third party to which the
+14 consumer’s genetic data or biological sample will be transferred or disclosed;
+15 (v)(A) The marketing or facilitation of marketing to a consumer based on the consumer’s
+16 genetic data or the marketing or facilitation of marketing by a third party based upon the consumer
+17 having ordered, purchased, received, or used a genetic testing product or service;
+18 (B) This subsection does not require a direct-to-consumer genetic testing company to
+19 obtain a consumer’s express consent to market to the consumer on the company’s own website or
+20 mobile application based upon the consumer having ordered, purchased, received, or used a genetic
+21 testing product or service from that company if the content of the advertisement does not depend
+22 upon any information specific to that consumer, except for the product or service that the consumer
+23 ordered, purchased, received, or used, and the placement of the advertisement is not intended to
+24 result in disparate exposure to advertising content. Nothing in this subsection alters, limits, or
+25 negates the requirements of any other antidiscrimination law or targeted advertising law;
+26 (C) Any advertisement of a third-party product or service presented to a consumer shall be
+27 prominently labeled as advertising content and be accompanied by the name of any third party that
+28 has contributed to the placement of the advertising. If applicable, the advertisement also shall
+29 clearly indicate that the advertised product or service, and any associated claims, have not been
+30 vetted or endorsed by the direct-to-consumer genetic testing company;
+31 (D) For the purpose of this section, “third party” does not include a public or private
+32 nonprofit postsecondary educational institution to the extent that the consumer’s genetic data or
+33 biological sample is disclosed to a public or private nonprofit postsecondary educational institution
+34 for the purpose of scientific research or educational activities as described in § 6-61-5. A company
+LC000556 - Page 5 of 10
+1 that is subject to the requirements described in this section shall provide effective mechanisms,
+2 without any unnecessary steps, for a consumer to revoke their consent after it is given, at least one
+3 of which utilizes the primary medium through which the company communicates with consumers.
+4 (b) If a consumer revokes the consent that they provided pursuant to this section, the
+5 company shall honor the consumer’s consent revocation as soon as practicable, but not later than
+6 thirty (30) days after the individual revokes consent, in accordance with both of the following:
+7 (1) Revocation of consent under this section shall comply with Part 46 of Title 45 of the
+8 Code of Federal Regulations; and
+9 (2) The company shall destroy a consumer’s biological sample within thirty (30) days of
+10 receipt of revocation of consent to store the sample.
+11 (c) The direct-to-consumer genetic testing company shall do both of the following:
+12 (1) Implement and maintain reasonable security procedures and practices to protect a
+13 consumer’s genetic data against unauthorized access, destruction, use, modification, or disclosure;
+14 and
+15 (2) Develop procedures and practices to enable a consumer to easily do any of the
+16 following;
+17 (i) Access the consumer’s genetic data;
+18 (ii) Delete the consumer’s account and genetic data, except for genetic data that is required
+19 to be retained by the company to comply with applicable legal and regulatory requirements; or
+20 (iii) Have the consumer’s biological sample destroyed.
+21 (d) A person or public entity shall not discriminate against a consumer because the
+22 consumer exercised any of the consumer’s rights under this chapter by doing any of the following
+23 including, but not limited to:
+24 (1) Denying goods, services, or benefits to the customer;
+25 (2) Charging different prices or rates for goods or services, including through the use of
+26 discounts or other incentives or imposing penalties;
+27 (3) Providing a different level or quality of goods, services, or benefits to the consumer;
+28 (4) Suggesting that the consumer will receive a different price or rate for goods, services,
+29 or benefits, or a different level or quality of goods, services, or benefits;
+30 (5) Considering the consumer’s exercise of rights under this chapter as a basis for suspicion
+31 of criminal wrongdoing or unlawful conduct.
+32 (e)(1) Notwithstanding any other provision in this section, and except as provided in
+33 subsection (e)(2) of this section, a direct-to-consumer genetic testing company shall not disclose a
+34 consumer’s genetic data to any entity that is responsible for administering or making decisions
+LC000556 - Page 6 of 10
+1 regarding health insurance, life insurance, long-term care insurance, disability insurance, or
+2 employment or to any entity that provides advice to an entity that is responsible for performing
+3 those functions;
+4 (2) A direct-to-consumer genetic testing company may disclose a consumer’s genetic data
+5 or biological sample to an entity described in subsection (e)(1) of this section if all of the following
+6 are true:
+7 (i) The entity is not primarily engaged in administering health insurance, life insurance,
+8 long-term care insurance, disability insurance, or employment;
+9 (ii) The consumer’s genetic data or biological sample is not disclosed to the entity in that
+10 entity’s capacity as a party that is responsible for administering, advising, or making decisions
+11 regarding health insurance, life insurance, long-term care insurance, disability insurance, or
+12 employment; and
+13 (iii) Any agent or division of the entity that is involved in administering, advising, or
+14 making decisions regarding health insurance, life insurance, long-term care insurance, disability
+15 insurance, or employment is prohibited from accessing the consumer’s genetic data or biological
+16 sample.
+17 6-61-3. Penalties.
+18 (a) Any person who negligently violates this chapter shall be assessed a civil penalty in an
+19 amount not to exceed one thousand dollars ($1,000) plus court costs, as determined by the court.
+20 (b) Any person who willfully violates this chapter shall be assessed a civil penalty in an
+21 amount not less than one thousand dollars ($1,000) and not more than ten thousand dollars
+22 ($10,000) plus court costs, as determined by the court.
+23 (c) Actions for relief pursuant to this chapter shall be prosecuted exclusively in a court of
+24 competent jurisdiction by the attorney general.
+25 (d) Court costs recovered pursuant to this section shall be paid to the party or parties that
+26 prosecuted the violation. Penalties recovered pursuant to this section shall be paid to the individual
+27 to whom the genetic data at issue pertains.
+28 (e) Any provision of a contract or agreement between a consumer and a person governed
+29 by this chapter that has, or would have, the effect of delaying or limiting access to a legal remedy
+30 for a violation of this chapter shall not apply to the exercise of rights or enforcement pursuant to
+31 this chapter.
+32 (f) Each violation of this chapter is a separate and actionable violation.
+33 6-61-4. Conflicts of law.
+34 (a) The provisions of this chapter shall not reduce a direct-to-consumer genetic testing
+LC000556 - Page 7 of 10
+1 company’s duties, obligations, requirements, or standards under any applicable state and federal
+2 laws for the protection of privacy and security.
+3 (b) In the event of a conflict between the provisions of this chapter and any other law, the
+4 provisions of the law that afford the greatest protection for the right of privacy for consumers shall
+5 control.
+6 6-61-5. Exclusions.
+7 (a) This chapter shall not apply to any of the following:
+8 (1) Medical information governed by chapter 37.3 of title 5, (“confidentiality of medical
+9 information act”) or to protected health information that is collected, maintained, used, or disclosed
+10 by a covered entity or business associate governed by the privacy, security, and breach notification
+11 rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of
+12 Title 45 of the Code of Federal Regulations established pursuant to the federal Health Insurance
+13 Portability and Accountability Act of 1996 (Public Law 104-191) and the federal Health
+14 Information Technology for Economic and Clinical Health Act (Public Law 111-5);
+15 (2) A provider of health care governed by chapter 37.3 of title 5, or a covered entity
+16 governed by the privacy, security, and breach notification rules issued by the United States
+17 Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal
+18 Regulations, established pursuant to the Health Insurance Portability and Accountability Act of
+19 1996 (Public Law 104-191) and the federal Health Information Technology for Economic and
+20 Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009
+21 (Public Law 111-5), to the extent that the provider or covered entity maintains, uses, and discloses
+22 genetic information in the same manner as medical information or protected health information, as
+23 described in subsection (a)(1) of this section;
+24 (3) A business associate of a covered entity governed by the privacy, security, and data
+25 breach notification rules issued by the United States Department of Health and Human Services,
+26 Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant to the federal
+27 Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) and the federal
+28 Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal
+29 American Recovery and Reinvestment Act of 2009 (Public Law 111-5), to the extent that the
+30 business associate maintains, uses, and discloses genetic information in the same manner as medical
+31 information or protected health information, as described in subsection (a)(1) of this section;
+32 (4) Scientific research or educational activities conducted by a public or private nonprofit
+33 postsecondary educational institution that holds an assurance with the United States Department of
+34 Health and Human Services pursuant to Part 46 of Title 45 of the Code of Federal Regulations, to
+LC000556 - Page 8 of 10
+1 the extent that the scientific research and educational activities conducted by that institution comply
+2 with all applicable federal and state laws and regulations for the protection of human subjects in
+3 research including, but not limited to, the Common Rule pursuant to Part 46 (commencing with
+4 Section 46.101) of Title 45 of the Code of Federal Regulations, United States Food and Drug
+5 Administration regulations pursuant to Parts 50 and 56 of Title 21 of the Code of Federal
+6 Regulations, the federal Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g);
+7 (5) The provisions of the newborn screening program pursuant to § 23-13-14;
+8 (6) Tests conducted exclusively to diagnose whether an individual has a specific disease,
+9 to the extent that all persons involved in the conduct of the test maintain, use, and disclose genetic
+10 information in the same manner as medical information or protected health information, as
+11 described in subsection (a)(1) of this section; or
+12 (7) Genetic data used or maintained by an employer, or disclosed by an employee to an
+13 employer, to the extent that the use, maintenance, or disclosure of that data is necessary to comply
+14 with a local, state, or federal workplace health and safety ordinance, law, or regulation.
+15 (b) Nothing in this chapter shall be construed to affect access to information made available
+16 to the public by the consumer.
+17 6-61-6. Severability.
+18 The provisions of this chapter are severable. If any provision of this chapter or its
+19 application is held invalid, that invalidity shall not affect other provisions or applications that can
+20 be given effect without the invalid provision or application.
+21 SECTION 3. This act shall take effect upon passage.
+========
+LC000556
+========
+LC000556 - Page 9 of 10
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+GENETIC INFORMATION PRIVACY ACT
+***
+1 This act would establish the Genetic Information Privacy Act, which would require a
+2 direct-to-consumer genetic testing company, as defined, to provide a consumer with certain
+3 information regarding the company’s policies and procedures for the collection, use, maintenance,
+4 and disclosure, as applicable, of genetic data, and to obtain a consumer’s express consent for
+5 collection, use, or disclosure of the consumer’s genetic data, as specified.
+6 This act would take effect upon passage.
+========
+LC000556
+========
+LC000556 - Page 10 of 10
+[DELETED: TATE  OF  RHODE  ISLAND S ( ( p i ( t t ( t v v ( A ( P S R]
+[DELETED:  C G 6 F ( b ( d ( ( ( e ( f ( S m i o o o c g t p ( i c ( t ( r o d o g d f a s p T n o t d c u m a i ( o t d a o m t D o R s n p ( u e]
+[DELETED:  ( “ l o ( c ( n i r r t p a d t r i u c o t a ( t t m a u t i o i d f a n t r t i ( b c D o l t o 5 a ( t s ( t ( c b]
+[DELETED:  a t g t c o o b a o c t c u m p a s p s p t s p f r u o d t b s e g m g d o a i r t i a a p o t p p t s s ( b s e g m g d o a i r t i a w ( A p p t s p f a o c t b s e g m g d o a i r t i a p 6 ( d ( P c a c i r t c p a p m ( a ( i t t ( s w o d t t p f r p i a w P 4]
+[DELETED:  ( ( O a c e c f c u a d o t c f ( o s ( c ( g ( t c ( g h ( o m t u o r n ( p h c v ( n b f]
+[DELETED:  t w o ( c t ( C ( r ( ( I a m s p a p t p a c a ( D p a p t e a c t e d a o t f ( ( t ( ( A p o p e s n d a a c b t c i ( ( d ( ( o ( o ( N a o p t s a e a p i s c]
+[DELETED:  r h i l i l c i d i o e t ( o a ( l ( e r h i l i l c i d i o e ( m i s 6 ( a ( a n l t o t d ( a n m t t t d ( ( c ( p t ( b f t ( 6 (]
+[DELETED:  c l ( p c 6 ( ( i b r T P a A A o 1 ( L 1 a t f H I ( g b t p s a b n r i b t U S D R 1 C ( g d ( b P H H A b i ( p H]
+[DELETED:  t w r S A r p t P 5 a 5 o T 2 o t C o F R ( ( t i i t s m a m i o p h i a d ( e w ( t 6 T p o t c a s I a p o t c o i a b S]
+[DELETED:  T d g t c a d t p a c w c i a c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0767
+========
+LC000556
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+GENETIC INFORMATION PRIVACY ACT
+Introduced By: Senators Zurier, Valverde, and Euer
+Date Introduced: March 14, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and short title.
+2 (a) The general assembly finds and declares the following:
+3 (1) Direct-to-consumer genetic testing services are largely unregulated and could expose
+4 personal and genetic information, and potentially create unintended security consequences and
+5 increased risk.
+6 (2) There is growing concern in the scientific community that outside parties are exploiting
+7 the use of genetic data for questionable purposes, including mass surveillance and the ability to
+8 track individuals without their authorization.
+9 (3) Genomic data is highly distinguishable. There is a confirmation that a sequence of 30
+10 to 80 single nucleotide polymorphisms could uniquely identify an individual. Genomic data is also
+11 very stable. It undergoes little change over the lifetime of an individual and thus has a long-lived
+12 value, as opposed to other biometric data such as blood tests, which have expiration dates.
+13 (4) The potential information hidden within genomic data is cause for significant concern.
+14 As our knowledge in genomics evolves, so will our view on the sensitivity of genomic data.
+15 (b) Short title. This chapter shall be known, and may be cited, as the "Genetic Information
+16 Privacy Act."
+17 SECTION 2. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+18 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+
+1 CHAPTER 61
+2 GENETIC INFORMATION PRIVACY ACT
+3 6-61-1. Definitions.
+4 For purposes of this chapter, the following definitions apply:
+5 (1) “Affirmative authorization” means an action that demonstrates an intentional decision
+6 by the consumer.
+7 (2) “Biological sample” means any material part of the human, discharge therefrom, or
+8 derivative thereof, such as tissue, blood, urine, or saliva, known to contain deoxyribonucleic acid
+9 (DNA).
+10 (3) “Consumer” means a natural person who is a Rhode Island resident.
+11 (4) “Dark pattern” means a user interface designed or manipulated with the substantial
+12 effect of subverting or impairing user autonomy, decision making, or choice.
+13 (5) “Direct-to-consumer genetic testing company” means an entity that does any of the
+14 following:
+15 (i) Sells, markets, interprets, or otherwise offers consumer-initiated genetic testing
+16 products or services directly to consumers.
+17 (ii) Analyzes genetic data obtained from a consumer, except to the extent that the analysis
+18 is performed by a person licensed in the healing arts for diagnosis or treatment of a medical
+19 condition.
+20 (iii) Collects, uses, maintains, or discloses genetic data collected or derived from a direct-
+21 to-consumer genetic testing product or service, or is directly provided by a consumer.
+22 (6) “Express consent” means a consumer’s affirmative authorization to grant permission in
+23 response to a clear, meaningful, and prominent notice regarding the collection, use, maintenance,
+24 or disclosure of genetic data for a specific purpose. The nature of the data collection, use,
+25 maintenance, or disclosure shall be conveyed in clear and prominent terms in such a manner that
+26 an ordinary consumer would notice and understand it. Express consent cannot be inferred from
+27 inaction. Agreement obtained through use of dark patterns does not constitute consent.
+28 (7)(i) “Genetic data” means any data, regardless of its format, that results from the analysis
+29 of a biological sample from a consumer, or from another element enabling equivalent information
+30 to be obtained, and concerns genetic material. Genetic material includes, but is not limited to,
+31 deoxyribonucleic acids (DNA), ribonucleic acids (RNA), genes, chromosomes, alleles, genomes,
+32 alterations or modifications to DNA or RNA, single nucleotide polymorphisms (SNPs),
+33 uninterpreted data that results from the analysis of the biological sample, and any information
+34 extrapolated, derived, or inferred therefrom.
+LC000556 - Page 2 of 10
+
+1 (ii) “Genetic data” does not include deidentified data. For purposes of this subsection,
+2 “deidentified data” means data that cannot be used to infer information about, or otherwise be
+3 linked to, a particular individual; provided that, the business that possesses the information does all
+4 of the following:
+5 (A) Takes reasonable measures to ensure that the information cannot be associated with a
+6 consumer or household;
+7 (B) Publicly commits to maintain and use the information only in deidentified form and
+8 not to attempt to reidentify the information, except that the business may attempt to reidentify the
+9 information solely for the purpose of determining whether its deidentification processes satisfy the
+10 requirements of this subsection; provided that, the business does not use or disclose any information
+11 reidentified in this process and destroys the reidentified information upon completion of that
+12 assessment; and
+13 (C) Contractually obligates any recipients of the information to take reasonable measures
+14 to ensure that the information cannot be associated with a consumer or household and to commit
+15 to maintaining and using the information only in deidentified form and not to reidentify the
+16 information;
+17 (iii) “Genetic data” does not include data or a biological sample to the extent that data or a
+18 biological sample is collected, used, maintained, and disclosed exclusively for scientific research
+19 conducted by an investigator with an institution that holds an assurance with the United States
+20 Department of Health and Human Services pursuant to Part 46 (commencing with Section 46.101)
+21 of Title 45 of the Code of Federal Regulations, in compliance with all applicable federal and state
+22 laws and regulations for the protection of human subjects in research including, but not limited to,
+23 the Common Rule pursuant to Part 46 (commencing with Section 46.101) of Title 45 of the Code
+24 of Federal Regulations, United States Food and Drug Administration regulations pursuant to Parts
+25 50 and 56 of Title 21 of the Code of Federal Regulations, and the federal Family Educational Rights
+26 and Privacy Act (20 U.S.C. Sec. 1232g).
+27 (8) “Genetic testing” means any laboratory test of a biological sample from a consumer for
+28 the purpose of determining information concerning genetic material contained within the biological
+29 sample, or any information extrapolated, derived, or inferred therefrom.
+30 (9) “Person” means an individual, partnership, corporation, association, business, business
+31 trust, or legal representative of an organization.
+32 (10) “Service provider” means a sole proprietorship, partnership, limited liability company,
+33 corporation, association, or other legal entity that is organized or operated for the profit or financial
+34 benefit of its shareholders or other owners, that is involved in the collection, transportation, and
+LC000556 - Page 3 of 10
+
+1 analysis of the consumer’s biological sample or extracted genetic material on behalf of the direct-
+2 to-consumer genetic testing company, or on behalf of any other company that collects, uses,
+3 maintains, or discloses genetic data collected or derived from a direct-to-consumer genetic testing
+4 product or service, or is directly provided by a consumer, or the delivery of the results of the
+5 analysis of the biological sample or genetic material. The contract between the company and the
+6 service provider shall prohibit the service provider from retaining, using, or disclosing the
+7 biological sample, extracted genetic material, genetic data, or any information regarding the
+8 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+9 as applicable, for any purpose other than for the specific purpose of performing the services
+10 specified in the contract for the business, including both of the following:
+11 (i) A provision prohibiting the service provider from retaining, using, or disclosing the
+12 biological sample, extracted genetic material, genetic data, or any information regarding the
+13 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+14 as applicable, for a commercial purpose other than providing the services specified in the contract
+15 with the business; and
+16 (ii) A provision prohibiting the service provider from associating or combining the
+17 biological sample, extracted genetic material, genetic data, or any information regarding the
+18 identity of the consumer, including whether that consumer has solicited or received genetic testing,
+19 as applicable, with information the service provider has received from or on behalf of another
+20 person or persons, or has collected from its own interaction with consumers or as required by law.
+21 6-61-2. Privacy of genetic data.
+22 (a) To safeguard the privacy, confidentiality, security, and integrity of a consumer’s genetic
+23 data, a direct-to-consumer genetic testing company shall do both of the following:
+24 (1) Provide clear and complete information regarding the company’s policies and
+25 procedures for the collection, use, maintenance, and disclosure, as applicable, of genetic data by
+26 making available to a consumer all of the following:
+27 (i) A summary of its privacy practices, written in plain language, that includes information
+28 about the company’s collection, use, maintenance, and disclosure, as applicable, of genetic data;
+29 (ii) A prominent and easily accessible privacy notice that includes, at a minimum, complete
+30 information about the company’s data collection, consent, use, access, disclosure, maintenance,
+31 transfer, security, and retention and deletion practices, and information that clearly describes how
+32 to file a complaint alleging a violation of this chapter; and
+33 (iii) A notice that the consumer’s deidentified genetic or phenotypic information may be
+34 shared with or disclosed to third parties for research purposes in accordance with Part 46
+LC000556 - Page 4 of 10
+
+1 (commencing with Section 46.101) of Title 45 of the Code of Federal Regulations.
+2 (2) Obtain a consumer’s express consent for collection, use, and disclosure of the
+3 consumer’s genetic data, including, at a minimum, separate and express consent for each of the
+4 following:
+5 (i) The use of the genetic data collected through the genetic testing product or service
+6 offered to the consumer, including who has access to genetic data, and how genetic data may be
+7 shared, and the specific purposes for which it will be collected, used, and disclosed;
+8 (ii) The storage of a consumer’s biological sample after the initial testing requested by the
+9 consumer has been fulfilled;
+10 (iii) Each use of genetic data or the biological sample beyond the primary purpose of the
+11 genetic testing or service and inherent contextual uses;
+12 (iv) Each transfer or disclosure of the consumer’s genetic data or biological sample to a
+13 third party other than to a service provider, including the name of the third party to which the
+14 consumer’s genetic data or biological sample will be transferred or disclosed;
+15 (v)(A) The marketing or facilitation of marketing to a consumer based on the consumer’s
+16 genetic data or the marketing or facilitation of marketing by a third party based upon the consumer
+17 having ordered, purchased, received, or used a genetic testing product or service;
+18 (B) This subsection does not require a direct-to-consumer genetic testing company to
+19 obtain a consumer’s express consent to market to the consumer on the company’s own website or
+20 mobile application based upon the consumer having ordered, purchased, received, or used a genetic
+21 testing product or service from that company if the content of the advertisement does not depend
+22 upon any information specific to that consumer, except for the product or service that the consumer
+23 ordered, purchased, received, or used, and the placement of the advertisement is not intended to
+24 result in disparate exposure to advertising content. Nothing in this subsection alters, limits, or
+25 negates the requirements of any other antidiscrimination law or targeted advertising law;
+26 (C) Any advertisement of a third-party product or service presented to a consumer shall be
+27 prominently labeled as advertising content and be accompanied by the name of any third party that
+28 has contributed to the placement of the advertising. If applicable, the advertisement also shall
+29 clearly indicate that the advertised product or service, and any associated claims, have not been
+30 vetted or endorsed by the direct-to-consumer genetic testing company;
+31 (D) For the purpose of this section, “third party” does not include a public or private
+32 nonprofit postsecondary educational institution to the extent that the consumer’s genetic data or
+33 biological sample is disclosed to a public or private nonprofit postsecondary educational institution
+34 for the purpose of scientific research or educational activities as described in § 6-61-5. A company
+LC000556 - Page 5 of 10
+
+1 that is subject to the requirements described in this section shall provide effective mechanisms,
+2 without any unnecessary steps, for a consumer to revoke their consent after it is given, at least one
+3 of which utilizes the primary medium through which the company communicates with consumers.
+4 (b) If a consumer revokes the consent that they provided pursuant to this section, the
+5 company shall honor the consumer’s consent revocation as soon as practicable, but not later than
+6 thirty (30) days after the individual revokes consent, in accordance with both of the following:
+7 (1) Revocation of consent under this section shall comply with Part 46 of Title 45 of the
+8 Code of Federal Regulations; and
+9 (2) The company shall destroy a consumer’s biological sample within thirty (30) days of
+10 receipt of revocation of consent to store the sample.
+11 (c) The direct-to-consumer genetic testing company shall do both of the following:
+12 (1) Implement and maintain reasonable security procedures and practices to protect a
+13 consumer’s genetic data against unauthorized access, destruction, use, modification, or disclosure;
+14 and
+15 (2) Develop procedures and practices to enable a consumer to easily do any of the
+16 following;
+17 (i) Access the consumer’s genetic data;
+18 (ii) Delete the consumer’s account and genetic data, except for genetic data that is required
+19 to be retained by the company to comply with applicable legal and regulatory requirements; or
+20 (iii) Have the consumer’s biological sample destroyed.
+21 (d) A person or public entity shall not discriminate against a consumer because the
+22 consumer exercised any of the consumer’s rights under this chapter by doing any of the following
+23 including, but not limited to:
+24 (1) Denying goods, services, or benefits to the customer;
+25 (2) Charging different prices or rates for goods or services, including through the use of
+26 discounts or other incentives or imposing penalties;
+27 (3) Providing a different level or quality of goods, services, or benefits to the consumer;
+28 (4) Suggesting that the consumer will receive a different price or rate for goods, services,
+29 or benefits, or a different level or quality of goods, services, or benefits;
+30 (5) Considering the consumer’s exercise of rights under this chapter as a basis for suspicion
+31 of criminal wrongdoing or unlawful conduct.
+32 (e)(1) Notwithstanding any other provision in this section, and except as provided in
+33 subsection (e)(2) of this section, a direct-to-consumer genetic testing company shall not disclose a
+34 consumer’s genetic data to any entity that is responsible for administering or making decisions
+LC000556 - Page 6 of 10
+
+1 regarding health insurance, life insurance, long-term care insurance, disability insurance, or
+2 employment or to any entity that provides advice to an entity that is responsible for performing
+3 those functions;
+4 (2) A direct-to-consumer genetic testing company may disclose a consumer’s genetic data
+5 or biological sample to an entity described in subsection (e)(1) of this section if all of the following
+6 are true:
+7 (i) The entity is not primarily engaged in administering health insurance, life insurance,
+8 long-term care insurance, disability insurance, or employment;
+9 (ii) The consumer’s genetic data or biological sample is not disclosed to the entity in that
+10 entity’s capacity as a party that is responsible for administering, advising, or making decisions
+11 regarding health insurance, life insurance, long-term care insurance, disability insurance, or
+12 employment; and
+13 (iii) Any agent or division of the entity that is involved in administering, advising, or
+14 making decisions regarding health insurance, life insurance, long-term care insurance, disability
+15 insurance, or employment is prohibited from accessing the consumer’s genetic data or biological
+16 sample.
+17 6-61-3. Penalties.
+18 (a) Any person who negligently violates this chapter shall be assessed a civil penalty in an
+19 amount not to exceed one thousand dollars ($1,000) plus court costs, as determined by the court.
+20 (b) Any person who willfully violates this chapter shall be assessed a civil penalty in an
+21 amount not less than one thousand dollars ($1,000) and not more than ten thousand dollars
+22 ($10,000) plus court costs, as determined by the court.
+23 (c) Actions for relief pursuant to this chapter shall be prosecuted exclusively in a court of
+24 competent jurisdiction by the attorney general.
+25 (d) Court costs recovered pursuant to this section shall be paid to the party or parties that
+26 prosecuted the violation. Penalties recovered pursuant to this section shall be paid to the individual
+27 to whom the genetic data at issue pertains.
+28 (e) Any provision of a contract or agreement between a consumer and a person governed
+29 by this chapter that has, or would have, the effect of delaying or limiting access to a legal remedy
+30 for a violation of this chapter shall not apply to the exercise of rights or enforcement pursuant to
+31 this chapter.
+32 (f) Each violation of this chapter is a separate and actionable violation.
+33 6-61-4. Conflicts of law.
+34 (a) The provisions of this chapter shall not reduce a direct-to-consumer genetic testing
+LC000556 - Page 7 of 10
+
+1 company’s duties, obligations, requirements, or standards under any applicable state and federal
+2 laws for the protection of privacy and security.
+3 (b) In the event of a conflict between the provisions of this chapter and any other law, the
+4 provisions of the law that afford the greatest protection for the right of privacy for consumers shall
+5 control.
+6 6-61-5. Exclusions.
+7 (a) This chapter shall not apply to any of the following:
+8 (1) Medical information governed by chapter 37.3 of title 5, (“confidentiality of medical
+9 information act”) or to protected health information that is collected, maintained, used, or disclosed
+10 by a covered entity or business associate governed by the privacy, security, and breach notification
+11 rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of
+12 Title 45 of the Code of Federal Regulations established pursuant to the federal Health Insurance
+13 Portability and Accountability Act of 1996 (Public Law 104-191) and the federal Health
+14 Information Technology for Economic and Clinical Health Act (Public Law 111-5);
+15 (2) A provider of health care governed by chapter 37.3 of title 5, or a covered entity
+16 governed by the privacy, security, and breach notification rules issued by the United States
+17 Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal
+18 Regulations, established pursuant to the Health Insurance Portability and Accountability Act of
+19 1996 (Public Law 104-191) and the federal Health Information Technology for Economic and
+20 Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009
+21 (Public Law 111-5), to the extent that the provider or covered entity maintains, uses, and discloses
+22 genetic information in the same manner as medical information or protected health information, as
+23 described in subsection (a)(1) of this section;
+24 (3) A business associate of a covered entity governed by the privacy, security, and data
+25 breach notification rules issued by the United States Department of Health and Human Services,
+26 Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant to the federal
+27 Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) and the federal
+28 Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal
+29 American Recovery and Reinvestment Act of 2009 (Public Law 111-5), to the extent that the
+30 business associate maintains, uses, and discloses genetic information in the same manner as medical
+31 information or protected health information, as described in subsection (a)(1) of this section;
+32 (4) Scientific research or educational activities conducted by a public or private nonprofit
+33 postsecondary educational institution that holds an assurance with the United States Department of
+34 Health and Human Services pursuant to Part 46 of Title 45 of the Code of Federal Regulations, to
+LC000556 - Page 8 of 10
+
+1 the extent that the scientific research and educational activities conducted by that institution comply
+2 with all applicable federal and state laws and regulations for the protection of human subjects in
+3 research including, but not limited to, the Common Rule pursuant to Part 46 (commencing with
+4 Section 46.101) of Title 45 of the Code of Federal Regulations, United States Food and Drug
+5 Administration regulations pursuant to Parts 50 and 56 of Title 21 of the Code of Federal
+6 Regulations, the federal Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g);
+7 (5) The provisions of the newborn screening program pursuant to § 23-13-14;
+8 (6) Tests conducted exclusively to diagnose whether an individual has a specific disease,
+9 to the extent that all persons involved in the conduct of the test maintain, use, and disclose genetic
+10 information in the same manner as medical information or protected health information, as
+11 described in subsection (a)(1) of this section; or
+12 (7) Genetic data used or maintained by an employer, or disclosed by an employee to an
+13 employer, to the extent that the use, maintenance, or disclosure of that data is necessary to comply
+14 with a local, state, or federal workplace health and safety ordinance, law, or regulation.
+15 (b) Nothing in this chapter shall be construed to affect access to information made available
+16 to the public by the consumer.
+17 6-61-6. Severability.
+18 The provisions of this chapter are severable. If any provision of this chapter or its
+19 application is held invalid, that invalidity shall not affect other provisions or applications that can
+20 be given effect without the invalid provision or application.
+21 SECTION 3. This act shall take effect upon passage.
+========
+LC000556
+========
+LC000556 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS --
+GENETIC INFORMATION PRIVACY ACT
+***
+1 This act would establish the Genetic Information Privacy Act, which would require a
+2 direct-to-consumer genetic testing company, as defined, to provide a consumer with certain
+3 information regarding the company’s policies and procedures for the collection, use, maintenance,
+4 and disclosure, as applicable, of genetic data, and to obtain a consumer’s express consent for
+5 collection, use, or disclosure of the consumer’s genetic data, as specified.
+6 This act would take effect upon passage.
+========
+LC000556
+========
+LC000556 - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( ( p i ( t t ( t v v ( A ( P S R]
+[DELETED:  C G 6 F ( b ( d ( ( ( e ( f ( S m i o o o c g t p ( i c ( t ( r o d o g d f a s p T n o t d c u m a i ( o t d a o m t D o R s n p ( u e]
+[DELETED:  ( “ l o ( c ( n i r r t p a d t r i u c o t a ( t t m a u t i o i d f a n t r t i ( b c D o l t o 5 a ( t s ( t ( c b]
+[DELETED:  a t g t c o o b a o c t c u m p a s p s p t s p f r u o d t b s e g m g d o a i r t i a a p o t p p t s s ( b s e g m g d o a i r t i a w ( A p p t s p f a o c t b s e g m g d o a i r t i a p 6 ( d ( P c a c i r t c p a p m ( a ( i t t ( s w o d t t p f r p i a w P 4]
+[DELETED:  ( ( O a c e c f c u a d o t c f ( o s ( c ( g ( t c ( g h ( o m t u o r n ( p h c v ( n b f]
+[DELETED:  t w o ( c t ( C ( r ( ( I a m s p a p t p a c a ( D p a p t e a c t e d a o t f ( ( t ( ( A p o p e s n d a a c b t c i ( ( d ( ( o ( o ( N a o p t s a e a p i s c]
+[DELETED:  r h i l i l c i d i o e t ( o a ( l ( e r h i l i l c i d i o e ( m i s 6 ( a ( a n l t o t d ( a n m t t t d ( ( c ( p t ( b f t ( 6 (]
+[DELETED:  c l ( p c 6 ( ( i b r T P a A A o 1 ( L 1 a t f H I ( g b t p s a b n r i b t U S D R 1 C ( g d ( b P H H A b i ( p H]
+[DELETED:  t w r S A r p t P 5 a 5 o T 2 o t C o F R ( ( t i i t s m a m i o p h i a d ( e w ( t 6 T p o t c a s I a p o t c o i a b S]
+[DELETED:  T d g t c a d t p a c w c i a c T]

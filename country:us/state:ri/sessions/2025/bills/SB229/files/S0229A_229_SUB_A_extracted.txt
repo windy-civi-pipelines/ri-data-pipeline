@@ -1,0 +1,879 @@
+Title: RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Official Title: RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Number of Sections: 1
+Source: versions - 229  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0229 SUBSTITUTE A
+========
+LC000645/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Quezada, Thompson, Bissaillon, Bell, Mack, Euer, and Kallman
+Date Introduced: February 13, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14-1 of the General Laws in Chapter 19-14 entitled "Licensed
+2 Activities" is hereby amended to read as follows:
+3 19-14-1. Definitions.
+4 Unless otherwise specified, the following terms shall have the following meanings
+5 throughout chapters 14, 14.1, 14.2, 14.3, 14.4, 14.6, 14.8, 14.10, and 14.11 of this title:
+6 (1) “Bona fide employee” shall mean an employee of a licensee who works under the
+7 oversight and supervision of the licensee.
+8 (2) “Check” means any check, draft, money order, personal money order, or other
+9 instrument for the transmission or payment of money. For the purposes of check cashing, travelers
+10 checks or foreign denomination instruments shall not be considered checks. “Check cashing”
+11 means providing currency for checks.
+12 (3) “Check casher” means a person or entity who or that, for compensation, engages, in
+13 whole or in part, in the business of cashing checks.
+14 (4) “Currency transmission” means engaging in the business of any of the following:
+15 (i) Sale or issuance of payment instruments or stored value primarily for personal, family,
+16 or household purposes; or
+17 (ii) Receiving money or monetary value for transmission or holding funds incidental to
+18 transmission within the United States or to locations abroad by any and all means, including
+19 payment instrument, stored value, wire, facsimile, or electronic transfer, primarily for personal,
+1 family, or household purposes. This includes maintaining control of virtual currency or transactions
+2 in virtual currency on behalf of others.
+3 (5) “Deferred-deposit transaction” means any transaction, such as those commonly known
+4 as “payday loans,” “payday advances,” or “deferred-presentment loans,” in which a cash advance
+5 is made to a customer in exchange for the customer’s personal check or in exchange for the
+6 customer’s authorization to debit the customer’s deposit account and where the parties agree either
+7 that the check will not be cashed or deposited, or that the customer’s deposit account will not be
+8 debited until a designated future date.
+9 (6) [Deleted by P.L. 2019, ch. 226, § 1 and P.L. 2019, ch. 246, § 1.]
+10 (7) “Deliver” means to deliver a check to the first person who, in payment for the check,
+11 makes, or purports to make, a remittance of, or against, the face amount of the check, whether or
+12 not the deliverer also charges a fee in addition to the face amount and whether or not the deliverer
+13 signs the check.
+14 (8) “Insurance premium finance agreement” means an agreement by which an insured, or
+15 prospective insured, promises to pay to an insurance premium finance company the amount
+16 advanced, or to be advanced, under the agreement to an insurer or to an insurance producer, in
+17 payment of a premium, or premiums, on an insurance contract, or contracts, together with interest
+18 and a service charge, as authorized and limited by this title.
+19 (9) “Insurance premium finance company” means a person or entity engaged in the
+20 business of making insurance premium finance agreements or acquiring insurance premium finance
+21 agreements from other insurance premium finance companies.
+22 (10)(i) “Lender” means any person who makes or funds a loan within this state with the
+23 person’s own funds, regardless of whether the person is the nominal mortgagee or creditor on the
+24 instrument evidencing the loan;
+25 (ii) A loan is made or funded within this state if any of the following conditions exist:
+26 (A) The loan is secured by real property located in this state;
+27 (B) An application for a loan is taken by an employee, agent, or representative of the lender
+28 within this state;
+29 (C) The loan closes within this state;
+30 (D) A retail installment contract as defined herein is created;
+31 (E) The loan solicitation is done by an individual with a physical presence in this state; or
+32 (F) The lender maintains an office in this state;
+33 (iii) The term “lender” shall also include any person engaged in a transaction whereby the
+34 person makes or funds a loan within this state using the proceeds of an advance under a line of
+LC000645/SUB A - Page 2 of 13
+1 credit over which proceeds the person has dominion and control and for the repayment of which
+2 the person is unconditionally liable. This transaction is not a table-funding transaction. A person is
+3 deemed to have dominion and control over the proceeds of an advance under a line of credit used
+4 to fund a loan regardless of whether:
+5 (A) The person may, contemporaneously with, or shortly following, the funding of the
+6 loan, assign or deliver to the line of credit lender one or more loans funded by the proceeds of an
+7 advance to the person under the line of credit;
+8 (B) The proceeds of an advance are delivered directly to the settlement agent by the line-
+9 of-credit lender, unless the settlement agent is the agent of the line-of-credit lender;
+10 (C) One or more loans funded by the proceeds of an advance under the line of credit is
+11 purchased by the line-of-credit lender; or
+12 (D) Under the circumstances, as set forth in regulations adopted by the director, or the
+13 director’s designee, pursuant to this chapter.
+14 (11) “Licensee” means any person licensed under this chapter.
+15 (12) “Loan” means any advance of money or credit including, but not limited to:
+16 (i) Loans secured by mortgages;
+17 (ii) Insurance premium finance agreements;
+18 (iii) The purchase or acquisition of retail installment contracts or advances to the holders
+19 of those contracts;
+20 (iv) Educational loans; or
+21 (v) Any other advance of money; or
+22 (vi) Any transaction, such as those commonly known as “payday loans,” “payday
+23 advances,” or “deferred-presentment loans,” in which a cash advance is made to a customer in
+24 exchange for the customer’s personal check, or in exchange for the customer’s authorization to
+25 debit the customer’s deposit account, and where the parties agree either, that the check will not be
+26 cashed or deposited, or that customer’s deposit account will not be debited, until a designated future
+27 date.
+28 (13) “Loan broker” means any person or entity who or that, for compensation or gain, or
+29 in the expectation of compensation or gain, either directly or indirectly, solicits, processes,
+30 negotiates, places, or sells a loan within this state for others in the primary market, or offers to do
+31 so. A loan broker shall also mean any person who is the nominal mortgagee or creditor in a table-
+32 funding transaction. A loan is brokered within this state if any of the following conditions exist:
+33 (i) The loan is secured by real property located in this state;
+34 (ii) An application for a loan is taken or received by an employee, agent, or representative
+LC000645/SUB A - Page 3 of 13
+1 of the loan broker within this state;
+2 (iii) The loan closes within this state;
+3 (iv) The loan solicitation is done by an individual with a physical presence in this state; or
+4 (v) The loan broker maintains an office in this state.
+5 (14) “Loan-closing services” means providing title services, including title searches, title
+6 examinations, abstract preparation, insurability determinations, and the issuance of title
+7 commitments and title insurance policies, conducting loan closings, and preparation of loan-closing
+8 documents when performed by, or under the supervision of, a licensed attorney, licensed title
+9 agency, or licensed title insurance company.
+10 (15) “Loan solicitation” shall mean an effectuation, procurement, delivery and offer, or
+11 advertisement of a loan. Loan solicitation also includes providing or accepting loan applications
+12 and assisting persons in completing loan applications and/or advising, conferring, or informing
+13 anyone regarding the benefits, terms and/or conditions of a loan product or service. Loan
+14 solicitation does not include loan processing or loan underwriting as defined in this section. Loan
+15 solicitation does not include telemarketing that is defined, for purposes of this section, to mean
+16 contacting a person by telephone with the intention of collecting such person’s name, address, and
+17 telephone number for the sole purpose of allowing a mortgage loan originator to fulfill a loan
+18 inquiry.
+19 (16) “Loan underwriting” shall mean a loan process that involves the analysis of risk with
+20 respect to the decision whether to make a loan to a loan applicant based on credit, employment,
+21 assets, and other factors, including evaluating a loan applicant against a lender’s various lending
+22 criteria for creditworthiness, making a determination for the lender as to whether the applicant
+23 meets the lender’s pre-established credit standards, and/or making a recommendation regarding
+24 loan approval.
+25 (17) “Monetary value” means a medium of exchange, whether or not redeemable in fiat
+26 currency.
+27 (18) “Mortgage loan” means a loan secured in whole, or in part, by real property located
+28 in this state.
+29 (19) “Mortgage loan originator” has the same meaning set forth in § 19-14.10-3.
+30 (20) “Nationwide Multistate Licensing System” means a system involving more than one
+31 state, the District of Columbia, or the Commonwealth of Puerto Rico and that is established to
+32 facilitate the sharing of regulatory information and the licensing, application, reporting, and
+33 payment processes, by electronic or other means, for mortgage lenders and loan brokers and other
+34 licensees required to be licensed under this chapter.
+LC000645/SUB A - Page 4 of 13
+1 (21) “Natural person employee” shall mean any natural person performing services as a
+2 bona fide employee for a person or entity licensed under § 19-14-1 et seq., in return for a salary,
+3 wage, or other consideration, where such salary, wage, or consideration is reported by the licensee
+4 on a federal form W-2 payroll record. The term does not include any natural person or business
+5 entity performing services for a person licensed under the provisions of Rhode Island general laws
+6 in return for a salary, wage, or other consideration, where such salary, wage, or consideration is
+7 reported by the licensee on a federal form 1099.
+8 (22) “Negative equity” means the difference between the value of an asset and the
+9 outstanding portion of the loan taken out to pay for the asset, when the latter exceeds the former
+10 amount.
+11 (23) “Negotiates” shall mean, with respect to a loan, to confer directly with, or offer advice
+12 directly to, a loan applicant or prospective loan applicant for a loan product or service concerning
+13 any of the substantive benefits, terms, or conditions of the loan product or service.
+14 (24) “Nonprofit organization” means a corporation qualifying as a 26 U.S.C. § 501(c)(3)
+15 nonprofit organization, in the operation of which no member, director, officer, partner, employee,
+16 agent, or other affiliated person profits financially other than receiving reasonable salaries if
+17 applicable.
+18 (25) “Operating subsidiary” shall mean a majority-owned subsidiary of a financial
+19 institution or banking institution that engages only in activities permitted by the parent financial
+20 institution or banking institution.
+21 (26) “Oversight and supervision of the licensee” shall mean that the licensee provides
+22 training to the employee, sets the employee’s hours of work, provides the employee with the
+23 equipment required to perform the employee’s duties, and supervises the services provided by the
+24 employee to the licensee.
+25 (27) “Personal money order” means any instrument for the transmission or payment of
+26 money in relation to which the purchaser or remitter appoints, or purports to appoint, the seller as
+27 his or her agent for the receipt, transmission, or handling of money, whether the instrument is signed
+28 by the seller, or by the purchaser, or remitter, or some other person.
+29 (28) “Primary market” means the market in which loans are made to borrowers by lenders,
+30 whether or not through a loan broker or other conduit.
+31 (29) “Principal owner” means any person or entity who or that owns, controls, votes, or
+32 has a beneficial interest in, directly or indirectly, ten percent (10%) or more of the outstanding
+33 capital stock and/or equity interest of a licensee.
+34 (30) “Processes” shall mean, with respect to a loan, any of a series of acts or functions,
+LC000645/SUB A - Page 5 of 13
+1 including the preparation of a loan application and supporting documents, performed by a person
+2 that leads to, or results in, the acceptance, approval, denial, and/or withdrawal of a loan application,
+3 including, without limitation, the rendering of services, including loan underwriting, obtaining
+4 verifications, credit reports or appraisals, communicating with the applicant and/or the lender or
+5 loan broker, and/or other loan processing and origination services, for consideration by a lender or
+6 loan broker. Loan processing does not include the following:
+7 (i) Providing loan closing services;
+8 (ii) Rendering of credit reports by an authorized credit reporting agency; and
+9 (iii) Rendering of appraisal services.
+10 (31) “Provisional employee” means a natural person who, pursuant to a written agreement
+11 between the natural person and a wholly owned subsidiary of a financial holding company, as
+12 defined in the Bank Holding Company Act of 1956 (12 U.S.C. § 1841 et seq.), as amended, a bank-
+13 holding company, savings-bank-holding company, or thrift-holding company, is an exclusive agent
+14 for the subsidiary with respect to mortgage loan originations and the subsidiary: (a) Holds a valid
+15 loan broker’s license; and (b) Enters into a written agreement with the director, or the director’s
+16 designee, to include:
+17 (i) An “undertaking of accountability,” in a form prescribed by the director, or the director’s
+18 designee, for all of the subsidiary’s exclusive agents to include full-and-direct financial and
+19 regulatory responsibility for the mortgage loan originator activities of each exclusive agent as if
+20 said exclusive agent were an employee of the subsidiary;
+21 (ii) A business plan, to be approved by the director, or the director’s designee, for the
+22 education of the exclusive agents, the handling of consumer complaints related to the exclusive
+23 agents, and the supervision of the mortgage loan origination activities of the exclusive agents; and
+24 (iii) A restriction of the exclusive agents’ mortgage loan originators’ activities to loans to
+25 be made only by the subsidiary’s affiliated bank.
+26 (32) “Remote location” means a location meeting the requirements of § 19-14-25(b) at
+27 which an employee of a licensee may provide services for the licensee notwithstanding that the
+28 location differs from the place of business named in the license or a branch certificate issued to the
+29 licensee.
+30 (33) “Retail installment contract” means any security agreement negotiated or executed in
+31 this state, or under the laws of this state, including, but not limited to, any agreement in the nature
+32 of a mortgage, conditional sale contract, or any other agreement whether or not evidenced by any
+33 written instrument to pay the retail purchase price of goods, or any part thereof, in installments over
+34 any period of time and pursuant to which any security interest is retained or taken by the retail seller
+LC000645/SUB A - Page 6 of 13
+1 for the payment of the purchase price, or any part thereof, of the retail installment contract.
+2 (34) “Sell” means to sell, to issue, or to deliver a check.
+3 (35) “Servicing” means receiving a scheduled, periodic payment from a borrower, pursuant
+4 to the terms of a loan, including amounts for escrow accounts, and making the payments to the
+5 owner of the loan or other third party of principal and interest and other payments with respect to
+6 the amounts received from the borrower as may be required pursuant to the terms of the servicing
+7 loan documents or servicing contract. In the case of a home equity conversion mortgage or a reverse
+8 mortgage, servicing includes making payment to the borrower.
+9 (36) “Simple interest” means interest computed on the principal balance outstanding
+10 immediately prior to a payment for one plus the actual number of days between payments made on
+11 a loan over the life of a loan.
+12 (37) “Small loan” means a loan of less than five thousand dollars ($5,000), not secured by
+13 real estate, made pursuant to the provisions of chapter 14.2 of this title.
+14 (38) “Small-loan lender” means a lender engaged in the business of making small loans
+15 within this state.
+16 (39) “Stored value” means monetary value representing a claim against the issuer that is
+17 stored on an electronic or digital medium and is evidenced by an electronic or digital record, and
+18 that is intended and accepted for use as a means of redemption for money or monetary value or
+19 payment for goods or services. The term does not include stored value that is redeemable by the
+20 issuer exclusively in goods or services; stored value that is redeemable exclusively in goods or
+21 services limited to transactions involving a defined merchant or location or set of locations, such
+22 as a specific retailer or retail chain, college campus, or program points, miles, or other units issued
+23 in connection with a customer affinity or rewards program, even if there is a secondary market for
+24 the stored value.
+25 (40) “Table-funding transaction” means a transaction in which there is a contemporaneous
+26 advance of funds by a lender and an assignment by the mortgagee or creditor of the loan to the
+27 lender.
+28 (41) “Tangible net worth” means the aggregate assets of a licensee excluding all intangible
+29 assets, less liabilities, as determined in accordance with United States generally accepted
+30 accounting principles.
+31 (42) “Third-party loan servicer” means a person or entity who or that, directly or indirectly,
+32 engages in the business of servicing a loan secured by residential real estate located in Rhode Island,
+33 for a personal, family, or household purpose, owed or due, or asserted to be owed or due, another,
+34 or a person or entity that owns the servicing rights to a loan secured by residential real estate located
+LC000645/SUB A - Page 7 of 13
+1 in Rhode Island whether or not that owner services the loan themselves or contracts with another
+2 person or entity for the servicing.
+3 (43) “Virtual currency”:
+4 (i) Means a digital representation of value that:
+5 (A) Is used as a medium of exchange, unit of account, or store of value; and
+6 (B) Is not legal tender, whether or not denominated in legal tender; and
+7 (ii) Does not include:
+8 (A) A transaction in which a merchant grants, as part of an affinity or rewards program,
+9 value that cannot be taken from or exchanged with the merchant for legal tender, bank credit, or
+10 virtual currency;
+11 (B) A digital representation of value issued by or on behalf of a publisher and used solely
+12 within an online game, game platform, or family of games sold by the same publisher or offered
+13 on the same game platform;
+14 (C) Native digital token used in a proprietary blockchain service platform; or
+15 (D) A gift certificate; store gift card; general-use prepaid card; or loyalty, award, or
+16 promotional gift card, as these terms are defined in federal Regulation E, 12 C.F.R. § 1005.20(a),
+17 without giving effect to any exception as specified in 31 C.F.R. § 1010.100(kkk) or any card, code
+18 or device, or other device that can add funds to those products.
+19 (44) “Writing” means hard-copy writing or electronic writing that meets the requirements
+20 of § 42-127.1-2(7).
+21 SECTION 2. Section 19-14.1-10 of the General Laws in Chapter 19-14.1 entitled "Lenders
+22 and Loan Brokers" is hereby amended to read as follows:
+23 19-14.1-10. Special exemptions.
+24 (a) The licensing provisions of chapter 14 of this title shall not apply to:
+25 (1) Nonprofit charitable, educational, or religious corporations or associations;
+26 (2) Any person who makes less than six (6) loans in this state in any consecutive twelve-
+27 month (12) period; there is no similar exemption from licensing for loan brokers for brokering loans
+28 or acting as a loan broker;
+29 (3) Any person acting as an agent for a licensee for the purpose of conducting closings at
+30 a location other than that stipulated in the license;
+31 (4) Regulated institutions and banks or credit unions organized under the laws of the United
+32 States, or subject to written notice with a designated Rhode Island agent for service of process in
+33 the form prescribed by the director, or the director’s designee, of any other state within the United
+34 States if the laws of the other state in which such bank or credit union is organized authorizes under
+LC000645/SUB A - Page 8 of 13
+1 conditions not substantially more restrictive than those imposed by the laws of this state, as
+2 determined by the director, or the director’s designee, a financial institution or credit union to
+3 engage in the business of originating or brokering loans in the other state; no bank or credit union
+4 duly organized under the laws of any other state within the United States may receive deposits, pay
+5 checks, or lend money from any location within this state unless such bank or credit union has
+6 received approval from the director, or the director’s designee, for the establishment of an interstate
+7 branch office pursuant to chapter 7 of title 19;
+8 (5) Any natural person employee who is employed by a licensee when acting on the
+9 licensee’s behalf; provided that this exemption shall not apply to a mortgage loan originator
+10 required to be licensed under § 19-14-2 or § 19-14.10-4; or
+11 (6) A licensed attorney when performing loan closing services for a licensee or for an entity
+12 identified in subdivision (4) above.
+13 (b) The provisions of this chapter and chapter 14 of this title shall not apply to:
+14 (1) Loans to corporations, joint ventures, partnerships, limited liability companies or other
+15 business entities;
+16 (2) Loans over twenty-five thousand dollars ($25,000) in amount to individuals for
+17 business or commercial, as opposed to personal, family or household purposes;
+18 (3) Loans principally secured by accounts receivable and/or business inventory;
+19 (4) Loans made by a life insurance company wholly secured by the cash surrender value
+20 of a life insurance policy;
+21 (5) Education-purpose loans made by the Rhode Island health and educational building
+22 corporation as vested in chapter 38.1 of title 45 of the Rhode Island student loan authority as vested
+23 in chapter 62 of title 16;
+24 (6) The acquisition of retail or loan installment contracts by an entity whose sole business
+25 in this state is acquiring them from federal banks receivers or liquidators;
+26 (7) Notes evidencing the indebtedness of a retail buyer to a retail seller of goods, services
+27 or insurance for a part or all of the purchase price;
+28 (8) Any municipal, state or federal agency that makes, brokers, or funds loans or acts as a
+29 lender or a loan broker. This exemption includes exclusive agents or exclusive contractors of the
+30 agency specifically designated by the agency to perform those functions on behalf of the agency
+31 and which has notified the director, in writing, of the exclusive agency or contract; or
+32 (9) Notes evidencing the indebtedness of a retail buyer to a retail motor vehicle dealer that
+33 include as part of the amount financed, disclosed in accordance with 12 C.F.R. § 226.18 as
+34 amended, an amount representing negative equity related to the motor vehicle being traded in as
+LC000645/SUB A - Page 9 of 13
+1 part of the purchase price of the motor vehicle being purchased.
+2 (c) No license to make or fund loans, or to act as a lender or small loan lender shall be
+3 required of any person who engages in deferred deposit transactions (commonly known as “pay-
+4 day advance”) while holding a valid license to cash checks pursuant to chapter 14 of this title.
+5 SECTION 3. Section 19-14.2-1 of the General Laws in Chapter 19-14.2 entitled "Small
+6 Loan Lenders" is hereby amended to read as follows:
+7 19-14.2-1. Maximum rate on small loans not authorized by chapter.
+8 (a) No person, except as authorized by this chapter, shall directly or indirectly charge,
+9 contract for, or receive any interest, discount, or consideration greater than provided by this chapter
+10 upon the loan, use, or sale of credit of the amount or value of five thousand dollars ($5,000) or less.
+11 (b) The prohibition in subsection (a) shall apply to any person who, by any device,
+12 subterfuge, or pretense shall charge, contract for, or receive greater interest, consideration, or
+13 charges than is authorized by this chapter for the loan, use, or forbearance of money, goods, or
+14 things in action, or for the loan, use, or sale of credit.
+15 (c) No loan of the amount or value of five thousand dollars ($5,000) or less for which a
+16 greater rate of interest, consideration, or charges than is permitted by this chapter has been charged,
+17 contracted for, or received, wherever made, shall be enforced in this state, and every person in any
+18 way participating therein in this state shall be subject to the provisions of this chapter, provided
+19 that this section shall not apply to loans legally made in any other state, commonwealth, or district
+20 which then has in effect a regulatory small loan law similar in principal to this chapter.
+21 (d) No person may engage in any device, subterfuge, or pretense to evade the requirements
+22 of this chapter, including making loans disguised as personal property sales and leaseback
+23 transactions, or disguising loan proceeds as cash rebates for the pretextual installment sale of goods
+24 or services, or assisting a debtor to obtain a loan with a greater rate of interest, consideration, or
+25 charges than is permitted by this chapter through any method including mail, telephone, Internet,
+26 or any electronic means regardless of whether the person has a physical location in the state.
+27 SECTION 4. Sections 19-14.4-4 and 19-14.4-5 of the General Laws in Chapter 19-14.4
+28 entitled "Check Cashing" are hereby amended to read as follows:
+29 19-14.4-4. Fees for services.
+30 No licensee shall:
+31 (1) Charge check-cashing fees in excess of three percent (3%) of the face amount of the
+32 check, or five dollars ($5.00), whichever is greater, if the check is the payment of any kind of state
+33 public assistance or federal social security benefit;
+34 (2) Charge check-cashing fees for personal checks in excess of ten percent (10%) of the
+LC000645/SUB A - Page 10 of 13
+1 face amount of the personal check or five dollars ($5.00), whichever is greater; or
+2 (3) Charge check-cashing fees in excess of five percent (5%) of the face amount of the
+3 check or five dollars ($5.00), whichever is greater, for all other checks; or
+4 (4) Charge deferred deposit transaction fees in excess of ten percent (10%) of the amount
+5 of funds advanced.
+6 19-14.4-5. Posting of charges — Endorsement — Receipt.
+7 (a) In every location licensed pursuant to this chapter, there shall be at all times posted, in
+8 a conspicuous place within the licensed premises, a complete and unambiguous schedule of all fees
+9 for cashing checks, deferred deposit transactions expressed as both a dollar amount and an annual
+10 percentage rate, and the initial issuance of any identification card.
+11 (b) Before a licensee shall deposit, with any regulated institution or other insured-deposit-
+12 taking institution organized under the laws of the United States, a check cashed by the licensee, the
+13 check must be endorsed with the name under which the licensee is doing business and must include
+14 the words “licensed check cashing services”.
+15 (c) The licensee shall provide a receipt for each transaction for the benefit of a customer.
+16 (d) Each check casher shall also post a list of valid identification that is acceptable in lieu
+17 of identification provided by the check casher. The information required by this section shall be
+18 clear, legible, and in letters not less than one-half (½) inch in height. The information shall be
+19 posted in a conspicuous location in the unobstructed view of the public within the check casher’s
+20 premises. Failure to post information as required by this section, or the imposition of fees or
+21 identification requirements contrary to the information posted, shall constitute a deceptive trade
+22 practice under chapter 13.1 of title 6.
+23 SECTION 5. Section 19-14.4-5.1 of the General Laws in Chapter 19-14.4 entitled "Check
+24 Cashing" is hereby repealed.
+25 19-14.4-5.1. Customer checks — Deferred deposits.
+26 (a) A check casher may defer the deposit of a personal check written by a customer for a
+27 term of no less than thirteen (13) days, pursuant to the provisions of this section. The face amount
+28 of the check shall not exceed five hundred dollars ($500).
+29 (b) Each deferred deposit shall be made pursuant to a written agreement that has been
+30 signed by the customer and by the check casher or an authorized representative of the check casher.
+31 The written agreement shall contain a statement of the total amount of any fees charged for the
+32 deferred deposit, expressed both in United States currency and as an annual percentage rate (APR),
+33 as required by federal regulations. The written agreement shall authorize the check casher to defer
+34 deposit of the personal check until a specific date no less than thirteen (13) days from the date the
+LC000645/SUB A - Page 11 of 13
+1 written agreement was signed and executed. The written agreement shall not permit the check
+2 casher to accept collateral.
+3 (c) A rollover is an extension or deferral of the payment due date of a deferred deposit
+4 transaction for the payment of only an additional fee.
+5 (d) The maximum amount of a single customer’s check is five hundred dollars ($500).
+6 (e) The maximum aggregate amount of concurrently outstanding checks held by the
+7 licensee or its affiliate from the same customer is five hundred dollars ($500).
+8 (f) The maximum number of concurrently outstanding checks held by the licensee or its
+9 affiliates from the same customer is three (3).
+10 (g) The maximum number of rollovers permitted is one.
+11 (h) The check casher shall give a duplicate original of the agreement to the customer at the
+12 time of the transaction.
+13 SECTION 6. This act shall take effect on January 1, 2027.
+========
+LC000645/SUB A
+========
+LC000645/SUB A - Page 12 of 13
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+***
+1 This act would repeal the provisions of the general laws allowing deferred deposit
+2 providers, also known as "payday lenders."
+3 This act would take effect on January 1, 2027.
+========
+LC000645/SUB A
+========
+LC000645/SUB A - Page 13 of 13
+[DELETED: TATE  OF  RHODE  ISLAND S A 1 U o s t f t s h t f m t ( o ( “ m a c d m o p m o o o i c o f d s n b c c c m ( w ( ( o ( t p]
+[DELETED:  f i ( a i c t d ( ( m n s ( p i p t p t a i p f c t a a p a ( “ p f c m a p o e e i t b a ( p i ( ( ( w ( ( ( ( ( p]
+[DELETED:  c t d t ( l a ( o ( p ( d ( ( ( ( ( o ( ( ( A t s a t c k a “ l “ a e d c d ( i t e o c o g e d o i s p n s f ( (]
+[DELETED:  o ( ( ( ( e a p i d a t i o t c d a ( a a a r t b t a c o a l p o s L s s c t i ( r a c m l ( c ( i ( ( s f t s o r i a t l a r a p l]
+[DELETED:  ( b w o e i r ( “ e m t d b t v o a a a t o a ( d a ( n a o o a p p f o t r r s i a ( “ s s m a m s o a f i i ( t e e ( m h b ( w ( h c (]
+[DELETED:  i t i v l l ( ( ( ( b d h f l d ( d f a o t s e a t i f f a r s ( e a ( b ( w l l ( t o w a]
+[DELETED:  f ( ( t o t l m ( “ i m i c o t p b o i a ( r ( w ( s t p i s a i t ( a l ( a l l a d i a w U S g a a ( e f o]
+[DELETED:  i p ( ( ( ( ( ( v v ( w o ( ( A g c s g c g p c o l a o p w o ( o S a 1 ( ( ( m o ( a ( S t S]
+[DELETED:  c n s m r t t i b t l o t s a d e d c r b ( l b p t t e s n a t a m l o r ( i ( ( b ( L o t t d ( i a t i f b ( ( o ( c i ( i ( o ( l a a ( i a p o t a f d i a w 1 C § 2 a a]
+[DELETED:  p ( r d S L 1 ( c u ( T p i s ( s a t a p w b a d s c t ( g c w t w ( o t c i m l d a p p s a l t o c o S e 1 N ( c p (]
+[DELETED:  f ( c ( o 1 ( a f p ( t c t ( ( o c p p i p S C 1 ( t o ( s T d a d]
+[DELETED:  w c ( t ( ( T m a a o c o c h b t l ( a ( ( t S]
+[DELETED:  T a w r t p o t g l a d d p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0229 SUBSTITUTE A
+========
+LC000645/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Introduced By: Senators Quezada, Thompson, Bissaillon, Bell, Mack, Euer, and Kallman
+Date Introduced: February 13, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14-1 of the General Laws in Chapter 19-14 entitled "Licensed
+2 Activities" is hereby amended to read as follows:
+3 19-14-1. Definitions.
+4 Unless otherwise specified, the following terms shall have the following meanings
+5 throughout chapters 14, 14.1, 14.2, 14.3, 14.4, 14.6, 14.8, 14.10, and 14.11 of this title:
+6 (1) “Bona fide employee” shall mean an employee of a licensee who works under the
+7 oversight and supervision of the licensee.
+8 (2) “Check” means any check, draft, money order, personal money order, or other
+9 instrument for the transmission or payment of money. For the purposes of check cashing, travelers
+10 checks or foreign denomination instruments shall not be considered checks. “Check cashing”
+11 means providing currency for checks.
+12 (3) “Check casher” means a person or entity who or that, for compensation, engages, in
+13 whole or in part, in the business of cashing checks.
+14 (4) “Currency transmission” means engaging in the business of any of the following:
+15 (i) Sale or issuance of payment instruments or stored value primarily for personal, family,
+16 or household purposes; or
+17 (ii) Receiving money or monetary value for transmission or holding funds incidental to
+18 transmission within the United States or to locations abroad by any and all means, including
+19 payment instrument, stored value, wire, facsimile, or electronic transfer, primarily for personal,
+
+1 family, or household purposes. This includes maintaining control of virtual currency or transactions
+2 in virtual currency on behalf of others.
+3 (5) “Deferred-deposit transaction” means any transaction, such as those commonly known
+4 as “payday loans,” “payday advances,” or “deferred-presentment loans,” in which a cash advance
+5 is made to a customer in exchange for the customer’s personal check or in exchange for the
+6 customer’s authorization to debit the customer’s deposit account and where the parties agree either
+7 that the check will not be cashed or deposited, or that the customer’s deposit account will not be
+8 debited until a designated future date.
+9 (6) [Deleted by P.L. 2019, ch. 226, § 1 and P.L. 2019, ch. 246, § 1.]
+10 (7) “Deliver” means to deliver a check to the first person who, in payment for the check,
+11 makes, or purports to make, a remittance of, or against, the face amount of the check, whether or
+12 not the deliverer also charges a fee in addition to the face amount and whether or not the deliverer
+13 signs the check.
+14 (8) “Insurance premium finance agreement” means an agreement by which an insured, or
+15 prospective insured, promises to pay to an insurance premium finance company the amount
+16 advanced, or to be advanced, under the agreement to an insurer or to an insurance producer, in
+17 payment of a premium, or premiums, on an insurance contract, or contracts, together with interest
+18 and a service charge, as authorized and limited by this title.
+19 (9) “Insurance premium finance company” means a person or entity engaged in the
+20 business of making insurance premium finance agreements or acquiring insurance premium finance
+21 agreements from other insurance premium finance companies.
+22 (10)(i) “Lender” means any person who makes or funds a loan within this state with the
+23 person’s own funds, regardless of whether the person is the nominal mortgagee or creditor on the
+24 instrument evidencing the loan;
+25 (ii) A loan is made or funded within this state if any of the following conditions exist:
+26 (A) The loan is secured by real property located in this state;
+27 (B) An application for a loan is taken by an employee, agent, or representative of the lender
+28 within this state;
+29 (C) The loan closes within this state;
+30 (D) A retail installment contract as defined herein is created;
+31 (E) The loan solicitation is done by an individual with a physical presence in this state; or
+32 (F) The lender maintains an office in this state;
+33 (iii) The term “lender” shall also include any person engaged in a transaction whereby the
+34 person makes or funds a loan within this state using the proceeds of an advance under a line of
+LC000645/SUB A - Page 2 of 13
+
+1 credit over which proceeds the person has dominion and control and for the repayment of which
+2 the person is unconditionally liable. This transaction is not a table-funding transaction. A person is
+3 deemed to have dominion and control over the proceeds of an advance under a line of credit used
+4 to fund a loan regardless of whether:
+5 (A) The person may, contemporaneously with, or shortly following, the funding of the
+6 loan, assign or deliver to the line of credit lender one or more loans funded by the proceeds of an
+7 advance to the person under the line of credit;
+8 (B) The proceeds of an advance are delivered directly to the settlement agent by the line-
+9 of-credit lender, unless the settlement agent is the agent of the line-of-credit lender;
+10 (C) One or more loans funded by the proceeds of an advance under the line of credit is
+11 purchased by the line-of-credit lender; or
+12 (D) Under the circumstances, as set forth in regulations adopted by the director, or the
+13 director’s designee, pursuant to this chapter.
+14 (11) “Licensee” means any person licensed under this chapter.
+15 (12) “Loan” means any advance of money or credit including, but not limited to:
+16 (i) Loans secured by mortgages;
+17 (ii) Insurance premium finance agreements;
+18 (iii) The purchase or acquisition of retail installment contracts or advances to the holders
+19 of those contracts;
+20 (iv) Educational loans; or
+21 (v) Any other advance of money; or
+22 (vi) Any transaction, such as those commonly known as “payday loans,” “payday
+23 advances,” or “deferred-presentment loans,” in which a cash advance is made to a customer in
+24 exchange for the customer’s personal check, or in exchange for the customer’s authorization to
+25 debit the customer’s deposit account, and where the parties agree either, that the check will not be
+26 cashed or deposited, or that customer’s deposit account will not be debited, until a designated future
+27 date.
+28 (13) “Loan broker” means any person or entity who or that, for compensation or gain, or
+29 in the expectation of compensation or gain, either directly or indirectly, solicits, processes,
+30 negotiates, places, or sells a loan within this state for others in the primary market, or offers to do
+31 so. A loan broker shall also mean any person who is the nominal mortgagee or creditor in a table-
+32 funding transaction. A loan is brokered within this state if any of the following conditions exist:
+33 (i) The loan is secured by real property located in this state;
+34 (ii) An application for a loan is taken or received by an employee, agent, or representative
+LC000645/SUB A - Page 3 of 13
+
+1 of the loan broker within this state;
+2 (iii) The loan closes within this state;
+3 (iv) The loan solicitation is done by an individual with a physical presence in this state; or
+4 (v) The loan broker maintains an office in this state.
+5 (14) “Loan-closing services” means providing title services, including title searches, title
+6 examinations, abstract preparation, insurability determinations, and the issuance of title
+7 commitments and title insurance policies, conducting loan closings, and preparation of loan-closing
+8 documents when performed by, or under the supervision of, a licensed attorney, licensed title
+9 agency, or licensed title insurance company.
+10 (15) “Loan solicitation” shall mean an effectuation, procurement, delivery and offer, or
+11 advertisement of a loan. Loan solicitation also includes providing or accepting loan applications
+12 and assisting persons in completing loan applications and/or advising, conferring, or informing
+13 anyone regarding the benefits, terms and/or conditions of a loan product or service. Loan
+14 solicitation does not include loan processing or loan underwriting as defined in this section. Loan
+15 solicitation does not include telemarketing that is defined, for purposes of this section, to mean
+16 contacting a person by telephone with the intention of collecting such person’s name, address, and
+17 telephone number for the sole purpose of allowing a mortgage loan originator to fulfill a loan
+18 inquiry.
+19 (16) “Loan underwriting” shall mean a loan process that involves the analysis of risk with
+20 respect to the decision whether to make a loan to a loan applicant based on credit, employment,
+21 assets, and other factors, including evaluating a loan applicant against a lender’s various lending
+22 criteria for creditworthiness, making a determination for the lender as to whether the applicant
+23 meets the lender’s pre-established credit standards, and/or making a recommendation regarding
+24 loan approval.
+25 (17) “Monetary value” means a medium of exchange, whether or not redeemable in fiat
+26 currency.
+27 (18) “Mortgage loan” means a loan secured in whole, or in part, by real property located
+28 in this state.
+29 (19) “Mortgage loan originator” has the same meaning set forth in § 19-14.10-3.
+30 (20) “Nationwide Multistate Licensing System” means a system involving more than one
+31 state, the District of Columbia, or the Commonwealth of Puerto Rico and that is established to
+32 facilitate the sharing of regulatory information and the licensing, application, reporting, and
+33 payment processes, by electronic or other means, for mortgage lenders and loan brokers and other
+34 licensees required to be licensed under this chapter.
+LC000645/SUB A - Page 4 of 13
+
+1 (21) “Natural person employee” shall mean any natural person performing services as a
+2 bona fide employee for a person or entity licensed under § 19-14-1 et seq., in return for a salary,
+3 wage, or other consideration, where such salary, wage, or consideration is reported by the licensee
+4 on a federal form W-2 payroll record. The term does not include any natural person or business
+5 entity performing services for a person licensed under the provisions of Rhode Island general laws
+6 in return for a salary, wage, or other consideration, where such salary, wage, or consideration is
+7 reported by the licensee on a federal form 1099.
+8 (22) “Negative equity” means the difference between the value of an asset and the
+9 outstanding portion of the loan taken out to pay for the asset, when the latter exceeds the former
+10 amount.
+11 (23) “Negotiates” shall mean, with respect to a loan, to confer directly with, or offer advice
+12 directly to, a loan applicant or prospective loan applicant for a loan product or service concerning
+13 any of the substantive benefits, terms, or conditions of the loan product or service.
+14 (24) “Nonprofit organization” means a corporation qualifying as a 26 U.S.C. § 501(c)(3)
+15 nonprofit organization, in the operation of which no member, director, officer, partner, employee,
+16 agent, or other affiliated person profits financially other than receiving reasonable salaries if
+17 applicable.
+18 (25) “Operating subsidiary” shall mean a majority-owned subsidiary of a financial
+19 institution or banking institution that engages only in activities permitted by the parent financial
+20 institution or banking institution.
+21 (26) “Oversight and supervision of the licensee” shall mean that the licensee provides
+22 training to the employee, sets the employee’s hours of work, provides the employee with the
+23 equipment required to perform the employee’s duties, and supervises the services provided by the
+24 employee to the licensee.
+25 (27) “Personal money order” means any instrument for the transmission or payment of
+26 money in relation to which the purchaser or remitter appoints, or purports to appoint, the seller as
+27 his or her agent for the receipt, transmission, or handling of money, whether the instrument is signed
+28 by the seller, or by the purchaser, or remitter, or some other person.
+29 (28) “Primary market” means the market in which loans are made to borrowers by lenders,
+30 whether or not through a loan broker or other conduit.
+31 (29) “Principal owner” means any person or entity who or that owns, controls, votes, or
+32 has a beneficial interest in, directly or indirectly, ten percent (10%) or more of the outstanding
+33 capital stock and/or equity interest of a licensee.
+34 (30) “Processes” shall mean, with respect to a loan, any of a series of acts or functions,
+LC000645/SUB A - Page 5 of 13
+
+1 including the preparation of a loan application and supporting documents, performed by a person
+2 that leads to, or results in, the acceptance, approval, denial, and/or withdrawal of a loan application,
+3 including, without limitation, the rendering of services, including loan underwriting, obtaining
+4 verifications, credit reports or appraisals, communicating with the applicant and/or the lender or
+5 loan broker, and/or other loan processing and origination services, for consideration by a lender or
+6 loan broker. Loan processing does not include the following:
+7 (i) Providing loan closing services;
+8 (ii) Rendering of credit reports by an authorized credit reporting agency; and
+9 (iii) Rendering of appraisal services.
+10 (31) “Provisional employee” means a natural person who, pursuant to a written agreement
+11 between the natural person and a wholly owned subsidiary of a financial holding company, as
+12 defined in the Bank Holding Company Act of 1956 (12 U.S.C. § 1841 et seq.), as amended, a bank-
+13 holding company, savings-bank-holding company, or thrift-holding company, is an exclusive agent
+14 for the subsidiary with respect to mortgage loan originations and the subsidiary: (a) Holds a valid
+15 loan broker’s license; and (b) Enters into a written agreement with the director, or the director’s
+16 designee, to include:
+17 (i) An “undertaking of accountability,” in a form prescribed by the director, or the director’s
+18 designee, for all of the subsidiary’s exclusive agents to include full-and-direct financial and
+19 regulatory responsibility for the mortgage loan originator activities of each exclusive agent as if
+20 said exclusive agent were an employee of the subsidiary;
+21 (ii) A business plan, to be approved by the director, or the director’s designee, for the
+22 education of the exclusive agents, the handling of consumer complaints related to the exclusive
+23 agents, and the supervision of the mortgage loan origination activities of the exclusive agents; and
+24 (iii) A restriction of the exclusive agents’ mortgage loan originators’ activities to loans to
+25 be made only by the subsidiary’s affiliated bank.
+26 (32) “Remote location” means a location meeting the requirements of § 19-14-25(b) at
+27 which an employee of a licensee may provide services for the licensee notwithstanding that the
+28 location differs from the place of business named in the license or a branch certificate issued to the
+29 licensee.
+30 (33) “Retail installment contract” means any security agreement negotiated or executed in
+31 this state, or under the laws of this state, including, but not limited to, any agreement in the nature
+32 of a mortgage, conditional sale contract, or any other agreement whether or not evidenced by any
+33 written instrument to pay the retail purchase price of goods, or any part thereof, in installments over
+34 any period of time and pursuant to which any security interest is retained or taken by the retail seller
+LC000645/SUB A - Page 6 of 13
+
+1 for the payment of the purchase price, or any part thereof, of the retail installment contract.
+2 (34) “Sell” means to sell, to issue, or to deliver a check.
+3 (35) “Servicing” means receiving a scheduled, periodic payment from a borrower, pursuant
+4 to the terms of a loan, including amounts for escrow accounts, and making the payments to the
+5 owner of the loan or other third party of principal and interest and other payments with respect to
+6 the amounts received from the borrower as may be required pursuant to the terms of the servicing
+7 loan documents or servicing contract. In the case of a home equity conversion mortgage or a reverse
+8 mortgage, servicing includes making payment to the borrower.
+9 (36) “Simple interest” means interest computed on the principal balance outstanding
+10 immediately prior to a payment for one plus the actual number of days between payments made on
+11 a loan over the life of a loan.
+12 (37) “Small loan” means a loan of less than five thousand dollars ($5,000), not secured by
+13 real estate, made pursuant to the provisions of chapter 14.2 of this title.
+14 (38) “Small-loan lender” means a lender engaged in the business of making small loans
+15 within this state.
+16 (39) “Stored value” means monetary value representing a claim against the issuer that is
+17 stored on an electronic or digital medium and is evidenced by an electronic or digital record, and
+18 that is intended and accepted for use as a means of redemption for money or monetary value or
+19 payment for goods or services. The term does not include stored value that is redeemable by the
+20 issuer exclusively in goods or services; stored value that is redeemable exclusively in goods or
+21 services limited to transactions involving a defined merchant or location or set of locations, such
+22 as a specific retailer or retail chain, college campus, or program points, miles, or other units issued
+23 in connection with a customer affinity or rewards program, even if there is a secondary market for
+24 the stored value.
+25 (40) “Table-funding transaction” means a transaction in which there is a contemporaneous
+26 advance of funds by a lender and an assignment by the mortgagee or creditor of the loan to the
+27 lender.
+28 (41) “Tangible net worth” means the aggregate assets of a licensee excluding all intangible
+29 assets, less liabilities, as determined in accordance with United States generally accepted
+30 accounting principles.
+31 (42) “Third-party loan servicer” means a person or entity who or that, directly or indirectly,
+32 engages in the business of servicing a loan secured by residential real estate located in Rhode Island,
+33 for a personal, family, or household purpose, owed or due, or asserted to be owed or due, another,
+34 or a person or entity that owns the servicing rights to a loan secured by residential real estate located
+LC000645/SUB A - Page 7 of 13
+
+1 in Rhode Island whether or not that owner services the loan themselves or contracts with another
+2 person or entity for the servicing.
+3 (43) “Virtual currency”:
+4 (i) Means a digital representation of value that:
+5 (A) Is used as a medium of exchange, unit of account, or store of value; and
+6 (B) Is not legal tender, whether or not denominated in legal tender; and
+7 (ii) Does not include:
+8 (A) A transaction in which a merchant grants, as part of an affinity or rewards program,
+9 value that cannot be taken from or exchanged with the merchant for legal tender, bank credit, or
+10 virtual currency;
+11 (B) A digital representation of value issued by or on behalf of a publisher and used solely
+12 within an online game, game platform, or family of games sold by the same publisher or offered
+13 on the same game platform;
+14 (C) Native digital token used in a proprietary blockchain service platform; or
+15 (D) A gift certificate; store gift card; general-use prepaid card; or loyalty, award, or
+16 promotional gift card, as these terms are defined in federal Regulation E, 12 C.F.R. § 1005.20(a),
+17 without giving effect to any exception as specified in 31 C.F.R. § 1010.100(kkk) or any card, code
+18 or device, or other device that can add funds to those products.
+19 (44) “Writing” means hard-copy writing or electronic writing that meets the requirements
+20 of § 42-127.1-2(7).
+21 SECTION 2. Section 19-14.1-10 of the General Laws in Chapter 19-14.1 entitled "Lenders
+22 and Loan Brokers" is hereby amended to read as follows:
+23 19-14.1-10. Special exemptions.
+24 (a) The licensing provisions of chapter 14 of this title shall not apply to:
+25 (1) Nonprofit charitable, educational, or religious corporations or associations;
+26 (2) Any person who makes less than six (6) loans in this state in any consecutive twelve-
+27 month (12) period; there is no similar exemption from licensing for loan brokers for brokering loans
+28 or acting as a loan broker;
+29 (3) Any person acting as an agent for a licensee for the purpose of conducting closings at
+30 a location other than that stipulated in the license;
+31 (4) Regulated institutions and banks or credit unions organized under the laws of the United
+32 States, or subject to written notice with a designated Rhode Island agent for service of process in
+33 the form prescribed by the director, or the director’s designee, of any other state within the United
+34 States if the laws of the other state in which such bank or credit union is organized authorizes under
+LC000645/SUB A - Page 8 of 13
+
+1 conditions not substantially more restrictive than those imposed by the laws of this state, as
+2 determined by the director, or the director’s designee, a financial institution or credit union to
+3 engage in the business of originating or brokering loans in the other state; no bank or credit union
+4 duly organized under the laws of any other state within the United States may receive deposits, pay
+5 checks, or lend money from any location within this state unless such bank or credit union has
+6 received approval from the director, or the director’s designee, for the establishment of an interstate
+7 branch office pursuant to chapter 7 of title 19;
+8 (5) Any natural person employee who is employed by a licensee when acting on the
+9 licensee’s behalf; provided that this exemption shall not apply to a mortgage loan originator
+10 required to be licensed under § 19-14-2 or § 19-14.10-4; or
+11 (6) A licensed attorney when performing loan closing services for a licensee or for an entity
+12 identified in subdivision (4) above.
+13 (b) The provisions of this chapter and chapter 14 of this title shall not apply to:
+14 (1) Loans to corporations, joint ventures, partnerships, limited liability companies or other
+15 business entities;
+16 (2) Loans over twenty-five thousand dollars ($25,000) in amount to individuals for
+17 business or commercial, as opposed to personal, family or household purposes;
+18 (3) Loans principally secured by accounts receivable and/or business inventory;
+19 (4) Loans made by a life insurance company wholly secured by the cash surrender value
+20 of a life insurance policy;
+21 (5) Education-purpose loans made by the Rhode Island health and educational building
+22 corporation as vested in chapter 38.1 of title 45 of the Rhode Island student loan authority as vested
+23 in chapter 62 of title 16;
+24 (6) The acquisition of retail or loan installment contracts by an entity whose sole business
+25 in this state is acquiring them from federal banks receivers or liquidators;
+26 (7) Notes evidencing the indebtedness of a retail buyer to a retail seller of goods, services
+27 or insurance for a part or all of the purchase price;
+28 (8) Any municipal, state or federal agency that makes, brokers, or funds loans or acts as a
+29 lender or a loan broker. This exemption includes exclusive agents or exclusive contractors of the
+30 agency specifically designated by the agency to perform those functions on behalf of the agency
+31 and which has notified the director, in writing, of the exclusive agency or contract; or
+32 (9) Notes evidencing the indebtedness of a retail buyer to a retail motor vehicle dealer that
+33 include as part of the amount financed, disclosed in accordance with 12 C.F.R. § 226.18 as
+34 amended, an amount representing negative equity related to the motor vehicle being traded in as
+LC000645/SUB A - Page 9 of 13
+
+1 part of the purchase price of the motor vehicle being purchased.
+2 (c) No license to make or fund loans, or to act as a lender or small loan lender shall be
+3 required of any person who engages in deferred deposit transactions (commonly known as “pay-
+4 day advance”) while holding a valid license to cash checks pursuant to chapter 14 of this title.
+5 SECTION 3. Section 19-14.2-1 of the General Laws in Chapter 19-14.2 entitled "Small
+6 Loan Lenders" is hereby amended to read as follows:
+7 19-14.2-1. Maximum rate on small loans not authorized by chapter.
+8 (a) No person, except as authorized by this chapter, shall directly or indirectly charge,
+9 contract for, or receive any interest, discount, or consideration greater than provided by this chapter
+10 upon the loan, use, or sale of credit of the amount or value of five thousand dollars ($5,000) or less.
+11 (b) The prohibition in subsection (a) shall apply to any person who, by any device,
+12 subterfuge, or pretense shall charge, contract for, or receive greater interest, consideration, or
+13 charges than is authorized by this chapter for the loan, use, or forbearance of money, goods, or
+14 things in action, or for the loan, use, or sale of credit.
+15 (c) No loan of the amount or value of five thousand dollars ($5,000) or less for which a
+16 greater rate of interest, consideration, or charges than is permitted by this chapter has been charged,
+17 contracted for, or received, wherever made, shall be enforced in this state, and every person in any
+18 way participating therein in this state shall be subject to the provisions of this chapter, provided
+19 that this section shall not apply to loans legally made in any other state, commonwealth, or district
+20 which then has in effect a regulatory small loan law similar in principal to this chapter.
+21 (d) No person may engage in any device, subterfuge, or pretense to evade the requirements
+22 of this chapter, including making loans disguised as personal property sales and leaseback
+23 transactions, or disguising loan proceeds as cash rebates for the pretextual installment sale of goods
+24 or services, or assisting a debtor to obtain a loan with a greater rate of interest, consideration, or
+25 charges than is permitted by this chapter through any method including mail, telephone, Internet,
+26 or any electronic means regardless of whether the person has a physical location in the state.
+27 SECTION 4. Sections 19-14.4-4 and 19-14.4-5 of the General Laws in Chapter 19-14.4
+28 entitled "Check Cashing" are hereby amended to read as follows:
+29 19-14.4-4. Fees for services.
+30 No licensee shall:
+31 (1) Charge check-cashing fees in excess of three percent (3%) of the face amount of the
+32 check, or five dollars ($5.00), whichever is greater, if the check is the payment of any kind of state
+33 public assistance or federal social security benefit;
+34 (2) Charge check-cashing fees for personal checks in excess of ten percent (10%) of the
+LC000645/SUB A - Page 10 of 13
+
+1 face amount of the personal check or five dollars ($5.00), whichever is greater; or
+2 (3) Charge check-cashing fees in excess of five percent (5%) of the face amount of the
+3 check or five dollars ($5.00), whichever is greater, for all other checks; or
+4 (4) Charge deferred deposit transaction fees in excess of ten percent (10%) of the amount
+5 of funds advanced.
+6 19-14.4-5. Posting of charges — Endorsement — Receipt.
+7 (a) In every location licensed pursuant to this chapter, there shall be at all times posted, in
+8 a conspicuous place within the licensed premises, a complete and unambiguous schedule of all fees
+9 for cashing checks, deferred deposit transactions expressed as both a dollar amount and an annual
+10 percentage rate, and the initial issuance of any identification card.
+11 (b) Before a licensee shall deposit, with any regulated institution or other insured-deposit-
+12 taking institution organized under the laws of the United States, a check cashed by the licensee, the
+13 check must be endorsed with the name under which the licensee is doing business and must include
+14 the words “licensed check cashing services”.
+15 (c) The licensee shall provide a receipt for each transaction for the benefit of a customer.
+16 (d) Each check casher shall also post a list of valid identification that is acceptable in lieu
+17 of identification provided by the check casher. The information required by this section shall be
+18 clear, legible, and in letters not less than one-half (½) inch in height. The information shall be
+19 posted in a conspicuous location in the unobstructed view of the public within the check casher’s
+20 premises. Failure to post information as required by this section, or the imposition of fees or
+21 identification requirements contrary to the information posted, shall constitute a deceptive trade
+22 practice under chapter 13.1 of title 6.
+23 SECTION 5. Section 19-14.4-5.1 of the General Laws in Chapter 19-14.4 entitled "Check
+24 Cashing" is hereby repealed.
+25 19-14.4-5.1. Customer checks — Deferred deposits.
+26 (a) A check casher may defer the deposit of a personal check written by a customer for a
+27 term of no less than thirteen (13) days, pursuant to the provisions of this section. The face amount
+28 of the check shall not exceed five hundred dollars ($500).
+29 (b) Each deferred deposit shall be made pursuant to a written agreement that has been
+30 signed by the customer and by the check casher or an authorized representative of the check casher.
+31 The written agreement shall contain a statement of the total amount of any fees charged for the
+32 deferred deposit, expressed both in United States currency and as an annual percentage rate (APR),
+33 as required by federal regulations. The written agreement shall authorize the check casher to defer
+34 deposit of the personal check until a specific date no less than thirteen (13) days from the date the
+LC000645/SUB A - Page 11 of 13
+
+1 written agreement was signed and executed. The written agreement shall not permit the check
+2 casher to accept collateral.
+3 (c) A rollover is an extension or deferral of the payment due date of a deferred deposit
+4 transaction for the payment of only an additional fee.
+5 (d) The maximum amount of a single customer’s check is five hundred dollars ($500).
+6 (e) The maximum aggregate amount of concurrently outstanding checks held by the
+7 licensee or its affiliate from the same customer is five hundred dollars ($500).
+8 (f) The maximum number of concurrently outstanding checks held by the licensee or its
+9 affiliates from the same customer is three (3).
+10 (g) The maximum number of rollovers permitted is one.
+11 (h) The check casher shall give a duplicate original of the agreement to the customer at the
+12 time of the transaction.
+13 SECTION 6. This act shall take effect on January 1, 2027.
+========
+LC000645/SUB A
+========
+LC000645/SUB A - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+***
+1 This act would repeal the provisions of the general laws allowing deferred deposit
+2 providers, also known as "payday lenders."
+3 This act would take effect on January 1, 2027.
+========
+LC000645/SUB A
+========
+LC000645/SUB A - Page 13 of 13
+
+[DELETED: TATE  OF  RHODE  ISLAND S A 1 U o s t f t s h t f m t ( o ( “ m a c d m o p m o o o i c o f d s n b c c c m ( w ( ( o ( t p]
+[DELETED:  f i ( a i c t d ( ( m n s ( p i p t p t a i p f c t a a p a ( “ p f c m a p o e e i t b a ( p i ( ( ( w ( ( ( ( ( p]
+[DELETED:  c t d t ( l a ( o ( p ( d ( ( ( ( ( o ( ( ( A t s a t c k a “ l “ a e d c d ( i t e o c o g e d o i s p n s f ( (]
+[DELETED:  o ( ( ( ( e a p i d a t i o t c d a ( a a a r t b t a c o a l p o s L s s c t i ( r a c m l ( c ( i ( ( s f t s o r i a t l a r a p l]
+[DELETED:  ( b w o e i r ( “ e m t d b t v o a a a t o a ( d a ( n a o o a p p f o t r r s i a ( “ s s m a m s o a f i i ( t e e ( m h b ( w ( h c (]
+[DELETED:  i t i v l l ( ( ( ( b d h f l d ( d f a o t s e a t i f f a r s ( e a ( b ( w l l ( t o w a]
+[DELETED:  f ( ( t o t l m ( “ i m i c o t p b o i a ( r ( w ( s t p i s a i t ( a l ( a l l a d i a w U S g a a ( e f o]
+[DELETED:  i p ( ( ( ( ( ( v v ( w o ( ( A g c s g c g p c o l a o p w o ( o S a 1 ( ( ( m o ( a ( S t S]
+[DELETED:  c n s m r t t i b t l o t s a d e d c r b ( l b p t t e s n a t a m l o r ( i ( ( b ( L o t t d ( i a t i f b ( ( o ( c i ( i ( o ( l a a ( i a p o t a f d i a w 1 C § 2 a a]
+[DELETED:  p ( r d S L 1 ( c u ( T p i s ( s a t a p w b a d s c t ( g c w t w ( o t c i m l d a p p s a l t o c o S e 1 N ( c p (]
+[DELETED:  f ( c ( o 1 ( a f p ( t c t ( ( o c p p i p S C 1 ( t o ( s T d a d]
+[DELETED:  w c ( t ( ( T m a a o c o c h b t l ( a ( ( t S]
+[DELETED:  T a w r t p o t g l a d d p T]

@@ -1,0 +1,1005 @@
+Title: RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Official Title: RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Number of Sections: 1
+Source: versions - 6047
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6047
+========
+LC002275
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Alzate, Kazarian, Caldwell, Shanley, Speakman, Ajello,
+Felix, Tanzi, Casimiro, and Giraldo
+Date Introduced: March 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-57 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-57. F.D.A. approved prescription contraceptive drugs and devices.
+4 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+5 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+6 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+7 approved contraceptive drugs and devices requiring a prescription all of the following services and
+8 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+9 require coverage for the prescription drug RU 486.
+10 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+11 applies to this coverage:
+12 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+13 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+14 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+15 definition as that set forth by the FDA;
+16 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+17 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+18 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+19 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+1 without cost-sharing; and
+2 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+3 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+4 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+5 management restrictions;
+6 (2) Voluntary sterilization procedures;
+7 (3) Clinical services related to the provision or use of contraception, including
+8 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+9 education, referrals, and counseling; and
+10 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+11 under this section, including, but not limited to, management of side effects, counseling for
+12 continued adherence, and device insertion and removal.
+13 (b) A group or blanket policy subject to this section shall not impose a deductible,
+14 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+15 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+16 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+17 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+18 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+19 impose utilization control or other forms of medical management limiting the supply of FDA-
+20 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+21 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+22 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+23 such coverage other than a pharmacy claim.
+24 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+25 impose any restrictions or delays on the coverage required under this section.
+26 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+27 spouse or domestic partner and covered non-spouse dependents
+28 (b)(e) Notwithstanding any other provision of this section, any insurance company may
+29 issue to a religious employer an individual or group health insurance contract, plan, or policy that
+30 excludes coverage for prescription contraceptive methods that are contrary to the religious
+31 employer’s bona fide religious tenets. The exclusion from coverage under this subsection shall not
+32 apply to contraceptive services or procedures provided for purposes other than contraception, such
+33 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+34 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+LC002275 - Page 2 of 15
+1 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+2 (d)(g) This section does not apply to insurance coverage providing benefits for: (1) Hospital
+3 confinement indemnity; (2) Disability income; (3) Accident only; (4) Long-term care; (5) Medicare
+4 supplement; (6) Limited benefit health; (7) Specified disease indemnity; (8) Sickness or bodily
+5 injury or death by accident or both; and (9) Other limited-benefit policies.
+6 (e)(h) Every religious employer that invokes the exemption provided under this section
+7 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+8 contraceptive healthcare services the employer refuses to cover for religious reasons.
+9 (f)(i) Beginning on the first day of each plan year after April 1, 2019, every health insurance
+10 issuer offering group or individual health insurance coverage that covers prescription contraception
+11 shall not restrict reimbursement for dispensing a covered prescription contraceptive up to three
+12 hundred sixty-five (365) days at a time that may be furnished or dispensed all at once or over the
+13 course of the twelve (12) month period at the discretion of the prescriber.
+14 (j) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+15 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+16 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+17 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+18 accordance with § 27-18-20. The department may base its determinations on findings from onsite
+19 surveys, enrollee or other complaints, financial status, or any other source.
+20 (k) The department shall monitor plan compliance in accordance with this section and shall
+21 adopt rules and regulations for the implementation of this section, including the following:
+22 (1) In addition to any requirements under state administrative procedures, the department
+23 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+24 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+25 representing youth, low-income people, and communities of color, and other interested parties. The
+26 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+27 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+28 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+29 shall be open to the public.
+30 (2) The department shall conduct random reviews of each plan and its subcontractors to
+31 ensure compliance with this section.
+32 (3) The department shall submit an annual report to the general assembly and any other
+33 appropriate entity with its findings from the random compliance reviews detailed in this section
+34 and any other compliance or implementation efforts. This report shall be made available to the
+LC002275 - Page 3 of 15
+1 public on the department’s website.
+2 SECTION 2. Section 27-19-48 of the General Laws in Chapter 27-19 entitled "Nonprofit
+3 Hospital Service Corporations" is hereby amended to read as follows:
+4 27-19-48. FDA approved prescription contraceptive drugs and devices.
+5 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+6 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+7 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+8 approved contraceptive drugs and devices requiring a prescription all of the following services and
+9 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+10 require coverage for the prescription drug RU 486.
+11 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+12 applies to this coverage:
+13 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+14 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+15 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+16 definition as that set forth by the FDA;
+17 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+18 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+19 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+20 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+21 without cost-sharing; and
+22 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+23 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+24 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+25 management restrictions;
+26 (2) Voluntary sterilization procedures;
+27 (3) Clinical services related to the provision or use of contraception, including
+28 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+29 education, referrals, and counseling; and
+30 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+31 under this section, including, but not limited to, management of side effects, counseling for
+32 continued adherence, and device insertion and removal.
+33 (b) A group or blanket policy subject to this section shall not impose a deductible,
+34 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+LC002275 - Page 4 of 15
+1 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+2 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+3 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+4 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+5 impose utilization control or other forms of medical management limiting the supply of FDA-
+6 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+7 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+8 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+9 such coverage other than a pharmacy claim.
+10 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+11 impose any restrictions or delays on the coverage required under this section.
+12 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+13 spouse or domestic partner and covered non-spouse dependents.
+14 (b)(e) Notwithstanding any other provision of this section, any hospital service corporation
+15 may issue to a religious employer an individual or group health insurance contract, plan, or policy
+16 that excludes coverage for prescription contraceptive methods that are contrary to the religious
+17 employer’s bona fide religious tenets. The exclusion from coverage under this subsection shall not
+18 apply to contraceptive services or procedures provided for purposes other than contraception, such
+19 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+20 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+21 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+22 (d)(g) Every religious employer that invokes the exemption provided under this section
+23 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+24 contraceptive healthcare services the employer refuses to cover for religious reasons.
+25 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+26 insurance issuer offering group or individual health insurance coverage that covers prescription
+27 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+28 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+29 or over the course of the twelve (12) month period at the discretion of the prescriber.
+30 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+31 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+32 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+33 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+34 accordance with § 27-19-38. The department may base its determinations on findings from onsite
+LC002275 - Page 5 of 15
+1 surveys, enrollee or other complaints, financial status, or any other source.
+2 (j) The department shall monitor plan compliance in accordance with this section and shall
+3 adopt rules and regulations for the implementation of this section, including the following:
+4 (1) In addition to any requirements under state administrative procedures, the department
+5 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+6 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+7 representing youth, low-income people, and communities of color, and other interested parties. The
+8 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+9 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+10 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+11 shall be open to the public.
+12 (2) The department shall conduct random reviews of each plan and its subcontractors to
+13 ensure compliance with this section.
+14 (3) The department shall submit an annual report to the general assembly and any other
+15 appropriate entity with its findings from the random compliance reviews detailed in this section
+16 and any other compliance or implementation efforts. This report shall be made available to the
+17 public on the department’s website.
+18 SECTION 3. Section 27-20-43 of the General Laws in Chapter 27-20 entitled "Nonprofit
+19 Medical Service Corporations" is hereby amended to read as follows:
+20 27-20-43. FDA approved prescription contraceptive drugs and devices.
+21 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+22 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+23 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+24 approved contraceptive drugs and devices requiring a prescription all of the following services and
+25 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+26 require coverage for the prescription drug RU 486.
+27 (1) All FDA-approved contraceptive drugs, devices and other products. The following
+28 applies to this coverage:
+29 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+30 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+31 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+32 definition as that set forth by the FDA; If the covered therapeutic equivalent versions of a drug,
+33 device, or product are not available, or are not tolerated by the patient, or are deemed medically
+34 inadvisable, a group or blanket policy shall provide coverage for an alternate therapeutic equivalent
+LC002275 - Page 6 of 15
+1 version of the contraceptive drug, device, or product, based on the determination of the healthcare
+2 provider, without cost-sharing; and
+3 (ii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+4 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+5 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+6 management restrictions;
+7 (2) Voluntary sterilization procedures;
+8 (3) Clinical services related to the provision or use of contraception, including
+9 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+10 education, referrals, and counseling; and
+11 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+12 under this section, including, but not limited to, management of side effects, counseling for
+13 continued adherence, and device insertion and removal.
+14 (b) A group or blanket policy subject to this section shall not impose a deductible,
+15 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+16 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+17 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+18 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+19 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+20 impose utilization control or other forms of medical management limiting the supply of FDA-
+21 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+22 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+23 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+24 such coverage other than a pharmacy claim.
+25 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+26 impose any restrictions or delays on the coverage required under this section.
+27 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+28 spouse or domestic partner and covered non-spouse dependents.
+29 (b)(e) Notwithstanding any other provision of this section, any medical service corporation
+30 may issue to a religious employer an individual or group health insurance contract, plan, or policy
+31 that excludes coverage for prescription contraceptive methods that are contrary to the religious
+32 employer’s bona fide religious tenets. The exclusion from coverage under this subsection, shall not
+33 apply to contraceptive services or procedures provided for purposes other than contraception, such
+34 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+LC002275 - Page 7 of 15
+1 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+2 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+3 (d)(g) Every religious employer that invokes the exemption provided under this section
+4 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+5 contraceptive healthcare services the employer refuses to cover for religious reasons.
+6 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+7 insurance issuer offering group or individual health insurance coverage that covers prescription
+8 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+9 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+10 or over the course of the twelve (12) month period at the discretion of the prescriber.
+11 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+12 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+13 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+14 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+15 accordance with § 27-20-33. The department may base its determinations on findings from onsite
+16 surveys, enrollee or other complaints, financial status, or any other source.
+17 (j) The department shall monitor plan compliance in accordance with this section and shall
+18 adopt rules and regulations for the implementation of this section, including the following:
+19 (1) In addition to any requirements under state administrative procedures, the department
+20 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+21 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+22 representing youth, low-income people, and communities of color, and other interested parties. The
+23 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+24 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+25 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+26 shall be open to the public.
+27 (2) The department shall conduct random reviews of each plan and its subcontractors to
+28 ensure compliance with this section.
+29 (3) The department shall submit an annual report to the general assembly and any other
+30 appropriate entity with its findings from the random compliance reviews detailed in this section
+31 and any other compliance or implementation efforts. This report shall be made available to the
+32 public on the department’s website.
+33 SECTION 4. Section 27-41-59 of the General Laws in Chapter 27-41 entitled "Health
+34 Maintenance Organizations" is hereby amended to read as follows:
+LC002275 - Page 8 of 15
+1 27-41-59. FDA approved prescription contraceptive drugs and devices.
+2 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+3 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+4 amended, or effective in this state on or after January 1, 2026, shall provide coverage for FDA
+5 approved contraceptive drugs and devices requiring a prescription; provided, all of the following
+6 services and contraceptive methods. Provided all of the following services and contraceptive
+7 methods. that nothing in this subsection shall be deemed to mandate or require coverage for the
+8 prescription drug RU 486.
+9 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+10 applies to this coverage:
+11 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+12 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+13 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+14 definition as that set forth by the FDA;
+15 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+16 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+17 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+18 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+19 without cost-sharing; and
+20 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+21 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+22 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+23 management restrictions;
+24 (2) Voluntary sterilization procedures;
+25 (3) Clinical services related to the provision or use of contraception, including
+26 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+27 education, referrals, and counseling; and
+28 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+29 under this section, including, but not limited to, management of side effects, counseling for
+30 continued adherence, and device insertion and removal.
+31 (b) A group or blanket policy subject to this section shall not impose a deductible,
+32 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+33 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+34 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+LC002275 - Page 9 of 15
+1 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+2 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+3 impose utilization control or other forms of medical management limiting the supply of FDA-
+4 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+5 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+6 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+7 such coverage other than a pharmacy claim.
+8 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+9 impose any restrictions or delays on the coverage required under this section.
+10 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+11 spouse or domestic partner and covered non-spouse dependents.
+12 (b)(e) Notwithstanding any other provision of this section, any health maintenance
+13 corporation may issue to a religious employer an individual or group health insurance contract,
+14 plan, or policy that excludes coverage for prescription contraceptive methods that are contrary to
+15 the religious employer’s bona fide religious tenets. The exclusion from coverage under this
+16 subsection shall not apply to contraceptive services or procedures provided for purposes other than
+17 contraception, such as decreasing the risk of ovarian cancer or eliminating symptoms of
+18 menopause.
+19 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+20 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+21 (d)(g) Every religious employer that invokes the exemption provided under this section
+22 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+23 contraceptive healthcare services the employer refuses to cover for religious reasons.
+24 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+25 insurance issuer offering group or individual health insurance coverage that covers prescription
+26 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+27 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+28 or over the course of the twelve (12) month period at the discretion of the prescriber.
+29 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+30 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+31 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+32 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+33 accordance with § 27-41-21. The department may base its determinations on findings from onsite
+34 surveys, enrollee or other complaints, financial status, or any other source.
+LC002275 - Page 10 of 15
+1 (j) The department shall monitor plan compliance in accordance with this section and shall
+2 adopt rules and regulations for the implementation of this section, including the following:
+3 (1) In addition to any requirements under state administrative procedures, the department
+4 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+5 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+6 representing youth, low-income people, and communities of color, and other interested parties. The
+7 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+8 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+9 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+10 shall be open to the public.
+11 (2) The department shall conduct random reviews of each plan and its subcontractors to
+12 ensure compliance with this section.
+13 (3) The department shall submit an annual report to the general assembly and any other
+14 appropriate entity with its findings from the random compliance reviews detailed in this section
+15 and any other compliance or implementation efforts. This report shall be made available to the
+16 public on the department’s website.
+17 SECTION 5. Chapter 40-8 of the General Laws entitled "Medical Assistance" is hereby
+18 amended by adding thereto the following section:
+19 40-8-33. FDA-approved prescription contraceptive drugs and devices.
+20 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+21 this chapter that is delivered, issued for delivery, renewed, amended or effective in this state on or
+22 after January 1, 2026, shall provide coverage for all of the following services and contraceptive
+23 methods. Provided, that nothing in this subsection shall be deemed to mandate or require coverage
+24 for the prescription drug RU 486.
+25 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+26 applies to this coverage:
+27 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+28 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+29 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+30 definition as that set forth by the FDA;
+31 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+32 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+33 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+34 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+LC002275 - Page 11 of 15
+1 without cost-sharing; and
+2 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+3 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+4 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+5 management restrictions;
+6 (2) Voluntary sterilization procedures;
+7 (3) Clinical services related to the provision or use of contraception, including
+8 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+9 education, referrals, and counseling; and
+10 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+11 under this section, including, but not limited to, management of side effects, counseling for
+12 continued adherence, and device insertion and removal.
+13 (b) A group or blanket policy subject to this section shall not impose a deductible,
+14 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+15 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+16 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+17 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+18 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+19 impose utilization control or other forms of medical management limiting the supply of FDA-
+20 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+21 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+22 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+23 such coverage other than a pharmacy claim.
+24 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+25 impose any restrictions or delays on the coverage required under this section.
+26 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+27 spouse or domestic partner and covered non-spouse dependents.
+28 (e) Notwithstanding any other provision of this section, any health maintenance
+29 corporation may issue to a religious employer an individual or group health insurance contract,
+30 plan, or policy that excludes coverage for prescription contraceptive methods that are contrary to
+31 the religious employer's bona fide religious tenets. The exclusion from coverage under this
+32 subsection shall not apply to contraceptive services or procedures provided for purposes other than
+33 contraception, such as decreasing the risk of ovarian cancer or eliminating symptoms of
+34 menopause.
+LC002275 - Page 12 of 15
+1 (f) As used in this section, "religious employer" means an employer that is a "church or a
+2 qualified church-controlled organization" as defined in 26 U.S.C. § 3121.
+3 (g) Every religious employer that invokes the exemption provided under this section shall
+4 provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+5 contraceptive healthcare services the employer refuses to cover for religious reasons.
+6 (h) Beginning on the first day of each plan year after April 1, 2024, every health insurance
+7 issuer offering group or individual health insurance coverage that covers prescription contraception
+8 shall not restrict reimbursement for dispensing a covered prescription contraceptive up to three
+9 hundred sixty-five (365) days at a time that may be furnished or dispensed all at once or over the
+10 course of the twelve (12) month period at the discretion of the prescriber.
+11 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+12 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+13 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+14 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+15 accordance with § 40-8-9. The department may base its determinations on findings from onsite
+16 surveys, enrollee or other complaints, financial status, or any other source.
+17 (j) The department shall monitor plan compliance in accordance with this section and shall
+18 adopt and regulations rules for the implementation of this section, including the following:
+19 (1) In addition to any requirements under state administrative procedures, the department
+20 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+21 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+22 representing youth, low-income people, and communities of color, and other interested parties. The
+23 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+24 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+25 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+26 shall be open to the public.
+27 (2) The department shall conduct random reviews of each plan and its subcontractors to
+28 ensure compliance with this section.
+29 (3) The department shall submit an annual report to the general assembly and any other
+30 appropriate entity with its findings from the random compliance reviews detailed in this section
+31 and any other compliance or implementation efforts. This report shall be made available to the
+32 public on the department’s website.
+LC002275 - Page 13 of 15
+1 SECTION 6. This act shall take effect upon passage.
+========
+LC002275
+========
+LC002275 - Page 14 of 15
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would require every individual or group health insurance contract effective on or
+2 after January 1, 2026, to provide coverage to the insured and the insured's spouse and dependents
+3 for all FDA-approved contraceptive drugs, devices and other products, voluntary sterilization
+4 procedures, patient education and counseling on contraception and follow-up services as well as
+5 Medicaid coverage for a twelve (12) month supply for Medicaid recipients.
+6 This act would take effect upon passage.
+========
+LC002275
+========
+LC002275 - Page 15 of 15
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 ( t a a c r ( a ( p p d ( a b p s p c f a a t e v o t c]
+[DELETED:  w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( i e c f p c m t a c t t r e a a (]
+[DELETED:  a ( c s i ( s c ( i s h c ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a]
+[DELETED:  p S H 2 ( t a a c r ( a ( p p d ( a b p s p c f a a t e v o t c h w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c]
+[DELETED:  t s m w i a l t s ( i ( s ( m t e a a ( a ( s c ( B o t d o e p y a A 1 2 e h i c u o ( d o p a]
+[DELETED:  s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S M 2 ( t a a c r ( a ( p p d d i]
+[DELETED:  v p ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( m t e a a]
+[DELETED:  ( a ( s c ( B o t f d o e p y a A 1 2 e h i c u o ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S M]
+[DELETED:  2 ( t a a s a c m P a o t f s a c m p ( a ( p p d ( a b p s p c f a a t e v o t c h w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s]
+[DELETED:  m w i a l t s ( i ( s ( N a o p o t s a h m c p t r e b f r t T e f c u t s c s a d t r o o c o e s o m ( a ( s c ( B o t d o e p y a A 1 2 e h i c u o ( d o p a s]
+[DELETED:  ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S a 4 ( t a m f ( a ( p p d ( a b p s p c f a a t e v o t c h]
+[DELETED:  w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( N a o p o t s a h m c p t r e b f r t T e f c u t s c s a d t r o o c o e s o m]
+[DELETED:  ( q ( p w n t p e p t e w t p l t c ( i s h c ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p ]
+[DELETED:  S]
+[DELETED:  T a f a F c d d a o p v s p M T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6047
+========
+LC002275
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representatives Alzate, Kazarian, Caldwell, Shanley, Speakman, Ajello,
+Felix, Tanzi, Casimiro, and Giraldo
+Date Introduced: March 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-57 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-57. F.D.A. approved prescription contraceptive drugs and devices.
+4 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+5 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+6 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+7 approved contraceptive drugs and devices requiring a prescription all of the following services and
+8 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+9 require coverage for the prescription drug RU 486.
+10 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+11 applies to this coverage:
+12 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+13 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+14 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+15 definition as that set forth by the FDA;
+16 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+17 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+18 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+19 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+
+1 without cost-sharing; and
+2 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+3 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+4 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+5 management restrictions;
+6 (2) Voluntary sterilization procedures;
+7 (3) Clinical services related to the provision or use of contraception, including
+8 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+9 education, referrals, and counseling; and
+10 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+11 under this section, including, but not limited to, management of side effects, counseling for
+12 continued adherence, and device insertion and removal.
+13 (b) A group or blanket policy subject to this section shall not impose a deductible,
+14 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+15 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+16 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+17 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+18 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+19 impose utilization control or other forms of medical management limiting the supply of FDA-
+20 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+21 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+22 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+23 such coverage other than a pharmacy claim.
+24 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+25 impose any restrictions or delays on the coverage required under this section.
+26 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+27 spouse or domestic partner and covered non-spouse dependents
+28 (b)(e) Notwithstanding any other provision of this section, any insurance company may
+29 issue to a religious employer an individual or group health insurance contract, plan, or policy that
+30 excludes coverage for prescription contraceptive methods that are contrary to the religious
+31 employer’s bona fide religious tenets. The exclusion from coverage under this subsection shall not
+32 apply to contraceptive services or procedures provided for purposes other than contraception, such
+33 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+34 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+LC002275 - Page 2 of 15
+
+1 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+2 (d)(g) This section does not apply to insurance coverage providing benefits for: (1) Hospital
+3 confinement indemnity; (2) Disability income; (3) Accident only; (4) Long-term care; (5) Medicare
+4 supplement; (6) Limited benefit health; (7) Specified disease indemnity; (8) Sickness or bodily
+5 injury or death by accident or both; and (9) Other limited-benefit policies.
+6 (e)(h) Every religious employer that invokes the exemption provided under this section
+7 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+8 contraceptive healthcare services the employer refuses to cover for religious reasons.
+9 (f)(i) Beginning on the first day of each plan year after April 1, 2019, every health insurance
+10 issuer offering group or individual health insurance coverage that covers prescription contraception
+11 shall not restrict reimbursement for dispensing a covered prescription contraceptive up to three
+12 hundred sixty-five (365) days at a time that may be furnished or dispensed all at once or over the
+13 course of the twelve (12) month period at the discretion of the prescriber.
+14 (j) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+15 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+16 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+17 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+18 accordance with § 27-18-20. The department may base its determinations on findings from onsite
+19 surveys, enrollee or other complaints, financial status, or any other source.
+20 (k) The department shall monitor plan compliance in accordance with this section and shall
+21 adopt rules and regulations for the implementation of this section, including the following:
+22 (1) In addition to any requirements under state administrative procedures, the department
+23 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+24 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+25 representing youth, low-income people, and communities of color, and other interested parties. The
+26 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+27 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+28 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+29 shall be open to the public.
+30 (2) The department shall conduct random reviews of each plan and its subcontractors to
+31 ensure compliance with this section.
+32 (3) The department shall submit an annual report to the general assembly and any other
+33 appropriate entity with its findings from the random compliance reviews detailed in this section
+34 and any other compliance or implementation efforts. This report shall be made available to the
+LC002275 - Page 3 of 15
+
+1 public on the department’s website.
+2 SECTION 2. Section 27-19-48 of the General Laws in Chapter 27-19 entitled "Nonprofit
+3 Hospital Service Corporations" is hereby amended to read as follows:
+4 27-19-48. FDA approved prescription contraceptive drugs and devices.
+5 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+6 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+7 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+8 approved contraceptive drugs and devices requiring a prescription all of the following services and
+9 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+10 require coverage for the prescription drug RU 486.
+11 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+12 applies to this coverage:
+13 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+14 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+15 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+16 definition as that set forth by the FDA;
+17 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+18 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+19 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+20 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+21 without cost-sharing; and
+22 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+23 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+24 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+25 management restrictions;
+26 (2) Voluntary sterilization procedures;
+27 (3) Clinical services related to the provision or use of contraception, including
+28 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+29 education, referrals, and counseling; and
+30 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+31 under this section, including, but not limited to, management of side effects, counseling for
+32 continued adherence, and device insertion and removal.
+33 (b) A group or blanket policy subject to this section shall not impose a deductible,
+34 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+LC002275 - Page 4 of 15
+
+1 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+2 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+3 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+4 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+5 impose utilization control or other forms of medical management limiting the supply of FDA-
+6 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+7 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+8 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+9 such coverage other than a pharmacy claim.
+10 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+11 impose any restrictions or delays on the coverage required under this section.
+12 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+13 spouse or domestic partner and covered non-spouse dependents.
+14 (b)(e) Notwithstanding any other provision of this section, any hospital service corporation
+15 may issue to a religious employer an individual or group health insurance contract, plan, or policy
+16 that excludes coverage for prescription contraceptive methods that are contrary to the religious
+17 employer’s bona fide religious tenets. The exclusion from coverage under this subsection shall not
+18 apply to contraceptive services or procedures provided for purposes other than contraception, such
+19 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+20 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+21 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+22 (d)(g) Every religious employer that invokes the exemption provided under this section
+23 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+24 contraceptive healthcare services the employer refuses to cover for religious reasons.
+25 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+26 insurance issuer offering group or individual health insurance coverage that covers prescription
+27 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+28 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+29 or over the course of the twelve (12) month period at the discretion of the prescriber.
+30 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+31 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+32 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+33 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+34 accordance with § 27-19-38. The department may base its determinations on findings from onsite
+LC002275 - Page 5 of 15
+
+1 surveys, enrollee or other complaints, financial status, or any other source.
+2 (j) The department shall monitor plan compliance in accordance with this section and shall
+3 adopt rules and regulations for the implementation of this section, including the following:
+4 (1) In addition to any requirements under state administrative procedures, the department
+5 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+6 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+7 representing youth, low-income people, and communities of color, and other interested parties. The
+8 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+9 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+10 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+11 shall be open to the public.
+12 (2) The department shall conduct random reviews of each plan and its subcontractors to
+13 ensure compliance with this section.
+14 (3) The department shall submit an annual report to the general assembly and any other
+15 appropriate entity with its findings from the random compliance reviews detailed in this section
+16 and any other compliance or implementation efforts. This report shall be made available to the
+17 public on the department’s website.
+18 SECTION 3. Section 27-20-43 of the General Laws in Chapter 27-20 entitled "Nonprofit
+19 Medical Service Corporations" is hereby amended to read as follows:
+20 27-20-43. FDA approved prescription contraceptive drugs and devices.
+21 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+22 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+23 amended, or effective in this state on or after January 1, 2026, shall provide coverage for F.D.A.
+24 approved contraceptive drugs and devices requiring a prescription all of the following services and
+25 contraceptive methods. Provided, that nothing in this subsection shall be deemed to mandate or
+26 require coverage for the prescription drug RU 486.
+27 (1) All FDA-approved contraceptive drugs, devices and other products. The following
+28 applies to this coverage:
+29 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+30 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+31 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+32 definition as that set forth by the FDA; If the covered therapeutic equivalent versions of a drug,
+33 device, or product are not available, or are not tolerated by the patient, or are deemed medically
+34 inadvisable, a group or blanket policy shall provide coverage for an alternate therapeutic equivalent
+LC002275 - Page 6 of 15
+
+1 version of the contraceptive drug, device, or product, based on the determination of the healthcare
+2 provider, without cost-sharing; and
+3 (ii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+4 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+5 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+6 management restrictions;
+7 (2) Voluntary sterilization procedures;
+8 (3) Clinical services related to the provision or use of contraception, including
+9 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+10 education, referrals, and counseling; and
+11 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+12 under this section, including, but not limited to, management of side effects, counseling for
+13 continued adherence, and device insertion and removal.
+14 (b) A group or blanket policy subject to this section shall not impose a deductible,
+15 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+16 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+17 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+18 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+19 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+20 impose utilization control or other forms of medical management limiting the supply of FDA-
+21 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+22 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+23 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+24 such coverage other than a pharmacy claim.
+25 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+26 impose any restrictions or delays on the coverage required under this section.
+27 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+28 spouse or domestic partner and covered non-spouse dependents.
+29 (b)(e) Notwithstanding any other provision of this section, any medical service corporation
+30 may issue to a religious employer an individual or group health insurance contract, plan, or policy
+31 that excludes coverage for prescription contraceptive methods that are contrary to the religious
+32 employer’s bona fide religious tenets. The exclusion from coverage under this subsection, shall not
+33 apply to contraceptive services or procedures provided for purposes other than contraception, such
+34 as decreasing the risk of ovarian cancer or eliminating symptoms of menopause.
+LC002275 - Page 7 of 15
+
+1 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+2 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+3 (d)(g) Every religious employer that invokes the exemption provided under this section
+4 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+5 contraceptive healthcare services the employer refuses to cover for religious reasons.
+6 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+7 insurance issuer offering group or individual health insurance coverage that covers prescription
+8 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+9 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+10 or over the course of the twelve (12) month period at the discretion of the prescriber.
+11 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+12 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+13 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+14 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+15 accordance with § 27-20-33. The department may base its determinations on findings from onsite
+16 surveys, enrollee or other complaints, financial status, or any other source.
+17 (j) The department shall monitor plan compliance in accordance with this section and shall
+18 adopt rules and regulations for the implementation of this section, including the following:
+19 (1) In addition to any requirements under state administrative procedures, the department
+20 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+21 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+22 representing youth, low-income people, and communities of color, and other interested parties. The
+23 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+24 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+25 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+26 shall be open to the public.
+27 (2) The department shall conduct random reviews of each plan and its subcontractors to
+28 ensure compliance with this section.
+29 (3) The department shall submit an annual report to the general assembly and any other
+30 appropriate entity with its findings from the random compliance reviews detailed in this section
+31 and any other compliance or implementation efforts. This report shall be made available to the
+32 public on the department’s website.
+33 SECTION 4. Section 27-41-59 of the General Laws in Chapter 27-41 entitled "Health
+34 Maintenance Organizations" is hereby amended to read as follows:
+LC002275 - Page 8 of 15
+
+1 27-41-59. FDA approved prescription contraceptive drugs and devices.
+2 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+3 this title that provides prescription coverage and is delivered, issued for delivery, or renewed,
+4 amended, or effective in this state on or after January 1, 2026, shall provide coverage for FDA
+5 approved contraceptive drugs and devices requiring a prescription; provided, all of the following
+6 services and contraceptive methods. Provided all of the following services and contraceptive
+7 methods. that nothing in this subsection shall be deemed to mandate or require coverage for the
+8 prescription drug RU 486.
+9 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+10 applies to this coverage:
+11 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+12 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+13 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+14 definition as that set forth by the FDA;
+15 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+16 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+17 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+18 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+19 without cost-sharing; and
+20 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+21 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+22 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+23 management restrictions;
+24 (2) Voluntary sterilization procedures;
+25 (3) Clinical services related to the provision or use of contraception, including
+26 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+27 education, referrals, and counseling; and
+28 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+29 under this section, including, but not limited to, management of side effects, counseling for
+30 continued adherence, and device insertion and removal.
+31 (b) A group or blanket policy subject to this section shall not impose a deductible,
+32 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+33 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+34 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+LC002275 - Page 9 of 15
+
+1 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+2 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+3 impose utilization control or other forms of medical management limiting the supply of FDA-
+4 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+5 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+6 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+7 such coverage other than a pharmacy claim.
+8 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+9 impose any restrictions or delays on the coverage required under this section.
+10 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+11 spouse or domestic partner and covered non-spouse dependents.
+12 (b)(e) Notwithstanding any other provision of this section, any health maintenance
+13 corporation may issue to a religious employer an individual or group health insurance contract,
+14 plan, or policy that excludes coverage for prescription contraceptive methods that are contrary to
+15 the religious employer’s bona fide religious tenets. The exclusion from coverage under this
+16 subsection shall not apply to contraceptive services or procedures provided for purposes other than
+17 contraception, such as decreasing the risk of ovarian cancer or eliminating symptoms of
+18 menopause.
+19 (c)(f) As used in this section, “religious employer” means an employer that is a “church or
+20 a qualified church-controlled organization” as defined in 26 U.S.C. § 3121.
+21 (d)(g) Every religious employer that invokes the exemption provided under this section
+22 shall provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+23 contraceptive healthcare services the employer refuses to cover for religious reasons.
+24 (e)(h) Beginning on the first day of each plan year after April 1, 2019, every health
+25 insurance issuer offering group or individual health insurance coverage that covers prescription
+26 contraception shall not restrict reimbursement for dispensing a covered prescription contraceptive
+27 up to three hundred sixty-five (365) days at a time that may be furnished or dispensed all at once
+28 or over the course of the twelve (12) month period at the discretion of the prescriber.
+29 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+30 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+31 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+32 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+33 accordance with § 27-41-21. The department may base its determinations on findings from onsite
+34 surveys, enrollee or other complaints, financial status, or any other source.
+LC002275 - Page 10 of 15
+
+1 (j) The department shall monitor plan compliance in accordance with this section and shall
+2 adopt rules and regulations for the implementation of this section, including the following:
+3 (1) In addition to any requirements under state administrative procedures, the department
+4 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+5 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+6 representing youth, low-income people, and communities of color, and other interested parties. The
+7 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+8 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+9 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+10 shall be open to the public.
+11 (2) The department shall conduct random reviews of each plan and its subcontractors to
+12 ensure compliance with this section.
+13 (3) The department shall submit an annual report to the general assembly and any other
+14 appropriate entity with its findings from the random compliance reviews detailed in this section
+15 and any other compliance or implementation efforts. This report shall be made available to the
+16 public on the department’s website.
+17 SECTION 5. Chapter 40-8 of the General Laws entitled "Medical Assistance" is hereby
+18 amended by adding thereto the following section:
+19 40-8-33. FDA-approved prescription contraceptive drugs and devices.
+20 (a) Every individual or group health insurance contract, plan, or policy issued pursuant to
+21 this chapter that is delivered, issued for delivery, renewed, amended or effective in this state on or
+22 after January 1, 2026, shall provide coverage for all of the following services and contraceptive
+23 methods. Provided, that nothing in this subsection shall be deemed to mandate or require coverage
+24 for the prescription drug RU 486.
+25 (1) All FDA-approved contraceptive drugs, devices, and other products. The following
+26 applies to this coverage:
+27 (i) If there is a therapeutic equivalent of an FDA-approved contraceptive drug, device, or
+28 product, the contract shall include either the original FDA-approved contraceptive drug, device, or
+29 product or at least one of its therapeutic equivalents. "Therapeutic equivalent" shall have the same
+30 definition as that set forth by the FDA;
+31 (ii) If the covered therapeutic equivalent versions of a drug, device, or product are not
+32 available, or are not tolerated by the patient, or are deemed medically inadvisable, a group or
+33 blanket policy shall provide coverage for an alternate therapeutic equivalent version of the
+34 contraceptive drug, device, or product, based on the determination of the healthcare provider,
+LC002275 - Page 11 of 15
+
+1 without cost-sharing; and
+2 (iii) A plan shall not require a prescription to trigger coverage of FDA-approved over-the-
+3 counter contraceptive drugs, devices, and products, and shall provide point-of-sale coverage for
+4 over-the-counter contraceptives at in-network pharmacies without cost-sharing or medical
+5 management restrictions;
+6 (2) Voluntary sterilization procedures;
+7 (3) Clinical services related to the provision or use of contraception, including
+8 consultations, examinations, procedures, device insertion, ultrasound, anesthesia, patient
+9 education, referrals, and counseling; and
+10 (4) Follow-up services related to the drugs, devices, products, and procedures covered
+11 under this section, including, but not limited to, management of side effects, counseling for
+12 continued adherence, and device insertion and removal.
+13 (b) A group or blanket policy subject to this section shall not impose a deductible,
+14 coinsurance, copayment or any other cost-sharing requirement on the coverage provided pursuant
+15 to this section. For a qualifying high-deductible health plan for a health savings account, the carrier
+16 shall establish the plan's cost-sharing for the coverage provided pursuant to this section at the
+17 minimum level necessary to preserve the enrollee's ability to claim tax-exempt contributions and
+18 withdrawals from their health savings account under 26 U.S.C. § 223. A health plan shall not
+19 impose utilization control or other forms of medical management limiting the supply of FDA-
+20 approved contraception that may be dispensed or furnished by a provider or pharmacist, or at a
+21 location licensed or otherwise authorized to dispense drugs or supplies in an amount that is less
+22 than a twelve (12) month supply, and shall not require an enrollee to make any formal request for
+23 such coverage other than a pharmacy claim.
+24 (c) Except as otherwise authorized under this section, a group or blanket policy shall not
+25 impose any restrictions or delays on the coverage required under this section.
+26 (d) Benefits for an enrollee under this section shall be the same for an enrollee's covered
+27 spouse or domestic partner and covered non-spouse dependents.
+28 (e) Notwithstanding any other provision of this section, any health maintenance
+29 corporation may issue to a religious employer an individual or group health insurance contract,
+30 plan, or policy that excludes coverage for prescription contraceptive methods that are contrary to
+31 the religious employer's bona fide religious tenets. The exclusion from coverage under this
+32 subsection shall not apply to contraceptive services or procedures provided for purposes other than
+33 contraception, such as decreasing the risk of ovarian cancer or eliminating symptoms of
+34 menopause.
+LC002275 - Page 12 of 15
+
+1 (f) As used in this section, "religious employer" means an employer that is a "church or a
+2 qualified church-controlled organization" as defined in 26 U.S.C. § 3121.
+3 (g) Every religious employer that invokes the exemption provided under this section shall
+4 provide written notice to prospective enrollees prior to enrollment with the plan, listing the
+5 contraceptive healthcare services the employer refuses to cover for religious reasons.
+6 (h) Beginning on the first day of each plan year after April 1, 2024, every health insurance
+7 issuer offering group or individual health insurance coverage that covers prescription contraception
+8 shall not restrict reimbursement for dispensing a covered prescription contraceptive up to three
+9 hundred sixty-five (365) days at a time that may be furnished or dispensed all at once or over the
+10 course of the twelve (12) month period at the discretion of the prescriber.
+11 (i) Nothing in this section shall be construed to exclude coverage for contraceptive drugs,
+12 devices, or products for reasons other than contraceptive purposes, such as decreasing the risk of
+13 ovarian cancer or eliminating symptoms of menopause, or for contraception that is necessary to
+14 preserve the life or health of an enrollee. A plan that violates this section is subject to penalties, in
+15 accordance with § 40-8-9. The department may base its determinations on findings from onsite
+16 surveys, enrollee or other complaints, financial status, or any other source.
+17 (j) The department shall monitor plan compliance in accordance with this section and shall
+18 adopt and regulations rules for the implementation of this section, including the following:
+19 (1) In addition to any requirements under state administrative procedures, the department
+20 shall engage in a stakeholder process prior to the adoption of rules and regulations that include
+21 healthcare service plans, pharmacy benefit plans, consumer representatives, including those
+22 representing youth, low-income people, and communities of color, and other interested parties. The
+23 department shall hold stakeholder meetings for stakeholders of different types to ensure sufficient
+24 opportunity to consider factors and processes relevant to contraceptive coverage. The department
+25 shall provide notice of stakeholder meetings on the department's website, and stakeholder meetings
+26 shall be open to the public.
+27 (2) The department shall conduct random reviews of each plan and its subcontractors to
+28 ensure compliance with this section.
+29 (3) The department shall submit an annual report to the general assembly and any other
+30 appropriate entity with its findings from the random compliance reviews detailed in this section
+31 and any other compliance or implementation efforts. This report shall be made available to the
+32 public on the department’s website.
+LC002275 - Page 13 of 15
+
+1 SECTION 6. This act shall take effect upon passage.
+========
+LC002275
+========
+LC002275 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would require every individual or group health insurance contract effective on or
+2 after January 1, 2026, to provide coverage to the insured and the insured's spouse and dependents
+3 for all FDA-approved contraceptive drugs, devices and other products, voluntary sterilization
+4 procedures, patient education and counseling on contraception and follow-up services as well as
+5 Medicaid coverage for a twelve (12) month supply for Medicaid recipients.
+6 This act would take effect upon passage.
+========
+LC002275
+========
+LC002275 - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 ( t a a c r ( a ( p p d ( a b p s p c f a a t e v o t c]
+[DELETED:  w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( i e c f p c m t a c t t r e a a (]
+[DELETED:  a ( c s i ( s c ( i s h c ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a]
+[DELETED:  p S H 2 ( t a a c r ( a ( p p d ( a b p s p c f a a t e v o t c h w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c]
+[DELETED:  t s m w i a l t s ( i ( s ( m t e a a ( a ( s c ( B o t d o e p y a A 1 2 e h i c u o ( d o p a]
+[DELETED:  s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S M 2 ( t a a c r ( a ( p p d d i]
+[DELETED:  v p ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( m t e a a]
+[DELETED:  ( a ( s c ( B o t f d o e p y a A 1 2 e h i c u o ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S M]
+[DELETED:  2 ( t a a s a c m P a o t f s a c m p ( a ( p p d ( a b p s p c f a a t e v o t c h w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s]
+[DELETED:  m w i a l t s ( i ( s ( N a o p o t s a h m c p t r e b f r t T e f c u t s c s a d t r o o c o e s o m ( a ( s c ( B o t d o e p y a A 1 2 e h i c u o ( d o p a s]
+[DELETED:  ( a ( s h s p p b p c r i t r d o s s ( e ( a a p S a 4 ( t a m f ( a ( p p d ( a b p s p c f a a t e v o t c h]
+[DELETED:  w ( c o c a i p w c o m m ( ( C s r t t p o u o c i c e p d i u a p e ( u t s i b n l t m o s e c f c ( A g o b p s t t s s n i a d c t s m w i a l t s ( i ( s ( N a o p o t s a h m c p t r e b f r t T e f c u t s c s a d t r o o c o e s o m]
+[DELETED:  ( q ( p w n t p e p t e w t p l t c ( i s h c ( d o p a s ( a ( s h s p p b p c r i t r d o s s ( e ( a a p ]
+[DELETED:  S]
+[DELETED:  T a f a F c d d a o p v s p M T]

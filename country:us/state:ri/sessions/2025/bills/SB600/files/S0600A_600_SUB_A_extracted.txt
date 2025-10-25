@@ -1,0 +1,1213 @@
+Title: RELATING TO INSURANCE -- VOLUNTARY RESTRUCTURING OF SOLVENT
+Official Title: RELATING TO INSURANCE -- VOLUNTARY RESTRUCTURING OF SOLVENT
+Number of Sections: 1
+Source: versions - 600  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0600 SUBSTITUTE A
+========
+LC001777/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+INSURERS
+Introduced By: Senators Sosnowski, Murray, and Britto
+Date Introduced: March 06, 2025
+Referred To: Senate Commerce
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-14.5-1 of the General Laws in Chapter 27-14.5 entitled
+2 "Voluntary Restructuring of Solvent Insurers" is hereby amended to read as follows:
+3 27-14.5-1. Definitions.
+4 As used in this chapter:
+5 (1) “Applicant” means a commercial run-off insurer applying under § 27-14.5-4.
+6 (2) “Assessment deficit” means the amount that the assessment for the previous year under
+7 § 27-14.5-5 is less than, and “assessment surplus” is the amount that the assessment for the previous
+8 year exceeds:
+9 (i) The run-off insurer’s proportionate share of regulatory expenditure for the previous
+10 year, if the run-off insurer was domiciled in Rhode Island on March 15 of the previous year; or
+11 (ii) The redomestication expenditure for the previous year attributable to the run-off
+12 insurer, if the run-off insurer was not domiciled in Rhode Island on March 15 of the previous year.
+13 (3) “Assumption policyholder” means a policyholder whose policy is reinsured under an
+14 assumption reinsurance agreement between the applicant and a reinsurer.
+15 (4) “Assumption reinsurance agreement” has the meaning given in § 27-53.1-3(b), subject
+16 to the following:
+17 (i) The agreement may be conditioned upon the court’s entry of an implementation order.
+18 (ii) If any policy subject to the agreement is protected through a guarantee association, then
+1 the assuming insurer must have been and be licensed, and must have been and be a member of the
+2 guarantee association, in all states known to the applicant in which either: (A) Any property covered
+3 under the policy has a permanent situs; or (B) The policyholder resided while the policy was in
+4 force.
+5 (5) “Class of creditors” means:
+6 (i) All voting policyholders, including those without known claims;
+7 (ii) Voting creditors, other than policyholders; or
+8 (iii) Any separate class of creditors as the court may in its discretion determine should
+9 approve the commutation plan.
+10 (6) “Commercial run-off insurer” means:
+11 (i) A run-off insurer domiciled in Rhode Island, or the protected cell of the insurer, whose
+12 business, excluding all business subject to an assumption reinsurance agreement, includes only the
+13 reinsuring of any line(s) of business other than life and/or the insuring of any line(s) of business
+14 other than life, workers’ compensation, and personal lines insurance; or
+15 (ii) A Rhode Island domestic insurance company, or the protected cell of that insurer,
+16 meeting the requirements of subsection (i) whose liabilities consist of commercial liabilities
+17 transferred to said company with the approval of the commissioner and pursuant to the regulations
+18 issued by the department under this chapter. The amount of the commercial liabilities transferred
+19 must be less than or equal to the amount of assets transferred to the newly formed or re-activated
+20 company.
+21 (7) “Commissioner” means the director of the department or designee.
+22 (8) “Commutation plan” means a plan for extinguishing the outstanding liabilities of a
+23 commercial run-off insurer.
+24 (9) “Creditor” means:
+25 (i) Any person who has a claim against the applicant; or
+26 (ii) A policyholder other than an assumption policyholder.
+27 (10) “Department” means the department of business regulation.
+28 (11) “Guarantee association” means a guarantee association or foreign guarantee
+29 association, as those terms are defined in § 27-14.3-3(10), that is potentially obligated with respect
+30 to the applicant’s policies.
+31 (12) “Implementation order” means an order under § 27-14.5-4(c).
+32 (13) “Insurer” has the meaning given in § 27-14.3-3(12).
+33 (14) “Person” means an individual, corporation, partnership, association, joint stock
+34 company, trust, unincorporated organization, or any similar entity or any combination of the
+LC001777/SUB A - Page 2 of 17
+1 foregoing acting in concert.
+2 (15) “Personal lines insurance” means insurance issued for personal, family, or household
+3 purposes.
+4 (16) “Policy” means a contract of insurance or a contract of reinsurance.
+5 (17) “Policyholder” means an insured or a reinsured of the insurer.
+6 (18) “Proportionate share” means, for a particular run-off insurer as of December 31 of the
+7 previous year, the ratio of:
+8 (i) The gross assets of that run-off insurer; to
+9 (ii) The gross assets of all run-off insurers, other than those that were not domiciled in
+10 Rhode Island on March 15 of that calendar year.
+11 (19) “Redomestication expenditure” means, for any calendar year:
+12 (i) The amount that the department’s expenditures attributable to the regulation of run-off
+13 insurers increases as a result of any run-off insurer redomiciling to Rhode Island on or after March
+14 15 of that year; less
+15 (ii) Filing fees, examination costs, and any other fees in relation to insurance regulation in
+16 this state paid to this state by run-off insurers that redomiciled to Rhode Island on or after March
+17 15 of that year, but excluding any premium taxes.
+18 (20) “Regulatory expenditure” means, for any calendar year:
+19 (i) The amount of the department’s expenditures attributable to the regulation of run-off
+20 insurers domiciled in Rhode Island on March 15 of that year; less
+21 (ii) Filing fees, examination costs, and any other fees in relation to insurance regulation in
+22 this state paid to this state by run-off insurers domiciled in Rhode Island on March 15 of that year,
+23 but excluding any premium taxes.
+24 (21) “Run-off insurer” means an insurer that:
+25 (i) Is domiciled in Rhode Island;
+26 (ii) Has liabilities under policies for property and casualty lines of business;
+27 (iii) Has ceased underwriting new business; and
+28 (iv) Is only renewing ongoing business to the extent required by law or by contract.
+29 (22) “Voluntary restructuring” means the act of reorganizing the legal ownership,
+30 operational, governance, or other structures of a solvent insurer, for the purpose of enhancing
+31 organization and maximizing efficiencies, and shall include the transfer of assets and liabilities to
+32 or from an insurer, or the protected cell of an insurer pursuant to an insurance business transfer
+33 plan. A voluntary restructuring under this chapter may be approved by the commissioner only if,
+34 in the commissioner’s opinion, it would have no material adverse impact on the insurer’s
+LC001777/SUB A - Page 3 of 17
+1 policyholders, reinsureds, or claimants of policies subject to the restructuring.
+2 SECTION 2. Sections 27-34-3, 27-34-5, 27-34-8 and 27-34-11.5 of the General Laws in
+3 Chapter 27-34 entitled "Rhode Island Property and Casualty Insurance Guaranty Association" are
+4 hereby amended to read as follows:
+5 27-34-3. Scope.
+6 This chapter shall apply to all kinds of direct insurance, but shall not be applicable to the
+7 following:
+8 (1) Life, annuity, health, or disability insurance;
+9 (2) Mortgage guaranty, financial guaranty, or other forms of insurance offering protection
+10 against investment risks. For purposes of this section, “financial guaranty insurance” includes any
+11 insurance under which loss is payable upon proof of occurrence of any of the following events to
+12 the damage of an insured claimant or obligee:
+13 (i) Failure of any obligor or obligors on any debt instrument or other monetary obligation,
+14 including common or preferred stock, to pay when due the principal, interest, dividend, or purchase
+15 price of such instrument or obligation, whether failure is the result of a financial default or
+16 insolvency and whether or not the obligation is incurred directly or as a guarantor by, or on behalf
+17 of, another obligor which has also defaulted;
+18 (ii) Changes in the level of interest rates whether short-term or long-term, or in the
+19 difference between interest rates existing in various markets;
+20 (iii) Changes in the rate of exchange of currency, or from the inconvertibility of one
+21 currency into another for any reason;
+22 (iv) Changes in the value of specific assets or commodities, or price levels in general;
+23 (3) Fidelity or surety bonds, or any other bonding obligations;
+24 (4) Credit insurance, vendors’ single interest insurance, or collateral protection insurance
+25 or any similar insurance protecting the interests of a creditor arising out of a creditor-debtor
+26 transaction. For purposes of this section, “credit insurance” means insurance on accounts
+27 receivable;
+28 (5) Insurance Other than coverages that may be set forth in a cybersecurity insurance
+29 policy, insurance of warranties or service contracts including insurance that provides for the repair,
+30 replacement, or service of goods or property, indemnification for repair, replacement, or service
+31 for the operational or structural failure of the goods or property due to a defect in materials,
+32 workmanship, or normal wear and tear, or provides reimbursement for the liability incurred by the
+33 issuer of agreements or service contracts that provide such benefits;
+34 (6) Title insurance;
+LC001777/SUB A - Page 4 of 17
+1 (7) Ocean marine insurance, except that portion of the marine protection and indemnity
+2 insurance covering liability of the insured for personal injury, illness, or death to employees and
+3 insurance covering pleasure craft;
+4 (8) Any transaction or combination of transactions between a person, including affiliates
+5 of the person, and an insurer, including affiliates of such insurer, which involves the transfer of
+6 investment or credit risk unaccompanied by transfer of insurance risk;
+7 (9) Any insurance provided by or guaranteed by government; or
+8 (10) Any transaction or combination of transactions between a protected cell and the
+9 general account or another protected cell of a protected cell company organized under the Protected
+10 Cell Companies Act, chapter 64 of this title, as those terms are defined in this chapter.
+11 27-34-5. Definitions.
+12 As used in this chapter:
+13 (1) “Account” means any one of the three (3) accounts created by § 27-34-6.
+14 (2) “Affiliate” means a person, who directly or indirectly, through one or more
+15 intermediaries, controls, is controlled by, or is under common control with another on December
+16 31 of the year immediately preceding the date the insurer becomes an insolvent insurer.
+17 (3) “Association” means the Rhode Island insurance guaranty association created under §
+18 27-34-6.
+19 (4) “Association similar to the association” means any guaranty association, security fund,
+20 or other insolvency mechanism that affords protection similar to that of the association. The term
+21 shall also include any property and casualty insolvency mechanism that obtains assessments or
+22 other contributions from insurers on a pre-insolvency basis.
+23 (5) “Assumed claims transaction” means the following:
+24 (i) Policy obligations that have been assumed by the insolvent insurer, prior to the entry of
+25 a final order of liquidation, through a merger between the insolvent insurer and another entity
+26 obligated under the policies, and for which assumption consideration has been paid to the applicable
+27 guaranty associations, if the merged entity is a non-member insurer;
+28 (ii) Policy obligations that have been assumed by the insolvent insurer, prior to the entry
+29 of a final order of liquidation, pursuant to a plan, approved by the domestic commissioner of the
+30 assuming insurer, which:
+31 (A) Transfers the direct policy obligations and future policy renewals from one insurer to
+32 another insurer; and
+33 (B) For which assumption consideration has been paid to the applicable guaranty
+34 associations, if the assumption is from a non-member insurer.
+LC001777/SUB A - Page 5 of 17
+1 (C) For purposes of this section, the term non-member insurer also includes a self-insurer,
+2 non-admitted insurer, and risk retention group; or
+3 (iii) An assumption reinsurance transaction in which all of the following has occurred:
+4 (A) The insolvent insurer assumed, prior to the entry of a final order of liquidation, the
+5 claim or policy obligations of another insurer or entity obligated under the claims or policies;
+6 (B) The assumption of the claim or policy obligations has been approved, if such approval
+7 is required, by the appropriate regulatory authorities; and
+8 (C) As a result of the assumption, the claim or policy obligations became the direct
+9 obligations of the insolvent insurer through a novation of the claims or policies.
+10 (6) “Assumption consideration” shall mean the consideration received by a guaranty
+11 association to extend coverage to the policies assumed by a member insurer from a non-member
+12 insurer in any assumed claims transaction including liabilities that may have arisen prior to the date
+13 of the transaction. The assumption consideration shall be in an amount equal to the amount that
+14 would have been paid by the assuming insurer during the three (3) calendar years prior to the
+15 effective date of the transaction to the applicable guaranty associations if the business had been
+16 written directly by the assuming insurer.
+17 (i) In the event that the amount of the premiums for the three-year (3) period cannot be
+18 determined, the assumption consideration will be determined by multiplying one hundred thirty
+19 percent (130%) against the sum of the unpaid losses, loss adjustment expenses, and incurred but
+20 not reported losses, as of the effective date of the assumed claims transaction, and then multiplying
+21 such sum times the applicable guaranty association assessment percentage for the calendar year of
+22 the transaction.
+23 (ii) The funds paid to a guaranty association shall be allocated in the same manner as any
+24 assessments made during the three-year (3) period. The guaranty association receiving the
+25 assumption consideration shall not be required to recalculate or adjust any assessments levied
+26 during the prior three (3) calendar years as a result of receiving the assumption consideration.
+27 Assumption consideration paid by an insurer may be recouped in the same manner as other
+28 assessments made by a guaranty association.
+29 (7) “Claimant” means any person instituting a covered claim; provided that no person who
+30 is an affiliate of the insolvent insurer may be a claimant.
+31 (8) “Commissioner” means the director of the department of business regulation or his or
+32 her the commissioner’s designee.
+33 (9) “Control” means the possession, direct or indirect, of the power to direct or cause the
+34 direction of the management and policies of a person, whether through the ownership of voting
+LC001777/SUB A - Page 6 of 17
+1 securities, by contract other than a commercial contract for goods or nonmanagement services, or
+2 otherwise, unless the power is the result of an official position with, or corporate office held by, the
+3 person. Control shall be presumed to exist if any person, directly or indirectly, owns, controls, holds
+4 with the power to vote, or holds proxies representing, ten percent (10%) or more of the voting
+5 securities of any other person. This presumption may be rebutted by a showing that control does
+6 not exist in fact.
+7 (10) “Covered claim” means:
+8 (i) An unpaid claim, including one for unearned premiums, submitted by a claimant, which
+9 arises out of and is within the coverage and subject to the applicable limits of an insurance policy
+10 to which this chapter applies, if the policy was issued by an insurer that becomes an insolvent
+11 insurer after the effective date of this chapter and the policy was either issued by the insurer or
+12 assumed by the insurer in an assumed claims transaction, and:
+13 (A) The claimant or insured is a resident of this state at the time of the insured event;
+14 provided, that for entities other than an individual, the residence of a claimant, insured, or
+15 policyholder is the state in which its principal place of business is located at the time of the insured
+16 event; or
+17 (B) The claim is a first-party claim for damage to property with a permanent location in
+18 this state.
+19 (ii) Covered claim includes claim obligations that arose through the issuance of an
+20 insurance policy by a member insurer, which are later allocated, transferred, merged into, novated,
+21 assumed by, or otherwise made the sole responsibility of a member or non-member insurer if:
+22 (A) The original member insurer has no remaining obligations on the policy after the
+23 transfer;
+24 (B) A final order of liquidation with a finding of insolvency has been entered against the
+25 insurer that assumed the member’s coverage obligations by a court of competent jurisdiction in the
+26 insurer’s state of domicile;
+27 (C) The claim would have been a covered claim, as defined in this section, if the claim had
+28 remained the responsibility of the original member insurer and the order of liquidation had been
+29 entered against the original member insurer, with the same claim submission date and liquidation
+30 date; and
+31 (D) In cases where the member’s coverage obligations were assumed by a non-member
+32 insurer, the transaction received prior regulatory or judicial approval.
+33 (iii) Covered claim includes claim obligations that were originally covered by a non-
+34 member insurer including, but not limited to, a self-insurer, non-admitted insurer or risk retention
+LC001777/SUB A - Page 7 of 17
+1 group, but subsequently became the sole direct obligation of a member insurer before the entry of
+2 a final order of liquidation with a finding of insolvency against the member insurer by a court of
+3 competent jurisdiction in its state of domicile, if the claim obligations were assumed by the member
+4 insurer in a transaction of one of the following types:
+5 (A) A merger in which the surviving company was a member insurer immediately after the
+6 merger;
+7 (B) An assumption reinsurance transaction that received any required approvals from the
+8 appropriate regulatory authorities; or
+9 (C) A transaction entered into pursuant to a plan approved by the member insurer’s
+10 domiciliary regulator.
+11 (iv) Except as provided elsewhere in this section, “covered claim” shall not include:
+12 (A) Any amount awarded as punitive or exemplary damages;
+13 (B) Any amount sought as a return of premium under any retrospective rating plan;
+14 (C) Any amount due any reinsurer, insurer, insurance pool, or underwriting association,
+15 health maintenance organization, hospital plan corporation, professional health service corporation,
+16 or self-insurer as subrogation recoveries, reinsurance recoveries, contribution, indemnification or
+17 otherwise. No claim for any amount due any reinsurer, insurer, insurance pool, underwriting
+18 association, health maintenance organization, hospital plan corporation, professional health service
+19 corporation, or self-insurer may be asserted against a person insured under a policy issued by an
+20 insolvent insurer other than to the extent the claim exceeds the association obligation limitations
+21 set forth in § 27-34-8;
+22 (D) Any claims excluded pursuant to § 27-34-11.5 due to the high net worth of an insured;
+23 (E) Any first party claims by an insured that is an affiliate of the insolvent insurer;
+24 (F) Any fee or other amount relating to goods or services sought by or on behalf of any
+25 attorney or other provider of goods or services retained by the insolvent insurer or an insured prior
+26 to the date it was determined to be insolvent;
+27 (G) Any fee or other amount sought by or on behalf of any attorney or other provider of
+28 goods or services retained by any insured or claimant in connection with the assertion or
+29 prosecution of any claim, covered or otherwise, against the association;
+30 (H) Any claims for interest; or
+31 (I) Any claim filed with the association or a liquidator for protection afforded under the
+32 insured’s policy for incurred-but-not-reported losses.
+33 (11) “Cybersecurity insurance” means for purposes of this section includes first and third-
+34 party coverage, in a policy or endorsement, written on a direct, admitted basis for losses and loss
+LC001777/SUB A - Page 8 of 17
+1 mitigation arising out of or relating to data privacy breaches, unauthorized information network
+2 security intrusions, computer viruses, ransomware, cyber extortion, identity theft, and similar
+3 exposures.
+4 (11)(12) “Insolvent insurer” means an insurer licensed to transact insurance in this state
+5 either at the time the policy was issued; when the obligation with respect to the covered claim was
+6 assumed under an assumed claims transaction; or when the insured event occurred, and against
+7 whom a final order of liquidation has been entered after the effective date of this chapter with a
+8 finding of insolvency by a court of competent jurisdiction in the insurer’s state of domicile.
+9 (12)(13) “Insured” means any named insured, any additional insured, any vendor, lessor,
+10 or any other party identified as an insured under the policy.
+11 (13)(14) “Line of credit” means an irrevocable stand-by commitment whereby the
+12 association or member insurer and a qualified financial institution or group of qualified financial
+13 institutions enter into a formal and binding contract in which the qualified financial institution or
+14 group of qualified financial institutions agree to lend a certain amount of money within a stated
+15 period of time.
+16 (14)(15)(i) “Member insurer” means any person who:
+17 (A) Writes any kind of insurance to which this chapter applies, under § 27-34-3, including
+18 the exchange of reciprocal or interinsurance contracts;
+19 (B) Is licensed to transact insurance in this state; and
+20 (C) Is not otherwise excepted from membership by statute or regulation.
+21 (ii) An insurer shall cease to be a member insurer effective on the day following the
+22 termination or expiration of its license to transact the kinds of insurance to which this chapter
+23 applies, however, the insurer shall remain liable as a member insurer for any and all obligations,
+24 including obligations for assessments levied prior to the termination or expiration of the insurer’s
+25 license and assessments levied after the termination or expiration, which relate to any insurer that
+26 became an insolvent insurer prior to the termination or expiration of the insurer’s license.
+27 (15)(16) “Net direct written premiums” means direct gross premiums written in this state
+28 on insurance policies to which this chapter applies, including policy and membership fees, less the
+29 following amounts: (i) Return premiums; (ii) Premiums on policies not taken; and (iii) Dividends
+30 paid or credited to policyholders on that direct business. “Net direct written premiums” does not
+31 include premiums on contracts between insurers or reinsurers.
+32 (16)(17) “Novation” means that the assumed claim or policy obligations became the direct
+33 obligations of the insolvent insurer through consent of the policyholder and that thereafter the
+34 ceding insurer or entity initially obligated under the claims or policies is released by the
+LC001777/SUB A - Page 9 of 17
+1 policyholder from performing its claim or policy obligations. Consent may be express or implied
+2 based upon the circumstances, notice provided, and conduct of the parties.
+3 (17)(18) “Ocean marine insurance” means any form of insurance, regardless of the name,
+4 label, or marketing designation of the insurance policy, that insures against maritime perils or risks
+5 and other related perils or risks, which are usually insured against by traditional marine insurance,
+6 such as hull and machinery, marine builders risk, and marine protection and indemnity. Perils and
+7 risk insured against include without limitation: loss, damage, expense, or legal liability of the
+8 insured for loss, damage, or expense arising out of or incident to ownership, operation, chartering,
+9 maintenance, use, repair, or construction of any vessel, craft, or instrumentality in use in ocean or
+10 inland waterways for commercial purposes, including liability of the insured for personal injury,
+11 injury, illness, or death or for loss or damage to the property of the insured or another person.
+12 (18)(19) “Person” means any individual, aggregation of individuals, corporation,
+13 partnership, or other entity.
+14 (19)(20) “Qualified financial institution” shall have the same meaning as the term in § 27-
+15 1.1-3.
+16 (20)(21) “Receiver” means liquidator, rehabilitator, conservator, or ancillary receiver, as
+17 the context requires.
+18 (21)(22) “Self-insurer” means a person that covers its liability through a qualified
+19 individual or group self-insurance program or any other formal program created for the specific
+20 purpose of covering liabilities typically covered by insurance.
+21 (22)(23) “Self-insured retention” means:
+22 (i) Any fund or other arrangement to pay claims other than by an insurance company; or
+23 (ii) Any arrangement under which an insurance company has no obligation to pay claims
+24 on behalf of an insured if it is not reimbursed by the insured.
+25 27-34-8. Powers and duties of the association.
+26 (a) The association shall:
+27 (1)(i) Be obligated to pay covered claims existing prior to the order of liquidation; arising
+28 within sixty (60) days after the order of liquidation or before the policy expiration date if less than
+29 sixty (60) days after the order of liquidation or before the insured replaces the policy or causes its
+30 cancellation if the insured does so within sixty (60) days of the order of liquidation. The obligations
+31 shall be satisfied by paying to the claimant an amount as follows:
+32 (A) The full amount of a covered claim for benefits under a workers’ compensation
+33 insurance coverage;
+34 (B) An amount not exceeding ten thousand dollars ($10,000), per policy for a covered
+LC001777/SUB A - Page 10 of 17
+1 claim for the return of unearned premium;
+2 (C) An amount not exceeding one million dollars ($1,000,000) for all first-party property
+3 loss claims arising from a single occurrence under a policy covering commercial or residential
+4 property for all other covered claims for insolvencies occurring after January 1, 2026. An amount
+5 not exceeding five hundred thousand dollars ($500,000), per claimant for all other covered claims
+6 for insolvencies occurring on or after January 1, 2008, and an amount not exceeding three hundred
+7 thousand dollars ($300,000) per claimant for all other covered claims for insolvencies occurring
+8 prior to January 1, 2008.
+9 (D) In no event shall the association be obligated to pay an amount in excess of five
+10 hundred thousand dollars ($500,000) for all first and third-party claims under a policy or
+11 endorsement providing, or that is found to provide, cybersecurity insurance coverage and arising
+12 out of or related to a single insured event, regardless of the number of claims made or the number
+13 of claimants.
+14 (ii) In no event shall the association be obligated to pay a claimant an amount in excess of
+15 the obligation of the insolvent insurer under the policy or coverage from which the claim arises.
+16 Notwithstanding any other provision of this chapter, a covered claim shall not include a claim filed
+17 with the guaranty association after the final date set by the court for the filing of claims against the
+18 liquidator or receiver of an insolvent insurer. For the purpose of filing a claim under this subsection,
+19 notice of claims to the liquidator of the insolvent insurer shall be deemed notice to the association
+20 or its agent and a list of claims shall be periodically submitted to the association or association
+21 similar to the association in another state by the liquidator.
+22 (iii) Any obligation of the association to defend an insured shall cease upon the
+23 association’s payment or tender of an amount equal to the lesser of the association’s covered claim
+24 obligation limit or the applicable policy limit;
+25 (2) Be deemed the insurer to the extent of its obligation on the covered claims and to that
+26 extent, subject to the limitation provided in this chapter, shall have all rights, duties, and obligations
+27 of the insolvent insurer as if the insurer had not become insolvent, including, but not limited to, the
+28 right to pursue and retain salvage and subrogation recoverable on covered claim obligations to the
+29 extent paid by the association. The association shall not be deemed the insolvent insurer for the
+30 purpose of conferring jurisdiction;
+31 (3) Allocate claims paid and expenses incurred among the three (3) accounts separately,
+32 and assess member insurers separately for each account amounts necessary to pay the obligations
+33 of the association under subdivision (a)(1) subsequent to an insolvency, the expenses of handling
+34 covered claims subsequent to an insolvency, and other expenses authorized by this chapter. The
+LC001777/SUB A - Page 11 of 17
+1 assessments of each member insurer shall be in the proportion that the net direct written premiums
+2 of the member insurer for the calendar year preceding the assessment on the kinds of insurance in
+3 the account bears to the net direct written premiums of all member insurers for the calendar year
+4 preceding the assessment on the kinds of insurance in the account. Each member insurer shall be
+5 notified of the assessment not later than thirty (30) days before it is due.
+6 A member insurer may not be assessed in any one year on any account an amount greater
+7 than two percent (2%) of that member insurer’s net direct written premiums for the calendar year
+8 preceding the assessment on the kinds of insurance in the account. If the maximum assessment,
+9 together with the other assets of the association in any account, does not provide in any one year in
+10 any account an amount sufficient to make all necessary payments from that account, each member
+11 insurer shall be assessed the additional amount that must be obtained to make all necessary
+12 payments of the underfunded account from the other two accounts, subject to the same limitation
+13 of two percent (2%) of that member insurer’s net direct written premiums for the calendar year
+14 preceding the assessment on the kinds of insurance in the account. The additional assessments shall
+15 be considered loans by and between the separate accounts. Amounts borrowed under this
+16 subsection shall be paid back to the separate accounts from which they were borrowed, out of
+17 assets, including, but not limited to, existing and future assessments in the account receiving the
+18 loan. An interest charge shall be levied on all amounts borrowed under this subsection based on the
+19 average prime rate of interest for each year the money remains unpaid. If the amounts borrowed
+20 remain unpaid on the seventh yearly anniversary as a result of the inability of the borrowing account
+21 to make repayment, then the amount borrowed and interest which is not repaid, starting with the
+22 principal and interest of the first year, shall be considered uncollectible. The funds available shall
+23 be prorated and the unpaid portion shall be paid as soon after this as funds become available. The
+24 association may exempt or defer, in whole or in part, the assessment of any member insurer if the
+25 assessment would cause the member insurer’s financial statement to reflect amounts of capital or
+26 surplus less than the minimum amounts required for a certificate of authority by any jurisdiction in
+27 which the member insurer is authorized to transact insurance. However, during the period of
+28 deferment, no dividends shall be paid to shareholders or policyholders. Deferred assessments shall
+29 be paid when the payment will not reduce capital or surplus below required minimums. Payments
+30 shall be refunded to those companies receiving larger assessments by virtue of the deferment, or,
+31 at the election of any company, credited against future assessments;
+32 (4) Investigate claims brought against the association and adjust, compromise, settle, and
+33 pay covered claims to the extent of the association’s obligation and deny all other claims. The
+34 association shall pay claims in any order that it may deem reasonable, including the payment of
+LC001777/SUB A - Page 12 of 17
+1 claims as they are received from the claimants or in groups or categories of claims. The association
+2 shall have the right to appoint and to direct legal counsel retained under liability insurance policies
+3 for the defense of covered claims and to appoint and direct other service providers for covered
+4 services;
+5 (5) Notify claimants in this state as deemed necessary by the commissioner and upon the
+6 commissioner’s request, to the extent records are available to the association;
+7 (6)(i) Have the right to review and contest as set forth in this subsection settlements,
+8 releases, compromises, waivers, and judgments to which the insolvent insurer or its insureds were
+9 parties prior to the entry of the order of liquidation. In an action to enforce settlements, releases,
+10 and judgments to which the insolvent insurer or its insureds were parties prior to the entry of the
+11 order of liquidation, the association shall have the right to assert the following defenses, in addition
+12 to the defenses available to the insurer:
+13 (A) The association is not bound by a settlement, release, compromise, or waiver executed
+14 by an insured or the insurer, or any judgment entered against an insured or the insurer by consent
+15 or through a failure to exhaust all appeals, if the settlement, release, compromise, waiver, or
+16 judgment was:
+17 (I) Executed or entered into within one hundred twenty (120) days prior to the entry of an
+18 order of liquidation, and the insured or the insurer did not use reasonable care in entering into the
+19 settlement, release, compromise, waiver, or judgment, or did not pursue all reasonable appeals of
+20 an adverse judgment; or
+21 (II) Executed by or taken against an insured or the insurer based on default, fraud, collusion,
+22 or the insurer’s failure to defend.
+23 (B) If a court of competent jurisdiction finds that the association is not bound by a
+24 settlement, release, compromise, waiver, or judgment for the reasons described in subparagraph
+25 (i)(A), the settlement, release, compromise, waiver, or judgment shall be set aside, and the
+26 association shall be permitted to defend any covered claim on the merits. The settlement, release,
+27 compromise, waiver, or judgment may not be considered as evidence of liability or damages in
+28 connection with any claim brought against the association or any other party under this chapter.
+29 (C) The association shall have the right to assert any statutory defenses or rights of offset
+30 against any settlement, release, compromise, or waiver executed by an insured or the insurer, or
+31 any judgment taken against the insured or the insurer.
+32 (ii) As to any covered claims arising from a judgment under any decision, verdict, or
+33 finding based on the default of the insolvent insurer or its failure to defend, the association, either
+34 on its own behalf or on behalf of an insured, may apply to have the judgment, order, decision,
+LC001777/SUB A - Page 13 of 17
+1 verdict, or finding set aside by the same court or administrator that entered the judgment, order,
+2 decision, verdict, or finding and shall be permitted to defend the claim on the merits;
+3 (7) Handle claims through its employees or through one or more insurers or other persons
+4 designated as servicing facilities. Designation of a servicing facility is subject to the approval of
+5 the commissioner, but the designation may be declined by a member insurer;
+6 (8) Reimburse each servicing facility for obligations of the association paid by the facility
+7 and for expenses incurred by the facility while handling claims on behalf of the association and
+8 shall pay the other expenses of the association authorized by this chapter;
+9 (9)(i) The association shall obtain a line of credit for the benefit of each account, in an
+10 amount not to exceed the applicable maximum to ensure the immediate availability of funds for
+11 purposes of future claims and expenses attributable to an insurer insolvency in that account. The
+12 line of credit shall be obtained from qualified financial institutions. The line of credit shall provide
+13 for a thirty-day (30) notice of termination or nonrenewal to the commissioner and the association
+14 and shall provide funding to the association within three (3) business days of receipt of written
+15 notice from the commissioner of an insolvent insurer in that account. Each member insurer upon
+16 receipt of notice from the association shall make immediate payment for its proportionate share of
+17 the amount borrowed based on the premium for the preceding calendar year. The maximum line of
+18 credit or preinsolvency assessment for each account shall be subject to prior review and approval
+19 by the commissioner at the time of origination.
+20 (ii) If the association cannot obtain a line of credit, the association may obtain an
+21 irrevocable line of credit agreement from each member insurer in an amount not to exceed the
+22 member insurer’s maximum assessment pursuant to subdivision (a)(3) to ensure the immediate
+23 availability of funds for the purposes of future claims and expenses attributable to an insurer
+24 insolvency.
+25 Any amount drawn under any line of credit shall be considered a payment toward the
+26 member insurer’s assessment provided for in subdivision (a)(3).
+27 The member insurer shall provide funding to the association under the line of credit within
+28 three (3) business days of receipt of a written request from the association for a draw-down under
+29 the line of credit.
+30 The line of credit agreement shall be subject to prior review and approval by the
+31 commissioner at the time of origination and any subsequent renewal. It shall include any
+32 commercially reasonable provisions the association or the commissioner may deem advisable,
+33 including a provision that the line of credit is irrevocable or for a stated period of time and provides
+34 for thirty-day (30) notice to the association and the commissioner that the line is being terminated
+LC001777/SUB A - Page 14 of 17
+1 or not renewed.
+2 (iii) If a line of credit is not given as provided for in this section, the member insurer shall
+3 be responsible for the payment of an assessment of up to the member’s proportionate share of the
+4 applicable maximum as set forth in this subsection which shall be paid into a pre-insolvency
+5 assessment fund in each account;
+6 (10) Submit, not later than ninety (90) days after the end of the association’s fiscal year, a
+7 financial report for the preceding fiscal year in a form approved by the commissioner.
+8 (b) The association may:
+9 (1) Employ or retain persons as are necessary to handle claims and perform other duties of
+10 the association;
+11 (2) Borrow funds necessary to effect the purposes of this chapter in accordance with the
+12 plan of operation;
+13 (3) Sue or be sued;
+14 (4) Negotiate and become a party to any contracts necessary to carry out the purpose of
+15 this chapter;
+16 (5) Perform any other acts necessary or proper to effectuate the purpose of this chapter;
+17 and
+18 (6) Refund to the member insurers in proportion to the contribution of each member insurer
+19 to that account that amount by which the assets of the account exceed the liabilities, if, at the end
+20 of any calendar year, the board of directors finds that the assets of the association in any account
+21 exceed the liabilities of that account as estimated by the board of directors for the coming year.
+22 (c) Suits involving the association:
+23 (1) Except for actions by the receiver, all actions relating to or arising out of this chapter
+24 against the association shall be brought in the courts in this state. The courts shall have exclusive
+25 jurisdiction over all actions relating to or arising out of this chapter against the association.
+26 (2) The exclusive venue in any action by or against the association is in the Providence
+27 county superior court. The association may, at its option, waive this venue as to specific actions.
+28 27-34-11.5. Net worth exclusion.
+29 (a) For purposes of this section, “high net worth insured” shall mean any insured, excluding
+30 state and local governments, whose net worth exceeds fifty million dollars ($50,000,000) on
+31 December 31 of the year prior to the year in which the insurer becomes an insolvent insurer;
+32 provided that an insured’s net worth on that date shall be deemed to include the aggregate net worth
+33 of the insured and all of its subsidiaries and affiliates as calculated on a consolidated basis.
+34 (b)(1) The association shall not be obligated to pay any first-party claims by a high net
+LC001777/SUB A - Page 15 of 17
+1 worth insured.
+2 (2) The association shall have the right to recover from the high net worth insured all
+3 amounts paid by the association to or on behalf of such insured, whether for indemnity, defense, or
+4 otherwise.
+5 (3) The association may also, at its sole discretion and without assumption of any ongoing
+6 duty to do so, pay any cybersecurity insurance obligations covered by a policy or endorsement of
+7 an insolvent company on behalf of a high net worth insured as defined in subsection (a) of this
+8 section. In that case, the association shall recover from the high net worth insured under this section
+9 all amounts paid on its behalf, all allocated claim adjusted expenses related to such claims, the
+10 association’s attorneys’ fees, and all court costs in any action necessary to collect the full amount
+11 to the association’s reimbursement under this section.
+12 (c) The association shall not be obligated to pay any claim that would otherwise be a
+13 covered claim that is an obligation to or on behalf of a person who has a net worth greater than that
+14 allowed by the insurance guaranty association law of the state of residence of the claimant at the
+15 time specified by that state’s applicable law, and which association has denied coverage to that
+16 claimant on that basis.
+17 (d) The association shall establish reasonable procedures subject to the approval of the
+18 commissioner for requesting financial information from insureds on a confidential basis for
+19 purposes of applying this section, provided that the financial information may be shared with any
+20 other association similar to the association and the liquidator for the insolvent insurer on the same
+21 confidential basis. Any request to an insured seeking financial information must advise the insured
+22 of the consequences of failing to provide the financial information. If an insured refuses to provide
+23 the requested financial information where it is requested and available, the association may, until
+24 such time as the information is provided, provisionally deem the insured to be a high net worth
+25 insured for the purpose of denying a claim under subsection (b).
+26 (e) In any lawsuit contesting the applicability of this section where the insured has refused
+27 to provide financial information under the procedure established pursuant to subsection (d), the
+28 insured shall bear the burden of proof concerning its net worth at the relevant time. If the insured
+29 fails to prove that its net worth at the relevant time was less than the applicable amount, the court
+30 shall award the association its full costs, expenses, and reasonable attorney’s fees in contesting the
+31 claim.
+32 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001777/SUB A
+========
+LC001777/SUB A - Page 16 of 17
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- VOLUNTARY RESTRUCTURING OF SOLVENT
+INSURERS
+***
+1 This act would make numerous technical corrections related to insurance, provides a
+2 definition for "cybersecurity insurance".
+3 This act would take effect on January 1, 2026.
+========
+LC001777/SUB A
+========
+LC001777/SUB A - Page 17 of 17
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 2 o t G L i C 2 e " 2 A ( ( § y ( y ( T r e f t p y a t t r i ( a ( t ( (]
+[DELETED:  t g u f ( ( ( ( a ( ( b r o ( m t r o s ( w l c o c l t i m c ( ( c ( ( ( ( ( “ a m a g a o f g a t ( ( ( “ m a i c p a j s c t u o o a s e o a c o t]
+[DELETED:  f ( p ( ( ( p ( ( R ( ( i 1 ( t 1 ( ( i ( t b ( ( ( ( ( ( “ r m t a o r t l o o o o p i t c o i w h n m a i o t i]
+[DELETED:  p S C h 2 T f ( ( a i t ( i p o s i o o w f i t r o a f d o i o ( C i t l o i r w s o l o i t d ( c ( ( ( o a s i p t o a c a o o a t F p o t s “ i m i o a r ( p r f w i (]
+[DELETED:  ( i i ( o i ( ( A t o c o t b p c g C 2 A ( 2 ( “ m a p w d o i t o o m i 3 ( 2 ( o s o ( ( a o g ( o a ( a ( F w a c h b p t t a g a]
+[DELETED:  ( n ( ( c ( i ( A a r o t a t c o p o b t d o ( “ c s m t c r b a g a i o w e w ( d p n s t ( a m d t t ( p T g a r t a d A c p b a i m b r i t s m a o a ( i ( h ( d]
+[DELETED:  s o p w s n ( ( a t i a ( p t f e o t a i t r o a c i o p e ( t ( C c i c o t a t t i o a i a ( t ( i i ( r e d ( i ( m]
+[DELETED:  g a c i ( m ( a ( A t e i p t a p a b t m i d ( ( ( ( h o o N c f a a d a r i i p u a c i s 2 ( 2 ( ( a t ( g o s r b a i o c i c w t a o p ( ( i ( p]
+[DELETED:  m s i c v r c e i t a s e ( e a w f ( o ( “ o c m a i s c w t a i g p ( ( 2 t ( ( ( t a i l b ( o f p i ( o c i o e i o u t c o p i r b t]
+[DELETED:  p b ( l a s r i m i i ( “ m a i a o i c p ( 2 1 ( t ( “ m a p t c i l t a q i p ( ( ( o 2 ( ( w s c s ( T f a o a c c f b u a w c i (]
+[DELETED:  c ( l p n f t p ( h t d ( f a f a t c u a p o e o o ( t N w l n o s ( A o o t a t d a i s c u t a o ( e o r e p ( a o c]
+[DELETED:  a o t p n A t p t a i s b a t a a t m b o t m a n p o p b c l b a b t s a A b u t s a l a r t p b a a s w d b s a ( p a]
+[DELETED:  c s f s ( c ( r p a o t ( b o j ( o s a ( o ( I a c o c j f t t a i n b b a s ( t s r c w o j s b s a a t a c c ( a a ( f o]
+[DELETED:  v d ( d t ( a s ( a p l f a n r t c b ( I t a c o a l o c t a m o a i m a i A m T t t T l o c a s b s t p r a a b t c a t t o o a a s r I s i a c i f]
+[DELETED:  o ( b a a ( f ( ( t ( p ( ( t ( a ( t o e ( ( a j ( c 2 ( s a l g w n w e f m d ( o D p o (]
+[DELETED:  w ( a o ( d a s a a t ( c a t c ( c f r f i f i o a c b f p o c o t s i ( t i f s c S]
+[DELETED:  T a w m n t c r t i p a d T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0600 SUBSTITUTE A
+========
+LC001777/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- VOLUNTARY RESTRUCTURING OF SOLVENT
+INSURERS
+Introduced By: Senators Sosnowski, Murray, and Britto
+Date Introduced: March 06, 2025
+Referred To: Senate Commerce
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-14.5-1 of the General Laws in Chapter 27-14.5 entitled
+2 "Voluntary Restructuring of Solvent Insurers" is hereby amended to read as follows:
+3 27-14.5-1. Definitions.
+4 As used in this chapter:
+5 (1) “Applicant” means a commercial run-off insurer applying under § 27-14.5-4.
+6 (2) “Assessment deficit” means the amount that the assessment for the previous year under
+7 § 27-14.5-5 is less than, and “assessment surplus” is the amount that the assessment for the previous
+8 year exceeds:
+9 (i) The run-off insurer’s proportionate share of regulatory expenditure for the previous
+10 year, if the run-off insurer was domiciled in Rhode Island on March 15 of the previous year; or
+11 (ii) The redomestication expenditure for the previous year attributable to the run-off
+12 insurer, if the run-off insurer was not domiciled in Rhode Island on March 15 of the previous year.
+13 (3) “Assumption policyholder” means a policyholder whose policy is reinsured under an
+14 assumption reinsurance agreement between the applicant and a reinsurer.
+15 (4) “Assumption reinsurance agreement” has the meaning given in § 27-53.1-3(b), subject
+16 to the following:
+17 (i) The agreement may be conditioned upon the court’s entry of an implementation order.
+18 (ii) If any policy subject to the agreement is protected through a guarantee association, then
+
+1 the assuming insurer must have been and be licensed, and must have been and be a member of the
+2 guarantee association, in all states known to the applicant in which either: (A) Any property covered
+3 under the policy has a permanent situs; or (B) The policyholder resided while the policy was in
+4 force.
+5 (5) “Class of creditors” means:
+6 (i) All voting policyholders, including those without known claims;
+7 (ii) Voting creditors, other than policyholders; or
+8 (iii) Any separate class of creditors as the court may in its discretion determine should
+9 approve the commutation plan.
+10 (6) “Commercial run-off insurer” means:
+11 (i) A run-off insurer domiciled in Rhode Island, or the protected cell of the insurer, whose
+12 business, excluding all business subject to an assumption reinsurance agreement, includes only the
+13 reinsuring of any line(s) of business other than life and/or the insuring of any line(s) of business
+14 other than life, workers’ compensation, and personal lines insurance; or
+15 (ii) A Rhode Island domestic insurance company, or the protected cell of that insurer,
+16 meeting the requirements of subsection (i) whose liabilities consist of commercial liabilities
+17 transferred to said company with the approval of the commissioner and pursuant to the regulations
+18 issued by the department under this chapter. The amount of the commercial liabilities transferred
+19 must be less than or equal to the amount of assets transferred to the newly formed or re-activated
+20 company.
+21 (7) “Commissioner” means the director of the department or designee.
+22 (8) “Commutation plan” means a plan for extinguishing the outstanding liabilities of a
+23 commercial run-off insurer.
+24 (9) “Creditor” means:
+25 (i) Any person who has a claim against the applicant; or
+26 (ii) A policyholder other than an assumption policyholder.
+27 (10) “Department” means the department of business regulation.
+28 (11) “Guarantee association” means a guarantee association or foreign guarantee
+29 association, as those terms are defined in § 27-14.3-3(10), that is potentially obligated with respect
+30 to the applicant’s policies.
+31 (12) “Implementation order” means an order under § 27-14.5-4(c).
+32 (13) “Insurer” has the meaning given in § 27-14.3-3(12).
+33 (14) “Person” means an individual, corporation, partnership, association, joint stock
+34 company, trust, unincorporated organization, or any similar entity or any combination of the
+LC001777/SUB A - Page 2 of 17
+
+1 foregoing acting in concert.
+2 (15) “Personal lines insurance” means insurance issued for personal, family, or household
+3 purposes.
+4 (16) “Policy” means a contract of insurance or a contract of reinsurance.
+5 (17) “Policyholder” means an insured or a reinsured of the insurer.
+6 (18) “Proportionate share” means, for a particular run-off insurer as of December 31 of the
+7 previous year, the ratio of:
+8 (i) The gross assets of that run-off insurer; to
+9 (ii) The gross assets of all run-off insurers, other than those that were not domiciled in
+10 Rhode Island on March 15 of that calendar year.
+11 (19) “Redomestication expenditure” means, for any calendar year:
+12 (i) The amount that the department’s expenditures attributable to the regulation of run-off
+13 insurers increases as a result of any run-off insurer redomiciling to Rhode Island on or after March
+14 15 of that year; less
+15 (ii) Filing fees, examination costs, and any other fees in relation to insurance regulation in
+16 this state paid to this state by run-off insurers that redomiciled to Rhode Island on or after March
+17 15 of that year, but excluding any premium taxes.
+18 (20) “Regulatory expenditure” means, for any calendar year:
+19 (i) The amount of the department’s expenditures attributable to the regulation of run-off
+20 insurers domiciled in Rhode Island on March 15 of that year; less
+21 (ii) Filing fees, examination costs, and any other fees in relation to insurance regulation in
+22 this state paid to this state by run-off insurers domiciled in Rhode Island on March 15 of that year,
+23 but excluding any premium taxes.
+24 (21) “Run-off insurer” means an insurer that:
+25 (i) Is domiciled in Rhode Island;
+26 (ii) Has liabilities under policies for property and casualty lines of business;
+27 (iii) Has ceased underwriting new business; and
+28 (iv) Is only renewing ongoing business to the extent required by law or by contract.
+29 (22) “Voluntary restructuring” means the act of reorganizing the legal ownership,
+30 operational, governance, or other structures of a solvent insurer, for the purpose of enhancing
+31 organization and maximizing efficiencies, and shall include the transfer of assets and liabilities to
+32 or from an insurer, or the protected cell of an insurer pursuant to an insurance business transfer
+33 plan. A voluntary restructuring under this chapter may be approved by the commissioner only if,
+34 in the commissioner’s opinion, it would have no material adverse impact on the insurer’s
+LC001777/SUB A - Page 3 of 17
+
+1 policyholders, reinsureds, or claimants of policies subject to the restructuring.
+2 SECTION 2. Sections 27-34-3, 27-34-5, 27-34-8 and 27-34-11.5 of the General Laws in
+3 Chapter 27-34 entitled "Rhode Island Property and Casualty Insurance Guaranty Association" are
+4 hereby amended to read as follows:
+5 27-34-3. Scope.
+6 This chapter shall apply to all kinds of direct insurance, but shall not be applicable to the
+7 following:
+8 (1) Life, annuity, health, or disability insurance;
+9 (2) Mortgage guaranty, financial guaranty, or other forms of insurance offering protection
+10 against investment risks. For purposes of this section, “financial guaranty insurance” includes any
+11 insurance under which loss is payable upon proof of occurrence of any of the following events to
+12 the damage of an insured claimant or obligee:
+13 (i) Failure of any obligor or obligors on any debt instrument or other monetary obligation,
+14 including common or preferred stock, to pay when due the principal, interest, dividend, or purchase
+15 price of such instrument or obligation, whether failure is the result of a financial default or
+16 insolvency and whether or not the obligation is incurred directly or as a guarantor by, or on behalf
+17 of, another obligor which has also defaulted;
+18 (ii) Changes in the level of interest rates whether short-term or long-term, or in the
+19 difference between interest rates existing in various markets;
+20 (iii) Changes in the rate of exchange of currency, or from the inconvertibility of one
+21 currency into another for any reason;
+22 (iv) Changes in the value of specific assets or commodities, or price levels in general;
+23 (3) Fidelity or surety bonds, or any other bonding obligations;
+24 (4) Credit insurance, vendors’ single interest insurance, or collateral protection insurance
+25 or any similar insurance protecting the interests of a creditor arising out of a creditor-debtor
+26 transaction. For purposes of this section, “credit insurance” means insurance on accounts
+27 receivable;
+28 (5) Insurance Other than coverages that may be set forth in a cybersecurity insurance
+29 policy, insurance of warranties or service contracts including insurance that provides for the repair,
+30 replacement, or service of goods or property, indemnification for repair, replacement, or service
+31 for the operational or structural failure of the goods or property due to a defect in materials,
+32 workmanship, or normal wear and tear, or provides reimbursement for the liability incurred by the
+33 issuer of agreements or service contracts that provide such benefits;
+34 (6) Title insurance;
+LC001777/SUB A - Page 4 of 17
+
+1 (7) Ocean marine insurance, except that portion of the marine protection and indemnity
+2 insurance covering liability of the insured for personal injury, illness, or death to employees and
+3 insurance covering pleasure craft;
+4 (8) Any transaction or combination of transactions between a person, including affiliates
+5 of the person, and an insurer, including affiliates of such insurer, which involves the transfer of
+6 investment or credit risk unaccompanied by transfer of insurance risk;
+7 (9) Any insurance provided by or guaranteed by government; or
+8 (10) Any transaction or combination of transactions between a protected cell and the
+9 general account or another protected cell of a protected cell company organized under the Protected
+10 Cell Companies Act, chapter 64 of this title, as those terms are defined in this chapter.
+11 27-34-5. Definitions.
+12 As used in this chapter:
+13 (1) “Account” means any one of the three (3) accounts created by § 27-34-6.
+14 (2) “Affiliate” means a person, who directly or indirectly, through one or more
+15 intermediaries, controls, is controlled by, or is under common control with another on December
+16 31 of the year immediately preceding the date the insurer becomes an insolvent insurer.
+17 (3) “Association” means the Rhode Island insurance guaranty association created under §
+18 27-34-6.
+19 (4) “Association similar to the association” means any guaranty association, security fund,
+20 or other insolvency mechanism that affords protection similar to that of the association. The term
+21 shall also include any property and casualty insolvency mechanism that obtains assessments or
+22 other contributions from insurers on a pre-insolvency basis.
+23 (5) “Assumed claims transaction” means the following:
+24 (i) Policy obligations that have been assumed by the insolvent insurer, prior to the entry of
+25 a final order of liquidation, through a merger between the insolvent insurer and another entity
+26 obligated under the policies, and for which assumption consideration has been paid to the applicable
+27 guaranty associations, if the merged entity is a non-member insurer;
+28 (ii) Policy obligations that have been assumed by the insolvent insurer, prior to the entry
+29 of a final order of liquidation, pursuant to a plan, approved by the domestic commissioner of the
+30 assuming insurer, which:
+31 (A) Transfers the direct policy obligations and future policy renewals from one insurer to
+32 another insurer; and
+33 (B) For which assumption consideration has been paid to the applicable guaranty
+34 associations, if the assumption is from a non-member insurer.
+LC001777/SUB A - Page 5 of 17
+
+1 (C) For purposes of this section, the term non-member insurer also includes a self-insurer,
+2 non-admitted insurer, and risk retention group; or
+3 (iii) An assumption reinsurance transaction in which all of the following has occurred:
+4 (A) The insolvent insurer assumed, prior to the entry of a final order of liquidation, the
+5 claim or policy obligations of another insurer or entity obligated under the claims or policies;
+6 (B) The assumption of the claim or policy obligations has been approved, if such approval
+7 is required, by the appropriate regulatory authorities; and
+8 (C) As a result of the assumption, the claim or policy obligations became the direct
+9 obligations of the insolvent insurer through a novation of the claims or policies.
+10 (6) “Assumption consideration” shall mean the consideration received by a guaranty
+11 association to extend coverage to the policies assumed by a member insurer from a non-member
+12 insurer in any assumed claims transaction including liabilities that may have arisen prior to the date
+13 of the transaction. The assumption consideration shall be in an amount equal to the amount that
+14 would have been paid by the assuming insurer during the three (3) calendar years prior to the
+15 effective date of the transaction to the applicable guaranty associations if the business had been
+16 written directly by the assuming insurer.
+17 (i) In the event that the amount of the premiums for the three-year (3) period cannot be
+18 determined, the assumption consideration will be determined by multiplying one hundred thirty
+19 percent (130%) against the sum of the unpaid losses, loss adjustment expenses, and incurred but
+20 not reported losses, as of the effective date of the assumed claims transaction, and then multiplying
+21 such sum times the applicable guaranty association assessment percentage for the calendar year of
+22 the transaction.
+23 (ii) The funds paid to a guaranty association shall be allocated in the same manner as any
+24 assessments made during the three-year (3) period. The guaranty association receiving the
+25 assumption consideration shall not be required to recalculate or adjust any assessments levied
+26 during the prior three (3) calendar years as a result of receiving the assumption consideration.
+27 Assumption consideration paid by an insurer may be recouped in the same manner as other
+28 assessments made by a guaranty association.
+29 (7) “Claimant” means any person instituting a covered claim; provided that no person who
+30 is an affiliate of the insolvent insurer may be a claimant.
+31 (8) “Commissioner” means the director of the department of business regulation or his or
+32 her the commissioner’s designee.
+33 (9) “Control” means the possession, direct or indirect, of the power to direct or cause the
+34 direction of the management and policies of a person, whether through the ownership of voting
+LC001777/SUB A - Page 6 of 17
+
+1 securities, by contract other than a commercial contract for goods or nonmanagement services, or
+2 otherwise, unless the power is the result of an official position with, or corporate office held by, the
+3 person. Control shall be presumed to exist if any person, directly or indirectly, owns, controls, holds
+4 with the power to vote, or holds proxies representing, ten percent (10%) or more of the voting
+5 securities of any other person. This presumption may be rebutted by a showing that control does
+6 not exist in fact.
+7 (10) “Covered claim” means:
+8 (i) An unpaid claim, including one for unearned premiums, submitted by a claimant, which
+9 arises out of and is within the coverage and subject to the applicable limits of an insurance policy
+10 to which this chapter applies, if the policy was issued by an insurer that becomes an insolvent
+11 insurer after the effective date of this chapter and the policy was either issued by the insurer or
+12 assumed by the insurer in an assumed claims transaction, and:
+13 (A) The claimant or insured is a resident of this state at the time of the insured event;
+14 provided, that for entities other than an individual, the residence of a claimant, insured, or
+15 policyholder is the state in which its principal place of business is located at the time of the insured
+16 event; or
+17 (B) The claim is a first-party claim for damage to property with a permanent location in
+18 this state.
+19 (ii) Covered claim includes claim obligations that arose through the issuance of an
+20 insurance policy by a member insurer, which are later allocated, transferred, merged into, novated,
+21 assumed by, or otherwise made the sole responsibility of a member or non-member insurer if:
+22 (A) The original member insurer has no remaining obligations on the policy after the
+23 transfer;
+24 (B) A final order of liquidation with a finding of insolvency has been entered against the
+25 insurer that assumed the member’s coverage obligations by a court of competent jurisdiction in the
+26 insurer’s state of domicile;
+27 (C) The claim would have been a covered claim, as defined in this section, if the claim had
+28 remained the responsibility of the original member insurer and the order of liquidation had been
+29 entered against the original member insurer, with the same claim submission date and liquidation
+30 date; and
+31 (D) In cases where the member’s coverage obligations were assumed by a non-member
+32 insurer, the transaction received prior regulatory or judicial approval.
+33 (iii) Covered claim includes claim obligations that were originally covered by a non-
+34 member insurer including, but not limited to, a self-insurer, non-admitted insurer or risk retention
+LC001777/SUB A - Page 7 of 17
+
+1 group, but subsequently became the sole direct obligation of a member insurer before the entry of
+2 a final order of liquidation with a finding of insolvency against the member insurer by a court of
+3 competent jurisdiction in its state of domicile, if the claim obligations were assumed by the member
+4 insurer in a transaction of one of the following types:
+5 (A) A merger in which the surviving company was a member insurer immediately after the
+6 merger;
+7 (B) An assumption reinsurance transaction that received any required approvals from the
+8 appropriate regulatory authorities; or
+9 (C) A transaction entered into pursuant to a plan approved by the member insurer’s
+10 domiciliary regulator.
+11 (iv) Except as provided elsewhere in this section, “covered claim” shall not include:
+12 (A) Any amount awarded as punitive or exemplary damages;
+13 (B) Any amount sought as a return of premium under any retrospective rating plan;
+14 (C) Any amount due any reinsurer, insurer, insurance pool, or underwriting association,
+15 health maintenance organization, hospital plan corporation, professional health service corporation,
+16 or self-insurer as subrogation recoveries, reinsurance recoveries, contribution, indemnification or
+17 otherwise. No claim for any amount due any reinsurer, insurer, insurance pool, underwriting
+18 association, health maintenance organization, hospital plan corporation, professional health service
+19 corporation, or self-insurer may be asserted against a person insured under a policy issued by an
+20 insolvent insurer other than to the extent the claim exceeds the association obligation limitations
+21 set forth in § 27-34-8;
+22 (D) Any claims excluded pursuant to § 27-34-11.5 due to the high net worth of an insured;
+23 (E) Any first party claims by an insured that is an affiliate of the insolvent insurer;
+24 (F) Any fee or other amount relating to goods or services sought by or on behalf of any
+25 attorney or other provider of goods or services retained by the insolvent insurer or an insured prior
+26 to the date it was determined to be insolvent;
+27 (G) Any fee or other amount sought by or on behalf of any attorney or other provider of
+28 goods or services retained by any insured or claimant in connection with the assertion or
+29 prosecution of any claim, covered or otherwise, against the association;
+30 (H) Any claims for interest; or
+31 (I) Any claim filed with the association or a liquidator for protection afforded under the
+32 insured’s policy for incurred-but-not-reported losses.
+33 (11) “Cybersecurity insurance” means for purposes of this section includes first and third-
+34 party coverage, in a policy or endorsement, written on a direct, admitted basis for losses and loss
+LC001777/SUB A - Page 8 of 17
+
+1 mitigation arising out of or relating to data privacy breaches, unauthorized information network
+2 security intrusions, computer viruses, ransomware, cyber extortion, identity theft, and similar
+3 exposures.
+4 (11)(12) “Insolvent insurer” means an insurer licensed to transact insurance in this state
+5 either at the time the policy was issued; when the obligation with respect to the covered claim was
+6 assumed under an assumed claims transaction; or when the insured event occurred, and against
+7 whom a final order of liquidation has been entered after the effective date of this chapter with a
+8 finding of insolvency by a court of competent jurisdiction in the insurer’s state of domicile.
+9 (12)(13) “Insured” means any named insured, any additional insured, any vendor, lessor,
+10 or any other party identified as an insured under the policy.
+11 (13)(14) “Line of credit” means an irrevocable stand-by commitment whereby the
+12 association or member insurer and a qualified financial institution or group of qualified financial
+13 institutions enter into a formal and binding contract in which the qualified financial institution or
+14 group of qualified financial institutions agree to lend a certain amount of money within a stated
+15 period of time.
+16 (14)(15)(i) “Member insurer” means any person who:
+17 (A) Writes any kind of insurance to which this chapter applies, under § 27-34-3, including
+18 the exchange of reciprocal or interinsurance contracts;
+19 (B) Is licensed to transact insurance in this state; and
+20 (C) Is not otherwise excepted from membership by statute or regulation.
+21 (ii) An insurer shall cease to be a member insurer effective on the day following the
+22 termination or expiration of its license to transact the kinds of insurance to which this chapter
+23 applies, however, the insurer shall remain liable as a member insurer for any and all obligations,
+24 including obligations for assessments levied prior to the termination or expiration of the insurer’s
+25 license and assessments levied after the termination or expiration, which relate to any insurer that
+26 became an insolvent insurer prior to the termination or expiration of the insurer’s license.
+27 (15)(16) “Net direct written premiums” means direct gross premiums written in this state
+28 on insurance policies to which this chapter applies, including policy and membership fees, less the
+29 following amounts: (i) Return premiums; (ii) Premiums on policies not taken; and (iii) Dividends
+30 paid or credited to policyholders on that direct business. “Net direct written premiums” does not
+31 include premiums on contracts between insurers or reinsurers.
+32 (16)(17) “Novation” means that the assumed claim or policy obligations became the direct
+33 obligations of the insolvent insurer through consent of the policyholder and that thereafter the
+34 ceding insurer or entity initially obligated under the claims or policies is released by the
+LC001777/SUB A - Page 9 of 17
+
+1 policyholder from performing its claim or policy obligations. Consent may be express or implied
+2 based upon the circumstances, notice provided, and conduct of the parties.
+3 (17)(18) “Ocean marine insurance” means any form of insurance, regardless of the name,
+4 label, or marketing designation of the insurance policy, that insures against maritime perils or risks
+5 and other related perils or risks, which are usually insured against by traditional marine insurance,
+6 such as hull and machinery, marine builders risk, and marine protection and indemnity. Perils and
+7 risk insured against include without limitation: loss, damage, expense, or legal liability of the
+8 insured for loss, damage, or expense arising out of or incident to ownership, operation, chartering,
+9 maintenance, use, repair, or construction of any vessel, craft, or instrumentality in use in ocean or
+10 inland waterways for commercial purposes, including liability of the insured for personal injury,
+11 injury, illness, or death or for loss or damage to the property of the insured or another person.
+12 (18)(19) “Person” means any individual, aggregation of individuals, corporation,
+13 partnership, or other entity.
+14 (19)(20) “Qualified financial institution” shall have the same meaning as the term in § 27-
+15 1.1-3.
+16 (20)(21) “Receiver” means liquidator, rehabilitator, conservator, or ancillary receiver, as
+17 the context requires.
+18 (21)(22) “Self-insurer” means a person that covers its liability through a qualified
+19 individual or group self-insurance program or any other formal program created for the specific
+20 purpose of covering liabilities typically covered by insurance.
+21 (22)(23) “Self-insured retention” means:
+22 (i) Any fund or other arrangement to pay claims other than by an insurance company; or
+23 (ii) Any arrangement under which an insurance company has no obligation to pay claims
+24 on behalf of an insured if it is not reimbursed by the insured.
+25 27-34-8. Powers and duties of the association.
+26 (a) The association shall:
+27 (1)(i) Be obligated to pay covered claims existing prior to the order of liquidation; arising
+28 within sixty (60) days after the order of liquidation or before the policy expiration date if less than
+29 sixty (60) days after the order of liquidation or before the insured replaces the policy or causes its
+30 cancellation if the insured does so within sixty (60) days of the order of liquidation. The obligations
+31 shall be satisfied by paying to the claimant an amount as follows:
+32 (A) The full amount of a covered claim for benefits under a workers’ compensation
+33 insurance coverage;
+34 (B) An amount not exceeding ten thousand dollars ($10,000), per policy for a covered
+LC001777/SUB A - Page 10 of 17
+
+1 claim for the return of unearned premium;
+2 (C) An amount not exceeding one million dollars ($1,000,000) for all first-party property
+3 loss claims arising from a single occurrence under a policy covering commercial or residential
+4 property for all other covered claims for insolvencies occurring after January 1, 2026. An amount
+5 not exceeding five hundred thousand dollars ($500,000), per claimant for all other covered claims
+6 for insolvencies occurring on or after January 1, 2008, and an amount not exceeding three hundred
+7 thousand dollars ($300,000) per claimant for all other covered claims for insolvencies occurring
+8 prior to January 1, 2008.
+9 (D) In no event shall the association be obligated to pay an amount in excess of five
+10 hundred thousand dollars ($500,000) for all first and third-party claims under a policy or
+11 endorsement providing, or that is found to provide, cybersecurity insurance coverage and arising
+12 out of or related to a single insured event, regardless of the number of claims made or the number
+13 of claimants.
+14 (ii) In no event shall the association be obligated to pay a claimant an amount in excess of
+15 the obligation of the insolvent insurer under the policy or coverage from which the claim arises.
+16 Notwithstanding any other provision of this chapter, a covered claim shall not include a claim filed
+17 with the guaranty association after the final date set by the court for the filing of claims against the
+18 liquidator or receiver of an insolvent insurer. For the purpose of filing a claim under this subsection,
+19 notice of claims to the liquidator of the insolvent insurer shall be deemed notice to the association
+20 or its agent and a list of claims shall be periodically submitted to the association or association
+21 similar to the association in another state by the liquidator.
+22 (iii) Any obligation of the association to defend an insured shall cease upon the
+23 association’s payment or tender of an amount equal to the lesser of the association’s covered claim
+24 obligation limit or the applicable policy limit;
+25 (2) Be deemed the insurer to the extent of its obligation on the covered claims and to that
+26 extent, subject to the limitation provided in this chapter, shall have all rights, duties, and obligations
+27 of the insolvent insurer as if the insurer had not become insolvent, including, but not limited to, the
+28 right to pursue and retain salvage and subrogation recoverable on covered claim obligations to the
+29 extent paid by the association. The association shall not be deemed the insolvent insurer for the
+30 purpose of conferring jurisdiction;
+31 (3) Allocate claims paid and expenses incurred among the three (3) accounts separately,
+32 and assess member insurers separately for each account amounts necessary to pay the obligations
+33 of the association under subdivision (a)(1) subsequent to an insolvency, the expenses of handling
+34 covered claims subsequent to an insolvency, and other expenses authorized by this chapter. The
+LC001777/SUB A - Page 11 of 17
+
+1 assessments of each member insurer shall be in the proportion that the net direct written premiums
+2 of the member insurer for the calendar year preceding the assessment on the kinds of insurance in
+3 the account bears to the net direct written premiums of all member insurers for the calendar year
+4 preceding the assessment on the kinds of insurance in the account. Each member insurer shall be
+5 notified of the assessment not later than thirty (30) days before it is due.
+6 A member insurer may not be assessed in any one year on any account an amount greater
+7 than two percent (2%) of that member insurer’s net direct written premiums for the calendar year
+8 preceding the assessment on the kinds of insurance in the account. If the maximum assessment,
+9 together with the other assets of the association in any account, does not provide in any one year in
+10 any account an amount sufficient to make all necessary payments from that account, each member
+11 insurer shall be assessed the additional amount that must be obtained to make all necessary
+12 payments of the underfunded account from the other two accounts, subject to the same limitation
+13 of two percent (2%) of that member insurer’s net direct written premiums for the calendar year
+14 preceding the assessment on the kinds of insurance in the account. The additional assessments shall
+15 be considered loans by and between the separate accounts. Amounts borrowed under this
+16 subsection shall be paid back to the separate accounts from which they were borrowed, out of
+17 assets, including, but not limited to, existing and future assessments in the account receiving the
+18 loan. An interest charge shall be levied on all amounts borrowed under this subsection based on the
+19 average prime rate of interest for each year the money remains unpaid. If the amounts borrowed
+20 remain unpaid on the seventh yearly anniversary as a result of the inability of the borrowing account
+21 to make repayment, then the amount borrowed and interest which is not repaid, starting with the
+22 principal and interest of the first year, shall be considered uncollectible. The funds available shall
+23 be prorated and the unpaid portion shall be paid as soon after this as funds become available. The
+24 association may exempt or defer, in whole or in part, the assessment of any member insurer if the
+25 assessment would cause the member insurer’s financial statement to reflect amounts of capital or
+26 surplus less than the minimum amounts required for a certificate of authority by any jurisdiction in
+27 which the member insurer is authorized to transact insurance. However, during the period of
+28 deferment, no dividends shall be paid to shareholders or policyholders. Deferred assessments shall
+29 be paid when the payment will not reduce capital or surplus below required minimums. Payments
+30 shall be refunded to those companies receiving larger assessments by virtue of the deferment, or,
+31 at the election of any company, credited against future assessments;
+32 (4) Investigate claims brought against the association and adjust, compromise, settle, and
+33 pay covered claims to the extent of the association’s obligation and deny all other claims. The
+34 association shall pay claims in any order that it may deem reasonable, including the payment of
+LC001777/SUB A - Page 12 of 17
+
+1 claims as they are received from the claimants or in groups or categories of claims. The association
+2 shall have the right to appoint and to direct legal counsel retained under liability insurance policies
+3 for the defense of covered claims and to appoint and direct other service providers for covered
+4 services;
+5 (5) Notify claimants in this state as deemed necessary by the commissioner and upon the
+6 commissioner’s request, to the extent records are available to the association;
+7 (6)(i) Have the right to review and contest as set forth in this subsection settlements,
+8 releases, compromises, waivers, and judgments to which the insolvent insurer or its insureds were
+9 parties prior to the entry of the order of liquidation. In an action to enforce settlements, releases,
+10 and judgments to which the insolvent insurer or its insureds were parties prior to the entry of the
+11 order of liquidation, the association shall have the right to assert the following defenses, in addition
+12 to the defenses available to the insurer:
+13 (A) The association is not bound by a settlement, release, compromise, or waiver executed
+14 by an insured or the insurer, or any judgment entered against an insured or the insurer by consent
+15 or through a failure to exhaust all appeals, if the settlement, release, compromise, waiver, or
+16 judgment was:
+17 (I) Executed or entered into within one hundred twenty (120) days prior to the entry of an
+18 order of liquidation, and the insured or the insurer did not use reasonable care in entering into the
+19 settlement, release, compromise, waiver, or judgment, or did not pursue all reasonable appeals of
+20 an adverse judgment; or
+21 (II) Executed by or taken against an insured or the insurer based on default, fraud, collusion,
+22 or the insurer’s failure to defend.
+23 (B) If a court of competent jurisdiction finds that the association is not bound by a
+24 settlement, release, compromise, waiver, or judgment for the reasons described in subparagraph
+25 (i)(A), the settlement, release, compromise, waiver, or judgment shall be set aside, and the
+26 association shall be permitted to defend any covered claim on the merits. The settlement, release,
+27 compromise, waiver, or judgment may not be considered as evidence of liability or damages in
+28 connection with any claim brought against the association or any other party under this chapter.
+29 (C) The association shall have the right to assert any statutory defenses or rights of offset
+30 against any settlement, release, compromise, or waiver executed by an insured or the insurer, or
+31 any judgment taken against the insured or the insurer.
+32 (ii) As to any covered claims arising from a judgment under any decision, verdict, or
+33 finding based on the default of the insolvent insurer or its failure to defend, the association, either
+34 on its own behalf or on behalf of an insured, may apply to have the judgment, order, decision,
+LC001777/SUB A - Page 13 of 17
+
+1 verdict, or finding set aside by the same court or administrator that entered the judgment, order,
+2 decision, verdict, or finding and shall be permitted to defend the claim on the merits;
+3 (7) Handle claims through its employees or through one or more insurers or other persons
+4 designated as servicing facilities. Designation of a servicing facility is subject to the approval of
+5 the commissioner, but the designation may be declined by a member insurer;
+6 (8) Reimburse each servicing facility for obligations of the association paid by the facility
+7 and for expenses incurred by the facility while handling claims on behalf of the association and
+8 shall pay the other expenses of the association authorized by this chapter;
+9 (9)(i) The association shall obtain a line of credit for the benefit of each account, in an
+10 amount not to exceed the applicable maximum to ensure the immediate availability of funds for
+11 purposes of future claims and expenses attributable to an insurer insolvency in that account. The
+12 line of credit shall be obtained from qualified financial institutions. The line of credit shall provide
+13 for a thirty-day (30) notice of termination or nonrenewal to the commissioner and the association
+14 and shall provide funding to the association within three (3) business days of receipt of written
+15 notice from the commissioner of an insolvent insurer in that account. Each member insurer upon
+16 receipt of notice from the association shall make immediate payment for its proportionate share of
+17 the amount borrowed based on the premium for the preceding calendar year. The maximum line of
+18 credit or preinsolvency assessment for each account shall be subject to prior review and approval
+19 by the commissioner at the time of origination.
+20 (ii) If the association cannot obtain a line of credit, the association may obtain an
+21 irrevocable line of credit agreement from each member insurer in an amount not to exceed the
+22 member insurer’s maximum assessment pursuant to subdivision (a)(3) to ensure the immediate
+23 availability of funds for the purposes of future claims and expenses attributable to an insurer
+24 insolvency.
+25 Any amount drawn under any line of credit shall be considered a payment toward the
+26 member insurer’s assessment provided for in subdivision (a)(3).
+27 The member insurer shall provide funding to the association under the line of credit within
+28 three (3) business days of receipt of a written request from the association for a draw-down under
+29 the line of credit.
+30 The line of credit agreement shall be subject to prior review and approval by the
+31 commissioner at the time of origination and any subsequent renewal. It shall include any
+32 commercially reasonable provisions the association or the commissioner may deem advisable,
+33 including a provision that the line of credit is irrevocable or for a stated period of time and provides
+34 for thirty-day (30) notice to the association and the commissioner that the line is being terminated
+LC001777/SUB A - Page 14 of 17
+
+1 or not renewed.
+2 (iii) If a line of credit is not given as provided for in this section, the member insurer shall
+3 be responsible for the payment of an assessment of up to the member’s proportionate share of the
+4 applicable maximum as set forth in this subsection which shall be paid into a pre-insolvency
+5 assessment fund in each account;
+6 (10) Submit, not later than ninety (90) days after the end of the association’s fiscal year, a
+7 financial report for the preceding fiscal year in a form approved by the commissioner.
+8 (b) The association may:
+9 (1) Employ or retain persons as are necessary to handle claims and perform other duties of
+10 the association;
+11 (2) Borrow funds necessary to effect the purposes of this chapter in accordance with the
+12 plan of operation;
+13 (3) Sue or be sued;
+14 (4) Negotiate and become a party to any contracts necessary to carry out the purpose of
+15 this chapter;
+16 (5) Perform any other acts necessary or proper to effectuate the purpose of this chapter;
+17 and
+18 (6) Refund to the member insurers in proportion to the contribution of each member insurer
+19 to that account that amount by which the assets of the account exceed the liabilities, if, at the end
+20 of any calendar year, the board of directors finds that the assets of the association in any account
+21 exceed the liabilities of that account as estimated by the board of directors for the coming year.
+22 (c) Suits involving the association:
+23 (1) Except for actions by the receiver, all actions relating to or arising out of this chapter
+24 against the association shall be brought in the courts in this state. The courts shall have exclusive
+25 jurisdiction over all actions relating to or arising out of this chapter against the association.
+26 (2) The exclusive venue in any action by or against the association is in the Providence
+27 county superior court. The association may, at its option, waive this venue as to specific actions.
+28 27-34-11.5. Net worth exclusion.
+29 (a) For purposes of this section, “high net worth insured” shall mean any insured, excluding
+30 state and local governments, whose net worth exceeds fifty million dollars ($50,000,000) on
+31 December 31 of the year prior to the year in which the insurer becomes an insolvent insurer;
+32 provided that an insured’s net worth on that date shall be deemed to include the aggregate net worth
+33 of the insured and all of its subsidiaries and affiliates as calculated on a consolidated basis.
+34 (b)(1) The association shall not be obligated to pay any first-party claims by a high net
+LC001777/SUB A - Page 15 of 17
+
+1 worth insured.
+2 (2) The association shall have the right to recover from the high net worth insured all
+3 amounts paid by the association to or on behalf of such insured, whether for indemnity, defense, or
+4 otherwise.
+5 (3) The association may also, at its sole discretion and without assumption of any ongoing
+6 duty to do so, pay any cybersecurity insurance obligations covered by a policy or endorsement of
+7 an insolvent company on behalf of a high net worth insured as defined in subsection (a) of this
+8 section. In that case, the association shall recover from the high net worth insured under this section
+9 all amounts paid on its behalf, all allocated claim adjusted expenses related to such claims, the
+10 association’s attorneys’ fees, and all court costs in any action necessary to collect the full amount
+11 to the association’s reimbursement under this section.
+12 (c) The association shall not be obligated to pay any claim that would otherwise be a
+13 covered claim that is an obligation to or on behalf of a person who has a net worth greater than that
+14 allowed by the insurance guaranty association law of the state of residence of the claimant at the
+15 time specified by that state’s applicable law, and which association has denied coverage to that
+16 claimant on that basis.
+17 (d) The association shall establish reasonable procedures subject to the approval of the
+18 commissioner for requesting financial information from insureds on a confidential basis for
+19 purposes of applying this section, provided that the financial information may be shared with any
+20 other association similar to the association and the liquidator for the insolvent insurer on the same
+21 confidential basis. Any request to an insured seeking financial information must advise the insured
+22 of the consequences of failing to provide the financial information. If an insured refuses to provide
+23 the requested financial information where it is requested and available, the association may, until
+24 such time as the information is provided, provisionally deem the insured to be a high net worth
+25 insured for the purpose of denying a claim under subsection (b).
+26 (e) In any lawsuit contesting the applicability of this section where the insured has refused
+27 to provide financial information under the procedure established pursuant to subsection (d), the
+28 insured shall bear the burden of proof concerning its net worth at the relevant time. If the insured
+29 fails to prove that its net worth at the relevant time was less than the applicable amount, the court
+30 shall award the association its full costs, expenses, and reasonable attorney’s fees in contesting the
+31 claim.
+32 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001777/SUB A
+========
+LC001777/SUB A - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- VOLUNTARY RESTRUCTURING OF SOLVENT
+INSURERS
+***
+1 This act would make numerous technical corrections related to insurance, provides a
+2 definition for "cybersecurity insurance".
+3 This act would take effect on January 1, 2026.
+========
+LC001777/SUB A
+========
+LC001777/SUB A - Page 17 of 17
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 2 o t G L i C 2 e " 2 A ( ( § y ( y ( T r e f t p y a t t r i ( a ( t ( (]
+[DELETED:  t g u f ( ( ( ( a ( ( b r o ( m t r o s ( w l c o c l t i m c ( ( c ( ( ( ( ( “ a m a g a o f g a t ( ( ( “ m a i c p a j s c t u o o a s e o a c o t]
+[DELETED:  f ( p ( ( ( p ( ( R ( ( i 1 ( t 1 ( ( i ( t b ( ( ( ( ( ( “ r m t a o r t l o o o o p i t c o i w h n m a i o t i]
+[DELETED:  p S C h 2 T f ( ( a i t ( i p o s i o o w f i t r o a f d o i o ( C i t l o i r w s o l o i t d ( c ( ( ( o a s i p t o a c a o o a t F p o t s “ i m i o a r ( p r f w i (]
+[DELETED:  ( i i ( o i ( ( A t o c o t b p c g C 2 A ( 2 ( “ m a p w d o i t o o m i 3 ( 2 ( o s o ( ( a o g ( o a ( a ( F w a c h b p t t a g a]
+[DELETED:  ( n ( ( c ( i ( A a r o t a t c o p o b t d o ( “ c s m t c r b a g a i o w e w ( d p n s t ( a m d t t ( p T g a r t a d A c p b a i m b r i t s m a o a ( i ( h ( d]
+[DELETED:  s o p w s n ( ( a t i a ( p t f e o t a i t r o a c i o p e ( t ( C c i c o t a t t i o a i a ( t ( i i ( r e d ( i ( m]
+[DELETED:  g a c i ( m ( a ( A t e i p t a p a b t m i d ( ( ( ( h o o N c f a a d a r i i p u a c i s 2 ( 2 ( ( a t ( g o s r b a i o c i c w t a o p ( ( i ( p]
+[DELETED:  m s i c v r c e i t a s e ( e a w f ( o ( “ o c m a i s c w t a i g p ( ( 2 t ( ( ( t a i l b ( o f p i ( o c i o e i o u t c o p i r b t]
+[DELETED:  p b ( l a s r i m i i ( “ m a i a o i c p ( 2 1 ( t ( “ m a p t c i l t a q i p ( ( ( o 2 ( ( w s c s ( T f a o a c c f b u a w c i (]
+[DELETED:  c ( l p n f t p ( h t d ( f a f a t c u a p o e o o ( t N w l n o s ( A o o t a t d a i s c u t a o ( e o r e p ( a o c]
+[DELETED:  a o t p n A t p t a i s b a t a a t m b o t m a n p o p b c l b a b t s a A b u t s a l a r t p b a a s w d b s a ( p a]
+[DELETED:  c s f s ( c ( r p a o t ( b o j ( o s a ( o ( I a c o c j f t t a i n b b a s ( t s r c w o j s b s a a t a c c ( a a ( f o]
+[DELETED:  v d ( d t ( a s ( a p l f a n r t c b ( I t a c o a l o c t a m o a i m a i A m T t t T l o c a s b s t p r a a b t c a t t o o a a s r I s i a c i f]
+[DELETED:  o ( b a a ( f ( ( t ( p ( ( t ( a ( t o e ( ( a j ( c 2 ( s a l g w n w e f m d ( o D p o (]
+[DELETED:  w ( a o ( d a s a a t ( c a t c ( c f r f i f i o a c b f p o c o t s i ( t i f s c S]
+[DELETED:  T a w m n t c r t i p a d T]

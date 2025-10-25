@@ -1,0 +1,621 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 5017  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5017 SUBSTITUTE A
+========
+LC000432/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+Introduced By: Representatives Diaz, Kislak, Bennett, Edwards, Giraldo, Shallcross
+Smith, Ajello, and Fogarty
+Date Introduced: January 10, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+5 6-61-1. Definitions.
+6 For purposes of this chapter, unless the context otherwise requires:
+7 (1) “Authorized repair supplier” means an individual or business who is unaffiliated with
+8 an original equipment manufacturer and who has an arrangement with the original equipment
+9 manufacturer, for a definite or indefinite period, under which the original equipment manufacturer
+10 grants to the individual or business a license to use a trade name, service mark, or other proprietary
+11 identifier for the purposes of offering the services of inspection, diagnosis, maintenance, or repair
+12 of powered wheelchairs under the name of the original equipment manufacturer, or other
+13 arrangement with the original equipment manufacturer to offer those services on behalf of the
+14 original equipment manufacturer. An original equipment manufacturer who offers the services of
+15 inspection, diagnosis, maintenance, or repair of its own powered wheelchairs, and who does not
+16 have an arrangement with an unaffiliated individual or business, shall be considered an authorized
+17 repair supplier with respect to that equipment.
+18 (2) “Commissioner” means the health insurance commissioner.
+1 (3) “Complex manual wheelchair” means manually driven complex wheelchair that can
+2 accommodate rehabilitative accessories and features.
+3 (4) “Complex power wheelchair” means a power-driven complex wheelchair, as defined
+4 by the Center for Medicare and Medicaid Services (“CMS”) that is classified as a Group 2 power
+5 wheelchair with power options that can accommodate rehabilitative features to include, but not
+6 limited to, tilt in space; or a Group 3, Group 4 or Group 5 power wheelchair.
+7 (5) “Complex rehabilitation technology (CRT)” or “complex wheelchair” means items that
+8 are individually configured for individuals to meet their specific and unique medical, physical, and
+9 functional needs and capacities for basic activities of daily living and instrumental activities of
+10 daily living identified as medically necessary, and shall include options and accessories related to
+11 any of such items. Current healthcare common procedure coding system (“HCPCS”) shall fall
+12 under the definition of complex rehabilitation technology, and any amendments to HCPCS
+13 subsequently added or created by the federal government shall be included within the definition of
+14 complex rehabilitation technology and shall be added to the covered HCPC list.
+15 (6) “Complex rehabilitation wheelchair manufacturer” or “manufacturer” means a person
+16 or company that designs, develops, tests, and produces finished systems or components of those
+17 systems and sells all products or components to:
+18 (i) Authorized providers for distribution; or
+19 (ii) To other manufacturers for the production of more complex wheelchair systems.
+20 Manufacturers are also responsible for maintaining compliance with relevant production
+21 regulations and standards and reporting as designated by federal and state authorities.
+22 (7) “Consumer” means a member of a health carrier who uses a complex rehab technology
+23 with which the CRT supplier has a contractual relationship.
+24 (8) “Consumer-owned backup complex power wheelchair” means a retired power
+25 wheelchair, that can be safely used by the consumer when a manual backup or suitable loaner
+26 wheelchair cannot be supplied to meet the consumer’s medical needs.
+27 (9) “Covered person” means a policyholder, subscriber, or other person participating in a
+28 policy, contract, or plan that provides for third-party payment or prepayment of health or medical
+29 expenses.
+30 (10) “Defect” means an abnormality that impairs the quality, function, or utility of a
+31 wheelchair from its intended design and purpose.
+32 (11) "Department" means the department of business regulation established pursuant to the
+33 provisions of chapter 14 of title 42.
+34 (12) “Embedded software” means any programmable instructions provided on firmware
+LC000432/SUB A - Page 2 of 9
+1 delivered with an electronic component of equipment, or with a part for that equipment, for
+2 purposes of equipment operation, including all relevant patches and fixes made by the manufacturer
+3 of the equipment or part for these purposes.
+4 (13) “Evaluation/diagnostic time” means time and labor during which a qualified
+5 technician troubleshoots and diagnoses any wheelchair adjustments or repair needs.
+6 (14) “Executive office” means the executive office of health and human services, the
+7 agency designated by state law and the Medicaid state plan as the Medicaid single state agency.
+8 (15) “Fair and reasonable terms and costs,” with respect to obtaining manufacturer
+9 documentation, parts, embedded software, firmware, or tools from a manufacturer to provide
+10 services, means terms that are equivalent to the most favorable terms that the manufacturer offers
+11 to an authorized repair supplier and costs to the buyer that are no greater than the manufacturer’s
+12 suggested retail price:
+13 (i) For documentation, including any relevant updates, “fair and reasonable terms and
+14 costs” also means at no charge, except that, when the documentation is requested in physical printed
+15 form, a charge may be included for the reasonable actual costs of preparing and sending the copy;
+16 (ii) For software tools, “fair and reasonable terms and costs” also means all of the
+17 following:
+18 (A) Provided at no charge and without requiring authorization or Internet access;
+19 (B) Without imposing impediments to access or use, in the course of effecting the
+20 diagnosis, maintenance, or repair and without impairing the efficient and cost-effective
+21 performance of the diagnosis, maintenance, or repair;
+22 (C) Enables full functionality;
+23 (iii) If an original equipment manufacturer does not utilize an authorized repair supplier,
+24 “fair and reasonable terms and costs” means an equitable price charged to the buyer in consideration
+25 of the actual cost to the original equipment manufacturer to prepare and distribute the part, tool,
+26 service access method, or documentation, exclusive of any research and development costs
+27 incurred.
+28 (16) “Firmware” means a software program or set of instructions programmed on
+29 equipment, or on a part for that equipment, to allow the equipment or part to communicate within
+30 itself or with other computer hardware.
+31 (17) “Health care professional” means an individual who is licensed, registered, or certified
+32 under federal or state law or regulation to provide health care services.
+33 (18) “Health plan” or “payer” means an entity subject to the insurance laws of this state, or
+34 subject to the jurisdiction of the commissioner, that contracts or offers to contract to provide health
+LC000432/SUB A - Page 3 of 9
+1 insurance coverage including, but not limited to, an insurance company, a health maintenance
+2 organization and a nonprofit hospital and medical service corporation.
+3 (19) “Independent repair provider” means an individual or business, other than the
+4 manufacturer, that is engaged in the services of inspection, diagnosis, maintenance, or repair of
+5 equipment for the purposes of returning it to the safety and performance specifications established
+6 by the manufacturer and to meet its original intended use.
+7 (20) “Inoperable” means when a wheelchair becomes unusable due to a mechanical or
+8 electronic breakdown or failure.
+9 (21) “Loaner” means a properly working wheelchair that performs the essential functions
+10 of the original wheelchair and that is provided to the consumer on a temporary basis while the
+11 consumer’s wheelchair is being repaired/replaced. A “loaner” wheelchair is further defined to be
+12 in good working order, does not create any threat to the consumer’s health or safety, and need not
+13 be new or identical to or have the same functional capabilities as those of the original wheelchair.
+14 (22) “Manufacturer documentation” means any manual, diagram, reporting output, service
+15 code description, schematic, or other guidance or information used in effecting the services of
+16 inspection, diagnosis, maintenance, or repair of powered wheelchairs.
+17 (23) “Medical documentation” means any chart notes, letters of medical necessity,
+18 prescriptions, or other clinical documentation demonstrating the initial or continued medical
+19 necessity of qualifying complex rehabilitation technology.
+20 (24) “Non-conformity” means a condition or defect that significantly impairs the use,
+21 value, function or safety of an assistive device or any of its components, but does not include a
+22 condition or defect of the device that is the result of:
+23 (i) Abuse, misuse or neglect by a consumer;
+24 (ii) Modifications or alterations not authorized by the manufacturer;
+25 (iii) Normal wear;
+26 (iv) Normal use which may be resolved through a fitting adjustment, routine maintenance,
+27 preventative maintenance or proper care; or
+28 (v) A consumer's failure to follow any manufacturer's written service and maintenance
+29 guidelines furnished to the customer at the time of purchase.
+30 (25) “Prior authorization” means any requirement held by the payer that the covered person
+31 or the qualified complex rehabilitation technology supplier obtain written or verbal approval from
+32 the payer [or other insurer] before completing needed services or providing equipment to a covered
+33 person.
+34 (26) “Qualified complex rehabilitation technology professional” means an individual who
+LC000432/SUB A - Page 4 of 9
+1 is certified as an assistive technology professional (ATP) by a professional organization providing
+2 certification of assistive technology professions.
+3 (27) “Qualified complex rehabilitation technology supplier” or “supplier” means a
+4 company or entity that meets all of the following criteria:
+5 (i) Is accredited by a recognized accrediting organization as a supplier of complex
+6 rehabilitation technology;
+7 (ii) Is an employer of at least one qualified complex rehabilitation technology professional
+8 to analyze the needs and capacities of the complex needs consumer in consultation with qualified
+9 health care professionals, to participate in the selection of appropriate complex rehabilitation
+10 technology for those needs and capacities of the complex needs consumer, and to provide training
+11 in the proper use of the complex rehabilitation technology;
+12 (iii) Requires a qualified complex rehabilitation technology professional to be physically
+13 present for the evaluation and determination of appropriate complex rehabilitation technology for
+14 a complex needs consumer;
+15 (iv) Has the capability to provide service and repair by trained technicians for all complex
+16 rehabilitation technology it sells; and
+17 (v) Provides written information at the time of delivery of the complex rehabilitation
+18 technology to the complex needs consumer stating how the complex needs consumer may receive
+19 service and repair for the complex rehabilitation technology.
+20 (28) “Recipient” means a person receiving benefits under the state Medicaid program,
+21 including a person whose Medicaid eligibility is being redetermined.
+22 (29) “Third party payer” means an entity other than the consumer of healthcare supplier,
+23 that reimburses and manages health care expenses, such as insurance companies and government
+24 payers.
+25 (30) “Tools” means any software program, hardware, or other apparatus used in inspection,
+26 diagnosis, maintenance, or repair of powered wheelchairs, including software or other mechanisms
+27 that provision, program, or pair a new part, calibrate functionality, or perform any other function
+28 required to bring the product back to fully functional condition.
+29 (31) “Trade secret” shall have the same meaning as set forth in § 6-41-1.
+30 (32) “Trip/travel allowance” means compensation for travel to the recipient’s home or
+31 location for the purpose of facilitating a repair to a complex wheelchair.
+32 (33) “Warranty” means a guarantee made by a manufacturer regarding the integrity or
+33 condition of the product and the terms and conditions under which repairs, refunds, or exchanges
+34 shall be made if the product does not function as originally described or intended within a specified
+LC000432/SUB A - Page 5 of 9
+1 period.
+2 6-61-2. No prior authorization for repair of complex wheelchairs.
+3 (a) A health plan’s coverage and payment of complex wheelchair repairs shall not require:
+4 (1) A qualified complex rehabilitation technology supplier to obtain any form of prior
+5 authorization; or
+6 (2) Any medical documentation to complete repairs for consumer-owned complex
+7 rehabilitation technology.
+8 (b) The complex rehabilitation technology supplier shall maintain documentation of any
+9 repairs and/or maintenance completed for consumer-owned complex wheelchairs. Such
+10 documentation shall not be subject to general audits.
+11 6-61-3. Requirement for suppliers to service what they sell.
+12 A supplier who sells complex power or complex manual wheelchairs shall meet the criteria
+13 of a "qualified complex rehabilitation technology supplier", as defined in § 6-61-1 and for complex
+14 wheelchairs that a supplier has sold, the supplier is required to offer service and repairs during the
+15 wheelchair’s useful life expectancy, unless:
+16 (1) The consumer has moved outside of the original supplier's service area;
+17 (2) The damage that requires repair is the result of consumer abuse or misuse of the
+18 equipment that restricts coverage by the client's health plan, and the client refuses to pay for the
+19 repairs; or
+20 (3) The consumer or their representative poses a potential threat to the health and safety of
+21 the supplier or is otherwise abusive.
+22 6-61-4. Consumer access to parts -- Self repairs.
+23 (a) For the purpose of providing services for power wheelchair equipment, an original
+24 equipment manufacturer shall, with fair and reasonable terms and costs, make available, as defined
+25 in § 6-61-1, to an independent repair supplier or consumer of the manufacturer’s equipment,
+26 manufacturer documentation, parts, embedded software, firmware, or tools that are intended for
+27 use with the equipment or any part, including updates to documentation, parts, embedded software,
+28 firmware, or tools.
+29 (b) With respect to power wheelchair equipment that contains an electronic security lock
+30 or other security-related function, an original power wheelchair equipment manufacturer shall, with
+31 fair and reasonable terms and costs, make available to independent repair suppliers and owners any
+32 manufacturer documentation, parts, embedded software, firmware, or tools needed to reset the lock
+33 or function when disabled in the course of providing services. The manufacturer may make the
+34 documentation, parts, embedded software, firmware, or tools available to independent repair
+LC000432/SUB A - Page 6 of 9
+1 suppliers and consumers through appropriate secure release systems.
+2 (c) For powered wheelchairs, consumers can self-repair or have repairs performed by an
+3 independent repair supplier. This section shall not apply to any part(s) requiring programmability,
+4 calibration, or clinical involvement to ensure appropriate consumer seating and positioning. Items
+5 included in this section for powered wheelchairs shall include:
+6 (1) Batteries;
+7 (2) Battery chargers;
+8 (3) Nonprogrammable joysticks;
+9 (4) Joystick housings or brackets;
+10 (5) Wheel assembly;
+11 (6) Non-positioning accessories;
+12 (7) Anti-tip devices;
+13 (8) Armrests, excluding positioning components, designed for adjustment by a therapist or
+14 assistive technology professional;
+15 (9) Caster spheres;
+16 (10) Cosmetic shrouding; and
+17 (11) Nonpowered leg lowers.
+18 (d) This chapter does not require an original power wheelchair equipment manufacturer to
+19 divulge a trade secret, except as necessary to provide documentation, parts, tools, service access
+20 methods, and training courses and materials on fair and reasonable terms. An original equipment
+21 manufacturer may redact documentation to remove trade secrets from the documentation before
+22 providing access to the documentation if the usability of the redacted documentation for the purpose
+23 of providing services is not diminished. An original equipment manufacturer may withhold
+24 information regarding a component of, design of, functionality of, or process of developing a part,
+25 embedded software, firmware, or a tool if the information is a trade secret and the usability of the
+26 part, embedded software, firmware, or tool for the purpose of providing services is not diminished.
+27 (e) An original power wheelchair manufacturer which fails to produce a replacement part
+28 because the part is out of stock and the manufacturer is unable to obtain the part, shall not be subject
+29 to the penalties as provided in chapter 13.1 of title 6 if the original equipment manufacturer does
+30 the following:
+31 (1) Informs the consumer or independent repair provider that the part is out of stock, and,
+32 consequently, the manufacturer is unable to obtain the part; and
+33 (2) Makes the part available to the consumer or independent repair provider within five (5)
+34 business days of when the part becomes available.
+LC000432/SUB A - Page 7 of 9
+1 (f) An original equipment manufacturer is not liable for faulty or otherwise improper
+2 repairs provided by independent repair suppliers or owners, including faulty or otherwise improper
+3 repairs that cause any of the following:
+4 (1) Damage to a powered wheelchair that occurs during the repairs;
+5 (2) Any indirect, incidental, or consequential damages; or
+6 (3) An inability to use, or a reduced functionality of, a powered wheelchair resulting from
+7 faulty or otherwise improper repair.
+8 6-61-5. Rules and regulations.
+9 The department of business regulation may promulgate rules and regulations to implement
+10 and enforce the provisions of §§ 6-61-2, 6-61-3 and 6-61-2.
+11 6-61-6. Application and scope.
+12 (a) This chapter applies to the following classes of third-party payment supplier contracts,
+13 policies, or plans delivered, issued for delivery, continued, or renewed in this state on or after
+14 January 1, 2026:
+15 (1) Individual or group accident and sickness insurance providing coverage, pursuant to
+16 chapter 18 of title 27, on an expense incurred basis; and
+17 (2) An individual or group hospital, chapter 19 of title 27 or medical service contract issued
+18 pursuant to chapter 20 of title 27; and
+19 (3) An individual or group health maintenance organization contract regulated under
+20 chapter 41 of title 27; and
+21 (4) A plan established for public employees pursuant to chapter 12 of title 36; and
+22 (5) The medical assistance program under chapter 8 of title 40 including all managed care
+23 organizations acting pursuant to a contract with the executive office of health and human services
+24 to administer the medical assistance program.
+25 (b) The commissioner may promulgate rules and regulations to implement and enforce the
+26 provisions of this section.
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC000432/SUB A
+========
+LC000432/SUB A - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+***
+1 This act would provide that original power wheelchair equipment manufacturers would be
+2 required to provide to independent service providers repair information and tools to maintain and
+3 repair original power wheelchair equipment.
+4 This act would take effect upon passage.
+========
+LC000432/SUB A
+========
+LC000432/SUB A - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND B R D K B E G S S R C R 6 F ( a m g i o p w u t n o t o e m o o a o i h r (]
+[DELETED:  ( a ( b w l ( a f d a u t d o c r t a a a t H s c ( o s ( ( T o m f t p o m c w s M a a r f m c w r p r ( w ( “ b c p w m a r p w w ( p e ( “ m t i q f o a w ( p (]
+[DELETED:  d w a e c o e o w a p f t e f p o ( “ t m t a l d w a q t ( a ( “ a r t a c w r t o m d p e s f o t f a m p s t s ( c f ( F s t “ a r t a c a m a o t f ( ( W i i t a o u i t c o e t d m o r a w i t e a c p ( ( “ o s a m o d e o a r a d c i ( “ m a s p o s o i p o e i ( u ( s]
+[DELETED:  i o ( “ r p m a i o b o t t m e b ( e ( o c i b ( c i ( “ d m a c n l o m n p o o c d d t i o c m n ( v c ( ( ( ( p ( g ( o t p (]
+[DELETED:  i c ( “ c r t s o “ m a c ( I a b a r a o a a s o c r ( t h c p t p i t s o a c r t i ( p a ( r ( t s ( i ( t p ( d t r ( ( l ( c s]
+[DELETED:  p 6 ( ( a ( A m d t c r f c c r ( r a m c f c c w S d 6 A o w w ( ( e r ( t 6 ( e i § 6 t a i r o t m m u f ( o f m o d p e s f o t a t i r]
+[DELETED:  s ( i c i ( ( ( ( ( ( ( ( a ( ( ( ( d m m p o p s i n d A o e m m w i e p ( b t t ( c ( b]
+[DELETED:  ( r r ( ( ( f 6 T a 6 ( p J ( c ( p ( A i o g h m o c r u c ( ( o t ( p S]
+[DELETED:  T r r T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5017 SUBSTITUTE A
+========
+LC000432/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+Introduced By: Representatives Diaz, Kislak, Bennett, Edwards, Giraldo, Shallcross
+Smith, Ajello, and Fogarty
+Date Introduced: January 10, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+5 6-61-1. Definitions.
+6 For purposes of this chapter, unless the context otherwise requires:
+7 (1) “Authorized repair supplier” means an individual or business who is unaffiliated with
+8 an original equipment manufacturer and who has an arrangement with the original equipment
+9 manufacturer, for a definite or indefinite period, under which the original equipment manufacturer
+10 grants to the individual or business a license to use a trade name, service mark, or other proprietary
+11 identifier for the purposes of offering the services of inspection, diagnosis, maintenance, or repair
+12 of powered wheelchairs under the name of the original equipment manufacturer, or other
+13 arrangement with the original equipment manufacturer to offer those services on behalf of the
+14 original equipment manufacturer. An original equipment manufacturer who offers the services of
+15 inspection, diagnosis, maintenance, or repair of its own powered wheelchairs, and who does not
+16 have an arrangement with an unaffiliated individual or business, shall be considered an authorized
+17 repair supplier with respect to that equipment.
+18 (2) “Commissioner” means the health insurance commissioner.
+
+1 (3) “Complex manual wheelchair” means manually driven complex wheelchair that can
+2 accommodate rehabilitative accessories and features.
+3 (4) “Complex power wheelchair” means a power-driven complex wheelchair, as defined
+4 by the Center for Medicare and Medicaid Services (“CMS”) that is classified as a Group 2 power
+5 wheelchair with power options that can accommodate rehabilitative features to include, but not
+6 limited to, tilt in space; or a Group 3, Group 4 or Group 5 power wheelchair.
+7 (5) “Complex rehabilitation technology (CRT)” or “complex wheelchair” means items that
+8 are individually configured for individuals to meet their specific and unique medical, physical, and
+9 functional needs and capacities for basic activities of daily living and instrumental activities of
+10 daily living identified as medically necessary, and shall include options and accessories related to
+11 any of such items. Current healthcare common procedure coding system (“HCPCS”) shall fall
+12 under the definition of complex rehabilitation technology, and any amendments to HCPCS
+13 subsequently added or created by the federal government shall be included within the definition of
+14 complex rehabilitation technology and shall be added to the covered HCPC list.
+15 (6) “Complex rehabilitation wheelchair manufacturer” or “manufacturer” means a person
+16 or company that designs, develops, tests, and produces finished systems or components of those
+17 systems and sells all products or components to:
+18 (i) Authorized providers for distribution; or
+19 (ii) To other manufacturers for the production of more complex wheelchair systems.
+20 Manufacturers are also responsible for maintaining compliance with relevant production
+21 regulations and standards and reporting as designated by federal and state authorities.
+22 (7) “Consumer” means a member of a health carrier who uses a complex rehab technology
+23 with which the CRT supplier has a contractual relationship.
+24 (8) “Consumer-owned backup complex power wheelchair” means a retired power
+25 wheelchair, that can be safely used by the consumer when a manual backup or suitable loaner
+26 wheelchair cannot be supplied to meet the consumer’s medical needs.
+27 (9) “Covered person” means a policyholder, subscriber, or other person participating in a
+28 policy, contract, or plan that provides for third-party payment or prepayment of health or medical
+29 expenses.
+30 (10) “Defect” means an abnormality that impairs the quality, function, or utility of a
+31 wheelchair from its intended design and purpose.
+32 (11) "Department" means the department of business regulation established pursuant to the
+33 provisions of chapter 14 of title 42.
+34 (12) “Embedded software” means any programmable instructions provided on firmware
+LC000432/SUB A - Page 2 of 9
+
+1 delivered with an electronic component of equipment, or with a part for that equipment, for
+2 purposes of equipment operation, including all relevant patches and fixes made by the manufacturer
+3 of the equipment or part for these purposes.
+4 (13) “Evaluation/diagnostic time” means time and labor during which a qualified
+5 technician troubleshoots and diagnoses any wheelchair adjustments or repair needs.
+6 (14) “Executive office” means the executive office of health and human services, the
+7 agency designated by state law and the Medicaid state plan as the Medicaid single state agency.
+8 (15) “Fair and reasonable terms and costs,” with respect to obtaining manufacturer
+9 documentation, parts, embedded software, firmware, or tools from a manufacturer to provide
+10 services, means terms that are equivalent to the most favorable terms that the manufacturer offers
+11 to an authorized repair supplier and costs to the buyer that are no greater than the manufacturer’s
+12 suggested retail price:
+13 (i) For documentation, including any relevant updates, “fair and reasonable terms and
+14 costs” also means at no charge, except that, when the documentation is requested in physical printed
+15 form, a charge may be included for the reasonable actual costs of preparing and sending the copy;
+16 (ii) For software tools, “fair and reasonable terms and costs” also means all of the
+17 following:
+18 (A) Provided at no charge and without requiring authorization or Internet access;
+19 (B) Without imposing impediments to access or use, in the course of effecting the
+20 diagnosis, maintenance, or repair and without impairing the efficient and cost-effective
+21 performance of the diagnosis, maintenance, or repair;
+22 (C) Enables full functionality;
+23 (iii) If an original equipment manufacturer does not utilize an authorized repair supplier,
+24 “fair and reasonable terms and costs” means an equitable price charged to the buyer in consideration
+25 of the actual cost to the original equipment manufacturer to prepare and distribute the part, tool,
+26 service access method, or documentation, exclusive of any research and development costs
+27 incurred.
+28 (16) “Firmware” means a software program or set of instructions programmed on
+29 equipment, or on a part for that equipment, to allow the equipment or part to communicate within
+30 itself or with other computer hardware.
+31 (17) “Health care professional” means an individual who is licensed, registered, or certified
+32 under federal or state law or regulation to provide health care services.
+33 (18) “Health plan” or “payer” means an entity subject to the insurance laws of this state, or
+34 subject to the jurisdiction of the commissioner, that contracts or offers to contract to provide health
+LC000432/SUB A - Page 3 of 9
+
+1 insurance coverage including, but not limited to, an insurance company, a health maintenance
+2 organization and a nonprofit hospital and medical service corporation.
+3 (19) “Independent repair provider” means an individual or business, other than the
+4 manufacturer, that is engaged in the services of inspection, diagnosis, maintenance, or repair of
+5 equipment for the purposes of returning it to the safety and performance specifications established
+6 by the manufacturer and to meet its original intended use.
+7 (20) “Inoperable” means when a wheelchair becomes unusable due to a mechanical or
+8 electronic breakdown or failure.
+9 (21) “Loaner” means a properly working wheelchair that performs the essential functions
+10 of the original wheelchair and that is provided to the consumer on a temporary basis while the
+11 consumer’s wheelchair is being repaired/replaced. A “loaner” wheelchair is further defined to be
+12 in good working order, does not create any threat to the consumer’s health or safety, and need not
+13 be new or identical to or have the same functional capabilities as those of the original wheelchair.
+14 (22) “Manufacturer documentation” means any manual, diagram, reporting output, service
+15 code description, schematic, or other guidance or information used in effecting the services of
+16 inspection, diagnosis, maintenance, or repair of powered wheelchairs.
+17 (23) “Medical documentation” means any chart notes, letters of medical necessity,
+18 prescriptions, or other clinical documentation demonstrating the initial or continued medical
+19 necessity of qualifying complex rehabilitation technology.
+20 (24) “Non-conformity” means a condition or defect that significantly impairs the use,
+21 value, function or safety of an assistive device or any of its components, but does not include a
+22 condition or defect of the device that is the result of:
+23 (i) Abuse, misuse or neglect by a consumer;
+24 (ii) Modifications or alterations not authorized by the manufacturer;
+25 (iii) Normal wear;
+26 (iv) Normal use which may be resolved through a fitting adjustment, routine maintenance,
+27 preventative maintenance or proper care; or
+28 (v) A consumer's failure to follow any manufacturer's written service and maintenance
+29 guidelines furnished to the customer at the time of purchase.
+30 (25) “Prior authorization” means any requirement held by the payer that the covered person
+31 or the qualified complex rehabilitation technology supplier obtain written or verbal approval from
+32 the payer [or other insurer] before completing needed services or providing equipment to a covered
+33 person.
+34 (26) “Qualified complex rehabilitation technology professional” means an individual who
+LC000432/SUB A - Page 4 of 9
+
+1 is certified as an assistive technology professional (ATP) by a professional organization providing
+2 certification of assistive technology professions.
+3 (27) “Qualified complex rehabilitation technology supplier” or “supplier” means a
+4 company or entity that meets all of the following criteria:
+5 (i) Is accredited by a recognized accrediting organization as a supplier of complex
+6 rehabilitation technology;
+7 (ii) Is an employer of at least one qualified complex rehabilitation technology professional
+8 to analyze the needs and capacities of the complex needs consumer in consultation with qualified
+9 health care professionals, to participate in the selection of appropriate complex rehabilitation
+10 technology for those needs and capacities of the complex needs consumer, and to provide training
+11 in the proper use of the complex rehabilitation technology;
+12 (iii) Requires a qualified complex rehabilitation technology professional to be physically
+13 present for the evaluation and determination of appropriate complex rehabilitation technology for
+14 a complex needs consumer;
+15 (iv) Has the capability to provide service and repair by trained technicians for all complex
+16 rehabilitation technology it sells; and
+17 (v) Provides written information at the time of delivery of the complex rehabilitation
+18 technology to the complex needs consumer stating how the complex needs consumer may receive
+19 service and repair for the complex rehabilitation technology.
+20 (28) “Recipient” means a person receiving benefits under the state Medicaid program,
+21 including a person whose Medicaid eligibility is being redetermined.
+22 (29) “Third party payer” means an entity other than the consumer of healthcare supplier,
+23 that reimburses and manages health care expenses, such as insurance companies and government
+24 payers.
+25 (30) “Tools” means any software program, hardware, or other apparatus used in inspection,
+26 diagnosis, maintenance, or repair of powered wheelchairs, including software or other mechanisms
+27 that provision, program, or pair a new part, calibrate functionality, or perform any other function
+28 required to bring the product back to fully functional condition.
+29 (31) “Trade secret” shall have the same meaning as set forth in § 6-41-1.
+30 (32) “Trip/travel allowance” means compensation for travel to the recipient’s home or
+31 location for the purpose of facilitating a repair to a complex wheelchair.
+32 (33) “Warranty” means a guarantee made by a manufacturer regarding the integrity or
+33 condition of the product and the terms and conditions under which repairs, refunds, or exchanges
+34 shall be made if the product does not function as originally described or intended within a specified
+LC000432/SUB A - Page 5 of 9
+
+1 period.
+2 6-61-2. No prior authorization for repair of complex wheelchairs.
+3 (a) A health plan’s coverage and payment of complex wheelchair repairs shall not require:
+4 (1) A qualified complex rehabilitation technology supplier to obtain any form of prior
+5 authorization; or
+6 (2) Any medical documentation to complete repairs for consumer-owned complex
+7 rehabilitation technology.
+8 (b) The complex rehabilitation technology supplier shall maintain documentation of any
+9 repairs and/or maintenance completed for consumer-owned complex wheelchairs. Such
+10 documentation shall not be subject to general audits.
+11 6-61-3. Requirement for suppliers to service what they sell.
+12 A supplier who sells complex power or complex manual wheelchairs shall meet the criteria
+13 of a "qualified complex rehabilitation technology supplier", as defined in § 6-61-1 and for complex
+14 wheelchairs that a supplier has sold, the supplier is required to offer service and repairs during the
+15 wheelchair’s useful life expectancy, unless:
+16 (1) The consumer has moved outside of the original supplier's service area;
+17 (2) The damage that requires repair is the result of consumer abuse or misuse of the
+18 equipment that restricts coverage by the client's health plan, and the client refuses to pay for the
+19 repairs; or
+20 (3) The consumer or their representative poses a potential threat to the health and safety of
+21 the supplier or is otherwise abusive.
+22 6-61-4. Consumer access to parts -- Self repairs.
+23 (a) For the purpose of providing services for power wheelchair equipment, an original
+24 equipment manufacturer shall, with fair and reasonable terms and costs, make available, as defined
+25 in § 6-61-1, to an independent repair supplier or consumer of the manufacturer’s equipment,
+26 manufacturer documentation, parts, embedded software, firmware, or tools that are intended for
+27 use with the equipment or any part, including updates to documentation, parts, embedded software,
+28 firmware, or tools.
+29 (b) With respect to power wheelchair equipment that contains an electronic security lock
+30 or other security-related function, an original power wheelchair equipment manufacturer shall, with
+31 fair and reasonable terms and costs, make available to independent repair suppliers and owners any
+32 manufacturer documentation, parts, embedded software, firmware, or tools needed to reset the lock
+33 or function when disabled in the course of providing services. The manufacturer may make the
+34 documentation, parts, embedded software, firmware, or tools available to independent repair
+LC000432/SUB A - Page 6 of 9
+
+1 suppliers and consumers through appropriate secure release systems.
+2 (c) For powered wheelchairs, consumers can self-repair or have repairs performed by an
+3 independent repair supplier. This section shall not apply to any part(s) requiring programmability,
+4 calibration, or clinical involvement to ensure appropriate consumer seating and positioning. Items
+5 included in this section for powered wheelchairs shall include:
+6 (1) Batteries;
+7 (2) Battery chargers;
+8 (3) Nonprogrammable joysticks;
+9 (4) Joystick housings or brackets;
+10 (5) Wheel assembly;
+11 (6) Non-positioning accessories;
+12 (7) Anti-tip devices;
+13 (8) Armrests, excluding positioning components, designed for adjustment by a therapist or
+14 assistive technology professional;
+15 (9) Caster spheres;
+16 (10) Cosmetic shrouding; and
+17 (11) Nonpowered leg lowers.
+18 (d) This chapter does not require an original power wheelchair equipment manufacturer to
+19 divulge a trade secret, except as necessary to provide documentation, parts, tools, service access
+20 methods, and training courses and materials on fair and reasonable terms. An original equipment
+21 manufacturer may redact documentation to remove trade secrets from the documentation before
+22 providing access to the documentation if the usability of the redacted documentation for the purpose
+23 of providing services is not diminished. An original equipment manufacturer may withhold
+24 information regarding a component of, design of, functionality of, or process of developing a part,
+25 embedded software, firmware, or a tool if the information is a trade secret and the usability of the
+26 part, embedded software, firmware, or tool for the purpose of providing services is not diminished.
+27 (e) An original power wheelchair manufacturer which fails to produce a replacement part
+28 because the part is out of stock and the manufacturer is unable to obtain the part, shall not be subject
+29 to the penalties as provided in chapter 13.1 of title 6 if the original equipment manufacturer does
+30 the following:
+31 (1) Informs the consumer or independent repair provider that the part is out of stock, and,
+32 consequently, the manufacturer is unable to obtain the part; and
+33 (2) Makes the part available to the consumer or independent repair provider within five (5)
+34 business days of when the part becomes available.
+LC000432/SUB A - Page 7 of 9
+
+1 (f) An original equipment manufacturer is not liable for faulty or otherwise improper
+2 repairs provided by independent repair suppliers or owners, including faulty or otherwise improper
+3 repairs that cause any of the following:
+4 (1) Damage to a powered wheelchair that occurs during the repairs;
+5 (2) Any indirect, incidental, or consequential damages; or
+6 (3) An inability to use, or a reduced functionality of, a powered wheelchair resulting from
+7 faulty or otherwise improper repair.
+8 6-61-5. Rules and regulations.
+9 The department of business regulation may promulgate rules and regulations to implement
+10 and enforce the provisions of §§ 6-61-2, 6-61-3 and 6-61-2.
+11 6-61-6. Application and scope.
+12 (a) This chapter applies to the following classes of third-party payment supplier contracts,
+13 policies, or plans delivered, issued for delivery, continued, or renewed in this state on or after
+14 January 1, 2026:
+15 (1) Individual or group accident and sickness insurance providing coverage, pursuant to
+16 chapter 18 of title 27, on an expense incurred basis; and
+17 (2) An individual or group hospital, chapter 19 of title 27 or medical service contract issued
+18 pursuant to chapter 20 of title 27; and
+19 (3) An individual or group health maintenance organization contract regulated under
+20 chapter 41 of title 27; and
+21 (4) A plan established for public employees pursuant to chapter 12 of title 36; and
+22 (5) The medical assistance program under chapter 8 of title 40 including all managed care
+23 organizations acting pursuant to a contract with the executive office of health and human services
+24 to administer the medical assistance program.
+25 (b) The commissioner may promulgate rules and regulations to implement and enforce the
+26 provisions of this section.
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC000432/SUB A
+========
+LC000432/SUB A - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RIGHT TO CONSUMER ACCESS TO POWERED WHEELCHAIR REPAIRS
+***
+1 This act would provide that original power wheelchair equipment manufacturers would be
+2 required to provide to independent service providers repair information and tools to maintain and
+3 repair original power wheelchair equipment.
+4 This act would take effect upon passage.
+========
+LC000432/SUB A
+========
+LC000432/SUB A - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND B R D K B E G S S R C R 6 F ( a m g i o p w u t n o t o e m o o a o i h r (]
+[DELETED:  ( a ( b w l ( a f d a u t d o c r t a a a t H s c ( o s ( ( T o m f t p o m c w s M a a r f m c w r p r ( w ( “ b c p w m a r p w w ( p e ( “ m t i q f o a w ( p (]
+[DELETED:  d w a e c o e o w a p f t e f p o ( “ t m t a l d w a q t ( a ( “ a r t a c w r t o m d p e s f o t f a m p s t s ( c f ( F s t “ a r t a c a m a o t f ( ( W i i t a o u i t c o e t d m o r a w i t e a c p ( ( “ o s a m o d e o a r a d c i ( “ m a s p o s o i p o e i ( u ( s]
+[DELETED:  i o ( “ r p m a i o b o t t m e b ( e ( o c i b ( c i ( “ d m a c n l o m n p o o c d d t i o c m n ( v c ( ( ( ( p ( g ( o t p (]
+[DELETED:  i c ( “ c r t s o “ m a c ( I a b a r a o a a s o c r ( t h c p t p i t s o a c r t i ( p a ( r ( t s ( i ( t p ( d t r ( ( l ( c s]
+[DELETED:  p 6 ( ( a ( A m d t c r f c c r ( r a m c f c c w S d 6 A o w w ( ( e r ( t 6 ( e i § 6 t a i r o t m m u f ( o f m o d p e s f o t a t i r]
+[DELETED:  s ( i c i ( ( ( ( ( ( ( ( a ( ( ( ( d m m p o p s i n d A o e m m w i e p ( b t t ( c ( b]
+[DELETED:  ( r r ( ( ( f 6 T a 6 ( p J ( c ( p ( A i o g h m o c r u c ( ( o t ( p S]
+[DELETED:  T r r T]

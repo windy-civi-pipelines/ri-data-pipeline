@@ -1,0 +1,1072 @@
+Title: RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+Official Title: RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+Number of Sections: 1
+Source: versions - 5829
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5829
+========
+LC001964
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Felix, Potter, Morales, Alzate, Batista, Sanchez, Kislak,
+Stewart, Cruz, and Kazarian
+Date Introduced: February 28, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 21-28.11-3, 21-28.11-12.1 and 21-28.11-31 of the General Laws in
+2 Chapter 21-28.11 entitled "The Rhode Island Cannabis Act" are hereby amended to read as follows:
+3 21-28.11-3. Definitions.
+4 For purposes of this chapter, the following words, terms and phrases shall have the
+5 following meanings:
+6 (1) “Administrator” means the administrator of the cannabis office appointed by the
+7 governor pursuant to the provisions of § 21-28.11-18.1.
+8 (2) “Adult use cannabis” or “recreational cannabis” means cannabis which may be legally
+9 possessed and consumed for non-medical purposes by a person who is at least twenty-one (21)
+10 years of age.
+11 (3) “Applicant” means a Rhode Island resident or a business entity with a principal place
+12 of business located in Rhode Island to include, but not limited to, a corporation, limited liability
+13 company, limited liability partnership or partnership, and in which fifty-one percent (51%) of the
+14 equity in the business entity is owned by residents of Rhode Island, and the Rhode Island resident
+15 or business entity has made application for issuance of a license or certificate to own or engage in
+16 a cannabis business subject to the provisions of this chapter.
+17 (4) “Cannabinoid’' means any of several compounds produced by cannabis plants that have
+18 medical and psychotropic effects.
+19 (5) “Cannabinoid profile” means amounts, expressed as the dry-weight percentages, of
+1 delta-9-tetrahydrocannabinol, cannabidiol, tetrahydrocannabinolic acid and cannabidiolic acid in a
+2 cannabis product. Amounts of other cannabinoids may be regulated by the commission.
+3 (6) “Cannabis” or “marijuana” or “marihuana” means all parts of any plant of the genus
+4 cannabis not excepted herein, and whether growing or not; the seeds thereof; and resin extracted
+5 from any part of the plant; and every compound, manufacture, salt, derivative, mixture or
+6 preparation of the plant, its seeds or resin including tetrahydrocannabinol; provided, however, that
+7 “cannabis” shall not include:
+8 (i) The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from
+9 the seeds of the plant, any other compound, manufacture, salt, derivative, mixture or preparation of
+10 the mature stalks, fiber, oil or cake made from the seeds of the plant or the sterilized seed of the
+11 plant that is incapable of germination;
+12 (ii) Hemp; or
+13 (iii) The weight of any other ingredient combined with cannabis to prepare topical or oral
+14 administrations, food, drink or other products.
+15 (7) “Cannabis accessories” or “marijuana accessories” means equipment, products, devices
+16 or materials of any kind that are intended or designed for use in planting, propagating, cultivating,
+17 growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing,
+18 testing, analyzing, packaging, repackaging, storing, containing, ingesting, inhaling or otherwise
+19 introducing cannabis into the human body.
+20 (8) “Cannabis advisory board” or “advisory board” means the cannabis advisory board
+21 established pursuant to the provisions of § 21-28.11-6.
+22 (9) “Cannabis concentrate” means the resin extracted from any part of the plant of the
+23 genus cannabis and every compound, manufacture, salt, derivative, mixture or preparation of that
+24 resin but shall not include the weight of any other ingredient combined with cannabis to prepare
+25 cannabis products.
+26 (10) “Cannabis control commission” or “commission” means the Rhode Island cannabis
+27 control commission established by § 21-28.11-4.
+28 (11) “Cannabis cultivator” or “marijuana cultivator” means an entity licensed to cultivate,
+29 process and package cannabis, to deliver cannabis to cannabis establishments and to transfer
+30 cannabis to other cannabis establishments, but not to consumers.
+31 (12) “Cannabis establishment” or “marijuana establishment” means a cannabis cultivator,
+32 cannabis testing laboratory, cannabis product manufacturer, cannabis retailer, hybrid cannabis
+33 retailer or any other type of licensed cannabis-related business.
+34 (13) “Cannabis office” means the office established pursuant to § 21-28.11-18.1.
+LC001964 - Page 2 of 16
+1 (14) “Cannabis product manufacturer” or “marijuana product manufacturer”' means an
+2 entity licensed to obtain, manufacture, process and package cannabis and cannabis products, to
+3 deliver cannabis and cannabis products to cannabis establishments and to transfer cannabis and
+4 cannabis products to other cannabis establishments, but not to consumers.
+5 (15) “Cannabis products” or “marijuana products” means products that have been
+6 manufactured and contain cannabis or an extract from cannabis, including concentrated forms of
+7 cannabis and products composed of cannabis and other ingredients that are intended for use or
+8 consumption, including edible products, beverages, topical products, ointments, oils and tinctures.
+9 (16) “Cannabis retailer” or “marijuana retailer” means an entity licensed pursuant to § 21-
+10 28.11-10.2 to purchase and deliver cannabis and cannabis products from cannabis establishments
+11 and to deliver, sell or otherwise transfer cannabis and cannabis products to cannabis establishments
+12 and to consumers.
+13 (17) “Cannabis testing laboratory’' means a third-party analytical testing laboratory that is
+14 licensed annually by the commission, in consultation with the department of health, to collect and
+15 test samples of cannabis and cannabis products pursuant to regulations issued by the commission
+16 and is:
+17 (i) Independent financially from any medical cannabis treatment center or any licensee or
+18 cannabis establishment for which it conducts a test; and
+19 (ii) Qualified to test cannabis in compliance with regulations promulgated by the
+20 commission pursuant to this chapter. The term includes, but is not limited to, a cannabis testing
+21 laboratory as provided in § 21-28.11-11.
+22 (18) “Chairperson” means the chairperson of the cannabis control commission established
+23 pursuant to § 21-28.11-4.
+24 (19) “Close associate” means a person who holds a legally recognized financial interest in,
+25 or is entitled to exercise power in, the business of an applicant or licensee and, by virtue of that
+26 interest or power, is able to exercise a significant influence over the management or operation of a
+27 cannabis establishment licensed under this chapter.
+28 (20) “Consumer” means a person who is at least twenty-one (21) years of age, and who is
+29 authorized by law to consume or use cannabis.
+30 (21) “Controlling person” means an officer, board member or other individual who has a
+31 financial or voting interest of ten percent (10%) or greater in a cannabis establishment.
+32 (22) “Cultivation batch” means a collection of cannabis plants from the same seed or plant
+33 stock that are cultivated and harvested together, and receive an identical propagation and cultivation
+34 treatment, including, but not limited to: growing media, ambient conditions, watering and light
+LC001964 - Page 3 of 16
+1 regimes and agricultural or hydroponic inputs. Every cannabis cultivator licensee shall assign and
+2 record a unique, sequential alphanumeric identifier to each cultivation batch for the purposes of
+3 production tracking, product labeling and product recalls.
+4 (23) “Disproportionately impacted area” means a census tract or comparable geographic
+5 area that satisfies at least one of the following criteria as determined by the commission, that:
+6 (i) The area has a poverty rate of at least twenty percent (20%) according to the latest
+7 federal decennial census;
+8 (ii) Seventy-five percent (75%) or more of the children in the area participate in the federal
+9 free lunch program according to reported statistics from the Rhode Island board of education;
+10 (iii) At least twenty percent (20%) of the households in the area receive assistance under
+11 the Supplemental Nutrition Assistance Program (SNAP);
+12 (iv) The area has an average unemployment rate, as determined by the Rhode Island
+13 department of labor and training, that is more than one hundred twenty percent (120%) of the
+14 national unemployment average, as determined by the United States Department of Labor, for a
+15 period of at least two (2) consecutive calendar years preceding the date of the application; or
+16 (v)(A) The area has disproportionately high rates of arrest, conviction, and incarceration
+17 related to the sale, possession, use, cultivation, manufacture, or transportation of cannabis in
+18 comparison to other communities and localities in the state; or
+19 (B) The area has a history of arrests, convictions, and other law enforcement practices in a
+20 certain geographic area, such as, but not limited to, precincts, zip codes, neighborhoods, and
+21 political subdivisions, reflecting a disparate enforcement of cannabis prohibition during a certain
+22 time period, when compared to the remainder of the state.
+23 (vi) The commission shall, with recommendations from the cannabis advisory board and
+24 the chief equity officer, issue guidelines to determine how to assess which communities have been
+25 disproportionately impacted and how to assess if someone is a member of a community
+26 disproportionately impacted.
+27 (24) “Final issuance of the commission’s rules and regulations” means the rules and
+28 regulations adopted by the commission after compliance with requirements of chapter 35 of title
+29 42 (the “administrative procedures act”) and chapter 46 of title 42 (the “open meetings act”) and
+30 shall not include any emergency, provisional or interim rules, regulations, requirements, orders,
+31 instructions or procedures.
+32 (25) “Finished cannabis” means a usable cannabis, cannabis resin or cannabis concentrate.
+33 (26) “Hemp” means the plant of the genus cannabis or any part of the plant, whether
+34 growing or not, with a delta-9-tetrahydrocannabinol concentration that does not exceed three tenths
+LC001964 - Page 4 of 16
+1 of one percent (0.3%) on a dry weight basis of any part of the plant of the genus cannabis, or per
+2 volume or weight of cannabis product, or the combined per cent of delta-9-tetrahydrocannabinol
+3 and tetrahydrocannabinolic acid in any part of the plant of the genus cannabis regardless of moisture
+4 content.
+5 (27) “Host community” means a municipality in which a cannabis establishment or a
+6 medical cannabis treatment center is located or in which an applicant has proposed locating a
+7 cannabis establishment or a medical cannabis treatment center.
+8 (28) “Hybrid cannabis retailer” or “hybrid compassion center” means a compassion center
+9 licensed pursuant to chapter 28.6 of this title that is in good standing with the department of business
+10 regulation and that has paid the fee pursuant to § 21-28.11-10 and has been authorized to sell non-
+11 medical or adult use cannabis to consumers.
+12 (29) “Laboratory agent” means a registered employee of a cannabis testing laboratory who
+13 transports, possesses or tests cannabis.
+14 (30) “Licensee” means a person or entity licensed by the commission pursuant to the
+15 provisions of this chapter. Any business structure recognized under title 7, including, but not limited
+16 to, corporations, partnerships, limited partnerships, limited-liability companies, and workers’
+17 cooperatives, which is otherwise qualified, is eligible to be considered by the commission as an
+18 entity licensee.
+19 (31) “Manufacture” means to compound, blend, extract, infuse or otherwise make or
+20 prepare a cannabis product.
+21 (32) “Medical cannabis” means cannabis and cannabis products that satisfy the
+22 requirements of chapter 28.6 of this title and have been given the designation of “medical cannabis”
+23 or “medical marijuana” due to dose, potency and form. Medical cannabis products are only
+24 available for use by patient cardholders, and may only be sold to or possessed by patient
+25 cardholders, or their registered caregiver, or authorized purchaser in accordance with chapter 28.6
+26 of this title. Medical cannabis may not be sold to, possessed by, manufactured by, or used by any
+27 person except as permitted pursuant to chapter 28.6 of this title.
+28 (33) “Medical cannabis treatment center” or “Medical marijuana treatment center” includes
+29 a compassion center, a medical marijuana emporium, or marijuana establishment licensee who
+30 operates a treatment center, as defined in § 21-28.6-3.
+31 (34) “Member of an impacted family” means an individual who has a parent, legal
+32 guardian, child, spouse, or dependent, or was a dependent of an individual who, prior to the
+33 effective date of this chapter, was arrested for, charged with, convicted of, or adjudicated delinquent
+34 for any offense that is eligible for expungement under this chapter.
+LC001964 - Page 5 of 16
+1 (35) “Ownership and control” means ownership of at least fifty-one percent (51%) of the
+2 cannabis establishment, and control over the management and day-to-day operations of the
+3 cannabis establishment, and an interest in the capital, assets, and profits and losses of the cannabis
+4 establishment proportionate to percentage of ownership.
+5 (36) “Process” or “processing” means to harvest, dry, cure, trim and separate parts of the
+6 cannabis plant by manual or mechanical means, except it shall not include manufacture as defined
+7 in this section.
+8 (37) “Production batch” means a batch of finished plant material, cannabis resin, cannabis
+9 concentrate or cannabis-infused product made at the same time, using the same methods, equipment
+10 and ingredients. The commission shall require licensees to assign and record a unique, sequential
+11 alphanumeric identifier to each production batch for the purposes of production tracking, product
+12 labeling and product recalls. All production batches shall be traceable to one or more cannabis
+13 cultivation batches.
+14 (38) “Residual solvent” means a volatile organic chemical used in the manufacture of a
+15 cannabis product and that is not completely removed by practical manufacturing techniques.
+16 (39) “Social equity applicant” means an applicant that has been disproportionately
+17 impacted by criminal enforcement of marijuana laws, including individuals convicted of nonviolent
+18 marijuana offenses, immediate family members of individuals convicted of nonviolent marijuana
+19 offenses and individuals who have resided in disproportionately impacted areas for at least five (5)
+20 of the last ten (10) years, as determined by the commission after consultation with the cannabis
+21 advisory board, and further specified in the rules and regulations that shall identify factors and other
+22 considerations to be evaluated in certifying applicants as social equity applicants, provided that
+23 such applicants shall at a minimum meet one of the following criteria:
+24 (i) An applicant with at least fifty-one percent (51%) ownership and control by one or more
+25 individuals who have resided for at least five (5) of the preceding ten (10) years in a
+26 disproportionately impacted area.
+27 (ii) An applicant with at least fifty-one percent (51%) ownership and control by one or
+28 more individuals who:
+29 (A) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+30 eligible for expungement under this chapter; or
+31 (B) Is a member of an impacted family.
+32 (iii) For applicants with a minimum of ten (10) full-time employees, an applicant with at
+33 least fifty-one percent (51%) of current employees who:
+34 (A) Currently reside in a disproportionately impacted area; or
+LC001964 - Page 6 of 16
+1 (B) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+2 eligible for expungement under this chapter or is a member of an impacted family.
+3 (iv) Can demonstrate significant past experience in or business practices that promote
+4 economic empowerment in disproportionally impacted areas.
+5 (v) Had income which does not exceed four hundred percent (400%) of the median income,
+6 as defined by the commission, in a disproportionally impacted area for at least five (5) of the past
+7 ten (10) years.
+8 (40) “Terpenoid” means an isoprene that are the aromatic compounds found in cannabis,
+9 including, but not limited to: limonene, myrcene, pinene, linalool, eucalyptol, Δ-terpinene, ß-
+10 caryophyllene, caryophyllene oxide, nerolidol and phytol.
+11 (41) “Unreasonable and impracticable” means that the measures necessary to comply with
+12 the rules and regulations adopted pursuant to this chapter subject licensees to unreasonable risk or
+13 require such a high investment of money, time or any other resource or asset that a reasonably
+14 prudent businessperson would not operate a cannabis establishment.
+15 (42) “Workers’ cooperative” means an applicant organized and operated pursuant to the
+16 provisions of chapter 6.2 of title 7.
+17 21-28.11-12.1. Criminal record information — Permitted use.
+18 (a) The commission shall require all applicants for license and registration under this
+19 chapter to undergo a national criminal background check prior to issuing any license or registration.
+20 The applicant shall apply to the bureau of criminal identification of the department of attorney
+21 general, department of public safety division of state police, or local police department for a
+22 national background check that shall include fingerprints submitted to the Federal Bureau of
+23 Investigation. Upon the discovery of any criminal record information, the bureau of criminal
+24 identification of the department of attorney general, department of public safety division of state
+25 police, or the local police department shall inform the applicant, in writing, of the nature of the
+26 criminal record information. The bureau of criminal identification of the department of attorney
+27 general, department of public safety division of state police, or the local police department shall
+28 also inform the commission, in writing, of the nature of the criminal record information. In those
+29 situations in which no criminal record information has been found, the bureau of criminal
+30 identification of the department of attorney general, department of public safety division of state
+31 police, or the local police department shall inform the applicant and the commission, in writing, of
+32 this fact. The applicant shall be responsible for any expense associated with the national
+33 background check.
+34 (b) All applicants for license or registration have a duty to truthfully and fully disclose prior
+LC001964 - Page 7 of 16
+1 criminal convictions to the commission and any information the commission requests related to
+2 said convictions. If issued a license or registration by the commission, licensees have a continuing
+3 duty to truthfully and fully disclose any subsequent criminal convictions to the commission, along
+4 with any information the commission requests related to said convictions. Failure to do so may
+5 result in the denial, suspension, or revocation of a license or registration, and criminal prosecution
+6 pursuant to § 21-28.11-27 and/or other applicable law.
+7 (c) “Conviction” as used throughout this chapter shall have the same meaning as set forth
+8 in § 21-28.6-6(g).
+9 (d) No person shall be automatically disqualified to practice, pursue, or engage in any
+10 business or activity licensed or registered by the commission pursuant to the provisions of this
+11 chapter, solely relating to a prior conviction of a cannabis or marijuana possession crime or crimes
+12 unless:
+13 (1) The underlying crime or crimes involved the distribution of a controlled substance,
+14 including cannabis or marijuana, to a minor; or
+15 (2) The underlying crime or crimes substantially relates to the occupation to which the
+16 license or registration applies. Any other state law to the contrary will be superseded by this
+17 provision.
+18 (e) No occupational license or registration issued by the commission shall be suspended or
+19 revoked, solely or in part, because of a prior or subsequent possession of cannabis or marijuana
+20 offense conviction of a crime or crimes unless the underlying crime or crimes substantially relate
+21 to the occupation to which the license or registration applies. Any other state law to the contrary
+22 will be superseded by this provision.
+23 (f) A person who has been convicted of a crime may be disqualified to practice, pursue or
+24 engage in any business activity licensed by the commission pursuant to this chapter or chapter 28.6
+25 of this title if the commission determines that the circumstances of the conviction are substantially
+26 related to the occupation for which the license or registration is sought. In determining if a
+27 conviction substantially relates to the occupation for which the license or registration is sought, the
+28 commission shall consider:
+29 (1) The state’s legitimate interest in protecting the property and the safety and welfare of
+30 specific individuals or the general public;
+31 (2) The relationship of the crime or crimes to the ability, capacity, and fitness required to
+32 perform the duties and discharge the responsibilities of the position of employment or occupation;
+33 and
+34 (3) The state’s legitimate interest in equal access to employment for individuals who have
+LC001964 - Page 8 of 16
+1 had past contact with the criminal justice system.
+2 (g) A person who has been convicted of a crime or crimes that substantially relates to the
+3 occupation for which a license is sought may not be automatically disqualified from the occupation
+4 if the person can establish by competent evidence, satisfactory in the discretion of the commission,
+5 of sufficient rehabilitation and present fitness to perform the duties of the occupation for which the
+6 license is sought. The commission shall consider the time elapsed since the conviction when
+7 determining sufficient rehabilitation, specifically, convictions issued prior to five (5) years before
+8 the date of the application shall be deemed evidence of sufficient rehabilitation, as well as any
+9 evidence presented by the applicant regarding:
+10 (1) Completion of a period of at least two (2) years after release from imprisonment, or at
+11 least two (2) years after the sentencing date for a probation sentence or suspended sentence not
+12 accompanied by incarceration, without subsequent conviction or pending criminal charge;
+13 (2) The nature, seriousness, and relevance of the crime or crimes for which convicted;
+14 (3) All circumstances relative to the crime or crimes, including mitigating circumstances
+15 surrounding the commission of the crime or crimes;
+16 (4) The age of the person at the time the crime or crimes were committed;
+17 (5) Claims that the criminal record information is in error or inadmissible; and
+18 (6) All other competent evidence of rehabilitation and present fitness presented, including,
+19 but not limited to, letters of reference by persons who have been in contact with the applicant since
+20 the applicant’s release from any state or federal correctional institution.
+21 (h) The following criminal records may shall not be used in connection with any
+22 application for a license or registration submitted pursuant to the provisions of this chapter:
+23 (1) Juvenile adjudications;
+24 (2) Records of arrest not followed by a conviction;
+25 (3) Convictions that have been, pursuant to law, annulled or expunged;
+26 (4) Misdemeanor convictions for which no jail sentence can be imposed; or
+27 (5) A conviction that does not substantially relate to the occupation for which the license
+28 or registration is sought, as determined by subsection (f) of this section.
+29 (i) If the commission intends to deny, suspend, or revoke an occupational license, permit,
+30 or registration solely or in part because of the individual’s prior conviction of a crime that is
+31 determined to be substantially related to the occupation for which the license or registration applies,
+32 the commission shall notify the individual in writing of the following prior to the final decision:
+33 (1) The specific conviction(s) that forms the basis for the potential denial, suspension, or
+34 revocation and the rationale for deeming the conviction substantially related to the occupation or
+LC001964 - Page 9 of 16
+1 activity;
+2 (2) A copy of the conviction history report, if any, on which the commission relies;
+3 (3) A statement that the applicant may provide evidence of mitigation or rehabilitation, as
+4 described in subsection (g) of this section; and
+5 (4) Instructions on how to respond to the potential denial, suspension, or revocation.
+6 (j) After receiving the notice of potential denial, suspension, or revocation, the individual
+7 shall have thirty (30) business days to respond.
+8 (k) If the commission denies, suspends, or revokes a license or registration solely or in part
+9 because of the applicant’s substantially related conviction, the commission shall issue a final
+10 written decision that addresses the following:
+11 (1) The specific conviction(s) that form the basis for the denial, suspension, or revocation
+12 and the rationale for deeming the conviction(s) substantially related to the occupation or activity;
+13 (2) A copy of the conviction history report, if any, on which the commission relies;
+14 (3) The process for appealing the decision in accordance with chapter 35 of title 42; and
+15 (4) The earliest date the person may reapply for license or registration which shall not be
+16 longer than two (2) years from the date of the final decision.
+17 (l) Notwithstanding any general or special law to the contrary, except as otherwise provided
+18 in this chapter, any prior conviction for a crime that has been decriminalized, or is eligible for
+19 expungement pursuant to the provisions of this chapter cannot serve as grounds, either solely or in
+20 part, for denial, suspension or revocation of a license or registration pursuant to this chapter.
+21 (m) The commission shall adopt rules and regulations establishing standards and
+22 procedures consistent with the provisions of this section.
+23 21-28.11-31. Social equity assistance program and fund.
+24 (a)(1) Findings. The general assembly finds that additional efforts are needed to reduce
+25 barriers to ownership and/or participation in the cannabis industry for individuals and communities
+26 most adversely impacted by the enforcement of cannabis-related laws.
+27 (2) In the interest of establishing a legal cannabis industry that is equitable and accessible
+28 to those most adversely impacted by the enforcement of cannabis-related laws, the general
+29 assembly finds and declares that a social equity program should be established.
+30 (3) The general assembly also finds and declares that individuals who have been arrested
+31 or incarcerated due to cannabis related laws suffer long-lasting negative consequences, including
+32 impacts to employment, business ownership, housing, health, and long-term financial well-being.
+33 (4) The general assembly also finds and declares that family members, especially children,
+34 and communities of those who have been arrested or incarcerated due to cannabis related laws,
+LC001964 - Page 10 of 16
+1 suffer from emotional, psychological, and financial harms as a result of such arrests or
+2 incarcerations.
+3 (5) Furthermore, the general assembly finds and declares that certain communities have
+4 disproportionately suffered the harms of enforcement of cannabis-related laws. Those communities
+5 face greater difficulties accessing capital to finance the start-up costs for cannabis establishments.
+6 (6) The general assembly also finds that individuals who have resided in areas of high
+7 poverty suffer negative consequences, including barriers to entry in employment, business
+8 ownership, housing, health, and long-term financial well-being.
+9 (7) The general assembly also finds and declares that promotion of business ownership by
+10 individuals who have resided in areas of high poverty and high enforcement of cannabis-related
+11 laws furthers a more equitable cannabis industry.
+12 (8) Therefore, in the interest of mitigating the harms resulting from the enforcement of
+13 cannabis-related laws, the general assembly finds and declares that a social equity program should
+14 offer, among other things, business assistance and license application benefits to individuals most
+15 directly and adversely impacted by the enforcement of cannabis-related laws who are interested in
+16 establishing or participating in a cannabis business entity.
+17 (9) Therefore, in the interest of mitigating the emotional, psychological, and financial
+18 harms resulting from the enforcement of cannabis-related laws, the general assembly finds and
+19 declares that some revenue from the cannabis industry should be returned to disproportionately
+20 impacted areas.
+21 (i) A dedicated disproportionately impacted areas investment fund shall be established
+22 within the general fund, separate and apart from other state monies subject to appropriation. This
+23 fund shall be used for the following purposes:
+24 (A) To provide funding for the development of public housing including, grants for
+25 beautification initiatives, development of affordable housing, tenant-led housing co-ops,
+26 emergency rent assistance, legal defense fund, rent-to-own programs, and homeownership
+27 programs in disproportionately impacted areas as determined by the commission.
+28 (B) To provide funding for early and public education including, funding to social workers
+29 and mental health counselors in public schools, youth development programs, nonprofits geared
+30 towards youth and education, expanding access to high-quality Pre-k, expanding the budget for
+31 public schools, facility upgrades including, tech, theater, sports, STEM, and arts programs after-
+32 school and extracurricular programs, scholarships for college tuition and vocational trainings,
+33 internship stipends, early childhood and out-of-school time (OST) programs focused on equitable
+34 access to early learning opportunities, academic support, enrichment activities, social-emotional
+LC001964 - Page 11 of 16
+1 learning (SEL) and workforce development, parent and caregiver education program especially for
+2 parents who were previously incarcerated, and teacher recruitment and retention programs in
+3 disproportionately impacted areas as determined by the commission.
+4 (C) To provide funding for health subsidies including, improving and establishing clinics
+5 and mobile health units, mental health treatment, safe-use sites, maternal and child health services,
+6 upkeep and development of community gardens, food education and nutrition classes, sexual health
+7 education and resources, health literacy programs, and in-home health services for elderly and
+8 disabled residents in disproportionately impacted areas as determined by the commission
+9 (b) There is created in the state treasury within the general fund, a fund which shall be held
+10 separate and apart from all other state monies, to be known as the social equity assistance fund.
+11 The social equity assistance fund, subject to appropriation, shall be exclusively used for the
+12 following purposes A dedicated social equity assistance fund shall be established within the general
+13 fund, separate and apart from other state monies subject to appropriation. This fund shall be used
+14 for the following purposes:
+15 (1) To provide grants to approved social equity applicants to pay for ordinary and necessary
+16 expenses to establish and/or operate a cannabis establishment, and to also further promote the goals
+17 of this chapter, including without limitation, job training and workforce development, mentoring
+18 services and technical assistance;
+19 (2) To support the waiver or reduction of application and licensing fees pursuant to this
+20 section for social equity applicants; and
+21 (3) To implement and administer programming for restorative justice, jail diversion, drug
+22 rehabilitation and education workforce development for jobs related to cannabis cultivation,
+23 transportation, distribution and sales.
+24 (c) The social equity assistance fund shall be subject to appropriation. The fund shall
+25 consist of all monies received on account of the state as a result of application for, and licensing of,
+26 individuals and entities pursuant to the provisions of this chapter, exclusive of licensing fees paid
+27 pursuant to the provisions of chapter 28.6 of this title. Additionally, except as otherwise provided,
+28 the fund shall consist of all administrative penalties received for violations of this chapter, except
+29 tax violations and interest earned on balances in the fund and disproportionately impacted areas
+30 investment fund shall be subject to appropriation. Both funds shall consist of all monies received
+31 on account of the state as a result of application for, and licensing of, individuals and entities
+32 pursuant to the provisions of this chapter; as well as a portion of the state cannabis excise tax as
+33 determined in § 44-70-5. Furthermore, both funds shall consist of all civil penalties received for
+34 violations of this chapter, including tax violations and interest earned on balances in the funds.
+LC001964 - Page 12 of 16
+1 (d) The commission shall administer the social equity assistance fund and the authorized
+2 disbursement of funds, as appropriated by the general assembly. In consultation with the cannabis
+3 advisory board, the commission shall promulgate rules and regulations establishing the criteria,
+4 eligibility, qualifications and process for administering the disbursement of funds from the social
+5 equity assistance fund.
+6 (e) Reporting. Beginning September 1, 2023, and each year thereafter, the commission
+7 shall annually report to the governor and the general assembly on the outcomes and effectiveness
+8 of this section that shall include, but not be limited to, the following:
+9 (1) The number of persons or businesses receiving assistance under this section;
+10 (2) The amount in financial assistance awarded in the aggregate, in addition to the amount
+11 of grants awarded; and
+12 (3) If applicable, the number of new jobs and other forms of economic impact created as a
+13 result of assistance from the social equity assistance fund.
+14 (f) Fee waivers.
+15 (1) For social equity applicants as defined in § 21-28.11-3, the commission may waive up
+16 to one hundred percent (100%) of any nonrefundable license application fees or any nonrefundable
+17 fees associated with acquiring a license to operate a cannabis establishment, pursuant to rules and
+18 regulations promulgated by the commission in consultation with the cannabis advisory board.
+19 (2) If the commission determines that an applicant who applied as a social equity applicant
+20 is not eligible for social equity status, the applicant shall be provided an additional ten (10) days to
+21 provide alternative evidence that the applicant qualifies as a social equity applicant. Alternatively,
+22 the applicant may pay all required fees and be considered as a non-social equity applicant. If the
+23 applicant cannot do either, then any application fee shall be returned and the application process
+24 shall be terminated.
+25 (g) Transfers of cannabis establishment licenses awarded to a social equity applicant are
+26 subject to all other provisions of this chapter, and applicable law; provided however, that a license
+27 issued to a social equity applicant shall only be transferred to another qualified social equity
+28 applicant as determined and approved by the commission.
+29 (h) Reporting.
+30 (1) By September 1, 2023, and on the first day of September of every year thereafter, or
+31 upon request by the commission, each cannabis establishment licensed under this chapter and § 21-
+32 28.6-12 (“The Edward O. Hawkins and Thomas C. Slater Medical Marijuana Act”) shall report to
+33 the commission, on a form to be provided by the commission, information that will allow it to
+34 assess the extent of diversity in the medical and adult use cannabis industry and methods for further
+LC001964 - Page 13 of 16
+1 reducing or eliminating any identified barriers to entry, including without limitation, access to
+2 capital.
+3 (2) Failure of a cannabis establishment to respond to the request of the commission to
+4 complete the form, report, and any other request for information may be grounds for disciplinary
+5 action by the commission pursuant to this chapter. The information to be collected shall identify,
+6 without limitation, the following:
+7 (i) The number and percentage of licenses provided to social equity applicants;
+8 (ii) The total number and percentage of employees in the cannabis industry who meet the
+9 criteria in the definition of social equity applicant; and
+10 (iii) Recommendations on reducing or eliminating any identified barriers to entry,
+11 including access to capital, in the cannabis industry.
+12 SECTION 2. Section 44-70-5 of the General Laws in Chapter 44-70 entitled "Cannabis
+13 Tax" is hereby amended to read as follows:
+14 44-70-5. Application of tax revenue.
+15 The administrator shall deposit revenue collected pursuant to this chapter from the state
+16 cannabis excise tax or associated amounts as penalties, forfeitures, interest, costs of suit, and fines
+17 for failure to timely report or pay the state cannabis excise tax into the marijuana trust fund pursuant
+18 to § 21-28.11-13(d) and revenue from the sales tax into the general fund fifty percent (50%) of the
+19 revenue collected pursuant to this chapter from the state cannabis excise tax or associated amounts
+20 as penalties, forfeitures, interest, costs of suit, and fines for failure to timely report or pay the state
+21 cannabis excise tax into the marijuana trust fund pursuant to § 21-28.11-13(d) and one hundred
+22 percent (100%) of the revenue from the sales tax into the general fund. The administrator shall
+23 deposit the other fifty percent (50%) of revenue collected pursuant to this chapter from the state
+24 cannabis excise tax or associated amounts as penalties, forfeitures, interest, costs of suit, and fines
+25 for failure to timely report or pay the state cannabis excise tax into the social equity assistance fund
+26 and disproportionately impacted areas investment fund. For five (5) consecutive years, seventy-
+27 five percent (75%) of the allotted state cannabis excise tax shall be deposited into the social equity
+28 assistance fund and twenty-five percent (25%) of the allotted state cannabis excise tax shall be
+29 deposited into the disproportionately impacted areas investment fund. After those initial five (5)
+30 years, fifty percent (50%) of the allotted state cannabis excise tax shall be deposited into the social
+31 equity assistance fund and fifty percent (50%) of the allotted state cannabis excise tax shall be
+32 deposited into the disproportionately impacted areas fund in perpetuity.
+LC001964 - Page 14 of 16
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC001964
+========
+LC001964 - Page 15 of 16
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+***
+1 This act would make several amendments to the cannabis act relating to applications for
+2 licensure, the social equity assistance program and the application of cannabis tax revenue.
+3 This act would take effect upon passage.
+========
+LC001964
+========
+LC001964 - Page 16 of 16
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 F p o t c t f w t a p s h t f ( “ m t a o t c o a b t g ( p y ( o c e o a ( m (]
+[DELETED:  d c ( c f a p o t p a e c m s d m o p “ ( t t p ( ( a ( o g t i ( e ( g r c ( c ( p a p c t d c t c e a t t c ( c l c m r h c r (]
+[DELETED:  ( e d c ( “ p o “ p m p t h b m c c ( 2 a a ( l t a ( c ( Q t t c i c w r p b t c l ( p ( o i c ( a ( f ( s t]
+[DELETED:  r r p ( a ( f ( f ( t ( a h u r a d b t R I d n p ( r t t s p u c m o t o c i c ( c g a s a b l p z n p t ( t d i a h t a i s i a m o a c d ( “ i o t c r a r m t r a r 4 s i ( ( g]
+[DELETED:  o v a c ( a m c ( l r m ( t ( p t c p l p l c a w c e ( “ m t c b e i o o m o p ( “ c m c a c p t s t r o “ m d t d p a f M c p a o a f u b p c a m o b s t o p b p c o p ( a o ( “ o a i f m a i w h a p l g e f]
+[DELETED:  ( c e a c o t m a d o o t c e ( c i ( c a a l c ( c ( “ e a m a a t h b d i m o o a c s ( i w h r f a l f ( o t p t ( y i a d ( m ( e ( ( l (]
+[DELETED:  ( e ( e ( a t ( i c ( t r p ( p 2 ( c T g n b c t s i f s t t F B o I U t d o a c r t b o c i p c g a s i w n c r i h b f t b o c i p t f T a s b r f a e a w t n b (]
+[DELETED:  c s d w r p ( i ( b c u ( i ( l p ( r o t w ( e o r t t o f w t l o r i s I d i a c c ( s ( p a (]
+[DELETED:  h ( o i o l d t e ( l a ( ( s ( ( ( b t ( T f c r m s n b u i c w a a ( ( ( ( ( o ( o d t ( r]
+[DELETED:  a ( ( d ( ( s ( b o s r c t c s i a w ( a ( ( ( l ( i e p ( T c s a r a r e s a p 2 ( b m ( t t m a i b t e o c l t g a ( o i ( a]
+[DELETED:  s f e p a f h a a r o s a o i ( d f ( p s n c i b t e i e b o ( i l ( c o d e ( h d i ( w f ( T p f f t d o p h i g f b i d o a h t h c e r a l d f r p a h p ( a t p s a e p s c t a v i a]
+[DELETED:  l p w w p i a t r a r p i d ( a u e d ( s T s e a f s t a s b e u f t f f f ( e o s ( s ( r a e w d f j r t c c t ( c i p t t i o p d v]
+[DELETED:  ( d a e e ( s o ( ( o ( r ( ( t f r ( i p t a s ( s i a ( ( u 2 t a]
+[DELETED:  r c ( c a w ( ( c ( R o r o e a i b t e i S T 4 T c f t r a c p d c f a f a d y e d ]
+[DELETED:  S]
+[DELETED:  T l T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5829
+========
+LC001964
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+Introduced By: Representatives Felix, Potter, Morales, Alzate, Batista, Sanchez, Kislak,
+Stewart, Cruz, and Kazarian
+Date Introduced: February 28, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 21-28.11-3, 21-28.11-12.1 and 21-28.11-31 of the General Laws in
+2 Chapter 21-28.11 entitled "The Rhode Island Cannabis Act" are hereby amended to read as follows:
+3 21-28.11-3. Definitions.
+4 For purposes of this chapter, the following words, terms and phrases shall have the
+5 following meanings:
+6 (1) “Administrator” means the administrator of the cannabis office appointed by the
+7 governor pursuant to the provisions of § 21-28.11-18.1.
+8 (2) “Adult use cannabis” or “recreational cannabis” means cannabis which may be legally
+9 possessed and consumed for non-medical purposes by a person who is at least twenty-one (21)
+10 years of age.
+11 (3) “Applicant” means a Rhode Island resident or a business entity with a principal place
+12 of business located in Rhode Island to include, but not limited to, a corporation, limited liability
+13 company, limited liability partnership or partnership, and in which fifty-one percent (51%) of the
+14 equity in the business entity is owned by residents of Rhode Island, and the Rhode Island resident
+15 or business entity has made application for issuance of a license or certificate to own or engage in
+16 a cannabis business subject to the provisions of this chapter.
+17 (4) “Cannabinoid’' means any of several compounds produced by cannabis plants that have
+18 medical and psychotropic effects.
+19 (5) “Cannabinoid profile” means amounts, expressed as the dry-weight percentages, of
+
+1 delta-9-tetrahydrocannabinol, cannabidiol, tetrahydrocannabinolic acid and cannabidiolic acid in a
+2 cannabis product. Amounts of other cannabinoids may be regulated by the commission.
+3 (6) “Cannabis” or “marijuana” or “marihuana” means all parts of any plant of the genus
+4 cannabis not excepted herein, and whether growing or not; the seeds thereof; and resin extracted
+5 from any part of the plant; and every compound, manufacture, salt, derivative, mixture or
+6 preparation of the plant, its seeds or resin including tetrahydrocannabinol; provided, however, that
+7 “cannabis” shall not include:
+8 (i) The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from
+9 the seeds of the plant, any other compound, manufacture, salt, derivative, mixture or preparation of
+10 the mature stalks, fiber, oil or cake made from the seeds of the plant or the sterilized seed of the
+11 plant that is incapable of germination;
+12 (ii) Hemp; or
+13 (iii) The weight of any other ingredient combined with cannabis to prepare topical or oral
+14 administrations, food, drink or other products.
+15 (7) “Cannabis accessories” or “marijuana accessories” means equipment, products, devices
+16 or materials of any kind that are intended or designed for use in planting, propagating, cultivating,
+17 growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing,
+18 testing, analyzing, packaging, repackaging, storing, containing, ingesting, inhaling or otherwise
+19 introducing cannabis into the human body.
+20 (8) “Cannabis advisory board” or “advisory board” means the cannabis advisory board
+21 established pursuant to the provisions of § 21-28.11-6.
+22 (9) “Cannabis concentrate” means the resin extracted from any part of the plant of the
+23 genus cannabis and every compound, manufacture, salt, derivative, mixture or preparation of that
+24 resin but shall not include the weight of any other ingredient combined with cannabis to prepare
+25 cannabis products.
+26 (10) “Cannabis control commission” or “commission” means the Rhode Island cannabis
+27 control commission established by § 21-28.11-4.
+28 (11) “Cannabis cultivator” or “marijuana cultivator” means an entity licensed to cultivate,
+29 process and package cannabis, to deliver cannabis to cannabis establishments and to transfer
+30 cannabis to other cannabis establishments, but not to consumers.
+31 (12) “Cannabis establishment” or “marijuana establishment” means a cannabis cultivator,
+32 cannabis testing laboratory, cannabis product manufacturer, cannabis retailer, hybrid cannabis
+33 retailer or any other type of licensed cannabis-related business.
+34 (13) “Cannabis office” means the office established pursuant to § 21-28.11-18.1.
+LC001964 - Page 2 of 16
+
+1 (14) “Cannabis product manufacturer” or “marijuana product manufacturer”' means an
+2 entity licensed to obtain, manufacture, process and package cannabis and cannabis products, to
+3 deliver cannabis and cannabis products to cannabis establishments and to transfer cannabis and
+4 cannabis products to other cannabis establishments, but not to consumers.
+5 (15) “Cannabis products” or “marijuana products” means products that have been
+6 manufactured and contain cannabis or an extract from cannabis, including concentrated forms of
+7 cannabis and products composed of cannabis and other ingredients that are intended for use or
+8 consumption, including edible products, beverages, topical products, ointments, oils and tinctures.
+9 (16) “Cannabis retailer” or “marijuana retailer” means an entity licensed pursuant to § 21-
+10 28.11-10.2 to purchase and deliver cannabis and cannabis products from cannabis establishments
+11 and to deliver, sell or otherwise transfer cannabis and cannabis products to cannabis establishments
+12 and to consumers.
+13 (17) “Cannabis testing laboratory’' means a third-party analytical testing laboratory that is
+14 licensed annually by the commission, in consultation with the department of health, to collect and
+15 test samples of cannabis and cannabis products pursuant to regulations issued by the commission
+16 and is:
+17 (i) Independent financially from any medical cannabis treatment center or any licensee or
+18 cannabis establishment for which it conducts a test; and
+19 (ii) Qualified to test cannabis in compliance with regulations promulgated by the
+20 commission pursuant to this chapter. The term includes, but is not limited to, a cannabis testing
+21 laboratory as provided in § 21-28.11-11.
+22 (18) “Chairperson” means the chairperson of the cannabis control commission established
+23 pursuant to § 21-28.11-4.
+24 (19) “Close associate” means a person who holds a legally recognized financial interest in,
+25 or is entitled to exercise power in, the business of an applicant or licensee and, by virtue of that
+26 interest or power, is able to exercise a significant influence over the management or operation of a
+27 cannabis establishment licensed under this chapter.
+28 (20) “Consumer” means a person who is at least twenty-one (21) years of age, and who is
+29 authorized by law to consume or use cannabis.
+30 (21) “Controlling person” means an officer, board member or other individual who has a
+31 financial or voting interest of ten percent (10%) or greater in a cannabis establishment.
+32 (22) “Cultivation batch” means a collection of cannabis plants from the same seed or plant
+33 stock that are cultivated and harvested together, and receive an identical propagation and cultivation
+34 treatment, including, but not limited to: growing media, ambient conditions, watering and light
+LC001964 - Page 3 of 16
+
+1 regimes and agricultural or hydroponic inputs. Every cannabis cultivator licensee shall assign and
+2 record a unique, sequential alphanumeric identifier to each cultivation batch for the purposes of
+3 production tracking, product labeling and product recalls.
+4 (23) “Disproportionately impacted area” means a census tract or comparable geographic
+5 area that satisfies at least one of the following criteria as determined by the commission, that:
+6 (i) The area has a poverty rate of at least twenty percent (20%) according to the latest
+7 federal decennial census;
+8 (ii) Seventy-five percent (75%) or more of the children in the area participate in the federal
+9 free lunch program according to reported statistics from the Rhode Island board of education;
+10 (iii) At least twenty percent (20%) of the households in the area receive assistance under
+11 the Supplemental Nutrition Assistance Program (SNAP);
+12 (iv) The area has an average unemployment rate, as determined by the Rhode Island
+13 department of labor and training, that is more than one hundred twenty percent (120%) of the
+14 national unemployment average, as determined by the United States Department of Labor, for a
+15 period of at least two (2) consecutive calendar years preceding the date of the application; or
+16 (v)(A) The area has disproportionately high rates of arrest, conviction, and incarceration
+17 related to the sale, possession, use, cultivation, manufacture, or transportation of cannabis in
+18 comparison to other communities and localities in the state; or
+19 (B) The area has a history of arrests, convictions, and other law enforcement practices in a
+20 certain geographic area, such as, but not limited to, precincts, zip codes, neighborhoods, and
+21 political subdivisions, reflecting a disparate enforcement of cannabis prohibition during a certain
+22 time period, when compared to the remainder of the state.
+23 (vi) The commission shall, with recommendations from the cannabis advisory board and
+24 the chief equity officer, issue guidelines to determine how to assess which communities have been
+25 disproportionately impacted and how to assess if someone is a member of a community
+26 disproportionately impacted.
+27 (24) “Final issuance of the commission’s rules and regulations” means the rules and
+28 regulations adopted by the commission after compliance with requirements of chapter 35 of title
+29 42 (the “administrative procedures act”) and chapter 46 of title 42 (the “open meetings act”) and
+30 shall not include any emergency, provisional or interim rules, regulations, requirements, orders,
+31 instructions or procedures.
+32 (25) “Finished cannabis” means a usable cannabis, cannabis resin or cannabis concentrate.
+33 (26) “Hemp” means the plant of the genus cannabis or any part of the plant, whether
+34 growing or not, with a delta-9-tetrahydrocannabinol concentration that does not exceed three tenths
+LC001964 - Page 4 of 16
+
+1 of one percent (0.3%) on a dry weight basis of any part of the plant of the genus cannabis, or per
+2 volume or weight of cannabis product, or the combined per cent of delta-9-tetrahydrocannabinol
+3 and tetrahydrocannabinolic acid in any part of the plant of the genus cannabis regardless of moisture
+4 content.
+5 (27) “Host community” means a municipality in which a cannabis establishment or a
+6 medical cannabis treatment center is located or in which an applicant has proposed locating a
+7 cannabis establishment or a medical cannabis treatment center.
+8 (28) “Hybrid cannabis retailer” or “hybrid compassion center” means a compassion center
+9 licensed pursuant to chapter 28.6 of this title that is in good standing with the department of business
+10 regulation and that has paid the fee pursuant to § 21-28.11-10 and has been authorized to sell non-
+11 medical or adult use cannabis to consumers.
+12 (29) “Laboratory agent” means a registered employee of a cannabis testing laboratory who
+13 transports, possesses or tests cannabis.
+14 (30) “Licensee” means a person or entity licensed by the commission pursuant to the
+15 provisions of this chapter. Any business structure recognized under title 7, including, but not limited
+16 to, corporations, partnerships, limited partnerships, limited-liability companies, and workers’
+17 cooperatives, which is otherwise qualified, is eligible to be considered by the commission as an
+18 entity licensee.
+19 (31) “Manufacture” means to compound, blend, extract, infuse or otherwise make or
+20 prepare a cannabis product.
+21 (32) “Medical cannabis” means cannabis and cannabis products that satisfy the
+22 requirements of chapter 28.6 of this title and have been given the designation of “medical cannabis”
+23 or “medical marijuana” due to dose, potency and form. Medical cannabis products are only
+24 available for use by patient cardholders, and may only be sold to or possessed by patient
+25 cardholders, or their registered caregiver, or authorized purchaser in accordance with chapter 28.6
+26 of this title. Medical cannabis may not be sold to, possessed by, manufactured by, or used by any
+27 person except as permitted pursuant to chapter 28.6 of this title.
+28 (33) “Medical cannabis treatment center” or “Medical marijuana treatment center” includes
+29 a compassion center, a medical marijuana emporium, or marijuana establishment licensee who
+30 operates a treatment center, as defined in § 21-28.6-3.
+31 (34) “Member of an impacted family” means an individual who has a parent, legal
+32 guardian, child, spouse, or dependent, or was a dependent of an individual who, prior to the
+33 effective date of this chapter, was arrested for, charged with, convicted of, or adjudicated delinquent
+34 for any offense that is eligible for expungement under this chapter.
+LC001964 - Page 5 of 16
+
+1 (35) “Ownership and control” means ownership of at least fifty-one percent (51%) of the
+2 cannabis establishment, and control over the management and day-to-day operations of the
+3 cannabis establishment, and an interest in the capital, assets, and profits and losses of the cannabis
+4 establishment proportionate to percentage of ownership.
+5 (36) “Process” or “processing” means to harvest, dry, cure, trim and separate parts of the
+6 cannabis plant by manual or mechanical means, except it shall not include manufacture as defined
+7 in this section.
+8 (37) “Production batch” means a batch of finished plant material, cannabis resin, cannabis
+9 concentrate or cannabis-infused product made at the same time, using the same methods, equipment
+10 and ingredients. The commission shall require licensees to assign and record a unique, sequential
+11 alphanumeric identifier to each production batch for the purposes of production tracking, product
+12 labeling and product recalls. All production batches shall be traceable to one or more cannabis
+13 cultivation batches.
+14 (38) “Residual solvent” means a volatile organic chemical used in the manufacture of a
+15 cannabis product and that is not completely removed by practical manufacturing techniques.
+16 (39) “Social equity applicant” means an applicant that has been disproportionately
+17 impacted by criminal enforcement of marijuana laws, including individuals convicted of nonviolent
+18 marijuana offenses, immediate family members of individuals convicted of nonviolent marijuana
+19 offenses and individuals who have resided in disproportionately impacted areas for at least five (5)
+20 of the last ten (10) years, as determined by the commission after consultation with the cannabis
+21 advisory board, and further specified in the rules and regulations that shall identify factors and other
+22 considerations to be evaluated in certifying applicants as social equity applicants, provided that
+23 such applicants shall at a minimum meet one of the following criteria:
+24 (i) An applicant with at least fifty-one percent (51%) ownership and control by one or more
+25 individuals who have resided for at least five (5) of the preceding ten (10) years in a
+26 disproportionately impacted area.
+27 (ii) An applicant with at least fifty-one percent (51%) ownership and control by one or
+28 more individuals who:
+29 (A) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+30 eligible for expungement under this chapter; or
+31 (B) Is a member of an impacted family.
+32 (iii) For applicants with a minimum of ten (10) full-time employees, an applicant with at
+33 least fifty-one percent (51%) of current employees who:
+34 (A) Currently reside in a disproportionately impacted area; or
+LC001964 - Page 6 of 16
+
+1 (B) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+2 eligible for expungement under this chapter or is a member of an impacted family.
+3 (iv) Can demonstrate significant past experience in or business practices that promote
+4 economic empowerment in disproportionally impacted areas.
+5 (v) Had income which does not exceed four hundred percent (400%) of the median income,
+6 as defined by the commission, in a disproportionally impacted area for at least five (5) of the past
+7 ten (10) years.
+8 (40) “Terpenoid” means an isoprene that are the aromatic compounds found in cannabis,
+9 including, but not limited to: limonene, myrcene, pinene, linalool, eucalyptol, Δ-terpinene, ß-
+10 caryophyllene, caryophyllene oxide, nerolidol and phytol.
+11 (41) “Unreasonable and impracticable” means that the measures necessary to comply with
+12 the rules and regulations adopted pursuant to this chapter subject licensees to unreasonable risk or
+13 require such a high investment of money, time or any other resource or asset that a reasonably
+14 prudent businessperson would not operate a cannabis establishment.
+15 (42) “Workers’ cooperative” means an applicant organized and operated pursuant to the
+16 provisions of chapter 6.2 of title 7.
+17 21-28.11-12.1. Criminal record information — Permitted use.
+18 (a) The commission shall require all applicants for license and registration under this
+19 chapter to undergo a national criminal background check prior to issuing any license or registration.
+20 The applicant shall apply to the bureau of criminal identification of the department of attorney
+21 general, department of public safety division of state police, or local police department for a
+22 national background check that shall include fingerprints submitted to the Federal Bureau of
+23 Investigation. Upon the discovery of any criminal record information, the bureau of criminal
+24 identification of the department of attorney general, department of public safety division of state
+25 police, or the local police department shall inform the applicant, in writing, of the nature of the
+26 criminal record information. The bureau of criminal identification of the department of attorney
+27 general, department of public safety division of state police, or the local police department shall
+28 also inform the commission, in writing, of the nature of the criminal record information. In those
+29 situations in which no criminal record information has been found, the bureau of criminal
+30 identification of the department of attorney general, department of public safety division of state
+31 police, or the local police department shall inform the applicant and the commission, in writing, of
+32 this fact. The applicant shall be responsible for any expense associated with the national
+33 background check.
+34 (b) All applicants for license or registration have a duty to truthfully and fully disclose prior
+LC001964 - Page 7 of 16
+
+1 criminal convictions to the commission and any information the commission requests related to
+2 said convictions. If issued a license or registration by the commission, licensees have a continuing
+3 duty to truthfully and fully disclose any subsequent criminal convictions to the commission, along
+4 with any information the commission requests related to said convictions. Failure to do so may
+5 result in the denial, suspension, or revocation of a license or registration, and criminal prosecution
+6 pursuant to § 21-28.11-27 and/or other applicable law.
+7 (c) “Conviction” as used throughout this chapter shall have the same meaning as set forth
+8 in § 21-28.6-6(g).
+9 (d) No person shall be automatically disqualified to practice, pursue, or engage in any
+10 business or activity licensed or registered by the commission pursuant to the provisions of this
+11 chapter, solely relating to a prior conviction of a cannabis or marijuana possession crime or crimes
+12 unless:
+13 (1) The underlying crime or crimes involved the distribution of a controlled substance,
+14 including cannabis or marijuana, to a minor; or
+15 (2) The underlying crime or crimes substantially relates to the occupation to which the
+16 license or registration applies. Any other state law to the contrary will be superseded by this
+17 provision.
+18 (e) No occupational license or registration issued by the commission shall be suspended or
+19 revoked, solely or in part, because of a prior or subsequent possession of cannabis or marijuana
+20 offense conviction of a crime or crimes unless the underlying crime or crimes substantially relate
+21 to the occupation to which the license or registration applies. Any other state law to the contrary
+22 will be superseded by this provision.
+23 (f) A person who has been convicted of a crime may be disqualified to practice, pursue or
+24 engage in any business activity licensed by the commission pursuant to this chapter or chapter 28.6
+25 of this title if the commission determines that the circumstances of the conviction are substantially
+26 related to the occupation for which the license or registration is sought. In determining if a
+27 conviction substantially relates to the occupation for which the license or registration is sought, the
+28 commission shall consider:
+29 (1) The state’s legitimate interest in protecting the property and the safety and welfare of
+30 specific individuals or the general public;
+31 (2) The relationship of the crime or crimes to the ability, capacity, and fitness required to
+32 perform the duties and discharge the responsibilities of the position of employment or occupation;
+33 and
+34 (3) The state’s legitimate interest in equal access to employment for individuals who have
+LC001964 - Page 8 of 16
+
+1 had past contact with the criminal justice system.
+2 (g) A person who has been convicted of a crime or crimes that substantially relates to the
+3 occupation for which a license is sought may not be automatically disqualified from the occupation
+4 if the person can establish by competent evidence, satisfactory in the discretion of the commission,
+5 of sufficient rehabilitation and present fitness to perform the duties of the occupation for which the
+6 license is sought. The commission shall consider the time elapsed since the conviction when
+7 determining sufficient rehabilitation, specifically, convictions issued prior to five (5) years before
+8 the date of the application shall be deemed evidence of sufficient rehabilitation, as well as any
+9 evidence presented by the applicant regarding:
+10 (1) Completion of a period of at least two (2) years after release from imprisonment, or at
+11 least two (2) years after the sentencing date for a probation sentence or suspended sentence not
+12 accompanied by incarceration, without subsequent conviction or pending criminal charge;
+13 (2) The nature, seriousness, and relevance of the crime or crimes for which convicted;
+14 (3) All circumstances relative to the crime or crimes, including mitigating circumstances
+15 surrounding the commission of the crime or crimes;
+16 (4) The age of the person at the time the crime or crimes were committed;
+17 (5) Claims that the criminal record information is in error or inadmissible; and
+18 (6) All other competent evidence of rehabilitation and present fitness presented, including,
+19 but not limited to, letters of reference by persons who have been in contact with the applicant since
+20 the applicant’s release from any state or federal correctional institution.
+21 (h) The following criminal records may shall not be used in connection with any
+22 application for a license or registration submitted pursuant to the provisions of this chapter:
+23 (1) Juvenile adjudications;
+24 (2) Records of arrest not followed by a conviction;
+25 (3) Convictions that have been, pursuant to law, annulled or expunged;
+26 (4) Misdemeanor convictions for which no jail sentence can be imposed; or
+27 (5) A conviction that does not substantially relate to the occupation for which the license
+28 or registration is sought, as determined by subsection (f) of this section.
+29 (i) If the commission intends to deny, suspend, or revoke an occupational license, permit,
+30 or registration solely or in part because of the individual’s prior conviction of a crime that is
+31 determined to be substantially related to the occupation for which the license or registration applies,
+32 the commission shall notify the individual in writing of the following prior to the final decision:
+33 (1) The specific conviction(s) that forms the basis for the potential denial, suspension, or
+34 revocation and the rationale for deeming the conviction substantially related to the occupation or
+LC001964 - Page 9 of 16
+
+1 activity;
+2 (2) A copy of the conviction history report, if any, on which the commission relies;
+3 (3) A statement that the applicant may provide evidence of mitigation or rehabilitation, as
+4 described in subsection (g) of this section; and
+5 (4) Instructions on how to respond to the potential denial, suspension, or revocation.
+6 (j) After receiving the notice of potential denial, suspension, or revocation, the individual
+7 shall have thirty (30) business days to respond.
+8 (k) If the commission denies, suspends, or revokes a license or registration solely or in part
+9 because of the applicant’s substantially related conviction, the commission shall issue a final
+10 written decision that addresses the following:
+11 (1) The specific conviction(s) that form the basis for the denial, suspension, or revocation
+12 and the rationale for deeming the conviction(s) substantially related to the occupation or activity;
+13 (2) A copy of the conviction history report, if any, on which the commission relies;
+14 (3) The process for appealing the decision in accordance with chapter 35 of title 42; and
+15 (4) The earliest date the person may reapply for license or registration which shall not be
+16 longer than two (2) years from the date of the final decision.
+17 (l) Notwithstanding any general or special law to the contrary, except as otherwise provided
+18 in this chapter, any prior conviction for a crime that has been decriminalized, or is eligible for
+19 expungement pursuant to the provisions of this chapter cannot serve as grounds, either solely or in
+20 part, for denial, suspension or revocation of a license or registration pursuant to this chapter.
+21 (m) The commission shall adopt rules and regulations establishing standards and
+22 procedures consistent with the provisions of this section.
+23 21-28.11-31. Social equity assistance program and fund.
+24 (a)(1) Findings. The general assembly finds that additional efforts are needed to reduce
+25 barriers to ownership and/or participation in the cannabis industry for individuals and communities
+26 most adversely impacted by the enforcement of cannabis-related laws.
+27 (2) In the interest of establishing a legal cannabis industry that is equitable and accessible
+28 to those most adversely impacted by the enforcement of cannabis-related laws, the general
+29 assembly finds and declares that a social equity program should be established.
+30 (3) The general assembly also finds and declares that individuals who have been arrested
+31 or incarcerated due to cannabis related laws suffer long-lasting negative consequences, including
+32 impacts to employment, business ownership, housing, health, and long-term financial well-being.
+33 (4) The general assembly also finds and declares that family members, especially children,
+34 and communities of those who have been arrested or incarcerated due to cannabis related laws,
+LC001964 - Page 10 of 16
+
+1 suffer from emotional, psychological, and financial harms as a result of such arrests or
+2 incarcerations.
+3 (5) Furthermore, the general assembly finds and declares that certain communities have
+4 disproportionately suffered the harms of enforcement of cannabis-related laws. Those communities
+5 face greater difficulties accessing capital to finance the start-up costs for cannabis establishments.
+6 (6) The general assembly also finds that individuals who have resided in areas of high
+7 poverty suffer negative consequences, including barriers to entry in employment, business
+8 ownership, housing, health, and long-term financial well-being.
+9 (7) The general assembly also finds and declares that promotion of business ownership by
+10 individuals who have resided in areas of high poverty and high enforcement of cannabis-related
+11 laws furthers a more equitable cannabis industry.
+12 (8) Therefore, in the interest of mitigating the harms resulting from the enforcement of
+13 cannabis-related laws, the general assembly finds and declares that a social equity program should
+14 offer, among other things, business assistance and license application benefits to individuals most
+15 directly and adversely impacted by the enforcement of cannabis-related laws who are interested in
+16 establishing or participating in a cannabis business entity.
+17 (9) Therefore, in the interest of mitigating the emotional, psychological, and financial
+18 harms resulting from the enforcement of cannabis-related laws, the general assembly finds and
+19 declares that some revenue from the cannabis industry should be returned to disproportionately
+20 impacted areas.
+21 (i) A dedicated disproportionately impacted areas investment fund shall be established
+22 within the general fund, separate and apart from other state monies subject to appropriation. This
+23 fund shall be used for the following purposes:
+24 (A) To provide funding for the development of public housing including, grants for
+25 beautification initiatives, development of affordable housing, tenant-led housing co-ops,
+26 emergency rent assistance, legal defense fund, rent-to-own programs, and homeownership
+27 programs in disproportionately impacted areas as determined by the commission.
+28 (B) To provide funding for early and public education including, funding to social workers
+29 and mental health counselors in public schools, youth development programs, nonprofits geared
+30 towards youth and education, expanding access to high-quality Pre-k, expanding the budget for
+31 public schools, facility upgrades including, tech, theater, sports, STEM, and arts programs after-
+32 school and extracurricular programs, scholarships for college tuition and vocational trainings,
+33 internship stipends, early childhood and out-of-school time (OST) programs focused on equitable
+34 access to early learning opportunities, academic support, enrichment activities, social-emotional
+LC001964 - Page 11 of 16
+
+1 learning (SEL) and workforce development, parent and caregiver education program especially for
+2 parents who were previously incarcerated, and teacher recruitment and retention programs in
+3 disproportionately impacted areas as determined by the commission.
+4 (C) To provide funding for health subsidies including, improving and establishing clinics
+5 and mobile health units, mental health treatment, safe-use sites, maternal and child health services,
+6 upkeep and development of community gardens, food education and nutrition classes, sexual health
+7 education and resources, health literacy programs, and in-home health services for elderly and
+8 disabled residents in disproportionately impacted areas as determined by the commission
+9 (b) There is created in the state treasury within the general fund, a fund which shall be held
+10 separate and apart from all other state monies, to be known as the social equity assistance fund.
+11 The social equity assistance fund, subject to appropriation, shall be exclusively used for the
+12 following purposes A dedicated social equity assistance fund shall be established within the general
+13 fund, separate and apart from other state monies subject to appropriation. This fund shall be used
+14 for the following purposes:
+15 (1) To provide grants to approved social equity applicants to pay for ordinary and necessary
+16 expenses to establish and/or operate a cannabis establishment, and to also further promote the goals
+17 of this chapter, including without limitation, job training and workforce development, mentoring
+18 services and technical assistance;
+19 (2) To support the waiver or reduction of application and licensing fees pursuant to this
+20 section for social equity applicants; and
+21 (3) To implement and administer programming for restorative justice, jail diversion, drug
+22 rehabilitation and education workforce development for jobs related to cannabis cultivation,
+23 transportation, distribution and sales.
+24 (c) The social equity assistance fund shall be subject to appropriation. The fund shall
+25 consist of all monies received on account of the state as a result of application for, and licensing of,
+26 individuals and entities pursuant to the provisions of this chapter, exclusive of licensing fees paid
+27 pursuant to the provisions of chapter 28.6 of this title. Additionally, except as otherwise provided,
+28 the fund shall consist of all administrative penalties received for violations of this chapter, except
+29 tax violations and interest earned on balances in the fund and disproportionately impacted areas
+30 investment fund shall be subject to appropriation. Both funds shall consist of all monies received
+31 on account of the state as a result of application for, and licensing of, individuals and entities
+32 pursuant to the provisions of this chapter; as well as a portion of the state cannabis excise tax as
+33 determined in § 44-70-5. Furthermore, both funds shall consist of all civil penalties received for
+34 violations of this chapter, including tax violations and interest earned on balances in the funds.
+LC001964 - Page 12 of 16
+
+1 (d) The commission shall administer the social equity assistance fund and the authorized
+2 disbursement of funds, as appropriated by the general assembly. In consultation with the cannabis
+3 advisory board, the commission shall promulgate rules and regulations establishing the criteria,
+4 eligibility, qualifications and process for administering the disbursement of funds from the social
+5 equity assistance fund.
+6 (e) Reporting. Beginning September 1, 2023, and each year thereafter, the commission
+7 shall annually report to the governor and the general assembly on the outcomes and effectiveness
+8 of this section that shall include, but not be limited to, the following:
+9 (1) The number of persons or businesses receiving assistance under this section;
+10 (2) The amount in financial assistance awarded in the aggregate, in addition to the amount
+11 of grants awarded; and
+12 (3) If applicable, the number of new jobs and other forms of economic impact created as a
+13 result of assistance from the social equity assistance fund.
+14 (f) Fee waivers.
+15 (1) For social equity applicants as defined in § 21-28.11-3, the commission may waive up
+16 to one hundred percent (100%) of any nonrefundable license application fees or any nonrefundable
+17 fees associated with acquiring a license to operate a cannabis establishment, pursuant to rules and
+18 regulations promulgated by the commission in consultation with the cannabis advisory board.
+19 (2) If the commission determines that an applicant who applied as a social equity applicant
+20 is not eligible for social equity status, the applicant shall be provided an additional ten (10) days to
+21 provide alternative evidence that the applicant qualifies as a social equity applicant. Alternatively,
+22 the applicant may pay all required fees and be considered as a non-social equity applicant. If the
+23 applicant cannot do either, then any application fee shall be returned and the application process
+24 shall be terminated.
+25 (g) Transfers of cannabis establishment licenses awarded to a social equity applicant are
+26 subject to all other provisions of this chapter, and applicable law; provided however, that a license
+27 issued to a social equity applicant shall only be transferred to another qualified social equity
+28 applicant as determined and approved by the commission.
+29 (h) Reporting.
+30 (1) By September 1, 2023, and on the first day of September of every year thereafter, or
+31 upon request by the commission, each cannabis establishment licensed under this chapter and § 21-
+32 28.6-12 (“The Edward O. Hawkins and Thomas C. Slater Medical Marijuana Act”) shall report to
+33 the commission, on a form to be provided by the commission, information that will allow it to
+34 assess the extent of diversity in the medical and adult use cannabis industry and methods for further
+LC001964 - Page 13 of 16
+
+1 reducing or eliminating any identified barriers to entry, including without limitation, access to
+2 capital.
+3 (2) Failure of a cannabis establishment to respond to the request of the commission to
+4 complete the form, report, and any other request for information may be grounds for disciplinary
+5 action by the commission pursuant to this chapter. The information to be collected shall identify,
+6 without limitation, the following:
+7 (i) The number and percentage of licenses provided to social equity applicants;
+8 (ii) The total number and percentage of employees in the cannabis industry who meet the
+9 criteria in the definition of social equity applicant; and
+10 (iii) Recommendations on reducing or eliminating any identified barriers to entry,
+11 including access to capital, in the cannabis industry.
+12 SECTION 2. Section 44-70-5 of the General Laws in Chapter 44-70 entitled "Cannabis
+13 Tax" is hereby amended to read as follows:
+14 44-70-5. Application of tax revenue.
+15 The administrator shall deposit revenue collected pursuant to this chapter from the state
+16 cannabis excise tax or associated amounts as penalties, forfeitures, interest, costs of suit, and fines
+17 for failure to timely report or pay the state cannabis excise tax into the marijuana trust fund pursuant
+18 to § 21-28.11-13(d) and revenue from the sales tax into the general fund fifty percent (50%) of the
+19 revenue collected pursuant to this chapter from the state cannabis excise tax or associated amounts
+20 as penalties, forfeitures, interest, costs of suit, and fines for failure to timely report or pay the state
+21 cannabis excise tax into the marijuana trust fund pursuant to § 21-28.11-13(d) and one hundred
+22 percent (100%) of the revenue from the sales tax into the general fund. The administrator shall
+23 deposit the other fifty percent (50%) of revenue collected pursuant to this chapter from the state
+24 cannabis excise tax or associated amounts as penalties, forfeitures, interest, costs of suit, and fines
+25 for failure to timely report or pay the state cannabis excise tax into the social equity assistance fund
+26 and disproportionately impacted areas investment fund. For five (5) consecutive years, seventy-
+27 five percent (75%) of the allotted state cannabis excise tax shall be deposited into the social equity
+28 assistance fund and twenty-five percent (25%) of the allotted state cannabis excise tax shall be
+29 deposited into the disproportionately impacted areas investment fund. After those initial five (5)
+30 years, fifty percent (50%) of the allotted state cannabis excise tax shall be deposited into the social
+31 equity assistance fund and fifty percent (50%) of the allotted state cannabis excise tax shall be
+32 deposited into the disproportionately impacted areas fund in perpetuity.
+LC001964 - Page 14 of 16
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC001964
+========
+LC001964 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+***
+1 This act would make several amendments to the cannabis act relating to applications for
+2 licensure, the social equity assistance program and the application of cannabis tax revenue.
+3 This act would take effect upon passage.
+========
+LC001964
+========
+LC001964 - Page 16 of 16
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 F p o t c t f w t a p s h t f ( “ m t a o t c o a b t g ( p y ( o c e o a ( m (]
+[DELETED:  d c ( c f a p o t p a e c m s d m o p “ ( t t p ( ( a ( o g t i ( e ( g r c ( c ( p a p c t d c t c e a t t c ( c l c m r h c r (]
+[DELETED:  ( e d c ( “ p o “ p m p t h b m c c ( 2 a a ( l t a ( c ( Q t t c i c w r p b t c l ( p ( o i c ( a ( f ( s t]
+[DELETED:  r r p ( a ( f ( f ( t ( a h u r a d b t R I d n p ( r t t s p u c m o t o c i c ( c g a s a b l p z n p t ( t d i a h t a i s i a m o a c d ( “ i o t c r a r m t r a r 4 s i ( ( g]
+[DELETED:  o v a c ( a m c ( l r m ( t ( p t c p l p l c a w c e ( “ m t c b e i o o m o p ( “ c m c a c p t s t r o “ m d t d p a f M c p a o a f u b p c a m o b s t o p b p c o p ( a o ( “ o a i f m a i w h a p l g e f]
+[DELETED:  ( c e a c o t m a d o o t c e ( c i ( c a a l c ( c ( “ e a m a a t h b d i m o o a c s ( i w h r f a l f ( o t p t ( y i a d ( m ( e ( ( l (]
+[DELETED:  ( e ( e ( a t ( i c ( t r p ( p 2 ( c T g n b c t s i f s t t F B o I U t d o a c r t b o c i p c g a s i w n c r i h b f t b o c i p t f T a s b r f a e a w t n b (]
+[DELETED:  c s d w r p ( i ( b c u ( i ( l p ( r o t w ( e o r t t o f w t l o r i s I d i a c c ( s ( p a (]
+[DELETED:  h ( o i o l d t e ( l a ( ( s ( ( ( b t ( T f c r m s n b u i c w a a ( ( ( ( ( o ( o d t ( r]
+[DELETED:  a ( ( d ( ( s ( b o s r c t c s i a w ( a ( ( ( l ( i e p ( T c s a r a r e s a p 2 ( b m ( t t m a i b t e o c l t g a ( o i ( a]
+[DELETED:  s f e p a f h a a r o s a o i ( d f ( p s n c i b t e i e b o ( i l ( c o d e ( h d i ( w f ( T p f f t d o p h i g f b i d o a h t h c e r a l d f r p a h p ( a t p s a e p s c t a v i a]
+[DELETED:  l p w w p i a t r a r p i d ( a u e d ( s T s e a f s t a s b e u f t f f f ( e o s ( s ( r a e w d f j r t c c t ( c i p t t i o p d v]
+[DELETED:  ( d a e e ( s o ( ( o ( r ( ( t f r ( i p t a s ( s i a ( ( u 2 t a]
+[DELETED:  r c ( c a w ( ( c ( R o r o e a i b t e i S T 4 T c f t r a c p d c f a f a d y e d ]
+[DELETED:  S]
+[DELETED:  T l T]

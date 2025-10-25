@@ -1,0 +1,236 @@
+Title: Introduced By: Representatives Shanley, Batista, Hull, Biah, and Noret
+Official Title: Introduced By: Representatives Shanley, Batista, Hull, Biah, and Noret
+Number of Sections: 1
+Source: versions - 5311
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5311
+========
+LC000957
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+Date Introduced: February 05, 2025
+Referred To: House State Government & Elections
+(Board of Elections)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-20-26 of the General Laws in Chapter 17-20 entitled "Mail
+2 Ballots" is hereby amended to read as follows:
+3 17-20-26. Opening and counting of ballots.
+4 (a)(1) Beginning prior to and continuing on election day the state board, upon receipt of
+5 mail ballots, shall keep the ballots in a safe and secure place that shall be separate and apart from
+6 the general public area and sufficiently monitored through security measures including security
+7 cameras. The board shall, beginning twenty (20) days prior to and continuing on election day,
+8 proceed to certify the mail ballots.
+9 (2) Notice of these sessions shall be given to the public on the state board of elections’
+10 website and the secretary of state’s website posted at least twenty-four (24) hours before the
+11 commencing of any session. All candidates for state and federal office, as well as all state party
+12 chairpersons, shall be given notice by telephone, email or otherwise of the day on which ballots
+13 will be certified; provided, that failure to effect the notice shall in no way invalidate the ballots.
+14 (b) This processing shall be done within a railed space in the room in which it takes place,
+15 and the board shall admit within the railed space, in accordance with those rules that the board shall
+16 adopt, to witness the processing and certification of the ballots, the interested voter or the voter’s
+17 representative, the candidates, or at least one representative of each candidate for whom votes are
+18 at the time being processed, and an equal number of representatives of each political party. These
+19 representatives shall be authorized in writing by the voter, the candidate, or the chairperson of the
+1 state committee of the political party, respectively, as the case may be. The board shall also, in
+2 accordance with these rules, admit representatives of the press and newscasting agencies and any
+3 other persons that it deems proper.
+4 (c) At these sessions, and before certifying any ballot, the state board shall:
+5 (1) Determine the city or town in which the voter cast his or her ballot; and
+6 (2) Compare the name, residence, and signature of the voter with the name, residence, and
+7 signature on the central voter registration system for mail ballots and satisfy itself that both
+8 signatures are identical. The board shall designate two (2) persons, to review and compare each
+9 voter’s signature with the voter’s signature found in the central voter registration system. If both
+10 designees agree that the signatures match, the mail ballot shall proceed to be processed, certified,
+11 and tabulated. In the event that one or both designees find a discrepancy with the voter’s signature,
+12 the certification envelope shall then be reviewed by a pair of supervising board staff members. If
+13 the pair of supervising board staff members find that the signatures match, then the mail ballot shall
+14 proceed to be processed, certified, and tabulated. In the event that one or both supervising board
+15 staff members find a discrepancy in the voter’s signature, the supervising board staff shall compare
+16 the signature on the certification envelope to the voter’s ballot application. If the pair of supervising
+17 board staff members find that those signatures match, then the mail ballot shall proceed to be
+18 processed, certified, and tabulated. In the event that one or both supervising board staff members
+19 find a discrepancy in the voter’s signature, the supervising board staff shall compare the signature
+20 on the certification envelope to the voter’s ballot application. If the pair of supervising board staff
+21 members find that the signatures match, then the mail ballot shall proceed to be processed, certified,
+22 and tabulated. In the event that one or both supervising board staff members find a discrepancy in
+23 the voter’s signature, the certification envelope shall be segregated, and the board will notify the
+24 voter of the discrepancy, in accordance with regulations and procedures promulgated by the board.
+25 Any segregated certification envelope that has not been cured or fully addressed by the voter, in
+26 accordance with the board’s promulgated regulations and procedures, shall be reviewed by the
+27 board to make a final determination on the signature set forth on the certification envelope.
+28 (d) [Deleted by P.L. 2015, ch. 259, § 1.]
+29 (e) The board shall promulgate regulations that allow for challenges to the certification
+30 process by the interested voter, the voter’s representative, the candidates, and representatives of the
+31 recognized political parties. Such challenges shall be made to the executive director of the board,
+32 or the executive director’s designee. The decision of the executive director or designee shall be
+33 subject to review by the board.
+34 (f) After processing and certification of the mail ballots, they shall be separated in packages
+LC000957 - Page 2 of 4
+1 in accordance with their respective cities and towns, in the presence of all interested parties.
+2 Thereupon, in each instance the board staff shall open the enclosing envelope, and without looking
+3 at the votes cast on the enclosed ballot, shall remove the ballot from the envelope. The board staff
+4 shall proceed to tabulate the ballots through the use of a central count optical-scan unit with the
+5 same effect as if the ballots had been cast by the electors in open town or district meetings.
+6 (g) When a local election is held at a time other than in conjunction with a statewide
+7 election, the state board, after the processing and certification of the mail ballots cast in the local
+8 election, shall package the local ballots to be promptly delivered in sealed packages, bearing upon
+9 the seals the signatures of the members of the board, to the appropriate local board which shall
+10 thereupon proceed to count the ballots in the same manner and with the same effect as state mail
+11 ballots are counted by the state board have the authority to count the ballots in the same manner
+12 and with the same effect as state mail ballots are counted by the state board in a statewide election.
+13 Once the ballots are counted, the results shall be transmitted to the local board.
+14 (h) When a local election is held in New Shoreham at a time other than in conjunction with
+15 a statewide election, the state board, after the processing and certification of the mail ballots cast
+16 in the local election, shall have the authority to count the ballots in the same manner and with the
+17 same effect as state mail ballots are counted by the state board in a statewide election. Once the
+18 ballots are counted, the results shall be sent via facsimile to the local board in New Shoreham.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC000957
+========
+LC000957 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+***
+1 This act would allow the board of elections to tabulate mail ballots in local special elections
+2 in the same manner as it tabulates mail ballots in statewide elections.
+3 This act would take effect upon passage.
+========
+LC000957
+========
+LC000957 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " B 1 ( m t c p ( w c c w ( a a r a r]
+[DELETED:  s a o ( ( ( s o t c v r s f m b a s i t b s v d a t t p s t b p f o m a t v A a b ( ( p r o s (]
+[DELETED:  i T a s s ( e e t t b a O ( a i s b S]
+[DELETED:  T i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5311
+========
+LC000957
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+Introduced By: Representatives Shanley, Batista, Hull, Biah, and Noret
+Date Introduced: February 05, 2025
+Referred To: House State Government & Elections
+(Board of Elections)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-20-26 of the General Laws in Chapter 17-20 entitled "Mail
+2 Ballots" is hereby amended to read as follows:
+3 17-20-26. Opening and counting of ballots.
+4 (a)(1) Beginning prior to and continuing on election day the state board, upon receipt of
+5 mail ballots, shall keep the ballots in a safe and secure place that shall be separate and apart from
+6 the general public area and sufficiently monitored through security measures including security
+7 cameras. The board shall, beginning twenty (20) days prior to and continuing on election day,
+8 proceed to certify the mail ballots.
+9 (2) Notice of these sessions shall be given to the public on the state board of elections’
+10 website and the secretary of state’s website posted at least twenty-four (24) hours before the
+11 commencing of any session. All candidates for state and federal office, as well as all state party
+12 chairpersons, shall be given notice by telephone, email or otherwise of the day on which ballots
+13 will be certified; provided, that failure to effect the notice shall in no way invalidate the ballots.
+14 (b) This processing shall be done within a railed space in the room in which it takes place,
+15 and the board shall admit within the railed space, in accordance with those rules that the board shall
+16 adopt, to witness the processing and certification of the ballots, the interested voter or the voter’s
+17 representative, the candidates, or at least one representative of each candidate for whom votes are
+18 at the time being processed, and an equal number of representatives of each political party. These
+19 representatives shall be authorized in writing by the voter, the candidate, or the chairperson of the
+
+1 state committee of the political party, respectively, as the case may be. The board shall also, in
+2 accordance with these rules, admit representatives of the press and newscasting agencies and any
+3 other persons that it deems proper.
+4 (c) At these sessions, and before certifying any ballot, the state board shall:
+5 (1) Determine the city or town in which the voter cast his or her ballot; and
+6 (2) Compare the name, residence, and signature of the voter with the name, residence, and
+7 signature on the central voter registration system for mail ballots and satisfy itself that both
+8 signatures are identical. The board shall designate two (2) persons, to review and compare each
+9 voter’s signature with the voter’s signature found in the central voter registration system. If both
+10 designees agree that the signatures match, the mail ballot shall proceed to be processed, certified,
+11 and tabulated. In the event that one or both designees find a discrepancy with the voter’s signature,
+12 the certification envelope shall then be reviewed by a pair of supervising board staff members. If
+13 the pair of supervising board staff members find that the signatures match, then the mail ballot shall
+14 proceed to be processed, certified, and tabulated. In the event that one or both supervising board
+15 staff members find a discrepancy in the voter’s signature, the supervising board staff shall compare
+16 the signature on the certification envelope to the voter’s ballot application. If the pair of supervising
+17 board staff members find that those signatures match, then the mail ballot shall proceed to be
+18 processed, certified, and tabulated. In the event that one or both supervising board staff members
+19 find a discrepancy in the voter’s signature, the supervising board staff shall compare the signature
+20 on the certification envelope to the voter’s ballot application. If the pair of supervising board staff
+21 members find that the signatures match, then the mail ballot shall proceed to be processed, certified,
+22 and tabulated. In the event that one or both supervising board staff members find a discrepancy in
+23 the voter’s signature, the certification envelope shall be segregated, and the board will notify the
+24 voter of the discrepancy, in accordance with regulations and procedures promulgated by the board.
+25 Any segregated certification envelope that has not been cured or fully addressed by the voter, in
+26 accordance with the board’s promulgated regulations and procedures, shall be reviewed by the
+27 board to make a final determination on the signature set forth on the certification envelope.
+28 (d) [Deleted by P.L. 2015, ch. 259, § 1.]
+29 (e) The board shall promulgate regulations that allow for challenges to the certification
+30 process by the interested voter, the voter’s representative, the candidates, and representatives of the
+31 recognized political parties. Such challenges shall be made to the executive director of the board,
+32 or the executive director’s designee. The decision of the executive director or designee shall be
+33 subject to review by the board.
+34 (f) After processing and certification of the mail ballots, they shall be separated in packages
+LC000957 - Page 2 of 4
+
+1 in accordance with their respective cities and towns, in the presence of all interested parties.
+2 Thereupon, in each instance the board staff shall open the enclosing envelope, and without looking
+3 at the votes cast on the enclosed ballot, shall remove the ballot from the envelope. The board staff
+4 shall proceed to tabulate the ballots through the use of a central count optical-scan unit with the
+5 same effect as if the ballots had been cast by the electors in open town or district meetings.
+6 (g) When a local election is held at a time other than in conjunction with a statewide
+7 election, the state board, after the processing and certification of the mail ballots cast in the local
+8 election, shall package the local ballots to be promptly delivered in sealed packages, bearing upon
+9 the seals the signatures of the members of the board, to the appropriate local board which shall
+10 thereupon proceed to count the ballots in the same manner and with the same effect as state mail
+11 ballots are counted by the state board have the authority to count the ballots in the same manner
+12 and with the same effect as state mail ballots are counted by the state board in a statewide election.
+13 Once the ballots are counted, the results shall be transmitted to the local board.
+14 (h) When a local election is held in New Shoreham at a time other than in conjunction with
+15 a statewide election, the state board, after the processing and certification of the mail ballots cast
+16 in the local election, shall have the authority to count the ballots in the same manner and with the
+17 same effect as state mail ballots are counted by the state board in a statewide election. Once the
+18 ballots are counted, the results shall be sent via facsimile to the local board in New Shoreham.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC000957
+========
+LC000957 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+***
+1 This act would allow the board of elections to tabulate mail ballots in local special elections
+2 in the same manner as it tabulates mail ballots in statewide elections.
+3 This act would take effect upon passage.
+========
+LC000957
+========
+LC000957 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " B 1 ( m t c p ( w c c w ( a a r a r]
+[DELETED:  s a o ( ( ( s o t c v r s f m b a s i t b s v d a t t p s t b p f o m a t v A a b ( ( p r o s (]
+[DELETED:  i T a s s ( e e t t b a O ( a i s b S]
+[DELETED:  T i T]

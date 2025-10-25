@@ -1,0 +1,202 @@
+Title: RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+Official Title: RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+Number of Sections: 1
+Source: versions - 5922
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5922
+========
+LC001928
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+FAMILY COURT
+Introduced By: Representatives Cruz, Ajello, Felix, Sanchez, Stewart, Morales, Potter,
+Kislak, Cotter, and Solomon
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 14-1 of the General Laws entitled "Proceedings in Family Court" is
+2 hereby amended by adding thereto the following section:
+3 14-1-30.3. Use of statements made in custodial interrogation.
+4 (a) A peace officer, as defined in § 12-7-21, including a school resource officer (SRO), as
+5 defined in § 16-7.2-6, shall not employ threats, physical harm, deprivation, deception, coercion, or
+6 psychologically manipulative interrogation tactics during the custodial interrogation of a juvenile.
+7 (b) As used in this section, the following terms shall have the following meanings:
+8 (1) "Coercion" means, but is not limited to, the disclosure of facts pertaining to a crime or
+9 crimes that were not previously articulated by the person interrogated.
+10 (2) "Deception" means, but is not limited to, the knowing communication of false facts
+11 about evidence, misrepresenting the accuracy of the facts or false statements regarding leniency.
+12 (3) "Deprivation" means the withholding of physical or mental needs, including, but not
+13 limited to, food, drink, sleep, use of the restroom, or prescribed medications from the person being
+14 interrogated.
+15 (4) "Psychologically manipulative interrogation tactics" means, but is not limited, to the
+16 following:
+17 (i) Maximization and minimization and other interrogation techniques that rely on a
+18 presumption of guilt or deceit;
+1 (A) Maximization includes techniques to scare or intimidate the person by repetitively
+2 asserting the person is guilty despite their denials, or exaggerating the magnitude of the charges or
+3 the strength of the evidence, including suggesting the existence of evidence that does not exist;
+4 (B) Minimization involves minimizing the moral seriousness of the offense, a technique
+5 that falsely communicates that the conduct is justified, excusable, or accidental:
+6 (ii) Making direct or indirect promises of leniency, such as indicating the person will be
+7 released from custody if the person cooperates;
+8 (iii) Employing the "false" or "forced" choice strategy, where the person is encouraged to
+9 select one of two (2) options, both incriminatory, but one is characterized as morally or legally
+10 justified or excusable; and
+11 (iv) Employing undue pressure that impairs the person's physical or mental condition to
+12 the extent of undermining the ability to decide whether or not to make a statement;
+13 (5) "Threats" means, but is not limited to, using or threatening the arrest or incrimination
+14 of another person, or using or threatening the use of enhanced penalties against the person being
+15 interrogated or against another person.
+16 (c) A statement obtained through or utilizing any of the tactics referenced in subsections
+17 (a) and (b) of this section shall not form the basis of any further investigative activities. Any
+18 evidence that is obtained by or flows from the statements of the juvenile shall be considered tainted
+19 and shall be presumed inadmissible as evidence against the juvenile making the statement in any
+20 criminal proceeding or a juvenile court proceeding for an act that if committed by an adult would
+21 be a misdemeanor or a felony offense as those terms are defined in § 11-1-2.
+22 (d) The presumption of inadmissibility of a statement of a juvenile as outlined in subsection
+23 (c) of this section, may be overcome if proven beyond a reasonable doubt that the confession or
+24 incriminating statements were given free from any of the tactics described in subsections (a) and
+25 (b) of this section, based on the totality of the circumstances. The burden of going forward with the
+26 evidence and the burden of proving that a statement was given voluntarily and free from any of the
+27 tactics prohibited by this section shall be on the state. Objection to the failure of the state to call
+28 all or any material witnesses on the issue of whether the confession or statements were voluntary
+29 must be made in the trial court.
+30 (e) Nothing in this section shall abrogate the state's burden to prove a statement of a
+31 juvenile was given voluntarily and free from any of the tactics referenced in subsections (a) and (b)
+32 of this section, prior to introducing those statements or confession into evidence.
+LC001928 - Page 2 of 4
+1 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001928
+========
+LC001928 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+***
+1 This act would prohibit a peace officer, as defined in § 12-7-21, including a school resource
+2 officer (SRO), as defined in § 16-7.2-6, from employing threats, physical harm, deprivation,
+3 deception, coercion, or psychologically manipulative interrogation tactics during the custodial
+4 interrogation of a juvenile.
+5 This act would take effect on January 1, 2026.
+========
+LC001928
+========
+LC001928 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 ( d p ( ( c ( a ( l i ( f ( M a m a o i t t r o a p]
+[DELETED:  ( a t ( t ( r ( s j ( t ( o i ( ( e a c b ( ( i ( e t a m ( j o ]
+[DELETED:  S]
+[DELETED:  T o ( a d i § 1 f e t p h d d c o p m i d t c i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5922
+========
+LC001928
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+Introduced By: Representatives Cruz, Ajello, Felix, Sanchez, Stewart, Morales, Potter,
+Kislak, Cotter, and Solomon
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 14-1 of the General Laws entitled "Proceedings in Family Court" is
+2 hereby amended by adding thereto the following section:
+3 14-1-30.3. Use of statements made in custodial interrogation.
+4 (a) A peace officer, as defined in § 12-7-21, including a school resource officer (SRO), as
+5 defined in § 16-7.2-6, shall not employ threats, physical harm, deprivation, deception, coercion, or
+6 psychologically manipulative interrogation tactics during the custodial interrogation of a juvenile.
+7 (b) As used in this section, the following terms shall have the following meanings:
+8 (1) "Coercion" means, but is not limited to, the disclosure of facts pertaining to a crime or
+9 crimes that were not previously articulated by the person interrogated.
+10 (2) "Deception" means, but is not limited to, the knowing communication of false facts
+11 about evidence, misrepresenting the accuracy of the facts or false statements regarding leniency.
+12 (3) "Deprivation" means the withholding of physical or mental needs, including, but not
+13 limited to, food, drink, sleep, use of the restroom, or prescribed medications from the person being
+14 interrogated.
+15 (4) "Psychologically manipulative interrogation tactics" means, but is not limited, to the
+16 following:
+17 (i) Maximization and minimization and other interrogation techniques that rely on a
+18 presumption of guilt or deceit;
+
+1 (A) Maximization includes techniques to scare or intimidate the person by repetitively
+2 asserting the person is guilty despite their denials, or exaggerating the magnitude of the charges or
+3 the strength of the evidence, including suggesting the existence of evidence that does not exist;
+4 (B) Minimization involves minimizing the moral seriousness of the offense, a technique
+5 that falsely communicates that the conduct is justified, excusable, or accidental:
+6 (ii) Making direct or indirect promises of leniency, such as indicating the person will be
+7 released from custody if the person cooperates;
+8 (iii) Employing the "false" or "forced" choice strategy, where the person is encouraged to
+9 select one of two (2) options, both incriminatory, but one is characterized as morally or legally
+10 justified or excusable; and
+11 (iv) Employing undue pressure that impairs the person's physical or mental condition to
+12 the extent of undermining the ability to decide whether or not to make a statement;
+13 (5) "Threats" means, but is not limited to, using or threatening the arrest or incrimination
+14 of another person, or using or threatening the use of enhanced penalties against the person being
+15 interrogated or against another person.
+16 (c) A statement obtained through or utilizing any of the tactics referenced in subsections
+17 (a) and (b) of this section shall not form the basis of any further investigative activities. Any
+18 evidence that is obtained by or flows from the statements of the juvenile shall be considered tainted
+19 and shall be presumed inadmissible as evidence against the juvenile making the statement in any
+20 criminal proceeding or a juvenile court proceeding for an act that if committed by an adult would
+21 be a misdemeanor or a felony offense as those terms are defined in § 11-1-2.
+22 (d) The presumption of inadmissibility of a statement of a juvenile as outlined in subsection
+23 (c) of this section, may be overcome if proven beyond a reasonable doubt that the confession or
+24 incriminating statements were given free from any of the tactics described in subsections (a) and
+25 (b) of this section, based on the totality of the circumstances. The burden of going forward with the
+26 evidence and the burden of proving that a statement was given voluntarily and free from any of the
+27 tactics prohibited by this section shall be on the state. Objection to the failure of the state to call
+28 all or any material witnesses on the issue of whether the confession or statements were voluntary
+29 must be made in the trial court.
+30 (e) Nothing in this section shall abrogate the state's burden to prove a statement of a
+31 juvenile was given voluntarily and free from any of the tactics referenced in subsections (a) and (b)
+32 of this section, prior to introducing those statements or confession into evidence.
+LC001928 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001928
+========
+LC001928 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+***
+1 This act would prohibit a peace officer, as defined in § 12-7-21, including a school resource
+2 officer (SRO), as defined in § 16-7.2-6, from employing threats, physical harm, deprivation,
+3 deception, coercion, or psychologically manipulative interrogation tactics during the custodial
+4 interrogation of a juvenile.
+5 This act would take effect on January 1, 2026.
+========
+LC001928
+========
+LC001928 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 ( d p ( ( c ( a ( l i ( f ( M a m a o i t t r o a p]
+[DELETED:  ( a t ( t ( r ( s j ( t ( o i ( ( e a c b ( ( i ( e t a m ( j o ]
+[DELETED:  S]
+[DELETED:  T o ( a d i § 1 f e t p h d d c o p m i d t c i T]

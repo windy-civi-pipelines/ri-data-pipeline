@@ -1,0 +1,204 @@
+Title: RELATING TO HEALTH AND SAFETY -- LICENSING OF HEALTHCARE FACILITIES
+Official Title: RELATING TO HEALTH AND SAFETY -- LICENSING OF HEALTHCARE FACILITIES
+Number of Sections: 1
+Source: versions - 789
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0789
+========
+LC001426
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Murray, Valverde, DiPalma, Bissaillon, and Urso
+Date Introduced: March 14, 2025
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-17-65 of the General Laws in Chapter 23-17 entitled "Licensing
+2 of Healthcare Facilities" is hereby amended to read as follows:
+3 23-17-65. Transparency of ownership in healthcare facilities.
+4 (a) Any operator or operators of a nursing facility shall file with the department of health
+5 information of ownership including, but not limited to, the following:
+6 (1) The name, address, and a description of the interest held by each of the following
+7 persons:
+8 (i) Any person who, directly or indirectly, beneficially owns any interest in the land on
+9 which the facility is located;
+10 (ii) Any person who, directly or indirectly, beneficially owns any interest in the building
+11 in which the facility is located;
+12 (iii) Any person who, directly or indirectly, beneficially owns any interest in any mortgage,
+13 note, deed of trust, or other obligation secured, in whole or in part, by the land on which or building
+14 in which the facility is located;
+15 (iv) Any person who, directly or indirectly, has any interest as lessor or lessee in any lease
+16 or sub-lease of the land on which or the building in which the facility is located;
+17 (v) Any person who is the ultimate and actual owner of the land, building, mortgages, and
+18 leases of the nursing facility and any lessee of the land or building; and
+19 (vi) The operator or operators of the nursing facility.
+1 (2) If any person named in subsection (a)(1) of this section is a partnership or limited
+2 liability company, then the name and address of each partner or member.
+3 (3) If any person named in subsection (a)(1) of this section is a corporation, other than a
+4 corporation whose shares are traded on a national securities exchange or are regularly quoted in an
+5 over-the-counter market or which is a commercial bank, savings bank, or savings and loan
+6 association, then the name and address of each officer, director, stockholder and, if known, each
+7 principal stockholder and controlling person of such corporation.
+8 (4) If any corporation named in subsection (a)(1) of this section is a corporation whose
+9 shares are traded on a national securities exchange or are regularly quoted in an over-the-counter
+10 market or which is a commercial bank, savings bank, or savings and loan association, then the name
+11 and address of the principal executive officers and each director and, if known, each principal
+12 stockholder of such corporation.
+13 (b) In order to promote greater transparency, the department of health shall, upon request,
+14 furnish to the public all documents and information received pursuant to this section.
+15 (c) As used in this section, the term “operator” means the licensee and also includes the
+16 complete ownership entity above the actual entity holding the license.
+17 (d) Any operator that fails to file, in whole or in part, the ownership information required
+18 in accordance with subsection (a) of this section or willingly or knowingly files false or incorrect
+19 ownership information, may, after notice and opportunity for a hearing, be subject to the penalties
+20 set forth in §§ 23-17-8 and 23-17-8.1. The director, in his or her discretion, may require that a
+21 financial audit be conducted of the nursing facility at the operator’s expense and may impose a fine
+22 of the greater of one million dollars ($1,000,000) or the amount of facility assets diverted to
+23 undisclosed interest holders.
+24 SECTION 2. Chapter 23-17 of the General Laws entitled "Licensing of Healthcare
+25 Facilities" is hereby amended by adding thereto the following section:
+26 23-17-12.12. Withdrawal of equity or assets..
+27 (a) On or after July 1, 2025, no nursing facility licensed under this chapter may withdraw
+28 equity or transfer assets which, in the aggregate, exceed three percent (3%) of such facility’s total
+29 reported annual revenue for patient care services, without prior written approval of the director.
+30 Notification shall be made in a form acceptable to the licensing agency by certified mail. Total
+31 reported annual revenue shall be based on the facility’s most recently filed annual BM-64 with the
+32 department of human services, or alternative form prescribed by the director.
+33 (b) The director shall make a determination to approve or disapprove a request for
+34 withdrawal of equity or assets under this section within sixty (60) days of the date of receipt of the
+LC001426 - Page 2 of 4
+1 written request from the facility.
+2
+3 SECTION 3. This act shall take effect upon passage.
+========
+LC001426
+========
+LC001426 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- LICENSING OF HEALTHCARE FACILITIES
+***
+1 This act would require the disclosure of the transfer of certain assets of healthcare facilities
+2 and would provide penalties for failing to file healthcare facility ownership information.
+3 This act would take effect upon passage.
+========
+LC001426
+========
+LC001426 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S o 2 ( i ( p ( w ( i ( n i ( o ( l (]
+[DELETED:  ( l ( c o m o w i a c b s b o s a l a p ( s m a s ( f ( c ( i o s f o u S 2 C 2 o t G L e " o H F 2 ( e r N r d ( T d s m a d t a o d a r f w]
+[DELETED:  w  S]
+[DELETED:  T a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0789
+========
+LC001426
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- LICENSING OF HEALTHCARE FACILITIES
+Introduced By: Senators Murray, Valverde, DiPalma, Bissaillon, and Urso
+Date Introduced: March 14, 2025
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-17-65 of the General Laws in Chapter 23-17 entitled "Licensing
+2 of Healthcare Facilities" is hereby amended to read as follows:
+3 23-17-65. Transparency of ownership in healthcare facilities.
+4 (a) Any operator or operators of a nursing facility shall file with the department of health
+5 information of ownership including, but not limited to, the following:
+6 (1) The name, address, and a description of the interest held by each of the following
+7 persons:
+8 (i) Any person who, directly or indirectly, beneficially owns any interest in the land on
+9 which the facility is located;
+10 (ii) Any person who, directly or indirectly, beneficially owns any interest in the building
+11 in which the facility is located;
+12 (iii) Any person who, directly or indirectly, beneficially owns any interest in any mortgage,
+13 note, deed of trust, or other obligation secured, in whole or in part, by the land on which or building
+14 in which the facility is located;
+15 (iv) Any person who, directly or indirectly, has any interest as lessor or lessee in any lease
+16 or sub-lease of the land on which or the building in which the facility is located;
+17 (v) Any person who is the ultimate and actual owner of the land, building, mortgages, and
+18 leases of the nursing facility and any lessee of the land or building; and
+19 (vi) The operator or operators of the nursing facility.
+
+1 (2) If any person named in subsection (a)(1) of this section is a partnership or limited
+2 liability company, then the name and address of each partner or member.
+3 (3) If any person named in subsection (a)(1) of this section is a corporation, other than a
+4 corporation whose shares are traded on a national securities exchange or are regularly quoted in an
+5 over-the-counter market or which is a commercial bank, savings bank, or savings and loan
+6 association, then the name and address of each officer, director, stockholder and, if known, each
+7 principal stockholder and controlling person of such corporation.
+8 (4) If any corporation named in subsection (a)(1) of this section is a corporation whose
+9 shares are traded on a national securities exchange or are regularly quoted in an over-the-counter
+10 market or which is a commercial bank, savings bank, or savings and loan association, then the name
+11 and address of the principal executive officers and each director and, if known, each principal
+12 stockholder of such corporation.
+13 (b) In order to promote greater transparency, the department of health shall, upon request,
+14 furnish to the public all documents and information received pursuant to this section.
+15 (c) As used in this section, the term “operator” means the licensee and also includes the
+16 complete ownership entity above the actual entity holding the license.
+17 (d) Any operator that fails to file, in whole or in part, the ownership information required
+18 in accordance with subsection (a) of this section or willingly or knowingly files false or incorrect
+19 ownership information, may, after notice and opportunity for a hearing, be subject to the penalties
+20 set forth in §§ 23-17-8 and 23-17-8.1. The director, in his or her discretion, may require that a
+21 financial audit be conducted of the nursing facility at the operator’s expense and may impose a fine
+22 of the greater of one million dollars ($1,000,000) or the amount of facility assets diverted to
+23 undisclosed interest holders.
+24 SECTION 2. Chapter 23-17 of the General Laws entitled "Licensing of Healthcare
+25 Facilities" is hereby amended by adding thereto the following section:
+26 23-17-12.12. Withdrawal of equity or assets..
+27 (a) On or after July 1, 2025, no nursing facility licensed under this chapter may withdraw
+28 equity or transfer assets which, in the aggregate, exceed three percent (3%) of such facility’s total
+29 reported annual revenue for patient care services, without prior written approval of the director.
+30 Notification shall be made in a form acceptable to the licensing agency by certified mail. Total
+31 reported annual revenue shall be based on the facility’s most recently filed annual BM-64 with the
+32 department of human services, or alternative form prescribed by the director.
+33 (b) The director shall make a determination to approve or disapprove a request for
+34 withdrawal of equity or assets under this section within sixty (60) days of the date of receipt of the
+LC001426 - Page 2 of 4
+
+1 written request from the facility.
+2
+3 SECTION 3. This act shall take effect upon passage.
+========
+LC001426
+========
+LC001426 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- LICENSING OF HEALTHCARE FACILITIES
+***
+1 This act would require the disclosure of the transfer of certain assets of healthcare facilities
+2 and would provide penalties for failing to file healthcare facility ownership information.
+3 This act would take effect upon passage.
+========
+LC001426
+========
+LC001426 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S o 2 ( i ( p ( w ( i ( n i ( o ( l (]
+[DELETED:  ( l ( c o m o w i a c b s b o s a l a p ( s m a s ( f ( c ( i o s f o u S 2 C 2 o t G L e " o H F 2 ( e r N r d ( T d s m a d t a o d a r f w]
+[DELETED:  w  S]
+[DELETED:  T a T]

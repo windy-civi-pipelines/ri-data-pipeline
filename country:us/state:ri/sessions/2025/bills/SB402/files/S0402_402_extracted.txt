@@ -1,0 +1,646 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+Number of Sections: 1
+Source: versions - 402
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0402
+========
+LC000349
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SECURITY ACT
+Introduced By: Senators de la Cruz, and Rogers
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-31-2, 39-31-3, 39-31-4, 39-31-5 and 39-31-7 of the General
+2 Laws in Chapter 39-31 entitled "Affordable Clean Energy Security Act" are hereby amended to
+3 read as follows:
+4 39-31-2. Purpose.
+5 The purpose of this chapter is to:
+6 (1) Secure the future of the Rhode Island and New England economies, and their shared
+7 environment, by making state and/or coordinated, cost-effective, strategic investments in energy
+8 resources and infrastructure such that the New England states improve energy system reliability
+9 and security; enhance economic competitiveness by reducing energy costs to attract new
+10 investment and job growth opportunities; and protect the quality of life and environment for all
+11 residents and businesses;
+12 (2) Utilize state and/or coordinated competitive processes, in collaboration with other New
+13 England states and their instrumentalities, to advance strategic investment in energy infrastructure
+14 and energy resources, provided that the total energy security, reliability, environmental, and
+15 economic benefits to the state of Rhode Island and its ratepayers exceed the costs of the projects,
+16 and ensure that the benefits and costs of the energy infrastructure investments are shared
+17 appropriately among the New England States; and
+18 (3) Encourage an a balanced approach to energy policy that advances the objectives of
+1 achieving a reliable, clean-energy future that is consistent with meeting greenhouse gas reduction
+2 goals as established by chapter 6.2 of title 42 (the “2021 act on climate”) at reasonable cost
+3 affordable to ratepayers. If any provision of this chapter conflicts with the provisions of chapter 6.2
+4 of title 42 ("2021 act on climate") the provisions of this chapter shall prevail.
+5 39-31-3. Commercially reasonable defined. Definitions.
+6 When used in this chapter, “commercially reasonable” (a) "Commercially reasonable"
+7 means terms and pricing that are reasonably consistent with what an experienced power market
+8 analyst would expect to see in transactions involving regional energy resources and regional energy
+9 infrastructure. Commercially reasonable shall include having a credible project operation date, as
+10 determined by the commission, but a project need not have completed the requisite permitting
+11 process to be considered commercially reasonable. Commercially reasonable shall require a
+12 determination by the commission that the benefits to Rhode Island exceed the cost of the project.
+13 The commission shall determine, based on the preponderance of the evidence, that the total energy
+14 security, reliability, environmental, and economic benefits to the state of Rhode Island and its
+15 ratepayers exceed the costs of such projects. If there is a dispute about whether any terms or pricing
+16 are commercially reasonable, the commission shall make the final determination after evidentiary
+17 hearings.
+18 (b) "Emission reduction mitigation" means a technology, process, or method of carbon
+19 sequestration, that is recognized by the U.S. Environmental Protection Agency or as identified by
+20 the office of energy resources that results in the reduction of greenhouse gas emissions from natural
+21 gas transmission or electric generation.
+22 39-31-4. Regional energy planning.
+23 (a) Consistent with the purposes of this chapter, and utilizing regional stakeholder
+24 processes where appropriate, the office of energy resources, in consultation and coordination with
+25 the division of public utilities and carriers and the public utility company that provides electric
+26 distribution as defined in § 39-1-2(a)(12) as well as natural gas as defined in § 39-1-2(a)(17), is
+27 authorized to:
+28 (1) Participate in the development and issuance of state, regional, or multistate competitive
+29 solicitation(s) for the development and construction of regional electric-transmission projects that
+30 would allow for the reliable transmission of large- or small-scale domestic or international
+31 hydroelectric power to New England load centers that will benefit the state of Rhode Island and its
+32 ratepayers, and such solicitations may be issued by the New England States Committee on
+33 Electricity or the electric or natural gas distribution company to further the purposes of this chapter;
+34 (2) Participate in the development and issuance of state, regional, or multistate competitive
+LC000349 - Page 2 of 10
+1 solicitation(s) for the development and construction of regional electric-transmission projects that
+2 would allow for the reliable transmission of eligible renewable energy resources, including offshore
+3 wind, as defined by § 39-26-5(a), to New England load centers that will benefit the state of Rhode
+4 Island and its ratepayers, and the solicitations may be issued by the New England States Committee
+5 on Electricity or the electric or natural gas distribution company to further the purposes of this
+6 chapter; and
+7 (3) Participate in the development and issuance of regional or multistate competitive
+8 solicitation(s) for the development and construction of regional natural-gas-pipeline infrastructure
+9 and capacity that will benefit the state of Rhode Island and its ratepayers by strengthening energy
+10 system reliability and security and, in doing so, potentially mitigate energy price volatility that
+11 threatens the economic vitality and competitiveness of Rhode Island residents and businesses. The
+12 solicitations may be issued by the New England States Committee on Electricity or the electric or
+13 natural gas distribution company to further the purposes of this chapter; and the solicitations may
+14 request proposals that are priced in increments to allow for the evaluation of project costs and
+15 benefits associated with adding various levels of additional, natural gas pipeline capacity into New
+16 England and assist with the optimization of energy system reliability, economic, and other benefits
+17 consistent with the purposes of this chapter.
+18 (4) As part of any such state, regional, or multistate competitive solicitation processes
+19 conducted pursuant to this chapter, the office of energy resources shall work jointly with the
+20 division of public utilities and carriers, and with the electric distribution company as appropriate,
+21 to identify incremental, natural-gas-pipeline infrastructure and capacity and/or electric-
+22 transmission projects that optimize energy reliability, economic, environmental, and ratepayer
+23 impacts for Rhode Island, consistent with the legislative findings and purpose of this chapter. The
+24 office of energy resources and division of public utilities and carriers shall be authorized to utilize
+25 expert consultants, as needed, to assist in any state, regional, multistate, or state-level determination
+26 related to the procurement activities identified in § 39-31-5.
+27 (5) Identify and participate in the development of regional or multistate emissions
+28 reduction mitigation strategies to reduce emissions from natural gas transmission and generated
+29 electricity. The office of energy resources shall participate in the identification, development, and
+30 promote the use of emission mitigations for natural gas transmission and electric generation with
+31 the New England States Committee on Electricity or the electric or natural gas distribution
+32 company.
+33 (b) Prior to any binding commitments being made by any agencies of the state, the electric
+34 distribution company, or any other entity that would result in costs being incurred directly, or
+LC000349 - Page 3 of 10
+1 indirectly, by Rhode Island electric and/or gas consumers through distribution or commodity rates,
+2 the office of energy resources and division of public utilities and carriers shall jointly file any
+3 energy infrastructure project recommendation(s) with the public utilities commission and may
+4 make such filing jointly with the electric or natural gas distribution company as appropriate. The
+5 public utilities commission shall consider any such recommendation(s) as specified under § 39-31-
+6 7.
+7 (c) A copy of the filing made under subsection (b) of this section shall be provided to the
+8 governor, the president of the senate, the speaker of the house, the department of environmental
+9 management, and the commerce corporation.
+10 (d) The electric distribution company shall be provided with a copy of any filing made
+11 under this section at least ten (10) business days in advance of its filing with the public utilities
+12 commission and the electric or gas distribution utility may file separate comments when the filing
+13 is made.
+14 (e) As part of any office of energy resources and division of public utilities and carriers
+15 filing made pursuant to this chapter, the agencies shall identify the expected energy reliability,
+16 energy security, and ratepayer impacts that are expected to result from commitments being made
+17 in connection with the proposed project(s).
+18 (f) The office of energy resources and division of public utilities and carriers reserve the
+19 right to determine that energy infrastructure projects submitted in any state, regional, or multistate
+20 competitive solicitation process are not in Rhode Island’s energy reliability, energy security, and/or
+21 ratepayer interests, and shall make such findings available to the governor, the president of the
+22 senate, and the speaker of the house. The electric or gas distribution utility may attach a separate
+23 opinion to those findings, at its election.
+24 39-31-5. State and regional energy procurement.
+25 (a) Consistent with the purposes of this chapter, the public utility company that provides
+26 electric distribution as defined in § 39-1-2(a)(12), as well as natural gas as defined in § 39-1-
+27 2(a)(17), in consultation with the office of energy resources and the division of public utilities and
+28 carriers is authorized to voluntarily and encouraged to participate in state, multistate, or regional
+29 efforts to:
+30 (1) Procure domestic or international large- or small-scale hydroelectric power and eligible
+31 renewable energy resources, including wind, as defined by § 39-26-5(a), that seek to meet the
+32 renewable energy standard goals of chapter 26 of this title but shall not be mandatory if such
+33 renewable sources are not found to be commercially reasonable and affordable to ratepayers under
+34 this chapter on behalf of electric ratepayers; provided, however, that large-scale hydroelectric
+LC000349 - Page 4 of 10
+1 power shall not be eligible under the renewable energy standard established by chapter 26 of this
+2 title. If the provisions of this section conflict with the provisions of chapter 26 of this title, the
+3 provisions of this section shall prevail;
+4 (2) Procure incremental, natural-gas-pipeline infrastructure and capacity into New England
+5 to help strengthen energy system reliability and facilitate the economic interests of the state and its
+6 ratepayers. Provided that, any natural gas infrastructure or capacity procured that utilizes emissions
+7 reduction mitigation shall be counted towards the statewide greenhouse gas emission reduction
+8 mandate goals as defined by § 42-6.2-9. The office of energy resources shall determine the amount
+9 of emissions reduction to attribute to each emission reduction mitigation identified;
+10 (3) Support the development and filing of necessary tariffs and other appropriate cost-
+11 recovery mechanisms, as proposed by the office of energy resources or the division of public
+12 utilities and carriers, that allocate the costs of new, electric-transmission and natural-gas-pipeline
+13 infrastructure and capacity projects selected pursuant to the provisions of this chapter to ratepayers,
+14 such that costs are shared among participating states in an equitable manner; and
+15 (4) To the extent that the public utility company that provides electric distribution as
+16 defined in § 39-1-2(a)(12), as well as natural gas as defined in § 39-1-2(a)(17), pursues the
+17 objectives identified above, the public utility company shall utilize all appropriate, competitive
+18 processes, and maintain compliance with applicable federal and state siting laws.
+19 (b) Any procurement authorized under this section shall be commercially reasonable.
+20 (c) If any part of this chapter conflicts with chapter 26 of title 39 or chapter 6.2 of title 42
+21 ("2021 act on climate") the provisions of this chapter shall prevail.
+22 39-31-7. Duties of the commission.
+23 (a) The commission shall approve any proposals made by the electric and gas distribution
+24 company that are commercially reasonable, affordable to ratepayers, and advance the purposes of
+25 this chapter. The commission’s authority shall include, without limitation, the authority to:
+26 (1) Approve long-term contracts entered into pursuant to the goals and provisions of this
+27 chapter for large- or small-scale hydroelectric power and renewable energy resources that are
+28 eligible under the renewable energy standard established by chapter 26 of this title; provided,
+29 however, that large-scale hydroelectric power shall not be eligible under the renewable energy
+30 standard established by chapter 26 of this title;
+31 (2) Annually determine the adequacy of renewable energy supplies to meet the increase in
+32 the percentage requirement of energy from renewable energy resources effective for the following
+33 year. The commission shall annually publish the commission’s determination of adequacy on the
+34 agency’s website;
+LC000349 - Page 5 of 10
+1 (2)(3) Approve long-term contracts for natural-gas-pipeline infrastructure and capacity
+2 consistent with the purposes of this chapter;
+3 (3)(4) Approve rate-recovery mechanisms proposed by the electric and gas distribution
+4 companies relating to costs incurred under this chapter by the electric and gas distribution company
+5 that facilitate the multistate or regional sharing of costs necessary to implement electric
+6 transmission and natural-gas-pipeline infrastructure projects pursued under this chapter, including
+7 any costs incurred through the Federal Energy Regulatory Commission approved tariffs related to
+8 such multistate or regional energy infrastructure procurements;
+9 (4)(5) Address any proposed changes to standard-offer procurements, standard-offer
+10 pricing, and retail-choice rules;
+11 (5)(6) Provide for the recovery of reasonable net costs from all distribution customers
+12 incurred by the electric and gas distribution company in furtherance of the purposes of this chapter
+13 that may include, but are not limited to, costs to solicit, evaluate, and seek approval of such
+14 contracts as well as net costs incurred under any contracts approved by the commission under this
+15 section and costs associated with the management of incremental capacity resulting from interstate
+16 gas-pipeline-expansion projects pursued pursuant to this chapter and costs associated with
+17 investments in local gas-distribution-network assets necessary to implement such interstate gas-
+18 pipeline-expansion projects;
+19 (6)(7) Nothing herein is intended to prohibit the commission from allowing the electric
+20 distribution company to use the energy, capacity, and other attributes purchased for resale to
+21 customers and approve tariffs that charge those customers for the energy, capacity, and other
+22 attributes from the resale to those customers; and/or to use the NE-GIS certificates for purposes of
+23 meeting the obligations set forth in chapter 26 of this title (“renewable energy standard”);
+24 (7)(8) Approve cost allocation proposals filed by the gas distribution company and/or the
+25 electric distribution company that appropriately allocate offshore wind costs incurred under § 39-
+26 31-10, natural gas infrastructure and capacity costs incurred under § 39-31-6 between electric and
+27 gas distribution customers of the electric and gas distribution company in a manner proportional to
+28 the energy benefits accrued by Rhode Island’s gas and electric customers from making such
+29 investments. In making its determination, the commission shall consider projected reductions in
+30 regional, wholesale electric prices as a benefit that accrues to electric ratepayers. The allocation of
+31 costs shall include all distribution customers, regardless from whom they are purchasing their
+32 commodity service; and
+33 (8)(9) Approve any other proposed regulatory or ratemaking changes that reasonably
+34 advance the goals set forth herein.
+LC000349 - Page 6 of 10
+1 (b) The grant of authorizations under this chapter shall not be construed as creating a
+2 mandate or obligation on the part of the electric and gas distribution company to enter into any
+3 contracts or file any proposals pursuant to this chapter.
+4 (c) The public utilities commission shall docket any proposals made by the office of energy
+5 resources and division of public utilities and carriers pursuant to § 39-31-4. Docket materials shall
+6 be posted and maintained on the commission’s website. The commission shall conduct
+7 proceedings, as provided below, solely for the purpose of determining whether the proposed
+8 infrastructure projects, if implemented, are in the public interest and no commitments shall be valid
+9 or authorized without such finding being made by the commission. The validity and approval of
+10 any commitments made by the electric or gas distribution company in furtherance of the purposes
+11 of this chapter shall be separate and subject to § 39-31-5. The docket opened pursuant to this
+12 subsection shall proceed as follows:
+13 (1) The following state agencies shall provide advisory opinions to the commission on the
+14 topics specified below within sixty (60) days from the docketing date:
+15 (i) The department of environmental management (DEM) shall provide an advisory
+16 opinion on the expected greenhouse gas emissions and statewide environmental impacts, including
+17 on forests and the oceans, resulting from the proposed project(s), including a determination as to
+18 whether the proposed project(s) advance the goals of chapter 6.2 of title 42 (the “2021 Act on
+19 Climate”).
+20 (ii) The commerce corporation shall provide an advisory opinion on the expected statewide
+21 economic impacts resulting from the proposed project(s).
+22 (2) The commission shall notify the aforementioned agencies upon the filing of any
+23 proposal made under this section, and notify them of any related hearings and/or proceedings.
+24 (3) Advisory opinions issued by agencies designated under subsection (c)(1) of this section
+25 shall not be considered as final decisions of the agencies making the opinions and shall not be
+26 subject to judicial review under § 42-35-15 or any other provision of the general laws.
+27 (4) Upon completion of the sixty-day (60) advisory-opinion period, the commission shall
+28 provide for a thirty-day (30) public comment period on any energy infrastructure project(s) selected
+29 pursuant to this chapter and hold evidentiary hearings. In addition to evidentiary hearings, the
+30 commission shall also hold at least one public hearing to accept public comment on the proposal(s)
+31 prior to an open meeting held pursuant to this section. The commission shall also seek input from
+32 the ratepayer's advisory board established under § 39-1-37.1 before the end of the thirty (30) day
+33 public comment period.
+34 (5) The commission shall hold an open meeting no later than one hundred twenty (120)
+LC000349 - Page 7 of 10
+1 days from the date of filing by the office of energy resources and division of public utilities and
+2 carriers and shall certify that the proposed project(s) are in the public interest if, in the commission’s
+3 determination, and in consideration of filed advisory opinions and the opinion of the electric or gas
+4 distribution utility, the proposed infrastructure project(s):
+5 (i) Are consistent with the findings and purposes of this chapter;
+6 (ii) Will benefit Rhode Island by improving local and regional energy system reliability
+7 and security;
+8 (iii) Will benefit Rhode Island ratepayers by offering the potential for reduced energy price
+9 volatility and reduction of energy supply costs in the context of an integrated regional energy
+10 system;
+11 (iv) Will not cause unacceptable harm to the environment and are consistent with, seeks to
+12 reasonably meet the greenhouse gas reduction goals established in chapter 6.2 of title 42 (the “2021
+13 Act on Climate”) and does not conflict with this chapter; and
+14 (v) Will enhance not harm the economic fabric growth of the state.
+15 (6) The commission shall issue a written determination of its findings within ten (10)
+16 business days of its open-meeting decision and provide copies of that determination, along with
+17 copies of all advisory opinions, public comment, and any other materials deemed relevant to the
+18 commission determination, to the governor, the president of the senate, the speaker of the house,
+19 the commissioner of the office of energy resources, and the administrator of the division of public
+20 utilities and carriers.
+21 (d) A determination issued by the commission shall constitute the sole, final, binding, and
+22 determinative regulatory decision within the state for the purpose of authorizing the state to support
+23 a proposed, regional energy-infrastructure project(s) that is funded through the Federal Energy
+24 Regulatory Commission approved tariffs on a regional and/or multistate basis pursuant to this
+25 chapter. Appeals shall be governed by § 39-5-1.
+26 (e) Upon issuance of a written determination by the commission finding that the proposed
+27 project(s) is in the public interest, the office of energy resources and division of public utilities and
+28 carriers shall, on behalf of the state, be authorized to support any state, regional, and/or multistate
+29 process necessary to implement the project(s), including, without limitation, supporting any
+30 necessary and related Federal Energy Regulatory Commission filings; provided, however, that any
+31 commitments made by the electric or gas distribution company to implement the proposals remain
+32 voluntary and subject to § 39-31-5.
+33 (f) Nothing in this section shall be construed to preclude the electric or gas distribution
+34 company from making a filing under § 39-31-6, simultaneous with a filing under this section by
+LC000349 - Page 8 of 10
+1 the office of energy resources and the division of public utilities and carriers, in which case the
+2 filings made under §§ 39-31-6 and 39-31-7 shall be consolidated.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC000349
+========
+LC000349 - Page 9 of 10
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+***
+1 This act would make several amendments relative to the affordable clean energy security
+2 act establishing the act's priority over chapter 6.2 of title 42 ("2021 act on climate") and providing
+3 for the participation and development of regional or multistate emissions reduction mitigation
+4 strategies.
+5 This act would take effect upon passage.
+========
+LC000349
+========
+LC000349 - Page 10 of 10
+[DELETED: TATE  OF  RHODE  ISLAND S L r 3 T ( e r a s e e c b r e c t a n i r ( E a e r p t t t e s r e a e a e t t b a c o t e i i a s a (]
+[DELETED:  a g a a o 3 W r m a i d p t b c c r C r s r a d T s r a h ( s t g 3 ( C w t p o t c a u r s p t d a ( s w a f t r t o l o s d o i h r a s s m b i b t N E S C o E (]
+[DELETED:  s w w I o c ( P i t d a i o r o m c s a s t s n r b E c ( c d t i i n i a c a e t i o e r ( I a p i t d o r o m e r e p t N E S C o E o t e o n g d c ( d]
+[DELETED:  i t e m p 7 ( g m ( u c i ( f e i ( r c r s o 3 ( e 2 c e ( r r r t]
+[DELETED:  p t p ( t r r m o ( r u i s ( d i § 3 a w a n g a d i § 3 p t o p ( ( ( 3 ( c t ( c e h s ( t y a]
+[DELETED:  ( c ( c t f t m o r s o c n t i e t a s ( A a p c t s p s p ( i t c s g p p p t t c a c a w i p ( d c a m ( e 3 g t e b a b R I g a e c f m s i r c c ( A a o p r o r c t r a]
+[DELETED:  ( m c ( r b p a m o t c w T c s c p a p b s f t p o d w t p i o a o s ( t ( T d o e m ( s p a a o o w C ( e ( T c s n t a a u t f o a p ( s s ( p p c p t p (]
+[DELETED:  d c d d ( ( a ( v s ( r A ( ( b c c t u ( d a R c ( p c p n t i t p i w l s a n c v ( c]
+[DELETED:  t f S]
+[DELETED:  T a f s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0402
+========
+LC000349
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+Introduced By: Senators de la Cruz, and Rogers
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-31-2, 39-31-3, 39-31-4, 39-31-5 and 39-31-7 of the General
+2 Laws in Chapter 39-31 entitled "Affordable Clean Energy Security Act" are hereby amended to
+3 read as follows:
+4 39-31-2. Purpose.
+5 The purpose of this chapter is to:
+6 (1) Secure the future of the Rhode Island and New England economies, and their shared
+7 environment, by making state and/or coordinated, cost-effective, strategic investments in energy
+8 resources and infrastructure such that the New England states improve energy system reliability
+9 and security; enhance economic competitiveness by reducing energy costs to attract new
+10 investment and job growth opportunities; and protect the quality of life and environment for all
+11 residents and businesses;
+12 (2) Utilize state and/or coordinated competitive processes, in collaboration with other New
+13 England states and their instrumentalities, to advance strategic investment in energy infrastructure
+14 and energy resources, provided that the total energy security, reliability, environmental, and
+15 economic benefits to the state of Rhode Island and its ratepayers exceed the costs of the projects,
+16 and ensure that the benefits and costs of the energy infrastructure investments are shared
+17 appropriately among the New England States; and
+18 (3) Encourage an a balanced approach to energy policy that advances the objectives of
+
+1 achieving a reliable, clean-energy future that is consistent with meeting greenhouse gas reduction
+2 goals as established by chapter 6.2 of title 42 (the “2021 act on climate”) at reasonable cost
+3 affordable to ratepayers. If any provision of this chapter conflicts with the provisions of chapter 6.2
+4 of title 42 ("2021 act on climate") the provisions of this chapter shall prevail.
+5 39-31-3. Commercially reasonable defined. Definitions.
+6 When used in this chapter, “commercially reasonable” (a) "Commercially reasonable"
+7 means terms and pricing that are reasonably consistent with what an experienced power market
+8 analyst would expect to see in transactions involving regional energy resources and regional energy
+9 infrastructure. Commercially reasonable shall include having a credible project operation date, as
+10 determined by the commission, but a project need not have completed the requisite permitting
+11 process to be considered commercially reasonable. Commercially reasonable shall require a
+12 determination by the commission that the benefits to Rhode Island exceed the cost of the project.
+13 The commission shall determine, based on the preponderance of the evidence, that the total energy
+14 security, reliability, environmental, and economic benefits to the state of Rhode Island and its
+15 ratepayers exceed the costs of such projects. If there is a dispute about whether any terms or pricing
+16 are commercially reasonable, the commission shall make the final determination after evidentiary
+17 hearings.
+18 (b) "Emission reduction mitigation" means a technology, process, or method of carbon
+19 sequestration, that is recognized by the U.S. Environmental Protection Agency or as identified by
+20 the office of energy resources that results in the reduction of greenhouse gas emissions from natural
+21 gas transmission or electric generation.
+22 39-31-4. Regional energy planning.
+23 (a) Consistent with the purposes of this chapter, and utilizing regional stakeholder
+24 processes where appropriate, the office of energy resources, in consultation and coordination with
+25 the division of public utilities and carriers and the public utility company that provides electric
+26 distribution as defined in § 39-1-2(a)(12) as well as natural gas as defined in § 39-1-2(a)(17), is
+27 authorized to:
+28 (1) Participate in the development and issuance of state, regional, or multistate competitive
+29 solicitation(s) for the development and construction of regional electric-transmission projects that
+30 would allow for the reliable transmission of large- or small-scale domestic or international
+31 hydroelectric power to New England load centers that will benefit the state of Rhode Island and its
+32 ratepayers, and such solicitations may be issued by the New England States Committee on
+33 Electricity or the electric or natural gas distribution company to further the purposes of this chapter;
+34 (2) Participate in the development and issuance of state, regional, or multistate competitive
+LC000349 - Page 2 of 10
+
+1 solicitation(s) for the development and construction of regional electric-transmission projects that
+2 would allow for the reliable transmission of eligible renewable energy resources, including offshore
+3 wind, as defined by § 39-26-5(a), to New England load centers that will benefit the state of Rhode
+4 Island and its ratepayers, and the solicitations may be issued by the New England States Committee
+5 on Electricity or the electric or natural gas distribution company to further the purposes of this
+6 chapter; and
+7 (3) Participate in the development and issuance of regional or multistate competitive
+8 solicitation(s) for the development and construction of regional natural-gas-pipeline infrastructure
+9 and capacity that will benefit the state of Rhode Island and its ratepayers by strengthening energy
+10 system reliability and security and, in doing so, potentially mitigate energy price volatility that
+11 threatens the economic vitality and competitiveness of Rhode Island residents and businesses. The
+12 solicitations may be issued by the New England States Committee on Electricity or the electric or
+13 natural gas distribution company to further the purposes of this chapter; and the solicitations may
+14 request proposals that are priced in increments to allow for the evaluation of project costs and
+15 benefits associated with adding various levels of additional, natural gas pipeline capacity into New
+16 England and assist with the optimization of energy system reliability, economic, and other benefits
+17 consistent with the purposes of this chapter.
+18 (4) As part of any such state, regional, or multistate competitive solicitation processes
+19 conducted pursuant to this chapter, the office of energy resources shall work jointly with the
+20 division of public utilities and carriers, and with the electric distribution company as appropriate,
+21 to identify incremental, natural-gas-pipeline infrastructure and capacity and/or electric-
+22 transmission projects that optimize energy reliability, economic, environmental, and ratepayer
+23 impacts for Rhode Island, consistent with the legislative findings and purpose of this chapter. The
+24 office of energy resources and division of public utilities and carriers shall be authorized to utilize
+25 expert consultants, as needed, to assist in any state, regional, multistate, or state-level determination
+26 related to the procurement activities identified in § 39-31-5.
+27 (5) Identify and participate in the development of regional or multistate emissions
+28 reduction mitigation strategies to reduce emissions from natural gas transmission and generated
+29 electricity. The office of energy resources shall participate in the identification, development, and
+30 promote the use of emission mitigations for natural gas transmission and electric generation with
+31 the New England States Committee on Electricity or the electric or natural gas distribution
+32 company.
+33 (b) Prior to any binding commitments being made by any agencies of the state, the electric
+34 distribution company, or any other entity that would result in costs being incurred directly, or
+LC000349 - Page 3 of 10
+
+1 indirectly, by Rhode Island electric and/or gas consumers through distribution or commodity rates,
+2 the office of energy resources and division of public utilities and carriers shall jointly file any
+3 energy infrastructure project recommendation(s) with the public utilities commission and may
+4 make such filing jointly with the electric or natural gas distribution company as appropriate. The
+5 public utilities commission shall consider any such recommendation(s) as specified under § 39-31-
+6 7.
+7 (c) A copy of the filing made under subsection (b) of this section shall be provided to the
+8 governor, the president of the senate, the speaker of the house, the department of environmental
+9 management, and the commerce corporation.
+10 (d) The electric distribution company shall be provided with a copy of any filing made
+11 under this section at least ten (10) business days in advance of its filing with the public utilities
+12 commission and the electric or gas distribution utility may file separate comments when the filing
+13 is made.
+14 (e) As part of any office of energy resources and division of public utilities and carriers
+15 filing made pursuant to this chapter, the agencies shall identify the expected energy reliability,
+16 energy security, and ratepayer impacts that are expected to result from commitments being made
+17 in connection with the proposed project(s).
+18 (f) The office of energy resources and division of public utilities and carriers reserve the
+19 right to determine that energy infrastructure projects submitted in any state, regional, or multistate
+20 competitive solicitation process are not in Rhode Island’s energy reliability, energy security, and/or
+21 ratepayer interests, and shall make such findings available to the governor, the president of the
+22 senate, and the speaker of the house. The electric or gas distribution utility may attach a separate
+23 opinion to those findings, at its election.
+24 39-31-5. State and regional energy procurement.
+25 (a) Consistent with the purposes of this chapter, the public utility company that provides
+26 electric distribution as defined in § 39-1-2(a)(12), as well as natural gas as defined in § 39-1-
+27 2(a)(17), in consultation with the office of energy resources and the division of public utilities and
+28 carriers is authorized to voluntarily and encouraged to participate in state, multistate, or regional
+29 efforts to:
+30 (1) Procure domestic or international large- or small-scale hydroelectric power and eligible
+31 renewable energy resources, including wind, as defined by § 39-26-5(a), that seek to meet the
+32 renewable energy standard goals of chapter 26 of this title but shall not be mandatory if such
+33 renewable sources are not found to be commercially reasonable and affordable to ratepayers under
+34 this chapter on behalf of electric ratepayers; provided, however, that large-scale hydroelectric
+LC000349 - Page 4 of 10
+
+1 power shall not be eligible under the renewable energy standard established by chapter 26 of this
+2 title. If the provisions of this section conflict with the provisions of chapter 26 of this title, the
+3 provisions of this section shall prevail;
+4 (2) Procure incremental, natural-gas-pipeline infrastructure and capacity into New England
+5 to help strengthen energy system reliability and facilitate the economic interests of the state and its
+6 ratepayers. Provided that, any natural gas infrastructure or capacity procured that utilizes emissions
+7 reduction mitigation shall be counted towards the statewide greenhouse gas emission reduction
+8 mandate goals as defined by § 42-6.2-9. The office of energy resources shall determine the amount
+9 of emissions reduction to attribute to each emission reduction mitigation identified;
+10 (3) Support the development and filing of necessary tariffs and other appropriate cost-
+11 recovery mechanisms, as proposed by the office of energy resources or the division of public
+12 utilities and carriers, that allocate the costs of new, electric-transmission and natural-gas-pipeline
+13 infrastructure and capacity projects selected pursuant to the provisions of this chapter to ratepayers,
+14 such that costs are shared among participating states in an equitable manner; and
+15 (4) To the extent that the public utility company that provides electric distribution as
+16 defined in § 39-1-2(a)(12), as well as natural gas as defined in § 39-1-2(a)(17), pursues the
+17 objectives identified above, the public utility company shall utilize all appropriate, competitive
+18 processes, and maintain compliance with applicable federal and state siting laws.
+19 (b) Any procurement authorized under this section shall be commercially reasonable.
+20 (c) If any part of this chapter conflicts with chapter 26 of title 39 or chapter 6.2 of title 42
+21 ("2021 act on climate") the provisions of this chapter shall prevail.
+22 39-31-7. Duties of the commission.
+23 (a) The commission shall approve any proposals made by the electric and gas distribution
+24 company that are commercially reasonable, affordable to ratepayers, and advance the purposes of
+25 this chapter. The commission’s authority shall include, without limitation, the authority to:
+26 (1) Approve long-term contracts entered into pursuant to the goals and provisions of this
+27 chapter for large- or small-scale hydroelectric power and renewable energy resources that are
+28 eligible under the renewable energy standard established by chapter 26 of this title; provided,
+29 however, that large-scale hydroelectric power shall not be eligible under the renewable energy
+30 standard established by chapter 26 of this title;
+31 (2) Annually determine the adequacy of renewable energy supplies to meet the increase in
+32 the percentage requirement of energy from renewable energy resources effective for the following
+33 year. The commission shall annually publish the commission’s determination of adequacy on the
+34 agency’s website;
+LC000349 - Page 5 of 10
+
+1 (2)(3) Approve long-term contracts for natural-gas-pipeline infrastructure and capacity
+2 consistent with the purposes of this chapter;
+3 (3)(4) Approve rate-recovery mechanisms proposed by the electric and gas distribution
+4 companies relating to costs incurred under this chapter by the electric and gas distribution company
+5 that facilitate the multistate or regional sharing of costs necessary to implement electric
+6 transmission and natural-gas-pipeline infrastructure projects pursued under this chapter, including
+7 any costs incurred through the Federal Energy Regulatory Commission approved tariffs related to
+8 such multistate or regional energy infrastructure procurements;
+9 (4)(5) Address any proposed changes to standard-offer procurements, standard-offer
+10 pricing, and retail-choice rules;
+11 (5)(6) Provide for the recovery of reasonable net costs from all distribution customers
+12 incurred by the electric and gas distribution company in furtherance of the purposes of this chapter
+13 that may include, but are not limited to, costs to solicit, evaluate, and seek approval of such
+14 contracts as well as net costs incurred under any contracts approved by the commission under this
+15 section and costs associated with the management of incremental capacity resulting from interstate
+16 gas-pipeline-expansion projects pursued pursuant to this chapter and costs associated with
+17 investments in local gas-distribution-network assets necessary to implement such interstate gas-
+18 pipeline-expansion projects;
+19 (6)(7) Nothing herein is intended to prohibit the commission from allowing the electric
+20 distribution company to use the energy, capacity, and other attributes purchased for resale to
+21 customers and approve tariffs that charge those customers for the energy, capacity, and other
+22 attributes from the resale to those customers; and/or to use the NE-GIS certificates for purposes of
+23 meeting the obligations set forth in chapter 26 of this title (“renewable energy standard”);
+24 (7)(8) Approve cost allocation proposals filed by the gas distribution company and/or the
+25 electric distribution company that appropriately allocate offshore wind costs incurred under § 39-
+26 31-10, natural gas infrastructure and capacity costs incurred under § 39-31-6 between electric and
+27 gas distribution customers of the electric and gas distribution company in a manner proportional to
+28 the energy benefits accrued by Rhode Island’s gas and electric customers from making such
+29 investments. In making its determination, the commission shall consider projected reductions in
+30 regional, wholesale electric prices as a benefit that accrues to electric ratepayers. The allocation of
+31 costs shall include all distribution customers, regardless from whom they are purchasing their
+32 commodity service; and
+33 (8)(9) Approve any other proposed regulatory or ratemaking changes that reasonably
+34 advance the goals set forth herein.
+LC000349 - Page 6 of 10
+
+1 (b) The grant of authorizations under this chapter shall not be construed as creating a
+2 mandate or obligation on the part of the electric and gas distribution company to enter into any
+3 contracts or file any proposals pursuant to this chapter.
+4 (c) The public utilities commission shall docket any proposals made by the office of energy
+5 resources and division of public utilities and carriers pursuant to § 39-31-4. Docket materials shall
+6 be posted and maintained on the commission’s website. The commission shall conduct
+7 proceedings, as provided below, solely for the purpose of determining whether the proposed
+8 infrastructure projects, if implemented, are in the public interest and no commitments shall be valid
+9 or authorized without such finding being made by the commission. The validity and approval of
+10 any commitments made by the electric or gas distribution company in furtherance of the purposes
+11 of this chapter shall be separate and subject to § 39-31-5. The docket opened pursuant to this
+12 subsection shall proceed as follows:
+13 (1) The following state agencies shall provide advisory opinions to the commission on the
+14 topics specified below within sixty (60) days from the docketing date:
+15 (i) The department of environmental management (DEM) shall provide an advisory
+16 opinion on the expected greenhouse gas emissions and statewide environmental impacts, including
+17 on forests and the oceans, resulting from the proposed project(s), including a determination as to
+18 whether the proposed project(s) advance the goals of chapter 6.2 of title 42 (the “2021 Act on
+19 Climate”).
+20 (ii) The commerce corporation shall provide an advisory opinion on the expected statewide
+21 economic impacts resulting from the proposed project(s).
+22 (2) The commission shall notify the aforementioned agencies upon the filing of any
+23 proposal made under this section, and notify them of any related hearings and/or proceedings.
+24 (3) Advisory opinions issued by agencies designated under subsection (c)(1) of this section
+25 shall not be considered as final decisions of the agencies making the opinions and shall not be
+26 subject to judicial review under § 42-35-15 or any other provision of the general laws.
+27 (4) Upon completion of the sixty-day (60) advisory-opinion period, the commission shall
+28 provide for a thirty-day (30) public comment period on any energy infrastructure project(s) selected
+29 pursuant to this chapter and hold evidentiary hearings. In addition to evidentiary hearings, the
+30 commission shall also hold at least one public hearing to accept public comment on the proposal(s)
+31 prior to an open meeting held pursuant to this section. The commission shall also seek input from
+32 the ratepayer's advisory board established under § 39-1-37.1 before the end of the thirty (30) day
+33 public comment period.
+34 (5) The commission shall hold an open meeting no later than one hundred twenty (120)
+LC000349 - Page 7 of 10
+
+1 days from the date of filing by the office of energy resources and division of public utilities and
+2 carriers and shall certify that the proposed project(s) are in the public interest if, in the commission’s
+3 determination, and in consideration of filed advisory opinions and the opinion of the electric or gas
+4 distribution utility, the proposed infrastructure project(s):
+5 (i) Are consistent with the findings and purposes of this chapter;
+6 (ii) Will benefit Rhode Island by improving local and regional energy system reliability
+7 and security;
+8 (iii) Will benefit Rhode Island ratepayers by offering the potential for reduced energy price
+9 volatility and reduction of energy supply costs in the context of an integrated regional energy
+10 system;
+11 (iv) Will not cause unacceptable harm to the environment and are consistent with, seeks to
+12 reasonably meet the greenhouse gas reduction goals established in chapter 6.2 of title 42 (the “2021
+13 Act on Climate”) and does not conflict with this chapter; and
+14 (v) Will enhance not harm the economic fabric growth of the state.
+15 (6) The commission shall issue a written determination of its findings within ten (10)
+16 business days of its open-meeting decision and provide copies of that determination, along with
+17 copies of all advisory opinions, public comment, and any other materials deemed relevant to the
+18 commission determination, to the governor, the president of the senate, the speaker of the house,
+19 the commissioner of the office of energy resources, and the administrator of the division of public
+20 utilities and carriers.
+21 (d) A determination issued by the commission shall constitute the sole, final, binding, and
+22 determinative regulatory decision within the state for the purpose of authorizing the state to support
+23 a proposed, regional energy-infrastructure project(s) that is funded through the Federal Energy
+24 Regulatory Commission approved tariffs on a regional and/or multistate basis pursuant to this
+25 chapter. Appeals shall be governed by § 39-5-1.
+26 (e) Upon issuance of a written determination by the commission finding that the proposed
+27 project(s) is in the public interest, the office of energy resources and division of public utilities and
+28 carriers shall, on behalf of the state, be authorized to support any state, regional, and/or multistate
+29 process necessary to implement the project(s), including, without limitation, supporting any
+30 necessary and related Federal Energy Regulatory Commission filings; provided, however, that any
+31 commitments made by the electric or gas distribution company to implement the proposals remain
+32 voluntary and subject to § 39-31-5.
+33 (f) Nothing in this section shall be construed to preclude the electric or gas distribution
+34 company from making a filing under § 39-31-6, simultaneous with a filing under this section by
+LC000349 - Page 8 of 10
+
+1 the office of energy resources and the division of public utilities and carriers, in which case the
+2 filings made under §§ 39-31-6 and 39-31-7 shall be consolidated.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC000349
+========
+LC000349 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+***
+1 This act would make several amendments relative to the affordable clean energy security
+2 act establishing the act's priority over chapter 6.2 of title 42 ("2021 act on climate") and providing
+3 for the participation and development of regional or multistate emissions reduction mitigation
+4 strategies.
+5 This act would take effect upon passage.
+========
+LC000349
+========
+LC000349 - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S L r 3 T ( e r a s e e c b r e c t a n i r ( E a e r p t t t e s r e a e a e t t b a c o t e i i a s a (]
+[DELETED:  a g a a o 3 W r m a i d p t b c c r C r s r a d T s r a h ( s t g 3 ( C w t p o t c a u r s p t d a ( s w a f t r t o l o s d o i h r a s s m b i b t N E S C o E (]
+[DELETED:  s w w I o c ( P i t d a i o r o m c s a s t s n r b E c ( c d t i i n i a c a e t i o e r ( I a p i t d o r o m e r e p t N E S C o E o t e o n g d c ( d]
+[DELETED:  i t e m p 7 ( g m ( u c i ( f e i ( r c r s o 3 ( e 2 c e ( r r r t]
+[DELETED:  p t p ( t r r m o ( r u i s ( d i § 3 a w a n g a d i § 3 p t o p ( ( ( 3 ( c t ( c e h s ( t y a]
+[DELETED:  ( c ( c t f t m o r s o c n t i e t a s ( A a p c t s p s p ( i t c s g p p p t t c a c a w i p ( d c a m ( e 3 g t e b a b R I g a e c f m s i r c c ( A a o p r o r c t r a]
+[DELETED:  ( m c ( r b p a m o t c w T c s c p a p b s f t p o d w t p i o a o s ( t ( T d o e m ( s p a a o o w C ( e ( T c s n t a a u t f o a p ( s s ( p p c p t p (]
+[DELETED:  d c d d ( ( a ( v s ( r A ( ( b c c t u ( d a R c ( p c p n t i t p i w l s a n c v ( c]
+[DELETED:  t f S]
+[DELETED:  T a f s T]

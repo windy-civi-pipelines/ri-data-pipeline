@@ -1,0 +1,611 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIVE CONFINEMENT
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIVE CONFINEMENT
+Number of Sections: 1
+Source: versions - 5927
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5927
+========
+LC001993
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+OVERSIGHT ACT
+Introduced By: Representatives Felix, Potter, Cruz, Batista, Sanchez, Kazarian, Kislak,
+Stewart, Alzate, and Handy
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 56.4
+4 RESTRICTIVE CONFINEMENT OVERSIGHT ACT
+5 42-56.4-1. Definitions.
+6 As used in this chapter, unless the context indicates a different meaning or intent:
+7 (1) "Basic necessities" means and includes weather-appropriate clothing and footwear;
+8 adequate food in compliance with medical and religious accommodations, with no more than
+9 twelve (12) hours between meals; access to drinking water and functioning sanitary fixtures; access
+10 to a shower and hygienic items; bedding; and ventilation.
+11 (2) "Cell" means any room, area or space that is primarily used for the confinement of
+12 prisoners; or any room, area or space that is less than four hundred square feet (400 sq. ft),
+13 regardless of use or purpose; or any indoor room that is solely accessible to one prisoner at a time.
+14 Shared spaces whose primary purpose is congregate social interaction, education, programming,
+15 rehabilitation, or physical and psychological wellness, including recreation areas, classrooms,
+16 libraries, and spaces used for medical evaluation and treatment, shall not constitute "cells."
+17 (3) "Department" means the department of corrections.
+18 (4) "Director" means the director of the department of corrections.
+1 (5) "Disciplinary confinement" means confinement of a prisoner based on violation of
+2 departmental rules, whether in the general population, a specialized housing unit, or elsewhere.
+3 (6) "General population" means classification to maximum, medium, or minimum security
+4 with no restrictions placed on activities or privileges.
+5 (7) "Member of a vulnerable population" means someone who:
+6 (i) Has a serious and persistent mental illness, as defined by the department of corrections,
+7 or a psychiatric disability, as defined in § 40.1-5-2;
+8 (ii) Has a developmental disability, as defined in § 40.1-1-8.1;
+9 (iii) Is pregnant, in the postpartum period, or has recently suffered a miscarriage or
+10 terminated a pregnancy; or
+11 (iv) Has a significant auditory or visual impairment, or a serious medical condition that
+12 cannot be adequately treated in restrictive housing or which is medically contraindicated to
+13 placement in restrictive housing.
+14 (8) “Lock down” means a temporary, emergency period within the prison caused by present
+15 danger or lack of staffing.
+16 42-56.4-2. Discipline -- Disciplinary confinement.
+17 (a) All prisoners shall receive a minimum of two (2) hours out of a cell each day, except
+18 that in the case of a facility lockdown, out of cell time can be restricted for no longer than a twenty-
+19 four (24)-hour consecutive period of time.
+20 (b) Any prisoner that is not in disciplinary confinement must be provided with three (3) or
+21 more hours of time outside a cell per day with opportunities for meaningful social interaction with
+22 other prisoners.
+23 (c) For every thirty (30) consecutive days, all prisoners must receive at least three (3) hours
+24 of time outside a cell per day with opportunities for meaningful social interaction for at least fifteen
+25 (15) of those thirty (30) days. In no event, shall any prisoner receive fewer than three (3) hours of
+26 time outside of cell for more than fifteen (15) days in any thirty (30) day period.
+27 (d) No prisoners shall be denied access to any basic necessities except if necessary for a
+28 period of no more than twenty-four (24) hours immediately after physically moving to a new
+29 housing module or facility.
+30 42-56.4-3. Reporting.
+31 (a) The department of corrections shall issue a report ("annual restrictive housing report")
+32 to be made publicly available on the department's website one year after the effective date of this
+33 chapter and by January 31 of each year thereafter, containing the following information, broken
+34 down by housing location and inmate status and classification:
+LC001993 - Page 2 of 9
+1 (1) The number of prisoners in each status;
+2 (2) The nature of the infractions and behaviors leading to the removal from general
+3 population;
+4 (3) The lengths of terms served outside of general population, including terms served
+5 consecutively and cumulatively;
+6 (4) The races, ethnicities, genders, and religions of all prisoners outside of general
+7 population;
+8 (5) The number of members of a vulnerable population outside of general population, by
+9 category promulgated in the definition thereof listed in § 42-56.4-2; and
+10 (6) The average weekly out-of-cell time provided to prisoners in each category
+11 confinement outside of general population.
+12 (b) The restrictive housing oversight committee, as created in § 42-26-20, may require the
+13 department to publish additional information, in addition to the fields delineated by statute, in the
+14 annual restrictive housing report.
+15 42-56.4-4. Declaratory judgment.
+16 (a) Any prisoner may bring an action for declaratory judgment in the superior court of
+17 Providence county, when it is alleged that:
+18 (1) The department of corrections or an officer thereof failed to perform a duty enjoined
+19 upon it by this chapter, or acted in violation of lawful procedure as required by this chapter; or
+20 (2) A department rule, or its threatened application, interferes with or impairs, or threatens
+21 to interfere with or impair, the legal rights or privileges of the plaintiff under this chapter or the
+22 state or federal Constitution.
+23 (b) A declaratory judgment may be rendered whether or not the plaintiff has requested the
+24 agency to pass upon the validity or applicability of the rule in question.
+25 SECTION 2. Chapter 42-26 of the General Laws entitled "Public Safety Grant
+26 Administration Office" is hereby amended by adding thereto the following section:
+27 42-26-20. Restrictive housing oversight committee.
+28 (a) There is hereby created within the public safety grant administration office, pursuant to
+29 the provisions of § 42-26-7, the restrictive housing oversight committee (the "committee") for the
+30 purpose of monitoring the use of restrictive housing at the department of corrections.
+31 (b) The committee shall consist of the following five (5) members who shall assemble
+32 annually or more often at the call of the chairperson or upon petition of a majority of its members:
+33 (1) One who has been previously sentenced to spend time in restrictive housing, appointed
+34 by the Black, Latino, Indigenous, Asian-American, and Pacific Islander Caucus of the general
+LC001993 - Page 3 of 9
+1 assembly;
+2 (2) A designee from a nonprofit organization that has a mission to advance the welfare and
+3 rights of incarcerated people and who has expertise in law and a demonstrated interest in advancing
+4 the rights and welfare of incarcerated persons, appointed by the speaker of the house of
+5 representatives;
+6 (3) A designee of the Rhode Island Chapter of the National Association of Social Workers
+7 who has expertise in the provision of mental health care to incarcerated persons or formerly
+8 incarcerated persons, appointed by the president of the senate;
+9 (4) The Rhode Island public defender, or designee; and
+10 (5) The director of the department of corrections, or designee.
+11 (c) The chair of the committee shall be selected by the members of the committee.
+12 (d) Of the members first appointed to the committee, two (2) members shall serve a term
+13 of two (2) years, two (2) members shall serve a term of one year, and thereafter, members shall
+14 serve a term of two (2) years. Members shall continue to serve until their successor is duly
+15 appointed and qualified. Any vacancy on the oversight committee shall be filled in the same manner
+16 as the original appointment.
+17 (e) The committee shall perform the following functions:
+18 (1) Appoint a restrictive housing ombudsperson (the "ombudsperson") based on whatever
+19 procedure is determined by the committee;
+20 (2) Review and supervise the actions of the ombudsperson;
+21 (3) Meet not less than quarterly to bring matters to the ombudsperson's attention and to
+22 consult on their services, findings and recommendations; and
+23 (4) Convene semiannual public hearings to discuss the ombudsperson's services, findings
+24 and recommendations.
+25 (f) The ombudsperson shall be empowered to:
+26 (1) Receive and investigate complaints related to incarcerated persons' health, safety,
+27 welfare, and rights;
+28 (2) Identify issues within the department of corrections related to restrictive housing;
+29 (3) Ensure compliance with relevant statutes, rules, and policies pertaining to restrictive
+30 housing;
+31 (4) Provide information to inmates, probationers, and parolees, and their families related
+32 to restrictive housing; and
+33 (5) Promote public awareness and understanding of the rights and responsibilities of
+34 individuals in prison and conditions related to restrictive housing.
+LC001993 - Page 4 of 9
+1 (g) The ombudsperson shall conduct random biannual inspections of restrictive housing
+2 areas in each facility, including cells, recreation areas, and programming spaces, and shall visit
+3 different facilities on each inspection. Neither the committee nor the ombudsperson shall announce
+4 an inspection to any individual or entity outside of the committee before the inspection occurs. The
+5 department shall ensure full access to the facility, inmates, and staff as part of these inspections
+6 consistent with this section.
+7 (h) All oral and written communications, and records relating to such communications
+8 between a person in the custody of the department of corrections and the ombudsperson or
+9 committee including, but not limited to, the identity of a complainant, the details of the
+10 communications, and the ombudsperson's findings shall be confidential and shall not be disclosed
+11 without the consent of such person, except that the committee or ombudsperson may disclose
+12 without the consent of such person general findings or policy recommendations based on such
+13 communications; provided no individually identifiable information is disclosed.
+14 (i) Notwithstanding any provision of the general laws concerning the confidentiality of
+15 records and information, the ombudsperson shall have access to, including the right to inspect and
+16 copy, any non-privileged records necessary to carry out their responsibilities.
+17 (j) In the performance of the responsibilities provided for in this section, the ombudsperson
+18 may communicate privately with any person in the custody of the department of corrections. Such
+19 communications shall be confidential except as provided in this section.
+20 (k) Members of the committee and ombudsperson shall meet with the governor and the
+21 director of the department of corrections at least two (2) times each year to report on the work and
+22 findings of the committee.
+23 (l) A majority of the members appointed to the committee shall constitute a quorum, which
+24 shall be necessary for the committee to conduct business. A majority vote of the members present
+25 shall be required for action of the committee.
+26 (m) The general assembly shall annually appropriate such sums as it may deem necessary
+27 for the payment of any ombudsperson's salary and for the payment of office expenses and other
+28 actual expenses incurred by the committee or any ombudsperson's in the performance of their
+29 duties; and the state controller is hereby authorized and directed to draw their orders upon the
+30 general treasurer for the payment of such sum or sums, or so much thereof, as may from time to
+31 time be required, upon receipt by them of properly authenticated vouchers approved by any
+32 ombudsperson's or committee.
+33 SECTION 3. Section 42-35-1 of the General Laws in Chapter 42-35 entitled
+34 "Administrative Procedures" is hereby amended to read as follows:
+LC001993 - Page 5 of 9
+1 42-35-1. Definitions.
+2 As used in this chapter:
+3 (1) Except as otherwise provided herein, “agency” means a state agency, authority, board,
+4 bureau, commission, department, district, division, institution, office, officer, quasi-public agency,
+5 or other political subdivisions created by the general assembly or the governor, other than the
+6 legislature or the judiciary, that is authorized by law of this state to make rules or to determine
+7 contested cases.
+8 (2) “Agency action” means:
+9 (i) The whole or part of an order or rule;
+10 (ii) The failure to issue an order or rule; or
+11 (iii) An agency’s performing, or failing to perform, a duty, function, or activity or to make
+12 a determination required by law.
+13 (3) “Agency head” means the individual in whom, or one or more members of the body of
+14 individuals in which, the ultimate legal authority of an agency is vested.
+15 (4) “Agency record” means the agency rulemaking record required by § 42-35-2.3.
+16 (5) “Contested case” means a proceeding, including but not restricted to, ratemaking, price
+17 fixing, and licensing, in which the legal rights, duties, or privileges of a specific party are required
+18 by law to be determined by an agency after an opportunity for hearing.
+19 (6) “Electronic” means relating to technology having electrical, digital, magnetic, wireless,
+20 optical, electromagnetic, or similar capabilities.
+21 (7) “Electronic record” means a record created, generated, sent, communicated, received,
+22 or stored by electronic means.
+23 (8) “Final rule” means a rule promulgated under §§ 42-35-2.6 through 42-35-2.9, an
+24 emergency rule promulgated under § 42-35-2.10, or a direct, final rule promulgated under § 42-35-
+25 2.11.
+26 (9) “Guidance document” means a record of general applicability developed by an agency
+27 which lacks the force of law but states the agency’s current approach to, or interpretation of, law
+28 or describes how and when the agency will exercise discretionary functions. The term does not
+29 include records described in subdivisions (19)(i), (ii), (iii), or (iv).
+30 (10) “Index” means a searchable list in a record of subjects and titles with page numbers,
+31 hyperlinks, or other connectors that link each index entry to the text to which it refers.
+32 (11) “License” includes the whole or part of any agency permit, certificate, approval,
+33 registration, charter, or similar form of permission required by law, but it does not include a license
+34 required solely for revenue purposes.
+LC001993 - Page 6 of 9
+1 (12) “Licensing” includes the agency process respecting the grant, denial, renewal,
+2 revocation, suspension, annulment, withdrawal, or amendment of a license.
+3 (13) “Order” means the whole or a part of a final disposition, whether affirmative, negative,
+4 injunctive, or declaratory in form, of a contested case.
+5 (14) “Party” means each person or agency named or admitted as a party, or properly
+6 seeking and entitled as of right to be admitted as a party.
+7 (15) “Person” means any individual, partnership, corporation, association, the department
+8 of environmental management, governmental subdivision, or public or private organization of any
+9 character other than an agency.
+10 (16) “Promulgate,” with respect to a rule, means the process of writing a new rule, or
+11 amending or repealing an existing rule. “Promulgation” has a corresponding meaning. The process
+12 of “promulgation” begins with the filing of the notice of proposed rulemaking under § 42-35-2.7
+13 and ends upon the effective date of the rule. “Promulgate” also includes the completion of the
+14 rulemaking process for emergency rules (§ 42-35-2.10) or direct final rules (§ 42-35-2.11), if
+15 applicable.
+16 (17) “Reasonable charge” means the lowest, customary charge for a service.
+17 (18) “Record” means information that is inscribed on a tangible medium or that is stored
+18 in an electronic or other medium and is retrievable in perceivable form.
+19 (19) “Rule” means the whole or a part of an agency statement of general applicability that
+20 implements, interprets, or prescribes law or policy or the organization, procedure, or practice
+21 requirements of an agency and has the force of law. The term includes the amendment or repeal of
+22 an existing rule. The term is used interchangeably in this chapter with the term “regulation.” The
+23 term does not include:
+24 (i) A statement that concerns only the internal management of an agency and which does
+25 not affect private rights or procedures available to the public;
+26 (ii) An intergovernmental or interagency memorandum, directive, or communication that
+27 does not affect private rights or procedures available to the public. Individuals under the custody
+28 or supervision of the department of corrections shall be considered members of the public for the
+29 purposes of this chapter, except where disclosure of any rule or portion of a rule would endanger
+30 the public welfare and security, pursuant to § 38-2-2(4)(F);
+31 (iii) An opinion of the attorney general, or an opinion of the ethics commission pursuant to
+32 § 36-14-11;
+33 (iv) A statement that establishes criteria or guidelines to be used by the staff of an agency
+34 in performing audits, investigations, or inspections, settling commercial disputes, negotiating
+LC001993 - Page 7 of 9
+1 commercial arrangements, or defending, prosecuting, or settling cases, if disclosure of the criteria
+2 or guidelines would enable persons violating the law to avoid detection, facilitate disregard of
+3 requirements imposed by law, or give an improper advantage to persons that are in an adverse
+4 position to the state;
+5 (v) A form developed by an agency to implement or interpret agency law or policy; or
+6 (vi) A guidance document.
+7 (20) “Sign” means, with present intent, to authenticate a record:
+8 (i) To execute a tangible symbol; or
+9 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+10 process.
+11 (21) “Small business” shall have the same meanings that are provided for under 13 C.F.R.,
+12 Pt. 121, as may be amended from time to time.
+13 (22) “Small business advocate” means the person appointed by the chief executive officer
+14 of the commerce corporation as provided in § 42-64-34.
+15 (23) “State register” means the publication required under chapter 8.2 of title 42.
+16 (24) “Website” means a website on the internet or other similar technology or successor
+17 technology that permits the public to search a database that archives materials required to be
+18 published or exhibited by the secretary of state or an agency under this chapter.
+19 (25) “Writing” means a record inscribed on a tangible medium. “Written” has a
+20 corresponding meaning.
+21 SECTION 4. This act shall take effect on July 25, 2025.
+========
+LC001993
+========
+LC001993 - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIVE CONFINEMENT
+OVERSIGHT ACT
+***
+1 This act would establish the restrictive housing oversight committee ("committee") for the
+2 purpose of monitoring the use of restrictive housing ("solitary confinement"), as well as disciplinary
+3 and administrative confinement at the department of corrections. This act would also authorize the
+4 committee to hire an ombudsperson to assist it in its oversight duties.
+5 This act would take effect on July 25, 2025.
+========
+LC001993
+========
+LC001993 - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C R 4 A ( a t t ( p o a r a o s f h s r S r o p a p w i r a c l ( (]
+[DELETED:  ( d ( w ( ( o ( ( I p i t p p o h r s a m o t ( c b a t i r h o w i m c t p ( d 4 ( t f ( m o ( o ( t ( p h 4 ( t c d]
+[DELETED:  ( ( T n o t i a b l t t r f g p ( c ( T r e g a r o a p o o g p ( c ( T a w o t p t p i e c c ( d a 4 ( P ( u ( t s ( a S 2 C 4 o t G L e " S G A 4 ( t p ( a ( b]
+[DELETED:  a ( r t r a w o i p a b t s o t h o r ( w h e i t o m h c i p o i ( ( ( ( o s a t o t ( y M s c t s u t s i d a a ( ( p ( ( c ( a ( ( R a i c r t i p h s w ( ( h ( t ( P p a a u o t r a r o i]
+[DELETED:  ( a d a d c ( b a p i t c o t d o c a t o o c i b n l t t i o a c t d o t c w w c ( r c ( m c ( d f ( s s ( f a d g t b r u r b t o p a v a b a o S 3 S 4 o t G L i C 4 e "]
+[DELETED:  4 A ( b o l c ( ( ( ( a ( i ( ( f b ( o ( o ( “ r m a r p u § 4 t 4 a e 2 ( w o i ( h ( r r]
+[DELETED:  ( “ i t a p r t g d r r ( i ( s ( o c ( a o a r a ( ( i ( i r a t ( n ( d o p t ( § ( i p a i o i s c d n]
+[DELETED:  c o r p ( ( ( ( ( p ( P ( o ( ( t p ( “ m a r i o a t m “ h a c S]
+[DELETED:  T p a c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5927
+========
+LC001993
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIVE CONFINEMENT
+OVERSIGHT ACT
+Introduced By: Representatives Felix, Potter, Cruz, Batista, Sanchez, Kazarian, Kislak,
+Stewart, Alzate, and Handy
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 56.4
+4 RESTRICTIVE CONFINEMENT OVERSIGHT ACT
+5 42-56.4-1. Definitions.
+6 As used in this chapter, unless the context indicates a different meaning or intent:
+7 (1) "Basic necessities" means and includes weather-appropriate clothing and footwear;
+8 adequate food in compliance with medical and religious accommodations, with no more than
+9 twelve (12) hours between meals; access to drinking water and functioning sanitary fixtures; access
+10 to a shower and hygienic items; bedding; and ventilation.
+11 (2) "Cell" means any room, area or space that is primarily used for the confinement of
+12 prisoners; or any room, area or space that is less than four hundred square feet (400 sq. ft),
+13 regardless of use or purpose; or any indoor room that is solely accessible to one prisoner at a time.
+14 Shared spaces whose primary purpose is congregate social interaction, education, programming,
+15 rehabilitation, or physical and psychological wellness, including recreation areas, classrooms,
+16 libraries, and spaces used for medical evaluation and treatment, shall not constitute "cells."
+17 (3) "Department" means the department of corrections.
+18 (4) "Director" means the director of the department of corrections.
+
+1 (5) "Disciplinary confinement" means confinement of a prisoner based on violation of
+2 departmental rules, whether in the general population, a specialized housing unit, or elsewhere.
+3 (6) "General population" means classification to maximum, medium, or minimum security
+4 with no restrictions placed on activities or privileges.
+5 (7) "Member of a vulnerable population" means someone who:
+6 (i) Has a serious and persistent mental illness, as defined by the department of corrections,
+7 or a psychiatric disability, as defined in § 40.1-5-2;
+8 (ii) Has a developmental disability, as defined in § 40.1-1-8.1;
+9 (iii) Is pregnant, in the postpartum period, or has recently suffered a miscarriage or
+10 terminated a pregnancy; or
+11 (iv) Has a significant auditory or visual impairment, or a serious medical condition that
+12 cannot be adequately treated in restrictive housing or which is medically contraindicated to
+13 placement in restrictive housing.
+14 (8) “Lock down” means a temporary, emergency period within the prison caused by present
+15 danger or lack of staffing.
+16 42-56.4-2. Discipline -- Disciplinary confinement.
+17 (a) All prisoners shall receive a minimum of two (2) hours out of a cell each day, except
+18 that in the case of a facility lockdown, out of cell time can be restricted for no longer than a twenty-
+19 four (24)-hour consecutive period of time.
+20 (b) Any prisoner that is not in disciplinary confinement must be provided with three (3) or
+21 more hours of time outside a cell per day with opportunities for meaningful social interaction with
+22 other prisoners.
+23 (c) For every thirty (30) consecutive days, all prisoners must receive at least three (3) hours
+24 of time outside a cell per day with opportunities for meaningful social interaction for at least fifteen
+25 (15) of those thirty (30) days. In no event, shall any prisoner receive fewer than three (3) hours of
+26 time outside of cell for more than fifteen (15) days in any thirty (30) day period.
+27 (d) No prisoners shall be denied access to any basic necessities except if necessary for a
+28 period of no more than twenty-four (24) hours immediately after physically moving to a new
+29 housing module or facility.
+30 42-56.4-3. Reporting.
+31 (a) The department of corrections shall issue a report ("annual restrictive housing report")
+32 to be made publicly available on the department's website one year after the effective date of this
+33 chapter and by January 31 of each year thereafter, containing the following information, broken
+34 down by housing location and inmate status and classification:
+LC001993 - Page 2 of 9
+
+1 (1) The number of prisoners in each status;
+2 (2) The nature of the infractions and behaviors leading to the removal from general
+3 population;
+4 (3) The lengths of terms served outside of general population, including terms served
+5 consecutively and cumulatively;
+6 (4) The races, ethnicities, genders, and religions of all prisoners outside of general
+7 population;
+8 (5) The number of members of a vulnerable population outside of general population, by
+9 category promulgated in the definition thereof listed in § 42-56.4-2; and
+10 (6) The average weekly out-of-cell time provided to prisoners in each category
+11 confinement outside of general population.
+12 (b) The restrictive housing oversight committee, as created in § 42-26-20, may require the
+13 department to publish additional information, in addition to the fields delineated by statute, in the
+14 annual restrictive housing report.
+15 42-56.4-4. Declaratory judgment.
+16 (a) Any prisoner may bring an action for declaratory judgment in the superior court of
+17 Providence county, when it is alleged that:
+18 (1) The department of corrections or an officer thereof failed to perform a duty enjoined
+19 upon it by this chapter, or acted in violation of lawful procedure as required by this chapter; or
+20 (2) A department rule, or its threatened application, interferes with or impairs, or threatens
+21 to interfere with or impair, the legal rights or privileges of the plaintiff under this chapter or the
+22 state or federal Constitution.
+23 (b) A declaratory judgment may be rendered whether or not the plaintiff has requested the
+24 agency to pass upon the validity or applicability of the rule in question.
+25 SECTION 2. Chapter 42-26 of the General Laws entitled "Public Safety Grant
+26 Administration Office" is hereby amended by adding thereto the following section:
+27 42-26-20. Restrictive housing oversight committee.
+28 (a) There is hereby created within the public safety grant administration office, pursuant to
+29 the provisions of § 42-26-7, the restrictive housing oversight committee (the "committee") for the
+30 purpose of monitoring the use of restrictive housing at the department of corrections.
+31 (b) The committee shall consist of the following five (5) members who shall assemble
+32 annually or more often at the call of the chairperson or upon petition of a majority of its members:
+33 (1) One who has been previously sentenced to spend time in restrictive housing, appointed
+34 by the Black, Latino, Indigenous, Asian-American, and Pacific Islander Caucus of the general
+LC001993 - Page 3 of 9
+
+1 assembly;
+2 (2) A designee from a nonprofit organization that has a mission to advance the welfare and
+3 rights of incarcerated people and who has expertise in law and a demonstrated interest in advancing
+4 the rights and welfare of incarcerated persons, appointed by the speaker of the house of
+5 representatives;
+6 (3) A designee of the Rhode Island Chapter of the National Association of Social Workers
+7 who has expertise in the provision of mental health care to incarcerated persons or formerly
+8 incarcerated persons, appointed by the president of the senate;
+9 (4) The Rhode Island public defender, or designee; and
+10 (5) The director of the department of corrections, or designee.
+11 (c) The chair of the committee shall be selected by the members of the committee.
+12 (d) Of the members first appointed to the committee, two (2) members shall serve a term
+13 of two (2) years, two (2) members shall serve a term of one year, and thereafter, members shall
+14 serve a term of two (2) years. Members shall continue to serve until their successor is duly
+15 appointed and qualified. Any vacancy on the oversight committee shall be filled in the same manner
+16 as the original appointment.
+17 (e) The committee shall perform the following functions:
+18 (1) Appoint a restrictive housing ombudsperson (the "ombudsperson") based on whatever
+19 procedure is determined by the committee;
+20 (2) Review and supervise the actions of the ombudsperson;
+21 (3) Meet not less than quarterly to bring matters to the ombudsperson's attention and to
+22 consult on their services, findings and recommendations; and
+23 (4) Convene semiannual public hearings to discuss the ombudsperson's services, findings
+24 and recommendations.
+25 (f) The ombudsperson shall be empowered to:
+26 (1) Receive and investigate complaints related to incarcerated persons' health, safety,
+27 welfare, and rights;
+28 (2) Identify issues within the department of corrections related to restrictive housing;
+29 (3) Ensure compliance with relevant statutes, rules, and policies pertaining to restrictive
+30 housing;
+31 (4) Provide information to inmates, probationers, and parolees, and their families related
+32 to restrictive housing; and
+33 (5) Promote public awareness and understanding of the rights and responsibilities of
+34 individuals in prison and conditions related to restrictive housing.
+LC001993 - Page 4 of 9
+
+1 (g) The ombudsperson shall conduct random biannual inspections of restrictive housing
+2 areas in each facility, including cells, recreation areas, and programming spaces, and shall visit
+3 different facilities on each inspection. Neither the committee nor the ombudsperson shall announce
+4 an inspection to any individual or entity outside of the committee before the inspection occurs. The
+5 department shall ensure full access to the facility, inmates, and staff as part of these inspections
+6 consistent with this section.
+7 (h) All oral and written communications, and records relating to such communications
+8 between a person in the custody of the department of corrections and the ombudsperson or
+9 committee including, but not limited to, the identity of a complainant, the details of the
+10 communications, and the ombudsperson's findings shall be confidential and shall not be disclosed
+11 without the consent of such person, except that the committee or ombudsperson may disclose
+12 without the consent of such person general findings or policy recommendations based on such
+13 communications; provided no individually identifiable information is disclosed.
+14 (i) Notwithstanding any provision of the general laws concerning the confidentiality of
+15 records and information, the ombudsperson shall have access to, including the right to inspect and
+16 copy, any non-privileged records necessary to carry out their responsibilities.
+17 (j) In the performance of the responsibilities provided for in this section, the ombudsperson
+18 may communicate privately with any person in the custody of the department of corrections. Such
+19 communications shall be confidential except as provided in this section.
+20 (k) Members of the committee and ombudsperson shall meet with the governor and the
+21 director of the department of corrections at least two (2) times each year to report on the work and
+22 findings of the committee.
+23 (l) A majority of the members appointed to the committee shall constitute a quorum, which
+24 shall be necessary for the committee to conduct business. A majority vote of the members present
+25 shall be required for action of the committee.
+26 (m) The general assembly shall annually appropriate such sums as it may deem necessary
+27 for the payment of any ombudsperson's salary and for the payment of office expenses and other
+28 actual expenses incurred by the committee or any ombudsperson's in the performance of their
+29 duties; and the state controller is hereby authorized and directed to draw their orders upon the
+30 general treasurer for the payment of such sum or sums, or so much thereof, as may from time to
+31 time be required, upon receipt by them of properly authenticated vouchers approved by any
+32 ombudsperson's or committee.
+33 SECTION 3. Section 42-35-1 of the General Laws in Chapter 42-35 entitled
+34 "Administrative Procedures" is hereby amended to read as follows:
+LC001993 - Page 5 of 9
+
+1 42-35-1. Definitions.
+2 As used in this chapter:
+3 (1) Except as otherwise provided herein, “agency” means a state agency, authority, board,
+4 bureau, commission, department, district, division, institution, office, officer, quasi-public agency,
+5 or other political subdivisions created by the general assembly or the governor, other than the
+6 legislature or the judiciary, that is authorized by law of this state to make rules or to determine
+7 contested cases.
+8 (2) “Agency action” means:
+9 (i) The whole or part of an order or rule;
+10 (ii) The failure to issue an order or rule; or
+11 (iii) An agency’s performing, or failing to perform, a duty, function, or activity or to make
+12 a determination required by law.
+13 (3) “Agency head” means the individual in whom, or one or more members of the body of
+14 individuals in which, the ultimate legal authority of an agency is vested.
+15 (4) “Agency record” means the agency rulemaking record required by § 42-35-2.3.
+16 (5) “Contested case” means a proceeding, including but not restricted to, ratemaking, price
+17 fixing, and licensing, in which the legal rights, duties, or privileges of a specific party are required
+18 by law to be determined by an agency after an opportunity for hearing.
+19 (6) “Electronic” means relating to technology having electrical, digital, magnetic, wireless,
+20 optical, electromagnetic, or similar capabilities.
+21 (7) “Electronic record” means a record created, generated, sent, communicated, received,
+22 or stored by electronic means.
+23 (8) “Final rule” means a rule promulgated under §§ 42-35-2.6 through 42-35-2.9, an
+24 emergency rule promulgated under § 42-35-2.10, or a direct, final rule promulgated under § 42-35-
+25 2.11.
+26 (9) “Guidance document” means a record of general applicability developed by an agency
+27 which lacks the force of law but states the agency’s current approach to, or interpretation of, law
+28 or describes how and when the agency will exercise discretionary functions. The term does not
+29 include records described in subdivisions (19)(i), (ii), (iii), or (iv).
+30 (10) “Index” means a searchable list in a record of subjects and titles with page numbers,
+31 hyperlinks, or other connectors that link each index entry to the text to which it refers.
+32 (11) “License” includes the whole or part of any agency permit, certificate, approval,
+33 registration, charter, or similar form of permission required by law, but it does not include a license
+34 required solely for revenue purposes.
+LC001993 - Page 6 of 9
+
+1 (12) “Licensing” includes the agency process respecting the grant, denial, renewal,
+2 revocation, suspension, annulment, withdrawal, or amendment of a license.
+3 (13) “Order” means the whole or a part of a final disposition, whether affirmative, negative,
+4 injunctive, or declaratory in form, of a contested case.
+5 (14) “Party” means each person or agency named or admitted as a party, or properly
+6 seeking and entitled as of right to be admitted as a party.
+7 (15) “Person” means any individual, partnership, corporation, association, the department
+8 of environmental management, governmental subdivision, or public or private organization of any
+9 character other than an agency.
+10 (16) “Promulgate,” with respect to a rule, means the process of writing a new rule, or
+11 amending or repealing an existing rule. “Promulgation” has a corresponding meaning. The process
+12 of “promulgation” begins with the filing of the notice of proposed rulemaking under § 42-35-2.7
+13 and ends upon the effective date of the rule. “Promulgate” also includes the completion of the
+14 rulemaking process for emergency rules (§ 42-35-2.10) or direct final rules (§ 42-35-2.11), if
+15 applicable.
+16 (17) “Reasonable charge” means the lowest, customary charge for a service.
+17 (18) “Record” means information that is inscribed on a tangible medium or that is stored
+18 in an electronic or other medium and is retrievable in perceivable form.
+19 (19) “Rule” means the whole or a part of an agency statement of general applicability that
+20 implements, interprets, or prescribes law or policy or the organization, procedure, or practice
+21 requirements of an agency and has the force of law. The term includes the amendment or repeal of
+22 an existing rule. The term is used interchangeably in this chapter with the term “regulation.” The
+23 term does not include:
+24 (i) A statement that concerns only the internal management of an agency and which does
+25 not affect private rights or procedures available to the public;
+26 (ii) An intergovernmental or interagency memorandum, directive, or communication that
+27 does not affect private rights or procedures available to the public. Individuals under the custody
+28 or supervision of the department of corrections shall be considered members of the public for the
+29 purposes of this chapter, except where disclosure of any rule or portion of a rule would endanger
+30 the public welfare and security, pursuant to § 38-2-2(4)(F);
+31 (iii) An opinion of the attorney general, or an opinion of the ethics commission pursuant to
+32 § 36-14-11;
+33 (iv) A statement that establishes criteria or guidelines to be used by the staff of an agency
+34 in performing audits, investigations, or inspections, settling commercial disputes, negotiating
+LC001993 - Page 7 of 9
+
+1 commercial arrangements, or defending, prosecuting, or settling cases, if disclosure of the criteria
+2 or guidelines would enable persons violating the law to avoid detection, facilitate disregard of
+3 requirements imposed by law, or give an improper advantage to persons that are in an adverse
+4 position to the state;
+5 (v) A form developed by an agency to implement or interpret agency law or policy; or
+6 (vi) A guidance document.
+7 (20) “Sign” means, with present intent, to authenticate a record:
+8 (i) To execute a tangible symbol; or
+9 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+10 process.
+11 (21) “Small business” shall have the same meanings that are provided for under 13 C.F.R.,
+12 Pt. 121, as may be amended from time to time.
+13 (22) “Small business advocate” means the person appointed by the chief executive officer
+14 of the commerce corporation as provided in § 42-64-34.
+15 (23) “State register” means the publication required under chapter 8.2 of title 42.
+16 (24) “Website” means a website on the internet or other similar technology or successor
+17 technology that permits the public to search a database that archives materials required to be
+18 published or exhibited by the secretary of state or an agency under this chapter.
+19 (25) “Writing” means a record inscribed on a tangible medium. “Written” has a
+20 corresponding meaning.
+21 SECTION 4. This act shall take effect on July 25, 2025.
+========
+LC001993
+========
+LC001993 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIVE CONFINEMENT
+OVERSIGHT ACT
+***
+1 This act would establish the restrictive housing oversight committee ("committee") for the
+2 purpose of monitoring the use of restrictive housing ("solitary confinement"), as well as disciplinary
+3 and administrative confinement at the department of corrections. This act would also authorize the
+4 committee to hire an ombudsperson to assist it in its oversight duties.
+5 This act would take effect on July 25, 2025.
+========
+LC001993
+========
+LC001993 - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C R 4 A ( a t t ( p o a r a o s f h s r S r o p a p w i r a c l ( (]
+[DELETED:  ( d ( w ( ( o ( ( I p i t p p o h r s a m o t ( c b a t i r h o w i m c t p ( d 4 ( t f ( m o ( o ( t ( p h 4 ( t c d]
+[DELETED:  ( ( T n o t i a b l t t r f g p ( c ( T r e g a r o a p o o g p ( c ( T a w o t p t p i e c c ( d a 4 ( P ( u ( t s ( a S 2 C 4 o t G L e " S G A 4 ( t p ( a ( b]
+[DELETED:  a ( r t r a w o i p a b t s o t h o r ( w h e i t o m h c i p o i ( ( ( ( o s a t o t ( y M s c t s u t s i d a a ( ( p ( ( c ( a ( ( R a i c r t i p h s w ( ( h ( t ( P p a a u o t r a r o i]
+[DELETED:  ( a d a d c ( b a p i t c o t d o c a t o o c i b n l t t i o a c t d o t c w w c ( r c ( m c ( d f ( s s ( f a d g t b r u r b t o p a v a b a o S 3 S 4 o t G L i C 4 e "]
+[DELETED:  4 A ( b o l c ( ( ( ( a ( i ( ( f b ( o ( o ( “ r m a r p u § 4 t 4 a e 2 ( w o i ( h ( r r]
+[DELETED:  ( “ i t a p r t g d r r ( i ( s ( o c ( a o a r a ( ( i ( i r a t ( n ( d o p t ( § ( i p a i o i s c d n]
+[DELETED:  c o r p ( ( ( ( ( p ( P ( o ( ( t p ( “ m a r i o a t m “ h a c S]
+[DELETED:  T p a c T]

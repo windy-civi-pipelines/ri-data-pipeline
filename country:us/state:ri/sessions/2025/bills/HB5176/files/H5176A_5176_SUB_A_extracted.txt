@@ -1,0 +1,258 @@
+Title: RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY
+Official Title: RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY
+Number of Sections: 1
+Source: versions - 5176  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5176 SUBSTITUTE A
+========
+LC000756/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Speakman, Knight, Boylan, Ajello, Carson, Donovan,
+Cortvriend, Kislak, Potter, and Cotter
+Date Introduced: January 24, 2025
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 16 of the General Laws entitled "EDUCATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 117
+4 STUDENT COMPUTER DEVICE PRIVACY
+5 16-117-1. Definitions.
+6 As used in this chapter, the following words and terms shall have the following meanings:
+7 (1) "De-identified" means data from which all personally identifiable information has been
+8 removed.
+9 (2) "Educational institution" or "school" means any public institution that offers
+10 participants, students, or trainees an organized course of study or training that is academic, trade
+11 oriented or preparatory for gainful employment in a recognized occupation and shall include any
+12 person acting as an agent of the institution.
+13 (3) "Institutional device" means any computing device, including computer, laptop, tablet,
+14 smartphone or other electronic device owned or maintained by the educational institution or school
+15 district and provided to a student for educational use.
+16 (4) "Location data" means records of global positioning system or other precise location
+17 data either recorded historically or in real time.
+18 (5) "Personal device" means any computing device, including computer, laptop, tablet,
+19 smartphone or other electronic device provided by the end user being used for educational purposes.
+1 (6) "School district" means any local education agency and shall include any person acting
+2 as an agent of the agency.
+3 (7) "Student" means any student, participant, or trainee, whether full-time or part-time, in
+4 an organized course of study at an educational institution.
+5 16-117-2. Restricted access to audio and video functions.
+6 (a) No educational institution or school district shall activate or access, or request a third
+7 party, other than a student's parent or legal guardian, to activate or access, any audio or video
+8 receiving, transmitting, or recording functions on a student's institutional device or personal device,
+9 unless:
+10 (1) A student initiates the activation for educational purposes and access is limited to that
+11 purpose;
+12 (2) The activation and/or access is ordered pursuant to a judicial warrant; or
+13 (3) Activation and/or access is deemed reasonably necessary in order to respond to a
+14 suspected imminent threat to life or safety and is limited to that purpose.
+15 (b) Within seventy-two (72) hours of activating and/or accessing, or requesting activation
+16 and/or access by a third party other than the student's parent or legal guardian, to the audio or video
+17 receiving, transmitting, or recording functions on a student's institutional device or personal device
+18 pursuant to subsection (a)(3) of this section, the educational institution or school district shall
+19 provide to the student and their parent or legal guardian a written explanation of the precise threat
+20 that prompted the access and the data and features that were activated and/or accessed.
+21 (c) No third party, other than a student's parent or legal guardian, shall activate or access
+22 any audio or video receiving, transmitting, or recording functions on a student's institutional device
+23 or personal device for any reason other than those provided in subsection (a) of this section. Within
+24 seventy-two (72) hours of activating and/or accessing such functions pursuant to subsection (a)(3)
+25 of this section, the third party shall provide to the educational institution or school district a written
+26 explanation of the precise threat that prompted the access and the data and features that were
+27 activated and/or accessed.
+28 (d) Within seventy-two (72) hours of receiving information pursuant to subsection (c) of
+29 this section, the educational institution or school district shall forward the explanation to the student
+30 and their parent or legal guardian.
+31 16-117-3. Restricted access to location data.
+32 (a) No educational institution or school district may access or use location data for tracking
+33 a student's institutional device or personal device, or request a third party other than a student's
+34 parent or legal guardian, to do so, unless:
+LC000756/SUB A - Page 2 of 4
+1 (1) Such access or use is ordered pursuant to a judicial warrant;
+2 (2) The student to whom the institutional device was provided, or their parent or legal
+3 guardian, has notified the educational institution or school district in writing that the institutional
+4 device is missing or stolen, or the device has not been returned when required for inventory
+5 purposes;
+6 (3) The access or use is deemed reasonably necessary in order to respond to a suspected
+7 imminent threat to life or safety and is limited to that purpose; or
+8 (4) The data is retrieved in a de-identified manner and is used only to determine whether
+9 the device is on-site or off-site.
+10 (b) Within seventy-two (72) hours of accessing or using, or requesting a third party other
+11 than a student's parent or legal guardian to access or use, the location data for a student's
+12 institutional device or personal device pursuant to subsection (a)(3) of this section, the educational
+13 institution or school district shall provide to the student and their parent or legal guardian a written
+14 explanation of the precise threat that prompted the access or use and the data and features that were
+15 accessed or used.
+16 16-117-4. Authority to adopt policies.
+17 School districts shall have the authority to adopt policies to further implement this chapter.
+18 16-117-5. Penalties.
+19 (a) In any civil action alleging a violation or proposed violation of this chapter, the court
+20 may award to a prevailing plaintiff appropriate injunctive and declaratory relief, damages, and
+21 reasonable attorneys' fees and costs.
+22 (b) The rights provided a parent or legal guardian under this chapter shall accrue to any
+23 student who is eighteen (18) years of age or older.
+24 16-117-6. Exemption for correctional facilities.
+25 This chapter shall not apply to institutional or personal devices used in a prison or other
+26 correctional facility or as part of a program run by or on behalf of such a facility.
+27 SECTION 2. This act shall take effect on August 1, 2025.
+========
+LC000756/SUB A
+========
+LC000756/SUB A - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY
+***
+1 This act would prohibit an educational institution or school district from accessing any
+2 audio or video recording, transmitting or recording function on a student's institutional or personal
+3 device or using location data for tracking a student's institutional device or personal device, or allow
+4 a third party to do so, except in limited circumstances. This act would exempt prisons or other
+5 correctional facilities.
+6 This act would take effect on August 1, 2025.
+========
+LC000756/SUB A
+========
+LC000756/SUB A - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S a C S 1 A ( r ( " i o " m a p i t o p o p ( s d ( d ( s]
+[DELETED:  ( a ( a 1 ( p r u ( p ( ( t s ( a r p p t ( a o s o e a ( t a 1 ( a p]
+[DELETED:  ( ( g d p ( i ( t ( t a s p o l g t a o u t l d f a s i i e a 1 S 1 ( m r ( s 1 T c S]
+[DELETED:  T a d a c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5176 SUBSTITUTE A
+========
+LC000756/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY
+Introduced By: Representatives Speakman, Knight, Boylan, Ajello, Carson, Donovan,
+Cortvriend, Kislak, Potter, and Cotter
+Date Introduced: January 24, 2025
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 16 of the General Laws entitled "EDUCATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 117
+4 STUDENT COMPUTER DEVICE PRIVACY
+5 16-117-1. Definitions.
+6 As used in this chapter, the following words and terms shall have the following meanings:
+7 (1) "De-identified" means data from which all personally identifiable information has been
+8 removed.
+9 (2) "Educational institution" or "school" means any public institution that offers
+10 participants, students, or trainees an organized course of study or training that is academic, trade
+11 oriented or preparatory for gainful employment in a recognized occupation and shall include any
+12 person acting as an agent of the institution.
+13 (3) "Institutional device" means any computing device, including computer, laptop, tablet,
+14 smartphone or other electronic device owned or maintained by the educational institution or school
+15 district and provided to a student for educational use.
+16 (4) "Location data" means records of global positioning system or other precise location
+17 data either recorded historically or in real time.
+18 (5) "Personal device" means any computing device, including computer, laptop, tablet,
+19 smartphone or other electronic device provided by the end user being used for educational purposes.
+
+1 (6) "School district" means any local education agency and shall include any person acting
+2 as an agent of the agency.
+3 (7) "Student" means any student, participant, or trainee, whether full-time or part-time, in
+4 an organized course of study at an educational institution.
+5 16-117-2. Restricted access to audio and video functions.
+6 (a) No educational institution or school district shall activate or access, or request a third
+7 party, other than a student's parent or legal guardian, to activate or access, any audio or video
+8 receiving, transmitting, or recording functions on a student's institutional device or personal device,
+9 unless:
+10 (1) A student initiates the activation for educational purposes and access is limited to that
+11 purpose;
+12 (2) The activation and/or access is ordered pursuant to a judicial warrant; or
+13 (3) Activation and/or access is deemed reasonably necessary in order to respond to a
+14 suspected imminent threat to life or safety and is limited to that purpose.
+15 (b) Within seventy-two (72) hours of activating and/or accessing, or requesting activation
+16 and/or access by a third party other than the student's parent or legal guardian, to the audio or video
+17 receiving, transmitting, or recording functions on a student's institutional device or personal device
+18 pursuant to subsection (a)(3) of this section, the educational institution or school district shall
+19 provide to the student and their parent or legal guardian a written explanation of the precise threat
+20 that prompted the access and the data and features that were activated and/or accessed.
+21 (c) No third party, other than a student's parent or legal guardian, shall activate or access
+22 any audio or video receiving, transmitting, or recording functions on a student's institutional device
+23 or personal device for any reason other than those provided in subsection (a) of this section. Within
+24 seventy-two (72) hours of activating and/or accessing such functions pursuant to subsection (a)(3)
+25 of this section, the third party shall provide to the educational institution or school district a written
+26 explanation of the precise threat that prompted the access and the data and features that were
+27 activated and/or accessed.
+28 (d) Within seventy-two (72) hours of receiving information pursuant to subsection (c) of
+29 this section, the educational institution or school district shall forward the explanation to the student
+30 and their parent or legal guardian.
+31 16-117-3. Restricted access to location data.
+32 (a) No educational institution or school district may access or use location data for tracking
+33 a student's institutional device or personal device, or request a third party other than a student's
+34 parent or legal guardian, to do so, unless:
+LC000756/SUB A - Page 2 of 4
+
+1 (1) Such access or use is ordered pursuant to a judicial warrant;
+2 (2) The student to whom the institutional device was provided, or their parent or legal
+3 guardian, has notified the educational institution or school district in writing that the institutional
+4 device is missing or stolen, or the device has not been returned when required for inventory
+5 purposes;
+6 (3) The access or use is deemed reasonably necessary in order to respond to a suspected
+7 imminent threat to life or safety and is limited to that purpose; or
+8 (4) The data is retrieved in a de-identified manner and is used only to determine whether
+9 the device is on-site or off-site.
+10 (b) Within seventy-two (72) hours of accessing or using, or requesting a third party other
+11 than a student's parent or legal guardian to access or use, the location data for a student's
+12 institutional device or personal device pursuant to subsection (a)(3) of this section, the educational
+13 institution or school district shall provide to the student and their parent or legal guardian a written
+14 explanation of the precise threat that prompted the access or use and the data and features that were
+15 accessed or used.
+16 16-117-4. Authority to adopt policies.
+17 School districts shall have the authority to adopt policies to further implement this chapter.
+18 16-117-5. Penalties.
+19 (a) In any civil action alleging a violation or proposed violation of this chapter, the court
+20 may award to a prevailing plaintiff appropriate injunctive and declaratory relief, damages, and
+21 reasonable attorneys' fees and costs.
+22 (b) The rights provided a parent or legal guardian under this chapter shall accrue to any
+23 student who is eighteen (18) years of age or older.
+24 16-117-6. Exemption for correctional facilities.
+25 This chapter shall not apply to institutional or personal devices used in a prison or other
+26 correctional facility or as part of a program run by or on behalf of such a facility.
+27 SECTION 2. This act shall take effect on August 1, 2025.
+========
+LC000756/SUB A
+========
+LC000756/SUB A - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY
+***
+1 This act would prohibit an educational institution or school district from accessing any
+2 audio or video recording, transmitting or recording function on a student's institutional or personal
+3 device or using location data for tracking a student's institutional device or personal device, or allow
+4 a third party to do so, except in limited circumstances. This act would exempt prisons or other
+5 correctional facilities.
+6 This act would take effect on August 1, 2025.
+========
+LC000756/SUB A
+========
+LC000756/SUB A - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C S 1 A ( r ( " i o " m a p i t o p o p ( s d ( d ( s]
+[DELETED:  ( a ( a 1 ( p r u ( p ( ( t s ( a r p p t ( a o s o e a ( t a 1 ( a p]
+[DELETED:  ( ( g d p ( i ( t ( t a s p o l g t a o u t l d f a s i i e a 1 S 1 ( m r ( s 1 T c S]
+[DELETED:  T a d a c T]

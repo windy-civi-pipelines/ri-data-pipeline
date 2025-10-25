@@ -1,0 +1,185 @@
+Title: RELATING TO LABOR AND LABOR RELATIONS -- LABOR RELATIONS ACT --
+Official Title: RELATING TO LABOR AND LABOR RELATIONS -- LABOR RELATIONS ACT --
+Number of Sections: 1
+Source: versions - 5506  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5506 SUBSTITUTE A
+========
+LC001622/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+EMPLOYEE FREE SPEECH RIGHTS
+Introduced By: Representatives Craven, O'Brien, Shanley, Dawson, Finkelman, Corvese,
+and Potter
+Date Introduced: February 13, 2025
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 28-7 of the General Laws entitled "Labor Relations Act" is hereby
+2 amended by adding thereto the following section:
+3 28-7-50. Employee rights of free speech in the workplace.
+4 (a) As used in this section:
+5 (1) "Political matters" means topics that are unrelated to the employer's business or
+6 business activities, such as subjects relating to elections for political office, political parties,
+7 proposals to change legislation or regulations which are not directly related to the employer's
+8 business, and a decision whether to join or support any political party or political, civic, community,
+9 fraternal or labor organization; and
+10 (2) "Religious matters" means matters relating to religious affiliation and practice and the
+11 decision whether to join or support any religious organization or association.
+12 (b) Except as provided in subsections (c) and (d) of this section, an employer or the
+13 employer's agent, representative or designee shall not discharge, discipline or otherwise penalize
+14 or threaten to discharge, discipline or otherwise penalize or take any adverse employment action
+15 against an employee because of the employee's refusal to:
+16 (1) Attend an employer-sponsored meeting with the employer or its agent, representative
+17 or designee, the primary purpose of which is to communicate the employer's opinion concerning
+18 religious or political matters; or
+1 (2) Listen to speech or view communications, including electronic communications, from
+2 the employer or its agent, representative or designee, the primary purpose of which is to
+3 communicate the employer's opinion concerning religious or political matters.
+4 (c) Nothing in this section shall prohibit:
+5 (1) An employer or its agent, representative or designee from communicating to its
+6 employees any information that the employer is required by law to communicate, but only to the
+7 extent of such legal requirement;
+8 (2) An employer or its agent, representative or designee from communicating to its
+9 employees any information that is necessary for such employees to perform their job duties;
+10 (3) An institution of higher education, or any agent, representative or designee of such
+11 institution, from meeting with or participating in any communications with its employees that are
+12 part of coursework, any symposia or an academic program at such institution; or
+13 (4) Casual conversations between employees or between an employee and an agent,
+14 representative or designee of an employer; provided that, participation in such conversations is not
+15 required.
+16 (d) The provisions of this section shall not apply to a religious corporation, entity,
+17 association, educational institution or society that is exempt from the requirements of Title VII of
+18 the Civil Rights Act of 1964 pursuant to 42 USC 2000e-1(a) with respect to speech on religious
+19 matters to employees who perform work connected with the activities undertaken by such religious
+20 corporation, entity, association, educational institution or society.
+21 (e) In a civil action to enforce this section, the court may award a prevailing employee all
+22 appropriate relief, including injunctive relief, reinstatement to the employee's former position or an
+23 equivalent position, back pay and reestablishment of any employee benefits, including seniority, to
+24 which the employee would otherwise have been eligible if the violation had not occurred, and
+25 damages. The court shall also award a prevailing employee reasonable attorneys' fees and costs.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC001622/SUB A
+========
+LC001622/SUB A - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- LABOR RELATIONS ACT --
+EMPLOYEE FREE SPEECH RIGHTS
+***
+1 This act would protect the rights of employees in the workplace relating to free speech,
+2 assembly and religion, as well as attendance at employer-sponsored meetings regarding political or
+3 religious matters. Employees so aggrieved by discipline or discharge by the employer would have
+4 the right to bring a civil action against the employer seeking equitable relief and/or compensatory
+5 damages including attorneys' fees and costs.
+6 This act would take effect upon passage.
+========
+LC001622/SUB A
+========
+LC001622/SUB A - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 ( ( " m m t t a u t t e b o b a s a s r t e f p o p p p b f ( d ( e o a ( o r]
+[DELETED:  ( t e o i a r o d t p p o w i t c ( ( A e o i a r o d f c t i e e ( A e o i a r o d f c t i e ( i p ( C c b e o b a e a a a r r ( T p o t s s n a t a r c e a t m c ( a e w d S]
+[DELETED:  T a r t d T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5506 SUBSTITUTE A
+========
+LC001622/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- LABOR RELATIONS ACT --
+EMPLOYEE FREE SPEECH RIGHTS
+Introduced By: Representatives Craven, O'Brien, Shanley, Dawson, Finkelman, Corvese,
+and Potter
+Date Introduced: February 13, 2025
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 28-7 of the General Laws entitled "Labor Relations Act" is hereby
+2 amended by adding thereto the following section:
+3 28-7-50. Employee rights of free speech in the workplace.
+4 (a) As used in this section:
+5 (1) "Political matters" means topics that are unrelated to the employer's business or
+6 business activities, such as subjects relating to elections for political office, political parties,
+7 proposals to change legislation or regulations which are not directly related to the employer's
+8 business, and a decision whether to join or support any political party or political, civic, community,
+9 fraternal or labor organization; and
+10 (2) "Religious matters" means matters relating to religious affiliation and practice and the
+11 decision whether to join or support any religious organization or association.
+12 (b) Except as provided in subsections (c) and (d) of this section, an employer or the
+13 employer's agent, representative or designee shall not discharge, discipline or otherwise penalize
+14 or threaten to discharge, discipline or otherwise penalize or take any adverse employment action
+15 against an employee because of the employee's refusal to:
+16 (1) Attend an employer-sponsored meeting with the employer or its agent, representative
+17 or designee, the primary purpose of which is to communicate the employer's opinion concerning
+18 religious or political matters; or
+
+1 (2) Listen to speech or view communications, including electronic communications, from
+2 the employer or its agent, representative or designee, the primary purpose of which is to
+3 communicate the employer's opinion concerning religious or political matters.
+4 (c) Nothing in this section shall prohibit:
+5 (1) An employer or its agent, representative or designee from communicating to its
+6 employees any information that the employer is required by law to communicate, but only to the
+7 extent of such legal requirement;
+8 (2) An employer or its agent, representative or designee from communicating to its
+9 employees any information that is necessary for such employees to perform their job duties;
+10 (3) An institution of higher education, or any agent, representative or designee of such
+11 institution, from meeting with or participating in any communications with its employees that are
+12 part of coursework, any symposia or an academic program at such institution; or
+13 (4) Casual conversations between employees or between an employee and an agent,
+14 representative or designee of an employer; provided that, participation in such conversations is not
+15 required.
+16 (d) The provisions of this section shall not apply to a religious corporation, entity,
+17 association, educational institution or society that is exempt from the requirements of Title VII of
+18 the Civil Rights Act of 1964 pursuant to 42 USC 2000e-1(a) with respect to speech on religious
+19 matters to employees who perform work connected with the activities undertaken by such religious
+20 corporation, entity, association, educational institution or society.
+21 (e) In a civil action to enforce this section, the court may award a prevailing employee all
+22 appropriate relief, including injunctive relief, reinstatement to the employee's former position or an
+23 equivalent position, back pay and reestablishment of any employee benefits, including seniority, to
+24 which the employee would otherwise have been eligible if the violation had not occurred, and
+25 damages. The court shall also award a prevailing employee reasonable attorneys' fees and costs.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC001622/SUB A
+========
+LC001622/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- LABOR RELATIONS ACT --
+EMPLOYEE FREE SPEECH RIGHTS
+***
+1 This act would protect the rights of employees in the workplace relating to free speech,
+2 assembly and religion, as well as attendance at employer-sponsored meetings regarding political or
+3 religious matters. Employees so aggrieved by discipline or discharge by the employer would have
+4 the right to bring a civil action against the employer seeking equitable relief and/or compensatory
+5 damages including attorneys' fees and costs.
+6 This act would take effect upon passage.
+========
+LC001622/SUB A
+========
+LC001622/SUB A - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 ( ( " m m t t a u t t e b o b a s a s r t e f p o p p p b f ( d ( e o a ( o r]
+[DELETED:  ( t e o i a r o d t p p o w i t c ( ( A e o i a r o d f c t i e e ( A e o i a r o d f c t i e ( i p ( C c b e o b a e a a a r r ( T p o t s s n a t a r c e a t m c ( a e w d S]
+[DELETED:  T a r t d T]

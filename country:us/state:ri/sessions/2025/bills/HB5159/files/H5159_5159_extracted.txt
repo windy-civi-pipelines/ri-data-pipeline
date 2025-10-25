@@ -1,0 +1,346 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 5159
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5159
+========
+LC000718
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+Introduced By: Representatives Shallcross Smith, Chippendale, Nardone, Casimiro, and
+Fogarty
+Date Introduced: January 24, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+5 6-61-1. Short title.
+6 This chapter shall be known and may be cited as the "Agricultural Equipment Right to
+7 Repair Act".
+8 6-61-2. Definitions.
+9 As used in this chapter:
+10 (1) "Authorized repair provider" means an individual or business who is affiliated with an
+11 original equipment manufacturer and who has an arrangement with the original equipment
+12 manufacturer, for a definite or indefinite period, under which the original equipment manufacturer
+13 grants to the individual or business a license to use a trade name, service mark, or other proprietary
+14 identifier for the purposes of offering the services of diagnosis, maintenance, or repair of
+15 electronics-enabled agricultural equipment under the name of the original equipment manufacturer,
+16 or other arrangement with the original equipment manufacturer to offer such services on behalf of
+17 the original equipment manufacturer. An original equipment manufacturer who offers the services
+18 of diagnosis, maintenance, or repair of its own electronics-enabled agricultural equipment, shall be
+1 considered an authorized repair provider with respect to such equipment;
+2 (2) "Documentation" means any manual, diagram, reporting output, service code
+3 description, schematic, product guides, product service demonstrations, training seminars, clinics,
+4 fleet management information, connected support, mobile applications, on-board diagnostics via
+5 diagnostics port or wireless interface, or other guidance or information on service, parts, operation,
+6 safety, electronic field diagnostic service tools, or training for use in effecting the services of
+7 diagnosis, maintenance, or repair of electronics-enabled agricultural equipment;
+8 (3) "Electronics-enabled agricultural equipment" or "equipment" means any product, part
+9 of a product, or attachment to a product, when sold or leased for use in farming, ranching, or other
+10 agriculture, that depends for its functioning, in whole or in part, on digital electronics embedded in
+11 or attached to it. The term includes, but is not limited to, a tractor, trailer, combine, tillage, planting,
+12 irrigation, or cultivating implement, baler, unmanned aircraft system, or off-road vehicle.
+13 Electronics-enabled agricultural equipment or equipment does not include motor vehicles, and does
+14 not include consumer electronic devices, including wireless communication devices and
+15 computers;
+16 (4) "Embedded software" means any programmable instructions provided on firmware
+17 delivered with electronics-enabled agricultural equipment, or with a part for such equipment, for
+18 purposes of equipment operation, including all relevant patches and fixes made available by the
+19 manufacturer of such equipment or part for such purposes;
+20 (5) "Fair and reasonable terms for obtaining a part, a tool, documentation, or software"
+21 means at fair and reasonable costs and terms that do not impair the contracts and agreements
+22 between authorized repair providers affiliated with the original equipment manufacturer. Fair and
+23 reasonable terms shall not include additional cost or burden not reasonably necessary, or designed
+24 to be an impediment on the independent repair provider or equipment owner.
+25 (6) "Fair and reasonable terms for software tools" means permitting or effecting the
+26 diagnosis, maintenance, or repair and enabling full functionality of electronics-enabled agricultural
+27 equipment without requiring authorization or Internet access, or in a manner that impairs the
+28 efficient and cost-effective performance of any of those activities unless authorization is required
+29 to prevent access to source code or infringement of intellectual property in software or hardware
+30 that is owned and licensed to the original equipment manufacturer by a third party and subject to
+31 terms of use;
+32 (7) "Firmware" means a software program or set of instructions programmed on
+33 electronics-enabled agricultural equipment, or on a part for such equipment, to allow the equipment
+34 or part to communicate within itself or with other computer hardware;
+LC000718 - Page 2 of 6
+1 (8) "Independent repair provider" means an individual or business operating in this state,
+2 that does not have an arrangement with an original equipment manufacturer and is not affiliated
+3 with any individual or business which has such an arrangement with an original equipment
+4 manufacturer, and is engaged in the service, diagnosis, maintenance, or repair of electronics-
+5 enabled agricultural equipment. An original equipment manufacturer, individual or business which
+6 has a service or repair arrangement with another original equipment manufacturer shall be
+7 considered an independent repair provider for purposes of those instances in which it engages in
+8 the service, diagnosis, maintenance, or repair of electronics-enabled agricultural equipment that is
+9 not manufactured by or sold under the independent repair provider's brand name;
+10 (9) "Motor vehicle" shall have the same meaning as set forth in § 31-1-3;
+11 (10) "Original equipment manufacturer" means a business engaged in the business of
+12 selling, leasing, or otherwise supplying new electronics-enabled agricultural equipment
+13 manufactured by or on behalf of itself to any individual or business;
+14 (11) "Owner" means an individual or business that owns or has leased for use in this state
+15 electronics-enabled agricultural equipment;
+16 (12) "Part" means any replacement part, either new or used, made available by an original
+17 equipment manufacturer for purposes of effecting the service, maintenance or repair of electronics-
+18 enabled agricultural equipment manufactured by or on behalf of, sold or otherwise supplied by the
+19 original equipment manufacturers, implemented by or with surrogate distributors;
+20 (13) "Repair" means to maintain, diagnose, and repair machinery that results in the machine
+21 being returned to its original specifications. Repair does not include performing any activities that
+22 result in the machine being modified outside of the original equipment manufacturer specifications.
+23 Specifically, repair does not include the ability to:
+24 (i) Reset an immobilizer system or security-related electronic modules;
+25 (ii) Reprogram any electronic processing units or engine control units and parameters;
+26 (iii) Change any equipment or engine settings that negatively affect emissions or safety
+27 compliance; or
+28 (iv) Download or access the source code of any proprietary embedded software or code.
+29 (14) "Surrogate distributor" means any independent dealership, wholesale distributor,
+30 and/or any retail establishment dealing in agricultural equipment.
+31 (15) "Tool" means any software program, hardware implement, product service
+32 demonstrations, training, seminars, clinics, on-board diagnostics via diagnostics port or wireless
+33 interface, electronic field diagnostic service tools and training on how to use them, or other
+34 apparatus used for diagnosis, maintenance, or repair of electronics-enabled agricultural equipment,
+LC000718 - Page 3 of 6
+1 including software or other mechanisms that provision, program, or pair a new part, calibrate
+2 functionality, or perform any other function required to bring the product back to specifications.
+3 (16) "Trade secret" shall have the same meaning as set forth in § 6-41-1.
+4 6-61-3. Agricultural equipment manufacturer's duty.
+5 For electronics-enabled agricultural equipment, and parts for such equipment, sold or used
+6 in this state, an original equipment manufacturer shall make available, for purposes of diagnosis,
+7 maintenance, or repair of such equipment, to any independent repair provider, or to the owner of
+8 electronics-enabled agricultural equipment manufactured by or on behalf of, sold or otherwise
+9 supplied by, the original equipment manufacturer, on fair and reasonable terms, documentation,
+10 parts, and tools, inclusive of any updates to information or embedded software. Nothing in this
+11 section requires an original equipment manufacturer to make available documentation, parts, and
+12 tools if such documentation, parts, and/or tools are no longer available to the original equipment
+13 manufacturer.
+14 6-61-4. Trade secrets.
+15 Nothing in this chapter shall be construed to require an original equipment manufacturer
+16 to divulge a trade secret to an owner or an independent service provider except as necessary to
+17 provide documentation, parts, and tools on fair and reasonable terms.
+18 6-61-5. Warranty and recalls.
+19 No provision in this chapter shall be construed to alter the terms of any arrangement in
+20 force between an authorized repair provider and an original equipment manufacturer, including,
+21 but not limited to, the performance or provision of warranty or recall repair work by an authorized
+22 repair provider on behalf of an original equipment manufacturer pursuant to such arrangement,
+23 except that any provision in such terms that purports to waive, avoid, restrict, or limit the original
+24 equipment manufacturer's obligations to comply with the provisions of this chapter shall be void
+25 and unenforceable.
+26 6-61-6. Enforcement.
+27 (a) Any person suffering loss due to a violation of this chapter may bring a civil action to
+28 recover actual damages, reasonable attorneys' fees and court costs.
+29 (b) The attorney general may enforce the provisions of this chapter in an action for an
+30 injunction or other equitable relief.
+31 (c) Any action for damages pursuant to this chapter or to enforce the provisions of this
+32 chapter shall be filed within three (3) years of the violation.
+LC000718 - Page 4 of 6
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000718
+========
+LC000718 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+***
+1 This act would provide that original equipment manufacturers, implemented by or with
+2 surrogate distributors, of agricultural equipment would provide to independent service providers
+3 repair information and tools to maintain and repair electronics-enabled agricultural equipment.
+4 This act would take effect upon passage.
+========
+LC000718
+========
+LC000718 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S R C A 6 T R 6 A ( o e m a w h a a w t o e m g i f t p o o t s o d m o r o e o t o]
+[DELETED:  c ( " m a m d r o s c d f d s d ( o a o i o c i b u a s o o v E n i c e d i w c d a c   d p m ( m b r t ( " a r t f s t m p o e t d e e t t t ( " m a s p o s o i p o e o]
+[DELETED:  ( t w a i o b w h s a a w a o e m a i s d m o o e e h a s o r a w a o e m s b c t n ( ( s l o o s n e a e m ( e ( e e o ( b r S ( ( ( c ( ( " d m a i d w d a ( " m a s p h i p s d i e f d s t a t o h t u t o o a]
+[DELETED:  i f ( 6 F i m e s p s t m 6 N t p 6 N f b r e e a 6 ( r ( i ( c ]
+[DELETED:  S]
+[DELETED:  T s r T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5159
+========
+LC000718
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+Introduced By: Representatives Shallcross Smith, Chippendale, Nardone, Casimiro, and
+Fogarty
+Date Introduced: January 24, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+5 6-61-1. Short title.
+6 This chapter shall be known and may be cited as the "Agricultural Equipment Right to
+7 Repair Act".
+8 6-61-2. Definitions.
+9 As used in this chapter:
+10 (1) "Authorized repair provider" means an individual or business who is affiliated with an
+11 original equipment manufacturer and who has an arrangement with the original equipment
+12 manufacturer, for a definite or indefinite period, under which the original equipment manufacturer
+13 grants to the individual or business a license to use a trade name, service mark, or other proprietary
+14 identifier for the purposes of offering the services of diagnosis, maintenance, or repair of
+15 electronics-enabled agricultural equipment under the name of the original equipment manufacturer,
+16 or other arrangement with the original equipment manufacturer to offer such services on behalf of
+17 the original equipment manufacturer. An original equipment manufacturer who offers the services
+18 of diagnosis, maintenance, or repair of its own electronics-enabled agricultural equipment, shall be
+
+1 considered an authorized repair provider with respect to such equipment;
+2 (2) "Documentation" means any manual, diagram, reporting output, service code
+3 description, schematic, product guides, product service demonstrations, training seminars, clinics,
+4 fleet management information, connected support, mobile applications, on-board diagnostics via
+5 diagnostics port or wireless interface, or other guidance or information on service, parts, operation,
+6 safety, electronic field diagnostic service tools, or training for use in effecting the services of
+7 diagnosis, maintenance, or repair of electronics-enabled agricultural equipment;
+8 (3) "Electronics-enabled agricultural equipment" or "equipment" means any product, part
+9 of a product, or attachment to a product, when sold or leased for use in farming, ranching, or other
+10 agriculture, that depends for its functioning, in whole or in part, on digital electronics embedded in
+11 or attached to it. The term includes, but is not limited to, a tractor, trailer, combine, tillage, planting,
+12 irrigation, or cultivating implement, baler, unmanned aircraft system, or off-road vehicle.
+13 Electronics-enabled agricultural equipment or equipment does not include motor vehicles, and does
+14 not include consumer electronic devices, including wireless communication devices and
+15 computers;
+16 (4) "Embedded software" means any programmable instructions provided on firmware
+17 delivered with electronics-enabled agricultural equipment, or with a part for such equipment, for
+18 purposes of equipment operation, including all relevant patches and fixes made available by the
+19 manufacturer of such equipment or part for such purposes;
+20 (5) "Fair and reasonable terms for obtaining a part, a tool, documentation, or software"
+21 means at fair and reasonable costs and terms that do not impair the contracts and agreements
+22 between authorized repair providers affiliated with the original equipment manufacturer. Fair and
+23 reasonable terms shall not include additional cost or burden not reasonably necessary, or designed
+24 to be an impediment on the independent repair provider or equipment owner.
+25 (6) "Fair and reasonable terms for software tools" means permitting or effecting the
+26 diagnosis, maintenance, or repair and enabling full functionality of electronics-enabled agricultural
+27 equipment without requiring authorization or Internet access, or in a manner that impairs the
+28 efficient and cost-effective performance of any of those activities unless authorization is required
+29 to prevent access to source code or infringement of intellectual property in software or hardware
+30 that is owned and licensed to the original equipment manufacturer by a third party and subject to
+31 terms of use;
+32 (7) "Firmware" means a software program or set of instructions programmed on
+33 electronics-enabled agricultural equipment, or on a part for such equipment, to allow the equipment
+34 or part to communicate within itself or with other computer hardware;
+LC000718 - Page 2 of 6
+
+1 (8) "Independent repair provider" means an individual or business operating in this state,
+2 that does not have an arrangement with an original equipment manufacturer and is not affiliated
+3 with any individual or business which has such an arrangement with an original equipment
+4 manufacturer, and is engaged in the service, diagnosis, maintenance, or repair of electronics-
+5 enabled agricultural equipment. An original equipment manufacturer, individual or business which
+6 has a service or repair arrangement with another original equipment manufacturer shall be
+7 considered an independent repair provider for purposes of those instances in which it engages in
+8 the service, diagnosis, maintenance, or repair of electronics-enabled agricultural equipment that is
+9 not manufactured by or sold under the independent repair provider's brand name;
+10 (9) "Motor vehicle" shall have the same meaning as set forth in § 31-1-3;
+11 (10) "Original equipment manufacturer" means a business engaged in the business of
+12 selling, leasing, or otherwise supplying new electronics-enabled agricultural equipment
+13 manufactured by or on behalf of itself to any individual or business;
+14 (11) "Owner" means an individual or business that owns or has leased for use in this state
+15 electronics-enabled agricultural equipment;
+16 (12) "Part" means any replacement part, either new or used, made available by an original
+17 equipment manufacturer for purposes of effecting the service, maintenance or repair of electronics-
+18 enabled agricultural equipment manufactured by or on behalf of, sold or otherwise supplied by the
+19 original equipment manufacturers, implemented by or with surrogate distributors;
+20 (13) "Repair" means to maintain, diagnose, and repair machinery that results in the machine
+21 being returned to its original specifications. Repair does not include performing any activities that
+22 result in the machine being modified outside of the original equipment manufacturer specifications.
+23 Specifically, repair does not include the ability to:
+24 (i) Reset an immobilizer system or security-related electronic modules;
+25 (ii) Reprogram any electronic processing units or engine control units and parameters;
+26 (iii) Change any equipment or engine settings that negatively affect emissions or safety
+27 compliance; or
+28 (iv) Download or access the source code of any proprietary embedded software or code.
+29 (14) "Surrogate distributor" means any independent dealership, wholesale distributor,
+30 and/or any retail establishment dealing in agricultural equipment.
+31 (15) "Tool" means any software program, hardware implement, product service
+32 demonstrations, training, seminars, clinics, on-board diagnostics via diagnostics port or wireless
+33 interface, electronic field diagnostic service tools and training on how to use them, or other
+34 apparatus used for diagnosis, maintenance, or repair of electronics-enabled agricultural equipment,
+LC000718 - Page 3 of 6
+
+1 including software or other mechanisms that provision, program, or pair a new part, calibrate
+2 functionality, or perform any other function required to bring the product back to specifications.
+3 (16) "Trade secret" shall have the same meaning as set forth in § 6-41-1.
+4 6-61-3. Agricultural equipment manufacturer's duty.
+5 For electronics-enabled agricultural equipment, and parts for such equipment, sold or used
+6 in this state, an original equipment manufacturer shall make available, for purposes of diagnosis,
+7 maintenance, or repair of such equipment, to any independent repair provider, or to the owner of
+8 electronics-enabled agricultural equipment manufactured by or on behalf of, sold or otherwise
+9 supplied by, the original equipment manufacturer, on fair and reasonable terms, documentation,
+10 parts, and tools, inclusive of any updates to information or embedded software. Nothing in this
+11 section requires an original equipment manufacturer to make available documentation, parts, and
+12 tools if such documentation, parts, and/or tools are no longer available to the original equipment
+13 manufacturer.
+14 6-61-4. Trade secrets.
+15 Nothing in this chapter shall be construed to require an original equipment manufacturer
+16 to divulge a trade secret to an owner or an independent service provider except as necessary to
+17 provide documentation, parts, and tools on fair and reasonable terms.
+18 6-61-5. Warranty and recalls.
+19 No provision in this chapter shall be construed to alter the terms of any arrangement in
+20 force between an authorized repair provider and an original equipment manufacturer, including,
+21 but not limited to, the performance or provision of warranty or recall repair work by an authorized
+22 repair provider on behalf of an original equipment manufacturer pursuant to such arrangement,
+23 except that any provision in such terms that purports to waive, avoid, restrict, or limit the original
+24 equipment manufacturer's obligations to comply with the provisions of this chapter shall be void
+25 and unenforceable.
+26 6-61-6. Enforcement.
+27 (a) Any person suffering loss due to a violation of this chapter may bring a civil action to
+28 recover actual damages, reasonable attorneys' fees and court costs.
+29 (b) The attorney general may enforce the provisions of this chapter in an action for an
+30 injunction or other equitable relief.
+31 (c) Any action for damages pursuant to this chapter or to enforce the provisions of this
+32 chapter shall be filed within three (3) years of the violation.
+LC000718 - Page 4 of 6
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000718
+========
+LC000718 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+AGRICULTURAL EQUIPMENT RIGHT TO REPAIR ACT
+***
+1 This act would provide that original equipment manufacturers, implemented by or with
+2 surrogate distributors, of agricultural equipment would provide to independent service providers
+3 repair information and tools to maintain and repair electronics-enabled agricultural equipment.
+4 This act would take effect upon passage.
+========
+LC000718
+========
+LC000718 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S R C A 6 T R 6 A ( o e m a w h a a w t o e m g i f t p o o t s o d m o r o e o t o]
+[DELETED:  c ( " m a m d r o s c d f d s d ( o a o i o c i b u a s o o v E n i c e d i w c d a c   d p m ( m b r t ( " a r t f s t m p o e t d e e t t t ( " m a s p o s o i p o e o]
+[DELETED:  ( t w a i o b w h s a a w a o e m a i s d m o o e e h a s o r a w a o e m s b c t n ( ( s l o o s n e a e m ( e ( e e o ( b r S ( ( ( c ( ( " d m a i d w d a ( " m a s p h i p s d i e f d s t a t o h t u t o o a]
+[DELETED:  i f ( 6 F i m e s p s t m 6 N t p 6 N f b r e e a 6 ( r ( i ( c ]
+[DELETED:  S]
+[DELETED:  T s r T]

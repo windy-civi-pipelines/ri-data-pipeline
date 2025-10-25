@@ -1,0 +1,169 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Number of Sections: 1
+Source: versions - 66
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0066
+========
+LC000273
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+EVIDENCE
+Introduced By: Senators Lauria, Euer, Zurier, McKenney, LaMountain, Bissaillon,
+Pearson, Vargas, and Tikoian
+Date Introduced: January 23, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-19 of the General Laws entitled "Evidence" is hereby amended by
+2 adding thereto the following section:
+3 9-19-45. Statements or conduct expressing apology, regret, condolence by health care
+4 provider -- Admissibility.
+5 (a) For the purposes of this section, the following words shall have the following meanings:
+6 (1) "Healthcare facility" means any institutional health service provider licensed pursuant
+7 to the provisions of chapter 17 of title 23.
+8 (2) "Healthcare provider" or "provider" shall have the same meaning as the meaning
+9 contained in § 5-37.3-3.
+10 (3) "Relative" means a patient's spouse, parent, grandparent, stepparent, child, grandchild,
+11 brother, sister, half-brother, half-sister, uncle, aunt, adopted children of parent, or spouse's parents,
+12 whether by whole or half blood, adoption or marriage.
+13 (4) "Representative" means a legal guardian, attorney, health care representative or any
+14 person recognized in law or custom as a patient's agent.
+15 (5) "Unanticipated outcome" means the outcome of a medical treatment or procedure that
+16 differs from an expected result of such medical treatment or procedure.
+17 (b) In any claim, complaint or civil action brought against a healthcare facility or provider
+18 by or on behalf of a patient allegedly experiencing an unanticipated outcome, or in any arbitration
+1 proceeding or other method of alternative dispute resolution that relates to the claim, complaint or
+2 civil action, and in any judicial or administrative proceeding against a healthcare facility or
+3 provider, the following shall be inadmissible as evidence of an admission of liability or as evidence
+4 of an admission against interest:
+5 (1) Any and all statements, affirmations, gestures, writings, activities or conduct expressing
+6 apology, benevolence, commiseration, condolence, compassion, regret, sympathy, or a general
+7 sense of concern which are made by a healthcare facility, a healthcare provider, or an employee or
+8 agent of a healthcare facility or provider, to the patient, the patient's relative, or a representative of
+9 the patient which relate to any alleged discomfort, pain, suffering, injury, or death of the patient as
+10 a result of the unanticipated outcome.
+11 (2) This section shall not apply to a statement of fault, liability, negligence, or culpable
+12 conduct that is part of or made in addition to a statement, affirmation, gesture, writing, activity, or
+13 conduct described in subsection (b)(1) of this section, and only the expression of apology,
+14 benevolence, commiseration, condolence, compassion, regret, sympathy, or a general sense of
+15 concern made under subsection (b)(1) of this section is inadmissible.
+16 (3) Any statement, affirmation, gesture, writing, activity, or conduct described in
+17 subsection (b)(1) of this section is admissible for any other purpose.
+18 SECTION 2. This act shall take effect upon passage.
+========
+LC000273
+========
+LC000273 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+EVIDENCE
+***
+1 This act would provide that statements by a healthcare provider to a patient or to the
+2 patient's relative or representative regarding the unanticipated outcome of such patient's medical
+3 care and treatment, such as an apology or an expression of sympathy, shall be inadmissible as
+4 evidence of an admission of liability or as evidence of an admission against interest in any claim
+5 or action against the provider.
+6 This act would take effect upon passage.
+========
+LC000273
+========
+LC000273 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND B S L E Z M L B S a 9 p ( ( t ( " p " s h t s m a t c ( b w ( p ( d ( b]
+[DELETED:  p c a a i a j o a p a a h f o p o ( a s a t a ( c c d i s ( o t s a o t e o a b c ( A s a g w a o c d i s S]
+[DELETED:  T p c e o T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0066
+========
+LC000273
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+EVIDENCE
+Introduced By: Senators Lauria, Euer, Zurier, McKenney, LaMountain, Bissaillon,
+Pearson, Vargas, and Tikoian
+Date Introduced: January 23, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-19 of the General Laws entitled "Evidence" is hereby amended by
+2 adding thereto the following section:
+3 9-19-45. Statements or conduct expressing apology, regret, condolence by health care
+4 provider -- Admissibility.
+5 (a) For the purposes of this section, the following words shall have the following meanings:
+6 (1) "Healthcare facility" means any institutional health service provider licensed pursuant
+7 to the provisions of chapter 17 of title 23.
+8 (2) "Healthcare provider" or "provider" shall have the same meaning as the meaning
+9 contained in § 5-37.3-3.
+10 (3) "Relative" means a patient's spouse, parent, grandparent, stepparent, child, grandchild,
+11 brother, sister, half-brother, half-sister, uncle, aunt, adopted children of parent, or spouse's parents,
+12 whether by whole or half blood, adoption or marriage.
+13 (4) "Representative" means a legal guardian, attorney, health care representative or any
+14 person recognized in law or custom as a patient's agent.
+15 (5) "Unanticipated outcome" means the outcome of a medical treatment or procedure that
+16 differs from an expected result of such medical treatment or procedure.
+17 (b) In any claim, complaint or civil action brought against a healthcare facility or provider
+18 by or on behalf of a patient allegedly experiencing an unanticipated outcome, or in any arbitration
+
+1 proceeding or other method of alternative dispute resolution that relates to the claim, complaint or
+2 civil action, and in any judicial or administrative proceeding against a healthcare facility or
+3 provider, the following shall be inadmissible as evidence of an admission of liability or as evidence
+4 of an admission against interest:
+5 (1) Any and all statements, affirmations, gestures, writings, activities or conduct expressing
+6 apology, benevolence, commiseration, condolence, compassion, regret, sympathy, or a general
+7 sense of concern which are made by a healthcare facility, a healthcare provider, or an employee or
+8 agent of a healthcare facility or provider, to the patient, the patient's relative, or a representative of
+9 the patient which relate to any alleged discomfort, pain, suffering, injury, or death of the patient as
+10 a result of the unanticipated outcome.
+11 (2) This section shall not apply to a statement of fault, liability, negligence, or culpable
+12 conduct that is part of or made in addition to a statement, affirmation, gesture, writing, activity, or
+13 conduct described in subsection (b)(1) of this section, and only the expression of apology,
+14 benevolence, commiseration, condolence, compassion, regret, sympathy, or a general sense of
+15 concern made under subsection (b)(1) of this section is inadmissible.
+16 (3) Any statement, affirmation, gesture, writing, activity, or conduct described in
+17 subsection (b)(1) of this section is admissible for any other purpose.
+18 SECTION 2. This act shall take effect upon passage.
+========
+LC000273
+========
+LC000273 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+EVIDENCE
+***
+1 This act would provide that statements by a healthcare provider to a patient or to the
+2 patient's relative or representative regarding the unanticipated outcome of such patient's medical
+3 care and treatment, such as an apology or an expression of sympathy, shall be inadmissible as
+4 evidence of an admission of liability or as evidence of an admission against interest in any claim
+5 or action against the provider.
+6 This act would take effect upon passage.
+========
+LC000273
+========
+LC000273 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND B S L E Z M L B S a 9 p ( ( t ( " p " s h t s m a t c ( b w ( p ( d ( b]
+[DELETED:  p c a a i a j o a p a a h f o p o ( a s a t a ( c c d i s ( o t s a o t e o a b c ( A s a g w a o c d i s S]
+[DELETED:  T p c e o T]

@@ -1,0 +1,246 @@
+Title: RELATING TO TOWNS AND CITIES -- AUDIT OF ACCOUNTS AND INSTALLATION OF
+Official Title: RELATING TO TOWNS AND CITIES -- AUDIT OF ACCOUNTS AND INSTALLATION OF
+Number of Sections: 1
+Source: versions - 5947
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5947
+========
+LC002053
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SYSTEMS
+Introduced By: Representatives Felix, Tanzi, McNamara, and Ackerman
+Date Introduced: February 28, 2025
+Referred To: House Municipal Government & Housing
+(Auditor General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 45-10-15 of the General Laws in Chapter 45-10 entitled "Audit of
+2 Accounts and Installation of Systems" is hereby amended to read as follows:
+3 45-10-15. Compliance with requirements of “governmental accounting standards
+4 board (GASB)” pension funding Municipal compliance with funding pension and other post-
+5 employment benefit plans.
+6 (a) For any audit year in which a municipality contributes materially less than 100% of the
+7 annual required actuarially determined contribution to its pension plan(s) as ("ADC") reported in
+8 accordance with GASB statement 27 or any successor statement Governmental Accounting
+9 Standards Board ("GASB") requirements to its pension plan(s), the municipality shall submit to the
+10 auditor general and the director of revenue, within three (3) months of completion of the annually
+11 audited financial statement, the municipality’s most recent actuarial study of the valuations
+12 determining the ADC for the pension plan(s) and management’s recommendations for assuring
+13 future payments equal to the annual pension cost (APC) planned future contributions to achieve
+14 one hundred percent (100%) ADC funding.
+15 (b)(1) For any audit year in which a municipality contributes materially less than one
+16 hundred percent (100%) of the ADC reported in accordance with GASB requirements to its other
+17 post-employment benefit (“OPEB”) plan(s), the municipality shall submit to the auditor general
+18 and the director of revenue, within three (3) months of completion of the annual audited financial
+1 statement, the most recent actuarial valuations determining the ADC for the OPEB plan(s) and
+2 management’s recommendations for planned future contributions to achieve one hundred percent
+3 (100%) ADC funding.
+4 (2) Municipalities may create an OPEB trust agreement pursuant to § 45-21-65, if not
+5 currently in place.
+6 (c) Municipalities shall consult with the auditor general until approved pension and OPEB
+7 funding plans are adopted.
+8 SECTION 2. Section 45-21-65 of the General Laws in Chapter 45-21 entitled "Retirement
+9 of Municipal Employees" is hereby amended to read as follows:
+10 45-21-65. Other post-employment benefits — OPEB trusts.
+11 (a) Notwithstanding the provisions of any general or special law, or the provisions of any
+12 municipality’s home rule charter, to the contrary, for purposes of funding any unfunded liability
+13 for other post-employment benefits including, but not limited to, health care and dental care
+14 benefits hereinafter referred to as (“OPEB”) in accordance with government accounting standards
+15 board statements 43 and 45 Governmental Accounting Standards Board ("GASB") requirements,
+16 a municipality, acting by its treasurer or director of finance, upon an approving resolution of the
+17 city or town council or agency board as applicable, may enter into a trust agreement between the
+18 municipality and a corporate trustee which shall be a bank or trust company doing business in the
+19 state, or a corporation established pursuant to chapter 5 of this title. This trust agreement shall be
+20 in any form deemed proper by the treasurer or director of finance of the municipality, and shall be
+21 executed by its treasurer or director of finance and countersigned by its mayor or president of the
+22 town council. It shall be lawful for any bank, trust company, or entity organized pursuant to § 45-
+23 5-20.1 doing business in the state to act as a depository or trustee under this trust agreement, and
+24 to furnish indemnification and pledge securities that may be required by any municipality.
+25 (b) OPEB trust funds shall be credited with all amounts appropriated or otherwise made
+26 available by the municipality for the purposes of meeting the current and future OPEB costs payable
+27 by the municipality. OPEB trust funds shall also be credited with all amounts contributed or
+28 otherwise made available by employees of the municipality for the purpose of meeting future OPEB
+29 costs payable by the municipality. Amounts in an OPEB trust fund, including any earnings or
+30 interest accruing from the investment of these amounts, shall be expended only for the payment of
+31 the costs payable by the municipality for OPEB or as otherwise permitted by the terms of the trust
+32 and applicable law. The director of finance or treasurer, as applicable, shall invest and reinvest the
+33 amounts in the OPEB trust fund not needed for current disbursement in any investment permitted
+34 for the municipality’s pension funds consistent with the prudent person rule and investment policies
+LC002053 - Page 2 of 4
+1 of the municipality, if any.
+2 (c) Municipalities are hereby authorized to enter into agreements, trusts, contracts, and
+3 other arrangements with the state and any of its departments, agencies, boards or commissions
+4 relating to the execution, management or operation of the OPEB trust funds, including, but not
+5 limited to, investments, and the state and its departments, agencies, boards and commissions are
+6 hereby authorized to enter into such agreements, contracts and other arrangements with
+7 municipalities. Notwithstanding any provisions of any general or special law or principle of equity
+8 to the contrary, the state shall have no liability to any municipality for entering into such
+9 agreements.
+10 (d) A municipality may employ any qualified bank, trust company, corporation, firm or
+11 person to advise it on the investment of the OPEB trust fund and may pay from the OPEB trust
+12 fund for this advice and other services. Procurement for these services shall be subject to the
+13 procurement procedures and rules governing municipalities in the state.
+14 (e) Municipalities are also hereby authorized to enter into agreements, trusts, contracts, and
+15 other arrangements with any corporation established pursuant to chapter 5 of this title relating to
+16 the execution management or operations of OPEB trust funds including, but not limited to,
+17 investments, and the corporations established pursuant to § 45-5-20.1 are hereby authorized to enter
+18 into such agreements, trusts, contracts or other arrangements with municipalities.
+19 (f) Any OPEB trusts that have been created by municipalities and are in effect on the date
+20 hereof are hereby ratified and confirmed.
+21 (g) Nothing herein shall be construed to exempt OPEB trusts from the Rhode Island Access
+22 to Public Records Act, § 38-2-1 et seq.
+23 SECTION 3. This act shall take effect upon passage.
+========
+LC002053
+========
+LC002053 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- AUDIT OF ACCOUNTS AND INSTALLATION OF
+SYSTEMS
+***
+1 This act would amend the audit compliance requirements for municipalities' contributions
+2 to pension plans under the audit of accounts and installation of systems chapter of the general laws.
+3 This act would take effect upon passage.
+========
+LC002053
+========
+LC002053 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 C w r o “ a s b e ( a a w G s 2 o a s s G A S a a f s t m m r a s o t v d f o ( h p a]
+[DELETED:  s m ( ( c ( f S o 4 ( m f o p b i b n l t h c a d c b b a c m s i e t 5 t ( a b o c i t a a f]
+[DELETED:  o ( o r l h a t e i s a c a o a w m t t c t s s h n l t a m f e i s a ( p f p ( o t e m o o o O t f i b n l t i i ( h ( t S]
+[DELETED:  T t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5947
+========
+LC002053
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- AUDIT OF ACCOUNTS AND INSTALLATION OF
+SYSTEMS
+Introduced By: Representatives Felix, Tanzi, McNamara, and Ackerman
+Date Introduced: February 28, 2025
+Referred To: House Municipal Government & Housing
+(Auditor General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 45-10-15 of the General Laws in Chapter 45-10 entitled "Audit of
+2 Accounts and Installation of Systems" is hereby amended to read as follows:
+3 45-10-15. Compliance with requirements of “governmental accounting standards
+4 board (GASB)” pension funding Municipal compliance with funding pension and other post-
+5 employment benefit plans.
+6 (a) For any audit year in which a municipality contributes materially less than 100% of the
+7 annual required actuarially determined contribution to its pension plan(s) as ("ADC") reported in
+8 accordance with GASB statement 27 or any successor statement Governmental Accounting
+9 Standards Board ("GASB") requirements to its pension plan(s), the municipality shall submit to the
+10 auditor general and the director of revenue, within three (3) months of completion of the annually
+11 audited financial statement, the municipality’s most recent actuarial study of the valuations
+12 determining the ADC for the pension plan(s) and management’s recommendations for assuring
+13 future payments equal to the annual pension cost (APC) planned future contributions to achieve
+14 one hundred percent (100%) ADC funding.
+15 (b)(1) For any audit year in which a municipality contributes materially less than one
+16 hundred percent (100%) of the ADC reported in accordance with GASB requirements to its other
+17 post-employment benefit (“OPEB”) plan(s), the municipality shall submit to the auditor general
+18 and the director of revenue, within three (3) months of completion of the annual audited financial
+
+1 statement, the most recent actuarial valuations determining the ADC for the OPEB plan(s) and
+2 management’s recommendations for planned future contributions to achieve one hundred percent
+3 (100%) ADC funding.
+4 (2) Municipalities may create an OPEB trust agreement pursuant to § 45-21-65, if not
+5 currently in place.
+6 (c) Municipalities shall consult with the auditor general until approved pension and OPEB
+7 funding plans are adopted.
+8 SECTION 2. Section 45-21-65 of the General Laws in Chapter 45-21 entitled "Retirement
+9 of Municipal Employees" is hereby amended to read as follows:
+10 45-21-65. Other post-employment benefits — OPEB trusts.
+11 (a) Notwithstanding the provisions of any general or special law, or the provisions of any
+12 municipality’s home rule charter, to the contrary, for purposes of funding any unfunded liability
+13 for other post-employment benefits including, but not limited to, health care and dental care
+14 benefits hereinafter referred to as (“OPEB”) in accordance with government accounting standards
+15 board statements 43 and 45 Governmental Accounting Standards Board ("GASB") requirements,
+16 a municipality, acting by its treasurer or director of finance, upon an approving resolution of the
+17 city or town council or agency board as applicable, may enter into a trust agreement between the
+18 municipality and a corporate trustee which shall be a bank or trust company doing business in the
+19 state, or a corporation established pursuant to chapter 5 of this title. This trust agreement shall be
+20 in any form deemed proper by the treasurer or director of finance of the municipality, and shall be
+21 executed by its treasurer or director of finance and countersigned by its mayor or president of the
+22 town council. It shall be lawful for any bank, trust company, or entity organized pursuant to § 45-
+23 5-20.1 doing business in the state to act as a depository or trustee under this trust agreement, and
+24 to furnish indemnification and pledge securities that may be required by any municipality.
+25 (b) OPEB trust funds shall be credited with all amounts appropriated or otherwise made
+26 available by the municipality for the purposes of meeting the current and future OPEB costs payable
+27 by the municipality. OPEB trust funds shall also be credited with all amounts contributed or
+28 otherwise made available by employees of the municipality for the purpose of meeting future OPEB
+29 costs payable by the municipality. Amounts in an OPEB trust fund, including any earnings or
+30 interest accruing from the investment of these amounts, shall be expended only for the payment of
+31 the costs payable by the municipality for OPEB or as otherwise permitted by the terms of the trust
+32 and applicable law. The director of finance or treasurer, as applicable, shall invest and reinvest the
+33 amounts in the OPEB trust fund not needed for current disbursement in any investment permitted
+34 for the municipality’s pension funds consistent with the prudent person rule and investment policies
+LC002053 - Page 2 of 4
+
+1 of the municipality, if any.
+2 (c) Municipalities are hereby authorized to enter into agreements, trusts, contracts, and
+3 other arrangements with the state and any of its departments, agencies, boards or commissions
+4 relating to the execution, management or operation of the OPEB trust funds, including, but not
+5 limited to, investments, and the state and its departments, agencies, boards and commissions are
+6 hereby authorized to enter into such agreements, contracts and other arrangements with
+7 municipalities. Notwithstanding any provisions of any general or special law or principle of equity
+8 to the contrary, the state shall have no liability to any municipality for entering into such
+9 agreements.
+10 (d) A municipality may employ any qualified bank, trust company, corporation, firm or
+11 person to advise it on the investment of the OPEB trust fund and may pay from the OPEB trust
+12 fund for this advice and other services. Procurement for these services shall be subject to the
+13 procurement procedures and rules governing municipalities in the state.
+14 (e) Municipalities are also hereby authorized to enter into agreements, trusts, contracts, and
+15 other arrangements with any corporation established pursuant to chapter 5 of this title relating to
+16 the execution management or operations of OPEB trust funds including, but not limited to,
+17 investments, and the corporations established pursuant to § 45-5-20.1 are hereby authorized to enter
+18 into such agreements, trusts, contracts or other arrangements with municipalities.
+19 (f) Any OPEB trusts that have been created by municipalities and are in effect on the date
+20 hereof are hereby ratified and confirmed.
+21 (g) Nothing herein shall be construed to exempt OPEB trusts from the Rhode Island Access
+22 to Public Records Act, § 38-2-1 et seq.
+23 SECTION 3. This act shall take effect upon passage.
+========
+LC002053
+========
+LC002053 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- AUDIT OF ACCOUNTS AND INSTALLATION OF
+SYSTEMS
+***
+1 This act would amend the audit compliance requirements for municipalities' contributions
+2 to pension plans under the audit of accounts and installation of systems chapter of the general laws.
+3 This act would take effect upon passage.
+========
+LC002053
+========
+LC002053 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 C w r o “ a s b e ( a a w G s 2 o a s s G A S a a f s t m m r a s o t v d f o ( h p a]
+[DELETED:  s m ( ( c ( f S o 4 ( m f o p b i b n l t h c a d c b b a c m s i e t 5 t ( a b o c i t a a f]
+[DELETED:  o ( o r l h a t e i s a c a o a w m t t c t s s h n l t a m f e i s a ( p f p ( o t e m o o o O t f i b n l t i i ( h ( t S]
+[DELETED:  T t T]

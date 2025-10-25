@@ -1,0 +1,112 @@
+Title: Introduced By: Representatives Hull, Fascia, Azzinaro, Abney, Roberts, Biah, Lima,
+Official Title: Introduced By: Representatives Hull, Fascia, Azzinaro, Abney, Roberts, Biah, Lima,
+Number of Sections: 1
+Source: versions - 5438
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5438
+========
+LC001345
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+Place, Slater, and Diaz
+Date Introduced: February 12, 2025
+Referred To: House Judiciary
+(Dept. of Public Safety)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-5 of the General Laws entitled "Search Warrants" is hereby
+2 amended by adding thereto the following section:
+3 12-5-11. Warrant for a tracking device.
+4 (a) For purposes of this section, a "tracking device" means an electronic or mechanical
+5 device which permits the tracking or the movement of a person or object.
+6 (b) A warrant for the installation and use of a tracking device shall state the date and times
+7 of its issuance and the grounds for probable cause for its issuance and shall command the law
+8 enforcement officer to complete the installation of the device within a specific period not later than
+9 ten (10) days after the date of its issuance. The warrant for a tracking device must identify the
+10 person or property to be tracked and specify a reasonable length of time that the device may be
+11 installed. The time must not exceed fifteen (15) days from the date the warrant was issued. The
+12 court may, for good cause, grant one or more extensions for a reasonable period not to exceed
+13 fifteen (15) days each.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC001345
+========
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+***
+1 This act would dictate the length a search warrant involving a tracking device would be
+2 valid and provide a process to extend the time frame of the tracking device usage for good cause.
+3 This act would take effect upon passage.
+========
+LC001345
+========
+LC001345 - Page 2 of 2
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( d ( o e t p i c f S]
+[DELETED:  T v T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5438
+========
+LC001345
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+Introduced By: Representatives Hull, Fascia, Azzinaro, Abney, Roberts, Biah, Lima,
+Place, Slater, and Diaz
+Date Introduced: February 12, 2025
+Referred To: House Judiciary
+(Dept. of Public Safety)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-5 of the General Laws entitled "Search Warrants" is hereby
+2 amended by adding thereto the following section:
+3 12-5-11. Warrant for a tracking device.
+4 (a) For purposes of this section, a "tracking device" means an electronic or mechanical
+5 device which permits the tracking or the movement of a person or object.
+6 (b) A warrant for the installation and use of a tracking device shall state the date and times
+7 of its issuance and the grounds for probable cause for its issuance and shall command the law
+8 enforcement officer to complete the installation of the device within a specific period not later than
+9 ten (10) days after the date of its issuance. The warrant for a tracking device must identify the
+10 person or property to be tracked and specify a reasonable length of time that the device may be
+11 installed. The time must not exceed fifteen (15) days from the date the warrant was issued. The
+12 court may, for good cause, grant one or more extensions for a reasonable period not to exceed
+13 fifteen (15) days each.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC001345
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+***
+1 This act would dictate the length a search warrant involving a tracking device would be
+2 valid and provide a process to extend the time frame of the tracking device usage for good cause.
+3 This act would take effect upon passage.
+========
+LC001345
+========
+LC001345 - Page 2 of 2
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( d ( o e t p i c f S]
+[DELETED:  T v T]

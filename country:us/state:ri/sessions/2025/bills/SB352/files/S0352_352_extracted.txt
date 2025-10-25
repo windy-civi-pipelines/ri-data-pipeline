@@ -1,0 +1,197 @@
+Title: RELATING TO CRIMINAL PROCEDURE -- IDENTIFICATION AND APPREHENSION OF
+Official Title: RELATING TO CRIMINAL PROCEDURE -- IDENTIFICATION AND APPREHENSION OF
+Number of Sections: 1
+Source: versions - 352
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0352
+========
+LC000408
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CRIMINALS
+Introduced By: Senators Dimitri, LaMountain, Thompson, Murray, Ciccone, Bissaillon,
+Burke, E Morgan, and Vargas
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-1-12.1 of the General Laws in Chapter 12-1 entitled
+2 "Identification and Apprehension of Criminals" is hereby amended to read as follows:
+3 12-1-12.1. Sealing of records of persons acquitted or otherwise exonerated by
+4 operation of law or by motion.
+5 (a) By operation of law, the court shall automatically seal the records of any criminal case
+6 that was dismissed pursuant to the district court rule of criminal procedure 48(a), including all
+7 records of the division of criminal identification established by § 12-1-4 without the requirement
+8 of filing a motion under the following circumstances:
+9 (1) Cases dismissed pursuant to the district court rule of criminal procedure 48(a) on or
+10 after January 1, 2023, shall be automatically sealed not less than ten (10) days and not more than
+11 twenty (20) days after the dismissal. Counsel of record for the defendant shall be provided two (2)
+12 certified copies of the sealing order, which may be sent electronically; or
+13 (2) Cases dismissed pursuant to the district court rule of criminal procedure 48(a) prior to
+14 January 1, 2023, shall be sealed administratively by the court clerk at the request of the defendant
+15 and any sealing order of the district court entered as a result shall be sent electronically by the clerk
+16 of the court to the bureau of criminal identification established by § 12-1-4 and served upon the
+17 arresting law enforcement agency, within five (5) days of the entry of the order and shall be carried
+18 out within ninety (90) days of the receipt of the order. Counsel of record for the defendant shall be
+1 provided two (2) certified copies of the sealing order, which may be sent electronically.
+2 (3) Cases or individual counts of a criminal complaint or indictment dismissed pursuant to
+3 the superior court rule of criminal procedure 48(a) shall be sealed administratively by the court
+4 clerk at the request of the defendant and any sealing order of the superior court entered as a result
+5 shall be sent electronically by the clerk of the court to the bureau of criminal identification
+6 established by § 12-1-4 and served upon the arresting law enforcement agency, within five (5) days
+7 of the entry of the order and shall be carried out within ninety (90) days of the receipt of the order.
+8 Counsel of record for the defendant shall be provided two (2) certified copies of the sealing order,
+9 which may be sent electronically.
+10 (b) Any person who is acquitted or otherwise exonerated of all counts in a criminal case,
+11 including, but not limited to, dismissals not described in subsection (a) of this section or filing of a
+12 no true bill or no information, may file a motion for the sealing of his or her court records in the
+13 case.
+14 (1) Any person filing a motion for sealing his or her court records pursuant to this section
+15 shall give notice of the hearing date set by the court to the department of the attorney general and
+16 the police department that originally brought the charge against the person at least ten (10) days
+17 prior to the hearing.
+18 (2) If the court, after the hearing at which all relevant testimony and information shall be
+19 considered, finds that the person is entitled to the sealing of the records, it shall order the sealing
+20 of the court records of the person in that case.
+21 (3) The clerk of the court shall, within forty-five (45) days of the order of the court granting
+22 the motion, place under seal the court records in the case in which the acquittal, dismissal, no true
+23 bill, no information, or other exoneration has been entered.
+24 (c) Notwithstanding any other provision of this section, in all cases involving a filing
+25 subsequent to a plea of not guilty, guilty, or nolo contendere to a charge of a crime involving
+26 domestic violence, the court having jurisdiction over the case shall retain the records of the case
+27 for a period of three (3) years from the date of filing. The records shall not be expunged or sealed
+28 for a period of three (3) years from the date of the filing.
+29 (d) The defendant shall be advised at the hearing that any and all bail money relating to a
+30 case that remains on deposit and is not claimed at the time of sealing shall be escheated to the state’s
+31 general treasury in accordance with chapter 12 of title 8.
+32 SECTION 2. This act shall take effect upon passage.
+========
+LC000408
+========
+LC000408 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- IDENTIFICATION AND APPREHENSION OF
+CRIMINALS
+***
+1 This act would require the superior court clerk to automatically seal cases or individual
+2 counts of a criminal complaint or indictment that were dismissed, upon request of the defendant
+3 and would require the clerks in the district and superior courts to serve the orders upon the bureau
+4 of criminal identification, the arresting law enforcement agency and provide two (2) certified copies
+5 to counsel of record.
+6 This act would take effect upon passage.
+========
+LC000408
+========
+LC000408 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " 1 S o r o p a o o e b o ( t r o ( a t c ( J a o a o]
+[DELETED:  p ( t c s b s e b t c o t c t t b o c i e o C w ( i n c ( s t p ( c o ( t b ( s d f f ( c g S]
+[DELETED:  T c a o t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0352
+========
+LC000408
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- IDENTIFICATION AND APPREHENSION OF
+CRIMINALS
+Introduced By: Senators Dimitri, LaMountain, Thompson, Murray, Ciccone, Bissaillon,
+Burke, E Morgan, and Vargas
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-1-12.1 of the General Laws in Chapter 12-1 entitled
+2 "Identification and Apprehension of Criminals" is hereby amended to read as follows:
+3 12-1-12.1. Sealing of records of persons acquitted or otherwise exonerated by
+4 operation of law or by motion.
+5 (a) By operation of law, the court shall automatically seal the records of any criminal case
+6 that was dismissed pursuant to the district court rule of criminal procedure 48(a), including all
+7 records of the division of criminal identification established by § 12-1-4 without the requirement
+8 of filing a motion under the following circumstances:
+9 (1) Cases dismissed pursuant to the district court rule of criminal procedure 48(a) on or
+10 after January 1, 2023, shall be automatically sealed not less than ten (10) days and not more than
+11 twenty (20) days after the dismissal. Counsel of record for the defendant shall be provided two (2)
+12 certified copies of the sealing order, which may be sent electronically; or
+13 (2) Cases dismissed pursuant to the district court rule of criminal procedure 48(a) prior to
+14 January 1, 2023, shall be sealed administratively by the court clerk at the request of the defendant
+15 and any sealing order of the district court entered as a result shall be sent electronically by the clerk
+16 of the court to the bureau of criminal identification established by § 12-1-4 and served upon the
+17 arresting law enforcement agency, within five (5) days of the entry of the order and shall be carried
+18 out within ninety (90) days of the receipt of the order. Counsel of record for the defendant shall be
+
+1 provided two (2) certified copies of the sealing order, which may be sent electronically.
+2 (3) Cases or individual counts of a criminal complaint or indictment dismissed pursuant to
+3 the superior court rule of criminal procedure 48(a) shall be sealed administratively by the court
+4 clerk at the request of the defendant and any sealing order of the superior court entered as a result
+5 shall be sent electronically by the clerk of the court to the bureau of criminal identification
+6 established by § 12-1-4 and served upon the arresting law enforcement agency, within five (5) days
+7 of the entry of the order and shall be carried out within ninety (90) days of the receipt of the order.
+8 Counsel of record for the defendant shall be provided two (2) certified copies of the sealing order,
+9 which may be sent electronically.
+10 (b) Any person who is acquitted or otherwise exonerated of all counts in a criminal case,
+11 including, but not limited to, dismissals not described in subsection (a) of this section or filing of a
+12 no true bill or no information, may file a motion for the sealing of his or her court records in the
+13 case.
+14 (1) Any person filing a motion for sealing his or her court records pursuant to this section
+15 shall give notice of the hearing date set by the court to the department of the attorney general and
+16 the police department that originally brought the charge against the person at least ten (10) days
+17 prior to the hearing.
+18 (2) If the court, after the hearing at which all relevant testimony and information shall be
+19 considered, finds that the person is entitled to the sealing of the records, it shall order the sealing
+20 of the court records of the person in that case.
+21 (3) The clerk of the court shall, within forty-five (45) days of the order of the court granting
+22 the motion, place under seal the court records in the case in which the acquittal, dismissal, no true
+23 bill, no information, or other exoneration has been entered.
+24 (c) Notwithstanding any other provision of this section, in all cases involving a filing
+25 subsequent to a plea of not guilty, guilty, or nolo contendere to a charge of a crime involving
+26 domestic violence, the court having jurisdiction over the case shall retain the records of the case
+27 for a period of three (3) years from the date of filing. The records shall not be expunged or sealed
+28 for a period of three (3) years from the date of the filing.
+29 (d) The defendant shall be advised at the hearing that any and all bail money relating to a
+30 case that remains on deposit and is not claimed at the time of sealing shall be escheated to the state’s
+31 general treasury in accordance with chapter 12 of title 8.
+32 SECTION 2. This act shall take effect upon passage.
+========
+LC000408
+========
+LC000408 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- IDENTIFICATION AND APPREHENSION OF
+CRIMINALS
+***
+1 This act would require the superior court clerk to automatically seal cases or individual
+2 counts of a criminal complaint or indictment that were dismissed, upon request of the defendant
+3 and would require the clerks in the district and superior courts to serve the orders upon the bureau
+4 of criminal identification, the arresting law enforcement agency and provide two (2) certified copies
+5 to counsel of record.
+6 This act would take effect upon passage.
+========
+LC000408
+========
+LC000408 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " 1 S o r o p a o o e b o ( t r o ( a t c ( J a o a o]
+[DELETED:  p ( t c s b s e b t c o t c t t b o c i e o C w ( i n c ( s t p ( c o ( t b ( s d f f ( c g S]
+[DELETED:  T c a o t T]

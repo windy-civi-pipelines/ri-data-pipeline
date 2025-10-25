@@ -1,0 +1,573 @@
+Title: RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Official Title: RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Number of Sections: 1
+Source: versions - 6160
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6160
+========
+LC002594
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Craven, Caldwell, McEntee, and Spears
+Date Introduced: April 02, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-11 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-11. Definitions.
+4 Subject to additional definitions contained in subsequent sections of this chapter which
+5 apply to specific sections thereof, and unless the context otherwise requires, in this chapter:
+6 (1) “Abandonment” means the tenant has vacated the premises without notice to the
+7 landlord and has no intention of returning, as evidenced by nonpayment of rent for more than fifteen
+8 (15) days and removal of substantially all possessions from the premises;
+9 (2) “Abuse” means an act or failure to act that presents an imminent risk of serious harm
+10 to an individual and, for purposes of this chapter includes, but is not limited to, any of the following
+11 crimes, regardless of whether these acts or threats have been reported to law enforcement officers:
+12 (i) Child abuse (§ 11-9-5.3);
+13 (ii) Child molestation (§§ 11-37-8.1 and 11-37-8.3);
+14 (iii) Domestic violence;
+15 (iv) Enticement of children (§ 11-26-1.5);
+16 (v) Indecent solicitation of a child (§ 11-37-8.8);
+17 (vi) Kidnapping (§§ 11-26-1 and 11-26-1.4);
+18 (vii) Sexual assault (chapter 37 of title 11);
+19 (viii) Stalking (§ 11-59-2);
+1 (ix) Strangulation (§ 11-5-2.3); and
+2 (x) Trafficking (chapter 67.1 of title 11).
+3 (2)(3) “Action” includes recoupment, counterclaim, set-off, suit in equity, and any other
+4 proceeding in which rights are determined, including an action for possession;
+5 (4) “Actual address” means the physical location where the applicant resides, as specified
+6 on the individual’s application to be a program participant under this chapter.
+7 (5) “Agency” means any subdivision of the State of Rhode Island, a municipality, or a
+8 subdivision of a municipality.
+9 (3)(6) “Building and housing codes” include any law, ordinance, or governmental
+10 regulation concerning fitness for habitation, or the construction, maintenance, operation,
+11 occupancy, use, or appearance of any premises of dwelling unit;
+12 (7) “Domestic violence” for purposes of this chapter, means, but is not limited to, any of
+13 the following crimes when committed by one family or household member against another,
+14 regardless of whether these acts or threats have been reported to law enforcement officers:
+15 (i) Simple assault (§ 11-5-3);
+16 (ii) Felony assaults (chapter 5 of title 11);
+17 (iii) Vandalism (§ 11-44-1);
+18 (iv) Disorderly conduct (§ 11-45-1);
+19 (v) Trespass (§ 11-44-26);
+20 (vi) Kidnapping (§ 11-26-1);
+21 (vii) Child-snatching (§ 11-26-1.1);
+22 (viii) Sexual assault (§§ 11-37-2 and 11-37-4);
+23 (ix) Homicide (§§ 11-23-1 and 11-23-3);
+24 (x) Violation of the provisions of a protective order entered pursuant to § 15-5-19, chapter
+25 15 of title 15, or chapter 8.1 of title 8 where the respondent has knowledge of the order and the
+26 penalty for its violation, or a violation of a no contact order issued pursuant to § 12-29-4;
+27 (xi) Stalking (chapter 59 of title 11);
+28 (xii) Refusal to relinquish or to damage or to obstruct a telephone (§ 11-35-14);
+29 (xiii) Burglary and unlawful entry (chapter 8 of title 11);
+30 (xiv) Arson (chapter 4 of title 11);
+31 (xv) Cyberstalking and cyberharassment (§ 11-52-4.2);
+32 (xvi) Domestic assault by strangulation (§ 11-5-2.3);
+33 (xvii) Electronic tracking of motor vehicles (§ 11-69-1); or
+34 (xviii) Abuse.
+LC002594 - Page 2 of 9
+1 (4)(8) “Dwelling unit” means a structure or part of a structure that is designed or intended
+2 to be used as a home, residence, or sleeping place by one or more persons;
+3 (5)(9) “Fair rental value” means rent which is of comparable value with that of other rental
+4 properties of similar size and condition within the contiguous neighborhood;
+5 (6)(10) “Good faith” means honesty in fact in the conduct of the transaction concerned;
+6 (11) “Household member” means children and wards, current or former intimate partners,
+7 spouses, former spouses, persons related by blood or marriage, persons who are presently residing
+8 together or who have resided together in the past three (3) years, and persons who have a child in
+9 common regardless of whether they have been married or have lived together, or persons who are,
+10 or have been, in a dating or engagement relationship within the past year.
+11 (7)(12) “Landlord” means the owner, lessor, or sublessor of the dwelling unit or the
+12 building of which it is a part, and it also means a manager of the premises who fails to disclose as
+13 required by § 34-18-20;
+14 (8)(13) “Ordinary wear and tear” means deterioration of the premises which is the result of
+15 the tenant’s normal nonabusive living and includes, but is not limited to, deterioration caused by
+16 the landlord’s failure to prepare for expected conditions or by the landlord’s failure to comply with
+17 his or her obligations;
+18 (9)(14) “Organization” includes a corporation, government, governmental subdivision or
+19 agency, business trust, estate, trust, partnership of association, two (2) or more persons having a
+20 joint or common interest, and any other legal or commercial entity;
+21 (10)(15) “Owner” shall mean any person who, alone or jointly or severally with others:
+22 (i) Has legal title or tax title (pursuant to §§ 44-9-40 — 44-9-46, inclusive, of the general
+23 laws) to any dwelling, dwelling unit or structure with or without accompanying actual possession
+24 thereof; or
+25 (ii) Has charge, care, or control of any dwelling, dwelling unit or structure as owner or
+26 agent of the owner, or an executor, administrator, trustee, or guardian of the estate of the owner.
+27 Any person representing the actual owner in this way shall be bound to comply with the provisions
+28 of this chapter and of rules and regulations adopted pursuant thereto to the same extent as if he or
+29 she were the owner.
+30 (11)(16) “Person” includes an individual or organization;
+31 (12)(17) “Premises” means a dwelling unit and the structure of which it is a part and
+32 facilities and appurtenances therein and grounds, areas, and facilities held out for the use of tenants
+33 generally, or the use of which is promised to the tenant;
+34 (13)(18) “Rent” means the payment or consideration that a tenant pays to a landlord for the
+LC002594 - Page 3 of 9
+1 use of the premises, whether money, services, property, or produce of the land;
+2 (14)(19) “Rental agreement” means all agreements, written or oral, and valid rules and
+3 regulations adopted under § 34-18-25 embodying the terms and conditions concerning the use and
+4 occupancy of a dwelling unit and premises, and also includes any terms required by law;
+5 (15)(20) “Roomer” means a tenant occupying a dwelling unit which consists of any room
+6 or group of rooms forming a single habitable unit used or intended to be used for living and
+7 sleeping, but not for cooking or eating purposes;
+8 (16)(21) “Security deposit” means a sum of money given by a tenant to a landlord at the
+9 outset of the tenancy or shortly thereafter, as a deposit against physical damages to the tenant’s
+10 dwelling unit during said tenancy;
+11 (17)(22) “Tenant” means a person entitled under a rental agreement to occupy a dwelling
+12 unit to the exclusion of others;
+13 (18)(23) “Transitional housing facility” means a facility which, for a period not to exceed
+14 two (2) years, provides its residents with appropriate social services for the purpose of fostering
+15 independence, self sufficiency, and eventual transition to a permanent living arrangement;
+16 (19)(24) “Willful” means that the act was performed intentionally, knowingly and
+17 purposely, not accidentally or inadvertently and without justifiable excuse.
+18 SECTION 2. Chapter 34-18 of the General Laws entitled "Residential Landlord and Tenant
+19 Act" is hereby amended by adding thereto the following sections:
+20 34-18-62. Early lease termination by tenant due to abuse, domestic violence, sexual
+21 assault, or stalking.
+22 (a) A tenant may terminate their lease or rental agreement without penalty or fees for early
+23 termination, or liability for future rent when:
+24 (1) The tenant or household member within the most recent one hundred fifty (150) days
+25 has been a victim of abuse, domestic violence, sexual assault, or stalking; or
+26 (2) Within the most recent one hundred fifty (150) days, an event occurs relative to the
+27 victim of past abuse, domestic violence, sexual assault, or stalking, that, in conjunction with the
+28 past abuse, causes a victim lessee or victim household member to fear for their safety.
+29 (3) This right to terminate the lease or rental agreement pursuant to this subsection shall
+30 be conditioned on:
+31 (i) The tenant or household member of a tenant who is the victim provides the lessor or
+32 owner with written verification that the tenant or household member of a tenant has obtained a valid
+33 protective order against the perpetrator of the abuse, domestic violence, sexual assault stalking; or
+34 (ii) The tenant or household member of a tenant who is the victim:
+LC002594 - Page 4 of 9
+1 (A) Initiates legal action to obtain a protective order and provides written verification
+2 thereof to the lessor or owner; or
+3 (B) Reports the abuse, domestic violence, sexual assault, or stalking to a law enforcement
+4 agency and provides written verification thereof to the lessor or owner; or
+5 (C) Provides written verification from a law enforcement official, attorney, health care
+6 provider, social worker, mental health counselor, therapist, domestic violence advocate, sexual
+7 assault advocate, child abuse advocate, or other victim’s advocate at a nonprofit organization,
+8 college, university or state agency, that the tenant or their household member are a victim of abuse,
+9 domestic violence, sexual assault, or stalking; or
+10 (D) Provides a written and signed self-certification that the tenant or household member
+11 of a tenant was a victim of abuse, domestic violence, sexual assault, or stalking; and
+12 (iii) Language swearing that the facts provided by the tenant or household member of a
+13 tenant in the self-certification statement are true and accurate to the best of their knowledge and
+14 recollection.
+15 (b) The written verification provided to the lessor or owner, including the fact that an
+16 individual is a victim of abuse, domestic violence, sexual assault, or stalking, shall be maintained
+17 in strict confidence. The lessor or owner shall keep this information and any further personally-
+18 identifiable information of tenant and tenant’s household members (such as address, social security
+19 number, email, phone number, birthdate) confidential and shall not disclose this information to any
+20 other entity, party or individual, except to the extent that such disclosure is:
+21 (1) Requested and consented to in writing by the tenant or household member of the tenant
+22 who is the victim of abuse, domestic violence, sexual assault, or stalking; or
+23 (2) Otherwise required by applicable law.
+24 (c) The tenant who has given notice shall vacate the premises within thirty (30) days of
+25 giving notice to the landlord or at any other time as may be agreed upon by the landlord and the
+26 tenant.
+27 (d) For the purposes of determining rent owed, a tenant who terminates a lease or rental
+28 agreement pursuant to this section is only liable, if solely or jointly liable for purposes of the lease
+29 or rental agreement, for rent owed through the date of termination or the date the tenant actually
+30 vacates the premises, whichever is later.
+31 (e) A tenant who terminates a lease or rental agreement pursuant to this section shall be
+32 entitled to a refund of any security deposit or prepaid rent for any period thereafter. The tenant shall
+33 receive a full and specific statement of the basis for retaining any of the security deposit or prepaid
+34 rent together with any refund due in compliance with § 34-18-19 and within twenty (20) days of
+LC002594 - Page 5 of 9
+1 the conclusion of the tenancy.
+2 34-18-63. Refusal of rental agreement or assistance based on termination of rental
+3 agreement under § 34-18-62 or request for change of lock under § 34-18-64 prohibited.
+4 A lessor or owner shall not refuse to enter into a rental agreement, nor shall a housing
+5 subsidy provider deny assistance, based on an applicant having terminated a rental agreement under
+6 § 34-18-62 or based upon an applicant having requested a change of locks under § 34-18-64.
+7 34-18-64. Change of locks upon request of tenant, co-tenant, or household member
+8 believed to be under imminent threat of abuse, domestic violence, sexual assault, or stalking.
+9 (a) For purposes of this section, the term “household member” shall mean a person residing
+10 with the tenant or co-tenant as an authorized occupant of the premises, and who is eighteen (18)
+11 years of age or older or an emancipated minor.
+12 (b) A lessor or owner shall, upon the request of a tenant, co-tenant or a household member,
+13 change the locks of the individual dwelling unit in which the tenant, co-tenant or household member
+14 lives if the tenant, co-tenant or household member reasonably believes that the tenant, co-tenant or
+15 household member is under an imminent threat of abuse, domestic violence, sexual assault or
+16 stalking at the premises. A lessor or owner shall have the right to request, in good faith, written
+17 verification or self-certification of the status as a victim of abuse, domestic violence, sexual assault
+18 or stalking, as provided in § 34-18-62.
+19 (c) If the threat of abuse, domestic abuse, violence, sexual assault or stalking is posed by a
+20 person who is a tenant, co-tenant or household member, the lessor or owner may change the locks
+21 and deny a key to the alleged perpetrator upon receipt of a request to change the locks; provided,
+22 however, that such request shall be accompanied by:
+23 (1) A copy of a valid protective order issued against a tenant, co-tenant or household
+24 member; or
+25 (2) A record from a federal, state or local court or law enforcement, indicating that a tenant,
+26 co-tenant or household member thereof poses an imminent threat of abuse, domestic violence,
+27 sexual assault or stalking.
+28 (d) A lessor or owner who has received notice of a request for change of locks under this
+29 section shall, within two (2) business days, make a good faith effort to change the locks or give the
+30 tenant, co-tenant or household member permission to change the locks. If the lessor or owner
+31 changes the locks, the lessor or owner shall make a good faith effort to give a key to the new locks
+32 to the tenant, co-tenant or household member requesting the lock change as soon as possible, but
+33 within the same two (2) business day period. A lessor or owner may charge a fee for the expense
+34 of changing the locks. The fee shall not exceed the reasonable price customarily charged for
+LC002594 - Page 6 of 9
+1 changing such locks in that community.
+2 (e) If a lessor or owner fails to change the locks after receipt of a request under this section
+3 within two (2) business days, the tenant, co-tenant or household member may change the locks
+4 without the owner’s permission. If the rental agreement requires that the lessor or owner retain a
+5 key to the leased residential premises and if a tenant, co-tenant or household member changes the
+6 locks, the tenant, co-tenant or household member shall make a good faith effort to provide a key to
+7 the new locks to the lessor or owner within two (2) business days of the locks being changed. If a
+8 tenant, co-tenant or household member changes the locks without the owner’s permission, such
+9 person shall change the locks in a workmanlike manner with locks of similar or better quality than
+10 the original locks. A lessor or owner may replace a lock installed by the tenant, co-tenant or
+11 household member, or seek reimbursement for additional costs incurred, if the lessor or owner
+12 believes that the locks were not of equal or better quality or were not installed properly, and such
+13 action shall be deemed not to be in retaliation.
+14 (f) If the locks are changed under this section, a tenant, co-tenant or household member
+15 shall not voluntarily give the new key to the perpetrator. A lessor or owner who refuses to provide
+16 a key to any person based on the reasonable belief that such person is the perpetrator of alleged
+17 abuse, domestic violence, sexual assault or stalking, shall not be liable for such refusal.
+18 (g) A lessor or owner who takes action to prevent the tenant, co-tenant or household
+19 member who has complied with subsection (b) of this section from changing the locks, or any lessor
+20 or owner who changes the locks but fails to make a good faith effort to provide a key to the tenant,
+21 co-tenant or household member requesting the lock change as provided in subsection (d) of this
+22 section, shall be liable for actual and consequential damages or three (3) months’ rent, whichever
+23 is greater, and the costs of the action, including reasonable attorneys’ fees, all of which may be
+24 applied in setoff or recoupment against any claim for rent owed or owing for use and occupancy.
+25 Damages shall not be imposed if the court determines that the lessor or owner acted in good faith.
+26 34-18-65. Jurisdiction of courts to restrain violations. Applicability of other laws to
+27 requests to change locks.
+28 (a) The district court shall have jurisdiction in equity to restrain violations of §§ 34-18-62
+29 through 34-18-64, inclusive.
+30 (b) Notwithstanding §§ 34-18-62 through 34-18-64, inclusive, if a court has issued a
+31 protective order pursuant to § 15-5-19, chapter 15 of title 15, chapter 8.1 of title 8, § 12-29-4, or
+32 any other law, ordering a tenant, co-tenant or household member to vacate the dwelling unit, the
+33 lessor or owner shall not interfere with the order and upon a request to change the locks as described
+34 in § 34-18-64, shall comply with such request.
+LC002594 - Page 7 of 9
+1 34-18-66. Waivers of §§ 34-18-62 through 34-18-64 void and unenforceable.
+2 A waiver of §§ 34-18-62 through 34-18-64, inclusive, in any lease or other rental
+3 agreement, except as otherwise provided by law or by federal, state or local regulation shall be void
+4 and unenforceable.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC002594
+========
+LC002594 - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would grant tenants that are the victim of various forms of abuse including, but
+2 not limited to, sexual and domestic abuse and stalking, the right to terminate a lease agreement
+3 early without penalty or liability for rent. This act would also provide for requests to change locks.
+4 This act would take effect upon passage.
+========
+LC002594
+========
+LC002594 - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND S L 3 S a ( “ m t t h v t p w n t t l ( ( t c ( ( ( ( ( ( ( (]
+[DELETED:  ( ( ( p ( o ( s ( “ a h c i a l o o g r c f f h o t c m o o ( t f c w c b o f o h m a a r ( ( ( ( ( ( ( ( ( ( 1 p ( ( ( ( ( ( ( (]
+[DELETED:  ( t ( p ( ( s t c o ( “ m t o l o s o t d u o t b r ( t t h ( a j ( ( l t ( a A o s ( ( f g (]
+[DELETED:  u ( r o ( o s ( o d ( u ( t i ( “ m t t a w p i k a p S A 3 a ( t ( h ( v p ( b ( o p (]
+[DELETED:  ( t ( a ( p a c d ( o ( t r ( i i i n o ( w ( ( g t ( a o v ( e r r]
+[DELETED:  t 3 a A s § 3 b ( w y ( c l h s v o ( p a h ( m ( c s ( s t c t w o]
+[DELETED:  c ( w w k l t t p t h b a ( s a a ( m o c s i a D 3 r ( t ( N § 3 t 3 i i c h a p a l i]
+[DELETED:  3 A w o § 3 t 3 i i a l o o r a a S]
+[DELETED:  T n e T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6160
+========
+LC002594
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Representatives Craven, Caldwell, McEntee, and Spears
+Date Introduced: April 02, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-11 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-11. Definitions.
+4 Subject to additional definitions contained in subsequent sections of this chapter which
+5 apply to specific sections thereof, and unless the context otherwise requires, in this chapter:
+6 (1) “Abandonment” means the tenant has vacated the premises without notice to the
+7 landlord and has no intention of returning, as evidenced by nonpayment of rent for more than fifteen
+8 (15) days and removal of substantially all possessions from the premises;
+9 (2) “Abuse” means an act or failure to act that presents an imminent risk of serious harm
+10 to an individual and, for purposes of this chapter includes, but is not limited to, any of the following
+11 crimes, regardless of whether these acts or threats have been reported to law enforcement officers:
+12 (i) Child abuse (§ 11-9-5.3);
+13 (ii) Child molestation (§§ 11-37-8.1 and 11-37-8.3);
+14 (iii) Domestic violence;
+15 (iv) Enticement of children (§ 11-26-1.5);
+16 (v) Indecent solicitation of a child (§ 11-37-8.8);
+17 (vi) Kidnapping (§§ 11-26-1 and 11-26-1.4);
+18 (vii) Sexual assault (chapter 37 of title 11);
+19 (viii) Stalking (§ 11-59-2);
+
+1 (ix) Strangulation (§ 11-5-2.3); and
+2 (x) Trafficking (chapter 67.1 of title 11).
+3 (2)(3) “Action” includes recoupment, counterclaim, set-off, suit in equity, and any other
+4 proceeding in which rights are determined, including an action for possession;
+5 (4) “Actual address” means the physical location where the applicant resides, as specified
+6 on the individual’s application to be a program participant under this chapter.
+7 (5) “Agency” means any subdivision of the State of Rhode Island, a municipality, or a
+8 subdivision of a municipality.
+9 (3)(6) “Building and housing codes” include any law, ordinance, or governmental
+10 regulation concerning fitness for habitation, or the construction, maintenance, operation,
+11 occupancy, use, or appearance of any premises of dwelling unit;
+12 (7) “Domestic violence” for purposes of this chapter, means, but is not limited to, any of
+13 the following crimes when committed by one family or household member against another,
+14 regardless of whether these acts or threats have been reported to law enforcement officers:
+15 (i) Simple assault (§ 11-5-3);
+16 (ii) Felony assaults (chapter 5 of title 11);
+17 (iii) Vandalism (§ 11-44-1);
+18 (iv) Disorderly conduct (§ 11-45-1);
+19 (v) Trespass (§ 11-44-26);
+20 (vi) Kidnapping (§ 11-26-1);
+21 (vii) Child-snatching (§ 11-26-1.1);
+22 (viii) Sexual assault (§§ 11-37-2 and 11-37-4);
+23 (ix) Homicide (§§ 11-23-1 and 11-23-3);
+24 (x) Violation of the provisions of a protective order entered pursuant to § 15-5-19, chapter
+25 15 of title 15, or chapter 8.1 of title 8 where the respondent has knowledge of the order and the
+26 penalty for its violation, or a violation of a no contact order issued pursuant to § 12-29-4;
+27 (xi) Stalking (chapter 59 of title 11);
+28 (xii) Refusal to relinquish or to damage or to obstruct a telephone (§ 11-35-14);
+29 (xiii) Burglary and unlawful entry (chapter 8 of title 11);
+30 (xiv) Arson (chapter 4 of title 11);
+31 (xv) Cyberstalking and cyberharassment (§ 11-52-4.2);
+32 (xvi) Domestic assault by strangulation (§ 11-5-2.3);
+33 (xvii) Electronic tracking of motor vehicles (§ 11-69-1); or
+34 (xviii) Abuse.
+LC002594 - Page 2 of 9
+
+1 (4)(8) “Dwelling unit” means a structure or part of a structure that is designed or intended
+2 to be used as a home, residence, or sleeping place by one or more persons;
+3 (5)(9) “Fair rental value” means rent which is of comparable value with that of other rental
+4 properties of similar size and condition within the contiguous neighborhood;
+5 (6)(10) “Good faith” means honesty in fact in the conduct of the transaction concerned;
+6 (11) “Household member” means children and wards, current or former intimate partners,
+7 spouses, former spouses, persons related by blood or marriage, persons who are presently residing
+8 together or who have resided together in the past three (3) years, and persons who have a child in
+9 common regardless of whether they have been married or have lived together, or persons who are,
+10 or have been, in a dating or engagement relationship within the past year.
+11 (7)(12) “Landlord” means the owner, lessor, or sublessor of the dwelling unit or the
+12 building of which it is a part, and it also means a manager of the premises who fails to disclose as
+13 required by § 34-18-20;
+14 (8)(13) “Ordinary wear and tear” means deterioration of the premises which is the result of
+15 the tenant’s normal nonabusive living and includes, but is not limited to, deterioration caused by
+16 the landlord’s failure to prepare for expected conditions or by the landlord’s failure to comply with
+17 his or her obligations;
+18 (9)(14) “Organization” includes a corporation, government, governmental subdivision or
+19 agency, business trust, estate, trust, partnership of association, two (2) or more persons having a
+20 joint or common interest, and any other legal or commercial entity;
+21 (10)(15) “Owner” shall mean any person who, alone or jointly or severally with others:
+22 (i) Has legal title or tax title (pursuant to §§ 44-9-40 — 44-9-46, inclusive, of the general
+23 laws) to any dwelling, dwelling unit or structure with or without accompanying actual possession
+24 thereof; or
+25 (ii) Has charge, care, or control of any dwelling, dwelling unit or structure as owner or
+26 agent of the owner, or an executor, administrator, trustee, or guardian of the estate of the owner.
+27 Any person representing the actual owner in this way shall be bound to comply with the provisions
+28 of this chapter and of rules and regulations adopted pursuant thereto to the same extent as if he or
+29 she were the owner.
+30 (11)(16) “Person” includes an individual or organization;
+31 (12)(17) “Premises” means a dwelling unit and the structure of which it is a part and
+32 facilities and appurtenances therein and grounds, areas, and facilities held out for the use of tenants
+33 generally, or the use of which is promised to the tenant;
+34 (13)(18) “Rent” means the payment or consideration that a tenant pays to a landlord for the
+LC002594 - Page 3 of 9
+
+1 use of the premises, whether money, services, property, or produce of the land;
+2 (14)(19) “Rental agreement” means all agreements, written or oral, and valid rules and
+3 regulations adopted under § 34-18-25 embodying the terms and conditions concerning the use and
+4 occupancy of a dwelling unit and premises, and also includes any terms required by law;
+5 (15)(20) “Roomer” means a tenant occupying a dwelling unit which consists of any room
+6 or group of rooms forming a single habitable unit used or intended to be used for living and
+7 sleeping, but not for cooking or eating purposes;
+8 (16)(21) “Security deposit” means a sum of money given by a tenant to a landlord at the
+9 outset of the tenancy or shortly thereafter, as a deposit against physical damages to the tenant’s
+10 dwelling unit during said tenancy;
+11 (17)(22) “Tenant” means a person entitled under a rental agreement to occupy a dwelling
+12 unit to the exclusion of others;
+13 (18)(23) “Transitional housing facility” means a facility which, for a period not to exceed
+14 two (2) years, provides its residents with appropriate social services for the purpose of fostering
+15 independence, self sufficiency, and eventual transition to a permanent living arrangement;
+16 (19)(24) “Willful” means that the act was performed intentionally, knowingly and
+17 purposely, not accidentally or inadvertently and without justifiable excuse.
+18 SECTION 2. Chapter 34-18 of the General Laws entitled "Residential Landlord and Tenant
+19 Act" is hereby amended by adding thereto the following sections:
+20 34-18-62. Early lease termination by tenant due to abuse, domestic violence, sexual
+21 assault, or stalking.
+22 (a) A tenant may terminate their lease or rental agreement without penalty or fees for early
+23 termination, or liability for future rent when:
+24 (1) The tenant or household member within the most recent one hundred fifty (150) days
+25 has been a victim of abuse, domestic violence, sexual assault, or stalking; or
+26 (2) Within the most recent one hundred fifty (150) days, an event occurs relative to the
+27 victim of past abuse, domestic violence, sexual assault, or stalking, that, in conjunction with the
+28 past abuse, causes a victim lessee or victim household member to fear for their safety.
+29 (3) This right to terminate the lease or rental agreement pursuant to this subsection shall
+30 be conditioned on:
+31 (i) The tenant or household member of a tenant who is the victim provides the lessor or
+32 owner with written verification that the tenant or household member of a tenant has obtained a valid
+33 protective order against the perpetrator of the abuse, domestic violence, sexual assault stalking; or
+34 (ii) The tenant or household member of a tenant who is the victim:
+LC002594 - Page 4 of 9
+
+1 (A) Initiates legal action to obtain a protective order and provides written verification
+2 thereof to the lessor or owner; or
+3 (B) Reports the abuse, domestic violence, sexual assault, or stalking to a law enforcement
+4 agency and provides written verification thereof to the lessor or owner; or
+5 (C) Provides written verification from a law enforcement official, attorney, health care
+6 provider, social worker, mental health counselor, therapist, domestic violence advocate, sexual
+7 assault advocate, child abuse advocate, or other victim’s advocate at a nonprofit organization,
+8 college, university or state agency, that the tenant or their household member are a victim of abuse,
+9 domestic violence, sexual assault, or stalking; or
+10 (D) Provides a written and signed self-certification that the tenant or household member
+11 of a tenant was a victim of abuse, domestic violence, sexual assault, or stalking; and
+12 (iii) Language swearing that the facts provided by the tenant or household member of a
+13 tenant in the self-certification statement are true and accurate to the best of their knowledge and
+14 recollection.
+15 (b) The written verification provided to the lessor or owner, including the fact that an
+16 individual is a victim of abuse, domestic violence, sexual assault, or stalking, shall be maintained
+17 in strict confidence. The lessor or owner shall keep this information and any further personally-
+18 identifiable information of tenant and tenant’s household members (such as address, social security
+19 number, email, phone number, birthdate) confidential and shall not disclose this information to any
+20 other entity, party or individual, except to the extent that such disclosure is:
+21 (1) Requested and consented to in writing by the tenant or household member of the tenant
+22 who is the victim of abuse, domestic violence, sexual assault, or stalking; or
+23 (2) Otherwise required by applicable law.
+24 (c) The tenant who has given notice shall vacate the premises within thirty (30) days of
+25 giving notice to the landlord or at any other time as may be agreed upon by the landlord and the
+26 tenant.
+27 (d) For the purposes of determining rent owed, a tenant who terminates a lease or rental
+28 agreement pursuant to this section is only liable, if solely or jointly liable for purposes of the lease
+29 or rental agreement, for rent owed through the date of termination or the date the tenant actually
+30 vacates the premises, whichever is later.
+31 (e) A tenant who terminates a lease or rental agreement pursuant to this section shall be
+32 entitled to a refund of any security deposit or prepaid rent for any period thereafter. The tenant shall
+33 receive a full and specific statement of the basis for retaining any of the security deposit or prepaid
+34 rent together with any refund due in compliance with § 34-18-19 and within twenty (20) days of
+LC002594 - Page 5 of 9
+
+1 the conclusion of the tenancy.
+2 34-18-63. Refusal of rental agreement or assistance based on termination of rental
+3 agreement under § 34-18-62 or request for change of lock under § 34-18-64 prohibited.
+4 A lessor or owner shall not refuse to enter into a rental agreement, nor shall a housing
+5 subsidy provider deny assistance, based on an applicant having terminated a rental agreement under
+6 § 34-18-62 or based upon an applicant having requested a change of locks under § 34-18-64.
+7 34-18-64. Change of locks upon request of tenant, co-tenant, or household member
+8 believed to be under imminent threat of abuse, domestic violence, sexual assault, or stalking.
+9 (a) For purposes of this section, the term “household member” shall mean a person residing
+10 with the tenant or co-tenant as an authorized occupant of the premises, and who is eighteen (18)
+11 years of age or older or an emancipated minor.
+12 (b) A lessor or owner shall, upon the request of a tenant, co-tenant or a household member,
+13 change the locks of the individual dwelling unit in which the tenant, co-tenant or household member
+14 lives if the tenant, co-tenant or household member reasonably believes that the tenant, co-tenant or
+15 household member is under an imminent threat of abuse, domestic violence, sexual assault or
+16 stalking at the premises. A lessor or owner shall have the right to request, in good faith, written
+17 verification or self-certification of the status as a victim of abuse, domestic violence, sexual assault
+18 or stalking, as provided in § 34-18-62.
+19 (c) If the threat of abuse, domestic abuse, violence, sexual assault or stalking is posed by a
+20 person who is a tenant, co-tenant or household member, the lessor or owner may change the locks
+21 and deny a key to the alleged perpetrator upon receipt of a request to change the locks; provided,
+22 however, that such request shall be accompanied by:
+23 (1) A copy of a valid protective order issued against a tenant, co-tenant or household
+24 member; or
+25 (2) A record from a federal, state or local court or law enforcement, indicating that a tenant,
+26 co-tenant or household member thereof poses an imminent threat of abuse, domestic violence,
+27 sexual assault or stalking.
+28 (d) A lessor or owner who has received notice of a request for change of locks under this
+29 section shall, within two (2) business days, make a good faith effort to change the locks or give the
+30 tenant, co-tenant or household member permission to change the locks. If the lessor or owner
+31 changes the locks, the lessor or owner shall make a good faith effort to give a key to the new locks
+32 to the tenant, co-tenant or household member requesting the lock change as soon as possible, but
+33 within the same two (2) business day period. A lessor or owner may charge a fee for the expense
+34 of changing the locks. The fee shall not exceed the reasonable price customarily charged for
+LC002594 - Page 6 of 9
+
+1 changing such locks in that community.
+2 (e) If a lessor or owner fails to change the locks after receipt of a request under this section
+3 within two (2) business days, the tenant, co-tenant or household member may change the locks
+4 without the owner’s permission. If the rental agreement requires that the lessor or owner retain a
+5 key to the leased residential premises and if a tenant, co-tenant or household member changes the
+6 locks, the tenant, co-tenant or household member shall make a good faith effort to provide a key to
+7 the new locks to the lessor or owner within two (2) business days of the locks being changed. If a
+8 tenant, co-tenant or household member changes the locks without the owner’s permission, such
+9 person shall change the locks in a workmanlike manner with locks of similar or better quality than
+10 the original locks. A lessor or owner may replace a lock installed by the tenant, co-tenant or
+11 household member, or seek reimbursement for additional costs incurred, if the lessor or owner
+12 believes that the locks were not of equal or better quality or were not installed properly, and such
+13 action shall be deemed not to be in retaliation.
+14 (f) If the locks are changed under this section, a tenant, co-tenant or household member
+15 shall not voluntarily give the new key to the perpetrator. A lessor or owner who refuses to provide
+16 a key to any person based on the reasonable belief that such person is the perpetrator of alleged
+17 abuse, domestic violence, sexual assault or stalking, shall not be liable for such refusal.
+18 (g) A lessor or owner who takes action to prevent the tenant, co-tenant or household
+19 member who has complied with subsection (b) of this section from changing the locks, or any lessor
+20 or owner who changes the locks but fails to make a good faith effort to provide a key to the tenant,
+21 co-tenant or household member requesting the lock change as provided in subsection (d) of this
+22 section, shall be liable for actual and consequential damages or three (3) months’ rent, whichever
+23 is greater, and the costs of the action, including reasonable attorneys’ fees, all of which may be
+24 applied in setoff or recoupment against any claim for rent owed or owing for use and occupancy.
+25 Damages shall not be imposed if the court determines that the lessor or owner acted in good faith.
+26 34-18-65. Jurisdiction of courts to restrain violations. Applicability of other laws to
+27 requests to change locks.
+28 (a) The district court shall have jurisdiction in equity to restrain violations of §§ 34-18-62
+29 through 34-18-64, inclusive.
+30 (b) Notwithstanding §§ 34-18-62 through 34-18-64, inclusive, if a court has issued a
+31 protective order pursuant to § 15-5-19, chapter 15 of title 15, chapter 8.1 of title 8, § 12-29-4, or
+32 any other law, ordering a tenant, co-tenant or household member to vacate the dwelling unit, the
+33 lessor or owner shall not interfere with the order and upon a request to change the locks as described
+34 in § 34-18-64, shall comply with such request.
+LC002594 - Page 7 of 9
+
+1 34-18-66. Waivers of §§ 34-18-62 through 34-18-64 void and unenforceable.
+2 A waiver of §§ 34-18-62 through 34-18-64, inclusive, in any lease or other rental
+3 agreement, except as otherwise provided by law or by federal, state or local regulation shall be void
+4 and unenforceable.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC002594
+========
+LC002594 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would grant tenants that are the victim of various forms of abuse including, but
+2 not limited to, sexual and domestic abuse and stalking, the right to terminate a lease agreement
+3 early without penalty or liability for rent. This act would also provide for requests to change locks.
+4 This act would take effect upon passage.
+========
+LC002594
+========
+LC002594 - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S L 3 S a ( “ m t t h v t p w n t t l ( ( t c ( ( ( ( ( ( ( (]
+[DELETED:  ( ( ( p ( o ( s ( “ a h c i a l o o g r c f f h o t c m o o ( t f c w c b o f o h m a a r ( ( ( ( ( ( ( ( ( ( 1 p ( ( ( ( ( ( ( (]
+[DELETED:  ( t ( p ( ( s t c o ( “ m t o l o s o t d u o t b r ( t t h ( a j ( ( l t ( a A o s ( ( f g (]
+[DELETED:  u ( r o ( o s ( o d ( u ( t i ( “ m t t a w p i k a p S A 3 a ( t ( h ( v p ( b ( o p (]
+[DELETED:  ( t ( a ( p a c d ( o ( t r ( i i i n o ( w ( ( g t ( a o v ( e r r]
+[DELETED:  t 3 a A s § 3 b ( w y ( c l h s v o ( p a h ( m ( c s ( s t c t w o]
+[DELETED:  c ( w w k l t t p t h b a ( s a a ( m o c s i a D 3 r ( t ( N § 3 t 3 i i c h a p a l i]
+[DELETED:  3 A w o § 3 t 3 i i a l o o r a a S]
+[DELETED:  T n e T]

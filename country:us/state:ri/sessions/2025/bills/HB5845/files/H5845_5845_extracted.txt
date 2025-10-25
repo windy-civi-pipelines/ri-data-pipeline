@@ -1,0 +1,204 @@
+Title: RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+Official Title: RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+Number of Sections: 1
+Source: versions - 5845
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5845
+========
+LC001344
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SYSTEM PROTECTION
+Introduced By: Representatives Read, Noret, Nardone, Serpa, Santucci, Shallcross Smith,
+Solomon, McNamara, Paplauskas, and Chippendale
+Date Introduced: February 28, 2025
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 46-15.3 of the General Laws entitled "Public Drinking Water Supply
+2 System Protection" is hereby amended by adding thereto the following section:
+3 46-15.3-5.2. Water supply systems flood resilience plans.
+4 (a) Effective January 1, 2026, all parties involved in the supply, transmission, and/or
+5 distribution of drinking water shall prepare, maintain, and carry out a water supply resilience plan
+6 as described by this section. The purpose of the resilience plan is to identify risks and provide
+7 assessments and emergency response plans to address the resilience of water supply systems to
+8 natural hazards and environmental related impacts. This requirement applies, without limitation,
+9 to:
+10 (1) All municipalities, municipal departments and agencies, districts, authorities or other
+11 entities engaged in or authorized to engage in the supply, treatment, transmission, or distribution
+12 of drinking water on a wholesale or retail basis, referred to herein as "water suppliers" or "water
+13 supplier", and which obtain, transport, purchase, or sell more than fifty million (50,000,000) gallons
+14 of water per year.
+15 (b) The initial risk assessment required pursuant to this section shall be completed no later
+16 than July 1, 2026, and the results of the assessment shall be provided to the governor, speaker of
+17 the house, president of the senate, the director of the department of health and the director of the
+18 department of environmental management. The assessment shall include without limitation:
+1 (1) The risk to the water supply system from natural hazards and environmental related
+2 impacts including, but not limited to, floods, hurricanes and earthquakes;
+3 (2) The resilience of the pipes and constructed conveyances, physical barriers, source
+4 water, water collection, intake, pretreatment, treatment, storage and distribution facilities, and
+5 electronic, computer, or other automated systems (including the security of such systems) which
+6 are utilized by the water supplier to address and mitigate natural hazards;
+7 (3) The financial infrastructure of the water supplier;
+8 (4) The use, storage, and handling of chemicals by the water supplier and the vulnerability
+9 of such chemicals to natural disasters; and
+10 (5) The operational monitoring and maintenance practices and procedures of the water
+11 supplier.
+12 (c) The assessment required by this section shall also include an evaluation of capital and
+13 operational needs to address risk and resilience management for the water supplier, and anticipated
+14 sources of funds shall be identified.
+15 (d) The resilience plans of water suppliers shall document that coordination has been
+16 accomplished with other water suppliers in the vicinity and with operators of wastewater treatment
+17 and disposal facilities serving all or part of the same area or that a good faith effort to do so has
+18 been made. Plans shall be consistent with applicable local comprehensive plans and shall be
+19 integrated into the water supply plans of the municipality or municipalities in which the service
+20 area is located.
+21 (e) Water supplier resilience plans shall designate the person or organization responsible
+22 for taking each necessary action, others who must participate, and the time period in which each
+23 action is to be taken.
+24 (f) Water suppliers shall utilize methods to implement measures necessary to achieve the
+25 objectives of this section. A water supplier shall be required to document the validity or
+26 effectiveness of any measure, implementation method, or other provision or action included in its
+27 plan.
+28 (g) Within six (6) months of any assessment required pursuant to subsection (b) of this
+29 section, every water supplier governed by this section shall provide the director of the department
+30 of health and the director of the department of environmental management with a response plan to
+31 address the issues raised in the assessment.
+32 (h) The assessment and response plan required pursuant to this section shall be updated
+33 every three (3) years from the initial assessment pursuant to subsection (b) of this section, with a
+34 report on the updated assessment delivered to the governor, speaker of the house, senate president,
+LC001344 - Page 2 of 4
+1 and director of the department of health.
+2 SECTION 2. This act shall take effect upon passage.
+========
+LC001344
+========
+LC001344 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+SYSTEM PROTECTION
+***
+1 This act would require Rhode Island water suppliers to prepare a resilience assessment and
+2 a response plan for the risk of natural hazards.
+3 This act would take effect upon passage.
+========
+LC001344
+========
+LC001344 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S S 4 ( E 1 a p i t s a d a a n t ( e o s o ( t t d]
+[DELETED:  ( i ( w e a ( ( o ( s ( o s ( a a b m P b c w a l c p a s b i a ( f a ( o o t s A w s s b r t d t v o e p ( s o a ( e r]
+[DELETED:  a S]
+[DELETED:  T a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5845
+========
+LC001344
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+SYSTEM PROTECTION
+Introduced By: Representatives Read, Noret, Nardone, Serpa, Santucci, Shallcross Smith,
+Solomon, McNamara, Paplauskas, and Chippendale
+Date Introduced: February 28, 2025
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 46-15.3 of the General Laws entitled "Public Drinking Water Supply
+2 System Protection" is hereby amended by adding thereto the following section:
+3 46-15.3-5.2. Water supply systems flood resilience plans.
+4 (a) Effective January 1, 2026, all parties involved in the supply, transmission, and/or
+5 distribution of drinking water shall prepare, maintain, and carry out a water supply resilience plan
+6 as described by this section. The purpose of the resilience plan is to identify risks and provide
+7 assessments and emergency response plans to address the resilience of water supply systems to
+8 natural hazards and environmental related impacts. This requirement applies, without limitation,
+9 to:
+10 (1) All municipalities, municipal departments and agencies, districts, authorities or other
+11 entities engaged in or authorized to engage in the supply, treatment, transmission, or distribution
+12 of drinking water on a wholesale or retail basis, referred to herein as "water suppliers" or "water
+13 supplier", and which obtain, transport, purchase, or sell more than fifty million (50,000,000) gallons
+14 of water per year.
+15 (b) The initial risk assessment required pursuant to this section shall be completed no later
+16 than July 1, 2026, and the results of the assessment shall be provided to the governor, speaker of
+17 the house, president of the senate, the director of the department of health and the director of the
+18 department of environmental management. The assessment shall include without limitation:
+
+1 (1) The risk to the water supply system from natural hazards and environmental related
+2 impacts including, but not limited to, floods, hurricanes and earthquakes;
+3 (2) The resilience of the pipes and constructed conveyances, physical barriers, source
+4 water, water collection, intake, pretreatment, treatment, storage and distribution facilities, and
+5 electronic, computer, or other automated systems (including the security of such systems) which
+6 are utilized by the water supplier to address and mitigate natural hazards;
+7 (3) The financial infrastructure of the water supplier;
+8 (4) The use, storage, and handling of chemicals by the water supplier and the vulnerability
+9 of such chemicals to natural disasters; and
+10 (5) The operational monitoring and maintenance practices and procedures of the water
+11 supplier.
+12 (c) The assessment required by this section shall also include an evaluation of capital and
+13 operational needs to address risk and resilience management for the water supplier, and anticipated
+14 sources of funds shall be identified.
+15 (d) The resilience plans of water suppliers shall document that coordination has been
+16 accomplished with other water suppliers in the vicinity and with operators of wastewater treatment
+17 and disposal facilities serving all or part of the same area or that a good faith effort to do so has
+18 been made. Plans shall be consistent with applicable local comprehensive plans and shall be
+19 integrated into the water supply plans of the municipality or municipalities in which the service
+20 area is located.
+21 (e) Water supplier resilience plans shall designate the person or organization responsible
+22 for taking each necessary action, others who must participate, and the time period in which each
+23 action is to be taken.
+24 (f) Water suppliers shall utilize methods to implement measures necessary to achieve the
+25 objectives of this section. A water supplier shall be required to document the validity or
+26 effectiveness of any measure, implementation method, or other provision or action included in its
+27 plan.
+28 (g) Within six (6) months of any assessment required pursuant to subsection (b) of this
+29 section, every water supplier governed by this section shall provide the director of the department
+30 of health and the director of the department of environmental management with a response plan to
+31 address the issues raised in the assessment.
+32 (h) The assessment and response plan required pursuant to this section shall be updated
+33 every three (3) years from the initial assessment pursuant to subsection (b) of this section, with a
+34 report on the updated assessment delivered to the governor, speaker of the house, senate president,
+LC001344 - Page 2 of 4
+
+1 and director of the department of health.
+2 SECTION 2. This act shall take effect upon passage.
+========
+LC001344
+========
+LC001344 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+SYSTEM PROTECTION
+***
+1 This act would require Rhode Island water suppliers to prepare a resilience assessment and
+2 a response plan for the risk of natural hazards.
+3 This act would take effect upon passage.
+========
+LC001344
+========
+LC001344 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S S 4 ( E 1 a p i t s a d a a n t ( e o s o ( t t d]
+[DELETED:  ( i ( w e a ( ( o ( s ( o s ( a a b m P b c w a l c p a s b i a ( f a ( o o t s A w s s b r t d t v o e p ( s o a ( e r]
+[DELETED:  a S]
+[DELETED:  T a T]

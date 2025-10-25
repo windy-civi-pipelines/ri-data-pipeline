@@ -1,0 +1,200 @@
+Title: RELATING TO FINANCIAL INSTITUTIONS -- DEFINITIONS AND ESTABLISHMENT OF
+Official Title: RELATING TO FINANCIAL INSTITUTIONS -- DEFINITIONS AND ESTABLISHMENT OF
+Number of Sections: 1
+Source: versions - 376
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0376
+========
+LC001882
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+FINANCIAL INSTITUTIONS
+Introduced By: Senators DiPalma, Lawson, Tikoian, and Gu
+Date Introduced: February 26, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-1-1 of the General Laws in Chapter 19-1 entitled "Definitions and
+2 Establishment of Financial Institutions" is hereby amended to read as follows:
+3 19-1-1. Definitions.
+4 Unless otherwise specified, the following terms shall have the following meanings
+5 throughout this title:
+6 (1) “Agreement to form” means the agreement to form a financial institution or the
+7 agreement to form a credit union, as applicable, pursuant to this title, and includes, for financial
+8 institutions organized before December 31, 1995, the articles of incorporation or the agreement of
+9 association of the financial institution, where applicable.
+10 (2) “Branch” means any office or place of business, other than the main office or customer-
+11 bank-communication-terminal outlets as provided for in this title, at which deposits are received,
+12 or checks paid or money lent, or at which any trust powers are exercised. Any financial institution
+13 that had, on or before June 30, 2003, established an office or place of business, other than its main
+14 office, at which trust powers are exercised, shall not be required to obtain the approval of the
+15 director, or the director’s designee, pursuant to § 19-2-11 for any such offices established as of that
+16 date.
+17 (3) “Credit union” means a credit union duly organized under the laws of this state.
+18 (4) “Director” means the director of the department of business regulation, or the director’s
+1 designee.
+2 (5) “Division of banking” means the division within the department of business regulation
+3 responsible for the supervision and examination of regulated institutions and/or licensees under
+4 chapter 14 of this title.
+5 (6) “Federal credit union” means a credit union duly organized under the laws of the United
+6 States.
+7 (7) “Financial institution” means any entity, other than a credit union, duly organized under
+8 the laws of this state that has the statutory authority to accept money on deposit pursuant to title
+9 19, including an entity that is prohibited from accepting deposits by its own bylaws or agreement
+10 to form; the term includes, but is not limited to banks, trust companies, savings banks, loan and
+11 investment banks, and savings and loan associations.
+12 (8) “Main office” means, in the case of financial institutions or credit unions, the location
+13 stated in the agreement to form, as amended, and, otherwise, the location recognized by the
+14 institution’s primary banking regulator as its main office.
+15 (9) “Person” means individuals, partnerships, corporations, limited liability companies, or
+16 any other entity however organized.
+17 (10) “Regulated institution” means any financial institution, credit union, or other insured-
+18 deposit-taking institution, that is authorized to do business in this state, including one authorized
+19 by operation of an interstate banking statute that allowed its original entry or any non-depository
+20 trust company, organized under the laws of any state or the United States.
+21 (11) “Retail installment contract” means any security agreement negotiated or executed in
+22 this state, or under the laws of this state, including, but not limited to, any agreement in the nature
+23 of a mortgage, conditional sale contract, or any other agreement whether or not evidenced by any
+24 written instrument to pay the retail purchase price of goods, or any part thereof, in installments over
+25 any period of time and pursuant to which any security interest is retained or taken by the retail seller
+26 for the payment of the purchase price, or any part thereof, of the retail installment contract.
+27 (12) “Retail seller” means any person who sells or contracts to sell any goods under a retail
+28 installment contract to a retail buyer.
+29 (13) “Superintendent” means the deputy director designated by the director as
+30 superintendent of banking in the department of business regulation.
+31 (14) “Unimpaired capital” means the sum of all capital and allowance accounts minus
+32 estimated losses on assets, calculated in accordance with generally accepted accounting principles.
+33 (15) “Writing” means hard copy writing or electronic writing that meets the requirements
+34 of § 42-127.1-2(7).
+LC001882 - Page 2 of 4
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001882
+========
+LC001882 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- DEFINITIONS AND ESTABLISHMENT OF
+FINANCIAL INSTITUTIONS
+***
+1 This act would amend the definition of "regulated institution", to include non-depository
+2 trust companies organized under the law of any state or the United States Government.
+3 This act would take effect upon passage.
+========
+LC001882
+========
+LC001882 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S E 1 U o s t f t s h t f m t ( “ t f m t a t f a f i o t a i a ( b o t o d d ( (]
+[DELETED:  d ( r c ( S ( t 1 t i ( s i t a t f a a a o t l r b t i ( a ( d b t ( t o w a f ( i ( “ m t d d d b t d a s ( e ( o]
+[DELETED:  S]
+[DELETED:  T t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0376
+========
+LC001882
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- DEFINITIONS AND ESTABLISHMENT OF
+FINANCIAL INSTITUTIONS
+Introduced By: Senators DiPalma, Lawson, Tikoian, and Gu
+Date Introduced: February 26, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-1-1 of the General Laws in Chapter 19-1 entitled "Definitions and
+2 Establishment of Financial Institutions" is hereby amended to read as follows:
+3 19-1-1. Definitions.
+4 Unless otherwise specified, the following terms shall have the following meanings
+5 throughout this title:
+6 (1) “Agreement to form” means the agreement to form a financial institution or the
+7 agreement to form a credit union, as applicable, pursuant to this title, and includes, for financial
+8 institutions organized before December 31, 1995, the articles of incorporation or the agreement of
+9 association of the financial institution, where applicable.
+10 (2) “Branch” means any office or place of business, other than the main office or customer-
+11 bank-communication-terminal outlets as provided for in this title, at which deposits are received,
+12 or checks paid or money lent, or at which any trust powers are exercised. Any financial institution
+13 that had, on or before June 30, 2003, established an office or place of business, other than its main
+14 office, at which trust powers are exercised, shall not be required to obtain the approval of the
+15 director, or the director’s designee, pursuant to § 19-2-11 for any such offices established as of that
+16 date.
+17 (3) “Credit union” means a credit union duly organized under the laws of this state.
+18 (4) “Director” means the director of the department of business regulation, or the director’s
+
+1 designee.
+2 (5) “Division of banking” means the division within the department of business regulation
+3 responsible for the supervision and examination of regulated institutions and/or licensees under
+4 chapter 14 of this title.
+5 (6) “Federal credit union” means a credit union duly organized under the laws of the United
+6 States.
+7 (7) “Financial institution” means any entity, other than a credit union, duly organized under
+8 the laws of this state that has the statutory authority to accept money on deposit pursuant to title
+9 19, including an entity that is prohibited from accepting deposits by its own bylaws or agreement
+10 to form; the term includes, but is not limited to banks, trust companies, savings banks, loan and
+11 investment banks, and savings and loan associations.
+12 (8) “Main office” means, in the case of financial institutions or credit unions, the location
+13 stated in the agreement to form, as amended, and, otherwise, the location recognized by the
+14 institution’s primary banking regulator as its main office.
+15 (9) “Person” means individuals, partnerships, corporations, limited liability companies, or
+16 any other entity however organized.
+17 (10) “Regulated institution” means any financial institution, credit union, or other insured-
+18 deposit-taking institution, that is authorized to do business in this state, including one authorized
+19 by operation of an interstate banking statute that allowed its original entry or any non-depository
+20 trust company, organized under the laws of any state or the United States.
+21 (11) “Retail installment contract” means any security agreement negotiated or executed in
+22 this state, or under the laws of this state, including, but not limited to, any agreement in the nature
+23 of a mortgage, conditional sale contract, or any other agreement whether or not evidenced by any
+24 written instrument to pay the retail purchase price of goods, or any part thereof, in installments over
+25 any period of time and pursuant to which any security interest is retained or taken by the retail seller
+26 for the payment of the purchase price, or any part thereof, of the retail installment contract.
+27 (12) “Retail seller” means any person who sells or contracts to sell any goods under a retail
+28 installment contract to a retail buyer.
+29 (13) “Superintendent” means the deputy director designated by the director as
+30 superintendent of banking in the department of business regulation.
+31 (14) “Unimpaired capital” means the sum of all capital and allowance accounts minus
+32 estimated losses on assets, calculated in accordance with generally accepted accounting principles.
+33 (15) “Writing” means hard copy writing or electronic writing that meets the requirements
+34 of § 42-127.1-2(7).
+LC001882 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001882
+========
+LC001882 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- DEFINITIONS AND ESTABLISHMENT OF
+FINANCIAL INSTITUTIONS
+***
+1 This act would amend the definition of "regulated institution", to include non-depository
+2 trust companies organized under the law of any state or the United States Government.
+3 This act would take effect upon passage.
+========
+LC001882
+========
+LC001882 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S E 1 U o s t f t s h t f m t ( “ t f m t a t f a f i o t a i a ( b o t o d d ( (]
+[DELETED:  d ( r c ( S ( t 1 t i ( s i t a t f a a a o t l r b t i ( a ( d b t ( t o w a f ( i ( “ m t d d d b t d a s ( e ( o]
+[DELETED:  S]
+[DELETED:  T t T]

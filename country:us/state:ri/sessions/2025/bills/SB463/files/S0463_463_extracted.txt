@@ -1,0 +1,139 @@
+Title: RELATING TO INSURANCE -- HEALTH CARE ACCESSIBILITY AND QUALITY
+Official Title: RELATING TO INSURANCE -- HEALTH CARE ACCESSIBILITY AND QUALITY
+Number of Sections: 1
+Source: versions - 463
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0463
+========
+LC001807
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ASSURANCE ACT
+Introduced By: Senators Lauria, Valverde, Kallman, Murray, Sosnowski, Pearson, Gallo,
+Ujifusa, and Appollonio
+Date Introduced: February 26, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18.8 of the General Laws entitled "Health Care Accessibility and
+2 Quality Assurance Act" is hereby amended by adding thereto the following section:
+3 27-18.8-11. Contracts with providers for mental health and substance use disorder
+4 services.
+5 (a) Before January 1, 2026, and whenever necessitated by changes thereafter, but no less
+6 frequently than annually, each healthcare entity or network plan shall compile and report to the
+7 office of the health insurance commissioner a summary of how the healthcare entity or network
+8 plan requires its contracted providers to submit claims for in-network outpatient behavioral health
+9 services, including through the use of particular current procedural terminology (CPT) codes
+10 specific to behavioral health services, through the use of modifiers particular to behavioral health
+11 services appended to CPT codes of general usage, or through other formal requirements which
+12 identify a particular claim as pertaining to in-network outpatient behavioral health services.
+13 (b) A healthcare entity or network plan shall include in every contract with a provider for
+14 in-network outpatient behavioral health (including substance use disorder) services, or for
+15 outpatient diagnostic or therapeutic services with a behavioral health (including substance use
+16 disorder) modifier, a provision that, as of January 1, 2026, rates paid under such contract for those
+17 services shall be subject to a one-time average increase of no less than the United States Department
+18 of Labor All Urban Consumer All Items Less Food and Energy CPI (“CPI-Urban”) percentage
+1 increase determined by the health insurance commissioner by October 1, 2025, based on the most
+2 recently published United States Department of Labor data as of that date plus five percent (5%).
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC001807
+========
+LC001807 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- HEALTH CARE ACCESSIBILITY AND QUALITY
+ASSURANCE ACT
+***
+1 This act would require each healthcare entity or network plan to compile and report to the
+2 health insurance commissioner a summary of how the healthcare entity or network plan requires
+3 its contracted providers to submit claims for in-network outpatient behavioral health services,
+4 before January 1, 2026, and at least annually thereafter and require rates paid under those contracts
+5 for services be increased by the rate of inflation as of October 1, 2025, plus five percent (5%).
+6 This act would take effect upon passage.
+========
+LC001807
+========
+LC001807 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S Q 2 s ( f o p s i t t u o p c p t ( c s s i ( i o b h ( s u d s o f o d s o]
+[DELETED:  i r S]
+[DELETED:  T h i b f T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0463
+========
+LC001807
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- HEALTH CARE ACCESSIBILITY AND QUALITY
+ASSURANCE ACT
+Introduced By: Senators Lauria, Valverde, Kallman, Murray, Sosnowski, Pearson, Gallo,
+Ujifusa, and Appollonio
+Date Introduced: February 26, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18.8 of the General Laws entitled "Health Care Accessibility and
+2 Quality Assurance Act" is hereby amended by adding thereto the following section:
+3 27-18.8-11. Contracts with providers for mental health and substance use disorder
+4 services.
+5 (a) Before January 1, 2026, and whenever necessitated by changes thereafter, but no less
+6 frequently than annually, each healthcare entity or network plan shall compile and report to the
+7 office of the health insurance commissioner a summary of how the healthcare entity or network
+8 plan requires its contracted providers to submit claims for in-network outpatient behavioral health
+9 services, including through the use of particular current procedural terminology (CPT) codes
+10 specific to behavioral health services, through the use of modifiers particular to behavioral health
+11 services appended to CPT codes of general usage, or through other formal requirements which
+12 identify a particular claim as pertaining to in-network outpatient behavioral health services.
+13 (b) A healthcare entity or network plan shall include in every contract with a provider for
+14 in-network outpatient behavioral health (including substance use disorder) services, or for
+15 outpatient diagnostic or therapeutic services with a behavioral health (including substance use
+16 disorder) modifier, a provision that, as of January 1, 2026, rates paid under such contract for those
+17 services shall be subject to a one-time average increase of no less than the United States Department
+18 of Labor All Urban Consumer All Items Less Food and Energy CPI (“CPI-Urban”) percentage
+
+1 increase determined by the health insurance commissioner by October 1, 2025, based on the most
+2 recently published United States Department of Labor data as of that date plus five percent (5%).
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC001807
+========
+LC001807 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- HEALTH CARE ACCESSIBILITY AND QUALITY
+ASSURANCE ACT
+***
+1 This act would require each healthcare entity or network plan to compile and report to the
+2 health insurance commissioner a summary of how the healthcare entity or network plan requires
+3 its contracted providers to submit claims for in-network outpatient behavioral health services,
+4 before January 1, 2026, and at least annually thereafter and require rates paid under those contracts
+5 for services be increased by the rate of inflation as of October 1, 2025, plus five percent (5%).
+6 This act would take effect upon passage.
+========
+LC001807
+========
+LC001807 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S Q 2 s ( f o p s i t t u o p c p t ( c s s i ( i o b h ( s u d s o f o d s o]
+[DELETED:  i r S]
+[DELETED:  T h i b f T]

@@ -1,0 +1,544 @@
+Title: RELATING TO CRIMINAL OFFENSES -- RHODE ISLAND ASSAULT WEAPONS BAN
+Official Title: RELATING TO CRIMINAL OFFENSES -- RHODE ISLAND ASSAULT WEAPONS BAN
+Number of Sections: 1
+Source: versions - 5436  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5436 SUBSTITUTE A
+========
+LC001181/SUB A/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ACT OF 2025
+Introduced By: Representatives Knight, Caldwell, Boylan, Speakman, McEntee, Ajello,
+Kazarian, Craven, Dawson, and Felix
+Date Introduced: February 12, 2025
+Referred To: House Judiciary
+(Governor/Secretary of State/General Treasurer/Attorney General/Lieutenant Governor)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 11 of the General Laws entitled "CRIMINAL OFFENSES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 47.2
+4 RHODE ISLAND ASSAULT WEAPONS BAN ACT OF 2025
+5 11-47.2-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Assault Weapons Ban
+7 Act of 2025."
+8 11-47.2-2. Definitions.
+9 When used in this chapter:
+10 (1) "Ammunition feeding device" means a magazine, box, drum, tube, belt, feed strip, or
+11 device which is capable of holding ammunition to be fed continuously and directly therefrom into
+12 a semi-automatic firearm. The term shall not include an attached tubular device which is capable
+13 of holding only .22 caliber rimfire ammunition.
+14 (2) "Assault weapon" means:
+15 (i) A semi-automatic shotgun with a fixed capacity exceeding six (6) rounds;
+16 (ii) A semi-automatic shotgun that has the ability to accept a detachable magazine and has
+17 at least one of the following features:
+18 (A) A folding or telescoping stock;
+1 (B) A pistol grip or a thumbhole stock;
+2 (C) Any feature that has the ability of functioning as a protruding grip that can be held by
+3 the non-trigger hand;
+4 (iii) A semi-automatic rifle with a fixed magazine capacity exceeding ten (10) rounds;
+5 (iv) A semi-automatic rifle that has the ability to accept a detachable magazine and has at
+6 least one of the following features:
+7 (A) A folding or telescoping stock;
+8 (B) A grenade launcher;
+9 (C) A shroud attached to the barrel or that partially or completely encircles the barrel,
+10 allowing the bearer to hold the firearm with the non-trigger hand without being burned, except an
+11 extension of the stock along the bottom of the barrel, which does not encircle or substantially
+12 encircle the barrel;
+13 (D) A pistol grip or thumbhole stock;
+14 (E) A flash suppressor; or
+15 (F) A threaded barrel.
+16 (v) A semi-automatic pistol that has a fixed magazine capacity exceeding ten (10) rounds;
+17 (vi) A semi-automatic pistol that has an ability to accept a detachable magazine and has at
+18 least one of the following:
+19 (A) The ability to accept an ammunition magazine at a location outside of the pistol grip;
+20 (B) A threaded barrel that has the ability to accept a barrel extender, flash suppressor,
+21 forward handgrip, or silencer;
+22 (C) A shroud that is attached to, or partially or completely encircles, the barrel and that
+23 permits the shooter to hold the firearm with the non-trigger hand without being burned but
+24 excluding a slide that encloses the barrel; or
+25 (D) A buffer tube, arm brace, or other part that protrudes horizontally behind the pistol grip
+26 to allow or facilitate firing the weapon from the shoulder.
+27 (vii) A semi-automatic firearm that has the ability to accept a belt ammunition feeding
+28 device;
+29 (viii) "Assault weapon" shall not include:
+30 (A) A semi-automatic rifle which has an attached tubular device and which has the ability
+31 to operate only with .22 caliber rimfire ammunition; or
+32 (B) A semi-automatic pistol expressly designed for use in Olympic target shooting events
+33 sponsored by the International Olympic Committee and whose use in those events is sanctioned by
+34 the International Olympic Committee and USA Shooting, or any subsequent governing board for
+LC001181/SUB A/2 - Page 2 of 8
+1 international shooting competition in the United States.
+2 (3) "Detachable magazine" means an ammunition feeding device that attaches to a firearm
+3 and which can be removed without disassembly of the firearm, including an ammunition feeding
+4 device that may be readily removed from a firearm with the use of a bullet, cartridge, accessory, or
+5 other tool, or any other object that functions as a tool.
+6 (4) "Federally licensed firearm dealer" means a person who holds a valid federal firearm
+7 dealers license issued pursuant to 18 U.S.C. § 923(a).
+8 (5) "Fixed magazine" means an ammunition feeding device that is permanently fixed to the
+9 firearm in such a manner that it cannot be removed without disassembly of the firearm, or contained
+10 in and not removable from a firearm, or that is otherwise not a detachable magazine, but does not
+11 include an attached tubular device designed to accept, and capable of operating only with .22 caliber
+12 rimfire ammunition.
+13 (6) "Folding or telescoping stock" means a stock that folds, telescopes, or otherwise
+14 operates to reduce the length, size, or any other dimension, or otherwise enhances the concealability
+15 of a firearm.
+16 (7) "Forward grip" means a grip or handle located forward of the trigger.
+17 (8) "Grandfathered assault weapon" means any assault weapon lawfully possessed prior to
+18 July 1, 2026, by an individual who is not otherwise prohibited from possessing a firearm.
+19 (9) "Grenade launcher" means a device designed to fire, launch or propel a grenade.
+20 (10) "Pistol grip" means a well-defined handle, similar to that found on a handgun, that
+21 protrudes conspicuously beneath the action of the weapon, and which permits the firearm to be held
+22 and fired with one hand.
+23 (11) "Secure storage" means a firearm that is secured in a locked container or equipped
+24 with a tamper-resistant mechanical lock or other safety device, properly engaged in order to render
+25 such firearm inoperable by any person other than the owner or other lawfully authorized user
+26 pursuant to § 11-47- 60.1.
+27 (12) "Semi-automatic" means any repeating firearm which utilizes a portion of the energy
+28 of a firing cartridge to extract the fired cartridge case and chamber the next round, and which
+29 requires a separate pull of the trigger to fire each cartridge.
+30 (13) "Threaded barrel" means the threads on the muzzle end of a barrel and shall include,
+31 but not be limited to, any barrel on which a flash suppressor or silencer has been attached.
+32 (14) "Voluntary certificate of possession" means a certificate issued by the Rhode Island
+33 state police or the police department of any municipality pursuant to § 11-47.2-4.
+34 11-47.2-3. Restrictions on manufacture, sale, purchase and possession of assault
+LC001181/SUB A/2 - Page 3 of 8
+1 weapons.
+2 (a) Except as provided in subsections (d) and (e) of this section, on or after July 1, 2026,
+3 no person shall manufacture, sell, offer to sell, transfer, purchase, possess, or have under his or her
+4 control an assault weapon. Any person convicted of violating this subsection shall be punished by
+5 imprisonment of not more than ten (10) years, or by a fine up to ten thousand dollars ($10,000), or
+6 both; and further, the assault weapon shall be subject to forfeiture.
+7 (b) In any prosecution under this section, there shall be a rebuttable presumption that the
+8 assault weapon or weapons that are the subject of the prosecution were obtained by the defendant
+9 after July 1, 2026.
+10 (c) In any prosecution under § 11-47.2-3(a), it is an affirmative defense that a defendant
+11 who is not otherwise prohibited from possessing a weapon was lawfully in possession of or had
+12 completed a purchase of the assault weapon prior to July 1, 2026.
+13 (d) The following limited exceptions to subsection (a) of this section shall apply:
+14 (1) A person, who is not otherwise prohibited from possessing a firearm and who, prior to
+15 July 1, 2026, lawfully possessed or lawfully completed a purchase for a grandfathered assault
+16 weapon may possess the assault weapon after July 1, 2026, subject to the provisions of § 11-47.2-
+17 5;
+18 (2) A person, who is not otherwise prohibited from possessing a firearm, who inherits a
+19 grandfathered assault weapon from a decedent who lawfully possessed the grandfathered assault
+20 weapon may lawfully possess the assault weapon after July 1, 2026, subject to the provisions of §
+21 11-47.2-5.
+22 (3) A person, who is not otherwise prohibited from possessing a firearm, who receives a
+23 grandfathered assault weapon in his or her capacity as the personal representative of an estate, or
+24 as a trustee of a trust, or as the beneficiary of a trust, or as an heir at law, or as a beneficiary under
+25 a will, or as a person who inherits the weapon from a decedent who lawfully possessed the
+26 grandfathered assault weapon and who died intestate, may lawfully possess the assault weapon
+27 after July 1, 2026, subject to the provisions of § 11-47.2-5.
+28 (4) A federally licensed firearms dealer who manufactures, purchases, possesses or has
+29 under his or her control an assault weapon, or who sells, offers to sell, or transfers an assault weapon
+30 to another federally licensed firearms dealer, or to an entity identified in subsection (d)(5) of this
+31 section, or to an individual outside the state who may lawfully possess such weapon, may possess,
+32 sell, offer to sell, or transfer an assault weapon under such conditions.
+33 (5) A law enforcement agency, acting under authority of the United States or a state or any
+34 of its political subdivisions, may lawfully import, possess, or transfer an assault weapon.
+LC001181/SUB A/2 - Page 4 of 8
+1 (6) A law enforcement officer may lawfully possess or have under his or her control an
+2 assault weapon received through the authority of the United States or any department or agency
+3 thereof; a state or department, agency, or political subdivision thereof; a municipality or department
+4 or agency thereof or a federally recognized Indian tribe or a department or agency thereof for
+5 purposes of employment; provided said officer is not otherwise prohibited from receiving such a
+6 weapon and who is either:
+7 (i) Exempt under §§ 11-47-9 and 11-47-9.1; or
+8 (ii) A qualified law enforcement officer under 18 U.S.C. § 926B(c) and who is carrying the
+9 identification required by 18 U.S.C. § 926B(d);
+10 (7) A retired law enforcement officer who is not otherwise prohibited from receiving such
+11 a weapon upon retirement may lawfully possess and have under his or her control an assault weapon
+12 if the retired law enforcement officer is either:
+13 (i) Exempt under §§ 11-47-9 and 11-47-9.1 and has a permit to carry pursuant to § 11-47-
+14 18(b); or
+15 (ii) A qualified retired law enforcement officer under 18 U.S.C. 926C(c) and who is
+16 carrying the identification required by 18 U.S.C. 926C(d).
+17 (e) Notwithstanding subsection (a) of this section, an active duty member of the armed
+18 forces of the United States or the national guard, or a member of the United States military reserves,
+19 may possess or have under his or her control an assault weapon when he or she is acting in the
+20 commission of the member's official duty.
+21 11-47.2-4. Voluntary certificate of possession.
+22 (a) Until July 1, 2026, the owner of a grandfathered assault weapon, who is not otherwise
+23 prohibited from possessing a firearm, may apply for a voluntary certificate of possession from the
+24 Rhode Island state police or the police department where the person resides. Any person in
+25 possession of multiple grandfathered assault weapons before July 1, 2026, may submit separate
+26 applications to obtain a voluntary certificate of possession for other grandfathered assault weapons
+27 in their possession.
+28 (b) Until July 1, 2026, the state police or local police department shall issue a voluntary
+29 certificate of possession to any individual who is not otherwise prohibited from possessing a
+30 firearm and who lawfully possessed an assault weapon prior to July 1, 2026.
+31 (c) The department of public safety shall establish procedures with respect to the
+32 application for and issuance of certificates of possession for grandfathered assault weapons that are
+33 lawfully owned and possessed before July 1, 2026. Procedures under this subsection shall include
+34 all of the following:
+LC001181/SUB A/2 - Page 5 of 8
+1 (1) That the application shows that the person lawfully possessed or had completed a
+2 purchase of an assault weapon before July 1, 2026;
+3 (2) That the certificate of possession contains a description of the assault weapon, including
+4 the make, model, and serial number. For an assault weapon manufactured before 1968, identifying
+5 marks may be substituted for the serial number;
+6 (3)(i) That the certificate of possession contains the full name, address, and date of birth of
+7 the person who owns the assault weapon, and any other information deemed appropriate; and
+8 (ii) That each application shall be signed by the applicant, and the signature shall constitute
+9 a representation of the accuracy of the information contained in the application; and
+10 (iii) That the applicant shall also be required to:
+11 (A) Pay a fifty-dollar ($50.00) fee per applicant without regard to the number of assault
+12 weapons for which the applicant is seeking to obtain a certificate of possession;
+13 (B) Submit to a fingerprint-supported criminal background check to ascertain whether the
+14 person is disqualified from the lawful possession of firearms;
+15 (4) That the police department will not retain copies of the certificate or other identifying
+16 information relating to any individual who applies for a voluntary certificate of possession.
+17 (d) Notwithstanding the provisions of subsection (b) of this section, a person who inherits
+18 a grandfathered assault weapon from a decedent that was lawfully possessed pursuant to this
+19 chapter may apply for a certificate of possession within one hundred eighty (180) days of taking
+20 possession of the weapon. To receive a certificate, the person must show that the decedent was
+21 lawfully in possession and that the person is the lawful recipient of the transfer and is not otherwise
+22 prohibited from possession of a firearm.
+23 (e) A certificate of possession is evidence that a person lawfully possessed or had
+24 completed a purchase of an assault weapon before July 1, 2026, or otherwise lawfully came into
+25 possession of the grandfathered assault weapon after July 1, 2026; and provided that the person is
+26 not otherwise prohibited from possessing a weapon, is entitled to continue to possess the
+27 grandfathered assault weapon on or after July 1, 2026.
+28 11-47.2-5. Use and possession of grandfathered assault weapons.
+29 (a) Any person who lawfully possesses a grandfathered assault weapon as provided for in
+30 this chapter, may possess the assault weapon:
+31 (1) At that person's residence, or place of business or other property owned by that person,
+32 provided that the grandfathered assault weapon shall be kept in secure storage as required by § 11-
+33 47-60.1; or
+34 (2) While on a target range which holds a regulatory or business license for the purpose of
+LC001181/SUB A/2 - Page 6 of 8
+1 practicing shooting at that target range; or
+2 (3) While on the premises of a licensed shooting club; or
+3 (4) While attending any exhibition, display or educational project which is about firearms
+4 and which is sponsored by, or conducted under the auspices of, or approved by a law enforcement
+5 agency or a nationally or state recognized entity that fosters proficiency in, or promotes education
+6 about, firearms; or
+7 (5) While transporting the grandfathered assault weapon to any federally licensed firearm
+8 dealer for servicing, repair or sale; or
+9 (6) While transporting an assault weapon for lawful use between any of the places set forth
+10 in subsections (a)(1) through (a)(5) of this section or for lawful use out of state; provided that, the
+11 grandfathered assault weapon is placed in a secure storage as required by §11-47-60.1.
+12 (b) Any person who violates the provisions of subsection (a) of this section, shall be fined
+13 not more than two thousand five hundred dollars ($2,500) or imprisoned not more than three (3)
+14 years, or both, and shall be subject to forfeiture of the assault weapon pursuant to § 11-47-22.
+15 11-47.2-6. Severability.
+16 If any provisions of the chapter or the application thereof to any person or circumstances
+17 is held invalid, such invalidity shall not affect any other provisions or applications of this chapter,
+18 which can be given effect without the invalid provision or application, and to this end the provisions
+19 of this chapter are declared to be severable.
+20 SECTION 2. This act shall take effect on upon passage.
+========
+LC001181/SUB A/2
+========
+LC001181/SUB A/2 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- RHODE ISLAND ASSAULT WEAPONS BAN
+ACT OF 2025
+***
+1 This act would establish the Rhode Island Assault Weapons Ban Act of 2025. The act
+2 would define various assault weapons and would restrict the manufacture, sale, purchase, and
+3 possession of these assault weapons after July 1, 2026. The act would exempt grandfathered assault
+4 weapons which were lawfully possessed before July 1, 2026. This act would also provide for the
+5 issuance of voluntary certificates of possession to be admissible in any criminal or civil matter to
+6 prove lawful possession of a grandfathered assault weapon.
+7 This act would take effect upon passage.
+8
+========
+LC001181/SUB A/2
+========
+LC001181/SUB A/2 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 1 T A 1 W ( d a o ( ( ( a (]
+[DELETED:  ( ( t ( ( l ( ( ( a e e ( ( ( ( ( l ( ( f ( p t s t h t f w t n h w b b b e ( t ( d ( ( t ( s t]
+[DELETED:  i ( a d o ( d ( f i i r ( " o t s m a s t f t o o o o ( ( J ( ( p a ( w s p ( o r ( b ( s 1 R o m s p a p o a]
+[DELETED:  w ( n c i b ( a a ( w c ( ( J w 5 ( g w 1 ( g a a w o a a p w i t w f a d w l p g a ( u t s s ( o]
+[DELETED:  ( a t o p w ( ( i ( a i ( 1 ( A q r l e o u 1 U 9 a w i c ( f m c 1 ( p R I s p o t p d w t p r A p i p a i ( c n f ( T d o p s s e p w r t t a l a]
+[DELETED:  ( p ( t m ( t ( a ( ( w ( p ( i ( a c p l p ( A c o p i e t a p l p o h c p n o p f p a w i e t c t p t g 1 ( t ( p 4 (]
+[DELETED:  p ( ( a a a ( d ( i g ( n y 1 I i w o S]
+[DELETED:  T w p w i p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5436 SUBSTITUTE A
+========
+LC001181/SUB A/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- RHODE ISLAND ASSAULT WEAPONS BAN
+ACT OF 2025
+Introduced By: Representatives Knight, Caldwell, Boylan, Speakman, McEntee, Ajello,
+Kazarian, Craven, Dawson, and Felix
+Date Introduced: February 12, 2025
+Referred To: House Judiciary
+(Governor/Secretary of State/General Treasurer/Attorney General/Lieutenant Governor)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 11 of the General Laws entitled "CRIMINAL OFFENSES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 47.2
+4 RHODE ISLAND ASSAULT WEAPONS BAN ACT OF 2025
+5 11-47.2-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Assault Weapons Ban
+7 Act of 2025."
+8 11-47.2-2. Definitions.
+9 When used in this chapter:
+10 (1) "Ammunition feeding device" means a magazine, box, drum, tube, belt, feed strip, or
+11 device which is capable of holding ammunition to be fed continuously and directly therefrom into
+12 a semi-automatic firearm. The term shall not include an attached tubular device which is capable
+13 of holding only .22 caliber rimfire ammunition.
+14 (2) "Assault weapon" means:
+15 (i) A semi-automatic shotgun with a fixed capacity exceeding six (6) rounds;
+16 (ii) A semi-automatic shotgun that has the ability to accept a detachable magazine and has
+17 at least one of the following features:
+18 (A) A folding or telescoping stock;
+
+1 (B) A pistol grip or a thumbhole stock;
+2 (C) Any feature that has the ability of functioning as a protruding grip that can be held by
+3 the non-trigger hand;
+4 (iii) A semi-automatic rifle with a fixed magazine capacity exceeding ten (10) rounds;
+5 (iv) A semi-automatic rifle that has the ability to accept a detachable magazine and has at
+6 least one of the following features:
+7 (A) A folding or telescoping stock;
+8 (B) A grenade launcher;
+9 (C) A shroud attached to the barrel or that partially or completely encircles the barrel,
+10 allowing the bearer to hold the firearm with the non-trigger hand without being burned, except an
+11 extension of the stock along the bottom of the barrel, which does not encircle or substantially
+12 encircle the barrel;
+13 (D) A pistol grip or thumbhole stock;
+14 (E) A flash suppressor; or
+15 (F) A threaded barrel.
+16 (v) A semi-automatic pistol that has a fixed magazine capacity exceeding ten (10) rounds;
+17 (vi) A semi-automatic pistol that has an ability to accept a detachable magazine and has at
+18 least one of the following:
+19 (A) The ability to accept an ammunition magazine at a location outside of the pistol grip;
+20 (B) A threaded barrel that has the ability to accept a barrel extender, flash suppressor,
+21 forward handgrip, or silencer;
+22 (C) A shroud that is attached to, or partially or completely encircles, the barrel and that
+23 permits the shooter to hold the firearm with the non-trigger hand without being burned but
+24 excluding a slide that encloses the barrel; or
+25 (D) A buffer tube, arm brace, or other part that protrudes horizontally behind the pistol grip
+26 to allow or facilitate firing the weapon from the shoulder.
+27 (vii) A semi-automatic firearm that has the ability to accept a belt ammunition feeding
+28 device;
+29 (viii) "Assault weapon" shall not include:
+30 (A) A semi-automatic rifle which has an attached tubular device and which has the ability
+31 to operate only with .22 caliber rimfire ammunition; or
+32 (B) A semi-automatic pistol expressly designed for use in Olympic target shooting events
+33 sponsored by the International Olympic Committee and whose use in those events is sanctioned by
+34 the International Olympic Committee and USA Shooting, or any subsequent governing board for
+LC001181/SUB A/2 - Page 2 of 8
+
+1 international shooting competition in the United States.
+2 (3) "Detachable magazine" means an ammunition feeding device that attaches to a firearm
+3 and which can be removed without disassembly of the firearm, including an ammunition feeding
+4 device that may be readily removed from a firearm with the use of a bullet, cartridge, accessory, or
+5 other tool, or any other object that functions as a tool.
+6 (4) "Federally licensed firearm dealer" means a person who holds a valid federal firearm
+7 dealers license issued pursuant to 18 U.S.C. § 923(a).
+8 (5) "Fixed magazine" means an ammunition feeding device that is permanently fixed to the
+9 firearm in such a manner that it cannot be removed without disassembly of the firearm, or contained
+10 in and not removable from a firearm, or that is otherwise not a detachable magazine, but does not
+11 include an attached tubular device designed to accept, and capable of operating only with .22 caliber
+12 rimfire ammunition.
+13 (6) "Folding or telescoping stock" means a stock that folds, telescopes, or otherwise
+14 operates to reduce the length, size, or any other dimension, or otherwise enhances the concealability
+15 of a firearm.
+16 (7) "Forward grip" means a grip or handle located forward of the trigger.
+17 (8) "Grandfathered assault weapon" means any assault weapon lawfully possessed prior to
+18 July 1, 2026, by an individual who is not otherwise prohibited from possessing a firearm.
+19 (9) "Grenade launcher" means a device designed to fire, launch or propel a grenade.
+20 (10) "Pistol grip" means a well-defined handle, similar to that found on a handgun, that
+21 protrudes conspicuously beneath the action of the weapon, and which permits the firearm to be held
+22 and fired with one hand.
+23 (11) "Secure storage" means a firearm that is secured in a locked container or equipped
+24 with a tamper-resistant mechanical lock or other safety device, properly engaged in order to render
+25 such firearm inoperable by any person other than the owner or other lawfully authorized user
+26 pursuant to § 11-47- 60.1.
+27 (12) "Semi-automatic" means any repeating firearm which utilizes a portion of the energy
+28 of a firing cartridge to extract the fired cartridge case and chamber the next round, and which
+29 requires a separate pull of the trigger to fire each cartridge.
+30 (13) "Threaded barrel" means the threads on the muzzle end of a barrel and shall include,
+31 but not be limited to, any barrel on which a flash suppressor or silencer has been attached.
+32 (14) "Voluntary certificate of possession" means a certificate issued by the Rhode Island
+33 state police or the police department of any municipality pursuant to § 11-47.2-4.
+34 11-47.2-3. Restrictions on manufacture, sale, purchase and possession of assault
+LC001181/SUB A/2 - Page 3 of 8
+
+1 weapons.
+2 (a) Except as provided in subsections (d) and (e) of this section, on or after July 1, 2026,
+3 no person shall manufacture, sell, offer to sell, transfer, purchase, possess, or have under his or her
+4 control an assault weapon. Any person convicted of violating this subsection shall be punished by
+5 imprisonment of not more than ten (10) years, or by a fine up to ten thousand dollars ($10,000), or
+6 both; and further, the assault weapon shall be subject to forfeiture.
+7 (b) In any prosecution under this section, there shall be a rebuttable presumption that the
+8 assault weapon or weapons that are the subject of the prosecution were obtained by the defendant
+9 after July 1, 2026.
+10 (c) In any prosecution under § 11-47.2-3(a), it is an affirmative defense that a defendant
+11 who is not otherwise prohibited from possessing a weapon was lawfully in possession of or had
+12 completed a purchase of the assault weapon prior to July 1, 2026.
+13 (d) The following limited exceptions to subsection (a) of this section shall apply:
+14 (1) A person, who is not otherwise prohibited from possessing a firearm and who, prior to
+15 July 1, 2026, lawfully possessed or lawfully completed a purchase for a grandfathered assault
+16 weapon may possess the assault weapon after July 1, 2026, subject to the provisions of § 11-47.2-
+17 5;
+18 (2) A person, who is not otherwise prohibited from possessing a firearm, who inherits a
+19 grandfathered assault weapon from a decedent who lawfully possessed the grandfathered assault
+20 weapon may lawfully possess the assault weapon after July 1, 2026, subject to the provisions of §
+21 11-47.2-5.
+22 (3) A person, who is not otherwise prohibited from possessing a firearm, who receives a
+23 grandfathered assault weapon in his or her capacity as the personal representative of an estate, or
+24 as a trustee of a trust, or as the beneficiary of a trust, or as an heir at law, or as a beneficiary under
+25 a will, or as a person who inherits the weapon from a decedent who lawfully possessed the
+26 grandfathered assault weapon and who died intestate, may lawfully possess the assault weapon
+27 after July 1, 2026, subject to the provisions of § 11-47.2-5.
+28 (4) A federally licensed firearms dealer who manufactures, purchases, possesses or has
+29 under his or her control an assault weapon, or who sells, offers to sell, or transfers an assault weapon
+30 to another federally licensed firearms dealer, or to an entity identified in subsection (d)(5) of this
+31 section, or to an individual outside the state who may lawfully possess such weapon, may possess,
+32 sell, offer to sell, or transfer an assault weapon under such conditions.
+33 (5) A law enforcement agency, acting under authority of the United States or a state or any
+34 of its political subdivisions, may lawfully import, possess, or transfer an assault weapon.
+LC001181/SUB A/2 - Page 4 of 8
+
+1 (6) A law enforcement officer may lawfully possess or have under his or her control an
+2 assault weapon received through the authority of the United States or any department or agency
+3 thereof; a state or department, agency, or political subdivision thereof; a municipality or department
+4 or agency thereof or a federally recognized Indian tribe or a department or agency thereof for
+5 purposes of employment; provided said officer is not otherwise prohibited from receiving such a
+6 weapon and who is either:
+7 (i) Exempt under §§ 11-47-9 and 11-47-9.1; or
+8 (ii) A qualified law enforcement officer under 18 U.S.C. § 926B(c) and who is carrying the
+9 identification required by 18 U.S.C. § 926B(d);
+10 (7) A retired law enforcement officer who is not otherwise prohibited from receiving such
+11 a weapon upon retirement may lawfully possess and have under his or her control an assault weapon
+12 if the retired law enforcement officer is either:
+13 (i) Exempt under §§ 11-47-9 and 11-47-9.1 and has a permit to carry pursuant to § 11-47-
+14 18(b); or
+15 (ii) A qualified retired law enforcement officer under 18 U.S.C. 926C(c) and who is
+16 carrying the identification required by 18 U.S.C. 926C(d).
+17 (e) Notwithstanding subsection (a) of this section, an active duty member of the armed
+18 forces of the United States or the national guard, or a member of the United States military reserves,
+19 may possess or have under his or her control an assault weapon when he or she is acting in the
+20 commission of the member's official duty.
+21 11-47.2-4. Voluntary certificate of possession.
+22 (a) Until July 1, 2026, the owner of a grandfathered assault weapon, who is not otherwise
+23 prohibited from possessing a firearm, may apply for a voluntary certificate of possession from the
+24 Rhode Island state police or the police department where the person resides. Any person in
+25 possession of multiple grandfathered assault weapons before July 1, 2026, may submit separate
+26 applications to obtain a voluntary certificate of possession for other grandfathered assault weapons
+27 in their possession.
+28 (b) Until July 1, 2026, the state police or local police department shall issue a voluntary
+29 certificate of possession to any individual who is not otherwise prohibited from possessing a
+30 firearm and who lawfully possessed an assault weapon prior to July 1, 2026.
+31 (c) The department of public safety shall establish procedures with respect to the
+32 application for and issuance of certificates of possession for grandfathered assault weapons that are
+33 lawfully owned and possessed before July 1, 2026. Procedures under this subsection shall include
+34 all of the following:
+LC001181/SUB A/2 - Page 5 of 8
+
+1 (1) That the application shows that the person lawfully possessed or had completed a
+2 purchase of an assault weapon before July 1, 2026;
+3 (2) That the certificate of possession contains a description of the assault weapon, including
+4 the make, model, and serial number. For an assault weapon manufactured before 1968, identifying
+5 marks may be substituted for the serial number;
+6 (3)(i) That the certificate of possession contains the full name, address, and date of birth of
+7 the person who owns the assault weapon, and any other information deemed appropriate; and
+8 (ii) That each application shall be signed by the applicant, and the signature shall constitute
+9 a representation of the accuracy of the information contained in the application; and
+10 (iii) That the applicant shall also be required to:
+11 (A) Pay a fifty-dollar ($50.00) fee per applicant without regard to the number of assault
+12 weapons for which the applicant is seeking to obtain a certificate of possession;
+13 (B) Submit to a fingerprint-supported criminal background check to ascertain whether the
+14 person is disqualified from the lawful possession of firearms;
+15 (4) That the police department will not retain copies of the certificate or other identifying
+16 information relating to any individual who applies for a voluntary certificate of possession.
+17 (d) Notwithstanding the provisions of subsection (b) of this section, a person who inherits
+18 a grandfathered assault weapon from a decedent that was lawfully possessed pursuant to this
+19 chapter may apply for a certificate of possession within one hundred eighty (180) days of taking
+20 possession of the weapon. To receive a certificate, the person must show that the decedent was
+21 lawfully in possession and that the person is the lawful recipient of the transfer and is not otherwise
+22 prohibited from possession of a firearm.
+23 (e) A certificate of possession is evidence that a person lawfully possessed or had
+24 completed a purchase of an assault weapon before July 1, 2026, or otherwise lawfully came into
+25 possession of the grandfathered assault weapon after July 1, 2026; and provided that the person is
+26 not otherwise prohibited from possessing a weapon, is entitled to continue to possess the
+27 grandfathered assault weapon on or after July 1, 2026.
+28 11-47.2-5. Use and possession of grandfathered assault weapons.
+29 (a) Any person who lawfully possesses a grandfathered assault weapon as provided for in
+30 this chapter, may possess the assault weapon:
+31 (1) At that person's residence, or place of business or other property owned by that person,
+32 provided that the grandfathered assault weapon shall be kept in secure storage as required by § 11-
+33 47-60.1; or
+34 (2) While on a target range which holds a regulatory or business license for the purpose of
+LC001181/SUB A/2 - Page 6 of 8
+
+1 practicing shooting at that target range; or
+2 (3) While on the premises of a licensed shooting club; or
+3 (4) While attending any exhibition, display or educational project which is about firearms
+4 and which is sponsored by, or conducted under the auspices of, or approved by a law enforcement
+5 agency or a nationally or state recognized entity that fosters proficiency in, or promotes education
+6 about, firearms; or
+7 (5) While transporting the grandfathered assault weapon to any federally licensed firearm
+8 dealer for servicing, repair or sale; or
+9 (6) While transporting an assault weapon for lawful use between any of the places set forth
+10 in subsections (a)(1) through (a)(5) of this section or for lawful use out of state; provided that, the
+11 grandfathered assault weapon is placed in a secure storage as required by §11-47-60.1.
+12 (b) Any person who violates the provisions of subsection (a) of this section, shall be fined
+13 not more than two thousand five hundred dollars ($2,500) or imprisoned not more than three (3)
+14 years, or both, and shall be subject to forfeiture of the assault weapon pursuant to § 11-47-22.
+15 11-47.2-6. Severability.
+16 If any provisions of the chapter or the application thereof to any person or circumstances
+17 is held invalid, such invalidity shall not affect any other provisions or applications of this chapter,
+18 which can be given effect without the invalid provision or application, and to this end the provisions
+19 of this chapter are declared to be severable.
+20 SECTION 2. This act shall take effect on upon passage.
+========
+LC001181/SUB A/2
+========
+LC001181/SUB A/2 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- RHODE ISLAND ASSAULT WEAPONS BAN
+ACT OF 2025
+***
+1 This act would establish the Rhode Island Assault Weapons Ban Act of 2025. The act
+2 would define various assault weapons and would restrict the manufacture, sale, purchase, and
+3 possession of these assault weapons after July 1, 2026. The act would exempt grandfathered assault
+4 weapons which were lawfully possessed before July 1, 2026. This act would also provide for the
+5 issuance of voluntary certificates of possession to be admissible in any criminal or civil matter to
+6 prove lawful possession of a grandfathered assault weapon.
+7 This act would take effect upon passage.
+8
+========
+LC001181/SUB A/2
+========
+LC001181/SUB A/2 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 1 T A 1 W ( d a o ( ( ( a (]
+[DELETED:  ( ( t ( ( l ( ( ( a e e ( ( ( ( ( l ( ( f ( p t s t h t f w t n h w b b b e ( t ( d ( ( t ( s t]
+[DELETED:  i ( a d o ( d ( f i i r ( " o t s m a s t f t o o o o ( ( J ( ( p a ( w s p ( o r ( b ( s 1 R o m s p a p o a]
+[DELETED:  w ( n c i b ( a a ( w c ( ( J w 5 ( g w 1 ( g a a w o a a p w i t w f a d w l p g a ( u t s s ( o]
+[DELETED:  ( a t o p w ( ( i ( a i ( 1 ( A q r l e o u 1 U 9 a w i c ( f m c 1 ( p R I s p o t p d w t p r A p i p a i ( c n f ( T d o p s s e p w r t t a l a]
+[DELETED:  ( p ( t m ( t ( a ( ( w ( p ( i ( a c p l p ( A c o p i e t a p l p o h c p n o p f p a w i e t c t p t g 1 ( t ( p 4 (]
+[DELETED:  p ( ( a a a ( d ( i g ( n y 1 I i w o S]
+[DELETED:  T w p w i p T]

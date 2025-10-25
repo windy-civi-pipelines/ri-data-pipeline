@@ -1,0 +1,123 @@
+Title: Introduced By: Representatives Caldwell, Stewart, Fogarty, Carson, Donovan, McEntee,
+Official Title: Introduced By: Representatives Caldwell, Stewart, Fogarty, Carson, Donovan, McEntee,
+Number of Sections: 1
+Source: versions - 5671
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5671
+========
+LC001854
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- COMPUTER CRIME
+Furtado, Casimiro, Boylan, and Kazarian
+Date Introduced: February 26, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 11-52-4.2 of the General Laws in Chapter 11-52 entitled "Computer
+2 Crime" is hereby amended to read as follows:
+3 11-52-4.2. Cyberstalking and cyberharassment prohibited.
+4 (a) Whoever transmits any communication by computer or other electronic device to any
+5 person or causes any person to be contacted for the sole purpose of harassing that person or his or
+6 her family is guilty of a misdemeanor, and shall be punished by a fine of not more than five hundred
+7 dollars ($500), by imprisonment for not more than one year, or both. For the purpose of this section,
+8 “harassing” means any knowing and willful course of conduct directed at a specific person which
+9 seriously alarms, annoys, or bothers the person, and which serves no legitimate purpose. The course
+10 of conduct must be of a kind that would cause a reasonable person to suffer substantial emotional
+11 distress, or be in fear of bodily injury. “Course of conduct” means a pattern of conduct composed
+12 of a series of acts over a period of time, evidencing a continuity of purpose. Constitutionally
+13 protected activity is not included within the meaning of “course of conduct.”
+14 (b) A second or subsequent conviction under subsection (a) of this section shall be deemed
+15 a felony punishable by imprisonment for not more than two (2) years, by a fine of not more than
+16 six thousand dollars ($6,000), or both.
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001854
+========
+LC001854 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- COMPUTER CRIME
+***
+1 This act would make it unnecessary to prove that a person’s transmission of electronic
+2 communications be for the sole purpose of harassment before being found guilty of cyberstalking
+3 or cyberharrassment.
+4 This act would take effect upon passage.
+========
+LC001854
+========
+LC001854 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S C 1 ( p h d “ s o d o p ( a s ]
+[DELETED:  S]
+[DELETED:  T c o T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5671
+========
+LC001854
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- COMPUTER CRIME
+Introduced By: Representatives Caldwell, Stewart, Fogarty, Carson, Donovan, McEntee,
+Furtado, Casimiro, Boylan, and Kazarian
+Date Introduced: February 26, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 11-52-4.2 of the General Laws in Chapter 11-52 entitled "Computer
+2 Crime" is hereby amended to read as follows:
+3 11-52-4.2. Cyberstalking and cyberharassment prohibited.
+4 (a) Whoever transmits any communication by computer or other electronic device to any
+5 person or causes any person to be contacted for the sole purpose of harassing that person or his or
+6 her family is guilty of a misdemeanor, and shall be punished by a fine of not more than five hundred
+7 dollars ($500), by imprisonment for not more than one year, or both. For the purpose of this section,
+8 “harassing” means any knowing and willful course of conduct directed at a specific person which
+9 seriously alarms, annoys, or bothers the person, and which serves no legitimate purpose. The course
+10 of conduct must be of a kind that would cause a reasonable person to suffer substantial emotional
+11 distress, or be in fear of bodily injury. “Course of conduct” means a pattern of conduct composed
+12 of a series of acts over a period of time, evidencing a continuity of purpose. Constitutionally
+13 protected activity is not included within the meaning of “course of conduct.”
+14 (b) A second or subsequent conviction under subsection (a) of this section shall be deemed
+15 a felony punishable by imprisonment for not more than two (2) years, by a fine of not more than
+16 six thousand dollars ($6,000), or both.
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001854
+========
+LC001854 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- COMPUTER CRIME
+***
+1 This act would make it unnecessary to prove that a person’s transmission of electronic
+2 communications be for the sole purpose of harassment before being found guilty of cyberstalking
+3 or cyberharrassment.
+4 This act would take effect upon passage.
+========
+LC001854
+========
+LC001854 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 1 ( p h d “ s o d o p ( a s ]
+[DELETED:  S]
+[DELETED:  T c o T]

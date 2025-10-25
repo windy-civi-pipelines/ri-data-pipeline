@@ -1,0 +1,198 @@
+Title: RELATING TO FINANCIAL INSTITUTIONS -- LENDERS AND LOAN BROKERS
+Official Title: RELATING TO FINANCIAL INSTITUTIONS -- LENDERS AND LOAN BROKERS
+Number of Sections: 1
+Source: versions - 83
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0083
+========
+LC000482
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Raptakis, Thompson, Burke, McKenney, Felag, Sosnowski,
+Ciccone, Gu, LaMountain, and Patalano
+Date Introduced: January 31, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.1-10 of the General Laws in Chapter 19-14.1 entitled "Lenders
+2 and Loan Brokers" is hereby amended to read as follows:
+3 19-14.1-10. Special exemptions.
+4 (a) The licensing provisions of chapter 14 of this title shall not apply to:
+5 (1) Nonprofit charitable, educational, or religious corporations or associations;
+6 (2) Any person who makes less than six (6) loans in this state in any consecutive twelve-
+7 month (12) period; there is no similar exemption from licensing for loan brokers for brokering loans
+8 or acting as a loan broker;
+9 (3) Any person acting as an agent for a licensee for the purpose of conducting closings at
+10 a location other than that stipulated in the license;
+11 (4) Regulated institutions and banks or credit unions organized under the laws of the United
+12 States, or subject to written notice with a designated Rhode Island agent for service of process in
+13 the form prescribed by the director, or the director’s designee, of any other state within the United
+14 States if the laws of the other state in which such bank or credit union is organized authorizes under
+15 conditions not substantially more restrictive than those imposed by the laws of this state, as
+16 determined by the director, or the director’s designee, a financial institution or credit union to
+17 engage in the business of originating or brokering loans in the other state; no bank or credit union
+18 duly organized under the laws of any other state within the United States may receive deposits, pay
+19 checks, or lend money from any location within this state unless such bank or credit union has
+1 received approval from the director, or the director’s designee, for the establishment of an interstate
+2 branch office pursuant to chapter 7 of title 19;
+3 (5) Any natural person employee who is employed by a licensee when acting on the
+4 licensee’s behalf; provided that this exemption shall not apply to a mortgage loan originator
+5 required to be licensed under § 19-14-2 or § 19-14.10-4; or
+6 (6) A licensed attorney when performing loan closing services for a licensee or for an entity
+7 identified in subdivision (4) above.
+8 (b) The provisions of this chapter and chapter 14 of this title shall not apply to:
+9 (1) Loans to corporations, joint ventures, partnerships, limited liability companies or other
+10 business entities;
+11 (2) Loans over twenty-five thousand dollars ($25,000) in amount to individuals for
+12 business or commercial, as opposed to personal, family or household purposes;
+13 (3) Loans principally secured by accounts receivable and/or business inventory;
+14 (4) Loans made by a life insurance company wholly secured by the cash surrender value
+15 of a life insurance policy;
+16 (5) Education-purpose loans made by the Rhode Island health and educational building
+17 corporation as vested in chapter 38.1 of title 45 of the Rhode Island student loan authority as vested
+18 in chapter 62 of title 16;
+19 (6) The acquisition of retail or loan installment contracts by an entity whose sole business
+20 in this state is acquiring them from federal banks receivers or liquidators;
+21 (7) Notes evidencing the indebtedness of a retail buyer to a retail seller of goods, services
+22 or insurance for a part or all of the purchase price;
+23 (8) Any municipal, state or federal agency that makes, brokers, or funds loans or acts as a
+24 lender or a loan broker. This exemption includes exclusive agents or exclusive contractors of the
+25 agency specifically designated by the agency to perform those functions on behalf of the agency
+26 and which has notified the director, in writing, of the exclusive agency or contract; or
+27 (9) Notes evidencing the indebtedness of a retail buyer to a retail motor vehicle dealer that
+28 include as part of the amount financed, disclosed in accordance with 12 C.F.R. § 226.18 as
+29 amended, an amount representing negative equity related to the motor vehicle being traded in as
+30 part of the purchase price of the motor vehicle being purchased.
+31 (c) No license to make or fund loans, or to act as a lender or small loan lender shall be
+32 required of any person who engages in deferred deposit transactions (commonly known as “pay-
+33 day advance”) while holding a valid license to cash checks pursuant to chapter 14 of this title.
+LC000482 - Page 2 of 4
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000482
+========
+LC000482 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LENDERS AND LOAN BROKERS
+***
+1 This act would remove the licensing exemption for a lender that originates less than six (6)
+2 loans in twelve (12) consecutive months.
+3 This act would take effect upon passage.
+========
+LC000482
+========
+LC000482 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( ( ( m o ( a ( S t S c n s m r t t i b t l o t s a d e d c]
+[DELETED:  r b ( l b p t t e s n a t a m l o r ( i ( ( b ( L o t t d ( i a t i f b ( ( o ( c i ( i ( o ( l a a ( i a p o t a f d i a w 1 C § 2 a a p ( r d ]
+[DELETED:  S]
+[DELETED:  T l T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0083
+========
+LC000482
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LENDERS AND LOAN BROKERS
+Introduced By: Senators Raptakis, Thompson, Burke, McKenney, Felag, Sosnowski,
+Ciccone, Gu, LaMountain, and Patalano
+Date Introduced: January 31, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.1-10 of the General Laws in Chapter 19-14.1 entitled "Lenders
+2 and Loan Brokers" is hereby amended to read as follows:
+3 19-14.1-10. Special exemptions.
+4 (a) The licensing provisions of chapter 14 of this title shall not apply to:
+5 (1) Nonprofit charitable, educational, or religious corporations or associations;
+6 (2) Any person who makes less than six (6) loans in this state in any consecutive twelve-
+7 month (12) period; there is no similar exemption from licensing for loan brokers for brokering loans
+8 or acting as a loan broker;
+9 (3) Any person acting as an agent for a licensee for the purpose of conducting closings at
+10 a location other than that stipulated in the license;
+11 (4) Regulated institutions and banks or credit unions organized under the laws of the United
+12 States, or subject to written notice with a designated Rhode Island agent for service of process in
+13 the form prescribed by the director, or the director’s designee, of any other state within the United
+14 States if the laws of the other state in which such bank or credit union is organized authorizes under
+15 conditions not substantially more restrictive than those imposed by the laws of this state, as
+16 determined by the director, or the director’s designee, a financial institution or credit union to
+17 engage in the business of originating or brokering loans in the other state; no bank or credit union
+18 duly organized under the laws of any other state within the United States may receive deposits, pay
+19 checks, or lend money from any location within this state unless such bank or credit union has
+
+1 received approval from the director, or the director’s designee, for the establishment of an interstate
+2 branch office pursuant to chapter 7 of title 19;
+3 (5) Any natural person employee who is employed by a licensee when acting on the
+4 licensee’s behalf; provided that this exemption shall not apply to a mortgage loan originator
+5 required to be licensed under § 19-14-2 or § 19-14.10-4; or
+6 (6) A licensed attorney when performing loan closing services for a licensee or for an entity
+7 identified in subdivision (4) above.
+8 (b) The provisions of this chapter and chapter 14 of this title shall not apply to:
+9 (1) Loans to corporations, joint ventures, partnerships, limited liability companies or other
+10 business entities;
+11 (2) Loans over twenty-five thousand dollars ($25,000) in amount to individuals for
+12 business or commercial, as opposed to personal, family or household purposes;
+13 (3) Loans principally secured by accounts receivable and/or business inventory;
+14 (4) Loans made by a life insurance company wholly secured by the cash surrender value
+15 of a life insurance policy;
+16 (5) Education-purpose loans made by the Rhode Island health and educational building
+17 corporation as vested in chapter 38.1 of title 45 of the Rhode Island student loan authority as vested
+18 in chapter 62 of title 16;
+19 (6) The acquisition of retail or loan installment contracts by an entity whose sole business
+20 in this state is acquiring them from federal banks receivers or liquidators;
+21 (7) Notes evidencing the indebtedness of a retail buyer to a retail seller of goods, services
+22 or insurance for a part or all of the purchase price;
+23 (8) Any municipal, state or federal agency that makes, brokers, or funds loans or acts as a
+24 lender or a loan broker. This exemption includes exclusive agents or exclusive contractors of the
+25 agency specifically designated by the agency to perform those functions on behalf of the agency
+26 and which has notified the director, in writing, of the exclusive agency or contract; or
+27 (9) Notes evidencing the indebtedness of a retail buyer to a retail motor vehicle dealer that
+28 include as part of the amount financed, disclosed in accordance with 12 C.F.R. § 226.18 as
+29 amended, an amount representing negative equity related to the motor vehicle being traded in as
+30 part of the purchase price of the motor vehicle being purchased.
+31 (c) No license to make or fund loans, or to act as a lender or small loan lender shall be
+32 required of any person who engages in deferred deposit transactions (commonly known as “pay-
+33 day advance”) while holding a valid license to cash checks pursuant to chapter 14 of this title.
+LC000482 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000482
+========
+LC000482 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LENDERS AND LOAN BROKERS
+***
+1 This act would remove the licensing exemption for a lender that originates less than six (6)
+2 loans in twelve (12) consecutive months.
+3 This act would take effect upon passage.
+========
+LC000482
+========
+LC000482 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( ( ( m o ( a ( S t S c n s m r t t i b t l o t s a d e d c]
+[DELETED:  r b ( l b p t t e s n a t a m l o r ( i ( ( b ( L o t t d ( i a t i f b ( ( o ( c i ( i ( o ( l a a ( i a p o t a f d i a w 1 C § 2 a a p ( r d ]
+[DELETED:  S]
+[DELETED:  T l T]

@@ -1,0 +1,1209 @@
+Title: RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE --
+Official Title: RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE --
+Number of Sections: 1
+Source: versions - 5100  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5100 SUBSTITUTE A
+========
+LC000705/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ADMINISTRATION AND ENFORCEMENT
+Introduced By: Representatives Shekarchi, Blazejewski, Kazarian, Ackerman, Alzate,
+Morales, Serpa, Kennedy, Giraldo, and Voas
+Date Introduced: January 22, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+2 amended by adding thereto the following section:
+3 23-27.3-101.2. Matters not covered.
+4 SAVE Units, as defined in § 45-24-31, are exempt from provisions of this code, except as
+5 to those requirements set forth in § 23-27.3-111.0.
+6 SECTION 2. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+7 amended by adding thereto the following section:
+8 23-27.3-111.0. SAVE Units -- Requirements.
+9 (a) SAVE Units as defined in § 45-24-31, that are provided as a permitted use pursuant to
+10 § 45-24-37, or as part of a municipality's exercise of limited emergency authority pursuant to § 45-
+11 24-78, shall be allowed under this code; provided that, the unit:
+12 (1) Is confirmed by the state fire marshal, where applicable, or local fire marshal, and a
+13 state building official, to comply with the following:
+14 (i) Standard requirements to qualify as a SAVE Unit shall include:
+15 (A) Climate control;
+16 (B) A locking door;
+17 (C) Hardwired smoke detectors or sealed battery-operated smoke alarm(s) and hardwired
+18 carbon monoxide detectors or sealed battery-operated carbon monoxide alarm(s), as such terms are
+1 defined by the National Fire Protection Association (“NFPA”) 72;
+2 (D) A two- and one-half pound (2.5 lb.) ABC fire extinguisher;
+3 (E) An egress window or secondary emergency egress door;
+4 (F) The unit meets at least class C fire rating of the International Building Code; and
+5 (2) Size requirement. Each unit shall have an interior floor area of not less than seventy
+6 square feet (70 sq. ft.) for one occupant; when more than one person occupies the unit, the required
+7 floor area shall be increased at the rate of fifty square feet (50 sq. ft.) for each occupant in excess
+8 of one; and the total interior floor area shall not exceed four hundred square feet (400 sq. ft.); and
+9 (3) Live loads requirement. SAVE Units shall be designed to resist intrusion of wind, rain,
+10 and snow and to support the following live loads:
+11 (i) Floor live loads of not less than forty pounds (40 lbs.) per square foot of floor area;
+12 (ii) Horizontal live loads of not less than fifteen pounds (15 lbs.) per square foot of vertical
+13 wall and roof area;
+14 (iii) Roof live loads of not less than twenty pounds (20 lbs.) per square foot of horizontal
+15 roof area;
+16 (iv) In areas where snow loads are greater than twenty pounds (20 lbs.) per square foot, the
+17 roof shall be designed and constructed to resist these additional loads;
+18 (v) The units shall have adequate anchorage to address these loads; and
+19 (4) Ceiling height requirement. Habitable space shall have a ceiling height of not less than
+20 eighty inches (80") and obstructions shall not extend below these minimum ceiling heights; and
+21 (5) Egress window requirement. The egress window shall:
+22 (i) Not be more than forty-four inches (44") above the floor;
+23 (ii) Have a minimum net clear opening height of twenty-four inches (24");
+24 (iii) Have a minimum net clear opening width of twenty inches (20"); and
+25 (iv) Have a minimum net clear opening area of five square feet (5 sq. ft.); and
+26 (6) Plumbing and gas service requirement. If a SAVE Unit contains plumbing or gas
+27 service it shall comply with all applicable requirements of the building and fire codes for plumbing
+28 and gas service; and
+29 (7) Electrical requirement. SAVE Units shall be provided with all of the following installed
+30 in compliance with the applicable provisions of the electrical code:
+31 (i) A continuous source of electricity, except that the source may be an emergency
+32 generator or renewable source of power;
+33 (ii) A minimum of one interior light fixture with a battery backup;
+34 (iii) Electrical heating equipment listed for residential use and a dedicated receptacle outlet
+LC000705/SUB A - Page 2 of 17
+1 for the electrical heating equipment, unless a nonelectrical source of heating is provided; and
+2 (iv) At least one GFCI-protected receptacle outlet for use by the occupant(s); and
+3 (8) Ventilation requirement. SAVE Units shall be provided with means of ventilation
+4 (natural or mechanical) allowing for air replacement; and
+5 (9) Accessory units such as bathrooms shall comply with the construction requirements for
+6 a SAVE Unit or shall be considered a self-contained facility; and
+7 (10) Separation requirement. The SAVE Unit, when part of a community of SAVE Units,
+8 has a minimum separation between other SAVE Units of greater than ten feet (10').
+9 SECTION 3. Section 23-28.1-6 of the General Laws in Chapter 23-28.1 entitled
+10 "Comprehensive Fire Safety Act" is hereby amended to read as follows:
+11 23-28.1-6. Applicability to new or existing structures.
+12 (a) All regulations contained in this code apply to all structures unless specifically
+13 exempted. Prior to a building permit, other than a foundation permit, being issued, all plans for
+14 buildings regulated under this code shall be submitted to the authority having jurisdiction. The
+15 authority having jurisdiction shall approve or disapprove the completed set of plans within a
+16 reasonable time not to exceed fifteen (15) days for fire alarm, smoke detection and/or carbon
+17 monoxide detector plans. The authority having jurisdiction shall further approve or disapprove a
+18 completed set of plans, covering any other project, within the specific time lines recommended by
+19 the state fire marshal, and established on or before October 15, 2010 within the rules and regulations
+20 of the state fire safety code board. In no case shall the authority having jurisdictional review of a
+21 completed set of plans exceed ninety (90) days to complete that review without the express written
+22 approval of the state fire marshal. The failure of an authority having jurisdiction to comply within
+23 the timelines established pursuant to this section, may result in the issuance of a building permit.
+24 The above examination of plans may be waived by the authority having jurisdiction when the plans
+25 for the erection or alteration of a building are prepared by a professional engineer or architect,
+26 licensed and/or registered by the State of Rhode Island, and the professional engineer or architect
+27 has stated in a written, signed and stamped document, that he or she has supervised the preparation
+28 of the applicable architectural, structural, electrical, mechanical, fire alarm and/or sprinkler design
+29 contract documents, and that he or she will review and approve all working drawings for
+30 construction, conduct on-site supervision of the construction process throughout the project, and
+31 that the project shall, to the best of his or her knowledge conform to all provisions of the fire safety
+32 code, and all rules and regulations, formal interpretations and blanket variances adopted under its
+33 provisions. When a change of use or type of occupancy is made in an existing building, the building
+34 shall conform to the requirements established by the rehabilitation building and fire code for
+LC000705/SUB A - Page 3 of 17
+1 existing buildings and structures, or if the rehabilitation building and fire code for existing
+2 structures is not applicable, to the requirements for new structures as related to the proposed use or
+3 type of occupancy.
+4 (b) In existing structures, since it is not always practical or efficient to strictly apply all of
+5 the provisions of the code, the authority having jurisdiction shall have the power to implement and
+6 enforce the provisions of the code as provided for in the Uniform Fire Code (NFPA 1) and the Life
+7 Safety Code (NFPA 101) with annexes, as applicable to existing structures, consistent with such
+8 rules and regulations as may be adopted and such decisions as may be rendered by the Fire Safety
+9 Code Board of Appeal and Review.
+10 (c) Application of the code to new and existing structures shall be consistent with such
+11 blanket variances, variances, and rules, as may be approved by the Fire Safety Code Board of
+12 Appeal and Review, and such modifications as may be issued in writing by the authority having
+13 jurisdiction, in accordance with NFPA 101, with annexes.
+14 (d) Specific exemptions. SAVE Units as defined in § 45-24-31 and permitted pursuant to
+15 § 23-27.3-111.0, whether currently available or to be provided in the future, that are allowed
+16 pursuant to § 45-24-37, or on an emergency basis as set forth in § 45-24-78, are exempt from the
+17 provisions of this chapter as well as related codes and regulations promulgated and enforced under
+18 this chapter.
+19 SECTION 4. Sections 45-24-31 and 45-24-37 of the General Laws in Chapter 45-24
+20 entitled "Zoning Ordinances" are hereby amended to read as follows:
+21 45-24-31. Definitions.
+22 Where words or terms used in this chapter are defined in § 45-22.2-4 or § 45-23-32, they
+23 have the meanings stated in that section. In addition, the following words have the following
+24 meanings. Additional words and phrases may be used in developing local ordinances under this
+25 chapter; however, the words and phrases defined in this section are controlling in all local
+26 ordinances created under this chapter:
+27 (1) Abutter. One whose property abuts, that is, adjoins at a border, boundary, or point with
+28 no intervening land.
+29 (2) Accessory dwelling unit (ADU). A residential living unit on the same lot where the
+30 principal use is a legally established single-family dwelling unit or multi-family dwelling unit. An
+31 ADU provides complete independent living facilities for one or more persons. It may take various
+32 forms including, but not limited to: a detached unit; a unit that is part of an accessory structure,
+33 such as a detached garage; or a unit that is part of an expanded or remodeled primary dwelling.
+34 (3) Accessory use. A use of land or of a building, or portion thereof, customarily incidental
+LC000705/SUB A - Page 4 of 17
+1 and subordinate to the principal use of the land or building. An accessory use may be restricted to
+2 the same lot as the principal use. An accessory use shall not be permitted without the principal use
+3 to which it is related.
+4 (4) Adaptive reuse. “Adaptive reuse,” as defined in § 42-64.22-2.
+5 (5) Aggrieved party. An aggrieved party, for purposes of this chapter, shall be:
+6 (i) Any person, or persons, or entity, or entities, who or that can demonstrate that his, her,
+7 or its property will be injured by a decision of any officer or agency responsible for administering
+8 the zoning ordinance of a city or town; or
+9 (ii) Anyone requiring notice pursuant to this chapter.
+10 (6) Agricultural land. “Agricultural land,” as defined in § 45-22.2-4.
+11 (7) Airport hazard area. “Airport hazard area,” as defined in § 1-3-2.
+12 (8) Applicant. An owner, or authorized agent of the owner, submitting an application or
+13 appealing an action of any official, board, or agency.
+14 (9) Application. The completed form, or forms, and all accompanying documents, exhibits,
+15 and fees required of an applicant by an approving authority for development review, approval, or
+16 permitting purposes.
+17 (10) Buffer. Land that is maintained in either a natural or landscaped state, and is used to
+18 screen or mitigate the impacts of development on surrounding areas, properties, or rights-of-way.
+19 (11) Building. Any structure used or intended for supporting or sheltering any use or
+20 occupancy.
+21 (12) Building envelope. The three-dimensional space within which a structure is permitted
+22 to be built on a lot and that is defined by regulations governing building setbacks, maximum height,
+23 and bulk; by other regulations; or by any combination thereof.
+24 (13) Building height. For a vacant parcel of land, building height shall be measured from
+25 the average, existing-grade elevation where the foundation of the structure is proposed. For an
+26 existing structure, building height shall be measured from average grade taken from the outermost
+27 four (4) corners of the existing foundation. In all cases, building height shall be measured to the top
+28 of the highest point of the existing or proposed roof or structure. This distance shall exclude spires,
+29 chimneys, flag poles, and the like. For any property or structure located in a special flood hazard
+30 area, as shown on the official FEMA Flood Insurance Rate Maps (FIRMs), or depicted on the
+31 Rhode Island coastal resources management council (CRMC) suggested design elevation three foot
+32 (3′) sea level rise (CRMC SDE 3 SLR) map as being inundated during a one-hundred-year (100)
+33 storm, the greater of the following amounts, expressed in feet, shall be excluded from the building
+34 height calculation:
+LC000705/SUB A - Page 5 of 17
+1 (i) The base flood elevation on the FEMA FIRM plus up to five feet (5′) of any utilized or
+2 proposed freeboard, less the average existing grade elevation; or
+3 (ii) The suggested design elevation as depicted on the CRMC SDE 3 SLR map during a
+4 one-hundred-year (100) storm, less the average existing grade elevation. CRMC shall reevaluate
+5 the appropriate suggested design elevation map for the exclusion every ten (10) years, or as
+6 otherwise necessary.
+7 (14) Cluster. A site-planning technique that concentrates buildings in specific areas on the
+8 site to allow the remaining land to be used for recreation, common open space, and/or preservation
+9 of environmentally, historically, culturally, or other sensitive features and/or structures. The
+10 techniques used to concentrate buildings shall be specified in the ordinance and may include, but
+11 are not limited to, reduction in lot areas, setback requirements, and/or bulk requirements, with the
+12 resultant open land being devoted by deed restrictions for one or more uses. Under cluster
+13 development, there is no increase in the number of lots that would be permitted under conventional
+14 development except where ordinance provisions include incentive bonuses for certain types or
+15 conditions of development.
+16 (15) Common ownership. Either:
+17 (i) Ownership by one or more individuals or entities in any form of ownership of two (2)
+18 or more contiguous lots; or
+19 (ii) Ownership by any association (ownership may also include a municipality) of one or
+20 more lots under specific development techniques.
+21 (16) Community residence. A home or residential facility where children and/or adults
+22 reside in a family setting and may or may not receive supervised care. This does not include halfway
+23 houses or substance-use-disorder-treatment facilities. This does include, but is not limited to, the
+24 following:
+25 (i) Whenever six (6) or fewer children or adults with intellectual and/or developmental
+26 disability reside in any type of residence in the community, as licensed by the state pursuant to
+27 chapter 24 of title 40.1. All requirements pertaining to local zoning are waived for these community
+28 residences;
+29 (ii) A group home providing care or supervision, or both, to not more than eight (8) persons
+30 with disabilities, and licensed by the state pursuant to chapter 24 of title 40.1;
+31 (iii) A residence for children providing care or supervision, or both, to not more than eight
+32 (8) children, including those of the caregiver, and licensed by the state pursuant to chapter 72.1 of
+33 title 42;
+34 (iv) A community transitional residence providing care or assistance, or both, to no more
+LC000705/SUB A - Page 6 of 17
+1 than six (6) unrelated persons or no more than three (3) families, not to exceed a total of eight (8)
+2 persons, requiring temporary financial assistance, and/or to persons who are victims of crimes,
+3 abuse, or neglect, and who are expected to reside in that residence not less than sixty (60) days nor
+4 more than two (2) years. Residents will have access to, and use of, all common areas, including
+5 eating areas and living rooms, and will receive appropriate social services for the purpose of
+6 fostering independence, self-sufficiency, and eventual transition to a permanent living situation.
+7 (17) Comprehensive plan. The comprehensive plan adopted and approved pursuant to
+8 chapter 22.2 of this title and to which any zoning adopted pursuant to this chapter shall be in
+9 compliance.
+10 (18) Day care — Daycare center. Any other daycare center that is not a family daycare
+11 home.
+12 (19) Day care — Family daycare home. Any home, other than the individual’s home, in
+13 which day care in lieu of parental care or supervision is offered at the same time to six (6) or less
+14 individuals who are not relatives of the caregiver, but may not contain more than a total of eight
+15 (8) individuals receiving day care.
+16 (20) Density, residential. The number of dwelling units per unit of land.
+17 (21) Development. The construction, reconstruction, conversion, structural alteration,
+18 relocation, or enlargement of any structure; any mining, excavation, landfill, or land disturbance;
+19 or any change in use, or alteration or extension of the use, of land.
+20 (22) Development plan review. See §§ 45-23-32 and 45-23-50.
+21 (23) District. See “zoning use district.”
+22 (24) Drainage system. A system for the removal of water from land by drains, grading, or
+23 other appropriate means. These techniques may include runoff controls to minimize erosion and
+24 sedimentation during and after construction or development; the means for preserving surface and
+25 groundwaters; and the prevention and/or alleviation of flooding.
+26 (25) Dwelling unit. A structure, or portion of a structure, providing complete, independent
+27 living facilities for one or more persons, including permanent provisions for living, sleeping, eating,
+28 cooking, and sanitation, and containing a separate means of ingress and egress.
+29 (26) Extractive industry. The extraction of minerals, including: solids, such as coal and
+30 ores; liquids, such as crude petroleum; and gases, such as natural gases. The term also includes
+31 quarrying; well operation; milling, such as crushing, screening, washing, and flotation; and other
+32 preparation customarily done at the extraction site or as a part of the extractive activity.
+33 (27) Family member. A person, or persons, related by blood, marriage, or other legal
+34 means, including, but not limited to, a child, parent, spouse, mother-in-law, father-in-law,
+LC000705/SUB A - Page 7 of 17
+1 grandparents, grandchildren, domestic partner, sibling, care recipient, or member of the household.
+2 (28) Floating zone. An unmapped zoning district adopted within the ordinance that is
+3 established on the zoning map only when an application for development, meeting the zone
+4 requirements, is approved.
+5 (29) Floodplains, or Flood hazard area. As defined in § 45-22.2-4.
+6 (30) Freeboard. A factor of safety expressed in feet above the base flood elevation of a
+7 flood hazard area for purposes of floodplain management. Freeboard compensates for the many
+8 unknown factors that could contribute to flood heights, such as wave action, bridge openings, and
+9 the hydrological effect of urbanization of the watershed.
+10 (31) Groundwater. “Groundwater” and associated terms, as defined in § 46-13.1-3.
+11 (32) Halfway house. A residential facility for adults or children who have been
+12 institutionalized for criminal conduct and who require a group setting to facilitate the transition to
+13 a functional member of society.
+14 (33) Hardship. See § 45-24-41.
+15 (34) Historic district or historic site. As defined in § 45-22.2-4.
+16 (35) Home occupation. Any activity customarily carried out for gain by a resident,
+17 conducted as an accessory use in the resident’s dwelling unit.
+18 (36) Household. One or more persons living together in a single-dwelling unit, with
+19 common access to, and common use of, all living and eating areas and all areas and facilities for
+20 the preparation and storage of food within the dwelling unit. The term “household unit” is
+21 synonymous with the term “dwelling unit” for determining the number of units allowed within any
+22 structure on any lot in a zoning district. An individual household shall consist of any one of the
+23 following:
+24 (i) A family, which may also include servants and employees living with the family; or
+25 (ii) A person or group of unrelated persons living together. The maximum number may be
+26 set by local ordinance, but this maximum shall not be less than one person per bedroom and shall
+27 not exceed five (5) unrelated persons per dwelling. The maximum number shall not apply to
+28 NARR-certified recovery residences.
+29 (37) Incentive zoning. The process whereby the local authority may grant additional
+30 development capacity in exchange for the developer’s provision of a public benefit or amenity as
+31 specified in local ordinances.
+32 (38) Infrastructure. Facilities and services needed to sustain residential, commercial,
+33 industrial, institutional, and other activities.
+34 (39) Land development project. As defined in § 45-23-32.
+LC000705/SUB A - Page 8 of 17
+1 (40) Lot. Either:
+2 (i) The basic development unit for determination of lot area, depth, and other dimensional
+3 regulations; or
+4 (ii) A parcel of land whose boundaries have been established by some legal instrument,
+5 such as a recorded deed or recorded map, and that is recognized as a separate legal entity for
+6 purposes of transfer of title.
+7 (41) Lot area. The total area within the boundaries of a lot, excluding any street right-of-
+8 way, usually reported in acres or square feet.
+9 (42) Lot area, minimum. The smallest land area established by the local zoning ordinance
+10 upon which a use, building, or structure may be located in a particular zoning district.
+11 (43) Lot building coverage. That portion of the lot that is, or may be, covered by buildings
+12 and accessory buildings.
+13 (44) Lot depth. The distance measured from the front lot line to the rear lot line. For lots
+14 where the front and rear lot lines are not parallel, the lot depth is an average of the depth.
+15 (45) Lot frontage. That portion of a lot abutting a street. A zoning ordinance shall specify
+16 how noncontiguous frontage will be considered with regard to minimum frontage requirements.
+17 (46) Lot line. A line of record, bounding a lot, that divides one lot from another lot or from
+18 a public or private street or any other public or private space and shall include:
+19 (i) Front: the lot line separating a lot from a street right-of-way. A zoning ordinance shall
+20 specify the method to be used to determine the front lot line on lots fronting on more than one
+21 street, for example, corner and through lots;
+22 (ii) Rear: the lot line opposite and most distant from the front lot line, or in the case of
+23 triangular or otherwise irregularly shaped lots, an assumed line at least ten feet (10′) in length
+24 entirely within the lot, parallel to and at a maximum distance from, the front lot line; and
+25 (iii) Side: any lot line other than a front or rear lot line. On a corner lot, a side lot line may
+26 be a street lot line, depending on requirements of the local zoning ordinance.
+27 (47) Lot size, minimum. Shall have the same meaning as “minimum lot area” defined
+28 herein.
+29 (48) Lot, though. A lot that fronts upon two (2) parallel streets, or that fronts upon two (2)
+30 streets that do not intersect at the boundaries of the lot.
+31 (49) Lot width. The horizontal distance between the side lines of a lot measured at right
+32 angles to its depth along a straight line parallel to the front lot line at the minimum front setback
+33 line.
+34 (50) Manufactured home. As used in this section, a manufactured home shall have the same
+LC000705/SUB A - Page 9 of 17
+1 definition as in 42 U.S.C. § 5402, meaning a structure, transportable in one or more sections, which,
+2 in the traveling mode, is eight (8) body feet or more in width or forty (40) body feet or more in
+3 length, or, when erected on site, is three hundred twenty (320) or more square feet, and which is
+4 built on a permanent chassis and designed to be used as a dwelling with a permanent foundation
+5 connected to the required utilities, and includes the plumbing, heating, air-conditioning, and
+6 electrical systems contained therein; except that such term shall include any structure that meets all
+7 the requirements of this definition except the size requirements and with respect to which the
+8 manufacturer voluntarily files a certification required by the United States Secretary of Housing
+9 and Urban Development and complies with the standards established under chapter 70 of Title 42
+10 of the United States Code; and except that such term shall not include any self-propelled
+11 recreational vehicle.
+12 (51) Mere inconvenience. See § 45-24-41.
+13 (52) Mixed use. A mixture of land uses within a single development, building, or tract.
+14 (53) Modification. Permission granted and administered by the zoning enforcement officer
+15 of the city or town, and pursuant to the provisions of this chapter to grant a dimensional variance
+16 other than lot area requirements from the zoning ordinance to a limited degree as determined by
+17 the zoning ordinance of the city or town, but not to exceed twenty-five percent (25%) of each of
+18 the applicable dimensional requirements.
+19 (54) Nonconformance. A building, structure, or parcel of land, or use thereof, lawfully
+20 existing at the time of the adoption or amendment of a zoning ordinance and not in conformity with
+21 the provisions of that ordinance or amendment. Nonconformance is of only two (2) types:
+22 (i) Nonconforming by use: a lawfully established use of land, building, or structure that is
+23 not a permitted use in that zoning district. A building or structure containing more dwelling units
+24 than are permitted by the use regulations of a zoning ordinance is nonconformity by use; or
+25 (ii) Nonconforming by dimension: a building, structure, or parcel of land not in compliance
+26 with the dimensional regulations of the zoning ordinance. Dimensional regulations include all
+27 regulations of the zoning ordinance, other than those pertaining to the permitted uses. A building
+28 or structure containing more dwelling units than are permitted by the use regulations of a zoning
+29 ordinance is nonconforming by use; a building or structure containing a permitted number of
+30 dwelling units by the use regulations of the zoning ordinance, but not meeting the lot area per
+31 dwelling unit regulations, is nonconforming by dimension.
+32 (55) Overlay district. A district established in a zoning ordinance that is superimposed on
+33 one or more districts or parts of districts. The standards and requirements associated with an overlay
+34 district may be more or less restrictive than those in the underlying districts consistent with other
+LC000705/SUB A - Page 10 of 17
+1 applicable state and federal laws.
+2 (56) Performance standards. A set of criteria or limits relating to elements that a particular
+3 use or process must either meet or may not exceed.
+4 (57) Permitted use. A use by right that is specifically authorized in a particular zoning
+5 district.
+6 (58) Planned development. A “land development project,” as defined in subsection (39),
+7 and developed according to plan as a single entity and containing one or more structures or uses
+8 with appurtenant common areas.
+9 (59) Plant agriculture. The growing of plants for food or fiber, to sell or consume.
+10 (60) Preapplication conference. A review meeting of a proposed development held between
+11 applicants and reviewing agencies as permitted by law and municipal ordinance, before formal
+12 submission of an application for a permit or for development approval.
+13 (61) Setback line or lines. A line, or lines, parallel to a lot line at the minimum distance of
+14 the required setback for the zoning district in which the lot is located that establishes the area within
+15 which the principal structure must be erected or placed.
+16 (62) Site plan. The development plan for one or more lots on which is shown the existing
+17 and/or the proposed conditions of the lot.
+18 (63) Slope of land. The grade, pitch, rise, or incline of the topographic landform or surface
+19 of the ground.
+20 (64) Special use. A regulated use that is permitted pursuant to the special-use permit issued
+21 by the authorized governmental entity, pursuant to § 45-24-42. Formerly referred to as a special
+22 exception.
+23 (65) Structure. A combination of materials to form a construction for use, occupancy, or
+24 ornamentation, whether installed on, above, or below the surface of land or water.
+25 (66) Substandard lot of record. Any lot lawfully existing at the time of adoption or
+26 amendment of a zoning ordinance and not in conformance with the dimensional or area provisions
+27 of that ordinance.
+28 (67) Supportive and versatile emergency units ("SAVE Units"). A structure intended for
+29 temporary and transitional residential occupancy which complies with § 23-27.3-111.0. A SAVE
+30 Unit is intended to provide temporary safety and privacy for people experiencing homelessness and
+31 to enable occupants to transition to permanent housing.
+32 (67)(68) Use. The purpose or activity for which land or buildings are designed, arranged,
+33 or intended, or for which land or buildings are occupied or maintained.
+34 (68)(69) Variance. Permission to depart from the literal requirements of a zoning
+LC000705/SUB A - Page 11 of 17
+1 ordinance. An authorization for the construction or maintenance of a building or structure, or for
+2 the establishment or maintenance of a use of land, that is prohibited by a zoning ordinance. There
+3 are only two (2) categories of variance, a use variance or a dimensional variance.
+4 (i) Use variance. Permission to depart from the use requirements of a zoning ordinance
+5 where the applicant for the requested variance has shown by evidence upon the record that the
+6 subject land or structure cannot yield any beneficial use if it is to conform to the provisions of the
+7 zoning ordinance.
+8 (ii) Dimensional variance. Permission to depart from the dimensional requirements of a
+9 zoning ordinance under the applicable standards set forth in § 45-24-41.
+10 (69)(70) Waters. As defined in § 46-12-1(23).
+11 (70)(71) Wetland, coastal. As defined in § 45-22.2-4.
+12 (71)(72) Wetland, freshwater. As defined in § 2-1-20.
+13 (72)(73) Zoning certificate. A document signed by the zoning enforcement officer, as
+14 required in the zoning ordinance, that acknowledges that a use, structure, building, or lot either
+15 complies with, or is legally nonconforming to, the provisions of the municipal zoning ordinance or
+16 is an authorized variance or modification therefrom.
+17 (73)(74) Zoning map. The map, or maps, that are a part of the zoning ordinance and that
+18 delineate the boundaries of all mapped zoning districts within the physical boundary of the city or
+19 town.
+20 (74)(75) Zoning ordinance. An ordinance enacted by the legislative body of the city or
+21 town pursuant to this chapter and in the manner providing for the adoption of ordinances in the city
+22 or town’s legislative or home rule charter, if any, that establish regulations and standards relating
+23 to the nature and extent of uses of land and structures; that is consistent with the comprehensive
+24 plan of the city or town as defined in chapter 22.2 of this title; that includes a zoning map; and that
+25 complies with the provisions of this chapter.
+26 (75)(76) Zoning use district. The basic unit in zoning, either mapped or unmapped, to
+27 which a uniform set of regulations applies, or a uniform set of regulations for a specified use.
+28 Zoning use districts include, but are not limited to: agricultural, commercial, industrial,
+29 institutional, open space, and residential. Each district may include sub-districts. Districts may be
+30 combined.
+31 45-24-37. General provisions — Permitted uses.
+32 (a) The zoning ordinance shall provide a listing of all land uses and/or performance
+33 standards for uses that are permitted within the zoning use districts of the municipality. The
+34 ordinance may provide for a procedure under which a proposed land use that is not specifically
+LC000705/SUB A - Page 12 of 17
+1 listed may be presented by the property owner to the zoning board of review or to a local official
+2 or agency charged with administration and enforcement of the ordinance for an evaluation and
+3 determination of whether the proposed use is of a similar type, character, and intensity as a listed
+4 permitted use. Upon such determination, the proposed use may be considered to be a permitted use.
+5 (b) Notwithstanding any other provision of this chapter, the following uses are permitted
+6 uses within all residential zoning use districts of a municipality and all industrial and commercial
+7 zoning use districts except where residential use is prohibited for public health or safety reasons:
+8 (1) Households;
+9 (2) Community residences; and
+10 (3) Family daycare homes.
+11 (c) Any time a building or other structure used for residential purposes, or a portion of a
+12 building containing residential units, is rendered uninhabitable by virtue of a casualty such as fire
+13 or flood, the owner of the property is allowed to park, temporarily, mobile and manufactured home,
+14 or homes, as the need may be, elsewhere upon the land, for use and occupancy of the former
+15 occupants for a period of up to twelve (12) months, or until the building or structure is rehabilitated
+16 and otherwise made fit for occupancy. The property owner, or a properly designated agent of the
+17 owner, is only allowed to cause the mobile and manufactured home, or homes, to remain
+18 temporarily upon the land by making timely application to the local building official for the
+19 purposes of obtaining the necessary permits to repair or rebuild the structure.
+20 (d) Notwithstanding any other provision of this chapter, appropriate access for people with
+21 disabilities to residential structures is allowed as a reasonable accommodation for any person(s)
+22 residing, or intending to reside, in the residential structure.
+23 (e) Notwithstanding any other provision of this chapter, an accessory dwelling unit
+24 (“ADU”) that meets the requirements of §§ 45-24-31 and 45-24-73(a) shall be a permitted use in
+25 all residential zoning districts. An ADU that meets the requirements of §§ 45-24-31 and 45-24-
+26 73(a) shall be permitted through an administrative building permit process only.
+27 (f) When used in this section the terms “people with disabilities” or “member, or members,
+28 with disabilities” means a person(s) who has a physical or mental impairment that substantially
+29 limits one or more major life activities, as defined in 42-87-1(5).
+30 (g) Notwithstanding any other provisions of this chapter, plant agriculture is a permitted
+31 use within all zoning districts of a municipality, including all industrial and commercial zoning
+32 districts, except where prohibited for public health or safety reasons or the protection of wildlife
+33 habitat.
+34 (h) Adaptive reuse. Notwithstanding any other provisions of this chapter, adaptive reuse
+LC000705/SUB A - Page 13 of 17
+1 for the conversion of any commercial building, including offices, schools, religious facilities,
+2 medical buildings, and malls into residential units or mixed-use developments which include the
+3 development of at least fifty percent (50%) of the existing gross floor area into residential units,
+4 shall be a permitted use and allowed by specific and objective provisions of a zoning ordinance,
+5 except where such is prohibited by environmental land use restrictions recorded on the property by
+6 the state of Rhode Island department of environmental management or the United States
+7 Environmental Protection Agency preventing the conversion to residential use.
+8 (1) The specific zoning ordinance provisions for adaptive reuse shall exempt adaptive reuse
+9 developments from off-street parking requirements of over one space per dwelling unit.
+10 (2) Density.
+11 (i) For projects that meet the following criteria, zoning ordinances shall allow for high
+12 density development and shall not limit the density to less than fifteen (15) dwelling units per acre:
+13 (A) Where the project is limited to the existing footprint, except that the footprint is allowed
+14 to be expanded to accommodate upgrades related to the building and fire codes and utilities; and
+15 (B) The development includes at least twenty percent (20%) low- and moderate-income
+16 housing; and
+17 (C) The development has access to public sewer and water service or has access to adequate
+18 private water, such as a well and and/or wastewater treatment system(s) approved by the relevant
+19 state agency for the entire development as applicable.
+20 (ii) For all other adaptive reuse projects, the residential density permitted in the converted
+21 structure shall be the maximum allowed that otherwise meets all standards of minimum housing
+22 and has access to public sewer and water service or has access to adequate private water, such as a
+23 well, and wastewater treatment system(s) approved by the relevant state agency for the entire
+24 development, as applicable. The density proposed shall be determined to meet all public health and
+25 safety standards.
+26 (3) Notwithstanding any other provisions of this chapter, for adaptive reuse projects,
+27 existing building setbacks shall remain and shall be considered legal nonconforming, but no
+28 additional encroachments shall be permitted into any nonconforming setback, unless otherwise
+29 allowed by zoning ordinance or relief is granted by the applicable authority.
+30 (4) For adaptive reuse projects, notwithstanding any other provisions of this chapter, the
+31 height of the existing structure, if it exceeds the maximum height of the zoning district, may remain
+32 and shall be considered legal nonconforming, and any rooftop construction shall be included within
+33 the height exemption.
+34 (i) Notwithstanding any other provisions of this chapter, all towns and cities may allow
+LC000705/SUB A - Page 14 of 17
+1 manufactured homes that comply with § 23-27.3-109.1.3 as a type of single-family home on any
+2 lot zoned for single-family use. Such home shall comply with all dimensional requirements of a
+3 single-family home in the district or seek relief for the same under the provisions of this chapter.
+4 (j) SAVE Units. Notwithstanding any other provision of this chapter, SAVE Units, as
+5 defined in § 45-24-31, and their accessory units, such as bathrooms, if compliant with § 23-27.3-
+6 111.0, shall be allowed by right in municipalities that have either allowed such by and through
+7 zoning ordinance provisions or in municipalities that have exercised emergency authority pursuant
+8 to § 45-24-78.
+9 SECTION 5. Chapter 45-24 of the General Laws entitled "Zoning Ordinances" is hereby
+10 amended by adding thereto the following section:
+11 45-24-78. Limited emergency authority.
+12 (a) Notwithstanding any general or special law to the contrary or any ordinance, rule or
+13 regulation to the contrary, a municipality, upon a declaration of emergency introduced by the
+14 mayor, town administrator, or other equivalent chief executive officer, and approved by the
+15 municipal council, which may be in the form of a resolution, may suspend application and
+16 compliance with all planning and zoning procedures and the procedures set forth in §§ 45-24-47
+17 through 45-24-55 and local building approval procedures in order to allow the construction of
+18 SAVE Units, and their accessory units, which comply with the provisions of § 23-27.3-111.0.
+19 (b) Such a declaration of an emergency shall only be for purposes of allowing for the
+20 construction and temporary occupancy of SAVE Units during periods of severe weather or during
+21 the aftermath of a natural or man-made disaster.
+22 (c) Such a declaration of emergency shall only be valid for thirty (30) days, with the right
+23 to renew the declaration, by vote of the municipal council, for another thirty (30) day period. The
+24 total period for the emergency declaration shall not exceed one hundred and eighty (180) days per
+25 year.
+26 (d) Upon a declaration of an emergency pursuant to this section, the mayor, town
+27 administrator, or other equivalent chief executive officer of the municipality shall, within thirty
+28 (30) days of the declaration, and within every sixty days (60) thereafter, file a report with the
+29 governor, the speaker of the house, and the president of the senate, with a copy to the municipal
+30 council and the secretary of housing, providing information on the nature and extent of the
+31 emergency, the actions taken by the municipality to address the emergency and the total number of
+32 individuals being served by the SAVE Units.
+33 (e) Nothing contained in this chapter shall prevent a municipality from allowing, on a non-
+34 emergency basis, SAVE Units, provided the units comply with all applicable state building and fire
+LC000705/SUB A - Page 15 of 17
+1 code sections by right through the passage of a zoning ordinance amendment in accordance with
+2 the provisions of §§ 45-24-50 through 45-24-53 and are permitted pursuant to § 23-27.3-111.0.
+3 SECTION 6. Section 45-24.3-4 of the General Laws in Chapter 45-24.3 entitled "Housing
+4 Maintenance and Occupancy Code" is hereby amended to read as follows:
+5 45-24.3-4. Applicability.
+6 (a) Every portion of a building or its premises used or intended to be used for the purpose
+7 of dwelling, living, eating, sleeping, or cooking, or occupancy, comply with the provisions of this
+8 chapter and with the rules and regulations adopted pursuant to this chapter irrespective of when the
+9 building was constructed, altered, or repaired, and irrespective of any permits or licenses issued for
+10 the use or occupancy of the dwelling and dwelling premises or structure, for the construction or
+11 repair of the dwelling or structure, or for the installation or repair of dwelling equipment prior to
+12 January 1, 1971. This chapter establishes minimum standards for the initial and continued
+13 occupancy of all dwellings and structures, and does not replace or modify standards otherwise
+14 established by the state or a corporate unit for the construction, repair, or use of a building or the
+15 installation of building equipment except as they may be in conflict with the provisions of this
+16 chapter as provided by § 45-24.3-19.
+17 (b) Matters governed by and conforming to the provisions of the State Building Code (§
+18 23-27.3-100.0 et seq.) shall prevail for all structures, dwellings, and dwelling units constructed,
+19 altered or repaired since July 1, 1977, providing the structure, dwelling or dwelling units conform
+20 in their entirety to the prevailing edition of the building codes in effect at the time of construction
+21 or occupancy, as evidenced by the date of issuance of a building permit issuance or date of issuance
+22 of a certificate of occupancy.
+23 (c) Except as specifically provided, the provisions of this chapter shall not apply to SAVE
+24 Units as defined in § 45-24-31 that are permitted pursuant to § 45-24-37 or § 45-24-78 and which
+25 comply with § 23-27.3-111.0.
+26 SECTION 7. This act shall take effect upon passage.
+========
+LC000705/SUB A
+========
+LC000705/SUB A - Page 16 of 17
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE --
+ADMINISTRATION AND ENFORCEMENT
+***
+1 This act would authorize municipalities to make an emergency declaration under limited
+2 circumstances to allow for the construction and use of SAVE Units on a temporary basis which
+3 have specialized requirements and exemptions from the state fire and building codes. This act
+4 would also include a provision for reports to be provided to the governor, the speaker of the house
+5 and the president of the senate regarding the nature of the emergency and the number of individuals
+6 served by SAVE Units.
+7 This act would take effect upon passage.
+========
+LC000705/SUB A
+========
+LC000705/SUB A - Page 17 of 17
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 S t S a 2 ( § 2 ( s ( ( ( ( c]
+[DELETED:  d ( ( ( ( s f o ( a ( ( w ( r ( r ( ( e ( ( ( ( ( ( s a ( i ( A c s o e e t t s m b a e g ( (]
+[DELETED:  f ( ( ( ( a ( h S 3 S 2 o t G L i C 2 e " 2 ( A r c i t c a t a s u s e b a h s a o d t c s o p w r m c t o c a t T f l h o c d a t h o s w r a a a w d f c t c p s]
+[DELETED:  e b a s o i t r b a f c f e s t ( t e S r C ( b A j ( § p p t S 4 S 4 a 4 o t G L C 4 e 4 W h m c h t w a p d i t s a c i a l o ( n ( p A f s (]
+[DELETED:  a t t ( ( ( o t ( ( ( ( a ( a p ( s ( o ( t a ( t e f o c a R ( s h]
+[DELETED:  ( p ( o t a s d e m f t e e t ( y o a o ( s o e h c o o s f a s T t a r o l b d b d r f o o m u U c d d c ( ( o ( m ( r h f ( d c r ( w ( ( t (]
+[DELETED:  t p a m e f ( c c ( h ( w i ( ( ( D T c r c s a r o ( ( ( o s g ( l c ( o q p ( m i b n l t a c p s m f]
+[DELETED:  g ( e o t z m o w a a f d m t z r ( ( f u t ( ( H h A r f f a o c w h b i a ( ( ( H o A a c c o f g b a r c ( H O o m p l t i a s u w c t p a s o f w t d u T t “ u i s s f ( ( s n N ( I z T p w t l a m g a d s ( I F a s n t s r c i (]
+[DELETED:  ( ( r ( s p ( w ( u ( a ( w ( h ( a ( s s ( t e ( b ( h ( s ( a l (]
+[DELETED:  d i l b c t t r u a i t p h a a e t m a o t U S C a e t s t s n i a s r ( ( ( o o t t ( e t ( n t ( w r o o d d ( o d]
+[DELETED:  a ( u ( d ( a w ( ( a s ( t w ( a ( o ( b e ( o ( S l o r A l l e a t t o a o a o ( t U t ( o ( V P t d f t l r o a z]
+[DELETED:  o t a ( w s z ( z ( ( ( ( r c i ( d t ( t o t p c ( w Z u d i b a n l t a c i i c 4 ( T z o s p a l o a l u a p s f u t a p w t z u d o t m T o]
+[DELETED:  l o d p ( u z ( ( ( ( b o o o a o i o a t c t m a m h o h t r t u t l b m t a t b o p ( d r ( N a o p o t c a a d u ( a 7 ( w l ( u d h (]
+[DELETED:  f m d s e t s o R I d o e m o t U S E ( d ( ( d ( t ( h ( p s ( s a w d s ( N a o p o t c f a r p e b s s r a s b c l n b n a a ( h a t (]
+[DELETED:  m l s ( d 1 z t S a 4 ( r m t a o o e c e o a a b t m c w m b i t f o a r m s a a c t S ( c t ( t t y ( U a d o a e p t t s t m t a ( g c a t s o h p i o t n a e o t e i ( e]
+[DELETED:  c t S M 4 ( o c b t r J 1 1 T c e m s f t i a c o e i c ( 2 a i o o ( U c S]
+[DELETED:  T c h w a s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5100 SUBSTITUTE A
+========
+LC000705/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE --
+ADMINISTRATION AND ENFORCEMENT
+Introduced By: Representatives Shekarchi, Blazejewski, Kazarian, Ackerman, Alzate,
+Morales, Serpa, Kennedy, Giraldo, and Voas
+Date Introduced: January 22, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+2 amended by adding thereto the following section:
+3 23-27.3-101.2. Matters not covered.
+4 SAVE Units, as defined in § 45-24-31, are exempt from provisions of this code, except as
+5 to those requirements set forth in § 23-27.3-111.0.
+6 SECTION 2. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+7 amended by adding thereto the following section:
+8 23-27.3-111.0. SAVE Units -- Requirements.
+9 (a) SAVE Units as defined in § 45-24-31, that are provided as a permitted use pursuant to
+10 § 45-24-37, or as part of a municipality's exercise of limited emergency authority pursuant to § 45-
+11 24-78, shall be allowed under this code; provided that, the unit:
+12 (1) Is confirmed by the state fire marshal, where applicable, or local fire marshal, and a
+13 state building official, to comply with the following:
+14 (i) Standard requirements to qualify as a SAVE Unit shall include:
+15 (A) Climate control;
+16 (B) A locking door;
+17 (C) Hardwired smoke detectors or sealed battery-operated smoke alarm(s) and hardwired
+18 carbon monoxide detectors or sealed battery-operated carbon monoxide alarm(s), as such terms are
+
+1 defined by the National Fire Protection Association (“NFPA”) 72;
+2 (D) A two- and one-half pound (2.5 lb.) ABC fire extinguisher;
+3 (E) An egress window or secondary emergency egress door;
+4 (F) The unit meets at least class C fire rating of the International Building Code; and
+5 (2) Size requirement. Each unit shall have an interior floor area of not less than seventy
+6 square feet (70 sq. ft.) for one occupant; when more than one person occupies the unit, the required
+7 floor area shall be increased at the rate of fifty square feet (50 sq. ft.) for each occupant in excess
+8 of one; and the total interior floor area shall not exceed four hundred square feet (400 sq. ft.); and
+9 (3) Live loads requirement. SAVE Units shall be designed to resist intrusion of wind, rain,
+10 and snow and to support the following live loads:
+11 (i) Floor live loads of not less than forty pounds (40 lbs.) per square foot of floor area;
+12 (ii) Horizontal live loads of not less than fifteen pounds (15 lbs.) per square foot of vertical
+13 wall and roof area;
+14 (iii) Roof live loads of not less than twenty pounds (20 lbs.) per square foot of horizontal
+15 roof area;
+16 (iv) In areas where snow loads are greater than twenty pounds (20 lbs.) per square foot, the
+17 roof shall be designed and constructed to resist these additional loads;
+18 (v) The units shall have adequate anchorage to address these loads; and
+19 (4) Ceiling height requirement. Habitable space shall have a ceiling height of not less than
+20 eighty inches (80") and obstructions shall not extend below these minimum ceiling heights; and
+21 (5) Egress window requirement. The egress window shall:
+22 (i) Not be more than forty-four inches (44") above the floor;
+23 (ii) Have a minimum net clear opening height of twenty-four inches (24");
+24 (iii) Have a minimum net clear opening width of twenty inches (20"); and
+25 (iv) Have a minimum net clear opening area of five square feet (5 sq. ft.); and
+26 (6) Plumbing and gas service requirement. If a SAVE Unit contains plumbing or gas
+27 service it shall comply with all applicable requirements of the building and fire codes for plumbing
+28 and gas service; and
+29 (7) Electrical requirement. SAVE Units shall be provided with all of the following installed
+30 in compliance with the applicable provisions of the electrical code:
+31 (i) A continuous source of electricity, except that the source may be an emergency
+32 generator or renewable source of power;
+33 (ii) A minimum of one interior light fixture with a battery backup;
+34 (iii) Electrical heating equipment listed for residential use and a dedicated receptacle outlet
+LC000705/SUB A - Page 2 of 17
+
+1 for the electrical heating equipment, unless a nonelectrical source of heating is provided; and
+2 (iv) At least one GFCI-protected receptacle outlet for use by the occupant(s); and
+3 (8) Ventilation requirement. SAVE Units shall be provided with means of ventilation
+4 (natural or mechanical) allowing for air replacement; and
+5 (9) Accessory units such as bathrooms shall comply with the construction requirements for
+6 a SAVE Unit or shall be considered a self-contained facility; and
+7 (10) Separation requirement. The SAVE Unit, when part of a community of SAVE Units,
+8 has a minimum separation between other SAVE Units of greater than ten feet (10').
+9 SECTION 3. Section 23-28.1-6 of the General Laws in Chapter 23-28.1 entitled
+10 "Comprehensive Fire Safety Act" is hereby amended to read as follows:
+11 23-28.1-6. Applicability to new or existing structures.
+12 (a) All regulations contained in this code apply to all structures unless specifically
+13 exempted. Prior to a building permit, other than a foundation permit, being issued, all plans for
+14 buildings regulated under this code shall be submitted to the authority having jurisdiction. The
+15 authority having jurisdiction shall approve or disapprove the completed set of plans within a
+16 reasonable time not to exceed fifteen (15) days for fire alarm, smoke detection and/or carbon
+17 monoxide detector plans. The authority having jurisdiction shall further approve or disapprove a
+18 completed set of plans, covering any other project, within the specific time lines recommended by
+19 the state fire marshal, and established on or before October 15, 2010 within the rules and regulations
+20 of the state fire safety code board. In no case shall the authority having jurisdictional review of a
+21 completed set of plans exceed ninety (90) days to complete that review without the express written
+22 approval of the state fire marshal. The failure of an authority having jurisdiction to comply within
+23 the timelines established pursuant to this section, may result in the issuance of a building permit.
+24 The above examination of plans may be waived by the authority having jurisdiction when the plans
+25 for the erection or alteration of a building are prepared by a professional engineer or architect,
+26 licensed and/or registered by the State of Rhode Island, and the professional engineer or architect
+27 has stated in a written, signed and stamped document, that he or she has supervised the preparation
+28 of the applicable architectural, structural, electrical, mechanical, fire alarm and/or sprinkler design
+29 contract documents, and that he or she will review and approve all working drawings for
+30 construction, conduct on-site supervision of the construction process throughout the project, and
+31 that the project shall, to the best of his or her knowledge conform to all provisions of the fire safety
+32 code, and all rules and regulations, formal interpretations and blanket variances adopted under its
+33 provisions. When a change of use or type of occupancy is made in an existing building, the building
+34 shall conform to the requirements established by the rehabilitation building and fire code for
+LC000705/SUB A - Page 3 of 17
+
+1 existing buildings and structures, or if the rehabilitation building and fire code for existing
+2 structures is not applicable, to the requirements for new structures as related to the proposed use or
+3 type of occupancy.
+4 (b) In existing structures, since it is not always practical or efficient to strictly apply all of
+5 the provisions of the code, the authority having jurisdiction shall have the power to implement and
+6 enforce the provisions of the code as provided for in the Uniform Fire Code (NFPA 1) and the Life
+7 Safety Code (NFPA 101) with annexes, as applicable to existing structures, consistent with such
+8 rules and regulations as may be adopted and such decisions as may be rendered by the Fire Safety
+9 Code Board of Appeal and Review.
+10 (c) Application of the code to new and existing structures shall be consistent with such
+11 blanket variances, variances, and rules, as may be approved by the Fire Safety Code Board of
+12 Appeal and Review, and such modifications as may be issued in writing by the authority having
+13 jurisdiction, in accordance with NFPA 101, with annexes.
+14 (d) Specific exemptions. SAVE Units as defined in § 45-24-31 and permitted pursuant to
+15 § 23-27.3-111.0, whether currently available or to be provided in the future, that are allowed
+16 pursuant to § 45-24-37, or on an emergency basis as set forth in § 45-24-78, are exempt from the
+17 provisions of this chapter as well as related codes and regulations promulgated and enforced under
+18 this chapter.
+19 SECTION 4. Sections 45-24-31 and 45-24-37 of the General Laws in Chapter 45-24
+20 entitled "Zoning Ordinances" are hereby amended to read as follows:
+21 45-24-31. Definitions.
+22 Where words or terms used in this chapter are defined in § 45-22.2-4 or § 45-23-32, they
+23 have the meanings stated in that section. In addition, the following words have the following
+24 meanings. Additional words and phrases may be used in developing local ordinances under this
+25 chapter; however, the words and phrases defined in this section are controlling in all local
+26 ordinances created under this chapter:
+27 (1) Abutter. One whose property abuts, that is, adjoins at a border, boundary, or point with
+28 no intervening land.
+29 (2) Accessory dwelling unit (ADU). A residential living unit on the same lot where the
+30 principal use is a legally established single-family dwelling unit or multi-family dwelling unit. An
+31 ADU provides complete independent living facilities for one or more persons. It may take various
+32 forms including, but not limited to: a detached unit; a unit that is part of an accessory structure,
+33 such as a detached garage; or a unit that is part of an expanded or remodeled primary dwelling.
+34 (3) Accessory use. A use of land or of a building, or portion thereof, customarily incidental
+LC000705/SUB A - Page 4 of 17
+
+1 and subordinate to the principal use of the land or building. An accessory use may be restricted to
+2 the same lot as the principal use. An accessory use shall not be permitted without the principal use
+3 to which it is related.
+4 (4) Adaptive reuse. “Adaptive reuse,” as defined in § 42-64.22-2.
+5 (5) Aggrieved party. An aggrieved party, for purposes of this chapter, shall be:
+6 (i) Any person, or persons, or entity, or entities, who or that can demonstrate that his, her,
+7 or its property will be injured by a decision of any officer or agency responsible for administering
+8 the zoning ordinance of a city or town; or
+9 (ii) Anyone requiring notice pursuant to this chapter.
+10 (6) Agricultural land. “Agricultural land,” as defined in § 45-22.2-4.
+11 (7) Airport hazard area. “Airport hazard area,” as defined in § 1-3-2.
+12 (8) Applicant. An owner, or authorized agent of the owner, submitting an application or
+13 appealing an action of any official, board, or agency.
+14 (9) Application. The completed form, or forms, and all accompanying documents, exhibits,
+15 and fees required of an applicant by an approving authority for development review, approval, or
+16 permitting purposes.
+17 (10) Buffer. Land that is maintained in either a natural or landscaped state, and is used to
+18 screen or mitigate the impacts of development on surrounding areas, properties, or rights-of-way.
+19 (11) Building. Any structure used or intended for supporting or sheltering any use or
+20 occupancy.
+21 (12) Building envelope. The three-dimensional space within which a structure is permitted
+22 to be built on a lot and that is defined by regulations governing building setbacks, maximum height,
+23 and bulk; by other regulations; or by any combination thereof.
+24 (13) Building height. For a vacant parcel of land, building height shall be measured from
+25 the average, existing-grade elevation where the foundation of the structure is proposed. For an
+26 existing structure, building height shall be measured from average grade taken from the outermost
+27 four (4) corners of the existing foundation. In all cases, building height shall be measured to the top
+28 of the highest point of the existing or proposed roof or structure. This distance shall exclude spires,
+29 chimneys, flag poles, and the like. For any property or structure located in a special flood hazard
+30 area, as shown on the official FEMA Flood Insurance Rate Maps (FIRMs), or depicted on the
+31 Rhode Island coastal resources management council (CRMC) suggested design elevation three foot
+32 (3′) sea level rise (CRMC SDE 3 SLR) map as being inundated during a one-hundred-year (100)
+33 storm, the greater of the following amounts, expressed in feet, shall be excluded from the building
+34 height calculation:
+LC000705/SUB A - Page 5 of 17
+
+1 (i) The base flood elevation on the FEMA FIRM plus up to five feet (5′) of any utilized or
+2 proposed freeboard, less the average existing grade elevation; or
+3 (ii) The suggested design elevation as depicted on the CRMC SDE 3 SLR map during a
+4 one-hundred-year (100) storm, less the average existing grade elevation. CRMC shall reevaluate
+5 the appropriate suggested design elevation map for the exclusion every ten (10) years, or as
+6 otherwise necessary.
+7 (14) Cluster. A site-planning technique that concentrates buildings in specific areas on the
+8 site to allow the remaining land to be used for recreation, common open space, and/or preservation
+9 of environmentally, historically, culturally, or other sensitive features and/or structures. The
+10 techniques used to concentrate buildings shall be specified in the ordinance and may include, but
+11 are not limited to, reduction in lot areas, setback requirements, and/or bulk requirements, with the
+12 resultant open land being devoted by deed restrictions for one or more uses. Under cluster
+13 development, there is no increase in the number of lots that would be permitted under conventional
+14 development except where ordinance provisions include incentive bonuses for certain types or
+15 conditions of development.
+16 (15) Common ownership. Either:
+17 (i) Ownership by one or more individuals or entities in any form of ownership of two (2)
+18 or more contiguous lots; or
+19 (ii) Ownership by any association (ownership may also include a municipality) of one or
+20 more lots under specific development techniques.
+21 (16) Community residence. A home or residential facility where children and/or adults
+22 reside in a family setting and may or may not receive supervised care. This does not include halfway
+23 houses or substance-use-disorder-treatment facilities. This does include, but is not limited to, the
+24 following:
+25 (i) Whenever six (6) or fewer children or adults with intellectual and/or developmental
+26 disability reside in any type of residence in the community, as licensed by the state pursuant to
+27 chapter 24 of title 40.1. All requirements pertaining to local zoning are waived for these community
+28 residences;
+29 (ii) A group home providing care or supervision, or both, to not more than eight (8) persons
+30 with disabilities, and licensed by the state pursuant to chapter 24 of title 40.1;
+31 (iii) A residence for children providing care or supervision, or both, to not more than eight
+32 (8) children, including those of the caregiver, and licensed by the state pursuant to chapter 72.1 of
+33 title 42;
+34 (iv) A community transitional residence providing care or assistance, or both, to no more
+LC000705/SUB A - Page 6 of 17
+
+1 than six (6) unrelated persons or no more than three (3) families, not to exceed a total of eight (8)
+2 persons, requiring temporary financial assistance, and/or to persons who are victims of crimes,
+3 abuse, or neglect, and who are expected to reside in that residence not less than sixty (60) days nor
+4 more than two (2) years. Residents will have access to, and use of, all common areas, including
+5 eating areas and living rooms, and will receive appropriate social services for the purpose of
+6 fostering independence, self-sufficiency, and eventual transition to a permanent living situation.
+7 (17) Comprehensive plan. The comprehensive plan adopted and approved pursuant to
+8 chapter 22.2 of this title and to which any zoning adopted pursuant to this chapter shall be in
+9 compliance.
+10 (18) Day care — Daycare center. Any other daycare center that is not a family daycare
+11 home.
+12 (19) Day care — Family daycare home. Any home, other than the individual’s home, in
+13 which day care in lieu of parental care or supervision is offered at the same time to six (6) or less
+14 individuals who are not relatives of the caregiver, but may not contain more than a total of eight
+15 (8) individuals receiving day care.
+16 (20) Density, residential. The number of dwelling units per unit of land.
+17 (21) Development. The construction, reconstruction, conversion, structural alteration,
+18 relocation, or enlargement of any structure; any mining, excavation, landfill, or land disturbance;
+19 or any change in use, or alteration or extension of the use, of land.
+20 (22) Development plan review. See §§ 45-23-32 and 45-23-50.
+21 (23) District. See “zoning use district.”
+22 (24) Drainage system. A system for the removal of water from land by drains, grading, or
+23 other appropriate means. These techniques may include runoff controls to minimize erosion and
+24 sedimentation during and after construction or development; the means for preserving surface and
+25 groundwaters; and the prevention and/or alleviation of flooding.
+26 (25) Dwelling unit. A structure, or portion of a structure, providing complete, independent
+27 living facilities for one or more persons, including permanent provisions for living, sleeping, eating,
+28 cooking, and sanitation, and containing a separate means of ingress and egress.
+29 (26) Extractive industry. The extraction of minerals, including: solids, such as coal and
+30 ores; liquids, such as crude petroleum; and gases, such as natural gases. The term also includes
+31 quarrying; well operation; milling, such as crushing, screening, washing, and flotation; and other
+32 preparation customarily done at the extraction site or as a part of the extractive activity.
+33 (27) Family member. A person, or persons, related by blood, marriage, or other legal
+34 means, including, but not limited to, a child, parent, spouse, mother-in-law, father-in-law,
+LC000705/SUB A - Page 7 of 17
+
+1 grandparents, grandchildren, domestic partner, sibling, care recipient, or member of the household.
+2 (28) Floating zone. An unmapped zoning district adopted within the ordinance that is
+3 established on the zoning map only when an application for development, meeting the zone
+4 requirements, is approved.
+5 (29) Floodplains, or Flood hazard area. As defined in § 45-22.2-4.
+6 (30) Freeboard. A factor of safety expressed in feet above the base flood elevation of a
+7 flood hazard area for purposes of floodplain management. Freeboard compensates for the many
+8 unknown factors that could contribute to flood heights, such as wave action, bridge openings, and
+9 the hydrological effect of urbanization of the watershed.
+10 (31) Groundwater. “Groundwater” and associated terms, as defined in § 46-13.1-3.
+11 (32) Halfway house. A residential facility for adults or children who have been
+12 institutionalized for criminal conduct and who require a group setting to facilitate the transition to
+13 a functional member of society.
+14 (33) Hardship. See § 45-24-41.
+15 (34) Historic district or historic site. As defined in § 45-22.2-4.
+16 (35) Home occupation. Any activity customarily carried out for gain by a resident,
+17 conducted as an accessory use in the resident’s dwelling unit.
+18 (36) Household. One or more persons living together in a single-dwelling unit, with
+19 common access to, and common use of, all living and eating areas and all areas and facilities for
+20 the preparation and storage of food within the dwelling unit. The term “household unit” is
+21 synonymous with the term “dwelling unit” for determining the number of units allowed within any
+22 structure on any lot in a zoning district. An individual household shall consist of any one of the
+23 following:
+24 (i) A family, which may also include servants and employees living with the family; or
+25 (ii) A person or group of unrelated persons living together. The maximum number may be
+26 set by local ordinance, but this maximum shall not be less than one person per bedroom and shall
+27 not exceed five (5) unrelated persons per dwelling. The maximum number shall not apply to
+28 NARR-certified recovery residences.
+29 (37) Incentive zoning. The process whereby the local authority may grant additional
+30 development capacity in exchange for the developer’s provision of a public benefit or amenity as
+31 specified in local ordinances.
+32 (38) Infrastructure. Facilities and services needed to sustain residential, commercial,
+33 industrial, institutional, and other activities.
+34 (39) Land development project. As defined in § 45-23-32.
+LC000705/SUB A - Page 8 of 17
+
+1 (40) Lot. Either:
+2 (i) The basic development unit for determination of lot area, depth, and other dimensional
+3 regulations; or
+4 (ii) A parcel of land whose boundaries have been established by some legal instrument,
+5 such as a recorded deed or recorded map, and that is recognized as a separate legal entity for
+6 purposes of transfer of title.
+7 (41) Lot area. The total area within the boundaries of a lot, excluding any street right-of-
+8 way, usually reported in acres or square feet.
+9 (42) Lot area, minimum. The smallest land area established by the local zoning ordinance
+10 upon which a use, building, or structure may be located in a particular zoning district.
+11 (43) Lot building coverage. That portion of the lot that is, or may be, covered by buildings
+12 and accessory buildings.
+13 (44) Lot depth. The distance measured from the front lot line to the rear lot line. For lots
+14 where the front and rear lot lines are not parallel, the lot depth is an average of the depth.
+15 (45) Lot frontage. That portion of a lot abutting a street. A zoning ordinance shall specify
+16 how noncontiguous frontage will be considered with regard to minimum frontage requirements.
+17 (46) Lot line. A line of record, bounding a lot, that divides one lot from another lot or from
+18 a public or private street or any other public or private space and shall include:
+19 (i) Front: the lot line separating a lot from a street right-of-way. A zoning ordinance shall
+20 specify the method to be used to determine the front lot line on lots fronting on more than one
+21 street, for example, corner and through lots;
+22 (ii) Rear: the lot line opposite and most distant from the front lot line, or in the case of
+23 triangular or otherwise irregularly shaped lots, an assumed line at least ten feet (10′) in length
+24 entirely within the lot, parallel to and at a maximum distance from, the front lot line; and
+25 (iii) Side: any lot line other than a front or rear lot line. On a corner lot, a side lot line may
+26 be a street lot line, depending on requirements of the local zoning ordinance.
+27 (47) Lot size, minimum. Shall have the same meaning as “minimum lot area” defined
+28 herein.
+29 (48) Lot, though. A lot that fronts upon two (2) parallel streets, or that fronts upon two (2)
+30 streets that do not intersect at the boundaries of the lot.
+31 (49) Lot width. The horizontal distance between the side lines of a lot measured at right
+32 angles to its depth along a straight line parallel to the front lot line at the minimum front setback
+33 line.
+34 (50) Manufactured home. As used in this section, a manufactured home shall have the same
+LC000705/SUB A - Page 9 of 17
+
+1 definition as in 42 U.S.C. § 5402, meaning a structure, transportable in one or more sections, which,
+2 in the traveling mode, is eight (8) body feet or more in width or forty (40) body feet or more in
+3 length, or, when erected on site, is three hundred twenty (320) or more square feet, and which is
+4 built on a permanent chassis and designed to be used as a dwelling with a permanent foundation
+5 connected to the required utilities, and includes the plumbing, heating, air-conditioning, and
+6 electrical systems contained therein; except that such term shall include any structure that meets all
+7 the requirements of this definition except the size requirements and with respect to which the
+8 manufacturer voluntarily files a certification required by the United States Secretary of Housing
+9 and Urban Development and complies with the standards established under chapter 70 of Title 42
+10 of the United States Code; and except that such term shall not include any self-propelled
+11 recreational vehicle.
+12 (51) Mere inconvenience. See § 45-24-41.
+13 (52) Mixed use. A mixture of land uses within a single development, building, or tract.
+14 (53) Modification. Permission granted and administered by the zoning enforcement officer
+15 of the city or town, and pursuant to the provisions of this chapter to grant a dimensional variance
+16 other than lot area requirements from the zoning ordinance to a limited degree as determined by
+17 the zoning ordinance of the city or town, but not to exceed twenty-five percent (25%) of each of
+18 the applicable dimensional requirements.
+19 (54) Nonconformance. A building, structure, or parcel of land, or use thereof, lawfully
+20 existing at the time of the adoption or amendment of a zoning ordinance and not in conformity with
+21 the provisions of that ordinance or amendment. Nonconformance is of only two (2) types:
+22 (i) Nonconforming by use: a lawfully established use of land, building, or structure that is
+23 not a permitted use in that zoning district. A building or structure containing more dwelling units
+24 than are permitted by the use regulations of a zoning ordinance is nonconformity by use; or
+25 (ii) Nonconforming by dimension: a building, structure, or parcel of land not in compliance
+26 with the dimensional regulations of the zoning ordinance. Dimensional regulations include all
+27 regulations of the zoning ordinance, other than those pertaining to the permitted uses. A building
+28 or structure containing more dwelling units than are permitted by the use regulations of a zoning
+29 ordinance is nonconforming by use; a building or structure containing a permitted number of
+30 dwelling units by the use regulations of the zoning ordinance, but not meeting the lot area per
+31 dwelling unit regulations, is nonconforming by dimension.
+32 (55) Overlay district. A district established in a zoning ordinance that is superimposed on
+33 one or more districts or parts of districts. The standards and requirements associated with an overlay
+34 district may be more or less restrictive than those in the underlying districts consistent with other
+LC000705/SUB A - Page 10 of 17
+
+1 applicable state and federal laws.
+2 (56) Performance standards. A set of criteria or limits relating to elements that a particular
+3 use or process must either meet or may not exceed.
+4 (57) Permitted use. A use by right that is specifically authorized in a particular zoning
+5 district.
+6 (58) Planned development. A “land development project,” as defined in subsection (39),
+7 and developed according to plan as a single entity and containing one or more structures or uses
+8 with appurtenant common areas.
+9 (59) Plant agriculture. The growing of plants for food or fiber, to sell or consume.
+10 (60) Preapplication conference. A review meeting of a proposed development held between
+11 applicants and reviewing agencies as permitted by law and municipal ordinance, before formal
+12 submission of an application for a permit or for development approval.
+13 (61) Setback line or lines. A line, or lines, parallel to a lot line at the minimum distance of
+14 the required setback for the zoning district in which the lot is located that establishes the area within
+15 which the principal structure must be erected or placed.
+16 (62) Site plan. The development plan for one or more lots on which is shown the existing
+17 and/or the proposed conditions of the lot.
+18 (63) Slope of land. The grade, pitch, rise, or incline of the topographic landform or surface
+19 of the ground.
+20 (64) Special use. A regulated use that is permitted pursuant to the special-use permit issued
+21 by the authorized governmental entity, pursuant to § 45-24-42. Formerly referred to as a special
+22 exception.
+23 (65) Structure. A combination of materials to form a construction for use, occupancy, or
+24 ornamentation, whether installed on, above, or below the surface of land or water.
+25 (66) Substandard lot of record. Any lot lawfully existing at the time of adoption or
+26 amendment of a zoning ordinance and not in conformance with the dimensional or area provisions
+27 of that ordinance.
+28 (67) Supportive and versatile emergency units ("SAVE Units"). A structure intended for
+29 temporary and transitional residential occupancy which complies with § 23-27.3-111.0. A SAVE
+30 Unit is intended to provide temporary safety and privacy for people experiencing homelessness and
+31 to enable occupants to transition to permanent housing.
+32 (67)(68) Use. The purpose or activity for which land or buildings are designed, arranged,
+33 or intended, or for which land or buildings are occupied or maintained.
+34 (68)(69) Variance. Permission to depart from the literal requirements of a zoning
+LC000705/SUB A - Page 11 of 17
+
+1 ordinance. An authorization for the construction or maintenance of a building or structure, or for
+2 the establishment or maintenance of a use of land, that is prohibited by a zoning ordinance. There
+3 are only two (2) categories of variance, a use variance or a dimensional variance.
+4 (i) Use variance. Permission to depart from the use requirements of a zoning ordinance
+5 where the applicant for the requested variance has shown by evidence upon the record that the
+6 subject land or structure cannot yield any beneficial use if it is to conform to the provisions of the
+7 zoning ordinance.
+8 (ii) Dimensional variance. Permission to depart from the dimensional requirements of a
+9 zoning ordinance under the applicable standards set forth in § 45-24-41.
+10 (69)(70) Waters. As defined in § 46-12-1(23).
+11 (70)(71) Wetland, coastal. As defined in § 45-22.2-4.
+12 (71)(72) Wetland, freshwater. As defined in § 2-1-20.
+13 (72)(73) Zoning certificate. A document signed by the zoning enforcement officer, as
+14 required in the zoning ordinance, that acknowledges that a use, structure, building, or lot either
+15 complies with, or is legally nonconforming to, the provisions of the municipal zoning ordinance or
+16 is an authorized variance or modification therefrom.
+17 (73)(74) Zoning map. The map, or maps, that are a part of the zoning ordinance and that
+18 delineate the boundaries of all mapped zoning districts within the physical boundary of the city or
+19 town.
+20 (74)(75) Zoning ordinance. An ordinance enacted by the legislative body of the city or
+21 town pursuant to this chapter and in the manner providing for the adoption of ordinances in the city
+22 or town’s legislative or home rule charter, if any, that establish regulations and standards relating
+23 to the nature and extent of uses of land and structures; that is consistent with the comprehensive
+24 plan of the city or town as defined in chapter 22.2 of this title; that includes a zoning map; and that
+25 complies with the provisions of this chapter.
+26 (75)(76) Zoning use district. The basic unit in zoning, either mapped or unmapped, to
+27 which a uniform set of regulations applies, or a uniform set of regulations for a specified use.
+28 Zoning use districts include, but are not limited to: agricultural, commercial, industrial,
+29 institutional, open space, and residential. Each district may include sub-districts. Districts may be
+30 combined.
+31 45-24-37. General provisions — Permitted uses.
+32 (a) The zoning ordinance shall provide a listing of all land uses and/or performance
+33 standards for uses that are permitted within the zoning use districts of the municipality. The
+34 ordinance may provide for a procedure under which a proposed land use that is not specifically
+LC000705/SUB A - Page 12 of 17
+
+1 listed may be presented by the property owner to the zoning board of review or to a local official
+2 or agency charged with administration and enforcement of the ordinance for an evaluation and
+3 determination of whether the proposed use is of a similar type, character, and intensity as a listed
+4 permitted use. Upon such determination, the proposed use may be considered to be a permitted use.
+5 (b) Notwithstanding any other provision of this chapter, the following uses are permitted
+6 uses within all residential zoning use districts of a municipality and all industrial and commercial
+7 zoning use districts except where residential use is prohibited for public health or safety reasons:
+8 (1) Households;
+9 (2) Community residences; and
+10 (3) Family daycare homes.
+11 (c) Any time a building or other structure used for residential purposes, or a portion of a
+12 building containing residential units, is rendered uninhabitable by virtue of a casualty such as fire
+13 or flood, the owner of the property is allowed to park, temporarily, mobile and manufactured home,
+14 or homes, as the need may be, elsewhere upon the land, for use and occupancy of the former
+15 occupants for a period of up to twelve (12) months, or until the building or structure is rehabilitated
+16 and otherwise made fit for occupancy. The property owner, or a properly designated agent of the
+17 owner, is only allowed to cause the mobile and manufactured home, or homes, to remain
+18 temporarily upon the land by making timely application to the local building official for the
+19 purposes of obtaining the necessary permits to repair or rebuild the structure.
+20 (d) Notwithstanding any other provision of this chapter, appropriate access for people with
+21 disabilities to residential structures is allowed as a reasonable accommodation for any person(s)
+22 residing, or intending to reside, in the residential structure.
+23 (e) Notwithstanding any other provision of this chapter, an accessory dwelling unit
+24 (“ADU”) that meets the requirements of §§ 45-24-31 and 45-24-73(a) shall be a permitted use in
+25 all residential zoning districts. An ADU that meets the requirements of §§ 45-24-31 and 45-24-
+26 73(a) shall be permitted through an administrative building permit process only.
+27 (f) When used in this section the terms “people with disabilities” or “member, or members,
+28 with disabilities” means a person(s) who has a physical or mental impairment that substantially
+29 limits one or more major life activities, as defined in 42-87-1(5).
+30 (g) Notwithstanding any other provisions of this chapter, plant agriculture is a permitted
+31 use within all zoning districts of a municipality, including all industrial and commercial zoning
+32 districts, except where prohibited for public health or safety reasons or the protection of wildlife
+33 habitat.
+34 (h) Adaptive reuse. Notwithstanding any other provisions of this chapter, adaptive reuse
+LC000705/SUB A - Page 13 of 17
+
+1 for the conversion of any commercial building, including offices, schools, religious facilities,
+2 medical buildings, and malls into residential units or mixed-use developments which include the
+3 development of at least fifty percent (50%) of the existing gross floor area into residential units,
+4 shall be a permitted use and allowed by specific and objective provisions of a zoning ordinance,
+5 except where such is prohibited by environmental land use restrictions recorded on the property by
+6 the state of Rhode Island department of environmental management or the United States
+7 Environmental Protection Agency preventing the conversion to residential use.
+8 (1) The specific zoning ordinance provisions for adaptive reuse shall exempt adaptive reuse
+9 developments from off-street parking requirements of over one space per dwelling unit.
+10 (2) Density.
+11 (i) For projects that meet the following criteria, zoning ordinances shall allow for high
+12 density development and shall not limit the density to less than fifteen (15) dwelling units per acre:
+13 (A) Where the project is limited to the existing footprint, except that the footprint is allowed
+14 to be expanded to accommodate upgrades related to the building and fire codes and utilities; and
+15 (B) The development includes at least twenty percent (20%) low- and moderate-income
+16 housing; and
+17 (C) The development has access to public sewer and water service or has access to adequate
+18 private water, such as a well and and/or wastewater treatment system(s) approved by the relevant
+19 state agency for the entire development as applicable.
+20 (ii) For all other adaptive reuse projects, the residential density permitted in the converted
+21 structure shall be the maximum allowed that otherwise meets all standards of minimum housing
+22 and has access to public sewer and water service or has access to adequate private water, such as a
+23 well, and wastewater treatment system(s) approved by the relevant state agency for the entire
+24 development, as applicable. The density proposed shall be determined to meet all public health and
+25 safety standards.
+26 (3) Notwithstanding any other provisions of this chapter, for adaptive reuse projects,
+27 existing building setbacks shall remain and shall be considered legal nonconforming, but no
+28 additional encroachments shall be permitted into any nonconforming setback, unless otherwise
+29 allowed by zoning ordinance or relief is granted by the applicable authority.
+30 (4) For adaptive reuse projects, notwithstanding any other provisions of this chapter, the
+31 height of the existing structure, if it exceeds the maximum height of the zoning district, may remain
+32 and shall be considered legal nonconforming, and any rooftop construction shall be included within
+33 the height exemption.
+34 (i) Notwithstanding any other provisions of this chapter, all towns and cities may allow
+LC000705/SUB A - Page 14 of 17
+
+1 manufactured homes that comply with § 23-27.3-109.1.3 as a type of single-family home on any
+2 lot zoned for single-family use. Such home shall comply with all dimensional requirements of a
+3 single-family home in the district or seek relief for the same under the provisions of this chapter.
+4 (j) SAVE Units. Notwithstanding any other provision of this chapter, SAVE Units, as
+5 defined in § 45-24-31, and their accessory units, such as bathrooms, if compliant with § 23-27.3-
+6 111.0, shall be allowed by right in municipalities that have either allowed such by and through
+7 zoning ordinance provisions or in municipalities that have exercised emergency authority pursuant
+8 to § 45-24-78.
+9 SECTION 5. Chapter 45-24 of the General Laws entitled "Zoning Ordinances" is hereby
+10 amended by adding thereto the following section:
+11 45-24-78. Limited emergency authority.
+12 (a) Notwithstanding any general or special law to the contrary or any ordinance, rule or
+13 regulation to the contrary, a municipality, upon a declaration of emergency introduced by the
+14 mayor, town administrator, or other equivalent chief executive officer, and approved by the
+15 municipal council, which may be in the form of a resolution, may suspend application and
+16 compliance with all planning and zoning procedures and the procedures set forth in §§ 45-24-47
+17 through 45-24-55 and local building approval procedures in order to allow the construction of
+18 SAVE Units, and their accessory units, which comply with the provisions of § 23-27.3-111.0.
+19 (b) Such a declaration of an emergency shall only be for purposes of allowing for the
+20 construction and temporary occupancy of SAVE Units during periods of severe weather or during
+21 the aftermath of a natural or man-made disaster.
+22 (c) Such a declaration of emergency shall only be valid for thirty (30) days, with the right
+23 to renew the declaration, by vote of the municipal council, for another thirty (30) day period. The
+24 total period for the emergency declaration shall not exceed one hundred and eighty (180) days per
+25 year.
+26 (d) Upon a declaration of an emergency pursuant to this section, the mayor, town
+27 administrator, or other equivalent chief executive officer of the municipality shall, within thirty
+28 (30) days of the declaration, and within every sixty days (60) thereafter, file a report with the
+29 governor, the speaker of the house, and the president of the senate, with a copy to the municipal
+30 council and the secretary of housing, providing information on the nature and extent of the
+31 emergency, the actions taken by the municipality to address the emergency and the total number of
+32 individuals being served by the SAVE Units.
+33 (e) Nothing contained in this chapter shall prevent a municipality from allowing, on a non-
+34 emergency basis, SAVE Units, provided the units comply with all applicable state building and fire
+LC000705/SUB A - Page 15 of 17
+
+1 code sections by right through the passage of a zoning ordinance amendment in accordance with
+2 the provisions of §§ 45-24-50 through 45-24-53 and are permitted pursuant to § 23-27.3-111.0.
+3 SECTION 6. Section 45-24.3-4 of the General Laws in Chapter 45-24.3 entitled "Housing
+4 Maintenance and Occupancy Code" is hereby amended to read as follows:
+5 45-24.3-4. Applicability.
+6 (a) Every portion of a building or its premises used or intended to be used for the purpose
+7 of dwelling, living, eating, sleeping, or cooking, or occupancy, comply with the provisions of this
+8 chapter and with the rules and regulations adopted pursuant to this chapter irrespective of when the
+9 building was constructed, altered, or repaired, and irrespective of any permits or licenses issued for
+10 the use or occupancy of the dwelling and dwelling premises or structure, for the construction or
+11 repair of the dwelling or structure, or for the installation or repair of dwelling equipment prior to
+12 January 1, 1971. This chapter establishes minimum standards for the initial and continued
+13 occupancy of all dwellings and structures, and does not replace or modify standards otherwise
+14 established by the state or a corporate unit for the construction, repair, or use of a building or the
+15 installation of building equipment except as they may be in conflict with the provisions of this
+16 chapter as provided by § 45-24.3-19.
+17 (b) Matters governed by and conforming to the provisions of the State Building Code (§
+18 23-27.3-100.0 et seq.) shall prevail for all structures, dwellings, and dwelling units constructed,
+19 altered or repaired since July 1, 1977, providing the structure, dwelling or dwelling units conform
+20 in their entirety to the prevailing edition of the building codes in effect at the time of construction
+21 or occupancy, as evidenced by the date of issuance of a building permit issuance or date of issuance
+22 of a certificate of occupancy.
+23 (c) Except as specifically provided, the provisions of this chapter shall not apply to SAVE
+24 Units as defined in § 45-24-31 that are permitted pursuant to § 45-24-37 or § 45-24-78 and which
+25 comply with § 23-27.3-111.0.
+26 SECTION 7. This act shall take effect upon passage.
+========
+LC000705/SUB A
+========
+LC000705/SUB A - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE --
+ADMINISTRATION AND ENFORCEMENT
+***
+1 This act would authorize municipalities to make an emergency declaration under limited
+2 circumstances to allow for the construction and use of SAVE Units on a temporary basis which
+3 have specialized requirements and exemptions from the state fire and building codes. This act
+4 would also include a provision for reports to be provided to the governor, the speaker of the house
+5 and the president of the senate regarding the nature of the emergency and the number of individuals
+6 served by SAVE Units.
+7 This act would take effect upon passage.
+========
+LC000705/SUB A
+========
+LC000705/SUB A - Page 17 of 17
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 2 S t S a 2 ( § 2 ( s ( ( ( ( c]
+[DELETED:  d ( ( ( ( s f o ( a ( ( w ( r ( r ( ( e ( ( ( ( ( ( s a ( i ( A c s o e e t t s m b a e g ( (]
+[DELETED:  f ( ( ( ( a ( h S 3 S 2 o t G L i C 2 e " 2 ( A r c i t c a t a s u s e b a h s a o d t c s o p w r m c t o c a t T f l h o c d a t h o s w r a a a w d f c t c p s]
+[DELETED:  e b a s o i t r b a f c f e s t ( t e S r C ( b A j ( § p p t S 4 S 4 a 4 o t G L C 4 e 4 W h m c h t w a p d i t s a c i a l o ( n ( p A f s (]
+[DELETED:  a t t ( ( ( o t ( ( ( ( a ( a p ( s ( o ( t a ( t e f o c a R ( s h]
+[DELETED:  ( p ( o t a s d e m f t e e t ( y o a o ( s o e h c o o s f a s T t a r o l b d b d r f o o m u U c d d c ( ( o ( m ( r h f ( d c r ( w ( ( t (]
+[DELETED:  t p a m e f ( c c ( h ( w i ( ( ( D T c r c s a r o ( ( ( o s g ( l c ( o q p ( m i b n l t a c p s m f]
+[DELETED:  g ( e o t z m o w a a f d m t z r ( ( f u t ( ( H h A r f f a o c w h b i a ( ( ( H o A a c c o f g b a r c ( H O o m p l t i a s u w c t p a s o f w t d u T t “ u i s s f ( ( s n N ( I z T p w t l a m g a d s ( I F a s n t s r c i (]
+[DELETED:  ( ( r ( s p ( w ( u ( a ( w ( h ( a ( s s ( t e ( b ( h ( s ( a l (]
+[DELETED:  d i l b c t t r u a i t p h a a e t m a o t U S C a e t s t s n i a s r ( ( ( o o t t ( e t ( n t ( w r o o d d ( o d]
+[DELETED:  a ( u ( d ( a w ( ( a s ( t w ( a ( o ( b e ( o ( S l o r A l l e a t t o a o a o ( t U t ( o ( V P t d f t l r o a z]
+[DELETED:  o t a ( w s z ( z ( ( ( ( r c i ( d t ( t o t p c ( w Z u d i b a n l t a c i i c 4 ( T z o s p a l o a l u a p s f u t a p w t z u d o t m T o]
+[DELETED:  l o d p ( u z ( ( ( ( b o o o a o i o a t c t m a m h o h t r t u t l b m t a t b o p ( d r ( N a o p o t c a a d u ( a 7 ( w l ( u d h (]
+[DELETED:  f m d s e t s o R I d o e m o t U S E ( d ( ( d ( t ( h ( p s ( s a w d s ( N a o p o t c f a r p e b s s r a s b c l n b n a a ( h a t (]
+[DELETED:  m l s ( d 1 z t S a 4 ( r m t a o o e c e o a a b t m c w m b i t f o a r m s a a c t S ( c t ( t t y ( U a d o a e p t t s t m t a ( g c a t s o h p i o t n a e o t e i ( e]
+[DELETED:  c t S M 4 ( o c b t r J 1 1 T c e m s f t i a c o e i c ( 2 a i o o ( U c S]
+[DELETED:  T c h w a s T]

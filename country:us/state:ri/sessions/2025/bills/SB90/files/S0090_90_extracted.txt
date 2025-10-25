@@ -1,0 +1,526 @@
+Title: Introduced By: Senators Rogers, de la Cruz, Paolino, E Morgan, and Raptakis
+Official Title: Introduced By: Senators Rogers, de la Cruz, Paolino, E Morgan, and Raptakis
+Number of Sections: 1
+Source: versions - 90
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0090
+========
+LC000361
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- MILK SANITATION CODE
+Date Introduced: January 31, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1
+2 SECTION 1. Sections 21-2-2, 21-2-3, 21-2-5, 21-2-7, 21-2-23, 21-2-29, 21-2-30, 21-2-31,
+3 21-2-32 and 21-2-44 of the General Laws in Chapter 21-2 entitled "Milk Sanitation Code" are
+4 hereby amended to read as follows:
+5 21-2-2. Declaration of policy.
+6 Milk is recognized to be one of the most perfect foods afforded by nature. It is unique in
+7 that its consumption in adequate quantities is essential to the nutritional well-being of the
+8 individual; but if its production and distribution are not properly safeguarded, it may be
+9 instrumental in the transmission of diseases infectious to people. It is declared to be the policy of
+10 the state that, for the protection of the health and welfare of the people of the state of Rhode Island,
+11 the environmental conditions surrounding the production, handling, transportation, distribution,
+12 and sale of milk and milk products shall be to protect the public health and to provide consumers
+13 with products that are identified in such a way as to promote honesty and fair dealing in the best
+14 interests of the consumers. Specifically, it is declared to be the policy of the state to provide:
+15 (1) That the people of Rhode Island shall have a supply of milk adequate to their needs and
+16 demands under all conditions.
+17 (2) That milk provided for consumers within the state of Rhode Island shall be of good
+18 quality; shall be safe for human consumption; shall contain no live bacteria capable of transmitting
+19 disease to people; shall contain adequate nutritional components; and shall be free of adulteration.
+1 (3) That milk sold or produced in Rhode Island shall come from healthy cows or goats.
+2 (4) That milk sold or produced in Rhode Island shall be produced on farms having
+3 standards and conditions of sanitation adequate to ensure production of milk that is safe and of
+4 good quality.
+5 (5) That milk sold or produced in Rhode Island shall be produced, processed, and handled
+6 by personnel free from any communicable disease.
+7 (6) That milk to be consumed in the state of Rhode Island shall, at all stages in its travel
+8 from animal to ultimate consumer, be transported in equipment and/or packages that shall be
+9 designed, filled, operated, maintained, and emptied to prevent the introduction and/or propagation
+10 of bacteria, dirt, or any other foreign substances.
+11 (7) That all milk sold in Rhode Island shall be handled and processed under conditions of
+12 good sanitation and shall be finally packaged free from contamination, dirt, or any other foreign
+13 substances and/or adulteration.
+14 (8) That all raw milk may be sold within the state of Rhode Island. shall be, except as
+15 specifically authorized by this chapter, pasteurized
+16 (9) That pasteurization of milk shall be by a recognized method of pasteurizing adequate
+17 to destroy bacteria capable of transmitting disease to people. Provided, that a physician may
+18 authorize an individual sale of goat milk directly from producer to consumer by written, signed
+19 prescription.
+20 (9)(10) That the branding or labeling of packages in which all milk sold in the state of
+21 Rhode Island shall be delivered to the consumer shall state the grade of milk packaged; may state
+22 any special attributes of the milk; and that all statements made on any packaging labels shall not be
+23 false or misleading.
+24 (10)(11) That this state shall cooperate in the preparation and promulgation of any set of
+25 standards, regulations, statutes, or other means of control of sanitation in the production,
+26 transportation, handling, processing, and distribution of milk, or any one or more of them,
+27 according to a uniform system of requirements to be adopted alike by all or a majority of the states
+28 that contribute milk to the Rhode Island market.
+29 21-2-3. Definitions.
+30 (a) “Cream” means the liquid milk product high in fat from milk, which may have been
+31 adjusted by adding to it: milk, concentrated milk, dry whole milk, skim milk, or nonfat dry milk.
+32 (b) “Director” means the director of the department of health, unless otherwise specified.
+33 (c) “Goat milk” is the lacteal secretion, practically free from colostrum, obtained by the
+34 complete milking of healthy goats. The word “milk” is interpreted to include goat milk.
+LC000361 - Page 2 of 8
+1 (d) “Grade A” means milk, cream, and products of milk and cream, that comply with the
+2 applicable provisions of regulations established by the director.
+3 (e) “Milk” means the lacteal secretion, practically free from colostrum, obtained by
+4 complete milking of one or more healthy cows. Milk that is in final package form for beverage use
+5 shall contain not less than eight and one-fourth percent (8.25%) milk solids not fat and not less than
+6 three and one-fourth percent (3.25%) milk fat. Milk may have been adjusted by separating part of
+7 the milk fat from it or by adding cream, concentrated milk, dry whole milk, skim milk, concentrated
+8 skim milk, or nonfat dry milk to it. The milk may be homogenized.
+9 (f) "Raw milk" means milk that is neither pasteurized nor homogenized and comes directly
+10 from a cow.
+11 (f)(g) “Raw milk for pasteurization” means grade “A” milk for pasteurization and raw
+12 products of milk that comply with the sanitary standards for their production, transportation,
+13 receiving, handling, storage, processing, distribution, and sale as established by the director.
+14 (g)(h) “Raw milk cheese” means any cheese manufactured from raw milk that meets United
+15 States food and drug administration (USFDA) standards for cheeses set forth in 21 C.F.R. 133 and
+16 has not undergone the process of pasteurization and that contains, as appropriate for the cheese,
+17 generally recognized as safe (GRAS) and suitable ingredients as defined in 21 C.F.R. 184.
+18 21-2-5. Analysis of raw milk by private milk laboratories.
+19 (a) Each milk plant engaged in processing milk shall, at least once in each calendar month,
+20 either through its own agents or through its milk haulers, collect, preserve, and submit to a private
+21 milk laboratory for analysis a sample or samples of the milk of each producer supplying milk to
+22 the milk plant. The laboratory shall determine the bacterial counts of the sample, both as raw milk
+23 and after pasteurization in the laboratory, the determination to be made by the standard plate count
+24 method, as well as a determination for any harmful substances that the director may by regulation
+25 require, and shall keep a record of these findings for a period of not less than one year following
+26 the findings which shall be open to inspection by the director or any milk inspector. The laboratory
+27 shall make a report to the milk plant submitting the sample with respect to each determination.
+28 (b) The director may by regulation require any milk plant to submit samples of milk after
+29 pasteurization in the plant to a private laboratory for analysis for the purpose of ascertaining
+30 bacterial counts or the presence of harmful substances or organisms as the director may require,
+31 and the laboratory shall make its reports on its analysis available to the director in the same manner
+32 as with respect to samples of raw milk submitted by producers.
+33 (c) Regulations promulgated by the director pursuant to this section requiring sampling by
+34 a private milk laboratory shall not impose an unreasonable burden on milk plants. The director may
+LC000361 - Page 3 of 8
+1 in his or her discretion engage private laboratories to perform any additional tests that he or she
+2 may require in the event the expense of the tests constitutes an unreasonable burden on milk plants.
+3 The director may by regulation require producers of raw milk and raw milk cheese to submit
+4 samples of unpasteurized milk for said analysis.
+5 21-2-7. Permits.
+6 (a) It shall be unlawful for any milk producer whose dairy farm is located wholly or partly
+7 in this state to sell or to offer to sell milk, raw milk, or milk products or to have milk stored for sale
+8 who does not possess at all times a Rhode Island producer’s permit from the director.
+9 (b) It shall be unlawful for any milk hauler to transport any milk or milk products to any
+10 milk plant in the state of Rhode Island or to transport any milk or raw milk in this state destined for
+11 sale in this state unless he or she shall at all times possess a Rhode Island milk hauler’s permit from
+12 the director.
+13 (c) It shall be unlawful for any person to operate a milk plant in the state of Rhode Island
+14 who does not possess a Rhode Island milk plant permit from the director with respect to each plant
+15 located in Rhode Island.
+16 (d) It shall be unlawful for any milk distributor to sell or offer to sell milk, raw milk, or
+17 milk products, including raw milk cheese, within the state of Rhode Island unless he or she shall at
+18 all times possess a milk distributor’s permit from the director.
+19 (e) It shall be unlawful for any milk hauler to transport any milk, raw milk, or milk products
+20 from any point outside the state into the state of Rhode Island for sale or processing in this state or
+21 for any milk plant located in Rhode Island to process any milk or milk products which come from
+22 any point outside the state of Rhode Island or for any milk distributor to sell any milk or milk
+23 products within this state which come from any point outside this state, unless:
+24 (1) Every producer who produces any part of the milk, raw milk, or milk products shall
+25 have been inspected and shall from time to time be inspected with the same minimum frequency,
+26 to the same degree, and according to the same requirements as provided in this chapter or any
+27 regulations promulgated under this chapter in the case of Rhode Island producers;
+28 (2) Every vehicle in which the milk or raw milk is transported to the plant where processed
+29 shall from time to time be inspected with the same minimum frequency, to the same degree, and
+30 according to the same requirements as provided in this chapter or any regulations promulgated
+31 pursuant to this chapter in the case of Rhode Island milk hauler permittees; and
+32 (3) The operator of each milk plant located outside the state of Rhode Island where any
+33 part of the milk is processed at all times possesses an out-of-state milk plant permit from the
+34 director.
+LC000361 - Page 4 of 8
+1 (f) It shall be unlawful for any person located in the state of Rhode Island to sell or offer
+2 for sale to any milk hauler or milk plant, or for any milk plant to pasteurize any raw milk for
+3 pasteurization, any part of which shall be used for grade A pasteurized milk or for any grade A
+4 milk product, unless the person at all times is in possession of a Rhode Island grade A producer’s
+5 permit.
+6 (g) The fees for the following permits referred to in this section shall be as set forth in §
+7 23-1-54:
+8 (1) In-state milk processors;
+9 (2) Out-of-state milk processors; and
+10 (3) Milk and raw milk distributors.
+11 (h) Milk and raw milk producers and milk haulers shall be exempt from permit fees.
+12 21-2-23. Director empowered to make regulations.
+13 (a) The director of health is authorized to promulgate any regulations that are necessary to
+14 carry into effect the provisions of this chapter, which shall include, but not be limited to, providing
+15 for: (1) standards of identity, labeling requirements, maintaining standards for milk, raw milk, and
+16 milk products sold or offered for sale in final package forms; (2) standards for the production,
+17 transportation, receiving, handling, storage, processing, distributions, and sale of raw milk, and raw
+18 milk for pasteurization and products of raw milk, including all pertinent sanitary standards and
+19 uniform minimum requirement for inspection of dairy farms, milk plants and receiving stations;
+20 and may in like manner amend, modify or repeal those rules and regulations which shall be
+21 consistent with the provisions of the Grade “A” Pasteurized Milk Ordinance 1978
+22 recommendations of the U.S. Public Health Service/Food and Drug Administration, 1983
+23 Revisions, which shall become upon the passage of this act the rules and regulations under this
+24 chapter in accordance with § 21-2-2(10).
+25 (b) The adoption and amendment of regulations in the future shall be in accordance with
+26 chapter 35 of title 42; provided, that amendments to the Grade “A” Pasteurized Milk Ordinance
+27 adopted by the interstate milk shippers conference shall become a part of the regulations under this
+28 chapter. Provided, that a person adversely affected by any regulation may, within thirty (30) days,
+29 file with the director, in writing, those objections to a regulation automatically adopted which stays
+30 the effect of the regulation. If no substantial objections are received and no hearing is requested
+31 within thirty (30) days after publication of a notice of the adoption of a regulation, it shall be
+32 effective as of the date it was adopted by the interstate milk shippers conference. When automatic
+33 adoption is stayed by a timely objection, the director, after notice, shall conduct a public hearing in
+34 accordance with the provisions of chapter 35 of title 42. The director of health is authorized to
+LC000361 - Page 5 of 8
+1 adopt any other regulations for milk, raw milk, and other related products that he or she deems
+2 necessary in accordance with authority granted under this chapter, chapters 27 and 31 of this title
+3 and § 23-1-18(5).
+4 (c) The director shall publish a notice of the adoption in a newspaper having general
+5 circulation throughout the state.
+6 21-2-29. Standards to be maintained.
+7 All milk, raw milk, and milk products as defined in this chapter which are to be shipped,
+8 brought, carried, or transported into Rhode Island for sale, distribution, use, or processing in this
+9 state, shall come from animals that are of a substantially equal or higher health status as applied to
+10 brucellosis, tuberculosis, or other diseases as those animals located within Rhode Island from which
+11 milk is produced for sale, distribution, use, or processing.
+12 21-2-30. Information to be furnished to director.
+13 Every person engaged in the business of producing, handling, transporting, processing,
+14 packaging, selling, or distributing milk and raw milk, in Rhode Island shall upon request furnish
+15 the director, whenever requested by the director, the following information: (1) full name and place
+16 of business; (2) number of quarts of milk handled weekly by him or her or it; and (3) the names
+17 and addresses of all producers, milk haulers or milk plants supplying milk to him or her. Every
+18 milk plant holding a Rhode Island milk plant permit shall report coincidentally with and by means
+19 of a copy of any report which he or she makes, or is required to make, to the federal milk marketing
+20 administrator whenever he or she shall have added or dropped a milk producer.
+21 21-2-31. Labeling of containers of milk and milk products.
+22 (a) All containers in or from which milk, raw milk, or milk products are sold or offered for
+23 sale shall bear a label in accordance with regulations adopted under this chapter.
+24 (b) All labels or marks shall be displayed in the manner and include any matters as shall be
+25 prescribed by the rules and regulations of the director; provided, nothing contained in this section
+26 shall be construed to empower the director to disapprove of or to change any dealer from using the
+27 common name of his or her firm, or of any registered trademark, brand, or trade name customarily
+28 used by him or her in the identification of any or all of his or her products.
+29 (c) Samples of all labels or marks to be used on containers of milk, raw milk, or milk
+30 products shall be submitted for approval as to color, size of lettering, and matter. No misleading
+31 mark or words shall be placed on any container of milk, raw milk, or milk products. The cap or
+32 cover of all containers of milk, raw milk, or milk products must cover the pouring lip to at least its
+33 largest diameter.
+34 21-2-32. Labeling as to breed of cows.
+LC000361 - Page 6 of 8
+1 (a) The labels of milk or raw milk containers may carry in addition to one of the above
+2 grade names, but set apart from those grade names, the name of the breed of cows producing the
+3 milk and raw milk or the registered trade name or trademark for the breed; provided containers so
+4 labeled contain only milk produced from the breed named.
+5 (b) The label of milk and raw milk product containers may carry in addition to one of the
+6 terms defined in § 21-2-31 which correctly describes the contents, but set apart from that term, the
+7 name of the breed of cows producing the milk from which the milk product was derived, or the
+8 registered trade name or trademark for the breed; provided that containers so labeled contain only
+9 a milk product derived from milk produced from the breed named.
+10 21-2-44. State statutory provisions and rules paramount to local.
+11 Whenever there is any provision of this chapter or any other statute defining a particular
+12 kind, type, or grade of milk, raw milk, or milk product or setting forth requirements as to the
+13 chemical or bacteriological components, standards, or requirements for that kind, type, or grade of
+14 milk, raw milk, or milk product, or specifying standards or methods for the processing, treatment,
+15 or packaging or labeling of the milk, raw milk, or milk product, or when the director shall have
+16 lawfully established a definition or requirements by regulation, the provisions of that chapter,
+17 statute, or regulation shall supersede any definition or requirements for it which may be contained
+18 in any city or town ordinance or in the regulations of any city or town office or department, whether
+19 made under a statute or an ordinance.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000361
+========
+LC000361 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- MILK SANITATION CODE
+***
+1 This act would permit, legalize and regulate the sale of raw milk.
+2 This act would take effect upon passage.
+========
+LC000361
+========
+LC000361 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND  S 2 h 2 M t i c i a q i e t t n w o t i b i i p a d a n p s i m b i t t a w i ( d ( q d]
+[DELETED:  ( ( T m s o p i R I s b p o f h s g ( b ( f d o ( g s ( s ( t d b c o t d t p P t a p m a p ( R a f ( s r s o o m o c o s i t p t h p a d o m o a o o m o t a t 2 ( a ( ( c]
+[DELETED:  ( a ( “ m t l s p f f c o b c s t t s ( f ( p o m t c w t s s f t p t r ( S h g 2 ( e m t a m r t s ( p b a a ( a]
+[DELETED:  i m T s 2 ( i w ( m s t ( w l ( m a ( f f a p ( h t r ( s a p ( p d]
+[DELETED:  ( f p m p ( 2 ( ( ( ( 2 ( c f m t m u a m i l m a m o r t r a s b c w t p o t G “ P M O 1 r o t U P H S a D A 1 R c ( c a c f t w e a a]
+[DELETED:  a n a ( c 2 A b s b m 2 E p t o a m o a 2 ( s ( p s c u ( p m c l 2]
+[DELETED:  ( g m l ( t n r a 2 W k c m o l s i m S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0090
+========
+LC000361
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- MILK SANITATION CODE
+Introduced By: Senators Rogers, de la Cruz, Paolino, E Morgan, and Raptakis
+Date Introduced: January 31, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1
+2 SECTION 1. Sections 21-2-2, 21-2-3, 21-2-5, 21-2-7, 21-2-23, 21-2-29, 21-2-30, 21-2-31,
+3 21-2-32 and 21-2-44 of the General Laws in Chapter 21-2 entitled "Milk Sanitation Code" are
+4 hereby amended to read as follows:
+5 21-2-2. Declaration of policy.
+6 Milk is recognized to be one of the most perfect foods afforded by nature. It is unique in
+7 that its consumption in adequate quantities is essential to the nutritional well-being of the
+8 individual; but if its production and distribution are not properly safeguarded, it may be
+9 instrumental in the transmission of diseases infectious to people. It is declared to be the policy of
+10 the state that, for the protection of the health and welfare of the people of the state of Rhode Island,
+11 the environmental conditions surrounding the production, handling, transportation, distribution,
+12 and sale of milk and milk products shall be to protect the public health and to provide consumers
+13 with products that are identified in such a way as to promote honesty and fair dealing in the best
+14 interests of the consumers. Specifically, it is declared to be the policy of the state to provide:
+15 (1) That the people of Rhode Island shall have a supply of milk adequate to their needs and
+16 demands under all conditions.
+17 (2) That milk provided for consumers within the state of Rhode Island shall be of good
+18 quality; shall be safe for human consumption; shall contain no live bacteria capable of transmitting
+19 disease to people; shall contain adequate nutritional components; and shall be free of adulteration.
+
+1 (3) That milk sold or produced in Rhode Island shall come from healthy cows or goats.
+2 (4) That milk sold or produced in Rhode Island shall be produced on farms having
+3 standards and conditions of sanitation adequate to ensure production of milk that is safe and of
+4 good quality.
+5 (5) That milk sold or produced in Rhode Island shall be produced, processed, and handled
+6 by personnel free from any communicable disease.
+7 (6) That milk to be consumed in the state of Rhode Island shall, at all stages in its travel
+8 from animal to ultimate consumer, be transported in equipment and/or packages that shall be
+9 designed, filled, operated, maintained, and emptied to prevent the introduction and/or propagation
+10 of bacteria, dirt, or any other foreign substances.
+11 (7) That all milk sold in Rhode Island shall be handled and processed under conditions of
+12 good sanitation and shall be finally packaged free from contamination, dirt, or any other foreign
+13 substances and/or adulteration.
+14 (8) That all raw milk may be sold within the state of Rhode Island. shall be, except as
+15 specifically authorized by this chapter, pasteurized
+16 (9) That pasteurization of milk shall be by a recognized method of pasteurizing adequate
+17 to destroy bacteria capable of transmitting disease to people. Provided, that a physician may
+18 authorize an individual sale of goat milk directly from producer to consumer by written, signed
+19 prescription.
+20 (9)(10) That the branding or labeling of packages in which all milk sold in the state of
+21 Rhode Island shall be delivered to the consumer shall state the grade of milk packaged; may state
+22 any special attributes of the milk; and that all statements made on any packaging labels shall not be
+23 false or misleading.
+24 (10)(11) That this state shall cooperate in the preparation and promulgation of any set of
+25 standards, regulations, statutes, or other means of control of sanitation in the production,
+26 transportation, handling, processing, and distribution of milk, or any one or more of them,
+27 according to a uniform system of requirements to be adopted alike by all or a majority of the states
+28 that contribute milk to the Rhode Island market.
+29 21-2-3. Definitions.
+30 (a) “Cream” means the liquid milk product high in fat from milk, which may have been
+31 adjusted by adding to it: milk, concentrated milk, dry whole milk, skim milk, or nonfat dry milk.
+32 (b) “Director” means the director of the department of health, unless otherwise specified.
+33 (c) “Goat milk” is the lacteal secretion, practically free from colostrum, obtained by the
+34 complete milking of healthy goats. The word “milk” is interpreted to include goat milk.
+LC000361 - Page 2 of 8
+
+1 (d) “Grade A” means milk, cream, and products of milk and cream, that comply with the
+2 applicable provisions of regulations established by the director.
+3 (e) “Milk” means the lacteal secretion, practically free from colostrum, obtained by
+4 complete milking of one or more healthy cows. Milk that is in final package form for beverage use
+5 shall contain not less than eight and one-fourth percent (8.25%) milk solids not fat and not less than
+6 three and one-fourth percent (3.25%) milk fat. Milk may have been adjusted by separating part of
+7 the milk fat from it or by adding cream, concentrated milk, dry whole milk, skim milk, concentrated
+8 skim milk, or nonfat dry milk to it. The milk may be homogenized.
+9 (f) "Raw milk" means milk that is neither pasteurized nor homogenized and comes directly
+10 from a cow.
+11 (f)(g) “Raw milk for pasteurization” means grade “A” milk for pasteurization and raw
+12 products of milk that comply with the sanitary standards for their production, transportation,
+13 receiving, handling, storage, processing, distribution, and sale as established by the director.
+14 (g)(h) “Raw milk cheese” means any cheese manufactured from raw milk that meets United
+15 States food and drug administration (USFDA) standards for cheeses set forth in 21 C.F.R. 133 and
+16 has not undergone the process of pasteurization and that contains, as appropriate for the cheese,
+17 generally recognized as safe (GRAS) and suitable ingredients as defined in 21 C.F.R. 184.
+18 21-2-5. Analysis of raw milk by private milk laboratories.
+19 (a) Each milk plant engaged in processing milk shall, at least once in each calendar month,
+20 either through its own agents or through its milk haulers, collect, preserve, and submit to a private
+21 milk laboratory for analysis a sample or samples of the milk of each producer supplying milk to
+22 the milk plant. The laboratory shall determine the bacterial counts of the sample, both as raw milk
+23 and after pasteurization in the laboratory, the determination to be made by the standard plate count
+24 method, as well as a determination for any harmful substances that the director may by regulation
+25 require, and shall keep a record of these findings for a period of not less than one year following
+26 the findings which shall be open to inspection by the director or any milk inspector. The laboratory
+27 shall make a report to the milk plant submitting the sample with respect to each determination.
+28 (b) The director may by regulation require any milk plant to submit samples of milk after
+29 pasteurization in the plant to a private laboratory for analysis for the purpose of ascertaining
+30 bacterial counts or the presence of harmful substances or organisms as the director may require,
+31 and the laboratory shall make its reports on its analysis available to the director in the same manner
+32 as with respect to samples of raw milk submitted by producers.
+33 (c) Regulations promulgated by the director pursuant to this section requiring sampling by
+34 a private milk laboratory shall not impose an unreasonable burden on milk plants. The director may
+LC000361 - Page 3 of 8
+
+1 in his or her discretion engage private laboratories to perform any additional tests that he or she
+2 may require in the event the expense of the tests constitutes an unreasonable burden on milk plants.
+3 The director may by regulation require producers of raw milk and raw milk cheese to submit
+4 samples of unpasteurized milk for said analysis.
+5 21-2-7. Permits.
+6 (a) It shall be unlawful for any milk producer whose dairy farm is located wholly or partly
+7 in this state to sell or to offer to sell milk, raw milk, or milk products or to have milk stored for sale
+8 who does not possess at all times a Rhode Island producer’s permit from the director.
+9 (b) It shall be unlawful for any milk hauler to transport any milk or milk products to any
+10 milk plant in the state of Rhode Island or to transport any milk or raw milk in this state destined for
+11 sale in this state unless he or she shall at all times possess a Rhode Island milk hauler’s permit from
+12 the director.
+13 (c) It shall be unlawful for any person to operate a milk plant in the state of Rhode Island
+14 who does not possess a Rhode Island milk plant permit from the director with respect to each plant
+15 located in Rhode Island.
+16 (d) It shall be unlawful for any milk distributor to sell or offer to sell milk, raw milk, or
+17 milk products, including raw milk cheese, within the state of Rhode Island unless he or she shall at
+18 all times possess a milk distributor’s permit from the director.
+19 (e) It shall be unlawful for any milk hauler to transport any milk, raw milk, or milk products
+20 from any point outside the state into the state of Rhode Island for sale or processing in this state or
+21 for any milk plant located in Rhode Island to process any milk or milk products which come from
+22 any point outside the state of Rhode Island or for any milk distributor to sell any milk or milk
+23 products within this state which come from any point outside this state, unless:
+24 (1) Every producer who produces any part of the milk, raw milk, or milk products shall
+25 have been inspected and shall from time to time be inspected with the same minimum frequency,
+26 to the same degree, and according to the same requirements as provided in this chapter or any
+27 regulations promulgated under this chapter in the case of Rhode Island producers;
+28 (2) Every vehicle in which the milk or raw milk is transported to the plant where processed
+29 shall from time to time be inspected with the same minimum frequency, to the same degree, and
+30 according to the same requirements as provided in this chapter or any regulations promulgated
+31 pursuant to this chapter in the case of Rhode Island milk hauler permittees; and
+32 (3) The operator of each milk plant located outside the state of Rhode Island where any
+33 part of the milk is processed at all times possesses an out-of-state milk plant permit from the
+34 director.
+LC000361 - Page 4 of 8
+
+1 (f) It shall be unlawful for any person located in the state of Rhode Island to sell or offer
+2 for sale to any milk hauler or milk plant, or for any milk plant to pasteurize any raw milk for
+3 pasteurization, any part of which shall be used for grade A pasteurized milk or for any grade A
+4 milk product, unless the person at all times is in possession of a Rhode Island grade A producer’s
+5 permit.
+6 (g) The fees for the following permits referred to in this section shall be as set forth in §
+7 23-1-54:
+8 (1) In-state milk processors;
+9 (2) Out-of-state milk processors; and
+10 (3) Milk and raw milk distributors.
+11 (h) Milk and raw milk producers and milk haulers shall be exempt from permit fees.
+12 21-2-23. Director empowered to make regulations.
+13 (a) The director of health is authorized to promulgate any regulations that are necessary to
+14 carry into effect the provisions of this chapter, which shall include, but not be limited to, providing
+15 for: (1) standards of identity, labeling requirements, maintaining standards for milk, raw milk, and
+16 milk products sold or offered for sale in final package forms; (2) standards for the production,
+17 transportation, receiving, handling, storage, processing, distributions, and sale of raw milk, and raw
+18 milk for pasteurization and products of raw milk, including all pertinent sanitary standards and
+19 uniform minimum requirement for inspection of dairy farms, milk plants and receiving stations;
+20 and may in like manner amend, modify or repeal those rules and regulations which shall be
+21 consistent with the provisions of the Grade “A” Pasteurized Milk Ordinance 1978
+22 recommendations of the U.S. Public Health Service/Food and Drug Administration, 1983
+23 Revisions, which shall become upon the passage of this act the rules and regulations under this
+24 chapter in accordance with § 21-2-2(10).
+25 (b) The adoption and amendment of regulations in the future shall be in accordance with
+26 chapter 35 of title 42; provided, that amendments to the Grade “A” Pasteurized Milk Ordinance
+27 adopted by the interstate milk shippers conference shall become a part of the regulations under this
+28 chapter. Provided, that a person adversely affected by any regulation may, within thirty (30) days,
+29 file with the director, in writing, those objections to a regulation automatically adopted which stays
+30 the effect of the regulation. If no substantial objections are received and no hearing is requested
+31 within thirty (30) days after publication of a notice of the adoption of a regulation, it shall be
+32 effective as of the date it was adopted by the interstate milk shippers conference. When automatic
+33 adoption is stayed by a timely objection, the director, after notice, shall conduct a public hearing in
+34 accordance with the provisions of chapter 35 of title 42. The director of health is authorized to
+LC000361 - Page 5 of 8
+
+1 adopt any other regulations for milk, raw milk, and other related products that he or she deems
+2 necessary in accordance with authority granted under this chapter, chapters 27 and 31 of this title
+3 and § 23-1-18(5).
+4 (c) The director shall publish a notice of the adoption in a newspaper having general
+5 circulation throughout the state.
+6 21-2-29. Standards to be maintained.
+7 All milk, raw milk, and milk products as defined in this chapter which are to be shipped,
+8 brought, carried, or transported into Rhode Island for sale, distribution, use, or processing in this
+9 state, shall come from animals that are of a substantially equal or higher health status as applied to
+10 brucellosis, tuberculosis, or other diseases as those animals located within Rhode Island from which
+11 milk is produced for sale, distribution, use, or processing.
+12 21-2-30. Information to be furnished to director.
+13 Every person engaged in the business of producing, handling, transporting, processing,
+14 packaging, selling, or distributing milk and raw milk, in Rhode Island shall upon request furnish
+15 the director, whenever requested by the director, the following information: (1) full name and place
+16 of business; (2) number of quarts of milk handled weekly by him or her or it; and (3) the names
+17 and addresses of all producers, milk haulers or milk plants supplying milk to him or her. Every
+18 milk plant holding a Rhode Island milk plant permit shall report coincidentally with and by means
+19 of a copy of any report which he or she makes, or is required to make, to the federal milk marketing
+20 administrator whenever he or she shall have added or dropped a milk producer.
+21 21-2-31. Labeling of containers of milk and milk products.
+22 (a) All containers in or from which milk, raw milk, or milk products are sold or offered for
+23 sale shall bear a label in accordance with regulations adopted under this chapter.
+24 (b) All labels or marks shall be displayed in the manner and include any matters as shall be
+25 prescribed by the rules and regulations of the director; provided, nothing contained in this section
+26 shall be construed to empower the director to disapprove of or to change any dealer from using the
+27 common name of his or her firm, or of any registered trademark, brand, or trade name customarily
+28 used by him or her in the identification of any or all of his or her products.
+29 (c) Samples of all labels or marks to be used on containers of milk, raw milk, or milk
+30 products shall be submitted for approval as to color, size of lettering, and matter. No misleading
+31 mark or words shall be placed on any container of milk, raw milk, or milk products. The cap or
+32 cover of all containers of milk, raw milk, or milk products must cover the pouring lip to at least its
+33 largest diameter.
+34 21-2-32. Labeling as to breed of cows.
+LC000361 - Page 6 of 8
+
+1 (a) The labels of milk or raw milk containers may carry in addition to one of the above
+2 grade names, but set apart from those grade names, the name of the breed of cows producing the
+3 milk and raw milk or the registered trade name or trademark for the breed; provided containers so
+4 labeled contain only milk produced from the breed named.
+5 (b) The label of milk and raw milk product containers may carry in addition to one of the
+6 terms defined in § 21-2-31 which correctly describes the contents, but set apart from that term, the
+7 name of the breed of cows producing the milk from which the milk product was derived, or the
+8 registered trade name or trademark for the breed; provided that containers so labeled contain only
+9 a milk product derived from milk produced from the breed named.
+10 21-2-44. State statutory provisions and rules paramount to local.
+11 Whenever there is any provision of this chapter or any other statute defining a particular
+12 kind, type, or grade of milk, raw milk, or milk product or setting forth requirements as to the
+13 chemical or bacteriological components, standards, or requirements for that kind, type, or grade of
+14 milk, raw milk, or milk product, or specifying standards or methods for the processing, treatment,
+15 or packaging or labeling of the milk, raw milk, or milk product, or when the director shall have
+16 lawfully established a definition or requirements by regulation, the provisions of that chapter,
+17 statute, or regulation shall supersede any definition or requirements for it which may be contained
+18 in any city or town ordinance or in the regulations of any city or town office or department, whether
+19 made under a statute or an ordinance.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000361
+========
+LC000361 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- MILK SANITATION CODE
+***
+1 This act would permit, legalize and regulate the sale of raw milk.
+2 This act would take effect upon passage.
+========
+LC000361
+========
+LC000361 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND  S 2 h 2 M t i c i a q i e t t n w o t i b i i p a d a n p s i m b i t t a w i ( d ( q d]
+[DELETED:  ( ( T m s o p i R I s b p o f h s g ( b ( f d o ( g s ( s ( t d b c o t d t p P t a p m a p ( R a f ( s r s o o m o c o s i t p t h p a d o m o a o o m o t a t 2 ( a ( ( c]
+[DELETED:  ( a ( “ m t l s p f f c o b c s t t s ( f ( p o m t c w t s s f t p t r ( S h g 2 ( e m t a m r t s ( p b a a ( a]
+[DELETED:  i m T s 2 ( i w ( m s t ( w l ( m a ( f f a p ( h t r ( s a p ( p d]
+[DELETED:  ( f p m p ( 2 ( ( ( ( 2 ( c f m t m u a m i l m a m o r t r a s b c w t p o t G “ P M O 1 r o t U P H S a D A 1 R c ( c a c f t w e a a]
+[DELETED:  a n a ( c 2 A b s b m 2 E p t o a m o a 2 ( s ( p s c u ( p m c l 2]
+[DELETED:  ( g m l ( t n r a 2 W k c m o l s i m S]
+[DELETED:  T T]

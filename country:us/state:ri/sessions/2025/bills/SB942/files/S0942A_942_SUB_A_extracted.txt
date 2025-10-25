@@ -1,0 +1,1009 @@
+Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Official Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Number of Sections: 1
+Source: versions - 942  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0942 SUBSTITUTE A
+========
+LC002682/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Bissaillon, Burke, Mack, Gu, DiMario, and LaMountain
+Date Introduced: April 04, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-5-12, 44-5-15, 44-5-16, 44-5-17, 44-5-26 and 44-5-30 of the
+2 General Laws in Chapter 44-5 entitled "Levy and Assessment of Local Taxes" are hereby amended
+3 to read as follows:
+4 44-5-12. Assessment at full and fair cash value.
+5 (a) All real property subject to taxation shall be assessed at its full and fair cash value, as
+6 of December 31 in the year of the last update or revaluation, statistical revaluation or update thereto,
+7 or at a uniform percentage thereof, not to exceed one hundred percent (100%), with such value to
+8 be determined by the assessors in each town or city; provided, that. There shall be no adjustment
+9 to an assessment because of an increase or decrease in such value as a result of market forces in
+10 years when there is no revaluation, statistical revaluation or update thereto. It is further provided
+11 that:
+12 (1) Any residential property encumbered by a covenant recorded in the land records in
+13 favor of a governmental unit or the Rhode Island housing and mortgage finance corporation
+14 restricting either or both the rents that may be charged or the incomes of the occupants shall be
+15 assessed and taxed in accordance with § 44-5-13.11;
+16 (2) In assessing real estate that is classified as farmland, forest, or open space land in
+17 accordance with chapter 27 of this title, the assessors shall consider no factors in determining the
+18 full and fair cash value of the real estate other than those that relate to that use without regard to
+19 neighborhood land use of a more intensive nature;
+1 (3) Warwick. The city council of the city of Warwick is authorized to provide, by
+2 ordinance, that the owner of any dwelling of one to three (3) family units in the city of Warwick
+3 who makes any improvements or additions on his or her principal place of residence in the amount
+4 up to fifteen thousand dollars ($15,000), as may be determined by the tax assessor of the city of
+5 Warwick, is exempt from reassessment of property taxes on the improvement or addition until the
+6 next general citywide reevaluation of property values by the tax assessor. For the purposes of this
+7 section, “residence” is defined as voting address. This exemption does not apply to any commercial
+8 structure. The property owner shall supply all necessary plans to the building official for the
+9 improvements or addition and shall pay all requisite building and other permitting fees as now are
+10 required by law; and
+11 (4) Central Falls. The city council of the city of Central Falls is authorized to provide, by
+12 ordinance, that the owner of any dwelling of one to eight (8) units who makes any improvements
+13 or additions to his or her residential or rental property in an amount not to exceed twenty-five
+14 thousand dollars ($25,000), as determined by the tax assessor of the city of Central Falls, is exempt
+15 from reassessment of property taxes on the improvement or addition until the next general citywide
+16 reevaluation of property values by the tax assessor. The property owner shall supply all necessary
+17 plans to the building official for the improvements or additions and shall pay all requisite building
+18 and other permitting fees as are now required by law.
+19 (5) Tangible property shall be assessed according to the asset classification table as defined
+20 in § 44-5-12.1. Renewable energy resources shall only be taxed as tangible property under § 44-5-
+21 3(c) and the real property on which they are located shall not be reclassified, revalued, or reassessed
+22 due to the presence of renewable energy resources, excepting only reclassification of farmland as
+23 addressed in § 44-27-10.1. Subject to the aforementioned exception for farmland, all assessments
+24 of real property with renewable energy resources thereon shall revert to the last assessed value
+25 immediately prior to the renewable developer’s purchasing, leasing, securing an option to purchase
+26 or lease, or otherwise acquiring any interest in the real property. However, notwithstanding the
+27 above, but without any limitation on taxpayer rights under § 44-5-26, no municipality shall be liable
+28 or otherwise responsible for any rebates, refunds, or any other reimbursements for taxes previously
+29 collected for real property with renewable energy resources thereupon.
+30 (6) Provided, however, that, for taxes levied after December 31, 2015, new construction on
+31 development property is exempt from the assessment of taxes under this chapter at the full and fair
+32 cash value of the improvements, as long as:
+33 (i) An owner of development property files an affidavit claiming the exemption with the
+34 local tax assessor by December 31 each year; and
+LC002682/SUB A - Page 2 of 15
+1 (ii) The assessor shall then determine if the real property on which new construction is
+2 located is development property. If the real property is development property, the assessor shall
+3 exempt the new construction located on that development property from the collection of taxes on
+4 improvements, until such time as the real property no longer qualifies as development property, as
+5 defined herein.
+6 For the purposes of this section, “development property” means: (A) Real property on
+7 which a single-family residential dwelling or residential condominium is situated and said single-
+8 family residential dwelling or residential condominium unit is not occupied, has never been
+9 occupied, is not under contract, and is on the market for sale; or (B) Improvements and/or
+10 rehabilitation of single-family residential dwellings or residential condominiums that the owner of
+11 such development property purchased out of a foreclosure sale, auction, or from a bank, and which
+12 property is not occupied. Such property described in subsection (a)(6)(ii) of this section shall
+13 continue to be taxed at the assessed value at the time of purchase until such time as such property
+14 is sold or occupied and no longer qualifies as development property. As to residential
+15 condominiums, this exemption shall not affect taxes on the common areas and facilities as set forth
+16 in § 34-36-27. In no circumstance shall such designation as development property extend beyond
+17 two (2) tax years and a qualification as a development property shall only apply to property that
+18 applies for, or receives, construction permits after July 1, 2015. Further, the exemptions set forth
+19 in this section shall not apply to land.
+20 (b) Municipalities shall make available to every land owner whose property is taxed under
+21 the provisions of this section a document that may be signed before a notary public containing
+22 language to the effect that they are aware of the additional taxes imposed by the provisions of § 44-
+23 5-39 in the event that they use land classified as farm, forest, or open space land for another purpose.
+24 (c) Pursuant to the provisions of § 44-3-29.1, all wholesale and retail inventory subject to
+25 taxation is assessed at its full and fair cash value, or at a uniform percentage of its value, not to
+26 exceed one hundred percent (100%), for fiscal year 1999, by the assessors in each town and city.
+27 Once the fiscal year 1999 value of the inventory has been assessed, this value shall not increase.
+28 The phase-out rate schedule established in § 44-3-29.1(d) applies to this fixed value in each year
+29 of the phase out.
+30 44-5-15. Notice of assessors’ meetings — Notice by taxpayer of intent to bring in
+31 account. Notice by taxpayer of intent to bring in account for tangible personal property.
+32 (a) Before assessing any valuations of tangible personal property, the assessors of all the
+33 cities and towns shall cause printed notices of the time and place of their respective meetings of the
+34 requirement to file an account required by subsection (b) to be posted in four (4) public places in
+LC002682/SUB A - Page 3 of 15
+1 their respective city or town, for three (3) weeks next preceding the time of their meeting in the
+2 month of December immediately preceding the tax year, and shall advertise in a newspaper with a
+3 statewide circulation jointly, at least once a week for the same space of time. The cost of said
+4 advertisement shall be shared equally among all of the cities and towns.
+5 (b) The notices shall require that every person and body corporate liable to taxation of
+6 tangible personal property shall be required to bring in to the assessors at the time they may
+7 prescribe a true and exact account of all the ratable estate tangible personal property owned or
+8 possessed by that person or body, describing and specifying the value of every parcel of the real
+9 estate as of December 31 in the year of the last update or revaluation and personal estate tangible
+10 personal property as of December 31 of immediately preceding the tax year, together with the
+11 additional information that may be prescribed by the assessors relative to the ratable estate tangible
+12 personal property as may be contained in any corporation or inheritance tax return filed with the
+13 state by the person within the year preceding the date of assessment next prior to the bringing in of
+14 the account.
+15 (c) Said accounts must be filed with the assessor’s office in the city or town where the
+16 property is located between January 2 and January 31 of each year, during regular business hours
+17 (excluding weekends and holidays).
+18 (d) If any person or body corporate liable to taxation files with the assessors, on or before
+19 January 31 next following the date of assessment, a written notice of that person’s or that body’s
+20 intention to bring in an account, the person or body corporate may bring in to the assessors the
+21 account at any time between March 1 and before March 15 next following the date of assessment.
+22 (e) The notice of intention to bring in an account is deemed to have been filed with the
+23 assessors if the notice is sent to them by registered or certified mail, postage prepaid, postmarked
+24 before 12:00 A.M. midnight of the last day on which the notice may be filed. The account is deemed
+25 to be brought in to the assessors if the account is sent to them by registered or certified mail, postage
+26 prepaid, postmarked before 12:00 A.M. midnight of the last day on which accounts may be brought
+27 in pursuant to the provisions of this section.
+28 (f) In case any person or body corporate fails to file any intention, that person or that body
+29 is deemed to have waived that person’s or that body’s right to file the account.
+30 (g) All matters contained within the account filing are available for review only by
+31 assessment related personnel.
+32 44-5-16. Oath to account brought in — Remedies after failure to bring in account —
+33 Effect on proration.
+34 (a) Every person bringing in any account shall make oath before some notary public or
+LC002682/SUB A - Page 4 of 15
+1 other person authorized to administer oaths in the place where the oath is administered that the
+2 account by that person exhibited contains, to the best of his or her knowledge and belief, a true and
+3 full account and valuation of all the ratable estate tangible personal property owned or possessed
+4 by him or her; and whoever neglects or refuses to bring in the account, if overtaxed, shall have no
+5 remedy therefor, except as provided in §§ 44-4-14, 44-4-15, 44-5-26 — 44-5-31, and 44-9-19 —
+6 44-9-24. In case a taxpayer is, because of illness or absence from the state, unable to make the
+7 required oath to his or her account within the time prescribed by law, the taxpayer may, in writing,
+8 appoint an agent to make oath to his or her account within the time prescribed by the assessors, and
+9 the agent shall at the time of making the oath append his or her written appointment to the account,
+10 and for all purposes in connection with the account the taxpayer is deemed to have personally made
+11 the oath.
+12 (b) No taxpayer shall be denied a right of review by means of the procedure described in
+13 this chapter: (1) of any assessment on his or her real tangible personal property by reason of any
+14 claimed inadequacies, inaccuracies, or omissions in his or her listing of tangible personal property;
+15 (2) nor in the case of his or her personal property by reason of any claimed inadequacies,
+16 inaccuracies, or omissions in his or her listing of real property; (3) nor in the case of real or personal
+17 property by reason of any claimed inadequacies, inaccuracies, or omissions, which are not
+18 substantial, in his or her listing of real or personal property, respectively.
+19 (c) Notwithstanding § 44-4-24, tangible personal property introduced into or removed from
+20 any town or city during a calendar year shall be assessed as though the property was situated in the
+21 city or town for the entire calendar year unless the taxpayer has filed an account as provided in this
+22 section specifying the date on which the property was introduced or removed.
+23 (d) Each city or town having a year of taxable ownership that measures length of ownership
+24 over the calendar year beginning immediately after the date of assessment shall adjust its year of
+25 taxable ownership so that it has a year of taxable ownership that measures length of ownership over
+26 the calendar year ending on the date of assessment.
+27 44-5-17. Assessment of property covered by account.
+28 If any person brings in an account as provided in § 44-5-15 § 44-5-15(b), the assessors
+29 shall nevertheless assess the person’s ratable estate tangible personal property at what they deem
+30 its full and fair cash value, or a uniform percentage of its value as defined in § 44-5-12.
+31 44-5-26. Petition in superior court for relief from assessment.
+32 (a) Any person aggrieved on any ground whatsoever by any assessment of taxes against
+33 him or her in any city or town, or any tenant or group of tenants, of real estate paying rent therefrom,
+34 and under obligation to pay more than one-half (½) of the taxes thereon, may within ninety (90)
+LC002682/SUB A - Page 5 of 15
+1 days from the date the first tax payment is due, on or before November 15 of each year, but not less
+2 than ninety (90) days after the first tax payment is due, file an appeal in the local office of tax
+3 assessment; provided, if the person to whom a tax on real estate is assessed chooses to file an
+4 appeal, the appeal filed by a tenant or group of tenants will be void. For the purposes of this section,
+5 the tenant(s) has the burden of proving financial responsibility to pay more than one-half (½) of the
+6 taxes. The assessor has forty-five (45) days until December 31 of that year to review the appeal
+7 appeals, render a decision decisions and notify the taxpayer taxpayers of the decision decisions.
+8 The taxpayer, if still aggrieved, may appeal the decision of the tax assessor to the local tax board
+9 of review, after the decision by the tax assessor, or in the event that the assessor does not render a
+10 decision by December 31, but not less than forty-five (45) days after the appeal was filed, or in the
+11 event that the assessor does not render a decision, the taxpayer may appeal to the local tax board of
+12 review; at the expiration of the forty-five (45) day period. Appeals provided; however, appeals to
+13 the local tax board of review are to be filed not more than thirty (30) days after the assessor renders
+14 a decision and notifies the taxpayer thereof, or if the assessor does not render a decision within
+15 forty-five (45) days of the filing of the appeal, not more than ninety (90) days after the expiration
+16 of the forty-five (45) day period by December 31, not later than January 31 of the next year. The
+17 local tax board of review shall, within ninety (90) days of the filing of the appeal, hear the appeal
+18 and render a decision within thirty (30) forty-five (45) days of the date that of the close of the
+19 hearing was held. Provided, that a city or town may request and receive an extension from the
+20 director of the Rhode Island department of revenue.
+21 (b) Appeals to the local office of tax assessment are to be on an application form which has
+22 been approved by the department of revenue in consultation with the Rhode Island League of Cities
+23 and Towns. In the event of an appeal to the local tax board of review, the taxpayer or the local
+24 office of tax assessment, upon at the request by the taxpayer, shall forward the application form to
+25 the local tax board of review within the time period set forth in this section.
+26 (c) Said application must include:
+27 (1) The applicant’s opinion of value, fair market value, class and assessed value of said
+28 property as of December 31 of the year of the last update or revaluation for real estate and as of
+29 December 31 of the tax year for tangible personal property; and
+30 (2) For income producing residential real estate of six (6) units or more, and commercial,
+31 industrial or mixed-use real estate, fifty percent (50%) or more of which real estate was leased, or
+32 was available to be leased, in an arm's length transaction during the prior year, a statement of rental
+33 income and related expenses, if any, for said real estate. Said statement of income and expenses
+34 shall cover the most recent twelve (12) month period preceding said December 31 date; provided,
+LC002682/SUB A - Page 6 of 15
+1 however, if such a statement of income and expenses is not yet available for said most recent twelve
+2 (12) month period, the statement of income and expenses covering the next most recent twelve (12)
+3 month period preceding said December 1 date shall be provided.
+4 (d) Said application form shall provide that the applicant may file a single appeal for
+5 multiple parcels of real estate if such parcels are contiguous and used as an aggregate site.
+6 (e) Said application form shall also notify applicants that any global extension granted
+7 pursuant to § 44-5-26(h) will be posted on the department of revenue, division of municipal finance
+8 website.
+9 (f) Failure to provide such statement of income and expenses shall be grounds for denial
+10 of the appeal and such taxpayer shall not have the right to petition for relief in the superior court.
+11 The application shall be in the following form:
+12 STATE OF RHODE ISLAND
+13 FISCAL YEAR _______ ____________________________
+14 Name of City or Town
+15 APPLICATION FOR APPEAL OF PROPERTY TAX
+16 For appeals to the tax assessor, this form must be filed with the local office of tax assessment
+17 within ninety (90) days from the date the first tax payment is due. For appeals to the local tax
+18 board of review, this form must be filed with the local tax board of review not more than thirty
+19 (30) days after the assessor renders a decision, or if the assessor does not render a decision within
+20 forty-five (45) days of the filing of the appeal, not more than ninety (90) days after the expiration
+21 of the forty-five (45) day period.
+22 1. TAXPAYER INFORMATION:
+23 A. Name(s) of Assessed Owner:______________________________________
+24 B. Name(s) and Status of Applicant (if other than Assessed Owner):_________
+25 ____ Subsequent Owner (Acquired Title After December 31 on __________
+26 20___________ )
+27 ____ Administrator/Executor ____ Lessee ____ Mortgagee ____ Other
+28 Specify ____
+29 C. Mailing Address and Telephone No.: __________ ( ) ____________
+30 Address Tel. No.
+31 D. Previous Assessed Value ___________ E. New Assessed Value _________
+32 2. PROPERTY IDENTIFICATION: Complete using information as it appears on
+33 tax bill.
+34 A. Tax Bill Account No.: ___ Assessed Valuation ___ Annual Tax _________
+LC002682/SUB A - Page 7 of 15
+1 B. Location: _________________________ Description: ________________
+2 No. Street Zip
+3 Real Estate Parcel Identification: Map __ Block __ Parcel __ Type___
+4 Tangible Personal
+5 C. Date Property Acquired: Purchase Price: Total cost of any improvements__
+6 What is the amount of fire insurance on building:
+7 3. REASON(S) REDUCTION SOUGHT: Check reason(s) reduction is warranted
+8 and briefly explain why it applies. Continue explanation on attachment if necessary.
+9 Overvaluation. Incorrect Usage Classification.
+10 Disproportionate Assessment. Other Specify:
+11 Applicant’s Opinion of Fair Market Value Class Assessed Value
+12 Value $ (as of December
+13 31 in the year of
+14 the last update or
+15 revaluation for
+16 real estate and
+17 as of December 31
+18 of the tax year
+19 for personal estate;)
+20 Explanation ______________________________________________________
+21 ________________________________________________________________
+22 ________________________________________________________________
+23 Have you filed a true and exact account this year with the City Assessor as required by
+24 law?
+25 Comparable Properties that support your claim:
+26 Address Sale Price Sales Date Property Type Assessed value
+27 _________________________________________________________________
+28 _________________________________________________________________
+29 _________________________________________________________________
+30 _________________________________________________________________
+31 4. SIGNATURES;
+32 SIGNATURE OF APPLICANT DATE
+33 SIGNATURE OF AUTHORIZED AGENT DATE
+34 ( )
+LC002682/SUB A - Page 8 of 15
+1 _________________________________________________________________
+2 Name of Preparer Address Tel. No.
+3 TAXPAYER INFORMATION ABOUT APPEAL PROCEDURE
+4 REASONS FOR AN APPEAL. It is the intent of the general assembly to ensure that all taxpayers
+5 in Rhode Island are treated equitably. Ensuring that taxpayers are treated fairly begins where
+6 cities and towns meet defined standards related to performing property values. All properties
+7 should be assessed in a uniform manner, and properties of equal value should be assessed the
+8 same.
+9 TO DISPUTE YOUR VALUATION OR ASSESSMENT OR CORRECT ANY OTHER
+10 BILLING PROBLEM OR ERROR THAT CAUSED YOUR TAX BILL TO BE HIGHER THAN
+11 IT SHOULD BE, YOU MUST APPEAL WITHIN NINETY (90) DAYS FROM THE DATE THE
+12 FIRST TAX PAYMENT IS DUE.
+13 You may appeal your assessment if your property is: (1) OVERVALUED (assessed value
+14 is more than the fair market value as of December 31 in the year of the last update or revaluation
+15 for real estate and as of December 31 of the tax year for personal estate for any reason, including
+16 clerical and data processing errors; (2) disproportionately assessed in comparison with other
+17 properties; (3) classified incorrectly as residential, commercial, industrial or open space, farm or
+18 forest; (4) illegal tax partially or fully exempt; (5) modified from its condition from the time of the
+19 last update or revaluation.
+20 WHO MAY FILE AN APPLICATION: You may file an application if you are (1) the
+21 assessed or subsequent (acquiring title after December 31) owner of the property; (2) the owner’s
+22 administrator or executor; (3) a tenant or group of tenants of real estate paying rent therefrom, and
+23 under obligations to pay more than one-half (½) of the taxes thereon; (4) a person owning or having
+24 an interest in or possession of the property; or (5) a mortgagee if the assessed owner has not applied.
+25 In some cases, you must pay all or a portion of the tax before you can file.
+26 WHEN AND WHERE APPLICATION MUST BE FILED. Your application must be filed
+27 with the local office of tax assessment within NINETY (90) days from the date the first tax payment
+28 is due. THESE DEADLINES CANNOT BE EXTENDED OR WAIVED BY THE ASSESSOR
+29 FOR ANY REASON. IF YOUR APPLICATION IS NOT FILED ON TIME, YOU LOSE ALL
+30 RIGHTS TO AN ABATEMENT AND THE ASSESSOR CANNOT BY LAW GRANT YOU
+31 ONE. AN APPLICATION IS FILED WHEN RECEIVED BY THE ASSESSOR’S OFFICE.
+32 PAYMENT OF TAX. Filing an application does not stay the collection of your taxes. In
+33 some cases, you must pay the tax when due to appeal the assessors disposition of your application.
+34 Failure to pay the tax assessed when due may also subject you to interest charges and collection
+LC002682/SUB A - Page 9 of 15
+1 action. To avoid any loss of rights or additional charges, you should pay the tax as assessed. If an
+2 abatement is granted and you have already paid the entire year’s tax as abated, you will receive a
+3 refund of any overpayment.
+4 FILING AN ACCOUNT. Rhode Island General Laws Section 44-5-15 requires the annual
+5 filing of a true and exact account of all ratable estate owned or possessed by every person and
+6 corporate body. The time to file is between December 31, and January 31, of intention to submit
+7 declaration by March 15. Failure to file a true and full account, within the prescribed time,
+8 eliminates the right to appeal to the superior court, subject to the exceptions provided in Rhode
+9 Island General Laws Section 44-5-26(b). No amended returns will be accepted after March 15th.
+10 Such notice of your intention must be sent by certified mail, postage prepaid, postmark no later
+11 than 12 o’clock midnight of the last day, January 31. No extensions beyond March 15th can be
+12 granted. The form for filing such account may be obtained from the city or town assessor.
+13 ASSESSOR’S DISPOSITION. Upon applying for a reduction in assessment, you may be
+14 asked to provide the assessor with further written information about the property and to permit
+15 them to inspect it. Failure to provide the information or permit an inspection within thirty (30) days
+16 of the request may result in the loss of your appeal rights.
+17 APPEAL. The assessor shall have forty-five (45) days to review the appeal, render a
+18 decision and notify the taxpayer of the decision. The taxpayer, if still aggrieved, may appeal the
+19 decision of the tax assessor to the local tax board of review, or in the event that the assessor does
+20 not render a decision, the taxpayer may appeal to the local tax board of review at the expiration of
+21 the forty-five (45) day period. Appeals to the local tax board of review shall be filed not more than
+22 thirty (30) days after the assessor renders a decision and notifies the taxpayer, or if the assessor
+23 does not render a decision within forty-five (45) days of the filing of the appeal, not more than
+24 ninety (90) days after the expiration of the forty-five (45) day period.
+25 ____________________________________________________________________
+26 DISPOSITION OF APPLICATION (ASSESSOR’S USE ONLY)
+27 GRANTED Assessed Value______________
+28 Date Sent______ Abated Value________________
+29 Date Returned______ DENIED Adjusted Value______________
+30 Assessed Tax________________
+31 On-Site Inspection DEEMED DENIED Abated Tax_____________
+32 Date Adjusted Tax________________
+33 By_________________________________________
+34 Date Voted/Deemed Denied Tax Board of Review
+LC002682/SUB A - Page 10 of 15
+1 Date Change Certificate No.
+2 Any person still aggrieved on any ground whatsoever by an assessment of taxes against
+3 him or her in any city or town may, within thirty (30) days of the tax board of review decision
+4 notice, file a petition in the superior court for the county in which the city or town lies for relief
+5 from the assessment, to which petition the assessors of taxes of the city or town in office at the time
+6 the petition is filed shall be made parties respondent, and the clerk shall thereupon issue a citation
+7 substantially in the following form:
+8 THE STATE OF RHODE ISLAND.
+9
+10 To the sheriffs of several counties, or to their deputies, Greetings: We command you to
+11 summon the assessors of taxes of the town of ________ : to wit, ________ of ________ (if to be
+12 found in your precinct) to answer the complaint of ________ of ________ on the return day hereof
+13 (said return day being the ___________ day of _____________________ A.D. 20___________)
+14 in the superior court to be holden at the county courthouse in ________ as by petition filed in court
+15 is fully set forth; and to show cause why said petition should not be granted. Hereof fail not, and
+16 make true return of this writ with your doings thereon. Witness, the seal of our superior court, at
+17 ________ this ___________ day of _____________________ in the year ___________
+18 __________, Clerk.
+19 (c)(g) Provided, that in case the If a person has not filed an a required account for tangible
+20 personal property, or filed an appeal first within with the local office of tax assessment and then
+21 the local tax board of review, that person shall not have the benefit of the remedy provided in this
+22 section and and/or in §§ 44-5-27 — 44-5-31, unless: (1) that person’s real estate has been assessed
+23 at a value in excess of the value at which it was assessed on the last preceding assessment day,
+24 whether then owned by that person or not, and has been assessed, if assessment has been made at
+25 full and fair cash value, at a value in excess of its full and fair cash value, or, if assessment has
+26 purportedly been made at a uniform percentage of full and fair cash value, at a percentage in excess
+27 of the uniform percentage; or (2) the tax assessed is illegal in whole or in part; and that person’s
+28 remedy is limited to a review of the assessment on the real estate or to relief with respect to the
+29 illegal tax, as the case may be.
+30 (h) The assessor for any city or town may request and receive from the director of the
+31 department of revenue one or more ninety (90) day global extensions of time (i.e. extensions which
+32 include all such appeals pending before the local tax board of review) to the December 31 date
+33 referenced in subsection (a) of this section. All such extensions shall be in writing and posted on
+34 the department of revenue, division of municipal finance website.
+LC002682/SUB A - Page 11 of 15
+1 (i) In the event that the local tax board of review does not hear a matter within ninety (90)
+2 days of the filing of the appeal or, after the close of the hearing does not render a written decision
+3 within forty-five (45) days of the date of the close of the hearing and there is no global extension
+4 in effect, the city or town may request and receive from the director of the department of revenue
+5 one or more extensions of time to either hear the matter and/or render a decision. The local board
+6 of review shall notify the taxpayer in the event the director of the department of revenue grants a
+7 city or town’s request for an extension to hear the taxpayer’s appeal and/or render a decision
+8 thereon. Nothing herein shall prevent the local tax board of review and the taxpayer from mutually
+9 agreeing to an extension of time for the matter to be heard and/or decision rendered.
+10 (j) Any person still aggrieved on any ground whatsoever by an assessment of taxes against
+11 him or her in any city or town may file, within thirty (30) days of the tax board of review’s written
+12 decision and notice thereof, or in the event that the board has neither held a hearing nor issued a
+13 decision within the above referenced time frames and has not sought and received an extension of
+14 time from the director of the department of revenue to do so, a petition in a superior court for the
+15 county in which the city or town lies for relief from the assessment. The assessor of taxes of the
+16 city or town in office at the time the petition is filed shall be named as a respondent in said action.
+17 (k) The petition and accompanying summons/citation shall be served upon the assessors in
+18 the manner set forth in rule 4 of the Rhode Island superior court rules of civil procedure governing
+19 service of process.
+20 (l) A plaintiff may amend a petition filed in the superior court seeking relief from a tax
+21 assessment so as to include an appeal of the assessment of the same real estate for tax years
+22 subsequent to the tax year which is the subject of said petition but prior to the tax year covered by
+23 the next revaluation, statistical revaluation or update. Such amendment must be filed on or before
+24 November 15 of the tax year for which the relief is being sought. Said taxpayer shall not be required
+25 to first file an appeal with either the local tax assessor or local tax board for such tax years prior to
+26 amending said petition.
+27 (m) A petitioner may file a single petition for multiple parcels of real estate if those parcels
+28 are contiguous and used as an aggregate site.
+29 44-5-30. Judgment on petition where taxpayer has filed account. Judgment on
+30 petition.
+31 (a) If the taxpayer has given in an account, and if on On the trial of the petition, either with
+32 or without a jury, it appears that the taxpayer’s real estate, tangible personal property, or intangible
+33 personal property has been assessed in excess of the provisions of § 44-5-12 or if it appears that the
+34 tax assessed is illegal in whole or in part, the court shall give judgment that the sum by which the
+LC002682/SUB A - Page 12 of 15
+1 taxpayer has been so overtaxed, or illegally taxed, with his or her costs, be deducted from his or
+2 her tax; but if the taxpayer’s tax be paid, whether before or after the filing of the petition, then the
+3 court shall give judgment for the petitioner for the sum by which he or she has been so overtaxed,
+4 or illegally taxed, plus the amount of any penalty paid on the tax, with interest from the date on
+5 which the tax and penalty were paid and costs, which judgment shall be paid to the petitioner by
+6 the city or town treasurer out of the treasury.
+7 (b) If, however , on the trial of the petition related to tangible personal property and/or real
+8 estate, either with or without a jury, it appears that as it relates to tangible personal property the
+9 taxpayer has failed to file a required account or has fraudulently concealed or omitted any property
+10 information from his or her account, or if it appears that the assessors have not assessed either the
+11 taxpayer's tangible personal property or real estate either the taxpayer’s real estate or his or her
+12 tangible personal property or his or her intangible personal property at a value in excess of the
+13 provisions of § 44-5-12, and that the taxpayer has not been illegally taxed, the assessors shall have
+14 judgment and execution for their costs.
+15 SECTION 2. Section 44-5-31 of the General Laws in Chapter 44-5 entitled "Levy and
+16 Assessment of Local Taxes" is hereby repealed.
+17 44-5-31. Judgment where taxpayer has not filed account.
+18 If the taxpayer has not filed an account, and if on the trial of the petition, either with or
+19 without a jury, it appears:
+20 (1) That his or her real estate has been assessed at a value in excess of the value at which
+21 it was assessed on the last preceding assessment day, whether then owned by him or her or not, and
+22 that the real estate has been assessed, if assessment has been made a full and fair cash value, at a
+23 value in excess of its full and fair cash value, or, if assessment has purportedly been made at a
+24 uniform percentage of full and fair cash value, at a percentage in excess of the uniform percentage;
+25 or
+26 (2) That the tax assessed is illegal in whole or in part, the court shall give judgment that
+27 the sum by which the taxpayer has been so overtaxed or illegally taxed, with his or her costs, be
+28 deducted from his or her tax; but if the taxpayer’s tax is paid, whether before or after the filing of
+29 the petition, then the court shall give judgment for the petitioner for the sum by which he or she
+30 has been so overtaxed, or illegally taxed, plus the amount of any penalty paid on the tax, with
+31 interest from the date on which the tax and penalty were paid, and costs, which judgment shall be
+32 paid to the petitioner by the city or town treasurer out of the treasury. Otherwise, the assessors shall
+33 have judgment and execution for their costs.
+34 SECTION 3. This act shall take effect upon passage; provided, however, the provisions
+LC002682/SUB A - Page 13 of 15
+1 thereof shall apply to assessment dates on and after December 31, 2025. This act shall not apply
+2 retroactively to appeals of prior assessments whether pending or filed after enactment.
+========
+LC002682/SUB A
+========
+LC002682/SUB A - Page 14 of 15
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would make certain technical amendments/clarifications to the statutes relating to
+2 the assessment of real property and the timing and process to appeals thereof.
+3 This act would take effect upon passage; provided, however, the provisions thereof would
+4 apply to assessment dates on and after December 31, 2025. This act would not apply retroactively
+5 to appeals of prior assessments whether pending or filed after enactment.
+6
+========
+LC002682/SUB A
+========
+LC002682/SUB A - Page 15 of 15
+[DELETED: TATE  OF  RHODE  ISLAND S G t 4 ( o o b t y t ( f o a g u o t R I h a m f c r a ( a f n]
+[DELETED:  ( W  T c c o t c o W i a t p b o w u W n s s i r ( o o t f r p a ( i 3 d a o i o a o c ( d c ( l]
+[DELETED:  ( l e i d F w f r d o r c u i n o h n b o i n u c a i o t m f s o ( I a r s p c i s o o a n l q a d p A t r c i t a i ( t l 5 ( t e O T o 4 a ( c r]
+[DELETED:  t m s a ( t p p e p a p s t ( p ( ( J i a ( a b t p i ( i ( A m c w t a f a a f r o b a 4 E (]
+[DELETED:  o a f b r 4 r a t a t ( t c ( n i t c o h o h p p b r o a c i i p b r o a c i i o o w a n s ( a c s ( o t t 4 I s i 4 ( h a]
+[DELETED:  d t a a t t a T o d e r t a f o l a h d ( b a o t ( ( p D ( i w i s]
+[DELETED:  h ( m ( m ( p w ( o T S F           A F w b ( f o 1 T A N B N   _   2   _  S C M     D P 2 P t A T]
+[DELETED:  B L       R   T C D   W 3 R a O    I D   O A F V (   3   t   r   r   a   o   f E _ _ H l C A S S P A _ _ _ _ 4 S   S   S    ]
+[DELETED:  _   N T R i c s s T B I F Y i f c a d p e ( d a i c w o p f l W a a u a I W w i F R O P s F]
+[DELETED:  a a r F f c d b M 1 F t f a t a f a w t p t e I S t g A a t o A d d n t t d n _ D  G A D   A D D A     A O D D   A B       D]
+[DELETED:  D C A h n f t s T  T s f ( i i m _ _ ( p t s a w f p o r i ( d i r t]
+[DELETED:  ( d w i o o c t a ( h d d t c c ( t s ( a s t N t a ( a 4 J o p w t h f a J o p ( o p t]
+[DELETED:  t h c o w t ( e t i t t p j S A 4 I w ( i t v u o ( t d t h i p h S]
+[DELETED:  t r]
+[DELETED:  T t T a t]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0942 SUBSTITUTE A
+========
+LC002682/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Introduced By: Senators Bissaillon, Burke, Mack, Gu, DiMario, and LaMountain
+Date Introduced: April 04, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-5-12, 44-5-15, 44-5-16, 44-5-17, 44-5-26 and 44-5-30 of the
+2 General Laws in Chapter 44-5 entitled "Levy and Assessment of Local Taxes" are hereby amended
+3 to read as follows:
+4 44-5-12. Assessment at full and fair cash value.
+5 (a) All real property subject to taxation shall be assessed at its full and fair cash value, as
+6 of December 31 in the year of the last update or revaluation, statistical revaluation or update thereto,
+7 or at a uniform percentage thereof, not to exceed one hundred percent (100%), with such value to
+8 be determined by the assessors in each town or city; provided, that. There shall be no adjustment
+9 to an assessment because of an increase or decrease in such value as a result of market forces in
+10 years when there is no revaluation, statistical revaluation or update thereto. It is further provided
+11 that:
+12 (1) Any residential property encumbered by a covenant recorded in the land records in
+13 favor of a governmental unit or the Rhode Island housing and mortgage finance corporation
+14 restricting either or both the rents that may be charged or the incomes of the occupants shall be
+15 assessed and taxed in accordance with § 44-5-13.11;
+16 (2) In assessing real estate that is classified as farmland, forest, or open space land in
+17 accordance with chapter 27 of this title, the assessors shall consider no factors in determining the
+18 full and fair cash value of the real estate other than those that relate to that use without regard to
+19 neighborhood land use of a more intensive nature;
+
+1 (3) Warwick. The city council of the city of Warwick is authorized to provide, by
+2 ordinance, that the owner of any dwelling of one to three (3) family units in the city of Warwick
+3 who makes any improvements or additions on his or her principal place of residence in the amount
+4 up to fifteen thousand dollars ($15,000), as may be determined by the tax assessor of the city of
+5 Warwick, is exempt from reassessment of property taxes on the improvement or addition until the
+6 next general citywide reevaluation of property values by the tax assessor. For the purposes of this
+7 section, “residence” is defined as voting address. This exemption does not apply to any commercial
+8 structure. The property owner shall supply all necessary plans to the building official for the
+9 improvements or addition and shall pay all requisite building and other permitting fees as now are
+10 required by law; and
+11 (4) Central Falls. The city council of the city of Central Falls is authorized to provide, by
+12 ordinance, that the owner of any dwelling of one to eight (8) units who makes any improvements
+13 or additions to his or her residential or rental property in an amount not to exceed twenty-five
+14 thousand dollars ($25,000), as determined by the tax assessor of the city of Central Falls, is exempt
+15 from reassessment of property taxes on the improvement or addition until the next general citywide
+16 reevaluation of property values by the tax assessor. The property owner shall supply all necessary
+17 plans to the building official for the improvements or additions and shall pay all requisite building
+18 and other permitting fees as are now required by law.
+19 (5) Tangible property shall be assessed according to the asset classification table as defined
+20 in § 44-5-12.1. Renewable energy resources shall only be taxed as tangible property under § 44-5-
+21 3(c) and the real property on which they are located shall not be reclassified, revalued, or reassessed
+22 due to the presence of renewable energy resources, excepting only reclassification of farmland as
+23 addressed in § 44-27-10.1. Subject to the aforementioned exception for farmland, all assessments
+24 of real property with renewable energy resources thereon shall revert to the last assessed value
+25 immediately prior to the renewable developer’s purchasing, leasing, securing an option to purchase
+26 or lease, or otherwise acquiring any interest in the real property. However, notwithstanding the
+27 above, but without any limitation on taxpayer rights under § 44-5-26, no municipality shall be liable
+28 or otherwise responsible for any rebates, refunds, or any other reimbursements for taxes previously
+29 collected for real property with renewable energy resources thereupon.
+30 (6) Provided, however, that, for taxes levied after December 31, 2015, new construction on
+31 development property is exempt from the assessment of taxes under this chapter at the full and fair
+32 cash value of the improvements, as long as:
+33 (i) An owner of development property files an affidavit claiming the exemption with the
+34 local tax assessor by December 31 each year; and
+LC002682/SUB A - Page 2 of 15
+
+1 (ii) The assessor shall then determine if the real property on which new construction is
+2 located is development property. If the real property is development property, the assessor shall
+3 exempt the new construction located on that development property from the collection of taxes on
+4 improvements, until such time as the real property no longer qualifies as development property, as
+5 defined herein.
+6 For the purposes of this section, “development property” means: (A) Real property on
+7 which a single-family residential dwelling or residential condominium is situated and said single-
+8 family residential dwelling or residential condominium unit is not occupied, has never been
+9 occupied, is not under contract, and is on the market for sale; or (B) Improvements and/or
+10 rehabilitation of single-family residential dwellings or residential condominiums that the owner of
+11 such development property purchased out of a foreclosure sale, auction, or from a bank, and which
+12 property is not occupied. Such property described in subsection (a)(6)(ii) of this section shall
+13 continue to be taxed at the assessed value at the time of purchase until such time as such property
+14 is sold or occupied and no longer qualifies as development property. As to residential
+15 condominiums, this exemption shall not affect taxes on the common areas and facilities as set forth
+16 in § 34-36-27. In no circumstance shall such designation as development property extend beyond
+17 two (2) tax years and a qualification as a development property shall only apply to property that
+18 applies for, or receives, construction permits after July 1, 2015. Further, the exemptions set forth
+19 in this section shall not apply to land.
+20 (b) Municipalities shall make available to every land owner whose property is taxed under
+21 the provisions of this section a document that may be signed before a notary public containing
+22 language to the effect that they are aware of the additional taxes imposed by the provisions of § 44-
+23 5-39 in the event that they use land classified as farm, forest, or open space land for another purpose.
+24 (c) Pursuant to the provisions of § 44-3-29.1, all wholesale and retail inventory subject to
+25 taxation is assessed at its full and fair cash value, or at a uniform percentage of its value, not to
+26 exceed one hundred percent (100%), for fiscal year 1999, by the assessors in each town and city.
+27 Once the fiscal year 1999 value of the inventory has been assessed, this value shall not increase.
+28 The phase-out rate schedule established in § 44-3-29.1(d) applies to this fixed value in each year
+29 of the phase out.
+30 44-5-15. Notice of assessors’ meetings — Notice by taxpayer of intent to bring in
+31 account. Notice by taxpayer of intent to bring in account for tangible personal property.
+32 (a) Before assessing any valuations of tangible personal property, the assessors of all the
+33 cities and towns shall cause printed notices of the time and place of their respective meetings of the
+34 requirement to file an account required by subsection (b) to be posted in four (4) public places in
+LC002682/SUB A - Page 3 of 15
+
+1 their respective city or town, for three (3) weeks next preceding the time of their meeting in the
+2 month of December immediately preceding the tax year, and shall advertise in a newspaper with a
+3 statewide circulation jointly, at least once a week for the same space of time. The cost of said
+4 advertisement shall be shared equally among all of the cities and towns.
+5 (b) The notices shall require that every person and body corporate liable to taxation of
+6 tangible personal property shall be required to bring in to the assessors at the time they may
+7 prescribe a true and exact account of all the ratable estate tangible personal property owned or
+8 possessed by that person or body, describing and specifying the value of every parcel of the real
+9 estate as of December 31 in the year of the last update or revaluation and personal estate tangible
+10 personal property as of December 31 of immediately preceding the tax year, together with the
+11 additional information that may be prescribed by the assessors relative to the ratable estate tangible
+12 personal property as may be contained in any corporation or inheritance tax return filed with the
+13 state by the person within the year preceding the date of assessment next prior to the bringing in of
+14 the account.
+15 (c) Said accounts must be filed with the assessor’s office in the city or town where the
+16 property is located between January 2 and January 31 of each year, during regular business hours
+17 (excluding weekends and holidays).
+18 (d) If any person or body corporate liable to taxation files with the assessors, on or before
+19 January 31 next following the date of assessment, a written notice of that person’s or that body’s
+20 intention to bring in an account, the person or body corporate may bring in to the assessors the
+21 account at any time between March 1 and before March 15 next following the date of assessment.
+22 (e) The notice of intention to bring in an account is deemed to have been filed with the
+23 assessors if the notice is sent to them by registered or certified mail, postage prepaid, postmarked
+24 before 12:00 A.M. midnight of the last day on which the notice may be filed. The account is deemed
+25 to be brought in to the assessors if the account is sent to them by registered or certified mail, postage
+26 prepaid, postmarked before 12:00 A.M. midnight of the last day on which accounts may be brought
+27 in pursuant to the provisions of this section.
+28 (f) In case any person or body corporate fails to file any intention, that person or that body
+29 is deemed to have waived that person’s or that body’s right to file the account.
+30 (g) All matters contained within the account filing are available for review only by
+31 assessment related personnel.
+32 44-5-16. Oath to account brought in — Remedies after failure to bring in account —
+33 Effect on proration.
+34 (a) Every person bringing in any account shall make oath before some notary public or
+LC002682/SUB A - Page 4 of 15
+
+1 other person authorized to administer oaths in the place where the oath is administered that the
+2 account by that person exhibited contains, to the best of his or her knowledge and belief, a true and
+3 full account and valuation of all the ratable estate tangible personal property owned or possessed
+4 by him or her; and whoever neglects or refuses to bring in the account, if overtaxed, shall have no
+5 remedy therefor, except as provided in §§ 44-4-14, 44-4-15, 44-5-26 — 44-5-31, and 44-9-19 —
+6 44-9-24. In case a taxpayer is, because of illness or absence from the state, unable to make the
+7 required oath to his or her account within the time prescribed by law, the taxpayer may, in writing,
+8 appoint an agent to make oath to his or her account within the time prescribed by the assessors, and
+9 the agent shall at the time of making the oath append his or her written appointment to the account,
+10 and for all purposes in connection with the account the taxpayer is deemed to have personally made
+11 the oath.
+12 (b) No taxpayer shall be denied a right of review by means of the procedure described in
+13 this chapter: (1) of any assessment on his or her real tangible personal property by reason of any
+14 claimed inadequacies, inaccuracies, or omissions in his or her listing of tangible personal property;
+15 (2) nor in the case of his or her personal property by reason of any claimed inadequacies,
+16 inaccuracies, or omissions in his or her listing of real property; (3) nor in the case of real or personal
+17 property by reason of any claimed inadequacies, inaccuracies, or omissions, which are not
+18 substantial, in his or her listing of real or personal property, respectively.
+19 (c) Notwithstanding § 44-4-24, tangible personal property introduced into or removed from
+20 any town or city during a calendar year shall be assessed as though the property was situated in the
+21 city or town for the entire calendar year unless the taxpayer has filed an account as provided in this
+22 section specifying the date on which the property was introduced or removed.
+23 (d) Each city or town having a year of taxable ownership that measures length of ownership
+24 over the calendar year beginning immediately after the date of assessment shall adjust its year of
+25 taxable ownership so that it has a year of taxable ownership that measures length of ownership over
+26 the calendar year ending on the date of assessment.
+27 44-5-17. Assessment of property covered by account.
+28 If any person brings in an account as provided in § 44-5-15 § 44-5-15(b), the assessors
+29 shall nevertheless assess the person’s ratable estate tangible personal property at what they deem
+30 its full and fair cash value, or a uniform percentage of its value as defined in § 44-5-12.
+31 44-5-26. Petition in superior court for relief from assessment.
+32 (a) Any person aggrieved on any ground whatsoever by any assessment of taxes against
+33 him or her in any city or town, or any tenant or group of tenants, of real estate paying rent therefrom,
+34 and under obligation to pay more than one-half (½) of the taxes thereon, may within ninety (90)
+LC002682/SUB A - Page 5 of 15
+
+1 days from the date the first tax payment is due, on or before November 15 of each year, but not less
+2 than ninety (90) days after the first tax payment is due, file an appeal in the local office of tax
+3 assessment; provided, if the person to whom a tax on real estate is assessed chooses to file an
+4 appeal, the appeal filed by a tenant or group of tenants will be void. For the purposes of this section,
+5 the tenant(s) has the burden of proving financial responsibility to pay more than one-half (½) of the
+6 taxes. The assessor has forty-five (45) days until December 31 of that year to review the appeal
+7 appeals, render a decision decisions and notify the taxpayer taxpayers of the decision decisions.
+8 The taxpayer, if still aggrieved, may appeal the decision of the tax assessor to the local tax board
+9 of review, after the decision by the tax assessor, or in the event that the assessor does not render a
+10 decision by December 31, but not less than forty-five (45) days after the appeal was filed, or in the
+11 event that the assessor does not render a decision, the taxpayer may appeal to the local tax board of
+12 review; at the expiration of the forty-five (45) day period. Appeals provided; however, appeals to
+13 the local tax board of review are to be filed not more than thirty (30) days after the assessor renders
+14 a decision and notifies the taxpayer thereof, or if the assessor does not render a decision within
+15 forty-five (45) days of the filing of the appeal, not more than ninety (90) days after the expiration
+16 of the forty-five (45) day period by December 31, not later than January 31 of the next year. The
+17 local tax board of review shall, within ninety (90) days of the filing of the appeal, hear the appeal
+18 and render a decision within thirty (30) forty-five (45) days of the date that of the close of the
+19 hearing was held. Provided, that a city or town may request and receive an extension from the
+20 director of the Rhode Island department of revenue.
+21 (b) Appeals to the local office of tax assessment are to be on an application form which has
+22 been approved by the department of revenue in consultation with the Rhode Island League of Cities
+23 and Towns. In the event of an appeal to the local tax board of review, the taxpayer or the local
+24 office of tax assessment, upon at the request by the taxpayer, shall forward the application form to
+25 the local tax board of review within the time period set forth in this section.
+26 (c) Said application must include:
+27 (1) The applicant’s opinion of value, fair market value, class and assessed value of said
+28 property as of December 31 of the year of the last update or revaluation for real estate and as of
+29 December 31 of the tax year for tangible personal property; and
+30 (2) For income producing residential real estate of six (6) units or more, and commercial,
+31 industrial or mixed-use real estate, fifty percent (50%) or more of which real estate was leased, or
+32 was available to be leased, in an arm's length transaction during the prior year, a statement of rental
+33 income and related expenses, if any, for said real estate. Said statement of income and expenses
+34 shall cover the most recent twelve (12) month period preceding said December 31 date; provided,
+LC002682/SUB A - Page 6 of 15
+
+1 however, if such a statement of income and expenses is not yet available for said most recent twelve
+2 (12) month period, the statement of income and expenses covering the next most recent twelve (12)
+3 month period preceding said December 1 date shall be provided.
+4 (d) Said application form shall provide that the applicant may file a single appeal for
+5 multiple parcels of real estate if such parcels are contiguous and used as an aggregate site.
+6 (e) Said application form shall also notify applicants that any global extension granted
+7 pursuant to § 44-5-26(h) will be posted on the department of revenue, division of municipal finance
+8 website.
+9 (f) Failure to provide such statement of income and expenses shall be grounds for denial
+10 of the appeal and such taxpayer shall not have the right to petition for relief in the superior court.
+11 The application shall be in the following form:
+12 STATE OF RHODE ISLAND
+13 FISCAL YEAR _______ ____________________________
+14 Name of City or Town
+15 APPLICATION FOR APPEAL OF PROPERTY TAX
+16 For appeals to the tax assessor, this form must be filed with the local office of tax assessment
+17 within ninety (90) days from the date the first tax payment is due. For appeals to the local tax
+18 board of review, this form must be filed with the local tax board of review not more than thirty
+19 (30) days after the assessor renders a decision, or if the assessor does not render a decision within
+20 forty-five (45) days of the filing of the appeal, not more than ninety (90) days after the expiration
+21 of the forty-five (45) day period.
+22 1. TAXPAYER INFORMATION:
+23 A. Name(s) of Assessed Owner:______________________________________
+24 B. Name(s) and Status of Applicant (if other than Assessed Owner):_________
+25 ____ Subsequent Owner (Acquired Title After December 31 on __________
+26 20___________ )
+27 ____ Administrator/Executor ____ Lessee ____ Mortgagee ____ Other
+28 Specify ____
+29 C. Mailing Address and Telephone No.: __________ ( ) ____________
+30 Address Tel. No.
+31 D. Previous Assessed Value ___________ E. New Assessed Value _________
+32 2. PROPERTY IDENTIFICATION: Complete using information as it appears on
+33 tax bill.
+34 A. Tax Bill Account No.: ___ Assessed Valuation ___ Annual Tax _________
+LC002682/SUB A - Page 7 of 15
+
+1 B. Location: _________________________ Description: ________________
+2 No. Street Zip
+3 Real Estate Parcel Identification: Map __ Block __ Parcel __ Type___
+4 Tangible Personal
+5 C. Date Property Acquired: Purchase Price: Total cost of any improvements__
+6 What is the amount of fire insurance on building:
+7 3. REASON(S) REDUCTION SOUGHT: Check reason(s) reduction is warranted
+8 and briefly explain why it applies. Continue explanation on attachment if necessary.
+9 Overvaluation. Incorrect Usage Classification.
+10 Disproportionate Assessment. Other Specify:
+11 Applicant’s Opinion of Fair Market Value Class Assessed Value
+12 Value $ (as of December
+13 31 in the year of
+14 the last update or
+15 revaluation for
+16 real estate and
+17 as of December 31
+18 of the tax year
+19 for personal estate;)
+20 Explanation ______________________________________________________
+21 ________________________________________________________________
+22 ________________________________________________________________
+23 Have you filed a true and exact account this year with the City Assessor as required by
+24 law?
+25 Comparable Properties that support your claim:
+26 Address Sale Price Sales Date Property Type Assessed value
+27 _________________________________________________________________
+28 _________________________________________________________________
+29 _________________________________________________________________
+30 _________________________________________________________________
+31 4. SIGNATURES;
+32 SIGNATURE OF APPLICANT DATE
+33 SIGNATURE OF AUTHORIZED AGENT DATE
+34 ( )
+LC002682/SUB A - Page 8 of 15
+
+1 _________________________________________________________________
+2 Name of Preparer Address Tel. No.
+3 TAXPAYER INFORMATION ABOUT APPEAL PROCEDURE
+4 REASONS FOR AN APPEAL. It is the intent of the general assembly to ensure that all taxpayers
+5 in Rhode Island are treated equitably. Ensuring that taxpayers are treated fairly begins where
+6 cities and towns meet defined standards related to performing property values. All properties
+7 should be assessed in a uniform manner, and properties of equal value should be assessed the
+8 same.
+9 TO DISPUTE YOUR VALUATION OR ASSESSMENT OR CORRECT ANY OTHER
+10 BILLING PROBLEM OR ERROR THAT CAUSED YOUR TAX BILL TO BE HIGHER THAN
+11 IT SHOULD BE, YOU MUST APPEAL WITHIN NINETY (90) DAYS FROM THE DATE THE
+12 FIRST TAX PAYMENT IS DUE.
+13 You may appeal your assessment if your property is: (1) OVERVALUED (assessed value
+14 is more than the fair market value as of December 31 in the year of the last update or revaluation
+15 for real estate and as of December 31 of the tax year for personal estate for any reason, including
+16 clerical and data processing errors; (2) disproportionately assessed in comparison with other
+17 properties; (3) classified incorrectly as residential, commercial, industrial or open space, farm or
+18 forest; (4) illegal tax partially or fully exempt; (5) modified from its condition from the time of the
+19 last update or revaluation.
+20 WHO MAY FILE AN APPLICATION: You may file an application if you are (1) the
+21 assessed or subsequent (acquiring title after December 31) owner of the property; (2) the owner’s
+22 administrator or executor; (3) a tenant or group of tenants of real estate paying rent therefrom, and
+23 under obligations to pay more than one-half (½) of the taxes thereon; (4) a person owning or having
+24 an interest in or possession of the property; or (5) a mortgagee if the assessed owner has not applied.
+25 In some cases, you must pay all or a portion of the tax before you can file.
+26 WHEN AND WHERE APPLICATION MUST BE FILED. Your application must be filed
+27 with the local office of tax assessment within NINETY (90) days from the date the first tax payment
+28 is due. THESE DEADLINES CANNOT BE EXTENDED OR WAIVED BY THE ASSESSOR
+29 FOR ANY REASON. IF YOUR APPLICATION IS NOT FILED ON TIME, YOU LOSE ALL
+30 RIGHTS TO AN ABATEMENT AND THE ASSESSOR CANNOT BY LAW GRANT YOU
+31 ONE. AN APPLICATION IS FILED WHEN RECEIVED BY THE ASSESSOR’S OFFICE.
+32 PAYMENT OF TAX. Filing an application does not stay the collection of your taxes. In
+33 some cases, you must pay the tax when due to appeal the assessors disposition of your application.
+34 Failure to pay the tax assessed when due may also subject you to interest charges and collection
+LC002682/SUB A - Page 9 of 15
+
+1 action. To avoid any loss of rights or additional charges, you should pay the tax as assessed. If an
+2 abatement is granted and you have already paid the entire year’s tax as abated, you will receive a
+3 refund of any overpayment.
+4 FILING AN ACCOUNT. Rhode Island General Laws Section 44-5-15 requires the annual
+5 filing of a true and exact account of all ratable estate owned or possessed by every person and
+6 corporate body. The time to file is between December 31, and January 31, of intention to submit
+7 declaration by March 15. Failure to file a true and full account, within the prescribed time,
+8 eliminates the right to appeal to the superior court, subject to the exceptions provided in Rhode
+9 Island General Laws Section 44-5-26(b). No amended returns will be accepted after March 15th.
+10 Such notice of your intention must be sent by certified mail, postage prepaid, postmark no later
+11 than 12 o’clock midnight of the last day, January 31. No extensions beyond March 15th can be
+12 granted. The form for filing such account may be obtained from the city or town assessor.
+13 ASSESSOR’S DISPOSITION. Upon applying for a reduction in assessment, you may be
+14 asked to provide the assessor with further written information about the property and to permit
+15 them to inspect it. Failure to provide the information or permit an inspection within thirty (30) days
+16 of the request may result in the loss of your appeal rights.
+17 APPEAL. The assessor shall have forty-five (45) days to review the appeal, render a
+18 decision and notify the taxpayer of the decision. The taxpayer, if still aggrieved, may appeal the
+19 decision of the tax assessor to the local tax board of review, or in the event that the assessor does
+20 not render a decision, the taxpayer may appeal to the local tax board of review at the expiration of
+21 the forty-five (45) day period. Appeals to the local tax board of review shall be filed not more than
+22 thirty (30) days after the assessor renders a decision and notifies the taxpayer, or if the assessor
+23 does not render a decision within forty-five (45) days of the filing of the appeal, not more than
+24 ninety (90) days after the expiration of the forty-five (45) day period.
+25 ____________________________________________________________________
+26 DISPOSITION OF APPLICATION (ASSESSOR’S USE ONLY)
+27 GRANTED Assessed Value______________
+28 Date Sent______ Abated Value________________
+29 Date Returned______ DENIED Adjusted Value______________
+30 Assessed Tax________________
+31 On-Site Inspection DEEMED DENIED Abated Tax_____________
+32 Date Adjusted Tax________________
+33 By_________________________________________
+34 Date Voted/Deemed Denied Tax Board of Review
+LC002682/SUB A - Page 10 of 15
+
+1 Date Change Certificate No.
+2 Any person still aggrieved on any ground whatsoever by an assessment of taxes against
+3 him or her in any city or town may, within thirty (30) days of the tax board of review decision
+4 notice, file a petition in the superior court for the county in which the city or town lies for relief
+5 from the assessment, to which petition the assessors of taxes of the city or town in office at the time
+6 the petition is filed shall be made parties respondent, and the clerk shall thereupon issue a citation
+7 substantially in the following form:
+8 THE STATE OF RHODE ISLAND.
+9
+10 To the sheriffs of several counties, or to their deputies, Greetings: We command you to
+11 summon the assessors of taxes of the town of ________ : to wit, ________ of ________ (if to be
+12 found in your precinct) to answer the complaint of ________ of ________ on the return day hereof
+13 (said return day being the ___________ day of _____________________ A.D. 20___________)
+14 in the superior court to be holden at the county courthouse in ________ as by petition filed in court
+15 is fully set forth; and to show cause why said petition should not be granted. Hereof fail not, and
+16 make true return of this writ with your doings thereon. Witness, the seal of our superior court, at
+17 ________ this ___________ day of _____________________ in the year ___________
+18 __________, Clerk.
+19 (c)(g) Provided, that in case the If a person has not filed an a required account for tangible
+20 personal property, or filed an appeal first within with the local office of tax assessment and then
+21 the local tax board of review, that person shall not have the benefit of the remedy provided in this
+22 section and and/or in §§ 44-5-27 — 44-5-31, unless: (1) that person’s real estate has been assessed
+23 at a value in excess of the value at which it was assessed on the last preceding assessment day,
+24 whether then owned by that person or not, and has been assessed, if assessment has been made at
+25 full and fair cash value, at a value in excess of its full and fair cash value, or, if assessment has
+26 purportedly been made at a uniform percentage of full and fair cash value, at a percentage in excess
+27 of the uniform percentage; or (2) the tax assessed is illegal in whole or in part; and that person’s
+28 remedy is limited to a review of the assessment on the real estate or to relief with respect to the
+29 illegal tax, as the case may be.
+30 (h) The assessor for any city or town may request and receive from the director of the
+31 department of revenue one or more ninety (90) day global extensions of time (i.e. extensions which
+32 include all such appeals pending before the local tax board of review) to the December 31 date
+33 referenced in subsection (a) of this section. All such extensions shall be in writing and posted on
+34 the department of revenue, division of municipal finance website.
+LC002682/SUB A - Page 11 of 15
+
+1 (i) In the event that the local tax board of review does not hear a matter within ninety (90)
+2 days of the filing of the appeal or, after the close of the hearing does not render a written decision
+3 within forty-five (45) days of the date of the close of the hearing and there is no global extension
+4 in effect, the city or town may request and receive from the director of the department of revenue
+5 one or more extensions of time to either hear the matter and/or render a decision. The local board
+6 of review shall notify the taxpayer in the event the director of the department of revenue grants a
+7 city or town’s request for an extension to hear the taxpayer’s appeal and/or render a decision
+8 thereon. Nothing herein shall prevent the local tax board of review and the taxpayer from mutually
+9 agreeing to an extension of time for the matter to be heard and/or decision rendered.
+10 (j) Any person still aggrieved on any ground whatsoever by an assessment of taxes against
+11 him or her in any city or town may file, within thirty (30) days of the tax board of review’s written
+12 decision and notice thereof, or in the event that the board has neither held a hearing nor issued a
+13 decision within the above referenced time frames and has not sought and received an extension of
+14 time from the director of the department of revenue to do so, a petition in a superior court for the
+15 county in which the city or town lies for relief from the assessment. The assessor of taxes of the
+16 city or town in office at the time the petition is filed shall be named as a respondent in said action.
+17 (k) The petition and accompanying summons/citation shall be served upon the assessors in
+18 the manner set forth in rule 4 of the Rhode Island superior court rules of civil procedure governing
+19 service of process.
+20 (l) A plaintiff may amend a petition filed in the superior court seeking relief from a tax
+21 assessment so as to include an appeal of the assessment of the same real estate for tax years
+22 subsequent to the tax year which is the subject of said petition but prior to the tax year covered by
+23 the next revaluation, statistical revaluation or update. Such amendment must be filed on or before
+24 November 15 of the tax year for which the relief is being sought. Said taxpayer shall not be required
+25 to first file an appeal with either the local tax assessor or local tax board for such tax years prior to
+26 amending said petition.
+27 (m) A petitioner may file a single petition for multiple parcels of real estate if those parcels
+28 are contiguous and used as an aggregate site.
+29 44-5-30. Judgment on petition where taxpayer has filed account. Judgment on
+30 petition.
+31 (a) If the taxpayer has given in an account, and if on On the trial of the petition, either with
+32 or without a jury, it appears that the taxpayer’s real estate, tangible personal property, or intangible
+33 personal property has been assessed in excess of the provisions of § 44-5-12 or if it appears that the
+34 tax assessed is illegal in whole or in part, the court shall give judgment that the sum by which the
+LC002682/SUB A - Page 12 of 15
+
+1 taxpayer has been so overtaxed, or illegally taxed, with his or her costs, be deducted from his or
+2 her tax; but if the taxpayer’s tax be paid, whether before or after the filing of the petition, then the
+3 court shall give judgment for the petitioner for the sum by which he or she has been so overtaxed,
+4 or illegally taxed, plus the amount of any penalty paid on the tax, with interest from the date on
+5 which the tax and penalty were paid and costs, which judgment shall be paid to the petitioner by
+6 the city or town treasurer out of the treasury.
+7 (b) If, however , on the trial of the petition related to tangible personal property and/or real
+8 estate, either with or without a jury, it appears that as it relates to tangible personal property the
+9 taxpayer has failed to file a required account or has fraudulently concealed or omitted any property
+10 information from his or her account, or if it appears that the assessors have not assessed either the
+11 taxpayer's tangible personal property or real estate either the taxpayer’s real estate or his or her
+12 tangible personal property or his or her intangible personal property at a value in excess of the
+13 provisions of § 44-5-12, and that the taxpayer has not been illegally taxed, the assessors shall have
+14 judgment and execution for their costs.
+15 SECTION 2. Section 44-5-31 of the General Laws in Chapter 44-5 entitled "Levy and
+16 Assessment of Local Taxes" is hereby repealed.
+17 44-5-31. Judgment where taxpayer has not filed account.
+18 If the taxpayer has not filed an account, and if on the trial of the petition, either with or
+19 without a jury, it appears:
+20 (1) That his or her real estate has been assessed at a value in excess of the value at which
+21 it was assessed on the last preceding assessment day, whether then owned by him or her or not, and
+22 that the real estate has been assessed, if assessment has been made a full and fair cash value, at a
+23 value in excess of its full and fair cash value, or, if assessment has purportedly been made at a
+24 uniform percentage of full and fair cash value, at a percentage in excess of the uniform percentage;
+25 or
+26 (2) That the tax assessed is illegal in whole or in part, the court shall give judgment that
+27 the sum by which the taxpayer has been so overtaxed or illegally taxed, with his or her costs, be
+28 deducted from his or her tax; but if the taxpayer’s tax is paid, whether before or after the filing of
+29 the petition, then the court shall give judgment for the petitioner for the sum by which he or she
+30 has been so overtaxed, or illegally taxed, plus the amount of any penalty paid on the tax, with
+31 interest from the date on which the tax and penalty were paid, and costs, which judgment shall be
+32 paid to the petitioner by the city or town treasurer out of the treasury. Otherwise, the assessors shall
+33 have judgment and execution for their costs.
+34 SECTION 3. This act shall take effect upon passage; provided, however, the provisions
+LC002682/SUB A - Page 13 of 15
+
+1 thereof shall apply to assessment dates on and after December 31, 2025. This act shall not apply
+2 retroactively to appeals of prior assessments whether pending or filed after enactment.
+========
+LC002682/SUB A
+========
+LC002682/SUB A - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would make certain technical amendments/clarifications to the statutes relating to
+2 the assessment of real property and the timing and process to appeals thereof.
+3 This act would take effect upon passage; provided, however, the provisions thereof would
+4 apply to assessment dates on and after December 31, 2025. This act would not apply retroactively
+5 to appeals of prior assessments whether pending or filed after enactment.
+6
+========
+LC002682/SUB A
+========
+LC002682/SUB A - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S G t 4 ( o o b t y t ( f o a g u o t R I h a m f c r a ( a f n]
+[DELETED:  ( W  T c c o t c o W i a t p b o w u W n s s i r ( o o t f r p a ( i 3 d a o i o a o c ( d c ( l]
+[DELETED:  ( l e i d F w f r d o r c u i n o h n b o i n u c a i o t m f s o ( I a r s p c i s o o a n l q a d p A t r c i t a i ( t l 5 ( t e O T o 4 a ( c r]
+[DELETED:  t m s a ( t p p e p a p s t ( p ( ( J i a ( a b t p i ( i ( A m c w t a f a a f r o b a 4 E (]
+[DELETED:  o a f b r 4 r a t a t ( t c ( n i t c o h o h p p b r o a c i i p b r o a c i i o o w a n s ( a c s ( o t t 4 I s i 4 ( h a]
+[DELETED:  d t a a t t a T o d e r t a f o l a h d ( b a o t ( ( p D ( i w i s]
+[DELETED:  h ( m ( m ( p w ( o T S F           A F w b ( f o 1 T A N B N   _   2   _  S C M     D P 2 P t A T]
+[DELETED:  B L       R   T C D   W 3 R a O    I D   O A F V (   3   t   r   r   a   o   f E _ _ H l C A S S P A _ _ _ _ 4 S   S   S    ]
+[DELETED:  _   N T R i c s s T B I F Y i f c a d p e ( d a i c w o p f l W a a u a I W w i F R O P s F]
+[DELETED:  a a r F f c d b M 1 F t f a t a f a w t p t e I S t g A a t o A d d n t t d n _ D  G A D   A D D A     A O D D   A B       D]
+[DELETED:  D C A h n f t s T  T s f ( i i m _ _ ( p t s a w f p o r i ( d i r t]
+[DELETED:  ( d w i o o c t a ( h d d t c c ( t s ( a s t N t a ( a 4 J o p w t h f a J o p ( o p t]
+[DELETED:  t h c o w t ( e t i t t p j S A 4 I w ( i t v u o ( t d t h i p h S]
+[DELETED:  t r]
+[DELETED:  T t T a t]

@@ -1,0 +1,317 @@
+2025 -- S 0016 SUBSTITUTE A
+========
+LC000562/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+Introduced By: Senators Gu, Zurier, DiPalma, Burke, Urso, Bell, and Gallo
+Date Introduced: January 23, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.3-1.1 of the General Laws in Chapter 19-14.3 entitled
+2 "Currency Transmissions" is hereby amended to read as follows:
+3 19-14.3-1.1. Definitions.
+4 In addition to the definitions provided in § 19-14-1 the following definitions are applicable
+5 to this chapter:
+6 (1) "Blockchain analytics" means the analysis of data from blockchains or public
+7 distributed ledgers, including associated transaction information.
+8 (2) "Blockchain analytics software" means a software service that uses blockchain
+9 analytics data to provide risk-specific information about virtual currency wallet addresses, among
+10 other things.
+11 (1)(3) “Control” means:
+12 (i) When used in reference to a transaction or relationship involving virtual currency, the
+13 power to execute unilaterally or prevent indefinitely a virtual currency transaction; and
+14 (ii) When used in reference to a person, the direct or indirect power to direct the
+15 management, operations, or policies of the person through legal or beneficial ownership of twenty-
+16 five percent (25%) or more of the voting power in the person or under a contract, arrangement, or
+17 understanding.
+18 (2)(4) “Department” means the department of business regulation, division of banking.
+19 (3)(5) “Exchange,” used as a verb, means to assume control of virtual currency from or on
+
+1 behalf of a resident, at least momentarily, to sell, trade, or convert:
+2 (i) Virtual currency for legal tender, bank credit, or one or more forms of virtual currency;
+3 or
+4 (ii) Legal tender or bank credit for one or more forms of virtual currency.
+5 (4)(6) "Existing customer" means an individual who has been a customer with a virtual
+6 currency kiosk operator for more than thirty (30) days after the customer's first financial transaction
+7 with the virtual currency kiosk operator.
+8 (7) “Legal tender” means a medium of exchange or unit of value, including the coin or
+9 paper money of the United States, issued by the United States or by another government.
+10 (5)(8) “Licensee” means a person licensed under this chapter.
+11 (6)(9) “Monetary value” means a medium of exchange, whether or not redeemable in
+12 money.
+13 (10) "New customer" means an individual who has never previously transacted with the
+14 virtual currency kiosk operator. The new customer shall remain defined as such during the thirty
+15 (30) day period after the first financial transaction with the virtual currency kiosk operator.
+16 Following the thirty (30) day period, a new customer automatically converts to an existing
+17 customer.
+18 (7)(11) “Reciprocity agreement” means an arrangement between the department and the
+19 appropriate licensing agency of another state that permits a licensee operating under a license
+20 granted by the other state to engage in currency transmission business activity with or on behalf of
+21 a resident.
+22 (8)(12) “Record” means information that is inscribed on a tangible medium or that is stored
+23 in an electronic or other medium and is retrievable in perceivable form.
+24 (9)(13) “Registry” means the Nationwide Multistate Licensing System.
+25 (10)(14) “Resident”:
+26 (i) Means a person that:
+27 (A) Is domiciled in this state;
+28 (B) Is physically located in this state for more than one hundred eighty-three (183) days of
+29 the previous three hundred sixty-five (365) days; or
+30 (C) Has a place of business in this state; and
+31 (ii) Includes a legal representative of a person that satisfies subsection (10)(i) of this
+32 section.
+33 (11)(15) “Responsible individual” means an individual who has managerial authority with
+34 respect to a licensee’s currency transmission business activity with or on behalf of a resident.
+LC000562/SUB A - Page 2 of 10
+
+1 (12)(16) “Sign” means, with present intent to authenticate or adopt a record:
+2 (i) To execute or adopt a tangible symbol; or
+3 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+4 process.
+5 (13)(17) “State” means a state of the United States, the District of Columbia, Puerto Rico,
+6 the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of
+7 the United States.
+8 (14)(18) “Store,” except in the phrase “store of value,” means to maintain control of virtual
+9 currency on behalf of a resident by a person other than the resident. “Storage” and “storing” have
+10 corresponding meanings.
+11 (19) "Transaction hash" means a unique identifier made up of a string of characters that act
+12 as a record of and provide proof that the transaction was verified and added to the blockchain.
+13 (15)(20) “Transfer” means to assume control of virtual currency from or on behalf of a
+14 resident and to:
+15 (i) Credit the virtual currency to the account of another person;
+16 (ii) Move the virtual currency from one account of a resident to another account of the
+17 same resident; or
+18 (iii) Relinquish control of virtual currency to another person.
+19 (16)(21) “U.S. Dollar equivalent of virtual currency” means the equivalent value of a
+20 particular virtual currency in United States dollars shown on a virtual currency exchange based in
+21 the United States for a particular date or period specified in this chapter.
+22 (22) "Virtual currency address" means an alphanumeric identifier associated with a virtual
+23 currency wallet identifying the location to which a virtual currency transaction can be sent.
+24 (17)(23) “Virtual currency business activity” means:
+25 (i) Exchanging, transferring, or storing virtual currency whether directly or through an
+26 agreement with a virtual currency control-services vendor;
+27 (ii) Holding electronic precious metals or electronic certificates representing interests in
+28 precious metals on behalf of another person or issuing shares or electronic certificates representing
+29 interests in precious metals; or
+30 (iii) Exchanging one or more digital representations of value used within one or more
+31 online games, game platforms, or family of games for:
+32 (A) Virtual currency offered by or on behalf of the same publisher from which the original
+33 digital representation of value was received; or
+34 (B) Legal tender or bank credit outside the online game, game platform, or family of games
+LC000562/SUB A - Page 3 of 10
+
+1 offered by or on behalf of the same publisher from which the original digital representation of value
+2 was received.
+3 (18)(24) “Virtual currency control-services vendor” means a person who has control of
+4 virtual currency solely under an agreement with a person who, on behalf of another person, assumes
+5 control of virtual currency.
+6 (25) "Virtual currency kiosk" or "kiosk" means an electronic terminal acting as a
+7 mechanical agent of the virtual currency kiosk operator that enables the virtual currency kiosk
+8 operator to facilitate the exchange of virtual currency for money, bank credit, or other virtual
+9 currency including, but not limited to:
+10 (i) Connecting directly to a separate "virtual currency exchange" that performs the actual
+11 virtual currency transmission; or
+12 (ii) Drawing upon the virtual currency in the possession of the electronic terminal's
+13 operator.
+14 (26) "Virtual currency kiosk transaction" means a transaction conducted or performed, in
+15 whole or in part, by electronic means via a virtual currency kiosk. Virtual currency kiosk transaction
+16 also means a transaction made at a virtual currency kiosk to purchase virtual currency with fiat
+17 currency or to sell virtual currency for fiat currency.
+18 (27) "Virtual currency wallet" means a software application or other mechanism providing
+19 a means for holding, storing and transferring virtual currency.
+20 (28) "Virtual-currency kiosk operator" means a person or business entity that engages in
+21 virtual-currency business activity via a virtual currency kiosk located in this state or a person that
+22 owns, operates, or manages a virtual currency kiosk located in this state through which virtual
+23 currency business activity is offered.
+24 SECTION 2. Chapter 19-14.3 of the General Laws entitled "Currency Transmissions" is
+25 hereby amended by adding thereto the following sections:
+26 19-14.3-3.9. Virtual currency kiosk operator licensing and kiosk registration.
+27 (a) A virtual currency kiosk operator shall not engage in virtual currency business activity
+28 or hold itself out as being able to engage in virtual currency business activity with or on behalf of
+29 another person unless the virtual currency kiosk operator is licensed in the state as a money
+30 transmitter.
+31 (b) A virtual currency kiosk operator shall not locate, or allow a third party to locate, a
+32 virtual currency kiosk in this state unless the virtual currency kiosk operator registers the virtual
+33 currency kiosk and obtains the prior approval of the department of business regulation (DBR) for
+34 its activation.
+LC000562/SUB A - Page 4 of 10
+
+1 (c) A virtual currency kiosk operator shall submit to the DBR a quarterly report of the
+2 location of each virtual currency kiosk located within the State of Rhode Island within forty-five
+3 (45) days of the end of each calendar quarter. The report shall include, at a minimum, the following:
+4 (1) The virtual currency kiosk operator's legal name;
+5 (2) Any fictitious or trade name of the virtual currency kiosk operator;
+6 (3) Physical address of each virtual currency kiosk;
+7 (4) Start date of operation of each virtual currency kiosk at the location;
+8 (5) End date of operation of each virtual currency kiosk at the location, if applicable; and
+9 (6) Virtual currency address(es) associated with each virtual currency kiosk.
+10 19-14.3-3.10. Disclosures.
+11 A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily readable
+12 manner in a chosen language made available to and preferred by the customer, all relevant terms
+13 and conditions generally associated with the products, services, and activities of the virtual currency
+14 kiosk operator and virtual currency.
+15 (1) The virtual currency kiosk operator shall provide an acknowledgement of receipt of all
+16 disclosures required under this section to be acknowledged by the customer as confirmation of
+17 consent.
+18 (2) The disclosures under this subsection shall include, at a minimum, the following
+19 provisions:
+20 (i) A warning, written prominently and in bold type, and provided separately from the
+21 disclosures below, stating: "WARNING: LOSSES DUE TO FRAUDULENT OR ACCIDENTAL
+22 TRANSACTIONS ARE NOT RECOVERABLE AND TRANSACTIONS IN VIRTUAL
+23 CURRENCY ARE IRREVERSIBLE. VIRTUAL CURRENCY TRANSACTIONS MAY BE
+24 USED TO STEAL YOUR MONEY BY CRIMINALS IMPERSONATING THE
+25 GOVERNMENT, ORGANIZATIONS, OR YOUR LOVED ONES. WRONGDOERS OFTEN
+26 THREATEN JAIL TIME, SAY YOUR IDENTITY HAS BEEN STOLEN, ALLEGE YOUR
+27 COMPUTER HAS BEEN HACKED, INSIST YOU WITHDRAW MONEY FROM YOUR
+28 BANK ACCOUNT TO PURCHASE VIRTUAL CURRENCY, OR UTILIZE A NUMBER OF
+29 OTHER ILLEGAL MEANS TO SCAM YOU. IF YOU BELIEVE YOU ARE BEING
+30 SCAMMED, CALL YOUR LOCAL LAW ENFORCEMENT."
+31 (ii) A written statement disclosing the material risks associated with virtual currency and
+32 virtual currency transactions, including:
+33 (A) A warning that once completed, the transaction may not be reversed;
+34 (B) A disclosure relating to the virtual currency kiosk operator’s liability for unauthorized
+LC000562/SUB A - Page 5 of 10
+
+1 virtual currency transactions;
+2 (C) A disclosure relating to the virtual currency kiosk customer’s liability for unauthorized
+3 currency transactions;
+4 (D) A statement that virtual currency is not legal tender, backed or insured by the
+5 government, and accounts and value balances are not subject to Federal Deposit Insurance
+6 Corporation, National Credit Union Administration, or Securities Investor Protection Corporation
+7 protections;
+8 (E) A statement that some virtual currency transactions are deemed to be made when
+9 recorded on a public ledger which may not be the date or time when the person initiates the
+10 transaction;
+11 (F) A statement that virtual currency value may be derived from market participants'
+12 continued willingness to exchange fiat currency for virtual currency, which may result in the
+13 permanent and total loss of a particular virtual currency's value if the market for virtual currency
+14 disappears;
+15 (G) A statement that a person who accepts virtual currency as payment today is not required
+16 to accept and might not accept virtual currency in the future;
+17 (H) A statement that the volatility and unpredictability of the price of virtual currency
+18 relative to fiat currency may result in a significant loss over a short period of time;
+19 (I) A statement that the nature of virtual currency means that any technological difficulties
+20 experienced by virtual currency kiosk operators may prevent access to or use of a person's virtual
+21 currency; and
+22 (J) A disclosure that any bond maintained by the virtual currency kiosk operator for the
+23 benefit of a person may not cover all losses a person incurs.
+24 (iii) A statement disclosing the amount of the transaction denominated in U.S. Dollars as
+25 well as the applicable virtual currency;
+26 (iv) A disclosure of any fees or expenses charged by the virtual currency kiosk operator;
+27 (v) A disclosure of any applicable exchange rates;
+28 (vi) Notice of a change in the virtual currency kiosk operator's rules or policies;
+29 (vii) The name, address, and telephone number of the owner of the kiosk and the days,
+30 times and means by which a consumer can contact the owner for consumer assistance shall be
+31 displayed on or at the location of the kiosk, or on the first screen of such kiosk;
+32 (viii) A disclosure of the circumstances under which the virtual currency kiosk operator,
+33 without a court or government order, discloses a person's account information to third parties; and
+34 (ix) Other disclosures that are customarily given in connection with a virtual currency
+LC000562/SUB A - Page 6 of 10
+
+1 transaction.
+2 (3) Transaction receipt. Effective November 1, 2025, upon each transaction's completion,
+3 the virtual currency kiosk operator shall provide a person with a physical receipt in a chosen
+4 language made available to and preferred by the customer which shall contain the following
+5 information:
+6 (i) The virtual currency kiosk operator's name and contact information, including a
+7 telephone number to answer questions and register complaints;
+8 (ii) The type, value, date, and precise time of the transaction, transaction hash, and each
+9 applicable virtual currency address;
+10 (iii) The name and contact information of the sender;
+11 (iv) The name and contact information of the designated recipient;
+12 (v) All fees charged;
+13 (vi) The exchange rate of the virtual currency to U.S. Dollars;
+14 (vii) A statement of the virtual currency kiosk operator's liability for non-delivery or
+15 delayed delivery;
+16 (viii) A statement of the virtual currency kiosk operator's refund policy; and,
+17 (ix) Any additional information or formatting the department of business regulation may
+18 require.
+19 19-14.3-3.11. Prevention of fraudulent activity.
+20 All virtual currency kiosk operators shall use blockchain analytics software to assist in the
+21 prevention of sending purchased virtual currency from a virtual currency kiosk operator to a virtual
+22 currency wallet known to be affiliated with fraudulent activity at the time of a transaction. The
+23 department of business regulation may request evidence from a virtual currency kiosk operator
+24 relating to its current use of blockchain analytics.
+25 (1) All virtual currency kiosk operators shall take reasonable steps to detect and prevent
+26 fraud, including establishing and maintaining a written anti-fraud policy. The anti-fraud policy
+27 shall, at a minimum, include:
+28 (i) The identification and assessment of fraud related risk areas;
+29 (ii) Procedures and controls to protect against identified risks;
+30 (iii) Allocation of responsibility for monitoring risks; and
+31 (iv) Procedures for the periodic evaluation and revision of anti-fraud procedures, controls,
+32 and monitoring mechanisms.
+33 (2) Each virtual currency kiosk operator shall designate and employ a compliance officer
+34 in accordance with the following requirements:
+LC000562/SUB A - Page 7 of 10
+
+1 (i) The compliance officer shall be qualified to coordinate and monitor compliance with
+2 any virtual currency business activity transacted in this state pursuant to this chapter and all other
+3 applicable federal and state laws, rules, and regulations;
+4 (ii) The compliance officer shall be employed full-time by the virtual currency kiosk
+5 operator; and
+6 (iii) The compliance officer shall not be an individual who owns more than a twenty percent
+7 (20%) interest of the virtual currency kiosk operator by whom the individual is employed.
+8 (3) Upon request of the customer, a virtual currency kiosk operator shall issue a refund to
+9 a new customer for the full amount of all transactions made within the thirty (30) day new customer
+10 time period as provided in the definition of "new customer" in § 19-14.3-1.1. In order to receive a
+11 refund under this subsection, a new customer shall have been fraudulently induced to engage in the
+12 virtual currency transaction(s) and shall contact the virtual currency kiosk operator and a
+13 government or law enforcement agency to inform them of the fraudulent nature of the transaction(s)
+14 within ninety (90) days of the last transaction to occur during the thirty (30) day new customer time
+15 period.
+16 (4) A virtual currency kiosk operator shall issue a refund to an existing customer for the
+17 full amount of all transaction fees upon the request of an existing customer. In order to receive a
+18 refund under this subsection, an existing customer shall have been fraudulently induced to engage
+19 in the virtual currency transaction(s) and shall contact the virtual currency kiosk operator and a
+20 government or law enforcement agency to inform them of the fraudulent nature of the transaction(s)
+21 within ninety (90) days of each transaction.
+22 19-14.3-3.12. Daily transaction limit for new and existing customers.
+23 (a) For new customers a virtual currency kiosk operator shall not accept transactions of
+24 more than two thousand U.S. dollars ($2,000) a day of cash or the equivalent.
+25 (b) For existing customers, a virtual currency kiosk operator shall not accept transactions
+26 of more than five thousand U.S. dollars ($5,000) a day of cash or the equivalent.
+27 (c) The limits imposed by this section apply to a single customer without regard to the
+28 number of virtual currency kiosks utilized in the state.
+29 19-14.3-3.13. Customer service.
+30 All virtual currency kiosk operators performing business in the state shall provide live
+31 customer service, at a minimum, Monday through Friday between 8:00 AM EST and 10:00 PM
+32 EST. The customer service toll free number shall be displayed on the virtual currency kiosk or the
+33 virtual currency kiosk screen.
+LC000562/SUB A - Page 8 of 10
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC000562/SUB A
+========
+LC000562/SUB A - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+***
+1 This act would create a process for the licensure and oversight by the department of
+2 business regulation over the practices and procedures of virtual currency kiosk operators to prevent
+3 fraud related to the use of virtual currency kiosks, by establishing daily transaction limits and the
+4 regulating of fees.
+5 This act would take effect upon passage.
+========
+LC000562/SUB A
+========
+LC000562/SUB A - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " 1 I t ( " a m t a o d f b o p d ( " a s m a s s t u b a o ( ( p ( W u i r t a p t d o i p t d t m f u ( (]
+[DELETED:  b ( o ( ( c w ( p ( ( m ( v ( d p a t f f t w t v c k o F t t ( d p a n c a c t a e c ( a g a ( i ( ( ( ( ( t ( ( I a l r o a p s o s ( r]
+[DELETED:  ( ( ( p ( t t ( c c ( a ( r ( ( s ( ( p t ( c ( ( a ( p i ( o ( d (]
+[DELETED:  o w ( v c ( " c k o " m a e t a a a m o c ( v ( D u t v c i t p o t e t o ( w a c ( a ( v o c S h 1 ( o a u v c k o a a m t ( v c i]
+[DELETED:  ( l ( ( ( ( ( ( ( 1 A m a k ( d c ( T d u t s s i a a m t f p ( d T A N R A T I V C A I V C T M B U T S Y M B C I T G W T S Y I H B S A C H B H I Y W M F Y B O I M T S Y I Y B Y A B S ( v ( (]
+[DELETED:  v ( c ( A s t v c i n l t b o i b t g a a a v b a n s t F D I C p ( r t ( A s t v c v m b d f m p c p d ( t ( r ( e c ( b ( w ( ( ( ( t d ( w (]
+[DELETED:  t ( t l m a t a p b t c w s c t f i ( T v c k o n a c i i a t ( a ( ( ( ( ( A s o v c k o l f n o d ( ( r 1 A p c d r ( f s ( ( ( ( a ( i]
+[DELETED:  ( a a ( o s b e b t v c k o ( ( ( a t r v c t a s c t v c k o a a g w p ( f r i g w 1 ( m ( o ( n 1 A c E v ]
+[DELETED:  S]
+[DELETED:  T c b f r T]

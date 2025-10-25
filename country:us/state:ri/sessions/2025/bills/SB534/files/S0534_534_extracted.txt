@@ -1,0 +1,518 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Number of Sections: 1
+Source: versions - 534
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0534
+========
+LC001512
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+Introduced By: Senators Gu, Tikoian, and Bell
+Date Introduced: February 26, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+2 -- PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.1
+4 THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+5 9-3.1-1. Short title.
+6 This chapter shall be known and may be cited as the “Third-Party Litigation Financing
+7 Consumer Protection Act.”
+8 9-3.1-2. Definitions.
+9 As used in this chapter:
+10 (1) "Consumer" means any natural person or persons who resides, is present or is domiciled
+11 in this state, or who is or may become a plaintiff or complainant in a lawsuit or other legal dispute
+12 in this state.
+13 (2) "Legal representative" means an attorney, group of attorneys, or law firm who may be
+14 entitled to represent a person or persons in a legal dispute in this state.
+15 (3) "Litigation financer'' means a person, group of persons, or legal entity, engaged in the
+16 business of litigation financing or any other mechanism created with the intent of so doing.
+17 (4) "Litigation financing" means the funding of litigation activities or related claims by
+18 anyone other than the parties to the claim or litigation themselves, their counsel, or entities with a
+1 preexisting contractual indemnitor or a liability insurer relationship with one of the parties.
+2 Litigation financing includes the purchase of bills, accounts or liens or otherwise paying for or
+3 purchasing services rendered related to claims or litigation.
+4 (5) "Litigation financing transaction" means a transaction in which litigation financing is
+5 provided to a consumer, legal representative, or medical provider in return for assigning to the
+6 litigation financer a contingent right to receive an amount or amounts of the potential proceeds of
+7 consumer judgments, awards, settlements or verdicts obtained with respect to the consumer's legal
+8 claim, or agreeing to pay the litigation financer interest, fees or any other consideration for the
+9 financing provided. The term "litigation financing transaction" does not include legal
+10 representation services provided to a consumer by a legal representative on a contingency fee basis,
+11 or legal costs advanced by a legal representative, where such services or costs are provided to or
+12 on behalf of a consumer by a legal representative in the dispute and in accordance with the Rhode
+13 Island Disciplinary Rules of Professional Conduct.
+14 (6) "Medical provider" means any person or business providing medical services of any
+15 kind to a consumer, including, but not limited to, physicians, nurse practitioners, hospitals, physical
+16 therapists, chiropractors, or radiologists, as well as any of their employees, contractors, practice
+17 groups, partnerships or incorporations of the same.
+18 9-3.1-3. Litigation financer - Registration - Bond - Public record.
+19 (a)(1) No litigation financer shall engage in a litigation financing transaction in Rhode
+20 Island unless it is registered as a litigation financer in this state.
+21 (2) A litigation financer that is a business entity or partnership is registered in this state if:
+22 (i) It has a status of active and in good standing as reflected in the records of the secretary
+23 of state; and
+24 (ii) Its charter, articles of organization, certificate of limited partnership, or other
+25 organizational document, or, if a foreign entity, its Rhode Island application for a certificate of
+26 authority, to do business in this state, contains a statement that it shall be designated as a litigation
+27 financer pursuant to this chapter.
+28 (3) A litigation financer that is not a business entity or partnership is registered in this state
+29 if it files an application for registration as a litigation financer on a form prescribed by the secretary
+30 of state, along with a filing fee of one hundred dollars ($100), that contains the following:
+31 (i) Applicant's full legal name;
+32 (ii) Business name of applicant, if any;
+33 (iii) Physical street address and mailing address of the applicant;
+34 (iv) A telephone number through which the applicant can be reached;
+LC001512 - Page 2 of 8
+1 (v) The name, physical street address, mailing address, and telephone number for a Rhode
+2 Island registered agent appointed to accept service of process on behalf of the applicant;
+3 (vi) A statement that the applicant shall be designated as a litigation financer pursuant to
+4 this chapter; and
+5 (vii) Any other information the secretary of state deems necessary.
+6 (b) Each litigation financer shall file with the secretary of state a surety bond of not less
+7 than fifty thousand dollars ($50,000). The bond shall be payable to this state for the use of the
+8 attorney general and any person who may have a cause of action against the obligor of the bond for
+9 any violation of this chapter. The bond shall continue in effect as long as a litigation financer is
+10 designated as a litigation financer in the records of the secretary of state.
+11 (c) A litigation financer shall amend its registration with the secretary of state under
+12 subsection (a) of this section within thirty (30) days whenever the information contained in such
+13 record changes or becomes inaccurate or incomplete in any respect. A litigation financer that is not
+14 a business entity or partnership may amend its registration with the secretary of state by filing an
+15 amendment on a form prescribed by the secretary of state, along with a filing fee of twenty dollars
+16 ($20.00).
+17 (d) All documents filed pursuant to this section shall be a public record.
+18 9-3.1-4. Litigation financing protections.
+19 (a) A litigation financer shall not:
+20 (1) Pay or offer commissions, referral fees or other forms of consideration to any legal
+21 representative, medical provider, or any of their employees for referring a consumer to a litigation
+22 financer;
+23 (2) Accept any commissions, referral fees, rebates or other forms of consideration from a
+24 legal representative, medical provider or any of their employees;
+25 (3) Advertise false or misleading information regarding its products or services;
+26 (4) Refer a consumer or potential consumer to a specific legal representative, medical
+27 provider or any of their employees;
+28 (5) Fail to promptly supply copies of any complete litigation financing contracts to the
+29 consumer and the consumer's legal representative;
+30 (6) Attempt to secure a remedy or obtain a waiver of any remedy, including, but not limited
+31 to, compensatory, statutory, or punitive damages, that the consumer might otherwise be or not be
+32 entitled to pursue;
+33 (7) Attempt to effect arbitration or otherwise effect waiver of a consumer's right to trial by
+34 jury;
+LC001512 - Page 3 of 8
+1 (8) Offer or provide legal advice to the consumer regarding the litigation financing or the
+2 underlying dispute;
+3 (9) Assign, which includes securitizing, a litigation financing contract in whole or in part;
+4 (10) Report a consumer to a credit reporting agency if insufficient funds remain from the
+5 net proceeds to repay the litigation financer; or
+6 (11) Receive or exercise any right to direct, or make any decisions with respect to, the
+7 conduct of the consumer's legal claim or any settlement or resolution thereof. The right to make
+8 such decisions shall remain solely with the consumer and their legal representative.
+9 (b) A legal representative retained by a consumer, or a medical provider for such consumer,
+10 or any of their employees shall not have a financial interest in litigation financing and shall not
+11 receive a referral fee or other consideration from any litigation financer, its employees, owners or
+12 its affiliates.
+13 9-3.1-5. Litigation financing contracts - Disclosures.
+14 (a) The terms of the litigation financing agreement shall be set forth in a written contract
+15 that is completely filled in. There shall be no incomplete sections when the contract is offered or
+16 presented to the consumer, legal representative, or medical provider.
+17 (b) Litigation financing contracts shall contain the disclosures specified in this section,
+18 which shall constitute material terms of the litigation financing contract.
+19 (c) These disclosures shall be typed in at least fourteen (14)-point, bold font and be placed
+20 clearly and conspicuously immediately above the consumer's signature line in the litigation
+21 financing contract. The disclosures are as is follows:
+22 (1) Consumer's right to cancellation: You may cancel this contract without penalty or
+23 further obligation within five (5) business days from the date you signed this contract or received
+24 financing from [insert name of the litigation financer] by either returning the funds to [insert name,
+25 office address and office hours of the litigation financer] or by U.S. mail, [insert name and mailing
+26 address of litigation financer]. For return by U.S. mail, the postmark date on the returned funds or,
+27 if mailed by registered or certified mail, the date of the return receipt requested shall be the date of
+28 return;
+29 (2) The fees charged pursuant to this agreement shall not exceed [litigation financer to
+30 insert annual interest percentage rate, percentage of award or settlement proceeds, or dollar
+31 amount];
+32 (3) The litigation financer agrees that it has no right to and will not make any decisions
+33 about the conduct of your lawsuit or dispute and that the right to make those decisions remains
+34 solely with you and your legal representative;
+LC001512 - Page 4 of 8
+1 (4) If there is no recovery of any money from your legal claim or if there is not enough
+2 money to satisfy the portion assigned to [insert name of the litigation financer] in full, you will not
+3 owe anything in excess of your recovery; and
+4 (5) Do not sign this contract before you read it completely. If this contract contains any
+5 incomplete sections, you are entitled to a completely filled-in copy of the contract prior to signing
+6 it. Before you sign this contract, you should obtain the advice of an attorney. Depending on the
+7 circumstances, you may want to consult a tax advisor, a financial professional or an accountant."
+8 (d) If the consumer is represented by a legal representative in the dispute that is the subject
+9 of the litigation financing contract, the legal representative shall acknowledge in the contract that
+10 they or their employer or employees have neither received nor paid a referral fee or any other
+11 consideration from or to the litigation financer, nor will in the future do so.
+12 (e) If the consumer's legal representative is a party to a litigation financing agreement
+13 related to the consumer's legal proceeding, the legal representative shall share with the consumer
+14 the agreement between the legal representative and the litigation financer. The agreement shall be
+15 accompanied by the disclosures required by this section, and the consumer shall sign both an
+16 acknowledgement that the agreement has been read and the required disclosures.
+17 9-3.1-6. Disclosure of financing agreements – Discovery.
+18 (a) Except as otherwise stipulated or ordered by the court, a consumer or their legal
+19 representative shall, without awaiting a discovery request, provide to all parties to the litigation,
+20 including their insurer if prior to litigation, any litigation financing contract or agreement under
+21 which anyone, other than a legal representative permitted to charge a contingent fee representing a
+22 party, has received or has a right to receive compensation or proceeds from the consumer that are
+23 contingent on and sourced from any proceeds of the civil action, by settlement, judgment, or
+24 otherwise.
+25 (b) The existence of litigation financing, litigation financing transactions and all
+26 participants in such financing arrangements are permissible subjects of discovery in all personal
+27 injury litigation or matters arising out of personal injuries.
+28 9-3.1-7. Annual reporting.
+29 (a) Each litigation financer shall file a report annually with the secretary of state in
+30 accordance with such procedures as the secretary of state may require. The report shall contain at
+31 least the following:
+32 (1) For each person that, directly or indirectly, owns, controls, holds with the power to vote,
+33 or holds proxies representing, five percent (5%) or more of the voting securities of the litigation
+34 financer:
+LC001512 - Page 5 of 8
+1 (i) The legal name and address of each person;
+2 (ii) If the person is an individual, their principal occupation and offices and positions held
+3 during the past five (5) years, and any conviction of crimes other than minor traffic violations
+4 during the past ten (10) years; and
+5 (iii) If the person is not an individual, a report of the nature of its business operations during
+6 the past five (5) years or for the lesser period as the person and any predecessors shall have been in
+7 existence; a narrative description of the business intended to be done by the person and the person's
+8 subsidiaries; and a list of all individuals who are or who have been selected to become directors or
+9 executive officers of the person. The list shall include for each individual the information required
+10 by subsection (a)(2) of this section.
+11 (2) For each litigation financing transaction entered in this state or involving a claim to be
+12 litigated in this state, the litigation financer shall identify:
+13 (i) The amount, date(s) of payment(s), and name and address of each person that received
+14 any amount of financing from a litigation financer during the previous calendar year;
+15 (ii) The amount, date of payment, and source of payment for all proceeds obtained by the
+16 litigation financer during the previous calendar year from any judgment, award, settlement or
+17 verdict in a litigation financing transaction; and
+18 (iii) Any other information the secretary of state deems necessary for the administration of
+19 justice.
+20 (b) Secretary of state reporting obligations:
+21 (1) The secretary of state shall provide to the house and senate judiciary committees an
+22 annual report within six (6) months of the receipt of the information in subsection (a) of this section,
+23 containing all of the information therein and a summary. This report as filed shall not be made
+24 available to the public and shall be confidential by law and privileged, shall not be subject to the
+25 provisions of chapter 2 of title 38 ("public records"), shall not be subject to subpoena, and shall not
+26 be subject to discovery or admissible in evidence in any private civil action.
+27 (2) The secretary of state shall release the report and summary required pursuant to
+28 subsection (b)(l) of this section to the public subject to the removal of all personally identifiable
+29 information of any consumer. Nothing in this subsection shall affect the obligation to disclose
+30 litigation financing contracts or other agreements under § 9-3.1-6.
+31 9-3.1-8. Class action lawsuits.
+32 This chapter shall apply to any class action. Putative class members and the court shall be
+33 advised that the proposed class attorney has a legal or financial relationship with a litigation
+34 financer.
+LC001512 - Page 6 of 8
+1 9-3.1-9. Commercial litigation exemption - Limitation.
+2 This chapter shall not apply to litigation financing provided to commercial enterprises in
+3 support of commercial litigation. This exemption does not apply to situations arising from a
+4 personal injury claim or an aggregation of personal injury claims, whether by subrogation,
+5 assignment, or any other basis.
+6 9-3.1-10. Regulatory oversight.
+7 The practice of litigation financing shall be regulated by the secretary of state. The
+8 secretary of state shall adopt rules and regulations consistent with this chapter and its authority
+9 under law.
+10 9-3.1-11. Act violation - Unenforceable contract.
+11 Any violation of this chapter shall make the litigation financing contract unenforceable by
+12 the litigation financer, the consumer, or any successor-in-interest to the litigation financing
+13 contract.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC001512
+========
+LC001512 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+***
+1 This act would comprehensively regulate the practices of third-party litigation financers in
+2 Rhode Island.
+3 This act would take effect upon passage.
+========
+LC001512
+========
+LC001512 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S - C T 9 T C 9 A ( i i ( e ( b ( a]
+[DELETED:  p c i o a l i r w o o t p L p ( p l c c f p T t " f t d n i l r o o I ( k t g 9 ( I ( ( o ( I c a o o c o l p o o o a f ( i o ( ( ( (]
+[DELETED:  ( I ( t ( ( t a a d ( A l f s a i w t s o s u s r a a ( ( 9 ( ( r f ( l ( ( p ( c ( t e ( j]
+[DELETED:  ( u ( ( n ( c s ( o r i 9 ( t p ( w ( c a c i a t c s l i t l f ( f f o a i r ( i a i p r p o a o s p o d a ( a s]
+[DELETED:  ( m o ( i i c ( o t c ( r t a a 9 ( E a o s o o b t c a o t l r i w p c o ( T e o l f l f t a a p i 9 ( E l f s f a r a w t s o s i a l ( o f]
+[DELETED:  ( ( d d ( t e s e b ( l ( a ( l v ( j ( ( a c a p b ( T s o s s r t r a s r p t s i l 9 T a f]
+[DELETED:  9 T s o c l T e d n a t s a f a p i c o a a o p i c w b s a 9 T p o l f s b r b t s o s T s u 9 A t l f t c o a s t t l f c S]
+[DELETED:  T R T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0534
+========
+LC001512
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+Introduced By: Senators Gu, Tikoian, and Bell
+Date Introduced: February 26, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+2 -- PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.1
+4 THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+5 9-3.1-1. Short title.
+6 This chapter shall be known and may be cited as the “Third-Party Litigation Financing
+7 Consumer Protection Act.”
+8 9-3.1-2. Definitions.
+9 As used in this chapter:
+10 (1) "Consumer" means any natural person or persons who resides, is present or is domiciled
+11 in this state, or who is or may become a plaintiff or complainant in a lawsuit or other legal dispute
+12 in this state.
+13 (2) "Legal representative" means an attorney, group of attorneys, or law firm who may be
+14 entitled to represent a person or persons in a legal dispute in this state.
+15 (3) "Litigation financer'' means a person, group of persons, or legal entity, engaged in the
+16 business of litigation financing or any other mechanism created with the intent of so doing.
+17 (4) "Litigation financing" means the funding of litigation activities or related claims by
+18 anyone other than the parties to the claim or litigation themselves, their counsel, or entities with a
+
+1 preexisting contractual indemnitor or a liability insurer relationship with one of the parties.
+2 Litigation financing includes the purchase of bills, accounts or liens or otherwise paying for or
+3 purchasing services rendered related to claims or litigation.
+4 (5) "Litigation financing transaction" means a transaction in which litigation financing is
+5 provided to a consumer, legal representative, or medical provider in return for assigning to the
+6 litigation financer a contingent right to receive an amount or amounts of the potential proceeds of
+7 consumer judgments, awards, settlements or verdicts obtained with respect to the consumer's legal
+8 claim, or agreeing to pay the litigation financer interest, fees or any other consideration for the
+9 financing provided. The term "litigation financing transaction" does not include legal
+10 representation services provided to a consumer by a legal representative on a contingency fee basis,
+11 or legal costs advanced by a legal representative, where such services or costs are provided to or
+12 on behalf of a consumer by a legal representative in the dispute and in accordance with the Rhode
+13 Island Disciplinary Rules of Professional Conduct.
+14 (6) "Medical provider" means any person or business providing medical services of any
+15 kind to a consumer, including, but not limited to, physicians, nurse practitioners, hospitals, physical
+16 therapists, chiropractors, or radiologists, as well as any of their employees, contractors, practice
+17 groups, partnerships or incorporations of the same.
+18 9-3.1-3. Litigation financer - Registration - Bond - Public record.
+19 (a)(1) No litigation financer shall engage in a litigation financing transaction in Rhode
+20 Island unless it is registered as a litigation financer in this state.
+21 (2) A litigation financer that is a business entity or partnership is registered in this state if:
+22 (i) It has a status of active and in good standing as reflected in the records of the secretary
+23 of state; and
+24 (ii) Its charter, articles of organization, certificate of limited partnership, or other
+25 organizational document, or, if a foreign entity, its Rhode Island application for a certificate of
+26 authority, to do business in this state, contains a statement that it shall be designated as a litigation
+27 financer pursuant to this chapter.
+28 (3) A litigation financer that is not a business entity or partnership is registered in this state
+29 if it files an application for registration as a litigation financer on a form prescribed by the secretary
+30 of state, along with a filing fee of one hundred dollars ($100), that contains the following:
+31 (i) Applicant's full legal name;
+32 (ii) Business name of applicant, if any;
+33 (iii) Physical street address and mailing address of the applicant;
+34 (iv) A telephone number through which the applicant can be reached;
+LC001512 - Page 2 of 8
+
+1 (v) The name, physical street address, mailing address, and telephone number for a Rhode
+2 Island registered agent appointed to accept service of process on behalf of the applicant;
+3 (vi) A statement that the applicant shall be designated as a litigation financer pursuant to
+4 this chapter; and
+5 (vii) Any other information the secretary of state deems necessary.
+6 (b) Each litigation financer shall file with the secretary of state a surety bond of not less
+7 than fifty thousand dollars ($50,000). The bond shall be payable to this state for the use of the
+8 attorney general and any person who may have a cause of action against the obligor of the bond for
+9 any violation of this chapter. The bond shall continue in effect as long as a litigation financer is
+10 designated as a litigation financer in the records of the secretary of state.
+11 (c) A litigation financer shall amend its registration with the secretary of state under
+12 subsection (a) of this section within thirty (30) days whenever the information contained in such
+13 record changes or becomes inaccurate or incomplete in any respect. A litigation financer that is not
+14 a business entity or partnership may amend its registration with the secretary of state by filing an
+15 amendment on a form prescribed by the secretary of state, along with a filing fee of twenty dollars
+16 ($20.00).
+17 (d) All documents filed pursuant to this section shall be a public record.
+18 9-3.1-4. Litigation financing protections.
+19 (a) A litigation financer shall not:
+20 (1) Pay or offer commissions, referral fees or other forms of consideration to any legal
+21 representative, medical provider, or any of their employees for referring a consumer to a litigation
+22 financer;
+23 (2) Accept any commissions, referral fees, rebates or other forms of consideration from a
+24 legal representative, medical provider or any of their employees;
+25 (3) Advertise false or misleading information regarding its products or services;
+26 (4) Refer a consumer or potential consumer to a specific legal representative, medical
+27 provider or any of their employees;
+28 (5) Fail to promptly supply copies of any complete litigation financing contracts to the
+29 consumer and the consumer's legal representative;
+30 (6) Attempt to secure a remedy or obtain a waiver of any remedy, including, but not limited
+31 to, compensatory, statutory, or punitive damages, that the consumer might otherwise be or not be
+32 entitled to pursue;
+33 (7) Attempt to effect arbitration or otherwise effect waiver of a consumer's right to trial by
+34 jury;
+LC001512 - Page 3 of 8
+
+1 (8) Offer or provide legal advice to the consumer regarding the litigation financing or the
+2 underlying dispute;
+3 (9) Assign, which includes securitizing, a litigation financing contract in whole or in part;
+4 (10) Report a consumer to a credit reporting agency if insufficient funds remain from the
+5 net proceeds to repay the litigation financer; or
+6 (11) Receive or exercise any right to direct, or make any decisions with respect to, the
+7 conduct of the consumer's legal claim or any settlement or resolution thereof. The right to make
+8 such decisions shall remain solely with the consumer and their legal representative.
+9 (b) A legal representative retained by a consumer, or a medical provider for such consumer,
+10 or any of their employees shall not have a financial interest in litigation financing and shall not
+11 receive a referral fee or other consideration from any litigation financer, its employees, owners or
+12 its affiliates.
+13 9-3.1-5. Litigation financing contracts - Disclosures.
+14 (a) The terms of the litigation financing agreement shall be set forth in a written contract
+15 that is completely filled in. There shall be no incomplete sections when the contract is offered or
+16 presented to the consumer, legal representative, or medical provider.
+17 (b) Litigation financing contracts shall contain the disclosures specified in this section,
+18 which shall constitute material terms of the litigation financing contract.
+19 (c) These disclosures shall be typed in at least fourteen (14)-point, bold font and be placed
+20 clearly and conspicuously immediately above the consumer's signature line in the litigation
+21 financing contract. The disclosures are as is follows:
+22 (1) Consumer's right to cancellation: You may cancel this contract without penalty or
+23 further obligation within five (5) business days from the date you signed this contract or received
+24 financing from [insert name of the litigation financer] by either returning the funds to [insert name,
+25 office address and office hours of the litigation financer] or by U.S. mail, [insert name and mailing
+26 address of litigation financer]. For return by U.S. mail, the postmark date on the returned funds or,
+27 if mailed by registered or certified mail, the date of the return receipt requested shall be the date of
+28 return;
+29 (2) The fees charged pursuant to this agreement shall not exceed [litigation financer to
+30 insert annual interest percentage rate, percentage of award or settlement proceeds, or dollar
+31 amount];
+32 (3) The litigation financer agrees that it has no right to and will not make any decisions
+33 about the conduct of your lawsuit or dispute and that the right to make those decisions remains
+34 solely with you and your legal representative;
+LC001512 - Page 4 of 8
+
+1 (4) If there is no recovery of any money from your legal claim or if there is not enough
+2 money to satisfy the portion assigned to [insert name of the litigation financer] in full, you will not
+3 owe anything in excess of your recovery; and
+4 (5) Do not sign this contract before you read it completely. If this contract contains any
+5 incomplete sections, you are entitled to a completely filled-in copy of the contract prior to signing
+6 it. Before you sign this contract, you should obtain the advice of an attorney. Depending on the
+7 circumstances, you may want to consult a tax advisor, a financial professional or an accountant."
+8 (d) If the consumer is represented by a legal representative in the dispute that is the subject
+9 of the litigation financing contract, the legal representative shall acknowledge in the contract that
+10 they or their employer or employees have neither received nor paid a referral fee or any other
+11 consideration from or to the litigation financer, nor will in the future do so.
+12 (e) If the consumer's legal representative is a party to a litigation financing agreement
+13 related to the consumer's legal proceeding, the legal representative shall share with the consumer
+14 the agreement between the legal representative and the litigation financer. The agreement shall be
+15 accompanied by the disclosures required by this section, and the consumer shall sign both an
+16 acknowledgement that the agreement has been read and the required disclosures.
+17 9-3.1-6. Disclosure of financing agreements – Discovery.
+18 (a) Except as otherwise stipulated or ordered by the court, a consumer or their legal
+19 representative shall, without awaiting a discovery request, provide to all parties to the litigation,
+20 including their insurer if prior to litigation, any litigation financing contract or agreement under
+21 which anyone, other than a legal representative permitted to charge a contingent fee representing a
+22 party, has received or has a right to receive compensation or proceeds from the consumer that are
+23 contingent on and sourced from any proceeds of the civil action, by settlement, judgment, or
+24 otherwise.
+25 (b) The existence of litigation financing, litigation financing transactions and all
+26 participants in such financing arrangements are permissible subjects of discovery in all personal
+27 injury litigation or matters arising out of personal injuries.
+28 9-3.1-7. Annual reporting.
+29 (a) Each litigation financer shall file a report annually with the secretary of state in
+30 accordance with such procedures as the secretary of state may require. The report shall contain at
+31 least the following:
+32 (1) For each person that, directly or indirectly, owns, controls, holds with the power to vote,
+33 or holds proxies representing, five percent (5%) or more of the voting securities of the litigation
+34 financer:
+LC001512 - Page 5 of 8
+
+1 (i) The legal name and address of each person;
+2 (ii) If the person is an individual, their principal occupation and offices and positions held
+3 during the past five (5) years, and any conviction of crimes other than minor traffic violations
+4 during the past ten (10) years; and
+5 (iii) If the person is not an individual, a report of the nature of its business operations during
+6 the past five (5) years or for the lesser period as the person and any predecessors shall have been in
+7 existence; a narrative description of the business intended to be done by the person and the person's
+8 subsidiaries; and a list of all individuals who are or who have been selected to become directors or
+9 executive officers of the person. The list shall include for each individual the information required
+10 by subsection (a)(2) of this section.
+11 (2) For each litigation financing transaction entered in this state or involving a claim to be
+12 litigated in this state, the litigation financer shall identify:
+13 (i) The amount, date(s) of payment(s), and name and address of each person that received
+14 any amount of financing from a litigation financer during the previous calendar year;
+15 (ii) The amount, date of payment, and source of payment for all proceeds obtained by the
+16 litigation financer during the previous calendar year from any judgment, award, settlement or
+17 verdict in a litigation financing transaction; and
+18 (iii) Any other information the secretary of state deems necessary for the administration of
+19 justice.
+20 (b) Secretary of state reporting obligations:
+21 (1) The secretary of state shall provide to the house and senate judiciary committees an
+22 annual report within six (6) months of the receipt of the information in subsection (a) of this section,
+23 containing all of the information therein and a summary. This report as filed shall not be made
+24 available to the public and shall be confidential by law and privileged, shall not be subject to the
+25 provisions of chapter 2 of title 38 ("public records"), shall not be subject to subpoena, and shall not
+26 be subject to discovery or admissible in evidence in any private civil action.
+27 (2) The secretary of state shall release the report and summary required pursuant to
+28 subsection (b)(l) of this section to the public subject to the removal of all personally identifiable
+29 information of any consumer. Nothing in this subsection shall affect the obligation to disclose
+30 litigation financing contracts or other agreements under § 9-3.1-6.
+31 9-3.1-8. Class action lawsuits.
+32 This chapter shall apply to any class action. Putative class members and the court shall be
+33 advised that the proposed class attorney has a legal or financial relationship with a litigation
+34 financer.
+LC001512 - Page 6 of 8
+
+1 9-3.1-9. Commercial litigation exemption - Limitation.
+2 This chapter shall not apply to litigation financing provided to commercial enterprises in
+3 support of commercial litigation. This exemption does not apply to situations arising from a
+4 personal injury claim or an aggregation of personal injury claims, whether by subrogation,
+5 assignment, or any other basis.
+6 9-3.1-10. Regulatory oversight.
+7 The practice of litigation financing shall be regulated by the secretary of state. The
+8 secretary of state shall adopt rules and regulations consistent with this chapter and its authority
+9 under law.
+10 9-3.1-11. Act violation - Unenforceable contract.
+11 Any violation of this chapter shall make the litigation financing contract unenforceable by
+12 the litigation financer, the consumer, or any successor-in-interest to the litigation financing
+13 contract.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC001512
+========
+LC001512 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+THIRD-PARTY LITIGATION FINANCING CONSUMER PROTECTION ACT
+***
+1 This act would comprehensively regulate the practices of third-party litigation financers in
+2 Rhode Island.
+3 This act would take effect upon passage.
+========
+LC001512
+========
+LC001512 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S - C T 9 T C 9 A ( i i ( e ( b ( a]
+[DELETED:  p c i o a l i r w o o t p L p ( p l c c f p T t " f t d n i l r o o I ( k t g 9 ( I ( ( o ( I c a o o c o l p o o o a f ( i o ( ( ( (]
+[DELETED:  ( I ( t ( ( t a a d ( A l f s a i w t s o s u s r a a ( ( 9 ( ( r f ( l ( ( p ( c ( t e ( j]
+[DELETED:  ( u ( ( n ( c s ( o r i 9 ( t p ( w ( c a c i a t c s l i t l f ( f f o a i r ( i a i p r p o a o s p o d a ( a s]
+[DELETED:  ( m o ( i i c ( o t c ( r t a a 9 ( E a o s o o b t c a o t l r i w p c o ( T e o l f l f t a a p i 9 ( E l f s f a r a w t s o s i a l ( o f]
+[DELETED:  ( ( d d ( t e s e b ( l ( a ( l v ( j ( ( a c a p b ( T s o s s r t r a s r p t s i l 9 T a f]
+[DELETED:  9 T s o c l T e d n a t s a f a p i c o a a o p i c w b s a 9 T p o l f s b r b t s o s T s u 9 A t l f t c o a s t t l f c S]
+[DELETED:  T R T]

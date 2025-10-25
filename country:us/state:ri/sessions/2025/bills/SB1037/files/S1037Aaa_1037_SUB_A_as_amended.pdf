@@ -1,0 +1,297 @@
+2025 -- S 1037 SUBSTITUTE A AS AMENDED
+========
+LC002859/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- IDENTITY THEFT PROTECTION ACT OF 2015
+Introduced By: Senators Gu, Zurier, Burke, Ciccone, Urso, DiPalma, Vargas, Paolino,
+Tikoian, and Lawson
+Date Introduced: May 09, 2025
+Referred To: Senate Artificial Intelligence & Emerging Tech
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 11-49.3-2, 11-49.3-3, 11-49.3-4, 11-49.3-5, 11-49.3-6 and 11-49.3-
+2 7 of the General Laws in Chapter 11-49.3 entitled "Identity Theft Protection Act of 2015" are
+3 hereby amended to read as follows:
+4 11-49.3-2. Risk-based information security program.
+5 (a) A municipal agency, state agency, or person who or that stores, collects, processes,
+6 maintains, acquires, uses, owns, or licenses personal personally identifiable information about a
+7 Rhode Island resident shall, at a minimum, implement and maintain a risk-based information
+8 security program that meets current best practices of an approved and industry recognized
+9 cybersecurity framework that contains reasonable security procedures, programs and practices
+10 appropriate to the size and scope of the organization; the nature of the information; and the purpose
+11 for which the information was collected in order to protect the personal personally identifiable
+12 information from unauthorized access, use, modification, destruction, or disclosure and to preserve
+13 the confidentiality, integrity, and availability of such information. Controls and procedures shall be
+14 implemented to restrict and manage access to the data in transit and at rest. A municipal agency,
+15 state agency, or person shall not retain personal personally identifiable information for a period
+16 longer than is reasonably required to provide the services requested; to meet the purpose for which
+17 it was collected; or in accordance with a written retention policy or as may be required by law. A
+18 municipal agency, state agency, or person shall destroy all personal personally identifiable
+19 information, regardless of the medium that such information is in, in a secure manner, including,
+
+1 but not limited to, shredding, pulverization, incineration, or erasure in accordance with current best
+2 practices of an approved and industry recognized sanitization and destruction guideline.
+3 (b) A municipal agency, state agency, or person who or that discloses personal personally
+4 identifiable information about a Rhode Island resident to a nonaffiliated third party shall require by
+5 written contract that the third party and any sub-contracted party implement and maintain
+6 reasonable security procedures, programs and practices that meet current best practices of an
+7 approved and industry recognized cybersecurity framework and are appropriate to the size and
+8 scope of the organization; the nature of the information; and the purpose for which the information
+9 was collected in order to protect the personal personally identifiable information from unauthorized
+10 access, use, modification, destruction, or disclosure. The provisions of this section shall apply to
+11 contracts entered into after the effective date of this act.
+12 (c) Municipal and state agencies shall provide an annual update to the general assembly
+13 and the division of enterprise technology strategy and services (ETSS) or successor state agency,
+14 or successor to the chief digital officer in the form required by the ETSS.
+15 11-49.3-3. Definitions.
+16 (a) The following definitions apply to this chapter:
+17 (1) “Breach of the security of the system” means unauthorized access or acquisition of
+18 unencrypted, computerized data information that compromises the security, confidentiality, or
+19 integrity of personal personally identifiable information maintained by the municipal agency, state
+20 agency, or person. Good-faith acquisition of personal personally identifiable information by an
+21 employee or agent of the agency for the purposes of the agency is not a breach of the security of
+22 the system; provided, that the personal personally identifiable information is not used or subject to
+23 further unauthorized disclosure.
+24 (2) “Classified data” means any data that is not public (private, sensitive, confidential).
+25 Classified data requires additional security controls, such as access restrictions and encryption.
+26 Classified data includes personally identifiable information (PII), personally identifiable health
+27 information (PHI), or federal tax information (FTI).
+28 (3) “Cybersecurity incident” means unauthorized access that could jeopardize the
+29 confidentiality, integrity, or availability of critical information systems and critical infrastructure
+30 systems (i.e., first responder networks, water, energy).
+31 (4)(3) “Encrypted” means the transformation of data through the use of a one hundred
+32 twenty-eight (128) bit or higher algorithmic process into a form in which there is a low probability
+33 of assigning meaning without use of a confidential process or key. Data shall not be considered to
+34 be encrypted if it is acquired in combination with any key, security code, or password that would
+LC002859/SUB A - Page 2 of 9
+
+1 permit access to the encrypted data.
+2 (5)(4) “Health insurance information” means an individual’s health insurance policy
+3 number, subscriber identification number, or any unique identifier used by a health insurer to
+4 identify the individual.
+5 (6)(5) “Medical information” means any information regarding an individual’s medical
+6 history, mental or physical condition, or medical treatment or diagnosis by a healthcare professional
+7 or provider.
+8 (7)(6) “Municipal agency” means any department, division, agency, commission, board,
+9 office, bureau, authority, quasi-public authority, or school, fire, or water district within Rhode
+10 Island, other than a state agency, and any other agency that is in any branch of municipal
+11 government and exercises governmental functions other than in an advisory nature.
+12 (8)(7) “Owner” means the original collector of the information.
+13 (9)(8) “Person” shall include any individual, sole proprietorship, partnership, association,
+14 corporation, joint venture, business, legal entity, trust, estate, cooperative, or other commercial
+15 entity.
+16 (10) “Personal information” means an individual’s first name or first initial and last name
+17 in combination with any one or more of the following data elements, when the name and the data
+18 elements are not encrypted or are in hard copy, paper format:
+19 (i) Social security number;
+20 (ii) Driver’s license number, Rhode Island identification card number, or tribal
+21 identification number;
+22 (iii) Account number, credit or debit card number, in combination with any required
+23 security code, access code, password, or personal identification number, that would permit access
+24 to an individual’s financial account;
+25 (iv) Medical or health insurance information; or
+26 (v) E-mail address with any required security code, access code, or password that would
+27 permit access to an individual’s personal, medical, insurance, or financial account.
+28 (9) “Personally identifiable information” means information that can be used to distinguish
+29 or trace an individual's identity, either alone or when combined with other information that is linked
+30 or linkable to a specific individual. This information includes both direct and indirect identifiers,
+31 as well as biometric data and internet data.
+32 (10) “Reasonable security procedures” means protective, documented measures that are
+33 commensurate with the risk and sensitivity of the data, suitable for the specific context, including
+34 nature of the business and type of data; effective in preventing unauthorized access, use, disclosure,
+LC002859/SUB A - Page 3 of 9
+
+1 alteration or destruction of the data. Reasonable security procedures are regularly reviewed and
+2 updated to ensure they remain effective and relevant in the face of evolving threats and include
+3 who is responsible for implementing and maintaining the procedures, how they are implemented
+4 and how they are regularly reviewed.
+5 (11) “Remediation service provider” means any person who or that, in the usual course of
+6 business, provides services pertaining to a consumer credit report including, but not limited to,
+7 credit report monitoring and alerts, that are intended to mitigate the potential for identity theft.
+8 (12) “State agency” means any department, division, agency, commission, board, office,
+9 bureau, authority, or quasi-public authority within Rhode Island; either branch of the Rhode Island
+10 general assembly or an agency or committee thereof; the judiciary; or any other agency that is in
+11 any branch of Rhode Island state government and that exercises governmental functions other than
+12 in an advisory nature.
+13 (b) For purposes of this chapter, personal personally identifiable information does not
+14 include publicly available information that is lawfully made available to the general public from
+15 federal, state, or local government records.
+16 (c) For purposes of this chapter, “notice” may be provided by one of the following methods:
+17 (1) Written notice;
+18 (2) Electronic notice, if the notice provided is consistent with the provisions regarding
+19 electronic records and signatures set forth in 15 U.S.C. § 7001; or
+20 (3) Substitute notice, if the municipal agency, state agency, or person demonstrates that the
+21 cost of providing notice would exceed twenty-five thousand dollars ($25,000), or that the affected
+22 class of subject persons to be notified exceeds fifty thousand (50,000), or the municipal agency,
+23 state agency, or person does not have sufficient contact information. Substitute notice shall consist
+24 of all of the following:
+25 (i) E-mail notice when the municipal agency, state agency, or person has an e-mail address
+26 for the subject persons;
+27 (ii) Conspicuous posting of the notice on the municipal agency’s, state agency’s, or
+28 person’s website page, if the municipal agency, state agency, or person maintains one; and
+29 (iii) Notification to major statewide media.
+30 11-49.3-4. Notification of breach.
+31 (a)(1) Any municipal agency, state agency, or person who or that stores, owns, collects,
+32 processes, maintains, acquires, uses, or licenses data that includes personal personally identifiable
+33 information shall provide notification as set forth in this section of any disclosure of personal
+34 personally identifiable information, or any breach of the security of the system, that poses a
+LC002859/SUB A - Page 4 of 9
+
+1 significant risk of identity theft to any resident of Rhode Island whose personal personally
+2 identifiable information was, or is reasonably believed to have been, acquired by an unauthorized
+3 person or entity.
+4 (2) The notification shall be made in the most expedient time possible, subject to the
+5 following:
+6 (i) For state and municipal agencies, no later than thirty (30) calendar days after
+7 confirmation of the breach and the ability to ascertain the information required to fulfill the notice
+8 requirements contained in subsection (d), and shall be consistent with the legitimate needs of law
+9 enforcement as provided in subsection (b). In the event that more than five hundred (500) Rhode
+10 Island residents are to be notified, the municipal agency or state agency shall notify the attorney
+11 general and the major credit reporting agencies as to the timing, content, and distribution of the
+12 notices and the approximate number of affected individuals. Notification to the attorney general,
+13 the division of enterprise technology strategy and services (ETSS) or successor state agency or
+14 successor to the chief digital officer and the major credit reporting agencies shall be made without
+15 delaying notice to affected Rhode Island residents. Where affected employees are represented by a
+16 labor union through a collective bargaining agreement, the employer shall also notify the collective
+17 bargaining agent, or designee, of such breaches.
+18 (ii) For persons subject to subsection (a)(1), which is not a state or municipal agency, no
+19 later than forty-five (45) calendar days after confirmation of the breach and the ability to ascertain
+20 the information required to fulfill the notice requirements contained in subsection (d), and shall be
+21 consistent with the legitimate needs of law enforcement as provided in subsection (b). In the event
+22 that more than five hundred (500) Rhode Island residents are to be notified, the person shall notify
+23 the attorney general and the major credit reporting agencies as to the timing, content, and
+24 distribution of the notices and the approximate number of affected individuals. Notification to the
+25 attorney general, the division of enterprise technology strategy and services (ETSS) or successor
+26 state agency or successor to the chief digital officer and the major credit reporting agencies shall
+27 be made without delaying notice to affected Rhode Island residents.
+28 (b) The notification required by this section may be delayed if a federal, state, or local law
+29 enforcement agency determines that the notification will impede a criminal investigation. The
+30 federal, state, or local law enforcement agency must notify the municipal agency, state agency, or
+31 person of the request to delay notification without unreasonable delay. If notice is delayed due to
+32 such determination, then, as soon as the federal, state, or municipal law enforcement agency
+33 determines and informs the municipal agency, state agency, or person that notification no longer
+34 poses a risk of impeding an investigation, notice shall be provided as soon as practicable pursuant
+LC002859/SUB A - Page 5 of 9
+
+1 to subsection (a)(2). The municipal agency, state agency, or person shall cooperate with federal,
+2 state, or municipal law enforcement in its investigation of any breach of security or unauthorized
+3 acquisition or use, which shall include the sharing of information relevant to the incident; provided
+4 however, that such disclosure shall not require the disclosure of confidential business information
+5 or trade secrets.
+6 (c) Any municipal agency, state agency, or person required to make notification under this
+7 section and fails to do so is liable for a violation as set forth in § 11-49.3-5.
+8 (d) The notification to individuals must include the following information to the extent
+9 known:
+10 (1) A general and brief description of the incident, including how the security breach
+11 occurred and the number of affected individuals;
+12 (2) The type of information that was subject to the breach;
+13 (3) Date of breach, estimated date of breach, or the date range within which the breach
+14 occurred;
+15 (4) Date that the breach was discovered;
+16 (5) A clear and concise description of any remediation services offered to affected
+17 individuals including toll free numbers and websites to contact:
+18 (i) The credit reporting agencies;
+19 (ii) Remediation service providers;
+20 (iii) The attorney general, the division of enterprise technology strategy and services
+21 (ETSS) or successor state agency or successor to the chief digital officer; and
+22 (6) A clear and concise description of the consumer’s ability to file or obtain a police report;
+23 how a consumer requests a security freeze and the necessary information to be provided when
+24 requesting the security freeze; and that fees may be required to be paid to the consumer reporting
+25 agencies.
+26 (e) For state and municipal agencies remediation services to be provided and to be
+27 described pursuant to the provisions of subsection (d)(5) of this section shall include, but not be
+28 limited to:
+29 (1) Individuals eighteen (18) years of age and older, a minimum of five (5) years of
+30 coverage; and
+31 (2) Individuals under eighteen (18) years of age, coverage until age eighteen (18), and no
+32 less than two (2) years of coverage beyond age eighteen (18).
+33 11-49.3-5. Penalties for violation.
+34 (a) Each reckless violation of this chapter is a civil violation for which a penalty of not
+LC002859/SUB A - Page 6 of 9
+
+1 more than one hundred dollars ($100) per record may be adjudged against a defendant.
+2 (b) Each knowing and willful violation of this chapter is a civil violation for which a penalty
+3 of not more than two hundred dollars ($200) per record may be adjudged against a defendant.
+4 (c) Whenever the attorney general has reason to believe that a violation of this chapter has
+5 occurred and that proceedings would be in the public interest, the attorney general may bring an
+6 action in the name of the state against the business or person in violation.
+7 (d) In addition to the penalties listed in this section, courts may impose additional
+8 appropriate sanctions as warranted by the circumstances.
+9 11-49.3-6. Agencies or persons with security breach procedures.
+10 (a) Any municipal agency, state agency, or person shall be deemed to be in compliance
+11 with the security breach notification requirements of § 11-49.3-4 if:
+12 (1) The municipal agency, state agency, or person maintains its own security breach
+13 procedures as part of an information security policy program that meets or exceeds the requirements
+14 of this chapter for the treatment of personal personally identifiable information and at a minimum,
+15 adheres to the timing and notification otherwise complies with the timing requirements of § 11-
+16 49.3-4, and notifies subject persons in accordance with such municipal agency’s, state agency’s, or
+17 person’s notification policies in the event of a breach of security; or
+18 (2) The person maintains a security breach procedure pursuant to the rules, regulations,
+19 procedures, or guidelines established by the primary or applicable federal functional regulator, as
+20 defined in 15 U.S.C. § 6809(2), and notifies subject persons in accordance with the policies or the
+21 rules, regulations, procedures, or guidelines established by the primary or applicable federal
+22 functional regulator in the event of a breach of security of the system.
+23 (b) A financial institution, trust company, credit union, or its affiliates that is subject to and
+24 examined for, and found in compliance with, the Federal Interagency Guidelines on Response
+25 Programs for Unauthorized Access to Customer Information and Customer Notice shall be deemed
+26 in compliance with this chapter.
+27 (c) A provider of health care, healthcare service plan, health insurer, or a covered entity
+28 governed by the medical privacy and security rules issued by the federal Department of Health and
+29 Human Services, Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established
+30 pursuant to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) shall be
+31 deemed in compliance with this chapter.
+32 11-49.3-7. Notification of cybersecurity incident.
+33 (a) Any municipal agency or state agency that detects a cybersecurity incident shall provide
+34 notification to the Rhode Island state police upon detection of the cybersecurity incident within
+LC002859/SUB A - Page 7 of 9
+
+1 twenty-four (24) hours. The state police shall notify the division of enterprise technology strategy
+2 and services (ETSS) or successor state agency or successor to the chief digital officer within
+3 twenty-four (24) hours, or the next business day, of initial notification.
+4 (b) Any municipal agency or state agency required to make notification under this section
+5 and fails to do so may be liable for a violation as set forth in § 11-49.3-5.
+6 (c) The notification shall include, at a minimum, the following information to the extent
+7 known:
+8 (1) A general and brief description of the incident, including how the cybersecurity incident
+9 occurred; and
+10 (2) The date of the cybersecurity incident, estimated date of the cybersecurity incident, or
+11 the date range within which the cybersecurity incident occurred.;
+12 (3) Any mitigating actions taken; and
+13 (4) Any notifications to regulatory or federal entities.
+14 SECTION 2. This act shall take effect on July 1, 2025.
+========
+LC002859/SUB A
+========
+LC002859/SUB A - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- IDENTITY THEFT PROTECTION ACT OF 2015
+***
+1 This act would amend the Identity Theft Protection Act of 2015. The act would eliminate
+2 the definitions for "classified data" and "personal information" and establish a definition for
+3 "personally identifiable information". This act would also add division of enterprise technology
+4 strategy and services (ETSS) or successor state agency, or successor to the chief digital officer to
+5 notification requirement provisions of the chapter. This act would raise the penalty provisions for
+6 violations.
+7 This act would take effect on July 1, 2025.
+========
+LC002859/SUB A
+========
+LC002859/SUB A - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S 7 h 1 ( m R s p t m c b p o  a a a i r c a f i t i s l i m a s a o p s d a p p i i]
+[DELETED:  b p ( i w c t t t p a a s p i a m r a s w a c ( a o 1 ( ( u i a e t f ( C C i ( “ i m u a t c j t c s ( t o b]
+[DELETED:  p ( “ i i m a i h i p n i ( h o ( o I o t a s a a a o a t i i a b o m g ( ( c e ( i e ( ( D l n R I i c n o t i ( A n c o d c n i c w a r s t ( ( p ( o o a ( c n]
+[DELETED:  a u w a ( b c ( b g a i ( i f ( ( ( e ( c c s o ( f ( C p o t n o t m a s a o p ( 1 ( p i p i i o a b o t s o t s t p a]
+[DELETED:  s r o i t t a r o R I w p p i p ( f ( F s a m a n l t t ( c d a c r e I g n t s d l b ( l t c t t a g a t m c r a a t t t c a d a s b ( e f p s d t s f s o m l a d p]
+[DELETED:  t s a h o ( s ( k ( o ( ( o ( ( A c a c d o a r s o t a i ( ( ( T a g t d o e t s a s ( ( h r a ( F s a m a r s t b p a t b d l ( c ( l 1 (]
+[DELETED:  m ( o ( o a ( I a t t p l i t s c m i a a 1 ( w ( T m a s a o p m i o s b p o a 4 p ( p d r r p o g e b t p o a f f ( e P i ( g H p d 1 ( n]
+[DELETED:  t a t ( a ( k ( o ( t ( ( S]
+[DELETED:  T t d f " d a " i a e a d f " s n v T]

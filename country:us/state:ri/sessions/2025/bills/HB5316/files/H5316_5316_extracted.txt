@@ -1,0 +1,301 @@
+Title: RELATING TO TAXATION -- HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+Official Title: RELATING TO TAXATION -- HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+Number of Sections: 1
+Source: versions - 5316
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5316
+========
+LC000904
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Finkelman, Solomon, Shanley, Morales, Dawson, Noret,
+Phillips, Batista, Caldwell, and Voas
+Date Introduced: February 05, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 72
+4 HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+5 44-72-1. Title and purpose.
+6 This chapter shall be known and may be cited as the "Housing Flexible Spending Account
+7 Act of 2025." Its purpose is to establish a state-administered program that enables Rhode Island
+8 employers to contribute to a housing flexible spending account (H-FSA), to be used for qualified
+9 housing expenses while maintaining fiscal responsibility for the state.
+10 44-72-2. Definitions.
+11 As used in this chapter:
+12 (1) "Administrator" means the department of revenue or another state-designated entity
+13 responsible for program oversight and administration.
+14 (2) "Employer" means any entity, business, or organization operating within the state that
+15 offers payroll-based benefits to employees and has fewer than fifty (50) employees.
+16 (3) "Housing flexible spending account (H-FSA)" means an employer-funded account
+17 established for eligible individuals to use for qualified housing expenses.
+18 (4) "Qualified housing expenses" means and includes, but is not limited to:
+19 (i) Monthly rent or mortgage payments;
+1 (ii) Down payments for first-time homebuyers;
+2 (iii) Utilities, including electricity, water, and heating costs; and
+3 (iv) Property taxes.
+4 44-72-3. Program structure and requirements.
+5 (a) The department of revenue shall establish and administer the H-FSA program to
+6 encourage employer contributions towards employee housing assistance.
+7 (b) Participation in the H-FSA program shall be voluntary for employers.
+8 (c) Employers who participate in the program shall contribute a minimum of five thousand
+9 dollars ($5,000) per year in total for all eligible employees in order to qualify for program benefits.
+10 (d) Employer contributions shall be treated as a pre-tax benefit for employees and shall not
+11 be subject to Rhode Island state income tax.
+12 (e) Employee contributions to the H-FSA program shall not be permitted, as the program
+13 shall be entirely employer-funded.
+14 (f) Only employees earning an annual salary of one hundred twenty-five thousand dollars
+15 ($125,000) or less, shall be eligible to receive employer contributions under this program.
+16 (g) The department of revenue shall establish a secure system for employers to deposit
+17 contributions into H-FSA accounts for eligible employees, ensuring transparency and compliance.
+18 (h) Annual employer contribution limits shall be determined by the department of revenue
+19 in consultation with the general assembly and shall be indexed for inflation.
+20 (i) Employers shall be required to certify their contributions annually to remain eligible for
+21 program benefits as set forth in this section.
+22 44-72-4. Unemployment insurance (UI) taxable wages base adjustments for H-FSA
+23 program participation.
+24 (a) Effective July 1, 2026, businesses that participate in the H-FSA program shall be
+25 eligible for a reduced UI taxable wage base, as follows:
+26 (1) Employers not participating in the H-FSA program shall have a UI taxable wage base
+27 of thirty-five thousand dollars ($35,000) per employee.
+28 (2) Employers contributing at least five thousand dollars ($5,000) per year, in total across
+29 all eligible employees shall have a UI taxable wage base of twenty-five thousand dollars ($25,000)
+30 per employee.
+31 (b) Employers contributing to an H-FSA account shall be treated as a pre-tax benefit for
+32 employees and shall be exempt from state income tax.
+33 (c) The Rhode Island department of labor and training ("DLT") shall establish verification
+34 procedures to ensure compliance with contribution requirements. Businesses found to have reduced
+LC000904 - Page 2 of 5
+1 employee wages to offset H-FSA contributions shall be subject to penalties and repayment of any
+2 UI tax benefits received.
+3 44-72-5. Implementation and administration.
+4 (a) The department of revenue shall:
+5 (1) Develop rules and regulations for the administration and implementation of the
+6 program;
+7 (2) Create a secure online portal for account management and employer participation;
+8 (3) Provide public education on the benefits and usage of the program; and
+9 (4) Establish reporting requirements to ensure compliance and prevent fraud.
+10 (b) Participating financial institutions shall manage the accounts, ensuring secure
+11 transactions and proper allocation of funds.
+12 (c) Withdrawals for non-qualified expenses shall be subject to a penalty to discourage
+13 misuse of funds.
+14 44-72-6. Compliance and enforcement.
+15 (a) Wage parity requirements. Employers participating in the H-FSA program shall not
+16 reduce an employee’s base salary, hourly wage, or other forms of direct compensation as a
+17 condition for making H-FSA contributions. Any such reduction shall render the employer ineligible
+18 for state tax benefits under this program.
+19 (b) Lookback period. Employers shall certify that any contributions to an employee’s H-
+20 FSA account do not correspond with a reduction in base wages or salary within the preceding
+21 twelve (12) months. Any employer found in violation of this provision shall be subject to penalties,
+22 including ineligibility for tax deductions and repayment of previously claimed tax benefits.
+23 (c) Annual reporting requirement. Employers shall submit annual payroll reports to the
+24 Rhode Island department of labor and training ("DLT") showing that base wages are maintained in
+25 addition to H-FSA contributions. The DLT shall cross-check employer tax filings against payroll
+26 records and trigger audits for discrepancies.
+27 (d) Penalties for non-compliance:
+28 (1) Employers found to be in violation of the wage parity requirement shall be required to
+29 repay all tax benefits received under this program.
+30 (2) Noncompliant employers may be subject to fines not exceeding five thousand dollars
+31 ($5,000) per affected employee.
+32 (3) Affected employees shall be entitled to back pay plus interest in cases where wages
+33 were improperly reduced.
+34 (4) The department of revenue shall publish an annual compliance report listing employers
+LC000904 - Page 3 of 5
+1 found in violation of this section.
+2 (e) Whistleblower protections. Employees who believe their wages have been improperly
+3 reduced in connection with H-FSA contributions may file a complaint with the department of labor
+4 and training. Employers are prohibited from retaliating against employees who report violations.
+5 Violations of this section shall be subject to enforcement actions, including back pay compensation
+6 and additional fines.
+7 44-72-7. Pilot program and review.
+8 (a) The program shall commence with a two (2) year pilot phase, during which data will
+9 be collected on participation rates, economic impact, and effectiveness.
+10 (b) The department of revenue shall submit an annual report to the general assembly
+11 detailing the program’s performance, fiscal impact, and recommendations for adjustments.
+12 (c) At the conclusion of the pilot period, the general assembly shall review the program
+13 and determine whether to extend, modify, or terminate it.
+14 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC000904
+========
+LC000904 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+***
+1 This act would establish the Housing Flexible Spending Account Act of 2025 allowing
+2 Rhode Island employers to contribute pre-tax income into a housing flexible spending account (H-
+3 FSA), for employees to be used for qualified housing expenses.
+4 This act would take effect on January 1, 2026.
+========
+LC000904
+========
+LC000904 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S a C H 4 T A e h 4 A ( r ( o ( e ( (]
+[DELETED:  ( ( ( 4 ( T d o r s e a a t H p t e ( ( d ( b ( s ( ( ( c ( i ( p 4 p ( s e ( o ( a p ( e ( p]
+[DELETED:  e U 4 ( ( D r a r f t a a i o t p ( ( ( ( P f i s m t a e s t ( m 4 ( r a e b s h w o o f o d c a a c f ( F t i ( R a r ( ( r ( ( ( w (]
+[DELETED:  f ( r a V a 4 ( b ( g d ( a S]
+[DELETED:  T R F T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5316
+========
+LC000904
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+Introduced By: Representatives Finkelman, Solomon, Shanley, Morales, Dawson, Noret,
+Phillips, Batista, Caldwell, and Voas
+Date Introduced: February 05, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 72
+4 HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+5 44-72-1. Title and purpose.
+6 This chapter shall be known and may be cited as the "Housing Flexible Spending Account
+7 Act of 2025." Its purpose is to establish a state-administered program that enables Rhode Island
+8 employers to contribute to a housing flexible spending account (H-FSA), to be used for qualified
+9 housing expenses while maintaining fiscal responsibility for the state.
+10 44-72-2. Definitions.
+11 As used in this chapter:
+12 (1) "Administrator" means the department of revenue or another state-designated entity
+13 responsible for program oversight and administration.
+14 (2) "Employer" means any entity, business, or organization operating within the state that
+15 offers payroll-based benefits to employees and has fewer than fifty (50) employees.
+16 (3) "Housing flexible spending account (H-FSA)" means an employer-funded account
+17 established for eligible individuals to use for qualified housing expenses.
+18 (4) "Qualified housing expenses" means and includes, but is not limited to:
+19 (i) Monthly rent or mortgage payments;
+
+1 (ii) Down payments for first-time homebuyers;
+2 (iii) Utilities, including electricity, water, and heating costs; and
+3 (iv) Property taxes.
+4 44-72-3. Program structure and requirements.
+5 (a) The department of revenue shall establish and administer the H-FSA program to
+6 encourage employer contributions towards employee housing assistance.
+7 (b) Participation in the H-FSA program shall be voluntary for employers.
+8 (c) Employers who participate in the program shall contribute a minimum of five thousand
+9 dollars ($5,000) per year in total for all eligible employees in order to qualify for program benefits.
+10 (d) Employer contributions shall be treated as a pre-tax benefit for employees and shall not
+11 be subject to Rhode Island state income tax.
+12 (e) Employee contributions to the H-FSA program shall not be permitted, as the program
+13 shall be entirely employer-funded.
+14 (f) Only employees earning an annual salary of one hundred twenty-five thousand dollars
+15 ($125,000) or less, shall be eligible to receive employer contributions under this program.
+16 (g) The department of revenue shall establish a secure system for employers to deposit
+17 contributions into H-FSA accounts for eligible employees, ensuring transparency and compliance.
+18 (h) Annual employer contribution limits shall be determined by the department of revenue
+19 in consultation with the general assembly and shall be indexed for inflation.
+20 (i) Employers shall be required to certify their contributions annually to remain eligible for
+21 program benefits as set forth in this section.
+22 44-72-4. Unemployment insurance (UI) taxable wages base adjustments for H-FSA
+23 program participation.
+24 (a) Effective July 1, 2026, businesses that participate in the H-FSA program shall be
+25 eligible for a reduced UI taxable wage base, as follows:
+26 (1) Employers not participating in the H-FSA program shall have a UI taxable wage base
+27 of thirty-five thousand dollars ($35,000) per employee.
+28 (2) Employers contributing at least five thousand dollars ($5,000) per year, in total across
+29 all eligible employees shall have a UI taxable wage base of twenty-five thousand dollars ($25,000)
+30 per employee.
+31 (b) Employers contributing to an H-FSA account shall be treated as a pre-tax benefit for
+32 employees and shall be exempt from state income tax.
+33 (c) The Rhode Island department of labor and training ("DLT") shall establish verification
+34 procedures to ensure compliance with contribution requirements. Businesses found to have reduced
+LC000904 - Page 2 of 5
+
+1 employee wages to offset H-FSA contributions shall be subject to penalties and repayment of any
+2 UI tax benefits received.
+3 44-72-5. Implementation and administration.
+4 (a) The department of revenue shall:
+5 (1) Develop rules and regulations for the administration and implementation of the
+6 program;
+7 (2) Create a secure online portal for account management and employer participation;
+8 (3) Provide public education on the benefits and usage of the program; and
+9 (4) Establish reporting requirements to ensure compliance and prevent fraud.
+10 (b) Participating financial institutions shall manage the accounts, ensuring secure
+11 transactions and proper allocation of funds.
+12 (c) Withdrawals for non-qualified expenses shall be subject to a penalty to discourage
+13 misuse of funds.
+14 44-72-6. Compliance and enforcement.
+15 (a) Wage parity requirements. Employers participating in the H-FSA program shall not
+16 reduce an employee’s base salary, hourly wage, or other forms of direct compensation as a
+17 condition for making H-FSA contributions. Any such reduction shall render the employer ineligible
+18 for state tax benefits under this program.
+19 (b) Lookback period. Employers shall certify that any contributions to an employee’s H-
+20 FSA account do not correspond with a reduction in base wages or salary within the preceding
+21 twelve (12) months. Any employer found in violation of this provision shall be subject to penalties,
+22 including ineligibility for tax deductions and repayment of previously claimed tax benefits.
+23 (c) Annual reporting requirement. Employers shall submit annual payroll reports to the
+24 Rhode Island department of labor and training ("DLT") showing that base wages are maintained in
+25 addition to H-FSA contributions. The DLT shall cross-check employer tax filings against payroll
+26 records and trigger audits for discrepancies.
+27 (d) Penalties for non-compliance:
+28 (1) Employers found to be in violation of the wage parity requirement shall be required to
+29 repay all tax benefits received under this program.
+30 (2) Noncompliant employers may be subject to fines not exceeding five thousand dollars
+31 ($5,000) per affected employee.
+32 (3) Affected employees shall be entitled to back pay plus interest in cases where wages
+33 were improperly reduced.
+34 (4) The department of revenue shall publish an annual compliance report listing employers
+LC000904 - Page 3 of 5
+
+1 found in violation of this section.
+2 (e) Whistleblower protections. Employees who believe their wages have been improperly
+3 reduced in connection with H-FSA contributions may file a complaint with the department of labor
+4 and training. Employers are prohibited from retaliating against employees who report violations.
+5 Violations of this section shall be subject to enforcement actions, including back pay compensation
+6 and additional fines.
+7 44-72-7. Pilot program and review.
+8 (a) The program shall commence with a two (2) year pilot phase, during which data will
+9 be collected on participation rates, economic impact, and effectiveness.
+10 (b) The department of revenue shall submit an annual report to the general assembly
+11 detailing the program’s performance, fiscal impact, and recommendations for adjustments.
+12 (c) At the conclusion of the pilot period, the general assembly shall review the program
+13 and determine whether to extend, modify, or terminate it.
+14 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC000904
+========
+LC000904 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- HOUSING FLEXIBLE SPENDING ACCOUNT ACT OF 2025
+***
+1 This act would establish the Housing Flexible Spending Account Act of 2025 allowing
+2 Rhode Island employers to contribute pre-tax income into a housing flexible spending account (H-
+3 FSA), for employees to be used for qualified housing expenses.
+4 This act would take effect on January 1, 2026.
+========
+LC000904
+========
+LC000904 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C H 4 T A e h 4 A ( r ( o ( e ( (]
+[DELETED:  ( ( ( 4 ( T d o r s e a a t H p t e ( ( d ( b ( s ( ( ( c ( i ( p 4 p ( s e ( o ( a p ( e ( p]
+[DELETED:  e U 4 ( ( D r a r f t a a i o t p ( ( ( ( P f i s m t a e s t ( m 4 ( r a e b s h w o o f o d c a a c f ( F t i ( R a r ( ( r ( ( ( w (]
+[DELETED:  f ( r a V a 4 ( b ( g d ( a S]
+[DELETED:  T R F T]
