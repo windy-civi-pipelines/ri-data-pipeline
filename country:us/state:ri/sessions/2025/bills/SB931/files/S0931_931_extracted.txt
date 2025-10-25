@@ -1,0 +1,317 @@
+Title: RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+Official Title: RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+Number of Sections: 1
+Source: versions - 931
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0931
+========
+LC002654
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+TITLING
+Introduced By: Senators Britto, Bissaillon, Ciccone, Gu, DiPalma, and Thompson
+Date Introduced: March 28, 2025
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.4
+4 ELECTRONIC REGISTRATION AND TITLING
+5 31-3.4-1. Short title.
+6 This chapter shall be known and may be cited as "Electronic Registration and Titling".
+7 31-3.4-2. Implementation.
+8 (a) On or before July 1, 2026, the division of motor vehicles ("division") shall implement
+9 electronic lien, electronic titling and electronic registration systems that enable the ability to
+10 transact through a completely electronic process for:
+11 (1) All business entities and their service providers applying for automotive titles and
+12 registrations, for themselves or their customers,
+13 (2) Electronic submission of liens and lien satisfactions by financial institutions and their
+14 service providers.
+15 (b)(1) Any application for registration certificate or certificate of title, as described in § 31-
+16 3.1-1, may be electronically transmitted to the division. All registration certificates or certificates
+17 of title, as described in § 31-3.1-1, shall be applied for electronically, unless the applications are
+18 submitted by a business entity who submits fewer than twenty-five (25) transactions annually.
+1 (2) Any lien or security interest as described in § 31-3.1-16.1 may be electronically
+2 transmitted to the division:
+3 (i) Notwithstanding any other requirements in this title that a lien on a motor vehicle shall
+4 be noted on the face of the certificate of the title, if there are one or more liens or encumbrances on
+5 the motor vehicle, the division shall electronically transmit the lien to the first lienholder and notify
+6 the first lienholder of any additional liens.
+7 (ii) Subsequent lien satisfactions shall be electronically transmitted to the division and shall
+8 include the name and address of the person satisfying the lien.
+9 (iii) When electronic transmission of liens and lien satisfactions are used, a certificate of
+10 title need not be issued until the last lien is satisfied and a clear certificate of title is issued to the
+11 owner of the vehicle.
+12 (iv) When a vehicle is subject to an electronic lien, the certificate of title for the vehicle
+13 shall be considered to be physically held by the lienholder for purposes of compliance with state or
+14 federal odometer disclosure requirements.
+15 (v) A duly certified copy of the division’s electronic record of the lien shall be admissible
+16 in any civil, criminal or administrative proceeding in this state as evidence of the existence of the
+17 lien.
+18 (c) On and after July 1, 2027, all business entities shall participate pursuant to the
+19 provisions of subsection (b) of this section unless otherwise exempt pursuant to the provisions of
+20 this chapter or the rules and regulations promulgated by the division.
+21 31-3.4-3. Secure digital vehicle titles.
+22 (a) On or before July 1, 2026, the division shall implement a system that offers vehicle title
+23 holders a fully paperless, secure digital vehicle title as opposed to a secure paper vehicle title.
+24 (b) Once implemented, the secure digital title and the secure digital title system shall:
+25 (1) Include all functions related to title re-assignments.
+26 (2) Meet or exceed applicable security requirements as set forth in regulations promulgated
+27 by the division.
+28 (3) Provide title holders with online, real-time access to motor vehicle titles and status of
+29 titles in process.
+30 (c) A secure digital vehicle title produced under this statute shall be regarded as an official
+31 vehicle title from the State of Rhode Island and be fully transactable within the State of Rhode
+32 Island and all other U.S. jurisdictions.
+33 (d) A duly certified copy of the division's secure digital vehicle title shall be admissible in
+34 any civil, criminal, or administrative proceeding in this state as evidence of the existence of the
+LC002654 - Page 2 of 5
+1 title.
+2 31-3.4-4. Fees.
+3 (a) Notwithstanding any general law to the contrary, the division may authorize a per-
+4 transaction fee to be assessed for the use of electronic lien, electronic titling, electronic registration
+5 and secure digital vehicle titling systems as described in this chapter.
+6 (b) The per-transaction fee:
+7 (1) Shall be consistent with market pricing for costs associated with the development and
+8 ongoing management, maintenance and enhancement of the systems outlined in this chapter.
+9 (2) Shall integrate with current division payment service provider(s)
+10 31-3.4-5. Rules and regulations.
+11 The administrator of the division of motor vehicles shall promulgate rules and regulations
+12 to implement the provisions of this chapter.
+13 SECTION 2. Section 31-23.2-6 of the General Laws in Chapter 31-23.2 entitled
+14 "Tampering with Odometers" is hereby amended to read as follows:
+15 31-23.2-6. Transfer of vehicle.
+16 (a) Any sales agreement for the transfer of a motor vehicle between persons as defined in
+17 this chapter shall contain the words “both buyer and seller have examined the title certificate of this
+18 motor vehicle and it correctly reflects the mileage as it appears on the odometer” which shall be
+19 placed conspicuously and prominently on the agreement.
+20 (b) It shall be unlawful for any person to transfer ownership of a motor vehicle previously
+21 registered in this state or a motor vehicle used by a dealer as a demonstrator unless the person:
+22 (1) Enters on a written or electronic form prescribed by the department of revenue, as
+23 prescribed by state law, the mileage the motor vehicle has been operated. The form shall be signed
+24 by both the seller and buyer and contain a statement that both parties have viewed the odometer of
+25 the motor vehicle. The form as completed shall then be attached to the instrument evidencing
+26 transfer of ownership; or
+27 (2) Enters upon the form “not actual mileage” in the event that the odometer mileage is
+28 known to the person to be less than the motor vehicle has actually traveled; or
+29 (3) Enters the total cumulative mileage on the form in the event that it is known that the
+30 mileage indicated on the odometer is beyond its designated mechanical limits;
+31 (4) Enters the same information as set forth in subdivisions subsections (1) through (3) of
+32 this subsection section on the owner’s title certificate; and
+33 (5) The owner of a motor vehicle shall supply its mileage upon the annual renewal
+34 registration form supplied by the division of motor vehicles.
+LC002654 - Page 3 of 5
+1 (c) It shall be a violation of this chapter for any person to give a false statement to a
+2 transferee under the provisions of this section; provided, however, that no person shall be in
+3 violation of this chapter where a vehicle has been resold in reliance on the required statement of
+4 the prior owner made pursuant to this section.
+5 (d) No motor vehicle, previously registered in another state, shall be registered for use in
+6 this state unless the application for a certificate of title in Rhode Island is accompanied by the prior
+7 owner’s certificate of title and a form as set forth in subdivision subsection (b)(1) of this section.
+8 (e) The certificate of title of the motor vehicle issued to the new owner by the state of
+9 Rhode Island shall:
+10 (1) Be provided electronically, or printed using a process determined by the director to be
+11 the most efficient and effective means of avoiding unauthorized duplication;
+12 (2) Indicate on its face the mileage required to be disclosed by the transferor under
+13 subsections (b)(1) and (d) of this section; and
+14 (3) Contains a space for the transferee to disclose the mileage at the time of any future
+15 transfer and to sign and date the disclosure.
+16 (f) No registration card may be issued in this state for any motor vehicle unless:
+17 (1) The application for the registration card contains the prior owner’s most recent
+18 registration card and the prior owner’s title; and
+19 (2) The new registration card contains such information as provided on the application.
+20 (g) Pursuant to the provisions of § 42-127.1-7, any form required pursuant to the provisions
+21 of this section may be signed electronically and shall not require notarization.
+22 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC002654
+========
+LC002654 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+TITLING
+***
+1 This act would establish a system of electronic registration and titling of motor vehicles.
+2 Rules and regulations to implement the provisions of this chapter would be promulgated by the
+3 administrator of the division of motor vehicles.
+4 This act would take effect on July 1, 2026.
+========
+LC002654
+========
+LC002654 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S i C E 3 T 3 ( e l e t a e r s t e t a t t ( r ( s ( 3 o s]
+[DELETED:  ( A l o s i a d i § 3 m b e t ( b t t ( i ( t o ( s f ( i l ( O a a J 1 2 a b e s p p t t p t 3 ( h ( ( ( b ( t ( v I ( a]
+[DELETED:  t 3 ( t a ( ( o ( 3 T t S 2 S 3 o t G L i C 3 e " 3 ( t m p ( r ( p b t t ( k ( m ( t ( T o o a m v s s i m u t a r r]
+[DELETED:  ( t v t ( t o ( R ( t ( I o i f t m r t b d b t t u s ( t ( ( T a f t r c c t p o m r r ( ( o S]
+[DELETED:  T R a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0931
+========
+LC002654
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+TITLING
+Introduced By: Senators Britto, Bissaillon, Ciccone, Gu, DiPalma, and Thompson
+Date Introduced: March 28, 2025
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.4
+4 ELECTRONIC REGISTRATION AND TITLING
+5 31-3.4-1. Short title.
+6 This chapter shall be known and may be cited as "Electronic Registration and Titling".
+7 31-3.4-2. Implementation.
+8 (a) On or before July 1, 2026, the division of motor vehicles ("division") shall implement
+9 electronic lien, electronic titling and electronic registration systems that enable the ability to
+10 transact through a completely electronic process for:
+11 (1) All business entities and their service providers applying for automotive titles and
+12 registrations, for themselves or their customers,
+13 (2) Electronic submission of liens and lien satisfactions by financial institutions and their
+14 service providers.
+15 (b)(1) Any application for registration certificate or certificate of title, as described in § 31-
+16 3.1-1, may be electronically transmitted to the division. All registration certificates or certificates
+17 of title, as described in § 31-3.1-1, shall be applied for electronically, unless the applications are
+18 submitted by a business entity who submits fewer than twenty-five (25) transactions annually.
+
+1 (2) Any lien or security interest as described in § 31-3.1-16.1 may be electronically
+2 transmitted to the division:
+3 (i) Notwithstanding any other requirements in this title that a lien on a motor vehicle shall
+4 be noted on the face of the certificate of the title, if there are one or more liens or encumbrances on
+5 the motor vehicle, the division shall electronically transmit the lien to the first lienholder and notify
+6 the first lienholder of any additional liens.
+7 (ii) Subsequent lien satisfactions shall be electronically transmitted to the division and shall
+8 include the name and address of the person satisfying the lien.
+9 (iii) When electronic transmission of liens and lien satisfactions are used, a certificate of
+10 title need not be issued until the last lien is satisfied and a clear certificate of title is issued to the
+11 owner of the vehicle.
+12 (iv) When a vehicle is subject to an electronic lien, the certificate of title for the vehicle
+13 shall be considered to be physically held by the lienholder for purposes of compliance with state or
+14 federal odometer disclosure requirements.
+15 (v) A duly certified copy of the division’s electronic record of the lien shall be admissible
+16 in any civil, criminal or administrative proceeding in this state as evidence of the existence of the
+17 lien.
+18 (c) On and after July 1, 2027, all business entities shall participate pursuant to the
+19 provisions of subsection (b) of this section unless otherwise exempt pursuant to the provisions of
+20 this chapter or the rules and regulations promulgated by the division.
+21 31-3.4-3. Secure digital vehicle titles.
+22 (a) On or before July 1, 2026, the division shall implement a system that offers vehicle title
+23 holders a fully paperless, secure digital vehicle title as opposed to a secure paper vehicle title.
+24 (b) Once implemented, the secure digital title and the secure digital title system shall:
+25 (1) Include all functions related to title re-assignments.
+26 (2) Meet or exceed applicable security requirements as set forth in regulations promulgated
+27 by the division.
+28 (3) Provide title holders with online, real-time access to motor vehicle titles and status of
+29 titles in process.
+30 (c) A secure digital vehicle title produced under this statute shall be regarded as an official
+31 vehicle title from the State of Rhode Island and be fully transactable within the State of Rhode
+32 Island and all other U.S. jurisdictions.
+33 (d) A duly certified copy of the division's secure digital vehicle title shall be admissible in
+34 any civil, criminal, or administrative proceeding in this state as evidence of the existence of the
+LC002654 - Page 2 of 5
+
+1 title.
+2 31-3.4-4. Fees.
+3 (a) Notwithstanding any general law to the contrary, the division may authorize a per-
+4 transaction fee to be assessed for the use of electronic lien, electronic titling, electronic registration
+5 and secure digital vehicle titling systems as described in this chapter.
+6 (b) The per-transaction fee:
+7 (1) Shall be consistent with market pricing for costs associated with the development and
+8 ongoing management, maintenance and enhancement of the systems outlined in this chapter.
+9 (2) Shall integrate with current division payment service provider(s)
+10 31-3.4-5. Rules and regulations.
+11 The administrator of the division of motor vehicles shall promulgate rules and regulations
+12 to implement the provisions of this chapter.
+13 SECTION 2. Section 31-23.2-6 of the General Laws in Chapter 31-23.2 entitled
+14 "Tampering with Odometers" is hereby amended to read as follows:
+15 31-23.2-6. Transfer of vehicle.
+16 (a) Any sales agreement for the transfer of a motor vehicle between persons as defined in
+17 this chapter shall contain the words “both buyer and seller have examined the title certificate of this
+18 motor vehicle and it correctly reflects the mileage as it appears on the odometer” which shall be
+19 placed conspicuously and prominently on the agreement.
+20 (b) It shall be unlawful for any person to transfer ownership of a motor vehicle previously
+21 registered in this state or a motor vehicle used by a dealer as a demonstrator unless the person:
+22 (1) Enters on a written or electronic form prescribed by the department of revenue, as
+23 prescribed by state law, the mileage the motor vehicle has been operated. The form shall be signed
+24 by both the seller and buyer and contain a statement that both parties have viewed the odometer of
+25 the motor vehicle. The form as completed shall then be attached to the instrument evidencing
+26 transfer of ownership; or
+27 (2) Enters upon the form “not actual mileage” in the event that the odometer mileage is
+28 known to the person to be less than the motor vehicle has actually traveled; or
+29 (3) Enters the total cumulative mileage on the form in the event that it is known that the
+30 mileage indicated on the odometer is beyond its designated mechanical limits;
+31 (4) Enters the same information as set forth in subdivisions subsections (1) through (3) of
+32 this subsection section on the owner’s title certificate; and
+33 (5) The owner of a motor vehicle shall supply its mileage upon the annual renewal
+34 registration form supplied by the division of motor vehicles.
+LC002654 - Page 3 of 5
+
+1 (c) It shall be a violation of this chapter for any person to give a false statement to a
+2 transferee under the provisions of this section; provided, however, that no person shall be in
+3 violation of this chapter where a vehicle has been resold in reliance on the required statement of
+4 the prior owner made pursuant to this section.
+5 (d) No motor vehicle, previously registered in another state, shall be registered for use in
+6 this state unless the application for a certificate of title in Rhode Island is accompanied by the prior
+7 owner’s certificate of title and a form as set forth in subdivision subsection (b)(1) of this section.
+8 (e) The certificate of title of the motor vehicle issued to the new owner by the state of
+9 Rhode Island shall:
+10 (1) Be provided electronically, or printed using a process determined by the director to be
+11 the most efficient and effective means of avoiding unauthorized duplication;
+12 (2) Indicate on its face the mileage required to be disclosed by the transferor under
+13 subsections (b)(1) and (d) of this section; and
+14 (3) Contains a space for the transferee to disclose the mileage at the time of any future
+15 transfer and to sign and date the disclosure.
+16 (f) No registration card may be issued in this state for any motor vehicle unless:
+17 (1) The application for the registration card contains the prior owner’s most recent
+18 registration card and the prior owner’s title; and
+19 (2) The new registration card contains such information as provided on the application.
+20 (g) Pursuant to the provisions of § 42-127.1-7, any form required pursuant to the provisions
+21 of this section may be signed electronically and shall not require notarization.
+22 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC002654
+========
+LC002654 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+TITLING
+***
+1 This act would establish a system of electronic registration and titling of motor vehicles.
+2 Rules and regulations to implement the provisions of this chapter would be promulgated by the
+3 administrator of the division of motor vehicles.
+4 This act would take effect on July 1, 2026.
+========
+LC002654
+========
+LC002654 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S i C E 3 T 3 ( e l e t a e r s t e t a t t ( r ( s ( 3 o s]
+[DELETED:  ( A l o s i a d i § 3 m b e t ( b t t ( i ( t o ( s f ( i l ( O a a J 1 2 a b e s p p t t p t 3 ( h ( ( ( b ( t ( v I ( a]
+[DELETED:  t 3 ( t a ( ( o ( 3 T t S 2 S 3 o t G L i C 3 e " 3 ( t m p ( r ( p b t t ( k ( m ( t ( T o o a m v s s i m u t a r r]
+[DELETED:  ( t v t ( t o ( R ( t ( I o i f t m r t b d b t t u s ( t ( ( T a f t r c c t p o m r r ( ( o S]
+[DELETED:  T R a T]

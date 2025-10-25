@@ -1,0 +1,475 @@
+Title: Introduced By: Representatives Cruz, Ajello, Felix, Sanchez, Morales, Potter, Kislak,
+Official Title: Introduced By: Representatives Cruz, Ajello, Felix, Sanchez, Morales, Potter, Kislak,
+Number of Sections: 1
+Source: versions - 5874
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5874
+========
+LC002069
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- VOTING
+Casimiro, Alzate, and Tanzi
+Date Introduced: February 28, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+2 Provisions" is hereby amended to read as follows:
+3 17-1-2. Definitions.
+4 For the purposes this title, except as may otherwise be required by the context:
+5 (1) “Election” means the filling of any public office or the determination of any public
+6 question by vote of the electorate, and includes without limitation any state, town, or city office or
+7 question, and any political party primary election for the nomination of any candidate for public
+8 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+9 fire, water, or sewer district;
+10 (2) “General election” means an election held on the first Tuesday next after the first
+11 Monday in November in even numbered years for the election of members of the general assembly
+12 and/or for the election of general officers, and/or for the election of presidential electors for
+13 president/vice-president of the United States;
+14 (3) “General officer” means an officer designated as a general officer by chapter 2 of this
+15 title;
+16 (4) “Independent candidate” means a candidate who has no affiliation with any political
+17 party;
+18 (5) “Local board” means a town or city board of canvassers, board of canvassers and
+19 registration, canvassing authority, or any other local board, commission, or officer empowered by
+1 law to have custody of the permanent registration records;
+2 (6) “Local election” means any election limited to the electorate of any city or town, or any
+3 part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting at
+4 which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+5 town, but it shall not include a financial town meeting;
+6 (7) “Party member” means any person who is a member of a designated political party
+7 pursuant to § 17-9.1-23;
+8 (8) “Party voter” means any qualified voter who is eligible to vote at the primary election
+9 of a political party;
+10 (9) “Political party” or “party” means: (i) any political organization which, at the next
+11 preceding general election for the election of general officers, nominated a candidate for governor,
+12 and whose candidate for governor at the election polled at least five percent (5%) of the entire vote
+13 cast in the state for governor, or (ii) any political organization which at the next preceding general
+14 election for the election of a president of the United States nominated a candidate for president and
+15 whose candidate for president at the election polled at least five percent (5%) of the entire vote cast
+16 in the state for president, or (iii) any political organization which, on petition forms provided to the
+17 chairperson of the organization by the state board of elections, obtains the signatures and addresses
+18 of that number of registered qualified voters equal to five percent (5%) of the entire vote cast in the
+19 state for governor or president in the immediately preceding general election. All the signatures
+20 must be obtained no earlier than January 1 of the year in which the political organization desires to
+21 place a candidate or candidates on any ballot as a “party” candidate. If the political organization
+22 wishes to select its nominees in a primary election, the petitions, bearing the requisite number of
+23 valid signatures, shall be presented to the appropriate local boards of canvassers no later than June
+24 1 of the same year. If the petitions are validated by the local boards as containing the requisite
+25 number of valid signatures, the political organization shall be deemed to be a political party for all
+26 elections held during the year and may select its nominees in a primary election. If the political
+27 organization does not wish to select its nominees in a primary election, then the petitions need not
+28 be returned to local boards of canvassers until August 1 of the same year. An organization
+29 qualifying as a political party through the petition process shall qualify as a political party only
+30 during the year in which signatures are obtained unless the candidates for governor or president of
+31 the United States of the party at a general election held in the year, shall receive five percent (5%)
+32 of the vote as provided in this subdivision for either governor or president of the United States. If
+33 the candidates do not receive five percent (5%) of the vote, the organization shall no longer qualify
+34 as a political party unless and until it shall, in a subsequent year, once again qualify by the
+LC002069 - Page 2 of 7
+1 submission of petitions;
+2 (10) “Polling place” means the room in which any election or elective meeting is
+3 conducted;
+4 (11) “Primary election” means any election to select the candidates of a political party;
+5 (12) “Proposition” or “public question” means any question put to a referendum of the
+6 electorate of the entire state or any part of it;
+7 (13) “Qualified voter” means any person who is eligible to vote under the requirements of
+8 age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+9 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+10 as a voter pursuant to law;
+11 (14) “Special election” means any election other than a local election or primary election
+12 which is not held on a general election day;
+13 (15) "Specially qualified voter" means a person who is otherwise eligible to register as a
+14 voter and whose present domicile is Rhode Island and who is confined in a correctional facility or
+15 jail, except by reason of a felony conviction.
+16 (15)(16) “State board” means the state board of elections constituted pursuant to this title;
+17 (16)(17) “State election” means any election at which any presidential electors, senator or
+18 representatives in congress, general officers of the state, or members of the general assembly are to
+19 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+20 electors of the state;
+21 (17)(18) “State officer” means the governor, lieutenant governor, secretary of state,
+22 attorney general, general treasurer, state senator, and state representative;
+23 (18)(19) “Vacancy in office” means the condition resulting from any failure to elect or
+24 appoint an eligible and qualified person to public office, or the failure of any person duly elected
+25 or appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+26 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+27 resignation, or removal;
+28 (19)(20) “Voting list” means the complete list of all voters prepared from the information
+29 contained in the original permanent registration records in the possession of the local board of
+30 canvassers;
+31 (20)(21) “Warden” includes “moderator” and vice versa;
+32 (21)(22) Words importing the masculine gender shall include the feminine gender.
+33 SECTION 2. Section 17-9.2-3 of the General Laws in Chapter 17-9.2 entitled "Rhode
+34 Island Restoration of Voting Rights Act" is hereby amended to read as follows:
+LC002069 - Page 3 of 7
+1 17-9.2-3. Restoration of voting rights.
+2 (a) A person who has lost the right of suffrage under Article II, Section 1 of the Constitution
+3 of Rhode Island because of such person’s incarceration upon a felony conviction shall be restored
+4 the right to vote when that person is discharged from incarceration.
+5 (b) Before accepting a plea of guilty or nolo contendere to a felony, and before imposing a
+6 felony sentence after trial, the court shall notify the defendant that conviction will result in loss of
+7 the right to vote only if and for as long as the person is incarcerated and that voting rights are
+8 restored upon discharge.
+9 (c) The department of corrections shall act as a voter registration agency in accordance
+10 with § 17-9.1-8. In this capacity, and as part of the release process leading to a person’s discharge
+11 from a correctional facility, the department of corrections shall notify that person in writing that
+12 voting rights will be restored, provide that person with a voter registration form and a declination
+13 form, and offer that person assistance in filling out the appropriate form. Unless the registrant
+14 refuses to permit it to do so, the department of corrections shall transmit the completed voter
+15 registration form to the state board or local board where the registrant resides.
+16 (d) The department of corrections shall, on or before the 15th day of each month, transmit
+17 to the secretary of state two (2) lists. The first shall contain the following information about persons
+18 convicted of a felony who, during the preceding period, have become ineligible to vote because of
+19 their incarceration; the second shall contain the following information about persons convicted of
+20 a felony who, during the preceding period, have become eligible to vote because of their discharge
+21 from incarceration:
+22 (1) name;
+23 (2) date of birth;
+24 (3) date of entry of judgment of conviction;
+25 (4) description of offense;
+26 (5) sentence.
+27 (e) The secretary of state shall ensure that the statewide central voter registration is purged
+28 of the names of persons who are ineligible to vote because of their incarceration upon a felony
+29 conviction. The secretary of state shall likewise ensure that the names of persons who are eligible
+30 and registered to vote following their discharge from incarceration are added to the statewide
+31 central voter register in the same manner as all other names are added to that register.
+32 (f) The secretary of state shall ensure that persons who have become eligible to vote
+33 because of their discharge from incarceration face no continued barriers to registration or voting
+34 resulting from their felony convictions.
+LC002069 - Page 4 of 7
+1 (g) The secretary of state shall develop and implement a program to educate attorneys,
+2 judges, election officials, corrections officials, and members of the public about the requirements
+3 of this section, ensuring that:
+4 (1) Judges are informed of their obligation to notify criminal defendants of the potential
+5 loss and restoration of their voting rights in accordance with subsection (b) hereof.
+6 (2) The department of corrections is prepared to assist people with registration to vote in
+7 anticipation of their discharge from incarceration, including by forwarding completed voter
+8 registration forms to the state board or local board where the registrant resides.
+9 (3) The language on voter registration forms makes clear that people who have been
+10 disqualified from voting because of felony convictions regain the right to vote when they are
+11 discharged from incarceration.
+12 (4) The state department of corrections is prepared to transmit to the secretary of state the
+13 information specified in subsection (d) hereof.
+14 (5) Probation and parole officers are informed of the change in the law and are prepared to
+15 notify probationers and parolees that their right to vote is restored.
+16 (6) Accurate and complete information about the voting rights of people who have been
+17 charged with or convicted of crimes, whether disfranchising or not, is made available through a
+18 single publication to government officials and the public.
+19 (7) All voting information shall be posted in a visible location at all correctional facility
+20 buildings, where notices are customarily posted.
+21 (h) Voting rights shall be restored to all Rhode Island residents who have been discharged
+22 from incarceration or who were never incarcerated following felony convictions, whether they were
+23 discharged or sentenced before or after the effective date of this section.
+24 SECTION 3. Chapter 17-20 of the General Laws entitled "Mail Ballots" is hereby amended
+25 by adding thereto the following sections:
+26 17-20-1.2. Specially qualified voter.
+27 A specially qualified voter, as defined in § 17-1-2, can request a ballot or mail ballot. The
+28 mail ballot application shall provide a check box for a person applying for a mail ballot, to indicate
+29 they are incarcerated, but not for a felony conviction. On the application, the applicant shall also
+30 include the address at which they are either registered to vote or qualified to vote and the address
+31 where they would like the mail ballot sent.
+32 17-20-1.3. Jail voting coordinator.
+33 The director of the department of corrections shall designate one of its employees the
+34 "voting coordinator", who shall coordinate the education and facilitate the voting of eligible
+LC002069 - Page 5 of 7
+1 specially qualified voters. That designation shall take place immediately upon its creation and that
+2 employee shall be continuously available to assist voting for specially qualified voters held at the
+3 adult correctional institutions. That coordinator shall be responsible for ensuring that all the
+4 department of corrections' responsibilities, pursuant to § 17-9.2-3, are fulfilled to ensure the right
+5 to vote of a specially qualified voter. The coordinator shall prepare and submit to the secretary of
+6 state an annual implementation plan detailing the department of corrections' compliance which
+7 shall include, but not be limited to:
+8 (1) Identifying which staff members in each correctional facility building shall be
+9 responsible for coordinating and providing voter information to incarcerated persons;
+10 (2) Incorporating voter registration procedures;
+11 (3) Methods for notifying persons incarcerated for misdemeanor convictions of their right
+12 to continue voting, while incarcerated; and
+13 (4) Ensuring access to mail ballot and ballot requests and submissions for incarcerated
+14 individuals eligible to vote.
+15 (b) The coordinator shall be responsible for all phases of the voting process for the specially
+16 qualified voter, from registering voters, to the acquisition of the mail ballots and ballots, and to the
+17 final return of the voted ballots to the board of elections.
+18 17-20-1.4. Enforcement of inmate voting.
+19 In accordance with the requirements of title 17, any incarcerated eligible voter who is
+20 denied access to the voting process at any juncture, shall have the right to file a formal complaint
+21 with the secretary of state. The secretary of state shall promulgate rules and regulations necessary
+22 to ensure all aspects of this process are followed, as well as, to aid in the enforcement and protection
+23 of voting rights for specially qualified voters incarcerated at the Rhode Island adult correctional
+24 institutions.
+25 SECTION 4. This act shall take effect upon passage.
+========
+LC002069
+========
+LC002069 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- VOTING
+***
+1 This act would make it easier to vote for people eligible to vote who are incarcerated at the
+2 adult correctional institutions. It would also create the position of "voting coordinator," within the
+3 department of corrections to help facilitate incarcerated people who are eligible to vote from start
+4 to finish. Finally, it would authorize the secretary of state to promulgate rules and regulations to
+5 enforce voting rights for people eligible to vote, who are incarcerated at the adult correctional
+6 institutions.
+7 This act would take effect upon passage.
+========
+LC002069
+========
+LC002069 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " P 1 F ( q q o f ( M a f t e o g o a f t e o p e f p ( t ( p ( r]
+[DELETED:  l ( p w t ( p ( o ( p a c e w i c o s m p w v 1 n e o b r t l b o c u A 1 o t s y A o q d t o t a a p p u a u s i s y o a q b t]
+[DELETED:  s ( “ p m t r i w a e o e m i c ( ( e ( a v a ( w ( v j ( ( r b e ( “ o m t g l g s o s a ( a o e r ( c c ( ( S I]
+[DELETED:  1 ( o t ( f t r ( w f v f r r ( t c t a f ( ( ( ( ( ( o c a c ( b r]
+[DELETED:  ( j o ( l ( a o t d f i i b f c v r ( c d d ( i ( n ( c s ( b ( f d S b 1 A m t i w 1 T " c w s c t e a f t v o e]
+[DELETED:  s e a c i T c s b r f e t a t d t s s ( I w s m i e c f b s b r ( ( t ( i ( q f 1 I d w t o i S]
+[DELETED:  T a d t e i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5874
+========
+LC002069
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- VOTING
+Introduced By: Representatives Cruz, Ajello, Felix, Sanchez, Morales, Potter, Kislak,
+Casimiro, Alzate, and Tanzi
+Date Introduced: February 28, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+2 Provisions" is hereby amended to read as follows:
+3 17-1-2. Definitions.
+4 For the purposes this title, except as may otherwise be required by the context:
+5 (1) “Election” means the filling of any public office or the determination of any public
+6 question by vote of the electorate, and includes without limitation any state, town, or city office or
+7 question, and any political party primary election for the nomination of any candidate for public
+8 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+9 fire, water, or sewer district;
+10 (2) “General election” means an election held on the first Tuesday next after the first
+11 Monday in November in even numbered years for the election of members of the general assembly
+12 and/or for the election of general officers, and/or for the election of presidential electors for
+13 president/vice-president of the United States;
+14 (3) “General officer” means an officer designated as a general officer by chapter 2 of this
+15 title;
+16 (4) “Independent candidate” means a candidate who has no affiliation with any political
+17 party;
+18 (5) “Local board” means a town or city board of canvassers, board of canvassers and
+19 registration, canvassing authority, or any other local board, commission, or officer empowered by
+
+1 law to have custody of the permanent registration records;
+2 (6) “Local election” means any election limited to the electorate of any city or town, or any
+3 part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting at
+4 which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+5 town, but it shall not include a financial town meeting;
+6 (7) “Party member” means any person who is a member of a designated political party
+7 pursuant to § 17-9.1-23;
+8 (8) “Party voter” means any qualified voter who is eligible to vote at the primary election
+9 of a political party;
+10 (9) “Political party” or “party” means: (i) any political organization which, at the next
+11 preceding general election for the election of general officers, nominated a candidate for governor,
+12 and whose candidate for governor at the election polled at least five percent (5%) of the entire vote
+13 cast in the state for governor, or (ii) any political organization which at the next preceding general
+14 election for the election of a president of the United States nominated a candidate for president and
+15 whose candidate for president at the election polled at least five percent (5%) of the entire vote cast
+16 in the state for president, or (iii) any political organization which, on petition forms provided to the
+17 chairperson of the organization by the state board of elections, obtains the signatures and addresses
+18 of that number of registered qualified voters equal to five percent (5%) of the entire vote cast in the
+19 state for governor or president in the immediately preceding general election. All the signatures
+20 must be obtained no earlier than January 1 of the year in which the political organization desires to
+21 place a candidate or candidates on any ballot as a “party” candidate. If the political organization
+22 wishes to select its nominees in a primary election, the petitions, bearing the requisite number of
+23 valid signatures, shall be presented to the appropriate local boards of canvassers no later than June
+24 1 of the same year. If the petitions are validated by the local boards as containing the requisite
+25 number of valid signatures, the political organization shall be deemed to be a political party for all
+26 elections held during the year and may select its nominees in a primary election. If the political
+27 organization does not wish to select its nominees in a primary election, then the petitions need not
+28 be returned to local boards of canvassers until August 1 of the same year. An organization
+29 qualifying as a political party through the petition process shall qualify as a political party only
+30 during the year in which signatures are obtained unless the candidates for governor or president of
+31 the United States of the party at a general election held in the year, shall receive five percent (5%)
+32 of the vote as provided in this subdivision for either governor or president of the United States. If
+33 the candidates do not receive five percent (5%) of the vote, the organization shall no longer qualify
+34 as a political party unless and until it shall, in a subsequent year, once again qualify by the
+LC002069 - Page 2 of 7
+
+1 submission of petitions;
+2 (10) “Polling place” means the room in which any election or elective meeting is
+3 conducted;
+4 (11) “Primary election” means any election to select the candidates of a political party;
+5 (12) “Proposition” or “public question” means any question put to a referendum of the
+6 electorate of the entire state or any part of it;
+7 (13) “Qualified voter” means any person who is eligible to vote under the requirements of
+8 age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+9 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+10 as a voter pursuant to law;
+11 (14) “Special election” means any election other than a local election or primary election
+12 which is not held on a general election day;
+13 (15) "Specially qualified voter" means a person who is otherwise eligible to register as a
+14 voter and whose present domicile is Rhode Island and who is confined in a correctional facility or
+15 jail, except by reason of a felony conviction.
+16 (15)(16) “State board” means the state board of elections constituted pursuant to this title;
+17 (16)(17) “State election” means any election at which any presidential electors, senator or
+18 representatives in congress, general officers of the state, or members of the general assembly are to
+19 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+20 electors of the state;
+21 (17)(18) “State officer” means the governor, lieutenant governor, secretary of state,
+22 attorney general, general treasurer, state senator, and state representative;
+23 (18)(19) “Vacancy in office” means the condition resulting from any failure to elect or
+24 appoint an eligible and qualified person to public office, or the failure of any person duly elected
+25 or appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+26 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+27 resignation, or removal;
+28 (19)(20) “Voting list” means the complete list of all voters prepared from the information
+29 contained in the original permanent registration records in the possession of the local board of
+30 canvassers;
+31 (20)(21) “Warden” includes “moderator” and vice versa;
+32 (21)(22) Words importing the masculine gender shall include the feminine gender.
+33 SECTION 2. Section 17-9.2-3 of the General Laws in Chapter 17-9.2 entitled "Rhode
+34 Island Restoration of Voting Rights Act" is hereby amended to read as follows:
+LC002069 - Page 3 of 7
+
+1 17-9.2-3. Restoration of voting rights.
+2 (a) A person who has lost the right of suffrage under Article II, Section 1 of the Constitution
+3 of Rhode Island because of such person’s incarceration upon a felony conviction shall be restored
+4 the right to vote when that person is discharged from incarceration.
+5 (b) Before accepting a plea of guilty or nolo contendere to a felony, and before imposing a
+6 felony sentence after trial, the court shall notify the defendant that conviction will result in loss of
+7 the right to vote only if and for as long as the person is incarcerated and that voting rights are
+8 restored upon discharge.
+9 (c) The department of corrections shall act as a voter registration agency in accordance
+10 with § 17-9.1-8. In this capacity, and as part of the release process leading to a person’s discharge
+11 from a correctional facility, the department of corrections shall notify that person in writing that
+12 voting rights will be restored, provide that person with a voter registration form and a declination
+13 form, and offer that person assistance in filling out the appropriate form. Unless the registrant
+14 refuses to permit it to do so, the department of corrections shall transmit the completed voter
+15 registration form to the state board or local board where the registrant resides.
+16 (d) The department of corrections shall, on or before the 15th day of each month, transmit
+17 to the secretary of state two (2) lists. The first shall contain the following information about persons
+18 convicted of a felony who, during the preceding period, have become ineligible to vote because of
+19 their incarceration; the second shall contain the following information about persons convicted of
+20 a felony who, during the preceding period, have become eligible to vote because of their discharge
+21 from incarceration:
+22 (1) name;
+23 (2) date of birth;
+24 (3) date of entry of judgment of conviction;
+25 (4) description of offense;
+26 (5) sentence.
+27 (e) The secretary of state shall ensure that the statewide central voter registration is purged
+28 of the names of persons who are ineligible to vote because of their incarceration upon a felony
+29 conviction. The secretary of state shall likewise ensure that the names of persons who are eligible
+30 and registered to vote following their discharge from incarceration are added to the statewide
+31 central voter register in the same manner as all other names are added to that register.
+32 (f) The secretary of state shall ensure that persons who have become eligible to vote
+33 because of their discharge from incarceration face no continued barriers to registration or voting
+34 resulting from their felony convictions.
+LC002069 - Page 4 of 7
+
+1 (g) The secretary of state shall develop and implement a program to educate attorneys,
+2 judges, election officials, corrections officials, and members of the public about the requirements
+3 of this section, ensuring that:
+4 (1) Judges are informed of their obligation to notify criminal defendants of the potential
+5 loss and restoration of their voting rights in accordance with subsection (b) hereof.
+6 (2) The department of corrections is prepared to assist people with registration to vote in
+7 anticipation of their discharge from incarceration, including by forwarding completed voter
+8 registration forms to the state board or local board where the registrant resides.
+9 (3) The language on voter registration forms makes clear that people who have been
+10 disqualified from voting because of felony convictions regain the right to vote when they are
+11 discharged from incarceration.
+12 (4) The state department of corrections is prepared to transmit to the secretary of state the
+13 information specified in subsection (d) hereof.
+14 (5) Probation and parole officers are informed of the change in the law and are prepared to
+15 notify probationers and parolees that their right to vote is restored.
+16 (6) Accurate and complete information about the voting rights of people who have been
+17 charged with or convicted of crimes, whether disfranchising or not, is made available through a
+18 single publication to government officials and the public.
+19 (7) All voting information shall be posted in a visible location at all correctional facility
+20 buildings, where notices are customarily posted.
+21 (h) Voting rights shall be restored to all Rhode Island residents who have been discharged
+22 from incarceration or who were never incarcerated following felony convictions, whether they were
+23 discharged or sentenced before or after the effective date of this section.
+24 SECTION 3. Chapter 17-20 of the General Laws entitled "Mail Ballots" is hereby amended
+25 by adding thereto the following sections:
+26 17-20-1.2. Specially qualified voter.
+27 A specially qualified voter, as defined in § 17-1-2, can request a ballot or mail ballot. The
+28 mail ballot application shall provide a check box for a person applying for a mail ballot, to indicate
+29 they are incarcerated, but not for a felony conviction. On the application, the applicant shall also
+30 include the address at which they are either registered to vote or qualified to vote and the address
+31 where they would like the mail ballot sent.
+32 17-20-1.3. Jail voting coordinator.
+33 The director of the department of corrections shall designate one of its employees the
+34 "voting coordinator", who shall coordinate the education and facilitate the voting of eligible
+LC002069 - Page 5 of 7
+
+1 specially qualified voters. That designation shall take place immediately upon its creation and that
+2 employee shall be continuously available to assist voting for specially qualified voters held at the
+3 adult correctional institutions. That coordinator shall be responsible for ensuring that all the
+4 department of corrections' responsibilities, pursuant to § 17-9.2-3, are fulfilled to ensure the right
+5 to vote of a specially qualified voter. The coordinator shall prepare and submit to the secretary of
+6 state an annual implementation plan detailing the department of corrections' compliance which
+7 shall include, but not be limited to:
+8 (1) Identifying which staff members in each correctional facility building shall be
+9 responsible for coordinating and providing voter information to incarcerated persons;
+10 (2) Incorporating voter registration procedures;
+11 (3) Methods for notifying persons incarcerated for misdemeanor convictions of their right
+12 to continue voting, while incarcerated; and
+13 (4) Ensuring access to mail ballot and ballot requests and submissions for incarcerated
+14 individuals eligible to vote.
+15 (b) The coordinator shall be responsible for all phases of the voting process for the specially
+16 qualified voter, from registering voters, to the acquisition of the mail ballots and ballots, and to the
+17 final return of the voted ballots to the board of elections.
+18 17-20-1.4. Enforcement of inmate voting.
+19 In accordance with the requirements of title 17, any incarcerated eligible voter who is
+20 denied access to the voting process at any juncture, shall have the right to file a formal complaint
+21 with the secretary of state. The secretary of state shall promulgate rules and regulations necessary
+22 to ensure all aspects of this process are followed, as well as, to aid in the enforcement and protection
+23 of voting rights for specially qualified voters incarcerated at the Rhode Island adult correctional
+24 institutions.
+25 SECTION 4. This act shall take effect upon passage.
+========
+LC002069
+========
+LC002069 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- VOTING
+***
+1 This act would make it easier to vote for people eligible to vote who are incarcerated at the
+2 adult correctional institutions. It would also create the position of "voting coordinator," within the
+3 department of corrections to help facilitate incarcerated people who are eligible to vote from start
+4 to finish. Finally, it would authorize the secretary of state to promulgate rules and regulations to
+5 enforce voting rights for people eligible to vote, who are incarcerated at the adult correctional
+6 institutions.
+7 This act would take effect upon passage.
+========
+LC002069
+========
+LC002069 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " P 1 F ( q q o f ( M a f t e o g o a f t e o p e f p ( t ( p ( r]
+[DELETED:  l ( p w t ( p ( o ( p a c e w i c o s m p w v 1 n e o b r t l b o c u A 1 o t s y A o q d t o t a a p p u a u s i s y o a q b t]
+[DELETED:  s ( “ p m t r i w a e o e m i c ( ( e ( a v a ( w ( v j ( ( r b e ( “ o m t g l g s o s a ( a o e r ( c c ( ( S I]
+[DELETED:  1 ( o t ( f t r ( w f v f r r ( t c t a f ( ( ( ( ( ( o c a c ( b r]
+[DELETED:  ( j o ( l ( a o t d f i i b f c v r ( c d d ( i ( n ( c s ( b ( f d S b 1 A m t i w 1 T " c w s c t e a f t v o e]
+[DELETED:  s e a c i T c s b r f e t a t d t s s ( I w s m i e c f b s b r ( ( t ( i ( q f 1 I d w t o i S]
+[DELETED:  T a d t e i T]

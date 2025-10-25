@@ -1,0 +1,175 @@
+Title: RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+Official Title: RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+Number of Sections: 1
+Source: versions - 5298  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5298 SUBSTITUTE A
+========
+LC000962/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+FAMILY COURT
+Introduced By: Representatives Kislak, Knight, Cruz, Ajello, Felix, Craven, Caldwell,
+Batista, McEntee, and Potter
+Date Introduced: February 05, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 14-1 of the General Laws entitled "Proceedings in Family Court" is
+2 hereby amended by adding thereto the following section:
+3 14-1-30.3. Use of statements made in custodial interrogation.
+4 (a) No statements or admissions of a juvenile made as a result of the custodial interrogation
+5 of such juvenile, by a law enforcement official, concerning delinquent or criminal acts alleged to
+6 have been committed by the juvenile, shall be admissible in evidence against such juvenile, unless:
+7 (1) The juvenile was advised of their right to have a parent or legal guardian present during
+8 questioning;
+9 (2) The parent or legal guardian was present during the questioning;
+10 (3) The juvenile and parent or legal guardian were advised prior to questioning, of the
+11 following:
+12 (i) The juvenile’s right to remain silent;
+13 (ii) That statements made could be used against them in a court of law;
+14 (iii) That they have the right to have an attorney be present during any questioning;
+15 (iv) That if they cannot afford an attorney, one would be appointed to represent the juvenile
+16 at no cost; and
+17 (v) A request for an attorney can be made by the juvenile or the parent or legal guardian at
+18 any time during questioning.
+1 (b) Notwithstanding the provisions of subsection (a) of this section, statements or
+2 admissions of a juvenile made in the absence of their parent or legal guardian may be admissible
+3 if:
+4 (1) A private attorney or public defender was present at such interrogation;
+5 (2) The court finds that, under the totality of the circumstances, the juvenile made a
+6 knowing, intelligent and voluntary waiver of their constitutional rights; and the juvenile
+7 misrepresented their age as being eighteen (18) years of age or older and the law enforcement
+8 official acted in good faith reliance on such representation in conducting the interrogation; or
+9 (3) The juvenile is emancipated from their parent or legal guardian.
+10 (c) For purposes of this section, a juvenile shall be deemed emancipated if they are over
+11 the age of fifteen (15) years of age and under the age of eighteen (18) years of age, and have the
+12 real or apparent assent of their parents, has demonstrated independence in matters of care, custody
+13 and earnings. The term emancipated may include, but not be limited to, a showing that the juvenile
+14 is married, in the military, or is otherwise self-supporting.
+15 (d) In those instances where the only legal guardian for the juvenile is the department of
+16 children, youth and families, no interrogation shall take place unless and until an attorney has been
+17 appointed by the court to advise the juvenile.
+18 (e) In the event that any provision of this section is in conflict with any provision of chapter
+19 21.5 of title 16, the provisions of this section shall apply.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000962/SUB A
+========
+LC000962/SUB A - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+***
+1 This act would prohibit any questioning of a juvenile who is suspected of delinquent or
+2 criminal behavior unless (1) the parent, legal guardian of the juvenile or the DCYF when parental
+3 rights are terminated is present, (2) unless an attorney is present, (3) the juvenile and their parent
+4 or legal guardian have waived their presence, (4) the court is satisfied that the juvenile has made a
+5 knowing voluntary waiver of their rights, or (5) the juvenile is emancipated or has misrepresented
+6 their age as being eighteen (18) years or older.
+7 This act would take effect upon passage.
+========
+LC000962/SUB A
+========
+LC000962/SUB A - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 ( o h ( q ( ( f ( ( ( ( a ( a]
+[DELETED:  ( N t p o s ( o t s s o a i ( ( f t t o t c t m a k i a v w o t c r a t j m o ( ( t r a i ( c a ( 2 S]
+[DELETED:  T c r o k t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5298 SUBSTITUTE A
+========
+LC000962/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+Introduced By: Representatives Kislak, Knight, Cruz, Ajello, Felix, Craven, Caldwell,
+Batista, McEntee, and Potter
+Date Introduced: February 05, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 14-1 of the General Laws entitled "Proceedings in Family Court" is
+2 hereby amended by adding thereto the following section:
+3 14-1-30.3. Use of statements made in custodial interrogation.
+4 (a) No statements or admissions of a juvenile made as a result of the custodial interrogation
+5 of such juvenile, by a law enforcement official, concerning delinquent or criminal acts alleged to
+6 have been committed by the juvenile, shall be admissible in evidence against such juvenile, unless:
+7 (1) The juvenile was advised of their right to have a parent or legal guardian present during
+8 questioning;
+9 (2) The parent or legal guardian was present during the questioning;
+10 (3) The juvenile and parent or legal guardian were advised prior to questioning, of the
+11 following:
+12 (i) The juvenile’s right to remain silent;
+13 (ii) That statements made could be used against them in a court of law;
+14 (iii) That they have the right to have an attorney be present during any questioning;
+15 (iv) That if they cannot afford an attorney, one would be appointed to represent the juvenile
+16 at no cost; and
+17 (v) A request for an attorney can be made by the juvenile or the parent or legal guardian at
+18 any time during questioning.
+
+1 (b) Notwithstanding the provisions of subsection (a) of this section, statements or
+2 admissions of a juvenile made in the absence of their parent or legal guardian may be admissible
+3 if:
+4 (1) A private attorney or public defender was present at such interrogation;
+5 (2) The court finds that, under the totality of the circumstances, the juvenile made a
+6 knowing, intelligent and voluntary waiver of their constitutional rights; and the juvenile
+7 misrepresented their age as being eighteen (18) years of age or older and the law enforcement
+8 official acted in good faith reliance on such representation in conducting the interrogation; or
+9 (3) The juvenile is emancipated from their parent or legal guardian.
+10 (c) For purposes of this section, a juvenile shall be deemed emancipated if they are over
+11 the age of fifteen (15) years of age and under the age of eighteen (18) years of age, and have the
+12 real or apparent assent of their parents, has demonstrated independence in matters of care, custody
+13 and earnings. The term emancipated may include, but not be limited to, a showing that the juvenile
+14 is married, in the military, or is otherwise self-supporting.
+15 (d) In those instances where the only legal guardian for the juvenile is the department of
+16 children, youth and families, no interrogation shall take place unless and until an attorney has been
+17 appointed by the court to advise the juvenile.
+18 (e) In the event that any provision of this section is in conflict with any provision of chapter
+19 21.5 of title 16, the provisions of this section shall apply.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000962/SUB A
+========
+LC000962/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+***
+1 This act would prohibit any questioning of a juvenile who is suspected of delinquent or
+2 criminal behavior unless (1) the parent, legal guardian of the juvenile or the DCYF when parental
+3 rights are terminated is present, (2) unless an attorney is present, (3) the juvenile and their parent
+4 or legal guardian have waived their presence, (4) the court is satisfied that the juvenile has made a
+5 knowing voluntary waiver of their rights, or (5) the juvenile is emancipated or has misrepresented
+6 their age as being eighteen (18) years or older.
+7 This act would take effect upon passage.
+========
+LC000962/SUB A
+========
+LC000962/SUB A - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 ( o h ( q ( ( f ( ( ( ( a ( a]
+[DELETED:  ( N t p o s ( o t s s o a i ( ( f t t o t c t m a k i a v w o t c r a t j m o ( ( t r a i ( c a ( 2 S]
+[DELETED:  T c r o k t T]

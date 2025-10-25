@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ri"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:19Z"
+    "logs_latest_update": "2025-10-25T03:10:19Z",
+    "text_extraction_latest_update": "2025-10-25T09:37:12.410026Z"
   }
 }

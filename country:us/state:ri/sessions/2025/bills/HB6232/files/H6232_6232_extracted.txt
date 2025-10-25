@@ -1,0 +1,161 @@
+Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Official Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Number of Sections: 1
+Source: versions - 6232
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6232
+========
+LC002719
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Messier, Serpa, Furtado, Cruz, and Fellela
+Date Introduced: April 11, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-5-20.1, 44-5-20.2 and 44-5-20.3 of the General Laws in Chapter
+2 44-5 entitled "Levy and Assessment of Local Taxes" are hereby amended to read as follows:
+3 44-5-20.1. Pawtucket — Property tax classification — Eligibility.
+4 The Notwithstanding any provisions to the contrary, the city of Pawtucket is authorized to
+5 adopt a system of property tax classification.
+6 44-5-20.2. Pawtucket — Property tax classification — List of ratable property.
+7 (a) Under the system of classification of taxable property adopted by the city of Pawtucket,
+8 all ratable property in the city of Pawtucket shall be classified by the assessor as follows:
+9 (1) Class-1: all residential real estate, which consists of not more than five (5) dwelling
+10 units and all residential real estate that consists of six (6) dwelling units in which at least one unit
+11 is owner-occupied. Class 1 includes all mobile/manufactured homes, which are owner-occupied;
+12 (2) Class 2: all commercial and industrial real estate and all residential real estate which
+13 consists of six (6) dwelling units in which no units are owner-occupied and all residential real estate
+14 which consists of more than six (6) dwelling units;
+15 (3) Class 3: all ratable tangible personal property;
+16 (4) Class 4: all motor vehicles and trailers subject to the excise tax created by chapter 34
+17 of this title;
+18 (5) Class 5: all residential real estate which consists of not more than five (5) dwelling units
+19 in which no units are owner-occupied. Class 5 includes all mobile and manufactured homes which
+1 are not owner-occupied.
+2 (b) Where real property is used or held for more than one purpose and the uses result in
+3 different classifications, the assessor shall allocate to each classification the percentage of true and
+4 fair cash value to the property devoted to each use.
+5 44-5-20.3. Pawtucket — Property tax classification — Duties of assessor and finance
+6 director.
+7 (a) The assessor of the city of Pawtucket, on or before June 15 of each year, shall make a
+8 full and fair cash valuation of all the estate, real and personal, including motor vehicles and trailers,
+9 subject to taxation, and determine the assessed valuation of each property class.
+10 (b) The finance director has the authority to apply different rates of taxation to each
+11 property class and to determine the tax due and payable on the property; provided, however, that
+12 the rate of taxation shall be uniform within each class; and for each year, class 2 property rates and
+13 class 5 property tax rates shall not be more than one hundred and seventy-five percent (175%) of
+14 class 1 property tax rates.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC002719
+========
+LC002719 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would amend the property tax classification system for the city of Pawtucket. Class
+2 1 property would be increased from five (5) dwelling units to six (6) dwelling units in which at
+3 least one unit is owner-occupied. This act would also establish class 5 which would include all
+4 residential real estate of not more than five (5) units if no units are owner-occupied. This act would
+5 provide that class 5 property tax rates shall not be more than one hundred seventy-five percent
+6 (175%) of class 1 property tax rates.
+7 This act would take effect upon passage.
+========
+LC002719
+========
+LC002719 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S 4 4 T a 4 ( a ( u i ( c w ( ( o ( i]
+[DELETED:  a ( d f 4 d ( f s ( d h t a t d r o t e p t c c S]
+[DELETED:  T 1 l r p ( T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6232
+========
+LC002719
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Introduced By: Representatives Messier, Serpa, Furtado, Cruz, and Fellela
+Date Introduced: April 11, 2025
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-5-20.1, 44-5-20.2 and 44-5-20.3 of the General Laws in Chapter
+2 44-5 entitled "Levy and Assessment of Local Taxes" are hereby amended to read as follows:
+3 44-5-20.1. Pawtucket — Property tax classification — Eligibility.
+4 The Notwithstanding any provisions to the contrary, the city of Pawtucket is authorized to
+5 adopt a system of property tax classification.
+6 44-5-20.2. Pawtucket — Property tax classification — List of ratable property.
+7 (a) Under the system of classification of taxable property adopted by the city of Pawtucket,
+8 all ratable property in the city of Pawtucket shall be classified by the assessor as follows:
+9 (1) Class-1: all residential real estate, which consists of not more than five (5) dwelling
+10 units and all residential real estate that consists of six (6) dwelling units in which at least one unit
+11 is owner-occupied. Class 1 includes all mobile/manufactured homes, which are owner-occupied;
+12 (2) Class 2: all commercial and industrial real estate and all residential real estate which
+13 consists of six (6) dwelling units in which no units are owner-occupied and all residential real estate
+14 which consists of more than six (6) dwelling units;
+15 (3) Class 3: all ratable tangible personal property;
+16 (4) Class 4: all motor vehicles and trailers subject to the excise tax created by chapter 34
+17 of this title;
+18 (5) Class 5: all residential real estate which consists of not more than five (5) dwelling units
+19 in which no units are owner-occupied. Class 5 includes all mobile and manufactured homes which
+
+1 are not owner-occupied.
+2 (b) Where real property is used or held for more than one purpose and the uses result in
+3 different classifications, the assessor shall allocate to each classification the percentage of true and
+4 fair cash value to the property devoted to each use.
+5 44-5-20.3. Pawtucket — Property tax classification — Duties of assessor and finance
+6 director.
+7 (a) The assessor of the city of Pawtucket, on or before June 15 of each year, shall make a
+8 full and fair cash valuation of all the estate, real and personal, including motor vehicles and trailers,
+9 subject to taxation, and determine the assessed valuation of each property class.
+10 (b) The finance director has the authority to apply different rates of taxation to each
+11 property class and to determine the tax due and payable on the property; provided, however, that
+12 the rate of taxation shall be uniform within each class; and for each year, class 2 property rates and
+13 class 5 property tax rates shall not be more than one hundred and seventy-five percent (175%) of
+14 class 1 property tax rates.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC002719
+========
+LC002719 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would amend the property tax classification system for the city of Pawtucket. Class
+2 1 property would be increased from five (5) dwelling units to six (6) dwelling units in which at
+3 least one unit is owner-occupied. This act would also establish class 5 which would include all
+4 residential real estate of not more than five (5) units if no units are owner-occupied. This act would
+5 provide that class 5 property tax rates shall not be more than one hundred seventy-five percent
+6 (175%) of class 1 property tax rates.
+7 This act would take effect upon passage.
+========
+LC002719
+========
+LC002719 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S 4 4 T a 4 ( a ( u i ( c w ( ( o ( i]
+[DELETED:  a ( d f 4 d ( f s ( d h t a t d r o t e p t c c S]
+[DELETED:  T 1 l r p ( T]

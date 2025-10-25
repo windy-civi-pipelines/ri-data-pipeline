@@ -1,0 +1,526 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND
+Number of Sections: 1
+Source: versions - 6243
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6243
+========
+LC002741
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+BIOTECHNOLOGY REGULATORY SANDBOX ACT
+Introduced By: Representative David J. Place
+Date Introduced: April 23, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 167
+4 RHODE ISLAND BIOTECHNOLOGY REGULATORY SANDBOX ACT
+5 42-167-1. Short title.
+6 This chapter shall be known and may be cited as the “Rhode Island Biotechnology
+7 Regulatory Sandbox Act.”
+8 42-167-2. Definitions.
+9 As used in this chapter:
+10 (1) “Applicable agency” means a department or agency of the state that by law regulates
+11 biotechnology-related business activity, including licensing, compliance, and consumer protection
+12 requirements.
+13 (2) “Applicant” means a biotechnology company, research institution, or entity applying
+14 for participation in the regulatory sandbox.
+15 (3) “Consumer” means any person or entity that enters into a transaction to receive a
+16 biotechnology product or service tested within the regulatory sandbox.
+17 (4) “Department” means the department of business regulation (DBR), responsible for
+18 overseeing the biotechnology regulatory sandbox program.
+1 (5) “Innovation” means the use of emerging technology or novel applications of existing
+2 technology to solve industry challenges, improve efficiency, or enhance consumer access to
+3 biotechnology products or services.
+4 (6) “Innovative biotechnology product or service” means any biotechnology-related
+5 product or service that incorporates an innovation and requires state licensure, authorization, or
+6 oversight under Rhode Island law.
+7 (7) “Regulatory sandbox” means the biotechnology regulatory sandbox program, which
+8 allows approved participants to test biotechnology innovations under limited exemptions from
+9 certain state regulations.
+10 (8) “Sandbox participant” means an entity whose application has been approved to test an
+11 innovative biotechnology product or service within the sandbox.
+12 (9) “Test” means to provide an innovative biotechnology product or service under the
+13 conditions set forth in this chapter.
+14 42-167-3. Establishment of the biotechnology regulatory sandbox.
+15 (a) The biotechnology regulatory sandbox program is hereby established within the
+16 department.
+17 (b) In administering the biotechnology regulatory sandbox, the department:
+18 (1) Shall consult with each applicable agency;
+19 (2) Establish a program to enable a person or entity to obtain limited access to the market
+20 in the state to test an innovative biotechnology product or service without obtaining a license or
+21 other state authorization that might otherwise be required;
+22 (3) May enter into agreements with or follow the best practices of similar programs being
+23 administered in other states or federal agencies;
+24 (4) May not approve participation in the biotechnology regulatory sandbox by an applicant
+25 or any other participant who has been convicted, entered a plea of nolo contendere or entered a plea
+26 of guilty or nolo contendere held in abeyance, for a serious crime:
+27 (i) Involving theft, fraud, or dishonesty; or
+28 (ii) That bears a substantial relationship to the applicant’s or participant’s ability to safely
+29 or competently participate in the regulatory sandbox program.
+30 (c) The department shall coordinate with federal and state agencies to ensure sandbox
+31 participation aligns with federal regulatory frameworks, including those of the FDA, USDA, and
+32 EPA.
+33 42-167-4. Application process.
+34 (a) An applicant shall submit to the department an application that:
+LC002741 - Page 2 of 8
+1 (1) Includes a nonrefundable application fee sufficient to cover administration costs;
+2 (2) Demonstrates the applicant is subject to the jurisdiction of the state;
+3 (3) Demonstrates the applicant has established a physical or virtual location that is
+4 adequately accessible to the department, from which testing will be developed and performed and
+5 where all required records, documents, and data will be maintained;
+6 (4) Contains relevant personal and contact information, including legal names, addresses,
+7 telephone numbers, email addresses, website addresses, and other information required by the
+8 department;
+9 (5) Discloses criminal convictions of the applicant or other participating personnel, if any;
+10 (6) Demonstrates that the applicant has the necessary personnel, financial and technical
+11 expertise, access to capital, and a developed plan to test, monitor, and assess the innovative
+12 biotechnology product or service;
+13 (7) Contains a description of the innovative biotechnology product or service to be tested,
+14 including statements regarding the following:
+15 (i) How the innovative biotechnology product or service is subject to licensing or other
+16 authorization requirements outside of the biotechnology regulatory sandbox, including a specific
+17 list of all state laws, regulations, and licensing or other requirements that the applicant is seeking
+18 to have waived during the testing period;
+19 (ii) How the innovative biotechnology product or service would benefit consumers;
+20 (iii) How the innovative biotechnology product or service is different from other
+21 biotechnology products or services available in the state;
+22 (iv) What risks may confront consumers who use or purchase the innovative biotechnology
+23 product or service;
+24 (v) How participating in the regulatory sandbox would enable a successful test of the
+25 innovative biotechnology product or service;
+26 (vi) A description of how the applicant will perform ongoing duties after the test;
+27 (vii) How the applicant will end the test and protect consumers if the test fails, including
+28 providing evidence of sufficient liability coverage and financial reserves to protect consumers and
+29 to protect against insolvency by the applicant; and
+30 (viii) Provides any other required information as determined by the department.
+31 (b) An applicant shall file a separate application for each innovative biotechnology product
+32 or service the applicant wants to test.
+33 (c) After the application is filed and before approving the application, the department may
+34 seek any additional information from the applicant that the department determines is necessary.
+LC002741 - Page 3 of 8
+1 (d) Subject to subsection (e) of this section, and not later than ninety (90) days after the
+2 day on which a complete application is received by the department, it shall inform the applicant as
+3 to whether the application is approved for entry into the regulatory sandbox.
+4 (e) The department and an applicant may mutually agree to extend the ninety (90) day
+5 timeline for the department to determine whether an application is approved for entry into the
+6 regulatory sandbox.
+7 (f) The department shall consult with, and get approval from, each applicable agency before
+8 admitting an applicant into the regulatory sandbox. The consultation with an applicable agency
+9 may include seeking information about whether:
+10 (1) The applicable agency has previously issued a license or other authorization to the
+11 applicant.
+12 (2) The applicable agency has previously investigated, sanctioned, or pursued legal action
+13 against the applicant,
+14 (3) Whether the applicant could obtain a license or other authorization from the applicable
+15 agency after exiting the regulatory sandbox; and
+16 (4) Whether certain licensure or other regulations should not be waived even if the
+17 applicant is accepted into the regulatory sandbox.
+18 (g) In reviewing an application under this section, the department shall consider whether a
+19 competitor to the applicant is or has been a biotechnology sandbox participant and weigh that as a
+20 factor in allowing the applicant to also become a biotechnology sandbox participant. If the
+21 department and each applicable agency approve admitting an applicant into the biotechnology
+22 regulatory sandbox, an applicant may become a sandbox participant.
+23 (h) The department may deny any application submitted under this section, for any reason,
+24 in the department’s discretion.
+25 (i) If the department denies an application submitted under this section, it shall provide to
+26 the applicant a written description of the reasons for the denial as a sandbox participant.
+27 42-167-5. Regulatory relief and conditions.
+28 (a) Approved participants may receive temporary exemptions from state laws or
+29 regulations that were identified by the participant’s application and have been waived in writing by
+30 the department, except for:
+31 (1) Human genetic modification prohibitions (e.g., germline editing).
+32 (2) State or federal environmental protection laws deemed necessary.
+33 (3) Ethical standards for human or animal research.
+34 (b) The sandbox period shall not exceed twenty-four (24) months, with an option for
+LC002741 - Page 4 of 8
+1 renewal based on further review.
+2 (c) Participants shall submit quarterly progress reports detailing compliance, risks, and
+3 findings.
+4 (d) By written notice, the department may terminate a participant’s involvement in the
+5 regulatory sandbox for non-compliance, unethical conduct, or public safety concerns.
+6 (e) A sandbox participant does not have immunity related to any criminal offense
+7 committed during the sandbox participant’s time in the regulatory sandbox.
+8 42-167-6. Consumer protections.
+9 (a) Before providing an innovative biotechnology product or service to a consumer, a
+10 sandbox participant shall disclose the following to the consumer:
+11 (1) The name and contact information of the sandbox participant;
+12 (2) That the innovative biotechnology product or service is authorized pursuant to the
+13 regulatory sandbox and, if applicable, that the sandbox participant does not have a license or other
+14 authorization to provide a biotechnology product or service under state laws that regulate
+15 biotechnology products outside the regulatory sandbox;
+16 (3) That the innovative biotechnology product or service is undergoing testing and may not
+17 function as intended and may expose the customer to financial risk;
+18 (4) That the provider of the innovative biotechnology product is not immune from civil
+19 liability for any losses or damages caused by the innovative biotechnology product or service;
+20 (5) That the state does not endorse or recommend the innovative biotechnology product or
+21 service;
+22 (6) That the innovative biotechnology product or service is a temporary test that may be
+23 discontinued at the end of the testing period;
+24 (7) The expected end date of the testing period;
+25 (8) That a consumer may contact the department to file a complaint regarding the
+26 innovative biotechnology product or service being tested and provide the department’s telephone
+27 number and website address where a complaint may be filed.
+28 (b) The disclosures required in this section shall be provided to a consumer in a clear and
+29 conspicuous form and, for an Internet or application-based innovative biotechnology product or
+30 service, a consumer shall acknowledge receipt of the disclosure before a transaction may be
+31 completed.
+32 (c) The department may require that a sandbox participant make additional disclosures to
+33 a consumer.
+34 42-167-7. Data reporting.
+LC002741 - Page 5 of 8
+1 (a) A sandbox participant shall retain records, documents, and data produced in the
+2 ordinary course of business regarding an innovative biotechnology product or service tested in the
+3 regulatory sandbox.
+4 (b) If an innovative biotechnology product or service fails before the end of a testing period,
+5 the sandbox participant shall notify the department and report on actions taken by the sandbox
+6 participant to ensure consumers have not been harmed as a result of the failure.
+7 (c) The department shall establish quarterly reporting requirements for a sandbox
+8 participant, including information about any customer complaints.
+9 (d) The department may request records, documents, and data from a sandbox participant
+10 and, upon the department’s request, a sandbox participant shall make such records, documents, and
+11 data available for inspection by the department.
+12 (e) If the department determines that a sandbox participant has engaged in, is engaging in,
+13 or is about to engage in any practice or transaction that is in violation of this chapter or that
+14 constitutes a violation of state or federal criminal law, the department may remove a sandbox
+15 participant from the biotechnology regulatory sandbox.
+16 (f) By January 1, 2027, the department shall provide an annual written report to the general
+17 assembly that provides:
+18 (1) Information regarding each biotechnology sandbox participant.
+19 (2) Recommendations regarding the effectiveness of the biotechnology regulatory sandbox
+20 program.
+21 (3) Potential regulatory reforms.
+22 42-167-8. Exit strategy and post-sandbox regulatory pathways.
+23 (a) At least thirty (30) days before the twenty-four (24) month sandbox period ends, a
+24 participant shall:
+25 (1) Notify the department that the sandbox participant will exit the biotechnology
+26 regulatory sandbox, discontinue the sandbox participant’s test, and will stop offering any
+27 innovative biotechnology product or service in the regulatory sandbox within sixty (60) days after
+28 the day on which the trial period ends; or
+29 (2) Seek an extension in accordance with § 42-167-9.
+30 (b) Subject to subsection (c) of this section, if the department does not receive notification
+31 as required by subsection (a) of this section, the regulatory sandbox testing period ends at the end
+32 of the twenty-four (24) month testing period and the sandbox participant shall immediately stop
+33 offering each innovative biotechnology product or service being tested.
+34 (c) If a test includes offering an innovative biotechnology product or service that requires
+LC002741 - Page 6 of 8
+1 ongoing duties, the sandbox participant shall continue to fulfill those duties or arrange for another
+2 person to fulfill those duties after the date on which the sandbox participant exits the regulatory
+3 sandbox.
+4 42-167-9. Extensions.
+5 (a) Not later than thirty (30) days before the end of the regulatory sandbox testing period,
+6 a sandbox participant may request from the department an extension of the regulatory sandbox
+7 testing period for the purpose of obtaining a license or other authorization.
+8 (b) The department shall make a decision as to whether it will grant or deny the request for
+9 an extension by the end of the regulatory sandbox testing period.
+10 (c) The department may grant an extension in accordance with this section for not more
+11 than twelve (12) months after the end of the regulatory sandbox testing period.
+12 (d) A sandbox participant that obtains an extension in accordance with this section shall
+13 provide the department with a written report every three (3) months that provides an update on
+14 efforts to obtain a license or other authorization required by law, including any submissions for
+15 licensure or other authorization, rejected applications, or issued licenses or other authorizations.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC002741
+========
+LC002741 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND
+BIOTECHNOLOGY REGULATORY SANDBOX ACT
+***
+1 This act would establish the biotechnology regulatory sandbox program within the
+2 department of business regulation to enable a person or entity to obtain limited access to the market
+3 in the state to test an innovative biotechnology product or service without obtaining a license or
+4 other state authorization that might otherwise be required.
+5 This act would take effect upon passage.
+========
+LC002741
+========
+LC002741 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C R 4 T c s b k a m b c a t “ I B R 4 A ( b r ( f ( b ( o]
+[DELETED:  ( t t s i c i e o e c a t b ( “ b p o s m a b p o ( a c ( i ( c 4 ( T b r s p i h e w t d ( ( ( i o ( a ( o o ( ( o ( p E 4 (]
+[DELETED:  ( ( ( D t a h e a p o v l t i a w ( t d ( ( e a t c a a d p t t m a a t i b ( i ( a l t ( ( H t i b p o s i d f o b ( p ( i ( ( p t ( ( o ( s]
+[DELETED:  ( d t ( t r ( a m ( a ( a ( a ( W c l o o r s n b w e i t a ( c f i a t a t a b a b s p I t d r ( i ( t 4 ( A p m r t e f s l o r t ( ( ( (]
+[DELETED:  r ( f ( r ( A s p d n h i r t a c o c 4 ( t s ( ( r a t p a b p o s u s l t r b ( f ( l ( s ( d ( ( T a c m c t d t f a c r t i n ( c s a c s a r o t d b a t m b c ( a 4]
+[DELETED:  ( A s p s r r d a d p i t o r ( t p ( T d s e q r r f a s p ( a d ( o c p ( a ( ( p ( 4 ( p (  N t d t t s p w e t b r s d t s p t a w s o a i t ( ( a o o (]
+[DELETED:  o p s 4 ( a t ( a ( t ( p e l S]
+[DELETED:  T a w e t b r s p w t d i o T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6243
+========
+LC002741
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND
+BIOTECHNOLOGY REGULATORY SANDBOX ACT
+Introduced By: Representative David J. Place
+Date Introduced: April 23, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 167
+4 RHODE ISLAND BIOTECHNOLOGY REGULATORY SANDBOX ACT
+5 42-167-1. Short title.
+6 This chapter shall be known and may be cited as the “Rhode Island Biotechnology
+7 Regulatory Sandbox Act.”
+8 42-167-2. Definitions.
+9 As used in this chapter:
+10 (1) “Applicable agency” means a department or agency of the state that by law regulates
+11 biotechnology-related business activity, including licensing, compliance, and consumer protection
+12 requirements.
+13 (2) “Applicant” means a biotechnology company, research institution, or entity applying
+14 for participation in the regulatory sandbox.
+15 (3) “Consumer” means any person or entity that enters into a transaction to receive a
+16 biotechnology product or service tested within the regulatory sandbox.
+17 (4) “Department” means the department of business regulation (DBR), responsible for
+18 overseeing the biotechnology regulatory sandbox program.
+
+1 (5) “Innovation” means the use of emerging technology or novel applications of existing
+2 technology to solve industry challenges, improve efficiency, or enhance consumer access to
+3 biotechnology products or services.
+4 (6) “Innovative biotechnology product or service” means any biotechnology-related
+5 product or service that incorporates an innovation and requires state licensure, authorization, or
+6 oversight under Rhode Island law.
+7 (7) “Regulatory sandbox” means the biotechnology regulatory sandbox program, which
+8 allows approved participants to test biotechnology innovations under limited exemptions from
+9 certain state regulations.
+10 (8) “Sandbox participant” means an entity whose application has been approved to test an
+11 innovative biotechnology product or service within the sandbox.
+12 (9) “Test” means to provide an innovative biotechnology product or service under the
+13 conditions set forth in this chapter.
+14 42-167-3. Establishment of the biotechnology regulatory sandbox.
+15 (a) The biotechnology regulatory sandbox program is hereby established within the
+16 department.
+17 (b) In administering the biotechnology regulatory sandbox, the department:
+18 (1) Shall consult with each applicable agency;
+19 (2) Establish a program to enable a person or entity to obtain limited access to the market
+20 in the state to test an innovative biotechnology product or service without obtaining a license or
+21 other state authorization that might otherwise be required;
+22 (3) May enter into agreements with or follow the best practices of similar programs being
+23 administered in other states or federal agencies;
+24 (4) May not approve participation in the biotechnology regulatory sandbox by an applicant
+25 or any other participant who has been convicted, entered a plea of nolo contendere or entered a plea
+26 of guilty or nolo contendere held in abeyance, for a serious crime:
+27 (i) Involving theft, fraud, or dishonesty; or
+28 (ii) That bears a substantial relationship to the applicant’s or participant’s ability to safely
+29 or competently participate in the regulatory sandbox program.
+30 (c) The department shall coordinate with federal and state agencies to ensure sandbox
+31 participation aligns with federal regulatory frameworks, including those of the FDA, USDA, and
+32 EPA.
+33 42-167-4. Application process.
+34 (a) An applicant shall submit to the department an application that:
+LC002741 - Page 2 of 8
+
+1 (1) Includes a nonrefundable application fee sufficient to cover administration costs;
+2 (2) Demonstrates the applicant is subject to the jurisdiction of the state;
+3 (3) Demonstrates the applicant has established a physical or virtual location that is
+4 adequately accessible to the department, from which testing will be developed and performed and
+5 where all required records, documents, and data will be maintained;
+6 (4) Contains relevant personal and contact information, including legal names, addresses,
+7 telephone numbers, email addresses, website addresses, and other information required by the
+8 department;
+9 (5) Discloses criminal convictions of the applicant or other participating personnel, if any;
+10 (6) Demonstrates that the applicant has the necessary personnel, financial and technical
+11 expertise, access to capital, and a developed plan to test, monitor, and assess the innovative
+12 biotechnology product or service;
+13 (7) Contains a description of the innovative biotechnology product or service to be tested,
+14 including statements regarding the following:
+15 (i) How the innovative biotechnology product or service is subject to licensing or other
+16 authorization requirements outside of the biotechnology regulatory sandbox, including a specific
+17 list of all state laws, regulations, and licensing or other requirements that the applicant is seeking
+18 to have waived during the testing period;
+19 (ii) How the innovative biotechnology product or service would benefit consumers;
+20 (iii) How the innovative biotechnology product or service is different from other
+21 biotechnology products or services available in the state;
+22 (iv) What risks may confront consumers who use or purchase the innovative biotechnology
+23 product or service;
+24 (v) How participating in the regulatory sandbox would enable a successful test of the
+25 innovative biotechnology product or service;
+26 (vi) A description of how the applicant will perform ongoing duties after the test;
+27 (vii) How the applicant will end the test and protect consumers if the test fails, including
+28 providing evidence of sufficient liability coverage and financial reserves to protect consumers and
+29 to protect against insolvency by the applicant; and
+30 (viii) Provides any other required information as determined by the department.
+31 (b) An applicant shall file a separate application for each innovative biotechnology product
+32 or service the applicant wants to test.
+33 (c) After the application is filed and before approving the application, the department may
+34 seek any additional information from the applicant that the department determines is necessary.
+LC002741 - Page 3 of 8
+
+1 (d) Subject to subsection (e) of this section, and not later than ninety (90) days after the
+2 day on which a complete application is received by the department, it shall inform the applicant as
+3 to whether the application is approved for entry into the regulatory sandbox.
+4 (e) The department and an applicant may mutually agree to extend the ninety (90) day
+5 timeline for the department to determine whether an application is approved for entry into the
+6 regulatory sandbox.
+7 (f) The department shall consult with, and get approval from, each applicable agency before
+8 admitting an applicant into the regulatory sandbox. The consultation with an applicable agency
+9 may include seeking information about whether:
+10 (1) The applicable agency has previously issued a license or other authorization to the
+11 applicant.
+12 (2) The applicable agency has previously investigated, sanctioned, or pursued legal action
+13 against the applicant,
+14 (3) Whether the applicant could obtain a license or other authorization from the applicable
+15 agency after exiting the regulatory sandbox; and
+16 (4) Whether certain licensure or other regulations should not be waived even if the
+17 applicant is accepted into the regulatory sandbox.
+18 (g) In reviewing an application under this section, the department shall consider whether a
+19 competitor to the applicant is or has been a biotechnology sandbox participant and weigh that as a
+20 factor in allowing the applicant to also become a biotechnology sandbox participant. If the
+21 department and each applicable agency approve admitting an applicant into the biotechnology
+22 regulatory sandbox, an applicant may become a sandbox participant.
+23 (h) The department may deny any application submitted under this section, for any reason,
+24 in the department’s discretion.
+25 (i) If the department denies an application submitted under this section, it shall provide to
+26 the applicant a written description of the reasons for the denial as a sandbox participant.
+27 42-167-5. Regulatory relief and conditions.
+28 (a) Approved participants may receive temporary exemptions from state laws or
+29 regulations that were identified by the participant’s application and have been waived in writing by
+30 the department, except for:
+31 (1) Human genetic modification prohibitions (e.g., germline editing).
+32 (2) State or federal environmental protection laws deemed necessary.
+33 (3) Ethical standards for human or animal research.
+34 (b) The sandbox period shall not exceed twenty-four (24) months, with an option for
+LC002741 - Page 4 of 8
+
+1 renewal based on further review.
+2 (c) Participants shall submit quarterly progress reports detailing compliance, risks, and
+3 findings.
+4 (d) By written notice, the department may terminate a participant’s involvement in the
+5 regulatory sandbox for non-compliance, unethical conduct, or public safety concerns.
+6 (e) A sandbox participant does not have immunity related to any criminal offense
+7 committed during the sandbox participant’s time in the regulatory sandbox.
+8 42-167-6. Consumer protections.
+9 (a) Before providing an innovative biotechnology product or service to a consumer, a
+10 sandbox participant shall disclose the following to the consumer:
+11 (1) The name and contact information of the sandbox participant;
+12 (2) That the innovative biotechnology product or service is authorized pursuant to the
+13 regulatory sandbox and, if applicable, that the sandbox participant does not have a license or other
+14 authorization to provide a biotechnology product or service under state laws that regulate
+15 biotechnology products outside the regulatory sandbox;
+16 (3) That the innovative biotechnology product or service is undergoing testing and may not
+17 function as intended and may expose the customer to financial risk;
+18 (4) That the provider of the innovative biotechnology product is not immune from civil
+19 liability for any losses or damages caused by the innovative biotechnology product or service;
+20 (5) That the state does not endorse or recommend the innovative biotechnology product or
+21 service;
+22 (6) That the innovative biotechnology product or service is a temporary test that may be
+23 discontinued at the end of the testing period;
+24 (7) The expected end date of the testing period;
+25 (8) That a consumer may contact the department to file a complaint regarding the
+26 innovative biotechnology product or service being tested and provide the department’s telephone
+27 number and website address where a complaint may be filed.
+28 (b) The disclosures required in this section shall be provided to a consumer in a clear and
+29 conspicuous form and, for an Internet or application-based innovative biotechnology product or
+30 service, a consumer shall acknowledge receipt of the disclosure before a transaction may be
+31 completed.
+32 (c) The department may require that a sandbox participant make additional disclosures to
+33 a consumer.
+34 42-167-7. Data reporting.
+LC002741 - Page 5 of 8
+
+1 (a) A sandbox participant shall retain records, documents, and data produced in the
+2 ordinary course of business regarding an innovative biotechnology product or service tested in the
+3 regulatory sandbox.
+4 (b) If an innovative biotechnology product or service fails before the end of a testing period,
+5 the sandbox participant shall notify the department and report on actions taken by the sandbox
+6 participant to ensure consumers have not been harmed as a result of the failure.
+7 (c) The department shall establish quarterly reporting requirements for a sandbox
+8 participant, including information about any customer complaints.
+9 (d) The department may request records, documents, and data from a sandbox participant
+10 and, upon the department’s request, a sandbox participant shall make such records, documents, and
+11 data available for inspection by the department.
+12 (e) If the department determines that a sandbox participant has engaged in, is engaging in,
+13 or is about to engage in any practice or transaction that is in violation of this chapter or that
+14 constitutes a violation of state or federal criminal law, the department may remove a sandbox
+15 participant from the biotechnology regulatory sandbox.
+16 (f) By January 1, 2027, the department shall provide an annual written report to the general
+17 assembly that provides:
+18 (1) Information regarding each biotechnology sandbox participant.
+19 (2) Recommendations regarding the effectiveness of the biotechnology regulatory sandbox
+20 program.
+21 (3) Potential regulatory reforms.
+22 42-167-8. Exit strategy and post-sandbox regulatory pathways.
+23 (a) At least thirty (30) days before the twenty-four (24) month sandbox period ends, a
+24 participant shall:
+25 (1) Notify the department that the sandbox participant will exit the biotechnology
+26 regulatory sandbox, discontinue the sandbox participant’s test, and will stop offering any
+27 innovative biotechnology product or service in the regulatory sandbox within sixty (60) days after
+28 the day on which the trial period ends; or
+29 (2) Seek an extension in accordance with § 42-167-9.
+30 (b) Subject to subsection (c) of this section, if the department does not receive notification
+31 as required by subsection (a) of this section, the regulatory sandbox testing period ends at the end
+32 of the twenty-four (24) month testing period and the sandbox participant shall immediately stop
+33 offering each innovative biotechnology product or service being tested.
+34 (c) If a test includes offering an innovative biotechnology product or service that requires
+LC002741 - Page 6 of 8
+
+1 ongoing duties, the sandbox participant shall continue to fulfill those duties or arrange for another
+2 person to fulfill those duties after the date on which the sandbox participant exits the regulatory
+3 sandbox.
+4 42-167-9. Extensions.
+5 (a) Not later than thirty (30) days before the end of the regulatory sandbox testing period,
+6 a sandbox participant may request from the department an extension of the regulatory sandbox
+7 testing period for the purpose of obtaining a license or other authorization.
+8 (b) The department shall make a decision as to whether it will grant or deny the request for
+9 an extension by the end of the regulatory sandbox testing period.
+10 (c) The department may grant an extension in accordance with this section for not more
+11 than twelve (12) months after the end of the regulatory sandbox testing period.
+12 (d) A sandbox participant that obtains an extension in accordance with this section shall
+13 provide the department with a written report every three (3) months that provides an update on
+14 efforts to obtain a license or other authorization required by law, including any submissions for
+15 licensure or other authorization, rejected applications, or issued licenses or other authorizations.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC002741
+========
+LC002741 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND
+BIOTECHNOLOGY REGULATORY SANDBOX ACT
+***
+1 This act would establish the biotechnology regulatory sandbox program within the
+2 department of business regulation to enable a person or entity to obtain limited access to the market
+3 in the state to test an innovative biotechnology product or service without obtaining a license or
+4 other state authorization that might otherwise be required.
+5 This act would take effect upon passage.
+========
+LC002741
+========
+LC002741 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C R 4 T c s b k a m b c a t “ I B R 4 A ( b r ( f ( b ( o]
+[DELETED:  ( t t s i c i e o e c a t b ( “ b p o s m a b p o ( a c ( i ( c 4 ( T b r s p i h e w t d ( ( ( i o ( a ( o o ( ( o ( p E 4 (]
+[DELETED:  ( ( ( D t a h e a p o v l t i a w ( t d ( ( e a t c a a d p t t m a a t i b ( i ( a l t ( ( H t i b p o s i d f o b ( p ( i ( ( p t ( ( o ( s]
+[DELETED:  ( d t ( t r ( a m ( a ( a ( a ( W c l o o r s n b w e i t a ( c f i a t a t a b a b s p I t d r ( i ( t 4 ( A p m r t e f s l o r t ( ( ( (]
+[DELETED:  r ( f ( r ( A s p d n h i r t a c o c 4 ( t s ( ( r a t p a b p o s u s l t r b ( f ( l ( s ( d ( ( T a c m c t d t f a c r t i n ( c s a c s a r o t d b a t m b c ( a 4]
+[DELETED:  ( A s p s r r d a d p i t o r ( t p ( T d s e q r r f a s p ( a d ( o c p ( a ( ( p ( 4 ( p (  N t d t t s p w e t b r s d t s p t a w s o a i t ( ( a o o (]
+[DELETED:  o p s 4 ( a t ( a ( t ( p e l S]
+[DELETED:  T a w e t b r s p w t d i o T]

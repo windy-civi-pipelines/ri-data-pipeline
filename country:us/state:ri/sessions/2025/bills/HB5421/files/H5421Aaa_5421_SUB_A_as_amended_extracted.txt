@@ -1,0 +1,451 @@
+Title: RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+Official Title: RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+Number of Sections: 1
+Source: versions - 5421  SUB A as amended
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5421 SUBSTITUTE A AS AMENDED
+========
+LC001463/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ENFORCEMENT
+Introduced By: Representatives Noret, Read, Messier, Casimiro, Serpa, O'Brien,
+Corvese, Craven, Biah, and Finkelman
+Date Introduced: February 12, 2025
+Referred To: House Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-51-2, 31-51-3, and 31-51-5.1 of the General Laws in Chapter 31-
+2 51 entitled "School Bus Safety Enforcement" are hereby amended to read as follows:
+3 31-51-2. Live digital video school bus violation detection monitoring systems.
+4 (a) All school departments of this state are hereby authorized to install and operate live
+5 digital video school bus violation detection monitoring systems. Such systems shall at a minimum,
+6 be systems which monitor and detect school bus traffic violations. For purposes of this chapter a
+7 live digital video school bus violation detection monitoring system means a system with one or
+8 more camera sensors and computers which produce live digital and recorded video of motor
+9 vehicles being operated in violation of school bus traffic laws in violation of 31-20-12. All systems
+10 installed for used use under this chapter must shall, at a minimum, produce a live visual image
+11 viewable remotely, a recorded image of the license plate, and be able to record the time, date, and
+12 location of the vehicle, and a signed affidavit by a person who witnessed the violation via live
+13 video.
+14 (b) On and after July 1, 2027, all new school buses to be operated pursuant to § 31-20-
+15 11(a) shall be equipped with a live digital video school bus violation detection monitoring system
+16 that conforms with the requirements of subsection (a) of this section.
+17 (c) On and after July 1, 2032, all school buses to be operated pursuant to § 31-20-11(a)
+18 shall be equipped with a live digital video school bus violation detection monitoring system that
+1 conforms with the requirements of subsection (a) of this section.
+2 (b)(d) The school departments with input and approval by the municipal police chief may
+3 enter into an agreement with a private corporation or other entity to provide live digital video school
+4 bus violation detection monitoring systems and to maintain and operate such systems.
+5 31-51-3. Procedure — Notice.
+6 (a) Except as expressly provided in this chapter, all prosecutions based on evidence
+7 produced by a live digital video school bus violation detection monitoring system shall follow the
+8 procedures established in chapter 41.1 of this title, chapter 18 of title 8 and the rules promulgated
+9 by the chief magistrate of the traffic tribunal for the hearing of civil traffic violations in the traffic
+10 tribunal. Provided, that in an action brought pursuant to the provisions of this chapter, references
+11 in chapter 41.1 of this title to an “operator” shall apply to the registered owner of the vehicle. A
+12 summons may be issued by an officer solely based on evidence obtained by use of a live digital
+13 video school bus violation detection monitoring system. All summonses issued based on evidence
+14 obtained from a live digital video school bus violation detection monitoring system shall be issued
+15 within ten (10) days of the violation. Notwithstanding any provisions of the general laws to the
+16 contrary, exclusive jurisdiction to hear and decide any violation under this chapter shall be with the
+17 traffic tribunal. as follows:
+18 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+19 agency;
+20 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+21 town which has not established a municipal court; and
+22 (3) By the municipal court over all violations for which the summons is issued by a city or
+23 town which has established a municipal court.
+24 (b) It shall be sufficient to commence a prosecution based on evidence obtained from a live
+25 digital video school bus violation detection monitoring system. A copy of the summons and
+26 supporting documentation shall be mailed to the address of the registered owner kept on file by the
+27 registry of motor vehicles. For purposes of this section, the date of issuance shall be the date of
+28 mailing.
+29 (c) The officer issuing the citation shall certify under penalties of perjury that the evidence
+30 obtained from the live digital video school bus violation detection monitoring system was sufficient
+31 to demonstrate a violation of the motor vehicle code. Such certification shall be sufficient in all
+32 prosecutions pursuant to this chapter to justify the entry of a default judgment upon sufficient proof
+33 of actual notice in all cases where the citation is not answered within the time period permitted.
+34 (d) The summons shall contain all the information provided for on the uniform summons
+LC001463/SUB A - Page 2 of 7
+1 as referred to in § 31-41.1-1 and the rules of procedure promulgated by the chief magistrate of the
+2 traffic tribunal as well as the date, time, and location of the violation. In addition, the following
+3 information shall be attached to or accompany the summons:
+4 (1) Copies of two (2) or more photographs, or microphotographs, videos, or other recorded
+5 images taken as proof of the violation;
+6 (2) A signed statement certified under the penalties of perjury by a trained law enforcement
+7 officer that, based on inspection of recorded images and video, the motor vehicle was being
+8 operated in violation of this chapter;
+9 (3) A signed statement that recorded images are evidence of a violation of this chapter;
+10 (4) A statement that the person who receives the summons under this chapter may either
+11 pay the civil fine in accordance with the provisions of § 31-51-2.2, proceed under § 31-51-5(c)(3)
+12 of this section, or elect to stand trial for the alleged violation;
+13 (5) A signed affidavit by a person who witnessed the motor vehicle being operated in
+14 violation of this chapter; and
+15 (6) A signed statement certified under the penalties of perjury by a trained law enforcement
+16 officer that the summons and attachments required under this subsection were mailed to the address
+17 of the registered owner kept on file by the registry of motor vehicles.
+18 (e) Any summons issued pursuant to this chapter shall be issued by a law enforcement
+19 officer authorized to issue a traffic violation summons pursuant to this title.
+20 31-51-5.1. Revenue.
+21 The revenue generated from each fine imposed pursuant to this chapter shall be allocated
+22 as follows:
+23 (1) Seventy-five percent (75%) to the vendor;
+24 (2) Twelve and one-half percent (12.5%) Forty percent (40%) to the state general fund; and
+25 (3) Twelve and one-half percent (12.5%) to the
+26 (2)(i) Thirty percent (30%) to the municipality where the violation takes place; and
+27 (ii) Thirty percent (30%) to the vendor who supplies and supports the video detection
+28 monitoring system being used; and
+29 (3) The provisions of this section shall not apply to contracts existing at the time of the
+30 enactment of this section, and shall only apply to new contracts, or extensions of existing contracts,
+31 entered into on or after the effective date of this section.
+32 SECTION 2. Section 8-18-3 of the General Laws in Chapter 8-18 entitled "State and
+33 Municipal Court Compact" is hereby amended to read as follows:
+34 8-18-3. Jurisdiction for certain violations. [Effective until January 15, 2027.]
+LC001463/SUB A - Page 3 of 7
+1 (a) Subject to subsection (b) of this section, jurisdiction over the adjudication of matters
+2 relating to violations enumerated in the following sections of the general laws is hereby conferred
+3 upon the municipal courts and the traffic tribunal:
+4 31-13-431-13-9 31-13-11 31-14-3 31-14-9 31-15-1 31-15-3
+5 31-15-431-15-5 31-15-6 31-15-7 31-15-9 31-15-11 31-15-12
+6 31-15-1331-16-1 31-16-2 31-16-4 31-16-5 31-16-7 31-16-9
+7 31-17-131-17-2 31-17-4 31-17-6 31-17-7 31-18-12 31-20-1
+8 31-20-231-20-9 31-21-4 31-22-2 31-22-4 31-22-5 31-22-6
+9 31-22-731-22-8 31-22-9 31-23-1 31-23-8 31-23-13 31-23-14
+10 31-23-1531-24-1 31-24-4 31-24-5 31-24-7 31-24-12 31-38-4
+11 31-12-1237-15-7 31-3-29 31-3-30 31-3-34 31-3-35 31-8-1
+12 31-10-3231-10.1-1 31-10.1-4 31-10.1-5 31-10.1-6 31-13-6 31-15-8
+13 31-23-4531-14-1 31-17-3 31-23-4 31-23-10 31-23-17 31-23-19
+14 31-23-2031-23-26 31-23-27 31-23-40 31-23-42.1 31-3-18 31-10-27
+15 31-18-331-10.1-7 31-38-3 31-14-12 31-17-5 31-25-9 31-25-11
+16 31-25-1231-25-12.1 31-25-10 31-22-1 31-24-34 31-27-9 31-3-9
+17 31-15-1031-18-8 31-25-17 31-10.1-4 31-23-43 31-23-29 31-24-45
+18 31-17-831-24-10 31-23-47 31-12-9 31-15-16 24-10-18 31-19-5
+19 31-3-1231-24-9 31-22-22 31-28-7 31-28-7.1 31-3-32 31-18-4
+20 24-10-1831-18-5 31-18-15 31-18-18 31-21-14 31-22-3 31-23-16
+21 31-24-631-24-8 31-24-31 31-27-16 31-22-23 31-10-30 31-10-10
+22 31-19-331-3-40 31-22-24 31-23-51 31-7-1 31-15-2 31-15-12.1
+23 31-16-831-20-17 31-24-16 31-24-17 31-24-20 31-24-22 31-24-23
+24 31-24-2431-24-25 31-24-26 31-24-27 31-24-28 31-24-29 31-24-30
+25 31-24-3231-24-33 31-24-36 31-24-38 31-24-39 31-24-40 31-24-41
+26 31-24-4231-24-43 31-24-46 31-24-49 31-24-51 31-24-53 31-26-3.1
+27 31-27-1731-27-19 31-33-2 31-45-1 4-1-26 31-10.1-2 31-20-10
+28 31-22-1331-24-13 31-27-10 31-41.1-4 31.41.2-3 Chapter 31-51
+29 (Speeding (A)).
+30 (b) Except as provided in §§ 8-18-9, 8-18-10, and 31-41.1-11 jurisdiction over violations
+31 enumerated in subsection (a) shall be exercised as follows:
+32 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+33 agency;
+34 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+LC001463/SUB A - Page 4 of 7
+1 town which has not established a municipal court; and
+2 (3) By the municipal court over all violations for which the summons is issued by a city or
+3 town which has established a municipal court.
+4 8-18-3. Jurisdiction for certain violations. [Effective January 15, 2027.]
+5 (a) Subject to subsection (b) of this section, jurisdiction over the adjudication of matters
+6 relating to violations enumerated in the following sections of the general laws is hereby conferred
+7 upon the municipal courts and the traffic tribunal:
+8 31-13-431-13-9 31-13-11 31-14-3 31-14-9 31-15-1 31-15-3
+9 31-15-431-15-5 31-15-6 31-15-7 31-15-9 31-15-11 31-15-12
+10 31-15-1331-16-1 31-16-2 31-16-4 31-16-5 31-16-7 31-16-9
+11 31-17-131-17-2 31-17-4 31-17-6 31-17-7 31-18-12 31-20-1
+12 31-20-231-20-9 31-21-4 31-22-2 31-22-4 31-22-5 31-22-6
+13 31-22-731-22-8 31-22-9 31-23-1 31-23-8 31-23-13 31-23-14
+14 31-23-1531-24-1 31-24-4 31-24-5 31-24-7 31-24-12 31-38-4
+15 31-12-1237-15-7 31-3-29 31-3-30 31-3-34 31-3-35 31-8-1
+16 31-10-3231-10.1-1 31-10.1-4 31-10.1-5 31-10.1-6 31-13-6 31-15-8
+17 31-23-4531-14-1 31-17-3 31-23-4 31-23-10 31-23-17 31-23-19
+18 31-23-2031-23-26 31-23-27 31-23-40 31-23-42.1 31-3-18 31-10-27
+19 31-18-331-10.1-7 31-38-3 31-14-12 31-17-5 31-25-9 31-25-11
+20 31-25-1231-25-12.1 31-25-10 31-22-1 31-24-34 31-27-9 31-3-9
+21 31-15-1031-18-8 31-25-17 31-10.1-4 31-23-43 31-23-29 31-24-45
+22 31-17-831-24-10 31-23-47 31-12-9 31-15-16 24-10-18 31-19-5
+23 31-3-1231-24-9 31-22-22 31-28-7 31-28-7.1 31-3-32 31-18-4
+24 24-10-1831-18-5 31-18-15 31-18-18 31-21-14 31-22-3 31-23-16
+25 31-24-631-24-8 31-24-31 31-27-16 31-22-23 31-10-30 31-10-10
+26 31-19-331-3-40 31-22-24 31-23-51 31-7-1 31-15-2 31-15-12.1
+27 31-16-831-20-17 31-24-16 31-24-17 31-24-20 31-24-22 31-24-23
+28 31-24-2431-24-25 31-24-26 31-24-27 31-24-28 31-24-29 31-24-30
+29 31-24-3231-24-33 31-24-36 31-24-38 31-24-39 31-24-40 31-24-41
+30 31-24-4231-24-43 31-24-46 31-24-49 31-24-51 31-24-53 31-26-3.1
+31 31-27-1731-27-19 31-33-2 31-45-1 4-1-26 31-10.1-2 31-20-10
+32 31-22-1331-24-13 31-27-10 31-41.1-4 Chapter 31-51
+33 (Speeding (A)).
+34 (b) Except as provided in §§ 8-18-9, 8-18-10, and 31-41.1-11 jurisdiction over violations
+LC001463/SUB A - Page 5 of 7
+1 enumerated in subsection (a) shall be exercised as follows:
+2 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+3 agency;
+4 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+5 town which has not established a municipal court; and
+6 (3) By the municipal court over all violations for which the summons is issued by a city or
+7 town which has established a municipal court.
+8 Compiler’s Notes.
+9 Section 31-10.1-2, referred to in the table in subsection (a) of this section, is repealed by
+10 P.L. 2024, ch. 41, § 3 and P.L. 2024, ch. 42, § 3, effective August 31, 2024.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC001463/SUB A
+========
+LC001463/SUB A - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+ENFORCEMENT
+***
+1 This act would require that all new school buses be equipped with live digital video school
+2 bus violation detection monitoring systems as of July 1, 2027. All buses, new and used, would be
+3 required to have the monitoring systems installed by July 1, 2032. This act would also provide that
+4 jurisdiction over all prosecutions based on evidence produced by a live digital video school bus
+5 violation detection monitoring system would be shared between the municipal courts and the traffic
+6 tribunal. This act would also amend the distribution of revenues from fines imposed for violations
+7 of chapter 31 of title 51 ("School Bus Safety Enforcement").
+8 This act would take effect upon passage.
+========
+LC001463/SUB A
+========
+LC001463/SUB A - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND B R N R M C S O S 5 3 ( d b l m c s a w p d r o m v i v l v ( 1 t ( s]
+[DELETED:  c ( e b 3 ( E a e p i t c a p b o e p p b t i s v o w c t ( a ( t ( t ( d v s b v d m s A c o t s a s r m ( o t p o (]
+[DELETED:  a t i ( i ( o t b i o r i a v t m v w b o ( ( p o ( v ( o o ( o 3 T a ( ( ( ( ( m ( e e S M 8]
+[DELETED:  ( r u 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 3 C ( ( e ( a (]
+[DELETED:  t ( t 8 ( r u 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 C ( (]
+[DELETED:  e ( a ( t ( t C S P S]
+[DELETED:  T b r j v t o T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5421 SUBSTITUTE A AS AMENDED
+========
+LC001463/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+ENFORCEMENT
+Introduced By: Representatives Noret, Read, Messier, Casimiro, Serpa, O'Brien,
+Corvese, Craven, Biah, and Finkelman
+Date Introduced: February 12, 2025
+Referred To: House Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-51-2, 31-51-3, and 31-51-5.1 of the General Laws in Chapter 31-
+2 51 entitled "School Bus Safety Enforcement" are hereby amended to read as follows:
+3 31-51-2. Live digital video school bus violation detection monitoring systems.
+4 (a) All school departments of this state are hereby authorized to install and operate live
+5 digital video school bus violation detection monitoring systems. Such systems shall at a minimum,
+6 be systems which monitor and detect school bus traffic violations. For purposes of this chapter a
+7 live digital video school bus violation detection monitoring system means a system with one or
+8 more camera sensors and computers which produce live digital and recorded video of motor
+9 vehicles being operated in violation of school bus traffic laws in violation of 31-20-12. All systems
+10 installed for used use under this chapter must shall, at a minimum, produce a live visual image
+11 viewable remotely, a recorded image of the license plate, and be able to record the time, date, and
+12 location of the vehicle, and a signed affidavit by a person who witnessed the violation via live
+13 video.
+14 (b) On and after July 1, 2027, all new school buses to be operated pursuant to § 31-20-
+15 11(a) shall be equipped with a live digital video school bus violation detection monitoring system
+16 that conforms with the requirements of subsection (a) of this section.
+17 (c) On and after July 1, 2032, all school buses to be operated pursuant to § 31-20-11(a)
+18 shall be equipped with a live digital video school bus violation detection monitoring system that
+
+1 conforms with the requirements of subsection (a) of this section.
+2 (b)(d) The school departments with input and approval by the municipal police chief may
+3 enter into an agreement with a private corporation or other entity to provide live digital video school
+4 bus violation detection monitoring systems and to maintain and operate such systems.
+5 31-51-3. Procedure — Notice.
+6 (a) Except as expressly provided in this chapter, all prosecutions based on evidence
+7 produced by a live digital video school bus violation detection monitoring system shall follow the
+8 procedures established in chapter 41.1 of this title, chapter 18 of title 8 and the rules promulgated
+9 by the chief magistrate of the traffic tribunal for the hearing of civil traffic violations in the traffic
+10 tribunal. Provided, that in an action brought pursuant to the provisions of this chapter, references
+11 in chapter 41.1 of this title to an “operator” shall apply to the registered owner of the vehicle. A
+12 summons may be issued by an officer solely based on evidence obtained by use of a live digital
+13 video school bus violation detection monitoring system. All summonses issued based on evidence
+14 obtained from a live digital video school bus violation detection monitoring system shall be issued
+15 within ten (10) days of the violation. Notwithstanding any provisions of the general laws to the
+16 contrary, exclusive jurisdiction to hear and decide any violation under this chapter shall be with the
+17 traffic tribunal. as follows:
+18 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+19 agency;
+20 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+21 town which has not established a municipal court; and
+22 (3) By the municipal court over all violations for which the summons is issued by a city or
+23 town which has established a municipal court.
+24 (b) It shall be sufficient to commence a prosecution based on evidence obtained from a live
+25 digital video school bus violation detection monitoring system. A copy of the summons and
+26 supporting documentation shall be mailed to the address of the registered owner kept on file by the
+27 registry of motor vehicles. For purposes of this section, the date of issuance shall be the date of
+28 mailing.
+29 (c) The officer issuing the citation shall certify under penalties of perjury that the evidence
+30 obtained from the live digital video school bus violation detection monitoring system was sufficient
+31 to demonstrate a violation of the motor vehicle code. Such certification shall be sufficient in all
+32 prosecutions pursuant to this chapter to justify the entry of a default judgment upon sufficient proof
+33 of actual notice in all cases where the citation is not answered within the time period permitted.
+34 (d) The summons shall contain all the information provided for on the uniform summons
+LC001463/SUB A - Page 2 of 7
+
+1 as referred to in § 31-41.1-1 and the rules of procedure promulgated by the chief magistrate of the
+2 traffic tribunal as well as the date, time, and location of the violation. In addition, the following
+3 information shall be attached to or accompany the summons:
+4 (1) Copies of two (2) or more photographs, or microphotographs, videos, or other recorded
+5 images taken as proof of the violation;
+6 (2) A signed statement certified under the penalties of perjury by a trained law enforcement
+7 officer that, based on inspection of recorded images and video, the motor vehicle was being
+8 operated in violation of this chapter;
+9 (3) A signed statement that recorded images are evidence of a violation of this chapter;
+10 (4) A statement that the person who receives the summons under this chapter may either
+11 pay the civil fine in accordance with the provisions of § 31-51-2.2, proceed under § 31-51-5(c)(3)
+12 of this section, or elect to stand trial for the alleged violation;
+13 (5) A signed affidavit by a person who witnessed the motor vehicle being operated in
+14 violation of this chapter; and
+15 (6) A signed statement certified under the penalties of perjury by a trained law enforcement
+16 officer that the summons and attachments required under this subsection were mailed to the address
+17 of the registered owner kept on file by the registry of motor vehicles.
+18 (e) Any summons issued pursuant to this chapter shall be issued by a law enforcement
+19 officer authorized to issue a traffic violation summons pursuant to this title.
+20 31-51-5.1. Revenue.
+21 The revenue generated from each fine imposed pursuant to this chapter shall be allocated
+22 as follows:
+23 (1) Seventy-five percent (75%) to the vendor;
+24 (2) Twelve and one-half percent (12.5%) Forty percent (40%) to the state general fund; and
+25 (3) Twelve and one-half percent (12.5%) to the
+26 (2)(i) Thirty percent (30%) to the municipality where the violation takes place; and
+27 (ii) Thirty percent (30%) to the vendor who supplies and supports the video detection
+28 monitoring system being used; and
+29 (3) The provisions of this section shall not apply to contracts existing at the time of the
+30 enactment of this section, and shall only apply to new contracts, or extensions of existing contracts,
+31 entered into on or after the effective date of this section.
+32 SECTION 2. Section 8-18-3 of the General Laws in Chapter 8-18 entitled "State and
+33 Municipal Court Compact" is hereby amended to read as follows:
+34 8-18-3. Jurisdiction for certain violations. [Effective until January 15, 2027.]
+LC001463/SUB A - Page 3 of 7
+
+1 (a) Subject to subsection (b) of this section, jurisdiction over the adjudication of matters
+2 relating to violations enumerated in the following sections of the general laws is hereby conferred
+3 upon the municipal courts and the traffic tribunal:
+4 31-13-431-13-9 31-13-11 31-14-3 31-14-9 31-15-1 31-15-3
+5 31-15-431-15-5 31-15-6 31-15-7 31-15-9 31-15-11 31-15-12
+6 31-15-1331-16-1 31-16-2 31-16-4 31-16-5 31-16-7 31-16-9
+7 31-17-131-17-2 31-17-4 31-17-6 31-17-7 31-18-12 31-20-1
+8 31-20-231-20-9 31-21-4 31-22-2 31-22-4 31-22-5 31-22-6
+9 31-22-731-22-8 31-22-9 31-23-1 31-23-8 31-23-13 31-23-14
+10 31-23-1531-24-1 31-24-4 31-24-5 31-24-7 31-24-12 31-38-4
+11 31-12-1237-15-7 31-3-29 31-3-30 31-3-34 31-3-35 31-8-1
+12 31-10-3231-10.1-1 31-10.1-4 31-10.1-5 31-10.1-6 31-13-6 31-15-8
+13 31-23-4531-14-1 31-17-3 31-23-4 31-23-10 31-23-17 31-23-19
+14 31-23-2031-23-26 31-23-27 31-23-40 31-23-42.1 31-3-18 31-10-27
+15 31-18-331-10.1-7 31-38-3 31-14-12 31-17-5 31-25-9 31-25-11
+16 31-25-1231-25-12.1 31-25-10 31-22-1 31-24-34 31-27-9 31-3-9
+17 31-15-1031-18-8 31-25-17 31-10.1-4 31-23-43 31-23-29 31-24-45
+18 31-17-831-24-10 31-23-47 31-12-9 31-15-16 24-10-18 31-19-5
+19 31-3-1231-24-9 31-22-22 31-28-7 31-28-7.1 31-3-32 31-18-4
+20 24-10-1831-18-5 31-18-15 31-18-18 31-21-14 31-22-3 31-23-16
+21 31-24-631-24-8 31-24-31 31-27-16 31-22-23 31-10-30 31-10-10
+22 31-19-331-3-40 31-22-24 31-23-51 31-7-1 31-15-2 31-15-12.1
+23 31-16-831-20-17 31-24-16 31-24-17 31-24-20 31-24-22 31-24-23
+24 31-24-2431-24-25 31-24-26 31-24-27 31-24-28 31-24-29 31-24-30
+25 31-24-3231-24-33 31-24-36 31-24-38 31-24-39 31-24-40 31-24-41
+26 31-24-4231-24-43 31-24-46 31-24-49 31-24-51 31-24-53 31-26-3.1
+27 31-27-1731-27-19 31-33-2 31-45-1 4-1-26 31-10.1-2 31-20-10
+28 31-22-1331-24-13 31-27-10 31-41.1-4 31.41.2-3 Chapter 31-51
+29 (Speeding (A)).
+30 (b) Except as provided in §§ 8-18-9, 8-18-10, and 31-41.1-11 jurisdiction over violations
+31 enumerated in subsection (a) shall be exercised as follows:
+32 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+33 agency;
+34 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+LC001463/SUB A - Page 4 of 7
+
+1 town which has not established a municipal court; and
+2 (3) By the municipal court over all violations for which the summons is issued by a city or
+3 town which has established a municipal court.
+4 8-18-3. Jurisdiction for certain violations. [Effective January 15, 2027.]
+5 (a) Subject to subsection (b) of this section, jurisdiction over the adjudication of matters
+6 relating to violations enumerated in the following sections of the general laws is hereby conferred
+7 upon the municipal courts and the traffic tribunal:
+8 31-13-431-13-9 31-13-11 31-14-3 31-14-9 31-15-1 31-15-3
+9 31-15-431-15-5 31-15-6 31-15-7 31-15-9 31-15-11 31-15-12
+10 31-15-1331-16-1 31-16-2 31-16-4 31-16-5 31-16-7 31-16-9
+11 31-17-131-17-2 31-17-4 31-17-6 31-17-7 31-18-12 31-20-1
+12 31-20-231-20-9 31-21-4 31-22-2 31-22-4 31-22-5 31-22-6
+13 31-22-731-22-8 31-22-9 31-23-1 31-23-8 31-23-13 31-23-14
+14 31-23-1531-24-1 31-24-4 31-24-5 31-24-7 31-24-12 31-38-4
+15 31-12-1237-15-7 31-3-29 31-3-30 31-3-34 31-3-35 31-8-1
+16 31-10-3231-10.1-1 31-10.1-4 31-10.1-5 31-10.1-6 31-13-6 31-15-8
+17 31-23-4531-14-1 31-17-3 31-23-4 31-23-10 31-23-17 31-23-19
+18 31-23-2031-23-26 31-23-27 31-23-40 31-23-42.1 31-3-18 31-10-27
+19 31-18-331-10.1-7 31-38-3 31-14-12 31-17-5 31-25-9 31-25-11
+20 31-25-1231-25-12.1 31-25-10 31-22-1 31-24-34 31-27-9 31-3-9
+21 31-15-1031-18-8 31-25-17 31-10.1-4 31-23-43 31-23-29 31-24-45
+22 31-17-831-24-10 31-23-47 31-12-9 31-15-16 24-10-18 31-19-5
+23 31-3-1231-24-9 31-22-22 31-28-7 31-28-7.1 31-3-32 31-18-4
+24 24-10-1831-18-5 31-18-15 31-18-18 31-21-14 31-22-3 31-23-16
+25 31-24-631-24-8 31-24-31 31-27-16 31-22-23 31-10-30 31-10-10
+26 31-19-331-3-40 31-22-24 31-23-51 31-7-1 31-15-2 31-15-12.1
+27 31-16-831-20-17 31-24-16 31-24-17 31-24-20 31-24-22 31-24-23
+28 31-24-2431-24-25 31-24-26 31-24-27 31-24-28 31-24-29 31-24-30
+29 31-24-3231-24-33 31-24-36 31-24-38 31-24-39 31-24-40 31-24-41
+30 31-24-4231-24-43 31-24-46 31-24-49 31-24-51 31-24-53 31-26-3.1
+31 31-27-1731-27-19 31-33-2 31-45-1 4-1-26 31-10.1-2 31-20-10
+32 31-22-1331-24-13 31-27-10 31-41.1-4 Chapter 31-51
+33 (Speeding (A)).
+34 (b) Except as provided in §§ 8-18-9, 8-18-10, and 31-41.1-11 jurisdiction over violations
+LC001463/SUB A - Page 5 of 7
+
+1 enumerated in subsection (a) shall be exercised as follows:
+2 (1) By the traffic tribunal over all violations for which the summons is issued by a state
+3 agency;
+4 (2) By the traffic tribunal over all violations for which the summons is issued by a city or
+5 town which has not established a municipal court; and
+6 (3) By the municipal court over all violations for which the summons is issued by a city or
+7 town which has established a municipal court.
+8 Compiler’s Notes.
+9 Section 31-10.1-2, referred to in the table in subsection (a) of this section, is repealed by
+10 P.L. 2024, ch. 41, § 3 and P.L. 2024, ch. 42, § 3, effective August 31, 2024.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC001463/SUB A
+========
+LC001463/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+ENFORCEMENT
+***
+1 This act would require that all new school buses be equipped with live digital video school
+2 bus violation detection monitoring systems as of July 1, 2027. All buses, new and used, would be
+3 required to have the monitoring systems installed by July 1, 2032. This act would also provide that
+4 jurisdiction over all prosecutions based on evidence produced by a live digital video school bus
+5 violation detection monitoring system would be shared between the municipal courts and the traffic
+6 tribunal. This act would also amend the distribution of revenues from fines imposed for violations
+7 of chapter 31 of title 51 ("School Bus Safety Enforcement").
+8 This act would take effect upon passage.
+========
+LC001463/SUB A
+========
+LC001463/SUB A - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND B R N R M C S O S 5 3 ( d b l m c s a w p d r o m v i v l v ( 1 t ( s]
+[DELETED:  c ( e b 3 ( E a e p i t c a p b o e p p b t i s v o w c t ( a ( t ( t ( d v s b v d m s A c o t s a s r m ( o t p o (]
+[DELETED:  a t i ( i ( o t b i o r i a v t m v w b o ( ( p o ( v ( o o ( o 3 T a ( ( ( ( ( m ( e e S M 8]
+[DELETED:  ( r u 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 3 C ( ( e ( a (]
+[DELETED:  t ( t 8 ( r u 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3 3 3 3 C ( (]
+[DELETED:  e ( a ( t ( t C S P S]
+[DELETED:  T b r j v t o T]

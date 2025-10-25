@@ -1,0 +1,177 @@
+Title: 1 SECTION 1. Section 40-8-26 of the General Laws in Chapter 40-8 entitled "Medical
+Official Title: 1 SECTION 1. Section 40-8-26 of the General Laws in Chapter 40-8 entitled "Medical
+Number of Sections: 1
+Source: versions - 6046
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6046
+========
+LC002257
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+Introduced By: Representatives Serpa, and Fellela
+Date Introduced: March 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+2 Assistance" is hereby amended to read as follows:
+3 40-8-26. Community health centers.
+4 (a) For the purposes of this section, the term community health centers refers to federally
+5 qualified health centers and rural health centers.
+6 (b) To support the ability of community health centers to provide high-quality medical,
+7 behavioral, and dental care to patients, the executive office of health and human services
+8 (“executive office”) may adopt and implement an alternative payment methodology (APM) for
+9 determining a Medicaid per-visit reimbursement for community health centers that is compliant
+10 with the prospective payment system (PPS) provided for in the Medicare, Medicaid, and SCHIP
+11 Benefits Improvement and Protection Act of 2000. The following principles are to ensure that the
+12 APM PPS rate determination methodology is part of the executive office overall value purchasing
+13 approach. For community health centers that do not agree to the principles of reimbursement that
+14 reflect the APM PPS, EOHHS shall reimburse such community health centers at the federal PPS
+15 rate, as required per section 1902(bb)(3) of the Social Security Act, 42 U.S.C. § 1396a(bb)(3). For
+16 community health centers that are reimbursed at the federal PPS rate, subsections (d) through (f)
+17 of this section apply.
+18 (c) The APM PPS rate determination methodology will (i) Fairly recognize the reasonable
+19 costs of providing services. Recognized reasonable costs will be those appropriate for the
+1 organization, management, and direct provision of services and (ii) Provide assurances to the
+2 executive office that services are provided in an effective and efficient manner, consistent with
+3 industry standards. Except for demonstrated cause and at the discretion of the executive office, the
+4 maximum reimbursement rate for a service (e.g., medical, dental, behavioral) provided by an
+5 individual community health center shall not exceed equal the lesser of the actual cost or one
+6 hundred twenty-five percent (125%) of the median rate for all community health centers within
+7 Rhode Island. Actual cost shall be based on a Medicaid cost report.
+8 (d) Community health centers will cooperate fully and timely with reporting requirements
+9 established by the executive office.
+10 (e) Reimbursement rates established through this methodology shall be incorporated into
+11 the PPS reconciliation for services provided to Medicaid-eligible persons who are enrolled in a
+12 health plan on the date of service. Monthly payments by the executive office related to PPS for
+13 persons enrolled in a health plan shall be made directly to the community health centers.
+14 (f) Reimbursement rates established through this methodology shall be incorporated into
+15 the actuarially certified capitation rates paid to a health plan. The health plan shall be responsible
+16 for paying the full amount of the reimbursement rate to the community health center for each
+17 service eligible for reimbursement under the Medicare, Medicaid, and SCHIP Benefits
+18 Improvement and Protection Act of 2000. If the health plan has an alternative payment arrangement
+19 with the community health center the health plan may establish a PPS reconciliation process for
+20 eligible services and make monthly payments related to PPS for persons enrolled in the health plan
+21 on the date of service. The executive office will review, at least annually, the Medicaid
+22 reimbursement rates and reconciliation methodology used by the health plans for community health
+23 centers to ensure payments to each are made in compliance with the Medicare, Medicaid, and
+24 SCHIP Benefits Improvement and Protection Act of 2000.
+25 SECTION 2. This act shall take effect upon passage.
+========
+LC002257
+========
+LC002257 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+***
+1 This act would require reimbursement for medical, dental, and behavioral health services
+2 provided at community health care centers to equal the lesser of the actual cost, based on Medicaid
+3 reports, or one hundred twenty-five percent (125%) of the median rate for all community health
+4 centers within Rhode Island.
+5 This act would take effect upon passage.
+========
+LC002257
+========
+LC002257 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 ( q ( b a d c t p t e o o h a h s ( d w B A a r r c o ( c o p s R r c w b t a f t]
+[DELETED:  o e i m i h R ( e ( t h p ( t f s e f r u t M M a S B I w e o t d o s T e o w r a l a t M r c S S]
+[DELETED:  T p r c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6046
+========
+LC002257
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+Introduced By: Representatives Serpa, and Fellela
+Date Introduced: March 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 40-8-26 of the General Laws in Chapter 40-8 entitled "Medical
+2 Assistance" is hereby amended to read as follows:
+3 40-8-26. Community health centers.
+4 (a) For the purposes of this section, the term community health centers refers to federally
+5 qualified health centers and rural health centers.
+6 (b) To support the ability of community health centers to provide high-quality medical,
+7 behavioral, and dental care to patients, the executive office of health and human services
+8 (“executive office”) may adopt and implement an alternative payment methodology (APM) for
+9 determining a Medicaid per-visit reimbursement for community health centers that is compliant
+10 with the prospective payment system (PPS) provided for in the Medicare, Medicaid, and SCHIP
+11 Benefits Improvement and Protection Act of 2000. The following principles are to ensure that the
+12 APM PPS rate determination methodology is part of the executive office overall value purchasing
+13 approach. For community health centers that do not agree to the principles of reimbursement that
+14 reflect the APM PPS, EOHHS shall reimburse such community health centers at the federal PPS
+15 rate, as required per section 1902(bb)(3) of the Social Security Act, 42 U.S.C. § 1396a(bb)(3). For
+16 community health centers that are reimbursed at the federal PPS rate, subsections (d) through (f)
+17 of this section apply.
+18 (c) The APM PPS rate determination methodology will (i) Fairly recognize the reasonable
+19 costs of providing services. Recognized reasonable costs will be those appropriate for the
+
+1 organization, management, and direct provision of services and (ii) Provide assurances to the
+2 executive office that services are provided in an effective and efficient manner, consistent with
+3 industry standards. Except for demonstrated cause and at the discretion of the executive office, the
+4 maximum reimbursement rate for a service (e.g., medical, dental, behavioral) provided by an
+5 individual community health center shall not exceed equal the lesser of the actual cost or one
+6 hundred twenty-five percent (125%) of the median rate for all community health centers within
+7 Rhode Island. Actual cost shall be based on a Medicaid cost report.
+8 (d) Community health centers will cooperate fully and timely with reporting requirements
+9 established by the executive office.
+10 (e) Reimbursement rates established through this methodology shall be incorporated into
+11 the PPS reconciliation for services provided to Medicaid-eligible persons who are enrolled in a
+12 health plan on the date of service. Monthly payments by the executive office related to PPS for
+13 persons enrolled in a health plan shall be made directly to the community health centers.
+14 (f) Reimbursement rates established through this methodology shall be incorporated into
+15 the actuarially certified capitation rates paid to a health plan. The health plan shall be responsible
+16 for paying the full amount of the reimbursement rate to the community health center for each
+17 service eligible for reimbursement under the Medicare, Medicaid, and SCHIP Benefits
+18 Improvement and Protection Act of 2000. If the health plan has an alternative payment arrangement
+19 with the community health center the health plan may establish a PPS reconciliation process for
+20 eligible services and make monthly payments related to PPS for persons enrolled in the health plan
+21 on the date of service. The executive office will review, at least annually, the Medicaid
+22 reimbursement rates and reconciliation methodology used by the health plans for community health
+23 centers to ensure payments to each are made in compliance with the Medicare, Medicaid, and
+24 SCHIP Benefits Improvement and Protection Act of 2000.
+25 SECTION 2. This act shall take effect upon passage.
+========
+LC002257
+========
+LC002257 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+***
+1 This act would require reimbursement for medical, dental, and behavioral health services
+2 provided at community health care centers to equal the lesser of the actual cost, based on Medicaid
+3 reports, or one hundred twenty-five percent (125%) of the median rate for all community health
+4 centers within Rhode Island.
+5 This act would take effect upon passage.
+========
+LC002257
+========
+LC002257 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 ( q ( b a d c t p t e o o h a h s ( d w B A a r r c o ( c o p s R r c w b t a f t]
+[DELETED:  o e i m i h R ( e ( t h p ( t f s e f r u t M M a S B I w e o t d o s T e o w r a l a t M r c S S]
+[DELETED:  T p r c T]

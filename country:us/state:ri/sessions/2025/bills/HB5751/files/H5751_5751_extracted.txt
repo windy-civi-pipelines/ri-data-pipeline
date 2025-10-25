@@ -1,0 +1,295 @@
+Title: RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+Official Title: RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+Number of Sections: 1
+Source: versions - 5751
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5751
+========
+LC001651
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELIEF ACT
+Introduced By: Representatives Giraldo, Potter, and Morales
+Date Introduced: February 26, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 16-7.2-3 of the General Laws in Chapter 16-7.2 entitled "The
+2 Education Equity and Property Tax Relief Act" is hereby amended to read as follows:
+3 16-7.2-3. Permanent foundation education aid established.
+4 (a) Beginning in the 2012 fiscal year, the following foundation education-aid formula shall
+5 take effect. The foundation education aid for each district shall be the sum of the core instruction
+6 amount in subsection (a)(1) of this section and the amount to support high-need students in
+7 subsection (a)(2) of this section, which shall be multiplied by the district state-share ratio calculated
+8 pursuant to § 16-7.2-4 to determine the foundation aid.
+9 (1) The core instruction amount shall be an amount equal to a statewide, per-pupil core
+10 instruction amount as established by the department of elementary and secondary education,
+11 derived from the average of northeast regional expenditure data for the states of Rhode Island,
+12 Massachusetts, Connecticut, and New Hampshire from the National Center for Education Statistics
+13 (NCES) that will adequately fund the student instructional needs as described in the basic education
+14 program and multiplied by the district average daily membership as defined in § 16-7-22.
+15 Expenditure data in the following categories: instruction and support services for students,
+16 instruction, general administration, school administration, and other support services from the
+17 National Public Education Financial Survey, as published by NCES, and enrollment data from the
+18 Common Core of Data, also published by NCES, will be used when determining the core
+1 instruction amount. The core instruction amount will be updated annually. For the purpose of
+2 calculating this formula, school districts’ resident average daily membership shall exclude charter
+3 school and state-operated school students.
+4 (2) The amount to support high-need students beyond the core instruction amount shall be
+5 determined by:
+6 (i) Multiplying a student success factor of forty percent (40%) by the core instruction per-
+7 pupil amount described in subsection (a)(1) of this section and applying that amount for each
+8 resident child whose family income is at or below one hundred eighty-five percent (185%) of
+9 federal poverty guidelines, hereinafter referred to as “poverty status.” By October 1, 2022, as part
+10 of its budget submission pursuant to § 35-3-4 relative to state fiscal year 2024 and thereafter, the
+11 department of elementary and secondary education shall develop and utilize a poverty measure that
+12 in the department’s assessment most accurately serves as a proxy for the poverty status referenced
+13 in this subsection and does not rely on the administration of school nutrition programs. The
+14 department shall utilize this measure in calculations pursuant to this subsection related to the
+15 application of the student success factor, in calculations pursuant to § 16-7.2-4 related to the
+16 calculation of the state share ratio, and in the formulation of estimates pursuant to subsection (b)
+17 below. The department may also include any recommendations which seek to mitigate any
+18 disruptions associated with the implementation of this new poverty measure or improve the
+19 accuracy of its calculation. Beginning with the FY 2024 calculation, students whose family income
+20 is at or below one hundred eighty-five percent (185%) of federal poverty guidelines will be
+21 determined by participation in the supplemental nutrition assistance program (SNAP). The number
+22 of students directly certified through the department of human services shall be multiplied by a
+23 factor of 1.6;. Beginning with the FY 2026 calculation, a student's enrollment in Medicaid shall
+24 also be included in the student success factor. The department of elementary and secondary
+25 education shall utilize a student's enrollment in Medicaid in calculations pursuant to this subsection
+26 related to the application of the student success factor, in calculations pursuant to § 16-7.2-4 related
+27 to the calculation of the state share ratio, and in the formulation of estimates pursuant to subsection
+28 (b) of this section; and
+29 (ii) Multiplying a multilingual learner (MLL) factor of twenty percent (20%) by the core
+30 instruction per-pupil amount described in subsection (a)(1) of this section, applying that amount
+31 for each resident child identified in the three lowest proficiency categories using widely adopted,
+32 independent standards and assessments in accordance with subsection (f)(1) of this section and as
+33 identified by the commissioner and defined by regulations of the council on elementary and
+34 secondary education. Local education agencies shall report annually to the department of
+LC001651 - Page 2 of 5
+1 elementary and secondary education by September 1, outlining the planned and prior year use of
+2 all funding pursuant to this subsection to provide services to MLL students in accordance with
+3 requirements set forth by the commissioner of elementary and secondary education. The
+4 department shall review the use of funds to ensure consistency with established best practices.
+5 (b) The department of elementary and secondary education shall provide an estimate of the
+6 foundation education aid cost as part of its budget submission pursuant to § 35-3-4. The estimate
+7 shall include the most recent data available as well as an adjustment for average daily membership
+8 growth or decline based on the prior year experience.
+9 (c) In addition, the department shall report updated figures based on the average daily
+10 membership as of October 1 by December 1.
+11 (d) Local education agencies may set aside a portion of funds received under subsection
+12 (a) to expand learning opportunities such as after school and summer programs, full-day
+13 kindergarten and/or multiple pathway programs, provided that the basic education program and all
+14 other approved programs required in law are funded.
+15 (e) The department of elementary and secondary education shall promulgate such
+16 regulations as are necessary to implement fully the purposes of this chapter.
+17 (f)(1) By October 1, 2023, as part of its budget submission pursuant to § 35-3-4 relative to
+18 state fiscal year 2025, the department of elementary and secondary education shall evaluate the
+19 number of students by district who qualify as multilingual learner (MLL) students and MLL
+20 students whose family income is at or below one hundred eighty-five percent (185%) of federal
+21 poverty guidelines. The submission shall also include segmentation of these populations by levels
+22 as dictated by the WIDA multilingual learner assessment tool used as an objective benchmark for
+23 English proficiency. The department shall also prepare and produce expense data sourced from the
+24 uniform chart of accounts to recommend funding levels required to support students at the various
+25 levels of proficiency as determined by the WIDA assessment tool. Utilizing this information, the
+26 department shall recommend a funding solution to meet the needs of multilingual learners; this may
+27 include but not be limited to inclusion of MLL needs within the core foundation formula amount
+28 through one or multiple weights to distinguish different students of need or through categorical
+29 means.
+30 (2) By October 1, 2024, as part of its budget submission pursuant to § 35-3-4 relative to
+31 state fiscal year 2026, the department of elementary and secondary education shall develop
+32 alternatives to identify students whose family income is at or below one hundred eighty-five percent
+33 (185%) of federal poverty guidelines through participation in state-administered programs,
+34 including, but not limited to, the supplemental nutrition assistance program (SNAP), and RIteCare
+LC001651 - Page 3 of 5
+1 and other programs that include the collection of required supporting documentation, and beginning
+2 with the FY 2026 calculations, a student's enrollment in Medicaid. The department may also
+3 include any recommendations that seek to mitigate any disruptions associated with implementation
+4 of this new poverty measure or improve the accuracy of its calculation.
+5 (3) The department shall also report with its annual budget request information regarding
+6 local contributions to education aid and compliance with §§ 16-7-23 and 16-7-24. The report shall
+7 also compare these local contributions to state foundation education aid by community. The
+8 department shall also report compliance to each city or town school committee and city or town
+9 council.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC001651
+========
+LC001651 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+RELIEF ACT
+***
+1 This act would provide that a student's enrollment in Medicaid would be included in
+2 calculating and determining the student success factor utilized to support high-need students
+3 beyond the core instructional amount, for purposes of the foundation education-aid formula. This
+4 would begin and be applied starting with the FY 2026 calculation.
+5 This act would take effect upon passage.
+========
+LC001651
+========
+LC001651 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " E 1 ( t a i s ( o t s a t a t s h s i s p ( i a a e b t d o e a s e d M ( p a m b t d a d m a d i § 1 E d i t f c i a s s f s i N C C o D a p b N w b u w d t c]
+[DELETED:  i c s ( d ( p r f o d i i t s a d n r o t a o s n p T d a c b T d m a i a r w s t m a d a w t i o t n p m o i t a i a o b o h e p ( o f p g w b d o f a b i i t s s f T d o e a s e r t ( ( i f i i b t c a d b r o t c o e a s e L e a s r a t t d o]
+[DELETED:  e a r s f b t c o e a s e T d ( f s g ( m ( ( t e l o s a a s a s p f k o ( T d o e a s e s p s r ( s n o s b d w q a m l s s p a E u l d i t m ( s f y 2 t d o e a s e s d a ( o f p g t p i s p i]
+[DELETED:  a w m i o ( l a c t l c t s f e a b c T d c S]
+[DELETED:  T c a d t s s f u t s h s b w T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5751
+========
+LC001651
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+RELIEF ACT
+Introduced By: Representatives Giraldo, Potter, and Morales
+Date Introduced: February 26, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 16-7.2-3 of the General Laws in Chapter 16-7.2 entitled "The
+2 Education Equity and Property Tax Relief Act" is hereby amended to read as follows:
+3 16-7.2-3. Permanent foundation education aid established.
+4 (a) Beginning in the 2012 fiscal year, the following foundation education-aid formula shall
+5 take effect. The foundation education aid for each district shall be the sum of the core instruction
+6 amount in subsection (a)(1) of this section and the amount to support high-need students in
+7 subsection (a)(2) of this section, which shall be multiplied by the district state-share ratio calculated
+8 pursuant to § 16-7.2-4 to determine the foundation aid.
+9 (1) The core instruction amount shall be an amount equal to a statewide, per-pupil core
+10 instruction amount as established by the department of elementary and secondary education,
+11 derived from the average of northeast regional expenditure data for the states of Rhode Island,
+12 Massachusetts, Connecticut, and New Hampshire from the National Center for Education Statistics
+13 (NCES) that will adequately fund the student instructional needs as described in the basic education
+14 program and multiplied by the district average daily membership as defined in § 16-7-22.
+15 Expenditure data in the following categories: instruction and support services for students,
+16 instruction, general administration, school administration, and other support services from the
+17 National Public Education Financial Survey, as published by NCES, and enrollment data from the
+18 Common Core of Data, also published by NCES, will be used when determining the core
+
+1 instruction amount. The core instruction amount will be updated annually. For the purpose of
+2 calculating this formula, school districts’ resident average daily membership shall exclude charter
+3 school and state-operated school students.
+4 (2) The amount to support high-need students beyond the core instruction amount shall be
+5 determined by:
+6 (i) Multiplying a student success factor of forty percent (40%) by the core instruction per-
+7 pupil amount described in subsection (a)(1) of this section and applying that amount for each
+8 resident child whose family income is at or below one hundred eighty-five percent (185%) of
+9 federal poverty guidelines, hereinafter referred to as “poverty status.” By October 1, 2022, as part
+10 of its budget submission pursuant to § 35-3-4 relative to state fiscal year 2024 and thereafter, the
+11 department of elementary and secondary education shall develop and utilize a poverty measure that
+12 in the department’s assessment most accurately serves as a proxy for the poverty status referenced
+13 in this subsection and does not rely on the administration of school nutrition programs. The
+14 department shall utilize this measure in calculations pursuant to this subsection related to the
+15 application of the student success factor, in calculations pursuant to § 16-7.2-4 related to the
+16 calculation of the state share ratio, and in the formulation of estimates pursuant to subsection (b)
+17 below. The department may also include any recommendations which seek to mitigate any
+18 disruptions associated with the implementation of this new poverty measure or improve the
+19 accuracy of its calculation. Beginning with the FY 2024 calculation, students whose family income
+20 is at or below one hundred eighty-five percent (185%) of federal poverty guidelines will be
+21 determined by participation in the supplemental nutrition assistance program (SNAP). The number
+22 of students directly certified through the department of human services shall be multiplied by a
+23 factor of 1.6;. Beginning with the FY 2026 calculation, a student's enrollment in Medicaid shall
+24 also be included in the student success factor. The department of elementary and secondary
+25 education shall utilize a student's enrollment in Medicaid in calculations pursuant to this subsection
+26 related to the application of the student success factor, in calculations pursuant to § 16-7.2-4 related
+27 to the calculation of the state share ratio, and in the formulation of estimates pursuant to subsection
+28 (b) of this section; and
+29 (ii) Multiplying a multilingual learner (MLL) factor of twenty percent (20%) by the core
+30 instruction per-pupil amount described in subsection (a)(1) of this section, applying that amount
+31 for each resident child identified in the three lowest proficiency categories using widely adopted,
+32 independent standards and assessments in accordance with subsection (f)(1) of this section and as
+33 identified by the commissioner and defined by regulations of the council on elementary and
+34 secondary education. Local education agencies shall report annually to the department of
+LC001651 - Page 2 of 5
+
+1 elementary and secondary education by September 1, outlining the planned and prior year use of
+2 all funding pursuant to this subsection to provide services to MLL students in accordance with
+3 requirements set forth by the commissioner of elementary and secondary education. The
+4 department shall review the use of funds to ensure consistency with established best practices.
+5 (b) The department of elementary and secondary education shall provide an estimate of the
+6 foundation education aid cost as part of its budget submission pursuant to § 35-3-4. The estimate
+7 shall include the most recent data available as well as an adjustment for average daily membership
+8 growth or decline based on the prior year experience.
+9 (c) In addition, the department shall report updated figures based on the average daily
+10 membership as of October 1 by December 1.
+11 (d) Local education agencies may set aside a portion of funds received under subsection
+12 (a) to expand learning opportunities such as after school and summer programs, full-day
+13 kindergarten and/or multiple pathway programs, provided that the basic education program and all
+14 other approved programs required in law are funded.
+15 (e) The department of elementary and secondary education shall promulgate such
+16 regulations as are necessary to implement fully the purposes of this chapter.
+17 (f)(1) By October 1, 2023, as part of its budget submission pursuant to § 35-3-4 relative to
+18 state fiscal year 2025, the department of elementary and secondary education shall evaluate the
+19 number of students by district who qualify as multilingual learner (MLL) students and MLL
+20 students whose family income is at or below one hundred eighty-five percent (185%) of federal
+21 poverty guidelines. The submission shall also include segmentation of these populations by levels
+22 as dictated by the WIDA multilingual learner assessment tool used as an objective benchmark for
+23 English proficiency. The department shall also prepare and produce expense data sourced from the
+24 uniform chart of accounts to recommend funding levels required to support students at the various
+25 levels of proficiency as determined by the WIDA assessment tool. Utilizing this information, the
+26 department shall recommend a funding solution to meet the needs of multilingual learners; this may
+27 include but not be limited to inclusion of MLL needs within the core foundation formula amount
+28 through one or multiple weights to distinguish different students of need or through categorical
+29 means.
+30 (2) By October 1, 2024, as part of its budget submission pursuant to § 35-3-4 relative to
+31 state fiscal year 2026, the department of elementary and secondary education shall develop
+32 alternatives to identify students whose family income is at or below one hundred eighty-five percent
+33 (185%) of federal poverty guidelines through participation in state-administered programs,
+34 including, but not limited to, the supplemental nutrition assistance program (SNAP), and RIteCare
+LC001651 - Page 3 of 5
+
+1 and other programs that include the collection of required supporting documentation, and beginning
+2 with the FY 2026 calculations, a student's enrollment in Medicaid. The department may also
+3 include any recommendations that seek to mitigate any disruptions associated with implementation
+4 of this new poverty measure or improve the accuracy of its calculation.
+5 (3) The department shall also report with its annual budget request information regarding
+6 local contributions to education aid and compliance with §§ 16-7-23 and 16-7-24. The report shall
+7 also compare these local contributions to state foundation education aid by community. The
+8 department shall also report compliance to each city or town school committee and city or town
+9 council.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC001651
+========
+LC001651 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+RELIEF ACT
+***
+1 This act would provide that a student's enrollment in Medicaid would be included in
+2 calculating and determining the student success factor utilized to support high-need students
+3 beyond the core instructional amount, for purposes of the foundation education-aid formula. This
+4 would begin and be applied starting with the FY 2026 calculation.
+5 This act would take effect upon passage.
+========
+LC001651
+========
+LC001651 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " E 1 ( t a i s ( o t s a t a t s h s i s p ( i a a e b t d o e a s e d M ( p a m b t d a d m a d i § 1 E d i t f c i a s s f s i N C C o D a p b N w b u w d t c]
+[DELETED:  i c s ( d ( p r f o d i i t s a d n r o t a o s n p T d a c b T d m a i a r w s t m a d a w t i o t n p m o i t a i a o b o h e p ( o f p g w b d o f a b i i t s s f T d o e a s e r t ( ( i f i i b t c a d b r o t c o e a s e L e a s r a t t d o]
+[DELETED:  e a r s f b t c o e a s e T d ( f s g ( m ( ( t e l o s a a s a s p f k o ( T d o e a s e s p s r ( s n o s b d w q a m l s s p a E u l d i t m ( s f y 2 t d o e a s e s d a ( o f p g t p i s p i]
+[DELETED:  a w m i o ( l a c t l c t s f e a b c T d c S]
+[DELETED:  T c a d t s s f u t s h s b w T]

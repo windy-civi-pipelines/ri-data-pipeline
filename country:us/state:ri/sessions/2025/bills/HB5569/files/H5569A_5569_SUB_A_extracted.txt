@@ -1,0 +1,569 @@
+Title: 1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+Official Title: 1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+Number of Sections: 1
+Source: versions - 5569  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5569 SUBSTITUTE A
+========
+LC001722/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- PET INSURANCE ACT
+Introduced By: Representative Joseph J. Solomon
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+2 adding thereto the following chapter:
+3 CHAPTER 83
+4 PET INSURANCE ACT
+5 27-83-1. Scope and purpose.
+6 (a) The purpose of this chapter is to promote the public welfare by creating a
+7 comprehensive legal framework within which pet insurance may be sold in this state.
+8 (b) The requirements of this chapter shall apply to pet insurance policies that are issued to
+9 any resident of this state and are sold, solicited, negotiated, or offered in this state, and policies or
+10 certificates that are delivered or issued for delivery in this state.
+11 (c) All other applicable provisions of this state’s insurance laws shall continue to apply to
+12 pet insurance except that the specific provisions of this chapter shall supersede any general
+13 provisions of law that would otherwise be applicable to pet insurance.
+14 27-83-2. Definitions.
+15 (a) If a pet insurer uses any of the terms in this chapter in a policy of pet insurance, the pet
+16 insurer shall use the definition of each of those terms as set forth herein and include the definition
+17 of the term(s) in the policy. The pet insurer shall also make the definition available through a clear
+18 and conspicuous link on the main page of the pet insurer or pet insurer’s program administrator’s
+19 website.
+1 (b) Nothing in this chapter shall in any way prohibit or limit the types of exclusions pet
+2 insurers may use in their policies or require pet insurers to have any of the limitations or exclusions
+3 defined below.
+4 (c) For purposes of this chapter:
+5 (1) “Chronic condition” means a condition that can be treated or managed, but not cured.
+6 (2) “Congenital anomaly or disorder” means a condition that is present from birth, whether
+7 inherited or caused by the environment, which may cause or contribute to illness or disease.
+8 (3) “Hereditary disorder” means an abnormality that is genetically transmitted from parent
+9 to offspring and may cause illness or disease.
+10 (4) “Orthopedic” refers to conditions affecting the bones, skeletal muscle, cartilage,
+11 tendons, ligaments, and joints. It includes, but is not limited to, elbow dysplasia, hip dysplasia,
+12 intervertebral disc degeneration, patellar luxation, and ruptured cranial cruciate ligaments. It does
+13 not include cancers or metabolic, hemopoietic, or autoimmune diseases.
+14 (5) “Pet insurance” means a property insurance policy that provides coverage for accidents
+15 and illnesses of pets.
+16 (6) “Preexisting condition” means any condition for which any of the following are true
+17 prior to the effective date of a pet insurance policy or during any waiting period:
+18 (i) A veterinarian provided medical advice;
+19 (ii) The pet received previous treatment; or
+20 (iii) Based on information from verifiable sources, the pet had signs or symptoms directly
+21 related to the condition for which a claim is being made.
+22 (iv) A condition for which coverage is afforded on a policy cannot be considered a
+23 preexisting condition on any renewal of the policy.
+24 (7) “Renewal” means to issue and deliver at the end of an insurance policy period a policy
+25 which supersedes a policy previously issued and delivered by the same pet insurer or affiliated pet
+26 insurer and which provides types and limits of coverage substantially similar to those contained in
+27 the policy being superseded.
+28 (8) “Veterinarian” means an individual who holds a valid license to practice veterinary
+29 medicine from the appropriate licensing entity in the jurisdiction in which the individual practices.
+30 (9) “Veterinary expenses” means the costs associated with medical advice, diagnosis, care,
+31 or treatment provided by a veterinarian, including, but not limited to, the cost of drugs prescribed
+32 by a veterinarian.
+33 (10) “Waiting period” means the period of time specified in a pet insurance policy that is
+34 required to transpire before some or all of the coverage in the policy can begin. Waiting periods
+LC001722/SUB A - Page 2 of 9
+1 may not be applied to renewals of existing coverage.
+2 (11) “Wellness program” means a subscription or reimbursement-based program that is
+3 separate from an insurance policy that provides goods and services to promote the general health,
+4 safety, or wellbeing of the pet. If any wellness program
+5 (i) Pays or indemnifies another as to loss from certain contingencies called "risks,"
+6 including through reinsurance;
+7 (ii) Pays or grants a specified amount or determinable benefit to another in connection with
+8 ascertainable risk contingencies; or
+9 (iii) Acts as a surety, it is transacting in the business of insurance and is subject to the
+10 insurance code, as defined in § 27-54.1-1. This definition is not intended to classify a contract
+11 directly between a service provider and a pet owner that only involves the two (2) parties as being
+12 “the business of insurance,” unless other indications of insurance also exist.
+13 27-83-4. Disclosures.
+14 (a) A pet insurer transacting pet insurance shall disclose the following to consumers:
+15 (1) If the policy excludes coverage due to any of the following:
+16 (i) A preexisting condition;
+17 (ii) A hereditary disorder;
+18 (iii) A congenital anomaly or disorder; or
+19 (iv) A chronic condition;
+20 (2) If the policy includes any other exclusions, the following statement: “Other exclusions
+21 may apply. Please refer to the exclusions section of the policy for more information.”;
+22 (3) Any policy provision that limits coverage through a waiting or affiliation period, a
+23 deductible, coinsurance, or an annual or lifetime policy limit;
+24 (4) Whether the pet insurer reduces coverage or increases premiums based on the insured’s
+25 claim history, the age of the covered pet or a change in the geographic location of the insured; and
+26 (5) If the underwriting company differs from the brand name used to market and sell the
+27 product.
+28 (b) Right to examine and return the policy.
+29 (1) Unless the insured has filed a claim under the pet insurance policy, pet insurance
+30 applicants shall have the right to examine and return the policy, certificate or rider to the company
+31 or an agent/insurance producer of the company within fifteen (15) days of its receipt and to have
+32 the premium refunded if, after examination of the policy, certificate or rider, the applicant is not
+33 satisfied for any reason.
+34 (2) Pet insurance policies, certificates and riders shall have a notice prominently printed on
+LC001722/SUB A - Page 3 of 9
+1 the first page or attached thereto including specific instructions to accomplish a return. The
+2 following free look statement or language substantially similar shall be included:
+3 “You have fifteen (15) days from the day you receive this policy, certificate, or rider to
+4 review it, and return it to the company if you decide not to keep it. You do not have to tell the
+5 company why you are returning it. If you decide not to keep it, simply return it to the company at
+6 its administrative office, or you may return it to the agent/insurance producer that you bought it
+7 from as long as you have not filed a claim. You must return it within fifteen (15) days of the day
+8 you first received it. The company will refund the full amount of any premium paid within thirty
+9 (30) days after it receives the returned policy, certificate, or rider. The premium refund will be sent
+10 directly to the person who paid it. The policy, certificate, or rider will be void as if it had never
+11 been issued.”
+12 (c) A pet insurer shall clearly disclose a summary description of the basis or formula on
+13 which the pet insurer determines claim payments under a pet insurance policy within the policy,
+14 prior to policy issuance, and through a clear and conspicuous link on the main page of the pet
+15 insurer’s or pet insurer’s program administrator’s website.
+16 (d) A pet insurer that uses a benefit schedule to determine claim payment under a pet
+17 insurance policy shall do both of the following:
+18 (1) Clearly disclose the applicable benefit schedule in the policy; and
+19 (2) Disclose all benefit schedules used by the pet insurer under its pet insurance policies
+20 through a clear and conspicuous link on the main page of the pet insurer’s or pet insurer’s program
+21 administrator’s website.
+22 (e) A pet insurer that determines claim payments under a pet insurance policy based on
+23 usual and customary fees, or any other reimbursement limitation based on prevailing veterinary
+24 service provider charges, shall do both of the following:
+25 (1) Include a usual and customary fee limitation provision in the policy that clearly
+26 describes the pet insurer’s basis for determining usual and customary fees and how that basis is
+27 applied in calculating claim payments; and
+28 (2) Disclose the pet insurer’s basis for determining usual and customary fees through a
+29 clear and conspicuous link on the main page of the pet insurer’s or pet insurer’s program
+30 administrator’s website.
+31 (f) If any medical examination by a licensed veterinarian is required to effectuate coverage,
+32 the pet insurer shall clearly and conspicuously disclose the required aspects of the examination
+33 prior to purchase and disclose that examination documentation may result in a preexisting condition
+34 exclusion.
+LC001722/SUB A - Page 4 of 9
+1 (g) Waiting periods and the requirements applicable to them, shall be clearly and
+2 prominently disclosed to consumers prior to the policy purchase.
+3 (h) The pet insurer shall include a summary of all policy provisions required in subsections
+4 (a) through (g) of this section, inclusive, in a separate document titled “Insurer Disclosure of
+5 Important Policy Provisions.”
+6 (i) The pet insurer shall post the “Insurer Disclosure of Important Policy Provisions”
+7 document required in subsection (h) of this section through a clear and conspicuous link on the
+8 main page of the pet insurer’s or pet insurer’s program administrator’s website.
+9 (j) In connection with the issuance of a new pet insurance policy, the pet insurer shall
+10 provide the consumer with a copy of the “Insurer Disclosure of Important Policy Provisions”
+11 document required pursuant to subsection (h) of this section in at least twelve-point (12) type when
+12 the policy is delivered.
+13 (k) At the time a pet insurance policy is issued or delivered to a policyholder, the pet insurer
+14 shall include a written disclosure with the following information, printed in twelve-point (12)
+15 boldface type:
+16 (1) The address and customer service telephone number of the pet insurer or the agent or
+17 broker of record.
+18 (2) If the policy was issued or delivered by an agent or broker, a statement advising the
+19 policyholder to contact the broker or agent for assistance.
+20 (l) The disclosures required in this section shall be in addition to any other disclosures
+21 required by law or regulation.
+22 27-83-5. Policy conditions.
+23 (a) A pet insurer may issue policies that exclude coverage on the basis of one or more
+24 preexisting conditions with appropriate disclosure to the consumer. The pet insurer has the burden
+25 of proving that the preexisting condition exclusion applies to the condition for which a claim is
+26 being made.
+27 (b) A pet insurer may issue policies that impose waiting periods upon effectuation of the
+28 policy that do not exceed thirty (30) days for illnesses or orthopedic conditions not resulting from
+29 an accident. Waiting periods for accidents are prohibited; provided, however, an insurer shall issue
+30 coverage to be effective at 12:01 a.m. on the second calendar day after the purchase, subject only
+31 to the following exceptions:
+32 (1) If an insurer elects to conduct individualized underwriting on a specific pet, then
+33 coverage shall be effective by 12:01 a.m. on the second calendar day after the insurer has
+34 determined such pet is eligible for coverage;
+LC001722/SUB A - Page 5 of 9
+1 (2) An insurer may delay coverage from becoming effective to establish a method for the
+2 consumer or group administrator to pay the premium;
+3 (3) For pet insurance coverage acquired by an individual through an employer or
+4 organization, the coverage effective date of such pet insurance may be delayed to align with the
+5 eligibility and effective date requirements of the employer's organization's benefit plan; or
+6 (4) If a policy does not include a waiting period for an illness or orthopedic condition, an
+7 insurer may set a policy effectuation date that is up to fifteen (15) calendar days after purchase, as
+8 long as such policy effectuation date is clearly disclosed and no premium is earned before the policy
+9 becomes effective.
+10 (c)(1) A pet insurer utilizing a waiting period permitted in subsection (b) of this section
+11 shall include a provision in its contract that allows the waiting periods to be waived upon
+12 completion of a medical examination. Pet insurers may require the examination to be conducted by
+13 a licensed veterinarian after the purchase of the policy.
+14 (i) A medical examination under this subsection shall be paid for by the policyholder,
+15 unless the policy specifies that the pet insurer will pay for the examination.
+16 (ii) A pet insurer can specify elements to be included as part of the examination and require
+17 documentation thereof; provided that, the specifications do not unreasonably restrict a consumer’s
+18 ability to waive the waiting periods in subsection (b) of this section.
+19 (2) Waiting periods, and the requirements applicable to them, shall be clearly and
+20 prominently disclosed to consumers prior to the policy purchase.
+21 (3) If a policy does not include a waiting period for an illness or orthopedic condition, an
+22 insurer may set a policy effectuation date that is up to fifteen (15) days after purchase, as long as
+23 such policy effectuation date is clearly disclosed and no premium is earned before the policy
+24 becomes effective.
+25 (d) A pet insurer shall not require a veterinary examination of the covered pet for the
+26 insured to have their policy renewed.
+27 (e) If a pet insurer includes any prescriptive, wellness, or non-insurance benefits in the
+28 policy form, then it is made part of the policy contract and shall follow all applicable laws and
+29 regulations in the insurance code.
+30 (f) An insured’s eligibility to purchase a pet insurance policy shall not be based on
+31 participation, or lack of participation, in a separate wellness program.
+32 27-83-6. Sales practices for wellness programs.
+33 (a) A pet insurer and/or producer shall not do the following:
+34 (1) Market a wellness program as pet insurance; or
+LC001722/SUB A - Page 6 of 9
+1 (2) Market a wellness program during the sale, solicitation, or negotiation of pet insurance.
+2 (b) If a wellness program is sold by a pet insurer and/or producer:
+3 (1) The purchase of the wellness program shall not be a requirement to the purchase of pet
+4 insurance;
+5 (2) The costs of the wellness program shall be separate and identifiable from any pet
+6 insurance policy sold by a pet insurer and/or producer;
+7 (3) The terms and conditions for the wellness program shall be separate from any pet
+8 insurance policy sold by a pet insurer and/or producer;
+9 (4) The products or coverages available through the wellness program shall not duplicate
+10 products or coverages available through the pet insurance policy;
+11 (5) The advertising of the wellness program shall not be misleading and shall be in
+12 accordance with subsection (b) of this section; and
+13 (6) A pet insurer and/or producer shall clearly disclose the following to consumers, printed
+14 in twelve-point (12) boldface type:
+15 (i) That wellness programs are not insurance.
+16 (ii) The address and customer service telephone number of the pet insurer or producer or
+17 broker of record.
+18 (c) Coverages included in the pet insurance policy contract described as “wellness” benefits
+19 are insurance.
+20 27-83-7. Insurance producer training.
+21 (a) An insurance producer shall not sell, solicit, or negotiate a pet insurance product until
+22 after the producer is appropriately licensed and has completed the required training identified in
+23 subsection (c) of this section.
+24 (b) Insurers shall ensure that its producers are trained under subsection (c) of this section
+25 and that its producers have been appropriately trained on the coverages and conditions of its pet
+26 insurance products.
+27 (c) The training required under this subsection shall include information on the following
+28 topics:
+29 (1) Preexisting conditions and waiting periods;
+30 (2) The differences between pet insurance and noninsurance wellness programs;
+31 (3) Hereditary disorders, congenital anomalies or disorders and chronic conditions and how
+32 pet insurance policies interact with those conditions or disorders; and
+33 (4) Rating, underwriting, renewal, and other related administrative topics.
+34 (d) The satisfaction of the training requirements of another state that are substantially
+LC001722/SUB A - Page 7 of 9
+1 similar to the provisions of subsection (c) of this section shall be deemed to satisfy the training
+2 requirements in this state.
+3 27-83-8. Violations.
+4 Violations of this chapter shall be subject to penalties pursuant to § 42-14-16.
+5 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001722/SUB A
+========
+LC001722/SUB A - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PET INSURANCE ACT
+***
+1 This act would provide for the sale and regulation of pet insurance.
+2 This act would take effect on January 1, 2026.
+========
+LC001722/SUB A
+========
+LC001722/SUB A - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND S a C P 2 ( T p o t c i t p t p w b c a c ( a c ( p i e t t s p o t c s s a g p 2 ( i o a w]
+[DELETED:  ( i d ( ( ( i ( t ( “ r t c a t b s m c t i n ( a ( p ( ( ( r ( A c w c i a o a p c b c p ( w i t ( m ( o b ( r]
+[DELETED:  m ( s s ( P o i a a t l f c c c " i ( a ( i d “ 2 ( ( ( ( ( ( ( m ( d ( c ( p ( ( a o t s (]
+[DELETED:  t f p o a t i s i t a a r T f “ r c i f y ( d b ( w p i ( i ( ( t a ( u s ( I a u a c f l p i t p t c d a ( c a c l o t m p o t p i o p i p a ( t p e]
+[DELETED:  ( W p a t r a t t s b c a p ( ( I ( p p “ D o I P P d m ( p d t ( s t b ( b ( p ( r 2 ( p o b ( p a c t ( I a e c i u o a s t c s b e b 1 a o t s c d a t i h d]
+[DELETED:  ( c ( F p i c a b a i t a e o o e ( i l b ( s i a p i i c t a t w p t b w u c a ( u ( d a ( W p a t r a t t s b c a p ( i s b ( i ( p r ( A i e t p a p i p s n b b o p 2 ( (]
+[DELETED:  ( ( ( i ( i ( i ( p ( T a o t w p s n b m a s b i a ( i ( ( b ( a 2 ( a s ( a i ( t ( ( ( p ( (]
+[DELETED:  s r 2 V S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5569 SUBSTITUTE A
+========
+LC001722/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- PET INSURANCE ACT
+Introduced By: Representative Joseph J. Solomon
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 83
+4 PET INSURANCE ACT
+5 27-83-1. Scope and purpose.
+6 (a) The purpose of this chapter is to promote the public welfare by creating a
+7 comprehensive legal framework within which pet insurance may be sold in this state.
+8 (b) The requirements of this chapter shall apply to pet insurance policies that are issued to
+9 any resident of this state and are sold, solicited, negotiated, or offered in this state, and policies or
+10 certificates that are delivered or issued for delivery in this state.
+11 (c) All other applicable provisions of this state’s insurance laws shall continue to apply to
+12 pet insurance except that the specific provisions of this chapter shall supersede any general
+13 provisions of law that would otherwise be applicable to pet insurance.
+14 27-83-2. Definitions.
+15 (a) If a pet insurer uses any of the terms in this chapter in a policy of pet insurance, the pet
+16 insurer shall use the definition of each of those terms as set forth herein and include the definition
+17 of the term(s) in the policy. The pet insurer shall also make the definition available through a clear
+18 and conspicuous link on the main page of the pet insurer or pet insurer’s program administrator’s
+19 website.
+
+1 (b) Nothing in this chapter shall in any way prohibit or limit the types of exclusions pet
+2 insurers may use in their policies or require pet insurers to have any of the limitations or exclusions
+3 defined below.
+4 (c) For purposes of this chapter:
+5 (1) “Chronic condition” means a condition that can be treated or managed, but not cured.
+6 (2) “Congenital anomaly or disorder” means a condition that is present from birth, whether
+7 inherited or caused by the environment, which may cause or contribute to illness or disease.
+8 (3) “Hereditary disorder” means an abnormality that is genetically transmitted from parent
+9 to offspring and may cause illness or disease.
+10 (4) “Orthopedic” refers to conditions affecting the bones, skeletal muscle, cartilage,
+11 tendons, ligaments, and joints. It includes, but is not limited to, elbow dysplasia, hip dysplasia,
+12 intervertebral disc degeneration, patellar luxation, and ruptured cranial cruciate ligaments. It does
+13 not include cancers or metabolic, hemopoietic, or autoimmune diseases.
+14 (5) “Pet insurance” means a property insurance policy that provides coverage for accidents
+15 and illnesses of pets.
+16 (6) “Preexisting condition” means any condition for which any of the following are true
+17 prior to the effective date of a pet insurance policy or during any waiting period:
+18 (i) A veterinarian provided medical advice;
+19 (ii) The pet received previous treatment; or
+20 (iii) Based on information from verifiable sources, the pet had signs or symptoms directly
+21 related to the condition for which a claim is being made.
+22 (iv) A condition for which coverage is afforded on a policy cannot be considered a
+23 preexisting condition on any renewal of the policy.
+24 (7) “Renewal” means to issue and deliver at the end of an insurance policy period a policy
+25 which supersedes a policy previously issued and delivered by the same pet insurer or affiliated pet
+26 insurer and which provides types and limits of coverage substantially similar to those contained in
+27 the policy being superseded.
+28 (8) “Veterinarian” means an individual who holds a valid license to practice veterinary
+29 medicine from the appropriate licensing entity in the jurisdiction in which the individual practices.
+30 (9) “Veterinary expenses” means the costs associated with medical advice, diagnosis, care,
+31 or treatment provided by a veterinarian, including, but not limited to, the cost of drugs prescribed
+32 by a veterinarian.
+33 (10) “Waiting period” means the period of time specified in a pet insurance policy that is
+34 required to transpire before some or all of the coverage in the policy can begin. Waiting periods
+LC001722/SUB A - Page 2 of 9
+
+1 may not be applied to renewals of existing coverage.
+2 (11) “Wellness program” means a subscription or reimbursement-based program that is
+3 separate from an insurance policy that provides goods and services to promote the general health,
+4 safety, or wellbeing of the pet. If any wellness program
+5 (i) Pays or indemnifies another as to loss from certain contingencies called "risks,"
+6 including through reinsurance;
+7 (ii) Pays or grants a specified amount or determinable benefit to another in connection with
+8 ascertainable risk contingencies; or
+9 (iii) Acts as a surety, it is transacting in the business of insurance and is subject to the
+10 insurance code, as defined in § 27-54.1-1. This definition is not intended to classify a contract
+11 directly between a service provider and a pet owner that only involves the two (2) parties as being
+12 “the business of insurance,” unless other indications of insurance also exist.
+13 27-83-4. Disclosures.
+14 (a) A pet insurer transacting pet insurance shall disclose the following to consumers:
+15 (1) If the policy excludes coverage due to any of the following:
+16 (i) A preexisting condition;
+17 (ii) A hereditary disorder;
+18 (iii) A congenital anomaly or disorder; or
+19 (iv) A chronic condition;
+20 (2) If the policy includes any other exclusions, the following statement: “Other exclusions
+21 may apply. Please refer to the exclusions section of the policy for more information.”;
+22 (3) Any policy provision that limits coverage through a waiting or affiliation period, a
+23 deductible, coinsurance, or an annual or lifetime policy limit;
+24 (4) Whether the pet insurer reduces coverage or increases premiums based on the insured’s
+25 claim history, the age of the covered pet or a change in the geographic location of the insured; and
+26 (5) If the underwriting company differs from the brand name used to market and sell the
+27 product.
+28 (b) Right to examine and return the policy.
+29 (1) Unless the insured has filed a claim under the pet insurance policy, pet insurance
+30 applicants shall have the right to examine and return the policy, certificate or rider to the company
+31 or an agent/insurance producer of the company within fifteen (15) days of its receipt and to have
+32 the premium refunded if, after examination of the policy, certificate or rider, the applicant is not
+33 satisfied for any reason.
+34 (2) Pet insurance policies, certificates and riders shall have a notice prominently printed on
+LC001722/SUB A - Page 3 of 9
+
+1 the first page or attached thereto including specific instructions to accomplish a return. The
+2 following free look statement or language substantially similar shall be included:
+3 “You have fifteen (15) days from the day you receive this policy, certificate, or rider to
+4 review it, and return it to the company if you decide not to keep it. You do not have to tell the
+5 company why you are returning it. If you decide not to keep it, simply return it to the company at
+6 its administrative office, or you may return it to the agent/insurance producer that you bought it
+7 from as long as you have not filed a claim. You must return it within fifteen (15) days of the day
+8 you first received it. The company will refund the full amount of any premium paid within thirty
+9 (30) days after it receives the returned policy, certificate, or rider. The premium refund will be sent
+10 directly to the person who paid it. The policy, certificate, or rider will be void as if it had never
+11 been issued.”
+12 (c) A pet insurer shall clearly disclose a summary description of the basis or formula on
+13 which the pet insurer determines claim payments under a pet insurance policy within the policy,
+14 prior to policy issuance, and through a clear and conspicuous link on the main page of the pet
+15 insurer’s or pet insurer’s program administrator’s website.
+16 (d) A pet insurer that uses a benefit schedule to determine claim payment under a pet
+17 insurance policy shall do both of the following:
+18 (1) Clearly disclose the applicable benefit schedule in the policy; and
+19 (2) Disclose all benefit schedules used by the pet insurer under its pet insurance policies
+20 through a clear and conspicuous link on the main page of the pet insurer’s or pet insurer’s program
+21 administrator’s website.
+22 (e) A pet insurer that determines claim payments under a pet insurance policy based on
+23 usual and customary fees, or any other reimbursement limitation based on prevailing veterinary
+24 service provider charges, shall do both of the following:
+25 (1) Include a usual and customary fee limitation provision in the policy that clearly
+26 describes the pet insurer’s basis for determining usual and customary fees and how that basis is
+27 applied in calculating claim payments; and
+28 (2) Disclose the pet insurer’s basis for determining usual and customary fees through a
+29 clear and conspicuous link on the main page of the pet insurer’s or pet insurer’s program
+30 administrator’s website.
+31 (f) If any medical examination by a licensed veterinarian is required to effectuate coverage,
+32 the pet insurer shall clearly and conspicuously disclose the required aspects of the examination
+33 prior to purchase and disclose that examination documentation may result in a preexisting condition
+34 exclusion.
+LC001722/SUB A - Page 4 of 9
+
+1 (g) Waiting periods and the requirements applicable to them, shall be clearly and
+2 prominently disclosed to consumers prior to the policy purchase.
+3 (h) The pet insurer shall include a summary of all policy provisions required in subsections
+4 (a) through (g) of this section, inclusive, in a separate document titled “Insurer Disclosure of
+5 Important Policy Provisions.”
+6 (i) The pet insurer shall post the “Insurer Disclosure of Important Policy Provisions”
+7 document required in subsection (h) of this section through a clear and conspicuous link on the
+8 main page of the pet insurer’s or pet insurer’s program administrator’s website.
+9 (j) In connection with the issuance of a new pet insurance policy, the pet insurer shall
+10 provide the consumer with a copy of the “Insurer Disclosure of Important Policy Provisions”
+11 document required pursuant to subsection (h) of this section in at least twelve-point (12) type when
+12 the policy is delivered.
+13 (k) At the time a pet insurance policy is issued or delivered to a policyholder, the pet insurer
+14 shall include a written disclosure with the following information, printed in twelve-point (12)
+15 boldface type:
+16 (1) The address and customer service telephone number of the pet insurer or the agent or
+17 broker of record.
+18 (2) If the policy was issued or delivered by an agent or broker, a statement advising the
+19 policyholder to contact the broker or agent for assistance.
+20 (l) The disclosures required in this section shall be in addition to any other disclosures
+21 required by law or regulation.
+22 27-83-5. Policy conditions.
+23 (a) A pet insurer may issue policies that exclude coverage on the basis of one or more
+24 preexisting conditions with appropriate disclosure to the consumer. The pet insurer has the burden
+25 of proving that the preexisting condition exclusion applies to the condition for which a claim is
+26 being made.
+27 (b) A pet insurer may issue policies that impose waiting periods upon effectuation of the
+28 policy that do not exceed thirty (30) days for illnesses or orthopedic conditions not resulting from
+29 an accident. Waiting periods for accidents are prohibited; provided, however, an insurer shall issue
+30 coverage to be effective at 12:01 a.m. on the second calendar day after the purchase, subject only
+31 to the following exceptions:
+32 (1) If an insurer elects to conduct individualized underwriting on a specific pet, then
+33 coverage shall be effective by 12:01 a.m. on the second calendar day after the insurer has
+34 determined such pet is eligible for coverage;
+LC001722/SUB A - Page 5 of 9
+
+1 (2) An insurer may delay coverage from becoming effective to establish a method for the
+2 consumer or group administrator to pay the premium;
+3 (3) For pet insurance coverage acquired by an individual through an employer or
+4 organization, the coverage effective date of such pet insurance may be delayed to align with the
+5 eligibility and effective date requirements of the employer's organization's benefit plan; or
+6 (4) If a policy does not include a waiting period for an illness or orthopedic condition, an
+7 insurer may set a policy effectuation date that is up to fifteen (15) calendar days after purchase, as
+8 long as such policy effectuation date is clearly disclosed and no premium is earned before the policy
+9 becomes effective.
+10 (c)(1) A pet insurer utilizing a waiting period permitted in subsection (b) of this section
+11 shall include a provision in its contract that allows the waiting periods to be waived upon
+12 completion of a medical examination. Pet insurers may require the examination to be conducted by
+13 a licensed veterinarian after the purchase of the policy.
+14 (i) A medical examination under this subsection shall be paid for by the policyholder,
+15 unless the policy specifies that the pet insurer will pay for the examination.
+16 (ii) A pet insurer can specify elements to be included as part of the examination and require
+17 documentation thereof; provided that, the specifications do not unreasonably restrict a consumer’s
+18 ability to waive the waiting periods in subsection (b) of this section.
+19 (2) Waiting periods, and the requirements applicable to them, shall be clearly and
+20 prominently disclosed to consumers prior to the policy purchase.
+21 (3) If a policy does not include a waiting period for an illness or orthopedic condition, an
+22 insurer may set a policy effectuation date that is up to fifteen (15) days after purchase, as long as
+23 such policy effectuation date is clearly disclosed and no premium is earned before the policy
+24 becomes effective.
+25 (d) A pet insurer shall not require a veterinary examination of the covered pet for the
+26 insured to have their policy renewed.
+27 (e) If a pet insurer includes any prescriptive, wellness, or non-insurance benefits in the
+28 policy form, then it is made part of the policy contract and shall follow all applicable laws and
+29 regulations in the insurance code.
+30 (f) An insured’s eligibility to purchase a pet insurance policy shall not be based on
+31 participation, or lack of participation, in a separate wellness program.
+32 27-83-6. Sales practices for wellness programs.
+33 (a) A pet insurer and/or producer shall not do the following:
+34 (1) Market a wellness program as pet insurance; or
+LC001722/SUB A - Page 6 of 9
+
+1 (2) Market a wellness program during the sale, solicitation, or negotiation of pet insurance.
+2 (b) If a wellness program is sold by a pet insurer and/or producer:
+3 (1) The purchase of the wellness program shall not be a requirement to the purchase of pet
+4 insurance;
+5 (2) The costs of the wellness program shall be separate and identifiable from any pet
+6 insurance policy sold by a pet insurer and/or producer;
+7 (3) The terms and conditions for the wellness program shall be separate from any pet
+8 insurance policy sold by a pet insurer and/or producer;
+9 (4) The products or coverages available through the wellness program shall not duplicate
+10 products or coverages available through the pet insurance policy;
+11 (5) The advertising of the wellness program shall not be misleading and shall be in
+12 accordance with subsection (b) of this section; and
+13 (6) A pet insurer and/or producer shall clearly disclose the following to consumers, printed
+14 in twelve-point (12) boldface type:
+15 (i) That wellness programs are not insurance.
+16 (ii) The address and customer service telephone number of the pet insurer or producer or
+17 broker of record.
+18 (c) Coverages included in the pet insurance policy contract described as “wellness” benefits
+19 are insurance.
+20 27-83-7. Insurance producer training.
+21 (a) An insurance producer shall not sell, solicit, or negotiate a pet insurance product until
+22 after the producer is appropriately licensed and has completed the required training identified in
+23 subsection (c) of this section.
+24 (b) Insurers shall ensure that its producers are trained under subsection (c) of this section
+25 and that its producers have been appropriately trained on the coverages and conditions of its pet
+26 insurance products.
+27 (c) The training required under this subsection shall include information on the following
+28 topics:
+29 (1) Preexisting conditions and waiting periods;
+30 (2) The differences between pet insurance and noninsurance wellness programs;
+31 (3) Hereditary disorders, congenital anomalies or disorders and chronic conditions and how
+32 pet insurance policies interact with those conditions or disorders; and
+33 (4) Rating, underwriting, renewal, and other related administrative topics.
+34 (d) The satisfaction of the training requirements of another state that are substantially
+LC001722/SUB A - Page 7 of 9
+
+1 similar to the provisions of subsection (c) of this section shall be deemed to satisfy the training
+2 requirements in this state.
+3 27-83-8. Violations.
+4 Violations of this chapter shall be subject to penalties pursuant to § 42-14-16.
+5 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001722/SUB A
+========
+LC001722/SUB A - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PET INSURANCE ACT
+***
+1 This act would provide for the sale and regulation of pet insurance.
+2 This act would take effect on January 1, 2026.
+========
+LC001722/SUB A
+========
+LC001722/SUB A - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C P 2 ( T p o t c i t p t p w b c a c ( a c ( p i e t t s p o t c s s a g p 2 ( i o a w]
+[DELETED:  ( i d ( ( ( i ( t ( “ r t c a t b s m c t i n ( a ( p ( ( ( r ( A c w c i a o a p c b c p ( w i t ( m ( o b ( r]
+[DELETED:  m ( s s ( P o i a a t l f c c c " i ( a ( i d “ 2 ( ( ( ( ( ( ( m ( d ( c ( p ( ( a o t s (]
+[DELETED:  t f p o a t i s i t a a r T f “ r c i f y ( d b ( w p i ( i ( ( t a ( u s ( I a u a c f l p i t p t c d a ( c a c l o t m p o t p i o p i p a ( t p e]
+[DELETED:  ( W p a t r a t t s b c a p ( ( I ( p p “ D o I P P d m ( p d t ( s t b ( b ( p ( r 2 ( p o b ( p a c t ( I a e c i u o a s t c s b e b 1 a o t s c d a t i h d]
+[DELETED:  ( c ( F p i c a b a i t a e o o e ( i l b ( s i a p i i c t a t w p t b w u c a ( u ( d a ( W p a t r a t t s b c a p ( i s b ( i ( p r ( A i e t p a p i p s n b b o p 2 ( (]
+[DELETED:  ( ( ( i ( i ( i ( p ( T a o t w p s n b m a s b i a ( i ( ( b ( a 2 ( a s ( a i ( t ( ( ( p ( (]
+[DELETED:  s r 2 V S]
+[DELETED:  T T]

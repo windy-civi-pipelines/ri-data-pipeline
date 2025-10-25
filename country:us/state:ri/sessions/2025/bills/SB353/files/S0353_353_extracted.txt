@@ -1,0 +1,368 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+Number of Sections: 1
+Source: versions - 353
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0353
+========
+LC001504
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ACTIONS -- ARBITRATION
+Introduced By: Senators McKenney, LaMountain, and Burke
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 10-3-2, 10-3-22, 10-3-23 and, 10-3-24 of the General Laws in
+2 Chapter 10-3 entitled "Arbitration" are hereby amended to read as follows:
+3 10-3-2. Agreements to arbitrate subject to chapter — Notice.
+4 (a) When clearly written and expressed, a provision in a written contract to settle by
+5 arbitration a controversy thereafter arising out of such contract, or out of the refusal to perform the
+6 whole or any part thereof, or an agreement in writing between two (2) or more persons to submit
+7 to arbitration any controversy existing between them at the time of the agreement to submit shall
+8 be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the
+9 revocation of any contract; provided, however, that the provisions of this chapter shall not apply
+10 to, arbitration agreements governed by 9 U.S.C. §§ 1 through 16, collective contracts between
+11 employers and employees, or between employers and associations of employees, in respect to terms
+12 or conditions of employment; and provided further, that in all contracts of primary insurance,
+13 wherein the provision for arbitration is not placed immediately before the testimonium clause or
+14 the signature of the parties, the arbitration procedure may be enforced at the option of the insured,
+15 and in the event the insured exercises the option to arbitrate, then the provisions of this chapter
+16 shall apply and be the exclusive remedy available to the insured.
+17 (b) Notice of intention to arbitrate. A party may serve upon another party a demand for
+18 arbitration or a notice of intention to arbitrate, specifying the agreement pursuant to which
+1 arbitration is sought and the name and address of the party serving the notice, or of an officer or
+2 agent thereof if such party is an association or corporation, and stating that unless the party served
+3 applies to stay the arbitration within twenty (20) one hundred-eighty (180) days after such service
+4 they shall thereafter be precluded from objecting that a valid agreement was not made or has not
+5 been complied with and from asserting in court the bar of a limitation of time. Such notice or
+6 demand shall be served in the same manner as a summons or by registered or certified mail, return
+7 receipt requested. An application to stay arbitration shall be made by the party served within twenty
+8 (20) one hundred-eighty (180) days after service upon the party of the notice or demand, or they
+9 shall be so precluded. Notice of such application shall be served in the same manner as a summons
+10 or by registered or certified mail, return receipt requested. Service of the application may be made
+11 upon the adverse party, or upon their attorney if the attorneys’ name appears on the demand for
+12 arbitration or the notice of intention to arbitrate. Service of the application by mail shall be timely
+13 if such application is posted within the prescribed period. Any provision in an arbitration agreement
+14 or arbitration rules that waives the right to apply for a stay of arbitration or prescribes a manner of
+15 notifying a party of an intention to commence arbitration that is more burdensome than that
+16 described in this section is hereby declared null and void.
+17 (c) The party required to send notice pursuant to subsection (b) of this section shall
+18 affirmatively include in the notice the rights being waived by failure to apply for the stay of
+19 arbitration. Said notice shall be done in bold print and highlighted.
+20 10-3-22. Right to representation.
+21 A party has the right to be represented by an attorney and may claim such right at any time
+22 as to any part of the arbitration or hearings that have not taken place. This right may not be waived.
+23 If a party is represented by an attorney, papers to be served on the party shall be served upon the
+24 party’s attorney. Any provision of an agreement that discriminates against or penalizes a party for
+25 retaining the services of counsel in an arbitration is null and void.
+26 10-3-23. Fees and costs of arbitration initiation — Invoice — Breach of agreement —
+27 Sanctions.
+28 (a)(1) In an employment or consumer arbitration that requires, either expressly or through
+29 application of state or federal law or the rules of the arbitration provider, unless there is a mutually
+30 agreed upon provision to split costs equally, the drafting party, unless otherwise specified, is to pay
+31 certain fees and costs before the arbitration can proceed. If the fees or costs to initiate an arbitration
+32 proceeding are not paid within thirty (30) days after the due date the drafting party is in default and
+33 the arbitration provider shall send notice of default to the drafting party. If the drafting party fails
+34 to cure the default within fifteen (15) days after notice of the default or to file an action in court or
+LC001504 - Page 2 of 6
+1 a motion in arbitration to challenge whether the arbitration filings or notice of default are proper,
+2 the drafting party is in material breach of the arbitration agreement, is in default of the arbitration,
+3 and waives its right to compel arbitration under § 10-3-4.
+4 (2) After an employee or consumer meets the filing requirements necessary to initiate an
+5 arbitration, the arbitration provider shall immediately provide an invoice for any fees and costs
+6 required before the arbitration can proceed to all of the parties to the arbitration. The invoice shall
+7 be provided in its entirety, shall state the full amount owed and the date that payment is due, and
+8 shall be sent to all parties by the same means on the same day. To avoid delay, absent an express
+9 provision in the arbitration agreement stating the number of days in which the parties to the
+10 arbitration must pay any required fees or costs, the arbitration provider shall issue all invoices to
+11 the parties as due upon receipt.
+12 (b) If the drafting party materially breaches the arbitration agreement and is in default under
+13 subsection (a) of this section, the employee or consumer may do either of the following:
+14 (1) Withdraw the claim from arbitration and proceed in a court of appropriate jurisdiction;
+15 or
+16 (2) Compel arbitration in which the drafting party shall pay reasonable attorneys’ fees and
+17 costs related to the arbitration.
+18 (c) If the employee, consumer, or other involved party withdraws the claim from arbitration
+19 and proceeds with an action in a court of appropriate jurisdiction under subsection (b)(1) of this
+20 section, the statute of limitations with regard to all claims brought or that relate back to any claim
+21 brought in arbitration shall be tolled as of the date of the first filing of a claim in a court, arbitration
+22 forum, or other dispute resolution forum.
+23 (d) If the employee or consumer proceeds with an action in a court of appropriate
+24 jurisdiction, the court shall impose sanctions on the drafting party in accordance with § 10-3-25.
+25 10-3-24. Material breach of agreement — Remedies.
+26 (a)(1) In an employment or consumer arbitration that requires, either expressly or through
+27 application of state or federal law or the rules of the arbitration provider, that the drafting party pay
+28 certain fees and costs during the pendency of an arbitration proceeding, if the fees or costs required
+29 to continue the arbitration proceeding are not paid within thirty (30) days after the due date, the
+30 drafting party is in default and the arbitration provider shall send notice of default to the drafting
+31 party. If the drafting party fails to cure the default within fifteen (15) days after notice of the default
+32 or to file an action in court or a motion in arbitration to challenge whether the arbitration filings or
+33 notice of default are proper, the drafting party is in material breach of the arbitration agreement, is
+34 in default of the arbitration, and waives its right to compel the employee or consumer to proceed
+LC001504 - Page 3 of 6
+1 with that arbitration as a result of the material breach.
+2 (2) The arbitration provider shall provide an invoice for any fees and costs required for the
+3 arbitration proceeding to continue to all of the parties to the arbitration. The invoice shall be
+4 provided in its entirety, shall state the full amount owed and the date that payment is due, and shall
+5 be sent to all parties by the same means on the same day. To avoid delay, absent an express
+6 provision in the arbitration agreement stating the number of days in which the parties to the
+7 arbitration must pay any required fees or costs, the arbitration provider shall issue all invoices to
+8 the parties as due upon receipt. Any extension of time for the due date shall be agreed upon by all
+9 parties.
+10 (b) If the drafting party materially breaches the arbitration agreement and is in default under
+11 subsection (a) of this section, the employee or consumer may unilaterally elect to do any of the
+12 following:
+13 (1) Withdraw the claim from arbitration and proceed in a court of appropriate jurisdiction.
+14 If the employee or consumer withdraws the claim from arbitration and proceeds with an action in
+15 a court of appropriate jurisdiction, the statute of limitations, with regard to all claims brought or
+16 that relate back to any claim brought in arbitration, shall be tolled as of the date of the first filing
+17 of a claim in any court, arbitration forum, or other dispute resolution forum;
+18 (2) Continue the arbitration proceeding, if the arbitration provider agrees to continue
+19 administering the proceeding, notwithstanding the drafting party’s failure to pay fees or costs. The
+20 neutral arbitrator or arbitration provider may institute a collection action at the conclusion of the
+21 arbitration proceeding against the drafting party that is in default of the arbitration for payment of
+22 all fees associated with the employment or consumer arbitration proceeding, including the cost of
+23 administering any proceedings after the default;
+24 (3) Petition the court for an order compelling the drafting party to pay all arbitration fees
+25 that the drafting party is obligated to pay under the arbitration agreement or the rules of the
+26 arbitration provider; or
+27 (4) Pay the drafting party’s fees and proceed with the arbitration proceeding. As part of the
+28 award, the employee or consumer shall recover all arbitration fees paid on behalf of the drafting
+29 party without regard to any findings on the merits in the underlying arbitration.
+30 (c) If the employee or consumer withdraws the claim from arbitration and proceeds in a
+31 court of appropriate jurisdiction pursuant to subsection (b)(1) of this section, both of the following
+32 apply:
+33 (1) The employee or consumer may bring a motion, or a separate action, to recover all
+34 attorneys’ fees and all costs associated with the abandoned arbitration proceeding. The recovery of
+LC001504 - Page 4 of 6
+1 arbitration fees, interest, and related attorneys’ fees shall be without regard to any findings on the
+2 merits in the underlying action or arbitration; and
+3 (2) The court shall impose sanctions on the drafting party in accordance with § 10-3-25.
+4 (d) If the employee or consumer continues in arbitration pursuant to subsections (b)(2)
+5 through (4) of this section, inclusive, the arbitrator shall impose appropriate sanctions on the
+6 drafting party, including monetary sanctions, issue sanctions, evidence sanctions, or terminating
+7 sanctions.
+8 SECTION 2. This act shall take effect on January 1, 2026
+========
+LC001504
+========
+LC001504 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+ACTIONS -- ARBITRATION
+***
+1 This act would provide that effective January 1, 2026 contract provisions relative to
+2 arbitration would not apply to agreements covered by 9 U.S.C. §§ 1 through 16 and extend the time
+3 for a party to apply for a stay of arbitration to one hundred-eighty (180) days. The act would also
+4 invalidate any provision of an agreement that penalizes a party for seeking legal representation in
+5 an arbitration; and require the arbitrator to provide notice of default to a party for failure to pay fees
+6 and afford the party in default to challenge any notice of default.
+7 This act would take effect on January 1, 2026
+========
+LC001504
+========
+LC001504 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S C 1 ( a w t b r t e o p w t a s ( a o a n o i t a s t a p t w]
+[DELETED:  a a a t b d r ( s o u a i o n a p o a i c a t i m b t t d ( T p r t s n p t s ( o t s s a a 1 A a I p r 1 S ( a a c p t t]
+[DELETED:  a t a ( a r b s p a t ( s ( o ( c ( a s b f ( I t e o c p w a a i a c o a j 1 ( a c t d p o n i]
+[DELETED:  w ( a p b p a t p ( s f ( I a t o ( C t a p i t a p a t c a n a a a ( t a ( a p ( c a ( a]
+[DELETED:  a m ( ( t d s S]
+[DELETED:  T a w p t e J 1 2 c p r t a f i a a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0353
+========
+LC001504
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+ACTIONS -- ARBITRATION
+Introduced By: Senators McKenney, LaMountain, and Burke
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 10-3-2, 10-3-22, 10-3-23 and, 10-3-24 of the General Laws in
+2 Chapter 10-3 entitled "Arbitration" are hereby amended to read as follows:
+3 10-3-2. Agreements to arbitrate subject to chapter — Notice.
+4 (a) When clearly written and expressed, a provision in a written contract to settle by
+5 arbitration a controversy thereafter arising out of such contract, or out of the refusal to perform the
+6 whole or any part thereof, or an agreement in writing between two (2) or more persons to submit
+7 to arbitration any controversy existing between them at the time of the agreement to submit shall
+8 be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the
+9 revocation of any contract; provided, however, that the provisions of this chapter shall not apply
+10 to, arbitration agreements governed by 9 U.S.C. §§ 1 through 16, collective contracts between
+11 employers and employees, or between employers and associations of employees, in respect to terms
+12 or conditions of employment; and provided further, that in all contracts of primary insurance,
+13 wherein the provision for arbitration is not placed immediately before the testimonium clause or
+14 the signature of the parties, the arbitration procedure may be enforced at the option of the insured,
+15 and in the event the insured exercises the option to arbitrate, then the provisions of this chapter
+16 shall apply and be the exclusive remedy available to the insured.
+17 (b) Notice of intention to arbitrate. A party may serve upon another party a demand for
+18 arbitration or a notice of intention to arbitrate, specifying the agreement pursuant to which
+
+1 arbitration is sought and the name and address of the party serving the notice, or of an officer or
+2 agent thereof if such party is an association or corporation, and stating that unless the party served
+3 applies to stay the arbitration within twenty (20) one hundred-eighty (180) days after such service
+4 they shall thereafter be precluded from objecting that a valid agreement was not made or has not
+5 been complied with and from asserting in court the bar of a limitation of time. Such notice or
+6 demand shall be served in the same manner as a summons or by registered or certified mail, return
+7 receipt requested. An application to stay arbitration shall be made by the party served within twenty
+8 (20) one hundred-eighty (180) days after service upon the party of the notice or demand, or they
+9 shall be so precluded. Notice of such application shall be served in the same manner as a summons
+10 or by registered or certified mail, return receipt requested. Service of the application may be made
+11 upon the adverse party, or upon their attorney if the attorneys’ name appears on the demand for
+12 arbitration or the notice of intention to arbitrate. Service of the application by mail shall be timely
+13 if such application is posted within the prescribed period. Any provision in an arbitration agreement
+14 or arbitration rules that waives the right to apply for a stay of arbitration or prescribes a manner of
+15 notifying a party of an intention to commence arbitration that is more burdensome than that
+16 described in this section is hereby declared null and void.
+17 (c) The party required to send notice pursuant to subsection (b) of this section shall
+18 affirmatively include in the notice the rights being waived by failure to apply for the stay of
+19 arbitration. Said notice shall be done in bold print and highlighted.
+20 10-3-22. Right to representation.
+21 A party has the right to be represented by an attorney and may claim such right at any time
+22 as to any part of the arbitration or hearings that have not taken place. This right may not be waived.
+23 If a party is represented by an attorney, papers to be served on the party shall be served upon the
+24 party’s attorney. Any provision of an agreement that discriminates against or penalizes a party for
+25 retaining the services of counsel in an arbitration is null and void.
+26 10-3-23. Fees and costs of arbitration initiation — Invoice — Breach of agreement —
+27 Sanctions.
+28 (a)(1) In an employment or consumer arbitration that requires, either expressly or through
+29 application of state or federal law or the rules of the arbitration provider, unless there is a mutually
+30 agreed upon provision to split costs equally, the drafting party, unless otherwise specified, is to pay
+31 certain fees and costs before the arbitration can proceed. If the fees or costs to initiate an arbitration
+32 proceeding are not paid within thirty (30) days after the due date the drafting party is in default and
+33 the arbitration provider shall send notice of default to the drafting party. If the drafting party fails
+34 to cure the default within fifteen (15) days after notice of the default or to file an action in court or
+LC001504 - Page 2 of 6
+
+1 a motion in arbitration to challenge whether the arbitration filings or notice of default are proper,
+2 the drafting party is in material breach of the arbitration agreement, is in default of the arbitration,
+3 and waives its right to compel arbitration under § 10-3-4.
+4 (2) After an employee or consumer meets the filing requirements necessary to initiate an
+5 arbitration, the arbitration provider shall immediately provide an invoice for any fees and costs
+6 required before the arbitration can proceed to all of the parties to the arbitration. The invoice shall
+7 be provided in its entirety, shall state the full amount owed and the date that payment is due, and
+8 shall be sent to all parties by the same means on the same day. To avoid delay, absent an express
+9 provision in the arbitration agreement stating the number of days in which the parties to the
+10 arbitration must pay any required fees or costs, the arbitration provider shall issue all invoices to
+11 the parties as due upon receipt.
+12 (b) If the drafting party materially breaches the arbitration agreement and is in default under
+13 subsection (a) of this section, the employee or consumer may do either of the following:
+14 (1) Withdraw the claim from arbitration and proceed in a court of appropriate jurisdiction;
+15 or
+16 (2) Compel arbitration in which the drafting party shall pay reasonable attorneys’ fees and
+17 costs related to the arbitration.
+18 (c) If the employee, consumer, or other involved party withdraws the claim from arbitration
+19 and proceeds with an action in a court of appropriate jurisdiction under subsection (b)(1) of this
+20 section, the statute of limitations with regard to all claims brought or that relate back to any claim
+21 brought in arbitration shall be tolled as of the date of the first filing of a claim in a court, arbitration
+22 forum, or other dispute resolution forum.
+23 (d) If the employee or consumer proceeds with an action in a court of appropriate
+24 jurisdiction, the court shall impose sanctions on the drafting party in accordance with § 10-3-25.
+25 10-3-24. Material breach of agreement — Remedies.
+26 (a)(1) In an employment or consumer arbitration that requires, either expressly or through
+27 application of state or federal law or the rules of the arbitration provider, that the drafting party pay
+28 certain fees and costs during the pendency of an arbitration proceeding, if the fees or costs required
+29 to continue the arbitration proceeding are not paid within thirty (30) days after the due date, the
+30 drafting party is in default and the arbitration provider shall send notice of default to the drafting
+31 party. If the drafting party fails to cure the default within fifteen (15) days after notice of the default
+32 or to file an action in court or a motion in arbitration to challenge whether the arbitration filings or
+33 notice of default are proper, the drafting party is in material breach of the arbitration agreement, is
+34 in default of the arbitration, and waives its right to compel the employee or consumer to proceed
+LC001504 - Page 3 of 6
+
+1 with that arbitration as a result of the material breach.
+2 (2) The arbitration provider shall provide an invoice for any fees and costs required for the
+3 arbitration proceeding to continue to all of the parties to the arbitration. The invoice shall be
+4 provided in its entirety, shall state the full amount owed and the date that payment is due, and shall
+5 be sent to all parties by the same means on the same day. To avoid delay, absent an express
+6 provision in the arbitration agreement stating the number of days in which the parties to the
+7 arbitration must pay any required fees or costs, the arbitration provider shall issue all invoices to
+8 the parties as due upon receipt. Any extension of time for the due date shall be agreed upon by all
+9 parties.
+10 (b) If the drafting party materially breaches the arbitration agreement and is in default under
+11 subsection (a) of this section, the employee or consumer may unilaterally elect to do any of the
+12 following:
+13 (1) Withdraw the claim from arbitration and proceed in a court of appropriate jurisdiction.
+14 If the employee or consumer withdraws the claim from arbitration and proceeds with an action in
+15 a court of appropriate jurisdiction, the statute of limitations, with regard to all claims brought or
+16 that relate back to any claim brought in arbitration, shall be tolled as of the date of the first filing
+17 of a claim in any court, arbitration forum, or other dispute resolution forum;
+18 (2) Continue the arbitration proceeding, if the arbitration provider agrees to continue
+19 administering the proceeding, notwithstanding the drafting party’s failure to pay fees or costs. The
+20 neutral arbitrator or arbitration provider may institute a collection action at the conclusion of the
+21 arbitration proceeding against the drafting party that is in default of the arbitration for payment of
+22 all fees associated with the employment or consumer arbitration proceeding, including the cost of
+23 administering any proceedings after the default;
+24 (3) Petition the court for an order compelling the drafting party to pay all arbitration fees
+25 that the drafting party is obligated to pay under the arbitration agreement or the rules of the
+26 arbitration provider; or
+27 (4) Pay the drafting party’s fees and proceed with the arbitration proceeding. As part of the
+28 award, the employee or consumer shall recover all arbitration fees paid on behalf of the drafting
+29 party without regard to any findings on the merits in the underlying arbitration.
+30 (c) If the employee or consumer withdraws the claim from arbitration and proceeds in a
+31 court of appropriate jurisdiction pursuant to subsection (b)(1) of this section, both of the following
+32 apply:
+33 (1) The employee or consumer may bring a motion, or a separate action, to recover all
+34 attorneys’ fees and all costs associated with the abandoned arbitration proceeding. The recovery of
+LC001504 - Page 4 of 6
+
+1 arbitration fees, interest, and related attorneys’ fees shall be without regard to any findings on the
+2 merits in the underlying action or arbitration; and
+3 (2) The court shall impose sanctions on the drafting party in accordance with § 10-3-25.
+4 (d) If the employee or consumer continues in arbitration pursuant to subsections (b)(2)
+5 through (4) of this section, inclusive, the arbitrator shall impose appropriate sanctions on the
+6 drafting party, including monetary sanctions, issue sanctions, evidence sanctions, or terminating
+7 sanctions.
+8 SECTION 2. This act shall take effect on January 1, 2026
+========
+LC001504
+========
+LC001504 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+ACTIONS -- ARBITRATION
+***
+1 This act would provide that effective January 1, 2026 contract provisions relative to
+2 arbitration would not apply to agreements covered by 9 U.S.C. §§ 1 through 16 and extend the time
+3 for a party to apply for a stay of arbitration to one hundred-eighty (180) days. The act would also
+4 invalidate any provision of an agreement that penalizes a party for seeking legal representation in
+5 an arbitration; and require the arbitrator to provide notice of default to a party for failure to pay fees
+6 and afford the party in default to challenge any notice of default.
+7 This act would take effect on January 1, 2026
+========
+LC001504
+========
+LC001504 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 1 ( a w t b r t e o p w t a s ( a o a n o i t a s t a p t w]
+[DELETED:  a a a t b d r ( s o u a i o n a p o a i c a t i m b t t d ( T p r t s n p t s ( o t s s a a 1 A a I p r 1 S ( a a c p t t]
+[DELETED:  a t a ( a r b s p a t ( s ( o ( c ( a s b f ( I t e o c p w a a i a c o a j 1 ( a c t d p o n i]
+[DELETED:  w ( a p b p a t p ( s f ( I a t o ( C t a p i t a p a t c a n a a a ( t a ( a p ( c a ( a]
+[DELETED:  a m ( ( t d s S]
+[DELETED:  T a w p t e J 1 2 c p r t a f i a a T]

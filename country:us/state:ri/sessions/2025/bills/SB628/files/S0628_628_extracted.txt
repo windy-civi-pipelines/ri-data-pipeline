@@ -1,0 +1,1248 @@
+Title: RELATING TO MOTOR AND OTHER VEHICLES -- REGULATION OF BUSINESS
+Official Title: RELATING TO MOTOR AND OTHER VEHICLES -- REGULATION OF BUSINESS
+Number of Sections: 1
+Source: versions - 628
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0628
+========
+LC001602
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+PRACTICES AMONG MOTOR VEHICLES MANUFACTURES, DISTRIBUTORS, AND
+DEALERS
+Introduced By: Senators DiPalma, Ciccone, Britto, McKenney, and LaMountain
+Date Introduced: March 07, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-5.1-1, 31-5.1-2 and 31-5.1-4 of the General Laws in Chapter 31-
+2 5.1 entitled "Regulation of Business Practices Among Motor Vehicle Manufacturers, Distributors,
+3 and Dealers" are hereby amended to read as follows:
+4 31-5.1-1. Definitions.
+5 The following words and phrases, for the purposes of this chapter, have the following
+6 meanings:
+7 (1) “Common entity” means a person:
+8 (i) Who is directly or indirectly controlled by or has more than thirty percent (30%) of its
+9 equity interest directly or indirectly owned, beneficially or of record, through any form of
+10 ownership structure, by a manufacturer, distributor, factory branch, or an affiliate thereof; or
+11 (ii) Who has more than thirty percent (30%) of its equity interest directly or indirectly
+12 controlled or owned, beneficially or of record, through any form of ownership structure, by one or
+13 more persons who also directly or indirectly control or own, beneficially or of record, more than
+14 thirty percent (30%) of the equity interests of a manufacturer, distributor, factory branch, or an
+15 affiliate thereof.
+16 (1)(2) “Designated family member” means the spouse, child, grandchild, parent, brother,
+17 or sister of the owner of a new motor vehicle dealership who, in the case of the owner’s death, is
+18 entitled to inherit the ownership interest in the new motor vehicle dealership under the terms of the
+1 owner’s will, or who has been nominated in any other written instrument, or who, in the case of an
+2 incapacitated owner of a new motor vehicle dealership, has been appointed by a court as the legal
+3 representative of the new motor vehicle dealer’s property.
+4 (2)(3) “Distributor” means any person, firm, association, corporation, or trust, resident or
+5 nonresident, who in whole or in part offers for sale, sells, or distributes any new motor vehicle to
+6 new motor vehicle dealers, who maintains factory representatives or who controls any person, firm,
+7 association, corporation or trust, resident or nonresident, who in whole or in part offers for sale,
+8 sells or distributes any new motor vehicle to new motor vehicle dealers .
+9 (3)(4) “Established place of business” means a permanent, commercial building located
+10 within this state, easily accessible and open to the public at all reasonable times, and at which the
+11 business of a new motor vehicle dealer, including the display and repair of vehicles, may be
+12 lawfully carried on in accordance with the terms of all applicable building codes, zoning, and other
+13 land-use regulatory ordinances.
+14 (4)(5) “Factory branch” means a branch office maintained by a manufacturer for the
+15 purpose of selling, or offering for sale, vehicles to a distributor or new motor vehicle dealer, or for
+16 directing or supervising in whole or in part factory or distributor representatives.
+17 (5)(6) “Franchise” means the agreement or contract between any new motor vehicle
+18 manufacturer, written or otherwise, and any new motor vehicle dealer which purports to fix the
+19 legal rights and liabilities of the parties to that agreement or contract, and pursuant to which the
+20 dealer purchases and resells the franchise product or leases or rents the dealership premises.
+21 (6)(7) “Fraud” includes, in addition to its normal legal connotation, the following: a
+22 misrepresentation in any manner, whether intentionally false or due to gross negligence, of a
+23 material fact; a promise or representation not made honestly and in good faith; and an intentional
+24 failure to disclose a material fact.
+25 (7)(8) “Good faith” means honesty in fact and the observation of reasonable commercial
+26 standards of fair dealing in the trade as defined and interpreted in § 6A-2-103(1)(b).
+27 (8)(9) “Manufacturer” means any person, partnership, firm, association, corporation, or
+28 trust, resident or nonresident, who manufactures or assembles new motor vehicles, or imports for
+29 distribution through distributors of motor vehicles, or any partnership, firm, association, joint
+30 venture, corporation, or trust, resident or nonresident, which is a common entity controlled by the
+31 manufacturer.
+32 (9)(10) “Motor vehicle” means every vehicle intended primarily for use and operation on
+33 the public highways which is self-propelled, regardless of the size or type of motor or source of
+34 power, but not including farm tractors and other machines and tools used in the production,
+LC001602 - Page 2 of 18
+1 harvesting, and care of farm products.
+2 (10)(11) “New motor vehicle” means a vehicle which has been sold to a new motor vehicle
+3 dealer and which has not been used for other than demonstration purposes and on which the original
+4 title has not been issued from the new motor vehicle dealer. that has never been the subject of a
+5 completed, successful, or conditional sale that was subsequently approved other than between new
+6 motor vehicle dealers, or between a manufacturer and a new motor vehicle dealer of the same
+7 franchise. The term “motor vehicle” also includes any engine, transmission, or rear axle, regardless
+8 of whether it is attached to a vehicle chassis, that is manufactured for installation in any motor-
+9 driven vehicle with a gross vehicle weight rating of more than sixteen thousand (16,000) pounds
+10 that is required to be registered.
+11 (11)(12) “New motor vehicle dealer” means any person engaged in the business of selling,
+12 offering to sell, soliciting, or advertising the sale of new motor vehicles and who holds, or held at
+13 the time a cause of action under this chapter accrued, a valid sales and service agreement, franchise,
+14 or contract, granted by the manufacturer or distributor for the retail sale of that manufacturer’s or
+15 distributor’s new motor vehicles. “New motor vehicle dealer” includes any person who engages
+16 exclusively in the repair of motor vehicles, if such repairs are performed as part of a manufacturer’s
+17 warrant.
+18 (12)(13) “Person” means a natural person, corporation, partnership, trust, or other entity,
+19 and, in case of an entity, it includes any other entity in which it has a majority interest or effectively
+20 controls, as well as the individual officers, directors, and other persons in active control of the
+21 activities of that entity.
+22 (13)(14) “Relevant market area” means the area within a radius of twenty (20) miles around
+23 an existing dealer or the area of responsibility defined in the franchise, whichever is greater.
+24 (15) “Sell”, “selling”, “sold”, “exchange”, “retail sales”, and “leases” includes:
+25 (i) Accepting a deposit or receiving a payment for the retail purchase, lease, or other use of
+26 a motor vehicle, but does not include facilitating a motor vehicle dealer’s acceptance of a deposit
+27 or receipt of a payment from a consumer or receiving payment under a retail installment sale
+28 contract;
+29 (ii) Accepting a reservation from a retail consumer for the purchase or lease of a vehicle,
+30 but does not include a manufacturer, distributor or factory branch accepting a reservation that it
+31 assigns to a licensed motor vehicle dealer within this state authorized to sell that make and model;
+32 (iii) Setting the retail price for the purchase, lease, or other use of a motor vehicle, but does
+33 not include setting a manufacturer’s suggested retail price;
+34 (iv) Offering or negotiating with a retail consumer terms for the purchase, lease, or other
+LC001602 - Page 3 of 18
+1 use of a motor vehicle;
+2 (v) Offering or negotiating with a retail consumer a value or a motor vehicle being traded
+3 in as part of the purchase, lease, or other use of a motor vehicle, but does not include a website or
+4 other means of electronic communication that identifies to a consumer a conditional trade-in value
+5 and that contains language informing the consumer that the trade-in value is not binding on any
+6 motor vehicle dealer;
+7 (vi) Any transaction where the title of a motor vehicle or a used motor vehicle is transferred
+8 to a retail consumer;
+9 (vii) Any retail lease transaction where a retail consumer leases a vehicle for a period of at
+10 least twelve (12) months, but does not include administering lease agreements, taking assignments
+11 of leases, performing required actions pursuant to such lease, or receiving payments under a lease
+12 agreement that was originated by a motor vehicle dealer;
+13 (viii) Displaying sample vehicles, offering or coordinating test drives to customers;
+14 (ix) Arranging the pickup or delivery of a newly purchased new motor vehicle; or
+15 (x) Compensating employees, agents or contractors to engage in these activities.
+16 31-5.1-2. Application of chapter.
+17 (a) Any person who engages directly or indirectly in purposeful contacts within this state
+18 in connection with the offering or advertising for sale of, or has business dealings with respect to,
+19 a motor vehicle within the state shall be subject to the provisions of this chapter and shall be subject
+20 to the jurisdiction of the courts of this state, upon service of process in accordance with the
+21 provisions of the general laws.
+22 (b) Any parent, subsidiary, or common entity of a manufacturer, distributor, factory branch,
+23 or other entity, which by contractual arrangement or otherwise pursuant to the direction of the
+24 manufacturer, engages in the distribution in this state of line-make motor vehicles manufactured or
+25 substantially manufactured by such manufacturer, distributor, or factory branch shall be deemed to
+26 be the agent of the manufacturer, distributor, or factory branch for the purposes of any franchise
+27 agreement entered into between such agent and a motor vehicle dealer engaged in business in this
+28 state and shall be bound by the terms and provisions of such franchise agreement as if it were the
+29 principal. A manufacturer, distributor, or factory branch of line-make motor vehicles which are
+30 offered for sale or lease in this state under any franchise agreement executed by an agent of such
+31 manufacturer, distributor, or factory branch is bound by the terms and provisions of such franchise
+32 agreement as if it and not the agent had executed the franchise agreement. Said manufacturer,
+33 distributor, or factory branch shall be subject to all of the restrictions, limitations, remedies, and
+34 penalties of this chapter related to such franchise agreement, the performance thereof, or any cause
+LC001602 - Page 4 of 18
+1 of action pertaining thereto. The agency relationship established in this section is not intended to
+2 apply to a person or entity that engages in the distribution of motor vehicles in this state under its
+3 own brand name which are substantially manufactured by another person or entity, provided the
+4 distributing person or entity is substantially engaged in the manufacture of other line-make motor
+5 vehicles and is licensed in this state as a manufacturer.
+6 (c) Notwithstanding any provisions of any law, rule or regulation to the contrary, a motor
+7 vehicle dealer licensed pursuant to chapter 5 of title 31 prior to January 1, 2020 and exclusively
+8 manufacturing zero-emission vehicles may buy from and sell, offer to sell, or deal to a consumer a
+9 zero-emission vehicle; provided that, the dealer owns or operates, directly or indirectly:
+10 (i) No more than three (3) places of business in the state; and
+11 (ii) At least one retail facility for the servicing, including warranty servicing, of zero
+12 emission vehicles sold, offered for sale, or otherwise distributed in this state. This facility shall be
+13 furnished with all the equipment required to service a zero-emission vehicle.
+14 (d) A franchisor shall not be required to establish or operate a place of business at a retail
+15 facility for the servicing of zero emission vehicles.
+16 31-5.1-4. Violations.
+17 (a) It shall be deemed a violation of this chapter for any manufacturer, distributor, factory
+18 branch, or motor vehicle dealer to engage in any action that is arbitrary, in bad faith, or
+19 unconscionable and that causes damage to any of the parties involved or to the public.
+20 (b) It shall be deemed a violation of this chapter for a manufacturer, distributor, factory
+21 branch, or officer, agent, or other representative of a manufacturer, distributor or factory branch to
+22 coerce, or attempt to coerce, any motor vehicle dealer:
+23 (1) To order or accept delivery of any motor vehicle or vehicles, equipment, parts, or
+24 accessories for them, or any other commodity or commodities that the motor vehicle dealer has not
+25 voluntarily ordered.
+26 (2) To order or accept delivery of any motor vehicle with special features, accessories, or
+27 equipment not included in the list price of that motor vehicle as publicly advertised by the
+28 manufacturer, distributor or factory branch of the vehicle.
+29 (3) To participate monetarily in an advertising campaign or contest, or to purchase any
+30 promotional materials, or training materials, showroom, or other display decorations, or materials
+31 at the expense of the new motor vehicle dealership.
+32 (4) To enter into any agreement with the manufacturer, distributor or factory branch or to
+33 do any other act prejudicial to the new motor vehicle dealer by threatening to terminate or cancel a
+34 franchise or any contractual agreement existing between the dealer and the manufacturer,
+LC001602 - Page 5 of 18
+1 distributor or factory branch; except that this subdivision is not intended to preclude the
+2 manufacturer, or distributor, or factory branch from insisting on compliance with the reasonable
+3 terms or provisions of the franchise or other contractual agreement. Notice in good faith to any new
+4 motor vehicle dealer of the new motor vehicle dealer’s violation of those terms or provisions shall
+5 not constitute a violation of the chapter.
+6 (5) To refrain from participation in the management of, investment in, or acquisition of any
+7 other line of new motor vehicle or related products. This subdivision does not apply unless the new
+8 motor vehicle dealer maintains a reasonable line of credit for each make or line of new motor
+9 vehicles, the new motor vehicle dealer remains in compliance with any reasonable facilities
+10 requirements of the manufacturer, distributor or factory branch; and no change is made in the
+11 principal management of the new motor vehicle dealer.
+12 (6) To assent to a release, assignment, novation, waiver, or estoppel in connection with the
+13 transfer or voluntary termination of a franchise, or that would relieve any person from the liability
+14 to be imposed by this law; or to require any controversy between a new motor vehicle dealer and a
+15 manufacturer, distributor, or representative to be referred to any person other than the duly
+16 constituted courts of this state or of the United States of America, or to the department of revenue
+17 of this state, if that referral would be binding upon the new motor vehicle dealer.
+18 (7) To order for any person any parts, accessories, equipment, machinery, tools, or any
+19 commodities.
+20 (c) It shall be deemed a violation of this chapter for a manufacturer, distributor, factory
+21 branch, or officer, agent, or other representative:
+22 (1) To refuse to deliver in reasonable quantities and within a reasonable time after receipt
+23 of the dealer’s order, to any motor vehicle dealer having a franchise or contractual arrangement for
+24 the retail sale of new motor vehicles sold or distributed by the manufacturer, distributor or factory
+25 branch any motor vehicles covered by the franchise or contract, specifically publicly advertised by
+26 the manufacturer to be available for immediate delivery. However, the failure to deliver any motor
+27 vehicle shall not be considered a violation of this chapter if that failure is due to an act of God,
+28 work stoppage, or delay due to a strike or labor difficulty, shortage of materials, a freight embargo,
+29 or other cause over which the manufacturer, distributor, factory branch, or wholesaler, its agent,
+30 shall have no control.
+31 (2) To refuse to deliver, or otherwise deny, to any motor vehicle dealer having a franchise
+32 or contractual arrangement for the retail sale of new motor vehicles sold or distributed by the
+33 manufacturer any particular new motor vehicle model made or distributed by the manufacturer or
+34 factory branch under the name of the division of the manufacturer, distributor or factory branch of
+LC001602 - Page 6 of 18
+1 which the dealer is an authorized franchise.
+2 (3) It shall be deemed a prima facie violation of this chapter for any automotive vehicle
+3 division manufacturer, distributor or factory branch to require any separate franchise or contractual
+4 arrangement with any new motor vehicle dealer already a party to a franchise or contractual
+5 arrangement with that automotive vehicle division for the retail sale of any particular new motor
+6 vehicle model made or distributed by that division.
+7 (4) To coerce, or attempt to coerce, any motor vehicle dealer to enter into any agreement
+8 with the manufacturer, distributor, factory branch or their officers, agents, or other representatives,
+9 or to do any other act prejudicial to the dealer, by threatening to cancel any franchise or any
+10 contractual agreement existing between the manufacturer, distributor or factory branch and the
+11 dealer. Notice in good faith to any motor vehicle dealer of the dealer’s violation of any terms or
+12 provisions of the franchise or contractual agreement shall not constitute a violation of this chapter.
+13 (5) To resort to or use any false or misleading advertisement in connection with his or her
+14 business as a manufacturer, distributor or factory branch an officer, agent, or other representative.
+15 (6) To sell or lease any new motor vehicle to, or through, any new motor vehicle dealer at
+16 a lower actual price therefore than the actual price offered to any other new motor vehicle dealer
+17 for the same model vehicle similarly equipped or to utilize any device, including, but not limited
+18 to, sales promotion plans or programs, that result in a lesser actual price. The provisions of this
+19 paragraph shall not apply to sales to a new motor vehicle dealer for resale to any unit of the United
+20 States government or to the state or any of its political subdivisions. A manufacturer, distributor or
+21 factory branch may not reduce the price of a motor vehicle charged to a dealer or provide different
+22 financing terms to a dealer in exchange for the dealer’s agreement to:
+23 (i) Maintain an exclusive sales or service facility;
+24 (ii) Build or alter a sales or service facility; or
+25 (iii) Participate in a floor plan or other financing.
+26 (7) To sell or lease any new motor vehicle to any person, except a manufacturer’s,
+27 distributor or factory branch employee, at a lower actual price than the actual price offered and
+28 charged to a new motor vehicle dealer for the same model vehicle similarly equipped or to utilize
+29 any device which results in a lesser actual price. The provisions of this paragraph shall not apply
+30 to sales to a new motor vehicle dealer for resale to any unit of the United States government, or to
+31 the state or any of its political subdivisions.
+32 (8) To offer in connection with the sale of any new motor vehicle or vehicles, directly or
+33 indirectly, to a fleet purchaser, within or without this state, terms, discounts, refunds, or other
+34 similar types of inducements to that purchaser without making the same offer or offers available to
+LC001602 - Page 7 of 18
+1 all of its new motor vehicles dealers in this state. No manufacturer, distributor or factory branch
+2 may impose or enforce any restrictions against new motor vehicle dealers in this state or their
+3 leasing, rental, or fleet divisions or subsidiaries that are not imposed or enforced against any other
+4 direct or indirect purchaser from the manufacturer, distributor or factory branch. The provisions of
+5 this paragraph shall not apply to sales to a new motor vehicle dealer for resale to any unit of the
+6 United States government, or to the state or any of its political subdivisions.
+7 (9) To use or consider the performance of a motor vehicle dealer relating to the sale of the
+8 manufacturer’s, distributor's or factory branch's vehicles or the motor vehicle dealer’s ability to
+9 satisfy any minimum sales or market share quota or responsibility relating to the sale of the
+10 manufacturer’s, distributor's or factory branch's new vehicles in determining:
+11 (i) The motor vehicle dealer’s eligibility to purchase program, certified, or other used motor
+12 vehicles from the manufacturer, distributor or factory branch;
+13 (ii) The volume, type, or model of program, certified, or other used motor vehicles that a
+14 motor vehicle dealer is eligible to purchase from the manufacturer, distributor or factory branch;
+15 (iii) The price of any program, certified, or other used motor vehicle that the dealer is
+16 eligible to purchase from the manufacturer, distributor or factory branch; or
+17 (iv) The availability or amount of any discount, credit, rebate, or sales incentive that the
+18 dealer is eligible to receive from the manufacturer, distributor or factory branch for the purchase of
+19 any program, certified, or other used motor vehicle offered for sale by the manufacturer.
+20 (10) To offer to sell or to sell parts or accessories to any new motor vehicle dealer for use
+21 in the dealer’s own business for the purpose of repairing or replacing the same parts or accessories
+22 or a comparable part or accessory, at a lower actual price than the actual price charged to any other
+23 new motor vehicle dealer for similar parts or accessories to use in the dealer’s own business. In
+24 those cases where new motor vehicle dealers operate or serve as wholesalers of parts and
+25 accessories to retail outlets, these provisions shall be construed to prevent a manufacturer,
+26 distributor, factory branch or its agents, from selling to a new motor vehicle dealer who operates
+27 and services as a wholesaler of parts and accessories, any parts and accessories that may be ordered
+28 by that new motor vehicle dealer for resale to retail outlets at a lower actual price than the actual
+29 price charged a new motor vehicle dealer who does not operate or serve as a wholesaler of parts
+30 and accessories.
+31 (11) To prevent, or attempt to prevent, by contract or otherwise, any new motor vehicle
+32 dealer from changing the capital structure of his or her dealership or the means by which, or through
+33 which the dealer finances the operation of his or her dealership. However, the new motor vehicle
+34 dealer shall at all times meet any reasonable capital standards agreed to between the dealership and
+LC001602 - Page 8 of 18
+1 the manufacturer, distributor or factory branch; provided, that any change in the capital structure
+2 by the new motor vehicle dealer does not result in a change in the executive management control
+3 of the dealership.
+4 (12) To prevent, or attempt to prevent, by contract or otherwise, any new motor vehicle
+5 dealer, or any officer, partner, or stockholder of any new motor vehicle dealer, from selling or
+6 transferring any part of the interest of any of them to any other person or persons or party or parties.
+7 Provided, however, that no dealer, officer, partner, or stockholder shall have the right to sell,
+8 transfer, or assign the franchise or power of management or control without the consent of the
+9 manufacturer, distributor or factory branch except that the consent shall not be unreasonably
+10 withheld.
+11 (13) To obtain money, goods, services, anything of value, or any other benefit from any
+12 other person with whom the new motor vehicle dealer does business, on account of, or in relation
+13 to, the transactions between the dealer and that other person, unless that benefit is promptly
+14 accounted for and transmitted to the new motor vehicle dealer.
+15 (14) To compete with a new motor vehicle dealer operating under an agreement or
+16 franchise from the manufacturer, distributor or factory branch in the state of Rhode Island,:
+17 (i) through Through the ownership, operation, or control of any new motor vehicle dealers
+18 in this state, or by participation in the ownership, operation, or control of any new motor vehicle
+19 dealer in this state. A manufacturer, distributor or factory branch shall not be deemed to be
+20 competing when operating, controlling, or owning a dealership, either temporarily for a reasonable
+21 period, but in any case not to exceed one year, which one-year (1) period may be extended for a
+22 one-time, additional period of up to six (6) months upon application to, and approval by, the motor
+23 vehicle dealers license and hearing board, which approval shall be subject to the manufacturer,
+24 distributor or factory branch demonstrating the need for this extension, and with other new motor
+25 vehicle dealers of the same line or make being given notice and an opportunity to be heard in
+26 connection with said application, or in a bona fide relationship in which an independent person had
+27 made a significant investment subject to loss in the dealership and can reasonably expect to acquire
+28 full ownership of the dealership on reasonable terms and conditions within a reasonable period of
+29 time; or
+30 (ii) By selling directly or indirectly new motor vehicles to any retail consumer in the state
+31 except through a new motor vehicle dealer holding a franchise for the line-make that includes the
+32 new motor vehicle. The provisions of this subsection shall not preclude a manufacturer, distributor,
+33 or factory branch from:
+34 (A) Selling new vehicles to its employees, family members of employees, retirees and
+LC001602 - Page 9 of 18
+1 family members of retirees, not-for-profit organizations, or the federal, state or local governments;
+2 (B) Providing information to a consumer for the purpose of marketing; or
+3 (C) Displaying vehicles or allowing test drives for promotional purposes at events where
+4 the manufacturer, distributor, or factory branch is a sponsor and the vehicles are not for sale to the
+5 public at the event.
+6 (15) To refuse to disclose to any new motor vehicle dealer, handling the same line or make,
+7 the manner and mode of distribution of that line or make within the relevant market area.
+8 (16) To increase prices of new motor vehicles that the new motor vehicle dealer had
+9 ordered for private retail consumers prior to the new motor vehicle dealer’s receipt of the written,
+10 official price increase notification. A sales contract signed by a private retail consumer shall
+11 constitute evidence of an order, provided that the vehicle is in fact delivered to that customer. In
+12 the event of manufacturer price reductions or cash rebates paid to the new motor vehicle dealer, the
+13 amount of any reduction or rebate received by a new motor vehicle dealer shall be passed on to the
+14 private retail consumer by the new motor vehicle dealer. Price reductions shall apply to all vehicles
+15 in the dealer’s inventory that were subject to the price reduction. Price differences applicable to
+16 new model or series motor vehicles at the time of the introduction of new models or series shall not
+17 be considered a price increase or price decrease. Price changes caused by either: (i) The addition to
+18 a motor vehicle of required or optional equipment; (ii) Revaluation of the United States dollar, in
+19 the case of foreign-make vehicles or components; or (iii) An increase in transportation charges due
+20 to increased rates imposed by common carriers, shall not be subject to the provisions of this
+21 subdivision.
+22 (17) To release to any outside party, except under subpoena or as otherwise required by
+23 law, or in an administrative, judicial, or arbitration proceeding involving the manufacturer,
+24 distributor, factory branch, or new motor vehicle dealer, any business, financial, or personal
+25 information that may be, from time to time, provided by the new motor vehicle dealer to the
+26 manufacturer, distributor or factory branch without the express written consent of the new motor
+27 vehicle dealer.
+28 (18) To unfairly discriminate among its new motor vehicle dealers with respect to warranty
+29 reimbursement, or any program that provides assistance to its dealers, including internet listings;
+30 sales leads; warranty policy adjustments; marketing programs; and dealer recognition programs.
+31 (19) To unreasonably withhold consent to the sale, transfer, or exchange of the franchise
+32 to a qualified buyer capable of being licensed as a new motor vehicle dealer in this state.
+33 (20) To fail to respond, in writing, to a request for consent as specified in subdivision (19)
+34 of this subsection within sixty (60) days of the receipt of a written request on the forms, if any,
+LC001602 - Page 10 of 18
+1 generally utilized by the manufacturer or distributor, or factory branch for those purposes and
+2 containing the information required therein. The failure to respond shall be deemed to be a consent
+3 to the request. A manufacturer, distributor or factory branch may not impose a condition on the
+4 approval of a sale, transfer, or exchange of the franchise if the condition would violate the
+5 provisions of this chapter if imposed on an existing dealer.
+6 (21) To unfairly prevent a new motor vehicle dealer from receiving fair and reasonable
+7 compensation for the value of the new motor vehicle dealership.
+8 (22) To require that a new motor vehicle dealer execute a written franchise agreement that
+9 does not contain substantially the same provisions as the franchise agreement being offered to other
+10 new motor vehicle dealers handling the same line or make. In no instance shall the term of any
+11 franchise agreement be of a duration of less than three (3) years.
+12 (23) To require that a new motor vehicle dealer provide exclusive facilities, personnel, or
+13 display space taking into consideration changing market conditions, or that a dealer execute a site
+14 control agreement giving a manufacturer, distributor or factory branch control over the dealer’s
+15 facilities.
+16 (24) To require that a dealer expand, alter, improve, renovate, or remodel facilities without
+17 a guarantee of a sufficient supply of new motor vehicles to justify that expansion or to require that
+18 a dealer expand facilities to a greater degree than is necessary to sell and service the number of
+19 vehicles that the dealer sold and serviced in the most recent calendar year.
+20 (25) To prevent a dealer from adjusting his or her facilities to permit a relocation of office
+21 space, showroom space, and service facilities so long as the relocation is within five hundred (500)
+22 yards of the present location.
+23 (26) To engage in any predatory practice against a new motor vehicle dealer.
+24 (27) To prevent, prohibit, or coerce any new motor vehicle dealer from charging any
+25 consumer any fee allowed to be charged by the dealer under Rhode Island law or regulation except
+26 as related to eligible participants under a military discount program in which the dealer voluntarily
+27 participates and receives financial compensation from the manufacturer, distributor or factory
+28 branch or distributor, to the extent that such a program is not offered to the general public.
+29 (d) It shall be a violation of this chapter for a manufacturer, distributor or factory branch to
+30 terminate, cancel, or fail to renew the franchise of a new motor vehicle dealer except as provided
+31 in this subsection:
+32 (1) Notwithstanding the terms, provisions, or conditions of any franchise, whether entered
+33 into before or after the enactment of this chapter or any of its provisions, or notwithstanding the
+34 terms or provisions of any waiver, whether entered into before or after the enactment of this chapter
+LC001602 - Page 11 of 18
+1 or any of its provisions, no manufacturer, distributor or factory branch shall cancel, terminate, or
+2 fail to renew any franchise with a licensed new motor vehicle dealer unless the manufacturer,
+3 distributor or factory branch has:
+4 (i) Satisfied the notice requirement of this subsection;
+5 (ii) Has good cause for the cancellation, termination, or nonrenewal;
+6 (iii) Has not committed any violations set forth in subsection (b) of this section; and
+7 (iv) Has acted in good faith as defined in this chapter and has complied with all provisions
+8 of this chapter.
+9 (2) Notwithstanding the terms, provisions, or conditions of any franchise or the terms or
+10 provisions of any waiver, good cause shall exist for the purposes of a termination, cancellation, or
+11 nonrenewal when:
+12 (i) There is a failure by the new motor vehicle dealer to comply with a provision of the
+13 franchise, which provision is both reasonable and of material significance to the franchise
+14 relationship, provided that the dealer has been notified, in writing, of the failure within one hundred
+15 eighty (180) days after the manufacturer, distributor or factory branch first acquired knowledge of
+16 that failure;
+17 (ii) If the failure by the new motor vehicle dealer, as provided in paragraph (i) of this
+18 subdivision, relates to the performance of the new motor vehicle dealer in sales or service, then
+19 good cause shall be defined as the failure of the new motor vehicle dealer to comply with reasonable
+20 performance criteria established by the manufacturer, distributor or factory branch if the new motor
+21 vehicle dealer was apprised by the manufacturer, distributor or factory branch, in writing, of that
+22 failure; and:
+23 (A) The notification stated that notice was provided of failure of performance pursuant to
+24 paragraph (i) of this subdivision;
+25 (B) The new motor vehicle dealer was afforded a reasonable opportunity, for a period of
+26 not less than six (6) months, to comply with those criteria; and
+27 (C) The new motor vehicle dealer did not demonstrate substantial progress towards
+28 compliance with the manufacturer’s performance criteria during that period. ; and
+29 (D) The performance criteria employed shall:
+30 (I) Take into account the actual vehicle allocation offered to the dealer by the manufacturer,
+31 distributor, or factory branch, as well as the dealer’s inventory levels relevant to achieve any
+32 minimum performance standards to which the manufacturer, distributor, or factory branch holds
+33 the dealer accountable; provided, however, the failure to provide allocation of any products or
+34 vehicles, including by series, product line, or model, may not be considered a violation of this
+LC001602 - Page 12 of 18
+1 chapter if such failure is due to the dealer’s refusal or declination to accept product allocation
+2 offered;
+3 (II) Not be unfair, unreasonable, arbitrary or inequitable; and
+4 (III) Consider the relevant and material local and state or regional criteria, including
+5 prevailing economic conditions affecting the sales or service performance of a vehicle dealer.
+6 (3) The manufacturer, distributor or factory branch shall have the burden of proof for
+7 showing that the notice requirements have been complied with; that there was good cause for the
+8 franchise termination; cancellation or nonrenewal; and that the manufacturer, distributor or factory
+9 branch has acted in good faith.
+10 (i) Notwithstanding the terms, provisions, or conditions of any franchise, prior to the
+11 termination, cancellation, or nonrenewal of any franchise, the manufacturer, distributor or factory
+12 branch shall furnish notification of the termination, cancellation, or nonrenewal to the new motor
+13 vehicle dealer as follows:
+14 (A) In the manner described in paragraph (ii) of this subdivision; and
+15 (B) Not fewer than ninety (90) days prior to the effective date of the termination,
+16 cancellation, or nonrenewal; or
+17 (C) Not fewer than fifteen (15) days prior to the effective date of the termination,
+18 cancellation, or nonrenewal for any of the following reasons:
+19 (I) Insolvency of the new motor vehicle dealer, or the filing of any petition by, or against,
+20 the new motor vehicle dealer under any bankruptcy or receivership law;
+21 (II) Failure of the new motor vehicle dealer to conduct his customary sales and service
+22 operations during his or her customary business hours for seven (7) consecutive business days;
+23 (III) Final conviction of the new motor vehicle dealer, or any owner or operator of the
+24 dealership, of a crime which is associated with or related to, the operation of the dealership;
+25 (IV) Revocation of any license that the new motor vehicle dealer is required to have to
+26 operate a dealership; or
+27 (D) Not fewer than one hundred eighty (180) days prior to the effective date of the
+28 termination or cancellation where the manufacturer, or distributor or factory branch is discontinuing
+29 the sale of the product line.
+30 (ii) Notification under this subsection shall be in writing, shall be by certified mail or
+31 personally delivered to the new motor vehicle dealer, and shall contain:
+32 (A) A statement of intention to terminate, cancel, or not to renew the franchise;
+33 (B) A statement of the reasons for the termination, cancellation, or nonrenewal; and
+34 (C) The date on which the termination, cancellation, or nonrenewal shall take effect.
+LC001602 - Page 13 of 18
+1 (iii) Upon the involuntary or voluntary termination, nonrenewal, or cancellation of any
+2 franchise, by either the manufacturer, distributor or factory branch or the new motor vehicle dealer,
+3 notwithstanding the terms of any franchise whether entered into before or after the enactment of
+4 this chapter or any of its provisions, the new motor vehicle dealer shall be allowed fair and
+5 reasonable compensation by the manufacturer, distributor or factory branch for the following:
+6 (A) The new motor vehicle dealer’s cost, less allowances paid by the manufacturer,
+7 distributor or factory branch of each new, undamaged, unsold, and unaltered, except for dealer-
+8 installed, manufacturer-, distributor- or factory branch-authorized accessories, motor vehicle,
+9 regardless of model year purchased from the manufacturer, distributor or factory branch or another
+10 dealer of the same line or make in the ordinary course of business within twenty-four (24) months
+11 of termination, having five hundred (500) or fewer miles recorded on the odometer that is in the
+12 new motor vehicle dealer’s inventory at the time of termination, nonrenewal, or cancellation.
+13 (B) The new motor vehicle dealer’s cost of each new, unused, undamaged, and unsold part
+14 or accessory that is in the current parts catalogue, or is identical to a part or accessory in the current
+15 parts catalogue except for the number assigned to the part or accessory due to a change in the
+16 number after the purchase of the part or accessory, and that is still in the original, resalable
+17 merchandising package and in an unbroken lot, except that, in the case of sheet metal, a comparable
+18 substitute for the original package may be used.
+19 (C) The fair market value of each undamaged sign, normal wear and tear excepted, owned
+20 by the dealer that bears a trademark or trade name used or claimed by the manufacturer, distributor
+21 or factory branch that was purchased as a requirement of the manufacturer, distributor or factory
+22 branch.
+23 (D) The fair market value of all special tools, and automotive services equipment owned
+24 by the dealer that: (I) Were recommended in writing and designated as special tools and equipment;
+25 (II) Were purchased as a requirement of the manufacturer, distributor or factory branch; and (III)
+26 Are in usable and good condition except for reasonable wear and tear.
+27 (E) The cost of transporting, handling, packing, storing, and loading any property that is
+28 subject to repurchase under this section.
+29 (F) The payments above are due within sixty (60) days from the date the dealer submits an
+30 accounting to the manufacturer, distributor or factory branch of the vehicle inventory subject to
+31 repurchase, and for other items within sixty (60) days from the date the dealer submits an
+32 accounting of the other items subject to repurchase, provided, the new motor vehicle dealer has
+33 clear title (or will have clear title upon using the repurchase funds to obtain clear title) to the
+34 inventory and other items and is in a position to convey that title to the manufacturer, distributor or
+LC001602 - Page 14 of 18
+1 factory branch. If the inventory or other items are subject to a security interest, the manufacturer,
+2 distributor or factory branch, wholesaler, or franchisor may make payment jointly to the dealer and
+3 the holder of the security interest. In no event shall the payments be made later than ninety (90)
+4 days of the effective date of the termination, cancellation, or nonrenewal.
+5 (iv) In the event the termination, cancellation, or nonrenewal is involuntary and not
+6 pursuant to subsection (3)(i)(C) of this section and:
+7 (A) The new motor vehicle dealer is leasing the dealership facilities from a lessor other
+8 than the manufacturer, distributor or factory branch, the manufacturer, distributor or factory branch
+9 shall pay the new motor vehicle dealer a sum equivalent to the rent for the unexpired term of the
+10 lease or (2) two year’s rent, whichever is less; or
+11 (B) If the new motor vehicle dealer owns the facilities, the manufacturer, distributor or
+12 factory branch shall pay the new motor vehicle dealer a sum equivalent to the reasonable rental
+13 value of the facilities for two (2) years; if:
+14 (I) The new motor vehicle dealer is unable to reasonably utilize the facilities for another
+15 purpose;
+16 (II) The new motor vehicle dealer, or the manufacturer, distributor or factory branch acting
+17 as its agent, is unable to make arrangements for the cancellation or assumption of its lease
+18 obligations by another party in the case of leased facilities, or is unable to sell dealer-owned
+19 facilities; and
+20 (III) Only to the extent those facilities were required as a condition of the franchise and
+21 used to conduct sales and service operations related to the franchise product.
+22 (v) In addition to any injunctive relief and any other damages allowable by this chapter, if
+23 the manufacturer, distributor or factory branch is discontinuing the product line or fails to prove
+24 that there was good cause for the termination, cancellation, or nonrenewal, or if the manufacturer,
+25 distributor or factory branch fails to prove that the manufacturer, distributor or factory branch acted
+26 in good faith, then the manufacturer, distributor or factory branch shall pay the new motor vehicle
+27 dealer fair and reasonable compensation for the value of the dealership as an ongoing business.
+28 In addition to the other compensation described in paragraphs (iii) and (iv) above and in
+29 this section, the manufacturer, distributor or factory branch shall also reimburse the dealer for any
+30 costs incurred for facility upgrades or alterations required by the manufacturer, distributor or
+31 factory branch within two (2) years of the effective date of the termination.
+32 (vi) If a manufacturer, distributor or factory branch is discontinuing the product line and
+33 thus, as a result a franchise for the sale of motor vehicles is subject to termination, cancellation, or
+34 nonrenewal, the manufacturer, distributor or factory branch shall:
+LC001602 - Page 15 of 18
+1 (A) Authorize the dealer, at the dealer’s option, that remains a franchised dealer of the
+2 manufacturer, distributor or factory branch regardless of the discontinuation of a product line, to
+3 continue servicing and supplying parts (without prejudice to the right of the manufacturer,
+4 distributor or factory branch to also authorize other franchised dealers to provide service and parts
+5 for a discontinued product line), including services and parts pursuant to a warranty issued by the
+6 manufacturer, distributor or factory branch for any goods or services marketed by the dealer
+7 pursuant to the motor vehicle franchise for a period of not less than five (5) years from the effective
+8 date of the termination, cancellation, or nonrenewal;
+9 (B) Continue to reimburse the dealer that remains a franchised dealer of the manufacturer,
+10 distributor or factory branch regardless of the discontinuation of a product line or another
+11 franchised dealer of the manufacturer, distributor or factory branch in the area for warranty parts
+12 and service in an amount, and on terms not less favorable than, those in effect prior to the
+13 termination, cancellation, or nonrenewal;
+14 (C) The manufacturer, distributor or factory branch shall continue to supply the dealer that
+15 remains a franchised dealer of the manufacturer, distributor or factory branch regardless of the
+16 discontinuation of a product line or another franchised dealer of the manufacturer, distributor or
+17 factory branch in the area with replacement parts for any goods or services marketed by the dealer
+18 pursuant to the franchise agreement for a period of not less than five (5) years from the effective
+19 date of the termination, cancellation, or nonrenewal, at a price, and on terms not less favorable than,
+20 those in effect prior to the termination, cancellation, or nonrenewal;
+21 (vii) The requirements of this section do not apply to a termination, cancellation, or
+22 nonrenewal due to the sale of the assets or stock of the motor vehicle dealer.
+23 (D) To be entitled to facilities assistance from the manufacturer, distributor or factory
+24 branch as described above, the dealer shall have the obligation to mitigate damages by listing the
+25 dealership facilities for lease or sublease with a licensed real estate agent within thirty (30) days
+26 after the effective date of the termination of the franchise and thereafter be reasonably cooperating
+27 with such real estate agent in the performance of the agent’s duties and responsibilities. If the dealer
+28 is able to lease or sublease the dealership facilities on terms that are consistent with local zoning
+29 requirements to preserve the right to sell motor vehicles from the dealership facilities and the terms
+30 of the dealer’s lease, the dealer shall be obligated to pay the manufacturer, distributor or factory
+31 branch the net revenue received from such mitigation, but only following receipt of facilities
+32 assistance payments pursuant to this chapter, and only up to the total amount of facilities assistance
+33 payments that the dealer has received.
+34 (e) It shall be deemed a violation of this chapter for a motor vehicle dealer:
+LC001602 - Page 16 of 18
+1 (1) To require a purchaser of a new motor vehicle, as a condition of the sale and delivery
+2 thereof, to also purchase special features, equipment, parts, or accessories not desired or requested
+3 by the purchaser. This prohibition shall not apply as to special features, equipment, parts, or
+4 accessories that are already installed on the car before sale by the dealer.
+5 (2) To represent and sell as a new motor vehicle any motor vehicle that is a used motor
+6 vehicle.
+7 (3) To resort to or use any false or misleading advertisement in connection with his or her
+8 business as a motor vehicle dealer.
+9 (4) To engage in any deception or fraudulent practice in the repair of motor vehicles.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC001602
+========
+LC001602 - Page 17 of 18
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- REGULATION OF BUSINESS
+PRACTICES AMONG MOTOR VEHICLES MANUFACTURES, DISTRIBUTORS, AND
+DEALERS
+***
+1 This act would extend certain protocols applicable to motor vehicle manufacturers to their
+2 distributors and factory branches, amend definitions relative to common entities and sales, as well
+3 as prohibit any motor vehicle manufacturers, common entities, affiliates or joint ventures licensed
+4 after January 1, 2020 from directly selling to the public.
+5 This act would take effect upon passage.
+========
+LC001602
+========
+LC001602 - Page 18 of 18
+[DELETED: TATE  OF  RHODE  ISLAND S 5 a 3 T m ( ( e i d o i o b o o r t a f o o ( c m t a ( o e]
+[DELETED:  o i r ( n n a s ( w b l l ( “ b m a b o m b a m f t p d ( “ m t a o c b a n m v m l d ( “ i i a t i n l c t f a m m f ( s ( t d v m ( t p b n i f t a o m a t u i t p]
+[DELETED:  h ( d t c m f o d t ( o t o d e w ( a c a ( a ( ( a o c ( b a ( n (]
+[DELETED:  u ( i o a m ( t ( l o a ( ( ( 3 ( i a t o o s u o p a w p ( o m s b a s p o m a d p]
+[DELETED:  o a o d v ( v m z ( ( e f ( f 3 ( b o m v d t e i a a t i a i b f o u ( b c ( a v ( e n i i t l p o t m v a p a b t m ( p a ( d f o a c a e b t d a t m]
+[DELETED:  d o f b e t t s i n i t p t m t m n ( o m v t n m v d r i c w a r f r p ( t t m d o r t b r t a p o t t d c o ( c ( b ( o t b t v w o s ( o m f]
+[DELETED:  w ( d a w n m v d a p t a f o c a v ( w o c d p ( b ( a f t p S f f ( ( ( ( T s o l a n m v t a p e a m d c a t t ( i s]
+[DELETED:  a m l d t U ( m s a m s o m q o r r t t s o m ( v ( m ( e ( d a ( i o n t c w n m v d o o s a w o p a a t r o t p s b c t p a m d a b p a ( d w d]
+[DELETED:  t b o ( d t P t m d o f b e t t c s n b u w ( o t t t b t d a t o p u t b i p a ( T c w a n m v d o u a a o f ( i d i t s A m d o f b s n b d t b c p o v d v c m f t ( e n o (]
+[DELETED:  f ( ( t p ( t ( o o p i n A s c b a p r c s c t a p i n b a t t s ( l o i a a j o a p i t m d f b o n m v d a b f o p i m v ( r s ( t ( o]
+[DELETED:  g c t a o a s t o e o t f i t c w v t p ( c ( d n f ( d c f ( a a v ( s y ( ( c a p a r f t m o f b ( t i ( i t]
+[DELETED:  o f d ( ( ( ( o ( p n ( f w p i b r a o m s t t f r e t ( s g p v f ( p ( n ( T n m v d d n d s p t c ( ( d m t v]
+[DELETED:  c o ( ( C t r a m l a s o r c i p ( s f b ( t b v ( ( N f t n ( d p t t e d o t t c ( N f t f ( d p t t e d o t t c ( t ( o ( d ( o ( N f t o h e ( d p t t e d o t t t ( p ( ( (]
+[DELETED:  ( f n t c o o i n v a f a r ( T n m v d c l a p b t m d i m d o f b a m v r d o n ( o p n a t p o t p o a a t i s i o m s ( b o b ( b ( A ( s ( a r a f o i w s ( d f t d t d s a a c i]
+[DELETED:  f d t d ( I t e t t c o n i i a n p ( t s l ( f v ( p ( a i a i u t m a f t c o a o i l o f ( u ( t t d i d I t c i f o r b t m d o f ( t n]
+[DELETED:  ( m c s a s p ( p t t r o t m d f m d o f b f a g o s m b t d p d ( d o f b r o t d o a p l o a f a s i a a a o t n l f t t i e p t t t ( r d f p d t ( T r o t s d n a t a t c o n ( b d a w i r o b a p (]
+[DELETED:  ( t b a ( v ( b ( S]
+[DELETED:  T d a a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0628
+========
+LC001602
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- REGULATION OF BUSINESS
+PRACTICES AMONG MOTOR VEHICLES MANUFACTURES, DISTRIBUTORS, AND
+DEALERS
+Introduced By: Senators DiPalma, Ciccone, Britto, McKenney, and LaMountain
+Date Introduced: March 07, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-5.1-1, 31-5.1-2 and 31-5.1-4 of the General Laws in Chapter 31-
+2 5.1 entitled "Regulation of Business Practices Among Motor Vehicle Manufacturers, Distributors,
+3 and Dealers" are hereby amended to read as follows:
+4 31-5.1-1. Definitions.
+5 The following words and phrases, for the purposes of this chapter, have the following
+6 meanings:
+7 (1) “Common entity” means a person:
+8 (i) Who is directly or indirectly controlled by or has more than thirty percent (30%) of its
+9 equity interest directly or indirectly owned, beneficially or of record, through any form of
+10 ownership structure, by a manufacturer, distributor, factory branch, or an affiliate thereof; or
+11 (ii) Who has more than thirty percent (30%) of its equity interest directly or indirectly
+12 controlled or owned, beneficially or of record, through any form of ownership structure, by one or
+13 more persons who also directly or indirectly control or own, beneficially or of record, more than
+14 thirty percent (30%) of the equity interests of a manufacturer, distributor, factory branch, or an
+15 affiliate thereof.
+16 (1)(2) “Designated family member” means the spouse, child, grandchild, parent, brother,
+17 or sister of the owner of a new motor vehicle dealership who, in the case of the owner’s death, is
+18 entitled to inherit the ownership interest in the new motor vehicle dealership under the terms of the
+
+1 owner’s will, or who has been nominated in any other written instrument, or who, in the case of an
+2 incapacitated owner of a new motor vehicle dealership, has been appointed by a court as the legal
+3 representative of the new motor vehicle dealer’s property.
+4 (2)(3) “Distributor” means any person, firm, association, corporation, or trust, resident or
+5 nonresident, who in whole or in part offers for sale, sells, or distributes any new motor vehicle to
+6 new motor vehicle dealers, who maintains factory representatives or who controls any person, firm,
+7 association, corporation or trust, resident or nonresident, who in whole or in part offers for sale,
+8 sells or distributes any new motor vehicle to new motor vehicle dealers .
+9 (3)(4) “Established place of business” means a permanent, commercial building located
+10 within this state, easily accessible and open to the public at all reasonable times, and at which the
+11 business of a new motor vehicle dealer, including the display and repair of vehicles, may be
+12 lawfully carried on in accordance with the terms of all applicable building codes, zoning, and other
+13 land-use regulatory ordinances.
+14 (4)(5) “Factory branch” means a branch office maintained by a manufacturer for the
+15 purpose of selling, or offering for sale, vehicles to a distributor or new motor vehicle dealer, or for
+16 directing or supervising in whole or in part factory or distributor representatives.
+17 (5)(6) “Franchise” means the agreement or contract between any new motor vehicle
+18 manufacturer, written or otherwise, and any new motor vehicle dealer which purports to fix the
+19 legal rights and liabilities of the parties to that agreement or contract, and pursuant to which the
+20 dealer purchases and resells the franchise product or leases or rents the dealership premises.
+21 (6)(7) “Fraud” includes, in addition to its normal legal connotation, the following: a
+22 misrepresentation in any manner, whether intentionally false or due to gross negligence, of a
+23 material fact; a promise or representation not made honestly and in good faith; and an intentional
+24 failure to disclose a material fact.
+25 (7)(8) “Good faith” means honesty in fact and the observation of reasonable commercial
+26 standards of fair dealing in the trade as defined and interpreted in § 6A-2-103(1)(b).
+27 (8)(9) “Manufacturer” means any person, partnership, firm, association, corporation, or
+28 trust, resident or nonresident, who manufactures or assembles new motor vehicles, or imports for
+29 distribution through distributors of motor vehicles, or any partnership, firm, association, joint
+30 venture, corporation, or trust, resident or nonresident, which is a common entity controlled by the
+31 manufacturer.
+32 (9)(10) “Motor vehicle” means every vehicle intended primarily for use and operation on
+33 the public highways which is self-propelled, regardless of the size or type of motor or source of
+34 power, but not including farm tractors and other machines and tools used in the production,
+LC001602 - Page 2 of 18
+
+1 harvesting, and care of farm products.
+2 (10)(11) “New motor vehicle” means a vehicle which has been sold to a new motor vehicle
+3 dealer and which has not been used for other than demonstration purposes and on which the original
+4 title has not been issued from the new motor vehicle dealer. that has never been the subject of a
+5 completed, successful, or conditional sale that was subsequently approved other than between new
+6 motor vehicle dealers, or between a manufacturer and a new motor vehicle dealer of the same
+7 franchise. The term “motor vehicle” also includes any engine, transmission, or rear axle, regardless
+8 of whether it is attached to a vehicle chassis, that is manufactured for installation in any motor-
+9 driven vehicle with a gross vehicle weight rating of more than sixteen thousand (16,000) pounds
+10 that is required to be registered.
+11 (11)(12) “New motor vehicle dealer” means any person engaged in the business of selling,
+12 offering to sell, soliciting, or advertising the sale of new motor vehicles and who holds, or held at
+13 the time a cause of action under this chapter accrued, a valid sales and service agreement, franchise,
+14 or contract, granted by the manufacturer or distributor for the retail sale of that manufacturer’s or
+15 distributor’s new motor vehicles. “New motor vehicle dealer” includes any person who engages
+16 exclusively in the repair of motor vehicles, if such repairs are performed as part of a manufacturer’s
+17 warrant.
+18 (12)(13) “Person” means a natural person, corporation, partnership, trust, or other entity,
+19 and, in case of an entity, it includes any other entity in which it has a majority interest or effectively
+20 controls, as well as the individual officers, directors, and other persons in active control of the
+21 activities of that entity.
+22 (13)(14) “Relevant market area” means the area within a radius of twenty (20) miles around
+23 an existing dealer or the area of responsibility defined in the franchise, whichever is greater.
+24 (15) “Sell”, “selling”, “sold”, “exchange”, “retail sales”, and “leases” includes:
+25 (i) Accepting a deposit or receiving a payment for the retail purchase, lease, or other use of
+26 a motor vehicle, but does not include facilitating a motor vehicle dealer’s acceptance of a deposit
+27 or receipt of a payment from a consumer or receiving payment under a retail installment sale
+28 contract;
+29 (ii) Accepting a reservation from a retail consumer for the purchase or lease of a vehicle,
+30 but does not include a manufacturer, distributor or factory branch accepting a reservation that it
+31 assigns to a licensed motor vehicle dealer within this state authorized to sell that make and model;
+32 (iii) Setting the retail price for the purchase, lease, or other use of a motor vehicle, but does
+33 not include setting a manufacturer’s suggested retail price;
+34 (iv) Offering or negotiating with a retail consumer terms for the purchase, lease, or other
+LC001602 - Page 3 of 18
+
+1 use of a motor vehicle;
+2 (v) Offering or negotiating with a retail consumer a value or a motor vehicle being traded
+3 in as part of the purchase, lease, or other use of a motor vehicle, but does not include a website or
+4 other means of electronic communication that identifies to a consumer a conditional trade-in value
+5 and that contains language informing the consumer that the trade-in value is not binding on any
+6 motor vehicle dealer;
+7 (vi) Any transaction where the title of a motor vehicle or a used motor vehicle is transferred
+8 to a retail consumer;
+9 (vii) Any retail lease transaction where a retail consumer leases a vehicle for a period of at
+10 least twelve (12) months, but does not include administering lease agreements, taking assignments
+11 of leases, performing required actions pursuant to such lease, or receiving payments under a lease
+12 agreement that was originated by a motor vehicle dealer;
+13 (viii) Displaying sample vehicles, offering or coordinating test drives to customers;
+14 (ix) Arranging the pickup or delivery of a newly purchased new motor vehicle; or
+15 (x) Compensating employees, agents or contractors to engage in these activities.
+16 31-5.1-2. Application of chapter.
+17 (a) Any person who engages directly or indirectly in purposeful contacts within this state
+18 in connection with the offering or advertising for sale of, or has business dealings with respect to,
+19 a motor vehicle within the state shall be subject to the provisions of this chapter and shall be subject
+20 to the jurisdiction of the courts of this state, upon service of process in accordance with the
+21 provisions of the general laws.
+22 (b) Any parent, subsidiary, or common entity of a manufacturer, distributor, factory branch,
+23 or other entity, which by contractual arrangement or otherwise pursuant to the direction of the
+24 manufacturer, engages in the distribution in this state of line-make motor vehicles manufactured or
+25 substantially manufactured by such manufacturer, distributor, or factory branch shall be deemed to
+26 be the agent of the manufacturer, distributor, or factory branch for the purposes of any franchise
+27 agreement entered into between such agent and a motor vehicle dealer engaged in business in this
+28 state and shall be bound by the terms and provisions of such franchise agreement as if it were the
+29 principal. A manufacturer, distributor, or factory branch of line-make motor vehicles which are
+30 offered for sale or lease in this state under any franchise agreement executed by an agent of such
+31 manufacturer, distributor, or factory branch is bound by the terms and provisions of such franchise
+32 agreement as if it and not the agent had executed the franchise agreement. Said manufacturer,
+33 distributor, or factory branch shall be subject to all of the restrictions, limitations, remedies, and
+34 penalties of this chapter related to such franchise agreement, the performance thereof, or any cause
+LC001602 - Page 4 of 18
+
+1 of action pertaining thereto. The agency relationship established in this section is not intended to
+2 apply to a person or entity that engages in the distribution of motor vehicles in this state under its
+3 own brand name which are substantially manufactured by another person or entity, provided the
+4 distributing person or entity is substantially engaged in the manufacture of other line-make motor
+5 vehicles and is licensed in this state as a manufacturer.
+6 (c) Notwithstanding any provisions of any law, rule or regulation to the contrary, a motor
+7 vehicle dealer licensed pursuant to chapter 5 of title 31 prior to January 1, 2020 and exclusively
+8 manufacturing zero-emission vehicles may buy from and sell, offer to sell, or deal to a consumer a
+9 zero-emission vehicle; provided that, the dealer owns or operates, directly or indirectly:
+10 (i) No more than three (3) places of business in the state; and
+11 (ii) At least one retail facility for the servicing, including warranty servicing, of zero
+12 emission vehicles sold, offered for sale, or otherwise distributed in this state. This facility shall be
+13 furnished with all the equipment required to service a zero-emission vehicle.
+14 (d) A franchisor shall not be required to establish or operate a place of business at a retail
+15 facility for the servicing of zero emission vehicles.
+16 31-5.1-4. Violations.
+17 (a) It shall be deemed a violation of this chapter for any manufacturer, distributor, factory
+18 branch, or motor vehicle dealer to engage in any action that is arbitrary, in bad faith, or
+19 unconscionable and that causes damage to any of the parties involved or to the public.
+20 (b) It shall be deemed a violation of this chapter for a manufacturer, distributor, factory
+21 branch, or officer, agent, or other representative of a manufacturer, distributor or factory branch to
+22 coerce, or attempt to coerce, any motor vehicle dealer:
+23 (1) To order or accept delivery of any motor vehicle or vehicles, equipment, parts, or
+24 accessories for them, or any other commodity or commodities that the motor vehicle dealer has not
+25 voluntarily ordered.
+26 (2) To order or accept delivery of any motor vehicle with special features, accessories, or
+27 equipment not included in the list price of that motor vehicle as publicly advertised by the
+28 manufacturer, distributor or factory branch of the vehicle.
+29 (3) To participate monetarily in an advertising campaign or contest, or to purchase any
+30 promotional materials, or training materials, showroom, or other display decorations, or materials
+31 at the expense of the new motor vehicle dealership.
+32 (4) To enter into any agreement with the manufacturer, distributor or factory branch or to
+33 do any other act prejudicial to the new motor vehicle dealer by threatening to terminate or cancel a
+34 franchise or any contractual agreement existing between the dealer and the manufacturer,
+LC001602 - Page 5 of 18
+
+1 distributor or factory branch; except that this subdivision is not intended to preclude the
+2 manufacturer, or distributor, or factory branch from insisting on compliance with the reasonable
+3 terms or provisions of the franchise or other contractual agreement. Notice in good faith to any new
+4 motor vehicle dealer of the new motor vehicle dealer’s violation of those terms or provisions shall
+5 not constitute a violation of the chapter.
+6 (5) To refrain from participation in the management of, investment in, or acquisition of any
+7 other line of new motor vehicle or related products. This subdivision does not apply unless the new
+8 motor vehicle dealer maintains a reasonable line of credit for each make or line of new motor
+9 vehicles, the new motor vehicle dealer remains in compliance with any reasonable facilities
+10 requirements of the manufacturer, distributor or factory branch; and no change is made in the
+11 principal management of the new motor vehicle dealer.
+12 (6) To assent to a release, assignment, novation, waiver, or estoppel in connection with the
+13 transfer or voluntary termination of a franchise, or that would relieve any person from the liability
+14 to be imposed by this law; or to require any controversy between a new motor vehicle dealer and a
+15 manufacturer, distributor, or representative to be referred to any person other than the duly
+16 constituted courts of this state or of the United States of America, or to the department of revenue
+17 of this state, if that referral would be binding upon the new motor vehicle dealer.
+18 (7) To order for any person any parts, accessories, equipment, machinery, tools, or any
+19 commodities.
+20 (c) It shall be deemed a violation of this chapter for a manufacturer, distributor, factory
+21 branch, or officer, agent, or other representative:
+22 (1) To refuse to deliver in reasonable quantities and within a reasonable time after receipt
+23 of the dealer’s order, to any motor vehicle dealer having a franchise or contractual arrangement for
+24 the retail sale of new motor vehicles sold or distributed by the manufacturer, distributor or factory
+25 branch any motor vehicles covered by the franchise or contract, specifically publicly advertised by
+26 the manufacturer to be available for immediate delivery. However, the failure to deliver any motor
+27 vehicle shall not be considered a violation of this chapter if that failure is due to an act of God,
+28 work stoppage, or delay due to a strike or labor difficulty, shortage of materials, a freight embargo,
+29 or other cause over which the manufacturer, distributor, factory branch, or wholesaler, its agent,
+30 shall have no control.
+31 (2) To refuse to deliver, or otherwise deny, to any motor vehicle dealer having a franchise
+32 or contractual arrangement for the retail sale of new motor vehicles sold or distributed by the
+33 manufacturer any particular new motor vehicle model made or distributed by the manufacturer or
+34 factory branch under the name of the division of the manufacturer, distributor or factory branch of
+LC001602 - Page 6 of 18
+
+1 which the dealer is an authorized franchise.
+2 (3) It shall be deemed a prima facie violation of this chapter for any automotive vehicle
+3 division manufacturer, distributor or factory branch to require any separate franchise or contractual
+4 arrangement with any new motor vehicle dealer already a party to a franchise or contractual
+5 arrangement with that automotive vehicle division for the retail sale of any particular new motor
+6 vehicle model made or distributed by that division.
+7 (4) To coerce, or attempt to coerce, any motor vehicle dealer to enter into any agreement
+8 with the manufacturer, distributor, factory branch or their officers, agents, or other representatives,
+9 or to do any other act prejudicial to the dealer, by threatening to cancel any franchise or any
+10 contractual agreement existing between the manufacturer, distributor or factory branch and the
+11 dealer. Notice in good faith to any motor vehicle dealer of the dealer’s violation of any terms or
+12 provisions of the franchise or contractual agreement shall not constitute a violation of this chapter.
+13 (5) To resort to or use any false or misleading advertisement in connection with his or her
+14 business as a manufacturer, distributor or factory branch an officer, agent, or other representative.
+15 (6) To sell or lease any new motor vehicle to, or through, any new motor vehicle dealer at
+16 a lower actual price therefore than the actual price offered to any other new motor vehicle dealer
+17 for the same model vehicle similarly equipped or to utilize any device, including, but not limited
+18 to, sales promotion plans or programs, that result in a lesser actual price. The provisions of this
+19 paragraph shall not apply to sales to a new motor vehicle dealer for resale to any unit of the United
+20 States government or to the state or any of its political subdivisions. A manufacturer, distributor or
+21 factory branch may not reduce the price of a motor vehicle charged to a dealer or provide different
+22 financing terms to a dealer in exchange for the dealer’s agreement to:
+23 (i) Maintain an exclusive sales or service facility;
+24 (ii) Build or alter a sales or service facility; or
+25 (iii) Participate in a floor plan or other financing.
+26 (7) To sell or lease any new motor vehicle to any person, except a manufacturer’s,
+27 distributor or factory branch employee, at a lower actual price than the actual price offered and
+28 charged to a new motor vehicle dealer for the same model vehicle similarly equipped or to utilize
+29 any device which results in a lesser actual price. The provisions of this paragraph shall not apply
+30 to sales to a new motor vehicle dealer for resale to any unit of the United States government, or to
+31 the state or any of its political subdivisions.
+32 (8) To offer in connection with the sale of any new motor vehicle or vehicles, directly or
+33 indirectly, to a fleet purchaser, within or without this state, terms, discounts, refunds, or other
+34 similar types of inducements to that purchaser without making the same offer or offers available to
+LC001602 - Page 7 of 18
+
+1 all of its new motor vehicles dealers in this state. No manufacturer, distributor or factory branch
+2 may impose or enforce any restrictions against new motor vehicle dealers in this state or their
+3 leasing, rental, or fleet divisions or subsidiaries that are not imposed or enforced against any other
+4 direct or indirect purchaser from the manufacturer, distributor or factory branch. The provisions of
+5 this paragraph shall not apply to sales to a new motor vehicle dealer for resale to any unit of the
+6 United States government, or to the state or any of its political subdivisions.
+7 (9) To use or consider the performance of a motor vehicle dealer relating to the sale of the
+8 manufacturer’s, distributor's or factory branch's vehicles or the motor vehicle dealer’s ability to
+9 satisfy any minimum sales or market share quota or responsibility relating to the sale of the
+10 manufacturer’s, distributor's or factory branch's new vehicles in determining:
+11 (i) The motor vehicle dealer’s eligibility to purchase program, certified, or other used motor
+12 vehicles from the manufacturer, distributor or factory branch;
+13 (ii) The volume, type, or model of program, certified, or other used motor vehicles that a
+14 motor vehicle dealer is eligible to purchase from the manufacturer, distributor or factory branch;
+15 (iii) The price of any program, certified, or other used motor vehicle that the dealer is
+16 eligible to purchase from the manufacturer, distributor or factory branch; or
+17 (iv) The availability or amount of any discount, credit, rebate, or sales incentive that the
+18 dealer is eligible to receive from the manufacturer, distributor or factory branch for the purchase of
+19 any program, certified, or other used motor vehicle offered for sale by the manufacturer.
+20 (10) To offer to sell or to sell parts or accessories to any new motor vehicle dealer for use
+21 in the dealer’s own business for the purpose of repairing or replacing the same parts or accessories
+22 or a comparable part or accessory, at a lower actual price than the actual price charged to any other
+23 new motor vehicle dealer for similar parts or accessories to use in the dealer’s own business. In
+24 those cases where new motor vehicle dealers operate or serve as wholesalers of parts and
+25 accessories to retail outlets, these provisions shall be construed to prevent a manufacturer,
+26 distributor, factory branch or its agents, from selling to a new motor vehicle dealer who operates
+27 and services as a wholesaler of parts and accessories, any parts and accessories that may be ordered
+28 by that new motor vehicle dealer for resale to retail outlets at a lower actual price than the actual
+29 price charged a new motor vehicle dealer who does not operate or serve as a wholesaler of parts
+30 and accessories.
+31 (11) To prevent, or attempt to prevent, by contract or otherwise, any new motor vehicle
+32 dealer from changing the capital structure of his or her dealership or the means by which, or through
+33 which the dealer finances the operation of his or her dealership. However, the new motor vehicle
+34 dealer shall at all times meet any reasonable capital standards agreed to between the dealership and
+LC001602 - Page 8 of 18
+
+1 the manufacturer, distributor or factory branch; provided, that any change in the capital structure
+2 by the new motor vehicle dealer does not result in a change in the executive management control
+3 of the dealership.
+4 (12) To prevent, or attempt to prevent, by contract or otherwise, any new motor vehicle
+5 dealer, or any officer, partner, or stockholder of any new motor vehicle dealer, from selling or
+6 transferring any part of the interest of any of them to any other person or persons or party or parties.
+7 Provided, however, that no dealer, officer, partner, or stockholder shall have the right to sell,
+8 transfer, or assign the franchise or power of management or control without the consent of the
+9 manufacturer, distributor or factory branch except that the consent shall not be unreasonably
+10 withheld.
+11 (13) To obtain money, goods, services, anything of value, or any other benefit from any
+12 other person with whom the new motor vehicle dealer does business, on account of, or in relation
+13 to, the transactions between the dealer and that other person, unless that benefit is promptly
+14 accounted for and transmitted to the new motor vehicle dealer.
+15 (14) To compete with a new motor vehicle dealer operating under an agreement or
+16 franchise from the manufacturer, distributor or factory branch in the state of Rhode Island,:
+17 (i) through Through the ownership, operation, or control of any new motor vehicle dealers
+18 in this state, or by participation in the ownership, operation, or control of any new motor vehicle
+19 dealer in this state. A manufacturer, distributor or factory branch shall not be deemed to be
+20 competing when operating, controlling, or owning a dealership, either temporarily for a reasonable
+21 period, but in any case not to exceed one year, which one-year (1) period may be extended for a
+22 one-time, additional period of up to six (6) months upon application to, and approval by, the motor
+23 vehicle dealers license and hearing board, which approval shall be subject to the manufacturer,
+24 distributor or factory branch demonstrating the need for this extension, and with other new motor
+25 vehicle dealers of the same line or make being given notice and an opportunity to be heard in
+26 connection with said application, or in a bona fide relationship in which an independent person had
+27 made a significant investment subject to loss in the dealership and can reasonably expect to acquire
+28 full ownership of the dealership on reasonable terms and conditions within a reasonable period of
+29 time; or
+30 (ii) By selling directly or indirectly new motor vehicles to any retail consumer in the state
+31 except through a new motor vehicle dealer holding a franchise for the line-make that includes the
+32 new motor vehicle. The provisions of this subsection shall not preclude a manufacturer, distributor,
+33 or factory branch from:
+34 (A) Selling new vehicles to its employees, family members of employees, retirees and
+LC001602 - Page 9 of 18
+
+1 family members of retirees, not-for-profit organizations, or the federal, state or local governments;
+2 (B) Providing information to a consumer for the purpose of marketing; or
+3 (C) Displaying vehicles or allowing test drives for promotional purposes at events where
+4 the manufacturer, distributor, or factory branch is a sponsor and the vehicles are not for sale to the
+5 public at the event.
+6 (15) To refuse to disclose to any new motor vehicle dealer, handling the same line or make,
+7 the manner and mode of distribution of that line or make within the relevant market area.
+8 (16) To increase prices of new motor vehicles that the new motor vehicle dealer had
+9 ordered for private retail consumers prior to the new motor vehicle dealer’s receipt of the written,
+10 official price increase notification. A sales contract signed by a private retail consumer shall
+11 constitute evidence of an order, provided that the vehicle is in fact delivered to that customer. In
+12 the event of manufacturer price reductions or cash rebates paid to the new motor vehicle dealer, the
+13 amount of any reduction or rebate received by a new motor vehicle dealer shall be passed on to the
+14 private retail consumer by the new motor vehicle dealer. Price reductions shall apply to all vehicles
+15 in the dealer’s inventory that were subject to the price reduction. Price differences applicable to
+16 new model or series motor vehicles at the time of the introduction of new models or series shall not
+17 be considered a price increase or price decrease. Price changes caused by either: (i) The addition to
+18 a motor vehicle of required or optional equipment; (ii) Revaluation of the United States dollar, in
+19 the case of foreign-make vehicles or components; or (iii) An increase in transportation charges due
+20 to increased rates imposed by common carriers, shall not be subject to the provisions of this
+21 subdivision.
+22 (17) To release to any outside party, except under subpoena or as otherwise required by
+23 law, or in an administrative, judicial, or arbitration proceeding involving the manufacturer,
+24 distributor, factory branch, or new motor vehicle dealer, any business, financial, or personal
+25 information that may be, from time to time, provided by the new motor vehicle dealer to the
+26 manufacturer, distributor or factory branch without the express written consent of the new motor
+27 vehicle dealer.
+28 (18) To unfairly discriminate among its new motor vehicle dealers with respect to warranty
+29 reimbursement, or any program that provides assistance to its dealers, including internet listings;
+30 sales leads; warranty policy adjustments; marketing programs; and dealer recognition programs.
+31 (19) To unreasonably withhold consent to the sale, transfer, or exchange of the franchise
+32 to a qualified buyer capable of being licensed as a new motor vehicle dealer in this state.
+33 (20) To fail to respond, in writing, to a request for consent as specified in subdivision (19)
+34 of this subsection within sixty (60) days of the receipt of a written request on the forms, if any,
+LC001602 - Page 10 of 18
+
+1 generally utilized by the manufacturer or distributor, or factory branch for those purposes and
+2 containing the information required therein. The failure to respond shall be deemed to be a consent
+3 to the request. A manufacturer, distributor or factory branch may not impose a condition on the
+4 approval of a sale, transfer, or exchange of the franchise if the condition would violate the
+5 provisions of this chapter if imposed on an existing dealer.
+6 (21) To unfairly prevent a new motor vehicle dealer from receiving fair and reasonable
+7 compensation for the value of the new motor vehicle dealership.
+8 (22) To require that a new motor vehicle dealer execute a written franchise agreement that
+9 does not contain substantially the same provisions as the franchise agreement being offered to other
+10 new motor vehicle dealers handling the same line or make. In no instance shall the term of any
+11 franchise agreement be of a duration of less than three (3) years.
+12 (23) To require that a new motor vehicle dealer provide exclusive facilities, personnel, or
+13 display space taking into consideration changing market conditions, or that a dealer execute a site
+14 control agreement giving a manufacturer, distributor or factory branch control over the dealer’s
+15 facilities.
+16 (24) To require that a dealer expand, alter, improve, renovate, or remodel facilities without
+17 a guarantee of a sufficient supply of new motor vehicles to justify that expansion or to require that
+18 a dealer expand facilities to a greater degree than is necessary to sell and service the number of
+19 vehicles that the dealer sold and serviced in the most recent calendar year.
+20 (25) To prevent a dealer from adjusting his or her facilities to permit a relocation of office
+21 space, showroom space, and service facilities so long as the relocation is within five hundred (500)
+22 yards of the present location.
+23 (26) To engage in any predatory practice against a new motor vehicle dealer.
+24 (27) To prevent, prohibit, or coerce any new motor vehicle dealer from charging any
+25 consumer any fee allowed to be charged by the dealer under Rhode Island law or regulation except
+26 as related to eligible participants under a military discount program in which the dealer voluntarily
+27 participates and receives financial compensation from the manufacturer, distributor or factory
+28 branch or distributor, to the extent that such a program is not offered to the general public.
+29 (d) It shall be a violation of this chapter for a manufacturer, distributor or factory branch to
+30 terminate, cancel, or fail to renew the franchise of a new motor vehicle dealer except as provided
+31 in this subsection:
+32 (1) Notwithstanding the terms, provisions, or conditions of any franchise, whether entered
+33 into before or after the enactment of this chapter or any of its provisions, or notwithstanding the
+34 terms or provisions of any waiver, whether entered into before or after the enactment of this chapter
+LC001602 - Page 11 of 18
+
+1 or any of its provisions, no manufacturer, distributor or factory branch shall cancel, terminate, or
+2 fail to renew any franchise with a licensed new motor vehicle dealer unless the manufacturer,
+3 distributor or factory branch has:
+4 (i) Satisfied the notice requirement of this subsection;
+5 (ii) Has good cause for the cancellation, termination, or nonrenewal;
+6 (iii) Has not committed any violations set forth in subsection (b) of this section; and
+7 (iv) Has acted in good faith as defined in this chapter and has complied with all provisions
+8 of this chapter.
+9 (2) Notwithstanding the terms, provisions, or conditions of any franchise or the terms or
+10 provisions of any waiver, good cause shall exist for the purposes of a termination, cancellation, or
+11 nonrenewal when:
+12 (i) There is a failure by the new motor vehicle dealer to comply with a provision of the
+13 franchise, which provision is both reasonable and of material significance to the franchise
+14 relationship, provided that the dealer has been notified, in writing, of the failure within one hundred
+15 eighty (180) days after the manufacturer, distributor or factory branch first acquired knowledge of
+16 that failure;
+17 (ii) If the failure by the new motor vehicle dealer, as provided in paragraph (i) of this
+18 subdivision, relates to the performance of the new motor vehicle dealer in sales or service, then
+19 good cause shall be defined as the failure of the new motor vehicle dealer to comply with reasonable
+20 performance criteria established by the manufacturer, distributor or factory branch if the new motor
+21 vehicle dealer was apprised by the manufacturer, distributor or factory branch, in writing, of that
+22 failure; and:
+23 (A) The notification stated that notice was provided of failure of performance pursuant to
+24 paragraph (i) of this subdivision;
+25 (B) The new motor vehicle dealer was afforded a reasonable opportunity, for a period of
+26 not less than six (6) months, to comply with those criteria; and
+27 (C) The new motor vehicle dealer did not demonstrate substantial progress towards
+28 compliance with the manufacturer’s performance criteria during that period. ; and
+29 (D) The performance criteria employed shall:
+30 (I) Take into account the actual vehicle allocation offered to the dealer by the manufacturer,
+31 distributor, or factory branch, as well as the dealer’s inventory levels relevant to achieve any
+32 minimum performance standards to which the manufacturer, distributor, or factory branch holds
+33 the dealer accountable; provided, however, the failure to provide allocation of any products or
+34 vehicles, including by series, product line, or model, may not be considered a violation of this
+LC001602 - Page 12 of 18
+
+1 chapter if such failure is due to the dealer’s refusal or declination to accept product allocation
+2 offered;
+3 (II) Not be unfair, unreasonable, arbitrary or inequitable; and
+4 (III) Consider the relevant and material local and state or regional criteria, including
+5 prevailing economic conditions affecting the sales or service performance of a vehicle dealer.
+6 (3) The manufacturer, distributor or factory branch shall have the burden of proof for
+7 showing that the notice requirements have been complied with; that there was good cause for the
+8 franchise termination; cancellation or nonrenewal; and that the manufacturer, distributor or factory
+9 branch has acted in good faith.
+10 (i) Notwithstanding the terms, provisions, or conditions of any franchise, prior to the
+11 termination, cancellation, or nonrenewal of any franchise, the manufacturer, distributor or factory
+12 branch shall furnish notification of the termination, cancellation, or nonrenewal to the new motor
+13 vehicle dealer as follows:
+14 (A) In the manner described in paragraph (ii) of this subdivision; and
+15 (B) Not fewer than ninety (90) days prior to the effective date of the termination,
+16 cancellation, or nonrenewal; or
+17 (C) Not fewer than fifteen (15) days prior to the effective date of the termination,
+18 cancellation, or nonrenewal for any of the following reasons:
+19 (I) Insolvency of the new motor vehicle dealer, or the filing of any petition by, or against,
+20 the new motor vehicle dealer under any bankruptcy or receivership law;
+21 (II) Failure of the new motor vehicle dealer to conduct his customary sales and service
+22 operations during his or her customary business hours for seven (7) consecutive business days;
+23 (III) Final conviction of the new motor vehicle dealer, or any owner or operator of the
+24 dealership, of a crime which is associated with or related to, the operation of the dealership;
+25 (IV) Revocation of any license that the new motor vehicle dealer is required to have to
+26 operate a dealership; or
+27 (D) Not fewer than one hundred eighty (180) days prior to the effective date of the
+28 termination or cancellation where the manufacturer, or distributor or factory branch is discontinuing
+29 the sale of the product line.
+30 (ii) Notification under this subsection shall be in writing, shall be by certified mail or
+31 personally delivered to the new motor vehicle dealer, and shall contain:
+32 (A) A statement of intention to terminate, cancel, or not to renew the franchise;
+33 (B) A statement of the reasons for the termination, cancellation, or nonrenewal; and
+34 (C) The date on which the termination, cancellation, or nonrenewal shall take effect.
+LC001602 - Page 13 of 18
+
+1 (iii) Upon the involuntary or voluntary termination, nonrenewal, or cancellation of any
+2 franchise, by either the manufacturer, distributor or factory branch or the new motor vehicle dealer,
+3 notwithstanding the terms of any franchise whether entered into before or after the enactment of
+4 this chapter or any of its provisions, the new motor vehicle dealer shall be allowed fair and
+5 reasonable compensation by the manufacturer, distributor or factory branch for the following:
+6 (A) The new motor vehicle dealer’s cost, less allowances paid by the manufacturer,
+7 distributor or factory branch of each new, undamaged, unsold, and unaltered, except for dealer-
+8 installed, manufacturer-, distributor- or factory branch-authorized accessories, motor vehicle,
+9 regardless of model year purchased from the manufacturer, distributor or factory branch or another
+10 dealer of the same line or make in the ordinary course of business within twenty-four (24) months
+11 of termination, having five hundred (500) or fewer miles recorded on the odometer that is in the
+12 new motor vehicle dealer’s inventory at the time of termination, nonrenewal, or cancellation.
+13 (B) The new motor vehicle dealer’s cost of each new, unused, undamaged, and unsold part
+14 or accessory that is in the current parts catalogue, or is identical to a part or accessory in the current
+15 parts catalogue except for the number assigned to the part or accessory due to a change in the
+16 number after the purchase of the part or accessory, and that is still in the original, resalable
+17 merchandising package and in an unbroken lot, except that, in the case of sheet metal, a comparable
+18 substitute for the original package may be used.
+19 (C) The fair market value of each undamaged sign, normal wear and tear excepted, owned
+20 by the dealer that bears a trademark or trade name used or claimed by the manufacturer, distributor
+21 or factory branch that was purchased as a requirement of the manufacturer, distributor or factory
+22 branch.
+23 (D) The fair market value of all special tools, and automotive services equipment owned
+24 by the dealer that: (I) Were recommended in writing and designated as special tools and equipment;
+25 (II) Were purchased as a requirement of the manufacturer, distributor or factory branch; and (III)
+26 Are in usable and good condition except for reasonable wear and tear.
+27 (E) The cost of transporting, handling, packing, storing, and loading any property that is
+28 subject to repurchase under this section.
+29 (F) The payments above are due within sixty (60) days from the date the dealer submits an
+30 accounting to the manufacturer, distributor or factory branch of the vehicle inventory subject to
+31 repurchase, and for other items within sixty (60) days from the date the dealer submits an
+32 accounting of the other items subject to repurchase, provided, the new motor vehicle dealer has
+33 clear title (or will have clear title upon using the repurchase funds to obtain clear title) to the
+34 inventory and other items and is in a position to convey that title to the manufacturer, distributor or
+LC001602 - Page 14 of 18
+
+1 factory branch. If the inventory or other items are subject to a security interest, the manufacturer,
+2 distributor or factory branch, wholesaler, or franchisor may make payment jointly to the dealer and
+3 the holder of the security interest. In no event shall the payments be made later than ninety (90)
+4 days of the effective date of the termination, cancellation, or nonrenewal.
+5 (iv) In the event the termination, cancellation, or nonrenewal is involuntary and not
+6 pursuant to subsection (3)(i)(C) of this section and:
+7 (A) The new motor vehicle dealer is leasing the dealership facilities from a lessor other
+8 than the manufacturer, distributor or factory branch, the manufacturer, distributor or factory branch
+9 shall pay the new motor vehicle dealer a sum equivalent to the rent for the unexpired term of the
+10 lease or (2) two year’s rent, whichever is less; or
+11 (B) If the new motor vehicle dealer owns the facilities, the manufacturer, distributor or
+12 factory branch shall pay the new motor vehicle dealer a sum equivalent to the reasonable rental
+13 value of the facilities for two (2) years; if:
+14 (I) The new motor vehicle dealer is unable to reasonably utilize the facilities for another
+15 purpose;
+16 (II) The new motor vehicle dealer, or the manufacturer, distributor or factory branch acting
+17 as its agent, is unable to make arrangements for the cancellation or assumption of its lease
+18 obligations by another party in the case of leased facilities, or is unable to sell dealer-owned
+19 facilities; and
+20 (III) Only to the extent those facilities were required as a condition of the franchise and
+21 used to conduct sales and service operations related to the franchise product.
+22 (v) In addition to any injunctive relief and any other damages allowable by this chapter, if
+23 the manufacturer, distributor or factory branch is discontinuing the product line or fails to prove
+24 that there was good cause for the termination, cancellation, or nonrenewal, or if the manufacturer,
+25 distributor or factory branch fails to prove that the manufacturer, distributor or factory branch acted
+26 in good faith, then the manufacturer, distributor or factory branch shall pay the new motor vehicle
+27 dealer fair and reasonable compensation for the value of the dealership as an ongoing business.
+28 In addition to the other compensation described in paragraphs (iii) and (iv) above and in
+29 this section, the manufacturer, distributor or factory branch shall also reimburse the dealer for any
+30 costs incurred for facility upgrades or alterations required by the manufacturer, distributor or
+31 factory branch within two (2) years of the effective date of the termination.
+32 (vi) If a manufacturer, distributor or factory branch is discontinuing the product line and
+33 thus, as a result a franchise for the sale of motor vehicles is subject to termination, cancellation, or
+34 nonrenewal, the manufacturer, distributor or factory branch shall:
+LC001602 - Page 15 of 18
+
+1 (A) Authorize the dealer, at the dealer’s option, that remains a franchised dealer of the
+2 manufacturer, distributor or factory branch regardless of the discontinuation of a product line, to
+3 continue servicing and supplying parts (without prejudice to the right of the manufacturer,
+4 distributor or factory branch to also authorize other franchised dealers to provide service and parts
+5 for a discontinued product line), including services and parts pursuant to a warranty issued by the
+6 manufacturer, distributor or factory branch for any goods or services marketed by the dealer
+7 pursuant to the motor vehicle franchise for a period of not less than five (5) years from the effective
+8 date of the termination, cancellation, or nonrenewal;
+9 (B) Continue to reimburse the dealer that remains a franchised dealer of the manufacturer,
+10 distributor or factory branch regardless of the discontinuation of a product line or another
+11 franchised dealer of the manufacturer, distributor or factory branch in the area for warranty parts
+12 and service in an amount, and on terms not less favorable than, those in effect prior to the
+13 termination, cancellation, or nonrenewal;
+14 (C) The manufacturer, distributor or factory branch shall continue to supply the dealer that
+15 remains a franchised dealer of the manufacturer, distributor or factory branch regardless of the
+16 discontinuation of a product line or another franchised dealer of the manufacturer, distributor or
+17 factory branch in the area with replacement parts for any goods or services marketed by the dealer
+18 pursuant to the franchise agreement for a period of not less than five (5) years from the effective
+19 date of the termination, cancellation, or nonrenewal, at a price, and on terms not less favorable than,
+20 those in effect prior to the termination, cancellation, or nonrenewal;
+21 (vii) The requirements of this section do not apply to a termination, cancellation, or
+22 nonrenewal due to the sale of the assets or stock of the motor vehicle dealer.
+23 (D) To be entitled to facilities assistance from the manufacturer, distributor or factory
+24 branch as described above, the dealer shall have the obligation to mitigate damages by listing the
+25 dealership facilities for lease or sublease with a licensed real estate agent within thirty (30) days
+26 after the effective date of the termination of the franchise and thereafter be reasonably cooperating
+27 with such real estate agent in the performance of the agent’s duties and responsibilities. If the dealer
+28 is able to lease or sublease the dealership facilities on terms that are consistent with local zoning
+29 requirements to preserve the right to sell motor vehicles from the dealership facilities and the terms
+30 of the dealer’s lease, the dealer shall be obligated to pay the manufacturer, distributor or factory
+31 branch the net revenue received from such mitigation, but only following receipt of facilities
+32 assistance payments pursuant to this chapter, and only up to the total amount of facilities assistance
+33 payments that the dealer has received.
+34 (e) It shall be deemed a violation of this chapter for a motor vehicle dealer:
+LC001602 - Page 16 of 18
+
+1 (1) To require a purchaser of a new motor vehicle, as a condition of the sale and delivery
+2 thereof, to also purchase special features, equipment, parts, or accessories not desired or requested
+3 by the purchaser. This prohibition shall not apply as to special features, equipment, parts, or
+4 accessories that are already installed on the car before sale by the dealer.
+5 (2) To represent and sell as a new motor vehicle any motor vehicle that is a used motor
+6 vehicle.
+7 (3) To resort to or use any false or misleading advertisement in connection with his or her
+8 business as a motor vehicle dealer.
+9 (4) To engage in any deception or fraudulent practice in the repair of motor vehicles.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC001602
+========
+LC001602 - Page 17 of 18
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- REGULATION OF BUSINESS
+PRACTICES AMONG MOTOR VEHICLES MANUFACTURES, DISTRIBUTORS, AND
+DEALERS
+***
+1 This act would extend certain protocols applicable to motor vehicle manufacturers to their
+2 distributors and factory branches, amend definitions relative to common entities and sales, as well
+3 as prohibit any motor vehicle manufacturers, common entities, affiliates or joint ventures licensed
+4 after January 1, 2020 from directly selling to the public.
+5 This act would take effect upon passage.
+========
+LC001602
+========
+LC001602 - Page 18 of 18
+
+[DELETED: TATE  OF  RHODE  ISLAND S 5 a 3 T m ( ( e i d o i o b o o r t a f o o ( c m t a ( o e]
+[DELETED:  o i r ( n n a s ( w b l l ( “ b m a b o m b a m f t p d ( “ m t a o c b a n m v m l d ( “ i i a t i n l c t f a m m f ( s ( t d v m ( t p b n i f t a o m a t u i t p]
+[DELETED:  h ( d t c m f o d t ( o t o d e w ( a c a ( a ( ( a o c ( b a ( n (]
+[DELETED:  u ( i o a m ( t ( l o a ( ( ( 3 ( i a t o o s u o p a w p ( o m s b a s p o m a d p]
+[DELETED:  o a o d v ( v m z ( ( e f ( f 3 ( b o m v d t e i a a t i a i b f o u ( b c ( a v ( e n i i t l p o t m v a p a b t m ( p a ( d f o a c a e b t d a t m]
+[DELETED:  d o f b e t t s i n i t p t m t m n ( o m v t n m v d r i c w a r f r p ( t t m d o r t b r t a p o t t d c o ( c ( b ( o t b t v w o s ( o m f]
+[DELETED:  w ( d a w n m v d a p t a f o c a v ( w o c d p ( b ( a f t p S f f ( ( ( ( T s o l a n m v t a p e a m d c a t t ( i s]
+[DELETED:  a m l d t U ( m s a m s o m q o r r t t s o m ( v ( m ( e ( d a ( i o n t c w n m v d o o s a w o p a a t r o t p s b c t p a m d a b p a ( d w d]
+[DELETED:  t b o ( d t P t m d o f b e t t c s n b u w ( o t t t b t d a t o p u t b i p a ( T c w a n m v d o u a a o f ( i d i t s A m d o f b s n b d t b c p o v d v c m f t ( e n o (]
+[DELETED:  f ( ( t p ( t ( o o p i n A s c b a p r c s c t a p i n b a t t s ( l o i a a j o a p i t m d f b o n m v d a b f o p i m v ( r s ( t ( o]
+[DELETED:  g c t a o a s t o e o t f i t c w v t p ( c ( d n f ( d c f ( a a v ( s y ( ( c a p a r f t m o f b ( t i ( i t]
+[DELETED:  o f d ( ( ( ( o ( p n ( f w p i b r a o m s t t f r e t ( s g p v f ( p ( n ( T n m v d d n d s p t c ( ( d m t v]
+[DELETED:  c o ( ( C t r a m l a s o r c i p ( s f b ( t b v ( ( N f t n ( d p t t e d o t t c ( N f t f ( d p t t e d o t t c ( t ( o ( d ( o ( N f t o h e ( d p t t e d o t t t ( p ( ( (]
+[DELETED:  ( f n t c o o i n v a f a r ( T n m v d c l a p b t m d i m d o f b a m v r d o n ( o p n a t p o t p o a a t i s i o m s ( b o b ( b ( A ( s ( a r a f o i w s ( d f t d t d s a a c i]
+[DELETED:  f d t d ( I t e t t c o n i i a n p ( t s l ( f v ( p ( a i a i u t m a f t c o a o i l o f ( u ( t t d i d I t c i f o r b t m d o f ( t n]
+[DELETED:  ( m c s a s p ( p t t r o t m d f m d o f b f a g o s m b t d p d ( d o f b r o t d o a p l o a f a s i a a a o t n l f t t i e p t t t ( r d f p d t ( T r o t s d n a t a t c o n ( b d a w i r o b a p (]
+[DELETED:  ( t b a ( v ( b ( S]
+[DELETED:  T d a a T]

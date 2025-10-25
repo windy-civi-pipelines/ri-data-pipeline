@@ -1,0 +1,206 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- GIFT
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- GIFT
+Number of Sections: 1
+Source: versions - 6212  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6212 SUBSTITUTE A
+========
+LC002662/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CARD FRAUD
+Introduced By: Representatives Baginski, and J. Brien
+Date Introduced: April 09, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 6-59-1 and 6-59-3 of the General Laws in Chapter 6-59 entitled
+2 "Gift Card Fraud" are hereby amended to read as follows:
+3 6-59-1. Definitions.
+4 As used in this chapter,:
+5 (1) “Cardholder” means any person to whom a physical or virtual gift card is issued or any
+6 person who has agreed with the card issuer to pay obligations arising from the issuance of a gift
+7 card to another person.
+8 (2) “Card issuer” means any person that issues a gift card or the agent of that person with
+9 respect to that card.
+10 (3) “Closed-loop gift card” means a card, code, or device that is issued to a consumer on a
+11 prepaid basis primarily for personal, family, or household purposes in a specified amount,
+12 regardless of whether that amount may be increased or reloaded in exchange for payment; and is
+13 redeemable upon presentation by a consumer at a single merchant or group of affiliated merchants.
+14 (4) “Forgery” means any person who, with the intent to defraud, alters or tampers with a
+15 gift card.
+16 (5) “gift Gift card” means a written promise or electronic payment device that:
+17 (1)(i) Is usable at a single merchant or an affiliated group of merchants that share the same
+18 name, mark, or logo, or is usable at multiple, unaffiliated merchants or service providers;
+1 (2)(ii) Is issued in a specific amount;
+2 (3)(iii) May or may not be increased in value or reloaded;
+3 (4)(iv) Is purchased and/or loaded on a prepaid basis for the future purchase or delivery of
+4 any goods or services; and
+5 (5)(v) Is honored upon presentation.
+6 (6) “Gift card redemption information” means information unique to each gift card which
+7 allows the cardholder to access, transfer, or spend the funds on that gift card.
+8 (7) “Gift card seller” means a merchant that is engaged in the business of selling open-loop
+9 or closed-loop gift cards to consumers.
+10 (8) “Open-loop gift card” means a card, code, or device that is issued to a consumer on a
+11 prepaid basis primarily for personal, family, or household purposes in a specified amount,
+12 regardless of whether that amount may be increased or reloaded in exchange for payment; and is
+13 redeemable upon presentation at multiple unaffiliated merchants for goods or services within the
+14 payment card network.
+15 (9) “Value” means the greatest amount of economic loss the owner of the property might
+16 reasonably suffer including, in the case of a gift card, the full monetary face value or potential value
+17 for variable load gift cards.
+18 6-59-3. Penalty for violation Penalty for violation of posting requirement.
+19 Any person, firm, partnership, association, corporation, or retail mercantile establishment
+20 that violates the provisions of § 6-59-2 this chapter shall be subject to a civil penalty of up to two
+21 hundred fifty dollars ($250).
+22 SECTION 2. Chapter 6-59 of the General Laws entitled "Gift Card Fraud" is hereby
+23 amended by adding thereto the following section:
+24 6-59-4. Crimes involving gift cards.
+25 (a) Any person who, with intent to defraud, acquires or retains possession of a gift card or
+26 gift card redemption information without the consent of the cardholder, card issuer, or gift card
+27 seller, in an amount less than one thousand five hundred dollars ($1,500), is guilty of larceny and
+28 subject to a fine of up to one thousand dollars ($1,000) and/or by imprisonment of up to one year.
+29 If the value exceeds one thousand five hundred dollars ($1,500) then the person is subject to the
+30 penalties as provided pursuant to the provisions of § 11-41-5.
+31 (b) Any person who, with intent to defraud, alters or tampers with a gift card is guilty of a
+32 misdemeanor and is subject to a fine of up to one thousand dollars ($1,000) and/or by imprisonment
+33 up to one year.
+34 (c) Any person who, with intent to defraud, uses, for the purpose of obtaining money,
+LC002662/SUB A - Page 2 of 4
+1 goods, services, or anything else of value, a gift card or gift card redemption information that has
+2 been obtained in violation of subsection (a) or (b) of this section in an amount in excess of one
+3 thousand five hundred dollars ($1,500) is guilty of larceny and subject to the penalties as provided
+4 pursuant to § 11-41-5.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC002662/SUB A
+========
+LC002662/SUB A - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- GIFT
+CARD FRAUD
+***
+1 This act would make offenses against gift card holders subject to the penalties for larceny.
+2 This act would take effect upon passage.
+========
+LC002662/SUB A
+========
+LC002662/SUB A - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S " 6 A ( p c ( r ( p b p f p f o h p i a s a r r ( g ( ( n]
+[DELETED:  ( ( ( a ( ( a ( o ( p b p f p f o h p i a s a r r p ( r f 6 A t h S a 6 ( g s s I p ( m u (]
+[DELETED:  g b t p S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6212 SUBSTITUTE A
+========
+LC002662/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- GIFT
+CARD FRAUD
+Introduced By: Representatives Baginski, and J. Brien
+Date Introduced: April 09, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 6-59-1 and 6-59-3 of the General Laws in Chapter 6-59 entitled
+2 "Gift Card Fraud" are hereby amended to read as follows:
+3 6-59-1. Definitions.
+4 As used in this chapter,:
+5 (1) “Cardholder” means any person to whom a physical or virtual gift card is issued or any
+6 person who has agreed with the card issuer to pay obligations arising from the issuance of a gift
+7 card to another person.
+8 (2) “Card issuer” means any person that issues a gift card or the agent of that person with
+9 respect to that card.
+10 (3) “Closed-loop gift card” means a card, code, or device that is issued to a consumer on a
+11 prepaid basis primarily for personal, family, or household purposes in a specified amount,
+12 regardless of whether that amount may be increased or reloaded in exchange for payment; and is
+13 redeemable upon presentation by a consumer at a single merchant or group of affiliated merchants.
+14 (4) “Forgery” means any person who, with the intent to defraud, alters or tampers with a
+15 gift card.
+16 (5) “gift Gift card” means a written promise or electronic payment device that:
+17 (1)(i) Is usable at a single merchant or an affiliated group of merchants that share the same
+18 name, mark, or logo, or is usable at multiple, unaffiliated merchants or service providers;
+
+1 (2)(ii) Is issued in a specific amount;
+2 (3)(iii) May or may not be increased in value or reloaded;
+3 (4)(iv) Is purchased and/or loaded on a prepaid basis for the future purchase or delivery of
+4 any goods or services; and
+5 (5)(v) Is honored upon presentation.
+6 (6) “Gift card redemption information” means information unique to each gift card which
+7 allows the cardholder to access, transfer, or spend the funds on that gift card.
+8 (7) “Gift card seller” means a merchant that is engaged in the business of selling open-loop
+9 or closed-loop gift cards to consumers.
+10 (8) “Open-loop gift card” means a card, code, or device that is issued to a consumer on a
+11 prepaid basis primarily for personal, family, or household purposes in a specified amount,
+12 regardless of whether that amount may be increased or reloaded in exchange for payment; and is
+13 redeemable upon presentation at multiple unaffiliated merchants for goods or services within the
+14 payment card network.
+15 (9) “Value” means the greatest amount of economic loss the owner of the property might
+16 reasonably suffer including, in the case of a gift card, the full monetary face value or potential value
+17 for variable load gift cards.
+18 6-59-3. Penalty for violation Penalty for violation of posting requirement.
+19 Any person, firm, partnership, association, corporation, or retail mercantile establishment
+20 that violates the provisions of § 6-59-2 this chapter shall be subject to a civil penalty of up to two
+21 hundred fifty dollars ($250).
+22 SECTION 2. Chapter 6-59 of the General Laws entitled "Gift Card Fraud" is hereby
+23 amended by adding thereto the following section:
+24 6-59-4. Crimes involving gift cards.
+25 (a) Any person who, with intent to defraud, acquires or retains possession of a gift card or
+26 gift card redemption information without the consent of the cardholder, card issuer, or gift card
+27 seller, in an amount less than one thousand five hundred dollars ($1,500), is guilty of larceny and
+28 subject to a fine of up to one thousand dollars ($1,000) and/or by imprisonment of up to one year.
+29 If the value exceeds one thousand five hundred dollars ($1,500) then the person is subject to the
+30 penalties as provided pursuant to the provisions of § 11-41-5.
+31 (b) Any person who, with intent to defraud, alters or tampers with a gift card is guilty of a
+32 misdemeanor and is subject to a fine of up to one thousand dollars ($1,000) and/or by imprisonment
+33 up to one year.
+34 (c) Any person who, with intent to defraud, uses, for the purpose of obtaining money,
+LC002662/SUB A - Page 2 of 4
+
+1 goods, services, or anything else of value, a gift card or gift card redemption information that has
+2 been obtained in violation of subsection (a) or (b) of this section in an amount in excess of one
+3 thousand five hundred dollars ($1,500) is guilty of larceny and subject to the penalties as provided
+4 pursuant to § 11-41-5.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC002662/SUB A
+========
+LC002662/SUB A - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- GIFT
+CARD FRAUD
+***
+1 This act would make offenses against gift card holders subject to the penalties for larceny.
+2 This act would take effect upon passage.
+========
+LC002662/SUB A
+========
+LC002662/SUB A - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S " 6 A ( p c ( r ( p b p f p f o h p i a s a r r ( g ( ( n]
+[DELETED:  ( ( ( a ( ( a ( o ( p b p f p f o h p i a s a r r p ( r f 6 A t h S a 6 ( g s s I p ( m u (]
+[DELETED:  g b t p S]
+[DELETED:  T T]

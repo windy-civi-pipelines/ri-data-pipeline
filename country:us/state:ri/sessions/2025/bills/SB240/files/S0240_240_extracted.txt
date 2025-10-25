@@ -1,0 +1,889 @@
+Title: RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+Official Title: RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+Number of Sections: 1
+Source: versions - 240
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0240
+========
+LC000920
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Vargas, Mack, DiMario, Murray, DiPalma, Lawson, Gallo,
+Urso, and Bissaillon
+Date Introduced: February 13, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that:
+3 (1) Access to affordable, high-quality childcare is essential to support labor force
+4 participation of parents with children from infancy through age twelve (12) years and to maximize
+5 the economic productivity of the state.
+6 (2) Access to affordable, high-quality childcare is essential for all parents to achieve
+7 economic security and independence, particularly for mothers who often have lower lifetime
+8 earnings because they earn lower wages, work reduced hours, and take longer breaks from work in
+9 order to care for children.
+10 (3) High-quality childcare programs, staffed by qualified and effective educators, are
+11 essential for children to promote healthy development and optimize learning during early childhood
+12 and school-age years.
+13 (4) A landmark report by the Institute of Medicine and National Research Council found
+14 that children begin learning at birth and the adults that provide for the care and education of children
+15 bear a great responsibility for their health, development, and learning -- setting the critical
+16 foundation for lifelong progress. The report recommends that states work to increase the
+17 qualifications and compensation of childcare educators, including those who care for infants and
+18 toddlers.
+19 (5) Childcare educators are among the lowest paid workers in Rhode Island. In 2023, the
+1 median wage of a childcare educator in Rhode Island was sixteen dollars and ninety-one cents
+2 ($16.91) per hour.
+3 (6) The U.S. Department of Health and Human Services provides significant funding to
+4 Rhode Island through the Child Care and Development Block Grant and has established clear
+5 guidelines for setting rates that provide low-income families with "equal access" to the childcare
+6 market as required under federal law. The "equal access" guideline is to pay rates equal to or above
+7 the seventy-fifth percentile of a recent market rate survey.
+8 (7) The Rhode Island Governor’s Workforce Board recommends that Rhode Island pay
+9 child care rates that meet or exceed the equal access standard as a first step to support program
+10 quality and to improved wages and retention of child care educators. As of 2024, there were
+11 seventeen (17) states that met or exceeded the equal access standard, including New York and
+12 Vermont. Rhode Island’s base rate for infant care in a licensed child care center was at the 5th
+13 percentile of the 2024 market rate survey, well below the 75th percentile equal access standard.
+14 (8) The U.S. Department of Health and Human Services has also established a clear
+15 guideline for determining whether childcare is affordable. Currently, the federal guideline for
+16 affordability is that families should pay no more than seven percent (7%) of family income for
+17 childcare. Using that guideline, almost all families with young children in the State of Rhode Island
+18 need a subsidy to afford the cost of high-quality childcare staffed by qualified, effective, and fairly-
+19 compensated educators.
+20 (9) The Federal Child Care and Development Block Grant focuses on helping lower income
+21 families access child care, limiting the use of federal funds to families with incomes at or below
+22 eighty-five percent (85%) of the state median income ($106,529) for a family of four in Rhode
+23 Island in Federal Fiscal Year 2025), and allows states to waive this limit for children who are
+24 members of a protected population such as children in foster care. As of 2024, there were sixteen
+25 (16) states that set family income eligibility limits at or above eight-five percent (85%) of state
+26 median income, including Maine, New Hampshire, New York and Vermont.
+27 SECTION 2. Title 40 of the General Laws entitled "HUMAN SERVICES" is hereby
+28 amended by adding thereto the following chapter:
+29 CHAPTER 6.7
+30 RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+31 40-6.7-1. Childcare assistance - Families or assistance units eligible.
+32 (a) The department of human services shall provide appropriate childcare to every
+33 participant who is eligible for cash assistance and who requires childcare in order to meet the work
+34 requirements in accordance with this chapter.
+LC000920 - Page 2 of 13
+1 (b) Low-income childcare. The department shall provide childcare to all other families with
+2 incomes at or below eighty-five percent (85%) of the state median income, the low-income family
+3 eligibility benchmark in the federal Childcare and Development Block Grant if, and to the extent,
+4 these other families require childcare in order to work at paid employment and/or to participate in
+5 training, apprenticeship, internship, on-the-job training, work experience, work immersion, or other
+6 job-readiness/job- attachment programs sponsored or funded by the human resource investment
+7 council (governor's workforce board) or state agencies that are part of the coordinated program
+8 system pursuant to § 42-102-11. The department shall also provide childcare assistance to families
+9 with incomes below eighty-five percent (85%) of the state median income when such assistance is
+10 necessary for a member of these families to enroll or maintain enrollment in a Rhode Island public
+11 institution of higher education.
+12 (c) No family/assistance unit shall be eligible for childcare assistance under this chapter if
+13 the combined value of its liquid resources exceeds one million dollars ($1,000,000), which
+14 corresponds to the amount permitted by the federal government under the state plan and set forth
+15 in the administrative rulemaking process by the department. As used in this section "liquid
+16 resources" means any interest(s) in property in the form of cash or other financial instruments or
+17 accounts that are readily convertible to cash or cash equivalents. These resources include, but are
+18 not limited to: cash, bank, credit union, or other financial institution savings, checking, and money
+19 market accounts; certificates of deposit or other time deposits; stocks; bonds; mutual funds; and
+20 other similar financial instruments or accounts. These resources do not include educational savings
+21 accounts, plans, or programs; retirement accounts, plans, or programs; or accounts held jointly with
+22 another adult, not including a spouse. The department is authorized to promulgate rules and
+23 regulations to determine the ownership and source of the funds in the joint account.
+24 (d) The parent or caretaker relative of any family applying for childcare assistance may
+25 voluntarily access the state’s office of child support services for assistance in locating the non-
+26 custodial parent, establishing parentage, establishing a child support and/or medical order, and
+27 enforcement of the order, but this shall not be a requirement to qualify for or access childcare
+28 assistance.
+29 (e) For purposes of this section, "appropriate childcare" means childcare, including infant,
+30 toddler, preschool, nursery school, and school age, that is provided by a person or organization
+31 qualified, approved, and authorized to provide the care by the state agency or agencies designated
+32 to make the determinations in accordance with the provisions set forth in this section.
+33 (f)(1) Families with incomes at or below one hundred percent (100%) of the applicable
+34 federal poverty level guidelines shall be provided with free childcare. Families with incomes
+LC000920 - Page 3 of 13
+1 greater than one hundred percent (100%) of the applicable federal poverty guideline shall be
+2 required to pay for some portion of the childcare they receive, according to a sliding-fee scale
+3 adopted by the department in the department's rules, not to exceed seven percent (7%) of income
+4 as defined in subsection (h) of this section.
+5 (2) Families who are receiving childcare assistance and who become ineligible for
+6 childcare assistance as a result of their incomes exceeding eighty-five percent (85%) of state
+7 median income shall continue to be eligible for childcare assistance until their incomes exceeds
+8 one hundred percent (100%) of the state median income. To be eligible, the families must continue
+9 to pay for some portion of the childcare they receive, as indicated in a sliding-fee scale adopted in
+10 the department's rules, not to exceed seven percent (7%) of income as defined in subsection (h) of
+11 this section, and in accordance with other eligibility standards.
+12 (g) In determining the type of childcare to be provided to a family, the department shall
+13 take into account the cost of available childcare options, the suitability of the type of care available
+14 for the child; and the parent's preference as to the type of childcare.
+15 (h) For purposes of this section, “income” for families receiving cash assistance under §§
+16 40-5.2-10(g)(2) and 40-5.2-10(g)(3), and income for other families shall mean gross, earned, and
+17 unearned income as determined by departmental regulations.
+18 (i) The caseload estimating conference established by chapter 17 of title 35 shall forecast
+19 the expenditures for childcare in accordance with the provisions of § 35-17-1.
+20 (j) In determining eligibility for childcare assistance for children of members of reserve
+21 components called to active duty during a time of conflict, the department shall freeze the family
+22 composition and the family income of the reserve component member as it was in the month prior
+23 to the month of leaving for active duty. This freeze shall continue until the individual is officially
+24 discharged from active duty.
+25 40-6.7-2. Childcare assistance - Rates established.
+26 (a) Effective July 1, 2025, the rates to be paid by the department of human services and the
+27 department of children, youth and families for licensed childcare centers and family childcare
+28 homes shall be updated to reflect findings from the 2024 Rhode Island childcare market rate survey
+29 and shall be implemented in a tiered manner, reflective of the quality rating the provider has
+30 achieved within the state's quality rating system outlined in § 42-12-23.1. All rates shall meet or
+31 exceed the federal equal access benchmark (seventy-fifth percentile of the most recent Rhode Island
+32 childcare market rate survey) and programs that have achieved a high-quality rating shall be paid
+33 rates at or above the ninetieth percentile of the most recent Rhode Island childcare market rate
+34 survey. Weekly rates shall be paid as follows:
+LC000920 - Page 4 of 13
+1 LICENSED CHILDCARE CENTERS & FAMILY CHILDCARE HOMES
+2 Tier One Tier Two Tier Three Tier Four Tier Five
+3 Infant/Toddler $356 $363 $371 $378 $385
+4 Preschool $312 $320 $329 $337 $345
+5 School-Age $280 $287 $295 $303 $310
+6 The rates for licensed family childcare providers paid by the department of human services,
+7 and the department of children, youth and families are determined through collective bargaining.
+8 The rates for infant/toddler and preschool age children paid to licensed family childcare providers
+9 by both departments is implemented in a tiered manner that reflects the quality rating the provider
+10 has achieved in accordance with § 42-12-23.1.
+11 (b) Beginning July 1, 2025, childcare providers serving infants under age eighteen (18)
+12 months who are receiving childcare assistance shall be paid an additional infant bonus rate equal
+13 to fifty percent (50%) of the toddler rate by the department of human services and the department
+14 of children, youth, and families to help stabilize and expand access to quality infant care and to
+15 help cover the costs associated with the required staff: child ratio for infants under age eighteen
+16 (18) months.
+17 (c) By June 30, 2027, and triennially thereafter, the department of human services in
+18 consultation with the department of labor and training shall conduct an independent survey or
+19 certify an independent survey of the then-current weekly market rates for childcare in Rhode Island
+20 and shall post the findings from the market rate survey on the department's public website. The
+21 departments of human services and labor and training will jointly determine the survey criteria
+22 including, but not limited to, rate categories and sub-categories.
+23 (d) In order to expand the accessibility and availability of quality childcare, the department
+24 of human services is authorized to establish, by regulation, alternative or incentive rates for quality
+25 enhancements, innovative or specialized childcare, and alternative methodologies of childcare
+26 delivery, including nontraditional delivery systems and collaborations.
+27 (e) All childcare providers have the option to be paid every two (2) weeks and have the
+28 option of automatic direct deposit and/or electronic funds transfer of payments.
+29 (f) Effective July 1, 2025, full-time childcare assistance payment rates cover thirty (30) to
+30 forty-five (45) hours of care per week. Any child needing forty-five (45) to sixty (60) hours of care
+31 per week will be paid at a super full-time rate of at least ten dollars ($10) per hour. No child will
+32 be enrolled in the Childcare Assistance Program for more than sixty (60) hours per week.
+33 (g) Effective January 1, 2026, all childcare assistance payments to childcare providers shall
+34 be paid prospectively, on or before the Friday preceding the beginning of the childcare service
+LC000920 - Page 5 of 13
+1 period, based on children’s authorized enrollment.
+2 (h) Effective January 1, 2026 and annually thereafter, the department of human services
+3 shall pay a registration fee for each child enrolled in the childcare assistance program to the
+4 childcare centers where the children are enrolled. The per child registration fee for childcare centers
+5 shall be equivalent to the per child annual registration fees paid to family childcare providers.
+6 SECTION 3. Section 40-5.2-20 of the General Laws in Chapter 40-5.2 entitled "The Rhode
+7 Island Works Program" is hereby repealed.
+8 40-5.2-20. Childcare assistance — Families or assistance units eligible. [Effective
+9 January 1, 2025.]
+10 (a) The department shall provide appropriate child care to every participant who is eligible
+11 for cash assistance and who requires child care in order to meet the work requirements in
+12 accordance with this chapter.
+13 (b) Low-income child care. The department shall provide child care to all other working
+14 families with incomes at or below two hundred sixty-one percent (261%) of the federal poverty
+15 level if, and to the extent, these other families require child care in order to work at paid
+16 employment as defined in the department’s rules and regulations. The department shall also provide
+17 child care to families with incomes below two hundred sixty-one percent (261%) of the federal
+18 poverty level if, and to the extent, these families require child care to participate on a short-term
+19 basis, as defined in the department’s rules and regulations, in training, apprenticeship, internship,
+20 on-the-job training, work experience, work immersion, or other job-readiness/job-attachment
+21 program sponsored or funded by the human resource investment council (governor’s workforce
+22 board) or state agencies that are part of the coordinated program system pursuant to § 42-102-11.
+23 Effective from January 1, 2021, through June 30, 2022, the department shall also provide childcare
+24 assistance to families with incomes below one hundred eighty percent (180%) of the federal poverty
+25 level when such assistance is necessary for a member of these families to enroll or maintain
+26 enrollment in a Rhode Island public institution of higher education provided that eligibility to
+27 receive funding is capped when expenditures reach $200,000 for this provision. Effective July 1,
+28 2022 through December 31, 2024, the department shall also provide childcare assistance to families
+29 with incomes below two hundred percent (200%) of the federal poverty level when such assistance
+30 is necessary for a member of these families to enroll or maintain enrollment in a Rhode Island
+31 public institution of higher education. Effective January 1, 2025, the department shall also provide
+32 childcare assistance to families with incomes below two hundred sixty-one percent (261%) of the
+33 federal poverty level when such assistance is necessary for a member of these families to enroll or
+34 maintain enrollment in a Rhode Island public institution of higher education.
+LC000920 - Page 6 of 13
+1 (c) No family/assistance unit shall be eligible for childcare assistance under this chapter if
+2 the combined value of its liquid resources exceeds one million dollars ($1,000,000), which
+3 corresponds to the amount permitted by the federal government under the state plan and set forth
+4 in the administrative rulemaking process by the department. Liquid resources are defined as any
+5 interest(s) in property in the form of cash or other financial instruments or accounts that are readily
+6 convertible to cash or cash equivalents. These include, but are not limited to: cash, bank, credit
+7 union, or other financial institution savings, checking, and money market accounts; certificates of
+8 deposit or other time deposits; stocks; bonds; mutual funds; and other similar financial instruments
+9 or accounts. These do not include educational savings accounts, plans, or programs; retirement
+10 accounts, plans, or programs; or accounts held jointly with another adult, not including a spouse.
+11 The department is authorized to promulgate rules and regulations to determine the ownership and
+12 source of the funds in the joint account.
+13 (d) As a condition of eligibility for childcare assistance under this chapter, the parent or
+14 caretaker relative of the family must consent to, and must cooperate with, the department in
+15 establishing paternity, and in establishing and/or enforcing child support and medical support
+16 orders for any children in the family receiving appropriate child care under this section in
+17 accordance with the applicable sections of title 15, as amended, unless the parent or caretaker
+18 relative is found to have good cause for refusing to comply with the requirements of this subsection.
+19 (e) For purposes of this section, “appropriate child care” means child care, including infant,
+20 toddler, preschool, nursery school, and school-age, that is provided by a person or organization
+21 qualified, approved, and authorized to provide the care by the state agency or agencies designated
+22 to make the determinations in accordance with the provisions set forth herein.
+23 (f)(1) Families with incomes below one hundred percent (100%) of the applicable federal
+24 poverty level guidelines shall be provided with free child care. Families with incomes greater than
+25 one hundred percent (100%) and less than two hundred percent (200%) of the applicable federal
+26 poverty guideline shall be required to pay for some portion of the child care they receive, according
+27 to a sliding-fee scale adopted by the department in the department’s rules, not to exceed seven
+28 percent (7%) of income as defined in subsection (h) of this section.
+29 (2) Families who are receiving childcare assistance and who become ineligible for
+30 childcare assistance as a result of their incomes exceeding two hundred sixty-one percent (261%)
+31 of the applicable federal poverty guidelines shall continue to be eligible for childcare assistance
+32 until their incomes exceed three hundred percent (300%) of the applicable federal poverty
+33 guidelines. To be eligible, the families must continue to pay for some portion of the child care they
+34 receive, as indicated in a sliding-fee scale adopted in the department’s rules, not to exceed seven
+LC000920 - Page 7 of 13
+1 percent (7%) of income as defined in subsection (h) of this section, and in accordance with all other
+2 eligibility standards.
+3 (g) In determining the type of child care to be provided to a family, the department shall
+4 take into account the cost of available childcare options; the suitability of the type of care available
+5 for the child; and the parent’s preference as to the type of child care.
+6 (h) For purposes of this section, “income” for families receiving cash assistance under §
+7 40-5.2-11 means gross, earned income and unearned income, subject to the income exclusions in
+8 §§ 40-5.2-10(g)(2) and 40-5.2-10(g)(3), and income for other families shall mean gross, earned and
+9 unearned income as determined by departmental regulations.
+10 (i) The caseload estimating conference established by chapter 17 of title 35 shall forecast
+11 the expenditures for child care in accordance with the provisions of § 35-17-1.
+12 (j) In determining eligibility for childcare assistance for children of members of reserve
+13 components called to active duty during a time of conflict, the department shall freeze the family
+14 composition and the family income of the reserve component member as it was in the month prior
+15 to the month of leaving for active duty. This shall continue until the individual is officially
+16 discharged from active duty.
+17 (k) Effective from August 1, 2023, through July 31, 2025, the department shall provide
+18 funding for child care for eligible childcare educators, and childcare staff, who work at least twenty
+19 (20) hours a week in licensed childcare centers and licensed family childcare homes as defined in
+20 the department’s rules and regulations. Eligibility is limited to qualifying childcare educators and
+21 childcare staff with family incomes up to three hundred percent (300%) of the applicable federal
+22 poverty guidelines and will have no copayments. Qualifying participants may select the childcare
+23 center or family childcare home for their children. The department shall promulgate regulations
+24 necessary to implement this section, and will collect applicant and participant data to report
+25 estimated demand for state-funded child care for eligible childcare educators and childcare staff.
+26 The report shall be due to the governor and the general assembly by November 1, 2024.
+27 SECTION 4. Section 40-6.2-1.1 of the General Laws in Chapter 40-6.2 entitled "Child
+28 Care — State Subsidies" is hereby repealed.
+29 40-6.2-1.1. Rates established.
+30 (a) Through June 30, 2015, subject to the payment limitations in subsection (c), the
+31 maximum reimbursement rates to be paid by the departments of human services and children, youth
+32 and families for licensed childcare centers and licensed family childcare providers shall be based
+33 on the following schedule of the 75th percentile of the 2002 weekly market rates adjusted for the
+34 average of the 75th percentile of the 2002 and the 2004 weekly market rates:
+LC000920 - Page 8 of 13
+1 Licensed Childcare Centers 75th Percentile of Weekly Market Rate
+2 Infant $182.00
+3 Preschool $150.00
+4 School-Age $135.00
+5 Licensed Family Childcare Providers 75th Percentile of Weekly Market Rate
+6 Infant $150.00
+7 Preschool $150.00
+8 School-Age $135.00
+9 Effective July 1, 2015, subject to the payment limitations in subsection (c), the maximum
+10 reimbursement rates to be paid by the departments of human services and children, youth and
+11 families for licensed childcare centers and licensed family childcare providers shall be based on the
+12 above schedule of the 75th percentile of the 2002 weekly market rates adjusted for the average of
+13 the 75th percentile of the 2002 and the 2004 weekly market rates. These rates shall be increased by
+14 ten dollars ($10.00) per week for infant/toddler care provided by licensed family childcare
+15 providers and license-exempt providers and then the rates for all providers for all age groups shall
+16 be increased by three percent (3%). For the fiscal year ending June 30, 2018, licensed childcare
+17 centers shall be reimbursed a maximum weekly rate of one hundred ninety-three dollars and sixty-
+18 four cents ($193.64) for infant/toddler care and one hundred sixty-one dollars and seventy-one
+19 cents ($161.71) for preschool-age children.
+20 (b) Effective July l, 2018, subject to the payment limitations in subsection (c), the
+21 maximum infant/toddler and preschool-age reimbursement rates to be paid by the departments of
+22 human services and children, youth and families for licensed childcare centers shall be
+23 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+24 the state’s quality rating system outlined in § 42-12-23.1.
+25 (1) For infant/toddler child care, tier one shall be reimbursed two and one-half percent
+26 (2.5%) above the FY 2018 weekly amount, tier two shall be reimbursed five percent (5%) above
+27 the FY 2018 weekly amount, tier three shall be reimbursed thirteen percent (13%) above the FY
+28 2018 weekly amount, tier four shall be reimbursed twenty percent (20%) above the FY 2018 weekly
+29 amount, and tier five shall be reimbursed thirty-three percent (33%) above the FY 2018 weekly
+30 amount.
+31 (2) For preschool reimbursement rates, tier one shall be reimbursed two and one-half
+32 percent (2.5%) above the FY 2018 weekly amount, tier two shall be reimbursed five percent (5%)
+33 above the FY 2018 weekly amount, tier three shall be reimbursed ten percent (10%) above the FY
+34 2018 weekly amount, tier four shall be reimbursed thirteen percent (13%) above the FY 2018
+LC000920 - Page 9 of 13
+1 weekly amount, and tier five shall be reimbursed twenty-one percent (21%) above the FY 2018
+2 weekly amount.
+3 (c) [Deleted by P.L. 2019, ch. 88, art. 13, § 4.]
+4 (d) By June 30, 2004, and biennially through June 30, 2014, the department of labor and
+5 training shall conduct an independent survey or certify an independent survey of the then-current
+6 weekly market rates for child care in Rhode Island and shall forward the weekly market rate survey
+7 to the department of human services. The next survey shall be conducted by June 30, 2016, and
+8 triennially thereafter. The departments of human services and labor and training will jointly
+9 determine the survey criteria including, but not limited to, rate categories and sub-categories.
+10 (e) In order to expand the accessibility and availability of quality child care, the department
+11 of human services is authorized to establish, by regulation, alternative or incentive rates of
+12 reimbursement for quality enhancements, innovative or specialized child care, and alternative
+13 methodologies of childcare delivery, including nontraditional delivery systems and collaborations.
+14 (f) Effective January 1, 2007, all childcare providers have the option to be paid every two
+15 (2) weeks and have the option of automatic direct deposit and/or electronic funds transfer of
+16 reimbursement payments.
+17 (g) Effective July 1, 2019, the maximum infant/toddler reimbursement rates to be paid by
+18 the departments of human services and children, youth and families for licensed family childcare
+19 providers shall be implemented in a tiered manner, reflective of the quality rating the provider has
+20 achieved within the state’s quality rating system outlined in § 42-12-23.1. Tier one shall be
+21 reimbursed two percent (2%) above the prevailing base rate for step 1 and step 2 providers, three
+22 percent (3%) above prevailing base rate for step 3 providers, and four percent (4%) above the
+23 prevailing base rate for step 4 providers; tier two shall be reimbursed five percent (5%) above the
+24 prevailing base rate; tier three shall be reimbursed eleven percent (11%) above the prevailing base
+25 rate; tier four shall be reimbursed fourteen percent (14%) above the prevailing base rate; and tier
+26 five shall be reimbursed twenty-three percent (23%) above the prevailing base rate.
+27 (h) Through December 31, 2021, the maximum reimbursement rates paid by the
+28 departments of human services, and children, youth and families to licensed childcare centers shall
+29 be consistent with the enhanced emergency rates provided as of June 1, 2021, as follows:
+30 Tier 1 Tier 2 Tier 3 Tier 4 Tier 5
+31 Infant/Toddler $257.54 $257.54 $257.54 $257.54 $273.00
+32 Preschool Age $195.67 $195.67 $195.67 $195.67 $260.00
+33 School Age $200.00 $200.00 $200.00 $200.00 $245.00
+34 The maximum reimbursement rates paid by the departments of human services, and
+LC000920 - Page 10 of 13
+1 children, youth and families to licensed family childcare providers shall be consistent with the
+2 enhanced emergency rates provided as of June 1, 2021, as follows:
+3 Tier 1 Tier 2 Tier 3 Tier 4 Tier 5
+4 Infant/Toddler $224.43 $224.43 $224.43 $224.43 $224.43
+5 Preschool Age $171.45 $171.45 $171.45 $171.45 $171.45
+6 School Age $162.30 $162.30 $162.30 $162.30 $162.30
+7 (i) Effective January 1, 2022, the maximum reimbursement rates to be paid by the
+8 departments of human services and children, youth and families for licensed childcare centers shall
+9 be implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+10 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+11 reimbursed as follows:
+12 Licensed Childcare Centers
+13 Tier One Tier Two Tier Three Tier Four Tier Five
+14 Infant/Toddler $236.36 $244.88 $257.15 $268.74 $284.39
+15 Preschool $207.51 $212.27 $218.45 $223.50 $231.39
+16 School-Age $180.38 $182.77 $185.17 $187.57 $189.97
+17 The maximum reimbursement rates for licensed family childcare providers paid by the
+18 departments of human services, and children, youth and families is determined through collective
+19 bargaining. The maximum reimbursement rates for infant/toddler and preschool age children paid
+20 to licensed family childcare providers by both departments is implemented in a tiered manner that
+21 reflects the quality rating the provider has achieved in accordance with § 42-12-23.1.
+22 (j) Effective July 1, 2022, the maximum reimbursement rates to be paid by the departments
+23 of human services and children, youth and families for licensed childcare centers shall be
+24 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+25 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+26 reimbursed as follows:
+27 Licensed Childcare Centers
+28 Tier One Tier Two Tier Three Tier Four Tier Five
+29 Infant/Toddler $265 $270 $282 $289 $300
+30 Preschool $225 $235 $243 $250 $260
+31 School-Age $200 $205 $220 $238 $250
+32 (k) Effective July 1, 2024, the maximum reimbursement rates to be paid by the departments
+33 of human services and children, youth and families for licensed childcare centers shall be
+34 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+LC000920 - Page 11 of 13
+1 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+2 reimbursed as follows:
+3 Licensed Childcare Centers
+4 Tier One Tier Two Tier Three Tier Four Tier Five
+5 Infant/Toddler $278 $284 $296 $303 $315
+6 Preschool $236 $247 $255 $263 $273
+7 School-Age $210 $215 $231 $250 $263
+8 SECTION 5. This act shall take effect on July 1, 2025.
+========
+LC000920
+========
+LC000920 - Page 12 of 13
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+***
+1 This act would create the Rhode Island Childcare Assistance Program that governs both
+2 family eligibility for the state’s childcare subsidy program and the rates paid to childcare providers
+3 serving families receiving a subsidy. The act would expand eligibility for the program to meet the
+4 federal eligibility benchmark so that families with incomes at or below eighty-five percent (85%)
+5 of the state median income would be eligible. The act would allow families to continue eligibility
+6 until their income exceeds one hundred percent (100%) of the state median income and would make
+7 participation in the state’s child support enforcement program voluntary for the childcare subsidy.
+8 The act would also increase the tiered rates of paid for licensed childcare centers to meet or exceed
+9 the federal equal access benchmark, implement a new differential bonus rate for infants under age
+10 eighteen (18) months and adopt fair payment practices consistent with the federal rules for the Child
+11 Care and Development Fund.
+12 This act would take effect on July 1, 2025.
+========
+LC000920
+========
+LC000920 - Page 13 of 13
+[DELETED: TATE  OF  RHODE  ISLAND B S M D D L G S T ( A t a h c i e t s l f p t ( A t a h c i e f a p t a e s a i p f m w o h l l e o ( H c p s b q a e e a e a ( t b a g r f t h d a l - s t c f f l p T r r t s w t i t q t (]
+[DELETED:  m ( ( R g m t ( c q s V p ( T U D o H a H S h a e a c g a c n c ( f e I m ( m S a C R 4 ( T d o h s s p a c t e p r]
+[DELETED:  ( i e t t j c s w n i ( t c v o i l r e o m d ( w c i t a r p b t d A u i t s " r a n m o a a a n i a s T d i a t p r a r ( v c e a ( t q t ( f p l g b p c F w]
+[DELETED:  g r a a ( F w a r c a a w b i f c m o t t t ( t f ( 4 u ( t ( c c t d 4 ( d h a a e c r s]
+[DELETED:  L   I   P S T a T b h ( m t o h ( ( c c a d i ( o e o s c a m o c d ( o ( f p b ( b]
+[DELETED:  p ( s c c s S I 4 C a — F o a u e [ J ( f c a a w r c c i o t m t w r i a ( f l i a t t e t o f r c c i o t w a p e c p b o t w e w i o o j p b E a l e r 2 w i p c f m]
+[DELETED:  ( t c v o i l r e o m d ( w c i i c u d o a T s ( c o t f m c t m c w t d i e o f a c i t f r a c c u t s i a r ( t q t ( p o p t p ( F w a r c a a w b i f c o u t i e t h p ( o t a f p g r]
+[DELETED:  p e ( t f ( 4 § u ( t ( c c t t m o l f a d T s c u t i i o d ( f ( t c p c n t i t s a w c a a p d t r e T S C 4 ( T J 3 2 s t t p l i s ( t m a o a]
+[DELETED:  L  7 I     $ P    $ S    $ L 7 I     $ P    $ S    $ E r f a t t d ( p w f i c p b l f c p b c f c ( E J l 2 s t t p l i s ( t m h s a c y a f f l c c s b i t ( ( t 2 a a ( p a 2]
+[DELETED:  w w ( ( t w t t t T d o h s a l a t w j d ( o h s i a t e b r a o i r o r q e o s c c a a m ( ( r ( t p a w t s q r s o i § 4 T o s b r p p p r f ( T D 3 2 t m r r p b t d b   T  T  T   T  T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ T m r r p b t d o h s a]
+[DELETED:  c e   T  T  T  T  T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ ( E J 1 2 t m r r t b p b t d b t s q r s o i § 4 M w r s b r L   T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ T d b t r ( o h s a c y a f f l c c s b i t s q r s o i § 4 M w r s b r L   T  I $  $  $  $  $ P $  $  $  $  $ S $  $  $  $  $ ( o h s a c y a f f l c c s b i]
+[DELETED:  t s q r s o i § 4 M w r s b r L   T I $  $  $  $  $ P $  $  $  $  $ S $  $  $  $  $ S]
+[DELETED:  T f s f o u p T t e C T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0240
+========
+LC000920
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+Introduced By: Senators Vargas, Mack, DiMario, Murray, DiPalma, Lawson, Gallo,
+Urso, and Bissaillon
+Date Introduced: February 13, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that:
+3 (1) Access to affordable, high-quality childcare is essential to support labor force
+4 participation of parents with children from infancy through age twelve (12) years and to maximize
+5 the economic productivity of the state.
+6 (2) Access to affordable, high-quality childcare is essential for all parents to achieve
+7 economic security and independence, particularly for mothers who often have lower lifetime
+8 earnings because they earn lower wages, work reduced hours, and take longer breaks from work in
+9 order to care for children.
+10 (3) High-quality childcare programs, staffed by qualified and effective educators, are
+11 essential for children to promote healthy development and optimize learning during early childhood
+12 and school-age years.
+13 (4) A landmark report by the Institute of Medicine and National Research Council found
+14 that children begin learning at birth and the adults that provide for the care and education of children
+15 bear a great responsibility for their health, development, and learning -- setting the critical
+16 foundation for lifelong progress. The report recommends that states work to increase the
+17 qualifications and compensation of childcare educators, including those who care for infants and
+18 toddlers.
+19 (5) Childcare educators are among the lowest paid workers in Rhode Island. In 2023, the
+
+1 median wage of a childcare educator in Rhode Island was sixteen dollars and ninety-one cents
+2 ($16.91) per hour.
+3 (6) The U.S. Department of Health and Human Services provides significant funding to
+4 Rhode Island through the Child Care and Development Block Grant and has established clear
+5 guidelines for setting rates that provide low-income families with "equal access" to the childcare
+6 market as required under federal law. The "equal access" guideline is to pay rates equal to or above
+7 the seventy-fifth percentile of a recent market rate survey.
+8 (7) The Rhode Island Governor’s Workforce Board recommends that Rhode Island pay
+9 child care rates that meet or exceed the equal access standard as a first step to support program
+10 quality and to improved wages and retention of child care educators. As of 2024, there were
+11 seventeen (17) states that met or exceeded the equal access standard, including New York and
+12 Vermont. Rhode Island’s base rate for infant care in a licensed child care center was at the 5th
+13 percentile of the 2024 market rate survey, well below the 75th percentile equal access standard.
+14 (8) The U.S. Department of Health and Human Services has also established a clear
+15 guideline for determining whether childcare is affordable. Currently, the federal guideline for
+16 affordability is that families should pay no more than seven percent (7%) of family income for
+17 childcare. Using that guideline, almost all families with young children in the State of Rhode Island
+18 need a subsidy to afford the cost of high-quality childcare staffed by qualified, effective, and fairly-
+19 compensated educators.
+20 (9) The Federal Child Care and Development Block Grant focuses on helping lower income
+21 families access child care, limiting the use of federal funds to families with incomes at or below
+22 eighty-five percent (85%) of the state median income ($106,529) for a family of four in Rhode
+23 Island in Federal Fiscal Year 2025), and allows states to waive this limit for children who are
+24 members of a protected population such as children in foster care. As of 2024, there were sixteen
+25 (16) states that set family income eligibility limits at or above eight-five percent (85%) of state
+26 median income, including Maine, New Hampshire, New York and Vermont.
+27 SECTION 2. Title 40 of the General Laws entitled "HUMAN SERVICES" is hereby
+28 amended by adding thereto the following chapter:
+29 CHAPTER 6.7
+30 RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+31 40-6.7-1. Childcare assistance - Families or assistance units eligible.
+32 (a) The department of human services shall provide appropriate childcare to every
+33 participant who is eligible for cash assistance and who requires childcare in order to meet the work
+34 requirements in accordance with this chapter.
+LC000920 - Page 2 of 13
+
+1 (b) Low-income childcare. The department shall provide childcare to all other families with
+2 incomes at or below eighty-five percent (85%) of the state median income, the low-income family
+3 eligibility benchmark in the federal Childcare and Development Block Grant if, and to the extent,
+4 these other families require childcare in order to work at paid employment and/or to participate in
+5 training, apprenticeship, internship, on-the-job training, work experience, work immersion, or other
+6 job-readiness/job- attachment programs sponsored or funded by the human resource investment
+7 council (governor's workforce board) or state agencies that are part of the coordinated program
+8 system pursuant to § 42-102-11. The department shall also provide childcare assistance to families
+9 with incomes below eighty-five percent (85%) of the state median income when such assistance is
+10 necessary for a member of these families to enroll or maintain enrollment in a Rhode Island public
+11 institution of higher education.
+12 (c) No family/assistance unit shall be eligible for childcare assistance under this chapter if
+13 the combined value of its liquid resources exceeds one million dollars ($1,000,000), which
+14 corresponds to the amount permitted by the federal government under the state plan and set forth
+15 in the administrative rulemaking process by the department. As used in this section "liquid
+16 resources" means any interest(s) in property in the form of cash or other financial instruments or
+17 accounts that are readily convertible to cash or cash equivalents. These resources include, but are
+18 not limited to: cash, bank, credit union, or other financial institution savings, checking, and money
+19 market accounts; certificates of deposit or other time deposits; stocks; bonds; mutual funds; and
+20 other similar financial instruments or accounts. These resources do not include educational savings
+21 accounts, plans, or programs; retirement accounts, plans, or programs; or accounts held jointly with
+22 another adult, not including a spouse. The department is authorized to promulgate rules and
+23 regulations to determine the ownership and source of the funds in the joint account.
+24 (d) The parent or caretaker relative of any family applying for childcare assistance may
+25 voluntarily access the state’s office of child support services for assistance in locating the non-
+26 custodial parent, establishing parentage, establishing a child support and/or medical order, and
+27 enforcement of the order, but this shall not be a requirement to qualify for or access childcare
+28 assistance.
+29 (e) For purposes of this section, "appropriate childcare" means childcare, including infant,
+30 toddler, preschool, nursery school, and school age, that is provided by a person or organization
+31 qualified, approved, and authorized to provide the care by the state agency or agencies designated
+32 to make the determinations in accordance with the provisions set forth in this section.
+33 (f)(1) Families with incomes at or below one hundred percent (100%) of the applicable
+34 federal poverty level guidelines shall be provided with free childcare. Families with incomes
+LC000920 - Page 3 of 13
+
+1 greater than one hundred percent (100%) of the applicable federal poverty guideline shall be
+2 required to pay for some portion of the childcare they receive, according to a sliding-fee scale
+3 adopted by the department in the department's rules, not to exceed seven percent (7%) of income
+4 as defined in subsection (h) of this section.
+5 (2) Families who are receiving childcare assistance and who become ineligible for
+6 childcare assistance as a result of their incomes exceeding eighty-five percent (85%) of state
+7 median income shall continue to be eligible for childcare assistance until their incomes exceeds
+8 one hundred percent (100%) of the state median income. To be eligible, the families must continue
+9 to pay for some portion of the childcare they receive, as indicated in a sliding-fee scale adopted in
+10 the department's rules, not to exceed seven percent (7%) of income as defined in subsection (h) of
+11 this section, and in accordance with other eligibility standards.
+12 (g) In determining the type of childcare to be provided to a family, the department shall
+13 take into account the cost of available childcare options, the suitability of the type of care available
+14 for the child; and the parent's preference as to the type of childcare.
+15 (h) For purposes of this section, “income” for families receiving cash assistance under §§
+16 40-5.2-10(g)(2) and 40-5.2-10(g)(3), and income for other families shall mean gross, earned, and
+17 unearned income as determined by departmental regulations.
+18 (i) The caseload estimating conference established by chapter 17 of title 35 shall forecast
+19 the expenditures for childcare in accordance with the provisions of § 35-17-1.
+20 (j) In determining eligibility for childcare assistance for children of members of reserve
+21 components called to active duty during a time of conflict, the department shall freeze the family
+22 composition and the family income of the reserve component member as it was in the month prior
+23 to the month of leaving for active duty. This freeze shall continue until the individual is officially
+24 discharged from active duty.
+25 40-6.7-2. Childcare assistance - Rates established.
+26 (a) Effective July 1, 2025, the rates to be paid by the department of human services and the
+27 department of children, youth and families for licensed childcare centers and family childcare
+28 homes shall be updated to reflect findings from the 2024 Rhode Island childcare market rate survey
+29 and shall be implemented in a tiered manner, reflective of the quality rating the provider has
+30 achieved within the state's quality rating system outlined in § 42-12-23.1. All rates shall meet or
+31 exceed the federal equal access benchmark (seventy-fifth percentile of the most recent Rhode Island
+32 childcare market rate survey) and programs that have achieved a high-quality rating shall be paid
+33 rates at or above the ninetieth percentile of the most recent Rhode Island childcare market rate
+34 survey. Weekly rates shall be paid as follows:
+LC000920 - Page 4 of 13
+
+1 LICENSED CHILDCARE CENTERS & FAMILY CHILDCARE HOMES
+2 Tier One Tier Two Tier Three Tier Four Tier Five
+3 Infant/Toddler $356 $363 $371 $378 $385
+4 Preschool $312 $320 $329 $337 $345
+5 School-Age $280 $287 $295 $303 $310
+6 The rates for licensed family childcare providers paid by the department of human services,
+7 and the department of children, youth and families are determined through collective bargaining.
+8 The rates for infant/toddler and preschool age children paid to licensed family childcare providers
+9 by both departments is implemented in a tiered manner that reflects the quality rating the provider
+10 has achieved in accordance with § 42-12-23.1.
+11 (b) Beginning July 1, 2025, childcare providers serving infants under age eighteen (18)
+12 months who are receiving childcare assistance shall be paid an additional infant bonus rate equal
+13 to fifty percent (50%) of the toddler rate by the department of human services and the department
+14 of children, youth, and families to help stabilize and expand access to quality infant care and to
+15 help cover the costs associated with the required staff: child ratio for infants under age eighteen
+16 (18) months.
+17 (c) By June 30, 2027, and triennially thereafter, the department of human services in
+18 consultation with the department of labor and training shall conduct an independent survey or
+19 certify an independent survey of the then-current weekly market rates for childcare in Rhode Island
+20 and shall post the findings from the market rate survey on the department's public website. The
+21 departments of human services and labor and training will jointly determine the survey criteria
+22 including, but not limited to, rate categories and sub-categories.
+23 (d) In order to expand the accessibility and availability of quality childcare, the department
+24 of human services is authorized to establish, by regulation, alternative or incentive rates for quality
+25 enhancements, innovative or specialized childcare, and alternative methodologies of childcare
+26 delivery, including nontraditional delivery systems and collaborations.
+27 (e) All childcare providers have the option to be paid every two (2) weeks and have the
+28 option of automatic direct deposit and/or electronic funds transfer of payments.
+29 (f) Effective July 1, 2025, full-time childcare assistance payment rates cover thirty (30) to
+30 forty-five (45) hours of care per week. Any child needing forty-five (45) to sixty (60) hours of care
+31 per week will be paid at a super full-time rate of at least ten dollars ($10) per hour. No child will
+32 be enrolled in the Childcare Assistance Program for more than sixty (60) hours per week.
+33 (g) Effective January 1, 2026, all childcare assistance payments to childcare providers shall
+34 be paid prospectively, on or before the Friday preceding the beginning of the childcare service
+LC000920 - Page 5 of 13
+
+1 period, based on children’s authorized enrollment.
+2 (h) Effective January 1, 2026 and annually thereafter, the department of human services
+3 shall pay a registration fee for each child enrolled in the childcare assistance program to the
+4 childcare centers where the children are enrolled. The per child registration fee for childcare centers
+5 shall be equivalent to the per child annual registration fees paid to family childcare providers.
+6 SECTION 3. Section 40-5.2-20 of the General Laws in Chapter 40-5.2 entitled "The Rhode
+7 Island Works Program" is hereby repealed.
+8 40-5.2-20. Childcare assistance — Families or assistance units eligible. [Effective
+9 January 1, 2025.]
+10 (a) The department shall provide appropriate child care to every participant who is eligible
+11 for cash assistance and who requires child care in order to meet the work requirements in
+12 accordance with this chapter.
+13 (b) Low-income child care. The department shall provide child care to all other working
+14 families with incomes at or below two hundred sixty-one percent (261%) of the federal poverty
+15 level if, and to the extent, these other families require child care in order to work at paid
+16 employment as defined in the department’s rules and regulations. The department shall also provide
+17 child care to families with incomes below two hundred sixty-one percent (261%) of the federal
+18 poverty level if, and to the extent, these families require child care to participate on a short-term
+19 basis, as defined in the department’s rules and regulations, in training, apprenticeship, internship,
+20 on-the-job training, work experience, work immersion, or other job-readiness/job-attachment
+21 program sponsored or funded by the human resource investment council (governor’s workforce
+22 board) or state agencies that are part of the coordinated program system pursuant to § 42-102-11.
+23 Effective from January 1, 2021, through June 30, 2022, the department shall also provide childcare
+24 assistance to families with incomes below one hundred eighty percent (180%) of the federal poverty
+25 level when such assistance is necessary for a member of these families to enroll or maintain
+26 enrollment in a Rhode Island public institution of higher education provided that eligibility to
+27 receive funding is capped when expenditures reach $200,000 for this provision. Effective July 1,
+28 2022 through December 31, 2024, the department shall also provide childcare assistance to families
+29 with incomes below two hundred percent (200%) of the federal poverty level when such assistance
+30 is necessary for a member of these families to enroll or maintain enrollment in a Rhode Island
+31 public institution of higher education. Effective January 1, 2025, the department shall also provide
+32 childcare assistance to families with incomes below two hundred sixty-one percent (261%) of the
+33 federal poverty level when such assistance is necessary for a member of these families to enroll or
+34 maintain enrollment in a Rhode Island public institution of higher education.
+LC000920 - Page 6 of 13
+
+1 (c) No family/assistance unit shall be eligible for childcare assistance under this chapter if
+2 the combined value of its liquid resources exceeds one million dollars ($1,000,000), which
+3 corresponds to the amount permitted by the federal government under the state plan and set forth
+4 in the administrative rulemaking process by the department. Liquid resources are defined as any
+5 interest(s) in property in the form of cash or other financial instruments or accounts that are readily
+6 convertible to cash or cash equivalents. These include, but are not limited to: cash, bank, credit
+7 union, or other financial institution savings, checking, and money market accounts; certificates of
+8 deposit or other time deposits; stocks; bonds; mutual funds; and other similar financial instruments
+9 or accounts. These do not include educational savings accounts, plans, or programs; retirement
+10 accounts, plans, or programs; or accounts held jointly with another adult, not including a spouse.
+11 The department is authorized to promulgate rules and regulations to determine the ownership and
+12 source of the funds in the joint account.
+13 (d) As a condition of eligibility for childcare assistance under this chapter, the parent or
+14 caretaker relative of the family must consent to, and must cooperate with, the department in
+15 establishing paternity, and in establishing and/or enforcing child support and medical support
+16 orders for any children in the family receiving appropriate child care under this section in
+17 accordance with the applicable sections of title 15, as amended, unless the parent or caretaker
+18 relative is found to have good cause for refusing to comply with the requirements of this subsection.
+19 (e) For purposes of this section, “appropriate child care” means child care, including infant,
+20 toddler, preschool, nursery school, and school-age, that is provided by a person or organization
+21 qualified, approved, and authorized to provide the care by the state agency or agencies designated
+22 to make the determinations in accordance with the provisions set forth herein.
+23 (f)(1) Families with incomes below one hundred percent (100%) of the applicable federal
+24 poverty level guidelines shall be provided with free child care. Families with incomes greater than
+25 one hundred percent (100%) and less than two hundred percent (200%) of the applicable federal
+26 poverty guideline shall be required to pay for some portion of the child care they receive, according
+27 to a sliding-fee scale adopted by the department in the department’s rules, not to exceed seven
+28 percent (7%) of income as defined in subsection (h) of this section.
+29 (2) Families who are receiving childcare assistance and who become ineligible for
+30 childcare assistance as a result of their incomes exceeding two hundred sixty-one percent (261%)
+31 of the applicable federal poverty guidelines shall continue to be eligible for childcare assistance
+32 until their incomes exceed three hundred percent (300%) of the applicable federal poverty
+33 guidelines. To be eligible, the families must continue to pay for some portion of the child care they
+34 receive, as indicated in a sliding-fee scale adopted in the department’s rules, not to exceed seven
+LC000920 - Page 7 of 13
+
+1 percent (7%) of income as defined in subsection (h) of this section, and in accordance with all other
+2 eligibility standards.
+3 (g) In determining the type of child care to be provided to a family, the department shall
+4 take into account the cost of available childcare options; the suitability of the type of care available
+5 for the child; and the parent’s preference as to the type of child care.
+6 (h) For purposes of this section, “income” for families receiving cash assistance under §
+7 40-5.2-11 means gross, earned income and unearned income, subject to the income exclusions in
+8 §§ 40-5.2-10(g)(2) and 40-5.2-10(g)(3), and income for other families shall mean gross, earned and
+9 unearned income as determined by departmental regulations.
+10 (i) The caseload estimating conference established by chapter 17 of title 35 shall forecast
+11 the expenditures for child care in accordance with the provisions of § 35-17-1.
+12 (j) In determining eligibility for childcare assistance for children of members of reserve
+13 components called to active duty during a time of conflict, the department shall freeze the family
+14 composition and the family income of the reserve component member as it was in the month prior
+15 to the month of leaving for active duty. This shall continue until the individual is officially
+16 discharged from active duty.
+17 (k) Effective from August 1, 2023, through July 31, 2025, the department shall provide
+18 funding for child care for eligible childcare educators, and childcare staff, who work at least twenty
+19 (20) hours a week in licensed childcare centers and licensed family childcare homes as defined in
+20 the department’s rules and regulations. Eligibility is limited to qualifying childcare educators and
+21 childcare staff with family incomes up to three hundred percent (300%) of the applicable federal
+22 poverty guidelines and will have no copayments. Qualifying participants may select the childcare
+23 center or family childcare home for their children. The department shall promulgate regulations
+24 necessary to implement this section, and will collect applicant and participant data to report
+25 estimated demand for state-funded child care for eligible childcare educators and childcare staff.
+26 The report shall be due to the governor and the general assembly by November 1, 2024.
+27 SECTION 4. Section 40-6.2-1.1 of the General Laws in Chapter 40-6.2 entitled "Child
+28 Care — State Subsidies" is hereby repealed.
+29 40-6.2-1.1. Rates established.
+30 (a) Through June 30, 2015, subject to the payment limitations in subsection (c), the
+31 maximum reimbursement rates to be paid by the departments of human services and children, youth
+32 and families for licensed childcare centers and licensed family childcare providers shall be based
+33 on the following schedule of the 75th percentile of the 2002 weekly market rates adjusted for the
+34 average of the 75th percentile of the 2002 and the 2004 weekly market rates:
+LC000920 - Page 8 of 13
+
+1 Licensed Childcare Centers 75th Percentile of Weekly Market Rate
+2 Infant $182.00
+3 Preschool $150.00
+4 School-Age $135.00
+5 Licensed Family Childcare Providers 75th Percentile of Weekly Market Rate
+6 Infant $150.00
+7 Preschool $150.00
+8 School-Age $135.00
+9 Effective July 1, 2015, subject to the payment limitations in subsection (c), the maximum
+10 reimbursement rates to be paid by the departments of human services and children, youth and
+11 families for licensed childcare centers and licensed family childcare providers shall be based on the
+12 above schedule of the 75th percentile of the 2002 weekly market rates adjusted for the average of
+13 the 75th percentile of the 2002 and the 2004 weekly market rates. These rates shall be increased by
+14 ten dollars ($10.00) per week for infant/toddler care provided by licensed family childcare
+15 providers and license-exempt providers and then the rates for all providers for all age groups shall
+16 be increased by three percent (3%). For the fiscal year ending June 30, 2018, licensed childcare
+17 centers shall be reimbursed a maximum weekly rate of one hundred ninety-three dollars and sixty-
+18 four cents ($193.64) for infant/toddler care and one hundred sixty-one dollars and seventy-one
+19 cents ($161.71) for preschool-age children.
+20 (b) Effective July l, 2018, subject to the payment limitations in subsection (c), the
+21 maximum infant/toddler and preschool-age reimbursement rates to be paid by the departments of
+22 human services and children, youth and families for licensed childcare centers shall be
+23 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+24 the state’s quality rating system outlined in § 42-12-23.1.
+25 (1) For infant/toddler child care, tier one shall be reimbursed two and one-half percent
+26 (2.5%) above the FY 2018 weekly amount, tier two shall be reimbursed five percent (5%) above
+27 the FY 2018 weekly amount, tier three shall be reimbursed thirteen percent (13%) above the FY
+28 2018 weekly amount, tier four shall be reimbursed twenty percent (20%) above the FY 2018 weekly
+29 amount, and tier five shall be reimbursed thirty-three percent (33%) above the FY 2018 weekly
+30 amount.
+31 (2) For preschool reimbursement rates, tier one shall be reimbursed two and one-half
+32 percent (2.5%) above the FY 2018 weekly amount, tier two shall be reimbursed five percent (5%)
+33 above the FY 2018 weekly amount, tier three shall be reimbursed ten percent (10%) above the FY
+34 2018 weekly amount, tier four shall be reimbursed thirteen percent (13%) above the FY 2018
+LC000920 - Page 9 of 13
+
+1 weekly amount, and tier five shall be reimbursed twenty-one percent (21%) above the FY 2018
+2 weekly amount.
+3 (c) [Deleted by P.L. 2019, ch. 88, art. 13, § 4.]
+4 (d) By June 30, 2004, and biennially through June 30, 2014, the department of labor and
+5 training shall conduct an independent survey or certify an independent survey of the then-current
+6 weekly market rates for child care in Rhode Island and shall forward the weekly market rate survey
+7 to the department of human services. The next survey shall be conducted by June 30, 2016, and
+8 triennially thereafter. The departments of human services and labor and training will jointly
+9 determine the survey criteria including, but not limited to, rate categories and sub-categories.
+10 (e) In order to expand the accessibility and availability of quality child care, the department
+11 of human services is authorized to establish, by regulation, alternative or incentive rates of
+12 reimbursement for quality enhancements, innovative or specialized child care, and alternative
+13 methodologies of childcare delivery, including nontraditional delivery systems and collaborations.
+14 (f) Effective January 1, 2007, all childcare providers have the option to be paid every two
+15 (2) weeks and have the option of automatic direct deposit and/or electronic funds transfer of
+16 reimbursement payments.
+17 (g) Effective July 1, 2019, the maximum infant/toddler reimbursement rates to be paid by
+18 the departments of human services and children, youth and families for licensed family childcare
+19 providers shall be implemented in a tiered manner, reflective of the quality rating the provider has
+20 achieved within the state’s quality rating system outlined in § 42-12-23.1. Tier one shall be
+21 reimbursed two percent (2%) above the prevailing base rate for step 1 and step 2 providers, three
+22 percent (3%) above prevailing base rate for step 3 providers, and four percent (4%) above the
+23 prevailing base rate for step 4 providers; tier two shall be reimbursed five percent (5%) above the
+24 prevailing base rate; tier three shall be reimbursed eleven percent (11%) above the prevailing base
+25 rate; tier four shall be reimbursed fourteen percent (14%) above the prevailing base rate; and tier
+26 five shall be reimbursed twenty-three percent (23%) above the prevailing base rate.
+27 (h) Through December 31, 2021, the maximum reimbursement rates paid by the
+28 departments of human services, and children, youth and families to licensed childcare centers shall
+29 be consistent with the enhanced emergency rates provided as of June 1, 2021, as follows:
+30 Tier 1 Tier 2 Tier 3 Tier 4 Tier 5
+31 Infant/Toddler $257.54 $257.54 $257.54 $257.54 $273.00
+32 Preschool Age $195.67 $195.67 $195.67 $195.67 $260.00
+33 School Age $200.00 $200.00 $200.00 $200.00 $245.00
+34 The maximum reimbursement rates paid by the departments of human services, and
+LC000920 - Page 10 of 13
+
+1 children, youth and families to licensed family childcare providers shall be consistent with the
+2 enhanced emergency rates provided as of June 1, 2021, as follows:
+3 Tier 1 Tier 2 Tier 3 Tier 4 Tier 5
+4 Infant/Toddler $224.43 $224.43 $224.43 $224.43 $224.43
+5 Preschool Age $171.45 $171.45 $171.45 $171.45 $171.45
+6 School Age $162.30 $162.30 $162.30 $162.30 $162.30
+7 (i) Effective January 1, 2022, the maximum reimbursement rates to be paid by the
+8 departments of human services and children, youth and families for licensed childcare centers shall
+9 be implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+10 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+11 reimbursed as follows:
+12 Licensed Childcare Centers
+13 Tier One Tier Two Tier Three Tier Four Tier Five
+14 Infant/Toddler $236.36 $244.88 $257.15 $268.74 $284.39
+15 Preschool $207.51 $212.27 $218.45 $223.50 $231.39
+16 School-Age $180.38 $182.77 $185.17 $187.57 $189.97
+17 The maximum reimbursement rates for licensed family childcare providers paid by the
+18 departments of human services, and children, youth and families is determined through collective
+19 bargaining. The maximum reimbursement rates for infant/toddler and preschool age children paid
+20 to licensed family childcare providers by both departments is implemented in a tiered manner that
+21 reflects the quality rating the provider has achieved in accordance with § 42-12-23.1.
+22 (j) Effective July 1, 2022, the maximum reimbursement rates to be paid by the departments
+23 of human services and children, youth and families for licensed childcare centers shall be
+24 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+25 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+26 reimbursed as follows:
+27 Licensed Childcare Centers
+28 Tier One Tier Two Tier Three Tier Four Tier Five
+29 Infant/Toddler $265 $270 $282 $289 $300
+30 Preschool $225 $235 $243 $250 $260
+31 School-Age $200 $205 $220 $238 $250
+32 (k) Effective July 1, 2024, the maximum reimbursement rates to be paid by the departments
+33 of human services and children, youth and families for licensed childcare centers shall be
+34 implemented in a tiered manner, reflective of the quality rating the provider has achieved within
+LC000920 - Page 11 of 13
+
+1 the state’s quality rating system outlined in § 42-12-23.1. Maximum weekly rates shall be
+2 reimbursed as follows:
+3 Licensed Childcare Centers
+4 Tier One Tier Two Tier Three Tier Four Tier Five
+5 Infant/Toddler $278 $284 $296 $303 $315
+6 Preschool $236 $247 $255 $263 $273
+7 School-Age $210 $215 $231 $250 $263
+8 SECTION 5. This act shall take effect on July 1, 2025.
+========
+LC000920
+========
+LC000920 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND CHILDCARE IS ESSENTIAL ACT
+***
+1 This act would create the Rhode Island Childcare Assistance Program that governs both
+2 family eligibility for the state’s childcare subsidy program and the rates paid to childcare providers
+3 serving families receiving a subsidy. The act would expand eligibility for the program to meet the
+4 federal eligibility benchmark so that families with incomes at or below eighty-five percent (85%)
+5 of the state median income would be eligible. The act would allow families to continue eligibility
+6 until their income exceeds one hundred percent (100%) of the state median income and would make
+7 participation in the state’s child support enforcement program voluntary for the childcare subsidy.
+8 The act would also increase the tiered rates of paid for licensed childcare centers to meet or exceed
+9 the federal equal access benchmark, implement a new differential bonus rate for infants under age
+10 eighteen (18) months and adopt fair payment practices consistent with the federal rules for the Child
+11 Care and Development Fund.
+12 This act would take effect on July 1, 2025.
+========
+LC000920
+========
+LC000920 - Page 13 of 13
+
+[DELETED: TATE  OF  RHODE  ISLAND B S M D D L G S T ( A t a h c i e t s l f p t ( A t a h c i e f a p t a e s a i p f m w o h l l e o ( H c p s b q a e e a e a ( t b a g r f t h d a l - s t c f f l p T r r t s w t i t q t (]
+[DELETED:  m ( ( R g m t ( c q s V p ( T U D o H a H S h a e a c g a c n c ( f e I m ( m S a C R 4 ( T d o h s s p a c t e p r]
+[DELETED:  ( i e t t j c s w n i ( t c v o i l r e o m d ( w c i t a r p b t d A u i t s " r a n m o a a a n i a s T d i a t p r a r ( v c e a ( t q t ( f p l g b p c F w]
+[DELETED:  g r a a ( F w a r c a a w b i f c m o t t t ( t f ( 4 u ( t ( c c t d 4 ( d h a a e c r s]
+[DELETED:  L   I   P S T a T b h ( m t o h ( ( c c a d i ( o e o s c a m o c d ( o ( f p b ( b]
+[DELETED:  p ( s c c s S I 4 C a — F o a u e [ J ( f c a a w r c c i o t m t w r i a ( f l i a t t e t o f r c c i o t w a p e c p b o t w e w i o o j p b E a l e r 2 w i p c f m]
+[DELETED:  ( t c v o i l r e o m d ( w c i i c u d o a T s ( c o t f m c t m c w t d i e o f a c i t f r a c c u t s i a r ( t q t ( p o p t p ( F w a r c a a w b i f c o u t i e t h p ( o t a f p g r]
+[DELETED:  p e ( t f ( 4 § u ( t ( c c t t m o l f a d T s c u t i i o d ( f ( t c p c n t i t s a w c a a p d t r e T S C 4 ( T J 3 2 s t t p l i s ( t m a o a]
+[DELETED:  L  7 I     $ P    $ S    $ L 7 I     $ P    $ S    $ E r f a t t d ( p w f i c p b l f c p b c f c ( E J l 2 s t t p l i s ( t m h s a c y a f f l c c s b i t ( ( t 2 a a ( p a 2]
+[DELETED:  w w ( ( t w t t t T d o h s a l a t w j d ( o h s i a t e b r a o i r o r q e o s c c a a m ( ( r ( t p a w t s q r s o i § 4 T o s b r p p p r f ( T D 3 2 t m r r p b t d b   T  T  T   T  T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ T m r r p b t d o h s a]
+[DELETED:  c e   T  T  T  T  T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ ( E J 1 2 t m r r t b p b t d b t s q r s o i § 4 M w r s b r L   T I $ $ $ $ $ P $ $ $ $ $ S $ $ $ $ $ T d b t r ( o h s a c y a f f l c c s b i t s q r s o i § 4 M w r s b r L   T  I $  $  $  $  $ P $  $  $  $  $ S $  $  $  $  $ ( o h s a c y a f f l c c s b i]
+[DELETED:  t s q r s o i § 4 M w r s b r L   T I $  $  $  $  $ P $  $  $  $  $ S $  $  $  $  $ S]
+[DELETED:  T f s f o u p T t e C T]

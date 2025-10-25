@@ -1,0 +1,769 @@
+Title: RELATING TO PUBLIC RECORDS -- PUBLIC RECORDS ADMINISTRATION
+Official Title: RELATING TO PUBLIC RECORDS -- PUBLIC RECORDS ADMINISTRATION
+Number of Sections: 1
+Source: versions - 742
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0742
+========
+LC001329
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senator Melissa A. Murray
+Date Introduced: March 07, 2025
+Referred To: Senate Judiciary
+(Secretary of State)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 38-3-2, 38-3-3, 38-3-4, 38-3-5.1, 38-3-6 and 38-3-7 of the General
+2 Laws in Chapter 38-3 entitled "Public Records Administration" are hereby amended to read as
+3 follows:
+4 38-3-2. Definitions.
+5 For the purpose of this chapter As used in this chapter:
+6 (1) "Administrator" means the public records administrator who coordinates and manages
+7 the activities and responsibilities of the public records administration program. The administrator
+8 shall be appointed by and serve at the pleasure of the secretary of state.
+9 (1)(2) “Agency” or “public body” shall mean means any executive, legislative, judicial,
+10 regulatory, administrative body of the state, or any political subdivision thereof; including, but not
+11 limited to, any department, division, agency, commission, board, office, bureau, authority, any
+12 school, fire, or water district, or other agency or quasi-public agency of state or local government
+13 which exercises governmental functions, or any other public or private agency, person, partnership,
+14 corporation, or business entity acting on behalf of any public agency.
+15 (3) "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+16 optical, electromagnetic, or similar capabilities.
+17 (4) "Electronic record" means a record created, generated, sent, communicated, received,
+18 or stored by electronic means.
+19 (2)(5) “Program” shall mean means the public records administration program of the
+1 secretary of state.
+2 (3)(6) “Public record” or “public records” shall mean means all documents, papers, letters,
+3 maps, books, tapes, photographs, films, sound recordings, electronic records, or other material
+4 regardless of physical form or characteristics made or received pursuant to law or ordinance or in
+5 connection with the transaction of official business by any agency.
+6 (4) “Public records repository” shall mean the establishment maintained by the program
+7 for preservation of those public records determined by the program to have permanent value
+8 warranting their continued preservation and which has been accepted by the program for transfer
+9 to its custody.
+10 (5)(7) “Records center” shall mean an establishment maintained by the program for the
+11 means a facility, under the direction of the administrator that provides storage, processing,
+12 servicing, and security of public records that must be retained for varying periods of time but need
+13 not be retained in an agency’s office equipment or space.
+14 (6)(8) “Records control schedule” or "records retention schedule" shall mean means the
+15 document or documents establishing the official retention, maintenance, and disposal requirements
+16 for a record or record series, or type of record based on upon any administrative, legal, fiscal, and/or
+17 historical values for the scheduled records value related to that record or records series.
+18 (9) "Record copy" means the record that an agency designates as the official record for
+19 legal and business purposes, and to which the agency applies records management policy measures
+20 for the protection, security, maintenance and/or preservation thereof.
+21 (10) "Records officer" means the representative designated by an agency as responsible for
+22 the operation of the records management program for the agency and related communications with
+23 the public records administration.
+24 (11) "Record series" means a collection of records maintained as a group and derived from
+25 or related to a particular subject, activity or function of an agency.
+26 (12) "Retention" means the duration of time that a record, record series, or other
+27 information shall be maintained in its original form.
+28 (13) "Secretary" means the Rhode Island secretary of state.
+29 (14) "State archives" means the official state repository or any other repository approved
+30 by the state archivist for long-term or permanent records.
+31 (15) "State archivist" means the individual who coordinates, directs, and administers the
+32 activities and responsibilities of the state archives.
+33 38-3-3. Public records administration program.
+34 (a) The public records administration program shall be organized as deemed necessary by
+LC001329 - Page 2 of 11
+1 the secretary of state for the proper discharge of its duties and responsibilities under this chapter.
+2 All personnel, furnishings, equipment, finances, property, and contractual arrangements of the
+3 public records administration shall be the responsibility of the secretary of state.
+4 (b) There shall be a public records advisory commission consisting of seventeen (17)
+5 members, one of whom shall be a member of the senate chosen by the president of the senate, one
+6 of whom shall be a member of the house of representatives chosen by the speaker of the house, six
+7 (6) of whom shall be chosen by the governor, and seven (7) of whom shall be chosen by the
+8 secretary of state. The secretary of state or designee shall serve as a permanent member of the
+9 commission. The state archivist shall serve as a permanent member of the commission. The
+10 appointments shall consist of persons who are qualified by training and experience with proven
+11 interest in historical records and public records management. In the first instance, five (5) members
+12 shall be appointed for a one year term, two (2) by the governor and three (3) by the secretary of
+13 state; five (5) members shall be appointed for a two (2) year term, one by the speaker of the house,
+14 one by the president of the senate, two (2) by the governor, and one by the secretary of state; five
+15 (5) members shall be appointed for a three (3) year term, two (2) by the governor, and three (3) by
+16 the secretary of state. The members shall hold office until July 1, in the years in which their
+17 respective terms end. Thereafter, prior to July 1, successors shall be appointed to the commission
+18 to the members of the commission whose terms expired. Vacancy of a member shall be filled by
+19 appointment by the corresponding authority for the remainder of the unexpired terms.
+20 (c) The secretary of state or designee shall serve as the chairperson of the commission. The
+21 state archivist or designee shall serve as the secretary of the commission with voting rights.
+22 (d) It shall be the duty of the public records advisory commission to provide professional
+23 and technical assistance to the public records administration program, the state archives, and the
+24 local governments of the state in all matters relating to the administration of public records.
+25 Members of the commission shall serve without pay.
+26 (e) The secretary of state may appoint an administrator of the program and shall establish
+27 his or her qualifications other than the professional competence required. The administrator shall
+28 coordinate, direct, and administer the activities and responsibilities of the program. The
+29 administrator shall serve at the pleasure of the secretary of state.
+30 (f) The program may make and enter into contracts and agreements with other agencies,
+31 organizations, associations, corporations, and individuals, or federal agencies as it may determine
+32 are necessary, expedient, or incidental to the performance of its duties or the execution of its powers
+33 under this chapter.
+34 (g) The program shall adopt rules and regulations deemed necessary to carry out its duties
+LC001329 - Page 3 of 11
+1 and responsibilities under this chapter which rules shall be binding on all agencies and persons
+2 affected thereby. The willful violation of any of the rules and regulations adopted by the program
+3 shall constitute a misdemeanor.
+4 (h) The program may accept gifts, grants, bequests, loans, and endowments for purposes
+5 not inconsistent with its responsibilities under this chapter.
+6 38-3-4. Duties of administrator.
+7 (a) It shall be the duty and responsibility of the administrator to render all services required
+8 by the program herein set forth that can advantageously and effectively be centralized. The office
+9 shall perform such other functions and duties as the secretary of state may direct.
+10 (b) The administrator shall supervise, direct, and coordinate the activities of the program.
+11 (c) The administrator shall be designated “the public records administrator”.
+12 It shall be the duty and responsibility of the administrator to:
+13 (1) Establish and administer a public records management program, for public bodies
+14 which shall be primarily responsible for assisting state agencies and cities and towns with the care
+15 and management of public records, including the operation of a record center or centers, and apply
+16 efficient and economical management methods relating to the creation, utilization, retention,
+17 preservation, and disposal of records or the transfer of permanent records to the state archives.
+18 (2) Establish and administer a local government records program which shall be primarily
+19 responsible for assisting cities and towns with the care and management of their public records.
+20 The program shall be charged with designing and implementing a training program for local
+21 government records keepers, publishing retention schedules for the proper disposition of public
+22 records in local governments, and providing technical and advisory assistance in the storage,
+23 preservation and ongoing maintenance of the records of local governments.
+24 (3) Analyze, develop, establish, and coordinate standards, procedures, and techniques of
+25 record making and record keeping to ensure the access, security, and preservation of public records.
+26 (4) Institute and maintain a training and information program including, but not limited to,
+27 the publication of educational materials on all phases of records management to bring to the
+28 attention of all agencies approved and current practices, methods, procedures, and devices for the
+29 efficient and economical management of records.
+30 (5) Make continuous surveys of record keeping operations, to examine the condition of
+31 public records and recommend improvements to public officials in current records management
+32 practices, space, equipment, supplies, and personnel in creating, maintaining, and making available
+33 the public records in their custody.
+34 (6) Establish and maintain a program, in cooperation with each agency, for the selection
+LC001329 - Page 4 of 11
+1 and protection of public records considered essential to the operation of government and to the
+2 protection of the rights and privileges of citizens.
+3 (7) Create forms for records management processes and the development of the required
+4 records control schedules submitted by an agency to the program.
+5 (8) Create, analyze, and uphold records control schedules of public records in the custody
+6 of state and local agencies.
+7 (9) Establish safeguards against unauthorized or unlawful removal or loss of records.
+8 (10) Initiate appropriate action to recover records removed unlawfully or without
+9 authorization.
+10 (11) Preserve and administer such public records as shall be transferred to the state archives
+11 according to approved conservation and security practices, and to permit them to be inspected,
+12 examined, and copied at reasonable times and under supervision of the program; provided that, any
+13 record placed in keeping of the program under special terms or conditions restricting their use shall
+14 be made available only in accordance with the provisions of § 38-2-2.
+15 (12) Provide a public research room where, upon policies established by the program, the
+16 records in the state archives may be studied.
+17 (13) Make certified copies under seal of any records transferred to it upon the application
+18 of any person, and sign the certificates which shall have the same force and effect as if made by the
+19 agency from which the records were received. The program may charge a reasonable fee for this
+20 service.
+21 (14) Assist agencies in identifying, securing, and transferring records of permanent legal,
+22 historical or enduring value to the state archives.
+23 (15) Approve emergency destruction of public records which were damaged due to
+24 catastrophic, environmental, or otherwise unforeseen circumstances and pose a risk to human
+25 health, but have not met their established retention.
+26 (16) Submit a yearly report on the progress of the local government records program to the
+27 general officers and to the general assembly.
+28 (17) Request funding for the public records administration program in accordance with §
+29 38-3-3 and for the local government records program pursuant to § 42-8.1-20(e) as part of the
+30 operating budget of the office of secretary of state to operate the program.
+31 (18) Render all services required by the program herein set forth that can advantageously
+32 and effectively be centralized.
+33 (19) Facilitate the transfer of permanent records of any state or local agency, elected
+34 official, or of the general assembly to the state archives for permanent preservation and public
+LC001329 - Page 5 of 11
+1 access.
+2 (20) To perform such other functions and duties as the secretary may direct.
+3 38-3-5.1. Reproduction of public records — Destruction of original records
+4 Reproduction of public records.
+5 (a) If any department or agency of government, in the regular course of business or activity,
+6 has kept or recorded any memorandum, writing, state tax returns, report, application, payment,
+7 entry, print, representation, or combination thereof, or any act, transaction, occurrence, or event,
+8 and, in the regular course of business, public record or, has caused any or all of the public records
+9 to be recorded, copied, or reproduced by a photographic, photostatic, microfilm, micro-card, optical
+10 disk, miniature photographic, electronic or other process which accurately reproduces or forms a
+11 durable medium for reproducing the original,:
+12 (i) the The original may be destroyed, and the reproduction established as the record copy,
+13 in the regular course of business, provided the process meets standards established by the public
+14 records administration, and provided all the provisions of § 38-3-6 concerning disposal of public
+15 records readability and accessibility are fulfilled.
+16 (ii) The reproduction, when satisfactorily identified, shall be admissible in evidence as the
+17 original in any judicial or administrative proceeding whether or not the original exists or is available
+18 and an enlargement or facsimile of the reproduction shall be likewise admissible in evidence if the
+19 original is in existence and available for inspection under the direction of the court.
+20 (b) The introduction of a reproduced record, enlargement, or facsimile into evidence shall
+21 not preclude the admission into evidence of the original, if available.
+22 (c) The duplicate of any record made pursuant to this chapter, and designated as a record
+23 copy, shall have the same force and effect for all purposes as the original record.
+24 (d) When provided in response to a request from the public, a certified copy shall have the
+25 same force and effect for all purposes as the original record.
+26 (e) This section shall not be construed to exclude from introduction into evidence any
+27 document or copy thereof which is otherwise admissible under the Rhode Island general laws, as
+28 amended.
+29 38-3-6. Public records custody and disposal.
+30 (a) Each agency shall prepare and submit to the program, in accordance with the rules and
+31 regulations of the program, record control schedules for all public records in the custody of the
+32 agency.
+33 (b) The offices of the attorney general and the auditor general will advise the program on
+34 the legal and fiscal values of records covered by proposed records control schedules. Proposed
+LC001329 - Page 6 of 11
+1 schedules shall be sent to the offices of the attorney general and the auditor general. Within one
+2 hundred and twenty (120) days of receipt, the attorney general and the auditor general may, within
+3 their discretion, provide the administrator with comments regarding the proposed schedule. If the
+4 proposed schedules are not returned to the administrator within one hundred and twenty (120) days
+5 of receiving the proposed schedule, the proposed schedule may nonetheless be made final for use
+6 in records disposition pursuant to § 38-3-7(4).
+7 (c) Those records which are determined by an agency not to be needed in the transaction
+8 of current business but which, for legal or fiscal requirements, must be retained for specific time
+9 periods beyond administrative needs, shall may be sent to the records center. The records will be
+10 kept in the center until time for disposition as provided in record control schedules.
+11 (d) Public records possessing permanent enduring value and that have not yet met
+12 minimum retention as determined by approved the records control schedules shall may be
+13 transferred to the public records repository when no longer needed by an agency in transaction of
+14 current business state records center after the twentieth year or when no longer considered active.
+15 (e) Public records determined to be of permanent value according to the records retention
+16 schedule and by the administrator in consultation with the state archivist, shall be transferred to the
+17 state archives following assessment after the twentieth year, if not sooner, if the transfer of custody
+18 is in the best interest of the record.
+19 (e)(f) Title to any record placed in the records center shall remain in with the agency placing
+20 the record in the center.
+21 (f)(g) Title to any record transferred to the public records repository state archives, as
+22 authorized in this chapter, shall be vested in the program and shall be made available to the public.
+23 (g)(h) The program shall preserve and administer such public records as shall be transferred
+24 to its custody according to approved conservation and security practices, and to permit them to be
+25 inspected, examined, and copied at reasonable times and under supervision of the program;
+26 provided that any Any record placed in keeping of the program under special terms or conditions
+27 restricting their use shall be made available only in accordance with the terms and conditions
+28 provisions of § 38-2-2.
+29 (h)(i) Provide a public research room where, upon policies established by the program, the
+30 records in the public records repository state archives may be studied.
+31 (i) The program may make certified copies under seal of any records transferred to it upon
+32 the application of any person, and the certificates, signed by the administrator or his or her designee,
+33 shall have the same force and effect as if made by the agency from which the records were received.
+34 The program may charge a reasonable fee for this service.
+LC001329 - Page 7 of 11
+1 (j) No public record shall be destroyed or otherwise disposed of by any agency without
+2 prior notice to, and approval by, the program pursuant to § 38-3-6(a). Records without established
+3 retention in an approved records retention schedule cannot be destroyed.
+4 (k) The program shall adopt reasonable rules and regulations not inconsistent with this
+5 chapter relating to the destruction and disposal of records. The rules and regulations shall provide
+6 but not be limited to:
+7 (1) Procedures for preparing and submitting record control schedules to the program.
+8 (2) Procedures for the physical destruction or other disposal of records.
+9 (3) Standards for the reproduction of records for security or with a view to the disposal of
+10 the original record.
+11 (l) The program shall:
+12 (1) Establish safeguards against unauthorized or unlawful removal or loss of records; and
+13 (2) Initiate appropriate action to recover records removed unlawfully or without
+14 authorization.
+15 (m) The program may prepare and publish handbooks, guides, indexes, and other literature
+16 directed toward encouraging the management, preservation, and uses of the state’s public records
+17 resource.
+18 38-3-7. Agency responsibilities. Duties and responsibilities of agencies.
+19 It shall be the duty of each agency to:
+20 (1) Cooperate with the program in complying with the provisions of this chapter.
+21 (2) Establish and maintain an active and continuous program procedure for the economical
+22 and efficient management of public records, including, but not limited to, working with the
+23 administrator to create and update records control schedules and transfer permanent records to the
+24 state archives.
+25 (3) Transfer records, or any reasonably segregable portion thereof not including personal
+26 papers deemed not public pursuant to § 42-8.1-2(11), created or received by general officers,
+27 immediate staff, or a unit or individual of the executive office whose function is to advise and assist
+28 general officers, in the course of conducting activities which relate to or have an effect upon the
+29 carrying out of the constitutional, statutory, or other official duties carried out on behalf of the state.
+30 Such materials shall be transferred at the end of the elected official's final term within thirty (30)
+31 days of leaving such office.
+32 (4) Submit a certification of records destruction for approval by the program for each public
+33 record the agency seeks to destroy once it has met its approved minimum retention period. The
+34 certification of records destruction shall be the permanent replacement for duly approved destroyed
+LC001329 - Page 8 of 11
+1 public records.
+2 (5) Not later than January 1, 2026, designate a records officer who has responsibility for
+3 compliance with this chapter and has been provided orientation and training by the public records
+4 administration regarding this chapter. The records officer:
+5 (i) Shall establish and operate a records management program for the agency in cooperation
+6 with the public records administration and state archives;
+7 (ii) May delegate responsibilities to an individual within the agency at the records officer's
+8 discretion;
+9 (iii) Annually confirm the accuracy of the agency's records control schedule and request
+10 amendments if necessary;
+11 (iv) Annually submit for approval of destruction of records that have met minimum
+12 retention periods based on the records control schedule; and
+13 (v) May also serve as the agency forms management representative as required by § 42-
+14 84-5.
+15 SECTION 2. Chapter 38-3 of the General Laws entitled "Public Records Administration"
+16 is hereby amended by adding thereto the following sections:
+17 38-3-8. Public reporting of compliance.
+18 Every year the secretary shall prepare a report summarizing the compliance with the
+19 provisions of this chapter, which shall be submitted to the general assembly and which shall be
+20 published electronically on the department of state website.
+21 38-3-9. Violations.
+22 The administrator is hereby empowered to bring an action in superior court for restraining
+23 orders and injunctive relief to restrain and enjoin violations or threatened violations of any
+24 provision of this chapter.
+25 38-3-10. Severability.
+26 If any provision of this chapter or the application of this chapter to any person or
+27 circumstances is held invalid, the invalidity shall not affect other provisions or applications of this
+28 chapter which can be given effect without the invalid provision or application, and to this end the
+29 provisions of this chapter are declared to be severable.
+30 SECTION 3. Section 38-3-5 of the General Laws in Chapter 38-3 entitled "Public Records
+31 Administration" is hereby repealed.
+32 38-3-5. Duties of program.
+33 It shall be the duty and responsibility of the public records administration program to:
+34 (1) Establish and administer a public records management program, including the operation
+LC001329 - Page 9 of 11
+1 of a record center or centers, and appoint a director who will apply efficient and economical
+2 management methods relating to the creation, utilization, maintenance, retention, preservation, and
+3 disposal of records.
+4 (2) Analyze, develop, establish, and coordinate standards, procedures, and techniques of
+5 record making and record keeping.
+6 (3) Insure the maintenance and security of records which are deemed appropriate for
+7 preservation.
+8 (4) Institute and maintain a training and information program in all phases of records
+9 management to bring to the attention of all agencies approved and current practices, methods,
+10 procedures, and devices for the efficient and economical management of records.
+11 (5) Make available a centralized program of microfilming for the benefit of all agencies.
+12 (6) Make continuous surveys of record keeping operations.
+13 (7) Recommend improvements in current records management practices, including the use
+14 of space, equipment, supplies, and personnel in creating, maintaining, and servicing records.
+15 (8)(i) Establish and maintain a program, in cooperation with each agency, for the selection
+16 and protection of public records considered essential to the operation of government and to the
+17 protection of the rights and privileges of citizens.
+18 (ii) Make or to have made duplicates of essential records, or to designate existing record
+19 copies as essential records to be protected in the place and manner of safekeeping as prescribed by
+20 the program.
+21 (iii) The duplicate of any record made pursuant to this chapter shall have the same force
+22 and effect for all purposes as the original record. A transcript, exemplification, or certified copy of
+23 the duplicate shall be deemed, for all purposes, to be the original record.
+24 SECTION 4. This act shall take effect upon passage.
+========
+LC001329
+========
+LC001329 - Page 10 of 11
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC RECORDS -- PUBLIC RECORDS ADMINISTRATION
+***
+1 This act would update the public records administration act by designating a public records
+2 administrator, amending the definition of records, adding various definitions to include, electronic,
+3 records series, state archivist, and retention, modifying a records control schedule, designating a
+4 records officer and establish procedures for the retention of public records and their transfer after
+5 twenty (20) years to the state archives. It would also provide that a research room be established
+6 for research of records, that the administrator submit yearly reports, provide certified copies,
+7 approve emergency destruction of public records and perform other functions and duties as the
+8 secretary of state may direct.
+9 This act would take effect upon passage.
+========
+LC001329
+========
+LC001329 - Page 11 of 11
+[DELETED: TATE  OF  RHODE  ISLAND S L f 3 F ( t s ( r l s w c ( o ( o ( “ s m m t p r a p o t]
+[DELETED:  s ( m r c ( f o t d b t t h v w t ( m a f u t d o t a t p s p s n ( d f h ( l f ( t t ( o ( " m t d o t t a r r s o o i ( ( b ( a 3 (]
+[DELETED:  t A p ( m o ( s c T s a s s a a p m o t c T a i s s o ( t r t a ( s ( a l g o t s i a m r t t a o p r M ( h c d a a t a a r o t p T a ( o a u (]
+[DELETED:  a a s ( n 3 ( b s ( ( I ( w a e a e m m r t t c u r p ( r T p s b c w d a i a p f l g r g a p t a a a i t s p ( r ( t t a e ( p p t (]
+[DELETED:  a p ( r ( o ( ( I a a t r r r u o w a ( a e r b ( r ( o a s ( h ( A e d o p r w w d d t c h ( g ( 3 o ( a ( o]
+[DELETED:  a ( 3 R o p r — D o o r R ( h e a t d d ( i r r ( o a o ( n ( c ( s ( d a 3 ( r a ( t]
+[DELETED:  s h t p o i ( o p k ( P r p p e v a t h n y m m r a d b a t r c s s m b t c ( s s i ( t ( a ( t i e a c a r t a u s o t p p r t p ( r ( t s T]
+[DELETED:  ( p r ( c b ( ( ( t ( ( ( I a a t r r r u o w a ( d r 3 I ( ( a e m o p r i b n l t w w t a s ( p i g c S d ( r c]
+[DELETED:  p ( c a ( w ( d ( a ( A s f a o d o r t h m m r ( 8 S i 3 E y t s s p a r s t c w t p p 3 T o a i r t r a e v o t v o a p 3 I a p o t c o t a o t c t a p o c c p S A 3 I (]
+[DELETED:  o m d ( r ( I t m a s o d a f p ( m p ( ( ( o ( a p ( c t ( a t S]
+[DELETED:  T a r r t f r o r t a s y r p c a s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0742
+========
+LC001329
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC RECORDS -- PUBLIC RECORDS ADMINISTRATION
+Introduced By: Senator Melissa A. Murray
+Date Introduced: March 07, 2025
+Referred To: Senate Judiciary
+(Secretary of State)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 38-3-2, 38-3-3, 38-3-4, 38-3-5.1, 38-3-6 and 38-3-7 of the General
+2 Laws in Chapter 38-3 entitled "Public Records Administration" are hereby amended to read as
+3 follows:
+4 38-3-2. Definitions.
+5 For the purpose of this chapter As used in this chapter:
+6 (1) "Administrator" means the public records administrator who coordinates and manages
+7 the activities and responsibilities of the public records administration program. The administrator
+8 shall be appointed by and serve at the pleasure of the secretary of state.
+9 (1)(2) “Agency” or “public body” shall mean means any executive, legislative, judicial,
+10 regulatory, administrative body of the state, or any political subdivision thereof; including, but not
+11 limited to, any department, division, agency, commission, board, office, bureau, authority, any
+12 school, fire, or water district, or other agency or quasi-public agency of state or local government
+13 which exercises governmental functions, or any other public or private agency, person, partnership,
+14 corporation, or business entity acting on behalf of any public agency.
+15 (3) "Electronic" means relating to technology having electrical, digital, magnetic, wireless,
+16 optical, electromagnetic, or similar capabilities.
+17 (4) "Electronic record" means a record created, generated, sent, communicated, received,
+18 or stored by electronic means.
+19 (2)(5) “Program” shall mean means the public records administration program of the
+
+1 secretary of state.
+2 (3)(6) “Public record” or “public records” shall mean means all documents, papers, letters,
+3 maps, books, tapes, photographs, films, sound recordings, electronic records, or other material
+4 regardless of physical form or characteristics made or received pursuant to law or ordinance or in
+5 connection with the transaction of official business by any agency.
+6 (4) “Public records repository” shall mean the establishment maintained by the program
+7 for preservation of those public records determined by the program to have permanent value
+8 warranting their continued preservation and which has been accepted by the program for transfer
+9 to its custody.
+10 (5)(7) “Records center” shall mean an establishment maintained by the program for the
+11 means a facility, under the direction of the administrator that provides storage, processing,
+12 servicing, and security of public records that must be retained for varying periods of time but need
+13 not be retained in an agency’s office equipment or space.
+14 (6)(8) “Records control schedule” or "records retention schedule" shall mean means the
+15 document or documents establishing the official retention, maintenance, and disposal requirements
+16 for a record or record series, or type of record based on upon any administrative, legal, fiscal, and/or
+17 historical values for the scheduled records value related to that record or records series.
+18 (9) "Record copy" means the record that an agency designates as the official record for
+19 legal and business purposes, and to which the agency applies records management policy measures
+20 for the protection, security, maintenance and/or preservation thereof.
+21 (10) "Records officer" means the representative designated by an agency as responsible for
+22 the operation of the records management program for the agency and related communications with
+23 the public records administration.
+24 (11) "Record series" means a collection of records maintained as a group and derived from
+25 or related to a particular subject, activity or function of an agency.
+26 (12) "Retention" means the duration of time that a record, record series, or other
+27 information shall be maintained in its original form.
+28 (13) "Secretary" means the Rhode Island secretary of state.
+29 (14) "State archives" means the official state repository or any other repository approved
+30 by the state archivist for long-term or permanent records.
+31 (15) "State archivist" means the individual who coordinates, directs, and administers the
+32 activities and responsibilities of the state archives.
+33 38-3-3. Public records administration program.
+34 (a) The public records administration program shall be organized as deemed necessary by
+LC001329 - Page 2 of 11
+
+1 the secretary of state for the proper discharge of its duties and responsibilities under this chapter.
+2 All personnel, furnishings, equipment, finances, property, and contractual arrangements of the
+3 public records administration shall be the responsibility of the secretary of state.
+4 (b) There shall be a public records advisory commission consisting of seventeen (17)
+5 members, one of whom shall be a member of the senate chosen by the president of the senate, one
+6 of whom shall be a member of the house of representatives chosen by the speaker of the house, six
+7 (6) of whom shall be chosen by the governor, and seven (7) of whom shall be chosen by the
+8 secretary of state. The secretary of state or designee shall serve as a permanent member of the
+9 commission. The state archivist shall serve as a permanent member of the commission. The
+10 appointments shall consist of persons who are qualified by training and experience with proven
+11 interest in historical records and public records management. In the first instance, five (5) members
+12 shall be appointed for a one year term, two (2) by the governor and three (3) by the secretary of
+13 state; five (5) members shall be appointed for a two (2) year term, one by the speaker of the house,
+14 one by the president of the senate, two (2) by the governor, and one by the secretary of state; five
+15 (5) members shall be appointed for a three (3) year term, two (2) by the governor, and three (3) by
+16 the secretary of state. The members shall hold office until July 1, in the years in which their
+17 respective terms end. Thereafter, prior to July 1, successors shall be appointed to the commission
+18 to the members of the commission whose terms expired. Vacancy of a member shall be filled by
+19 appointment by the corresponding authority for the remainder of the unexpired terms.
+20 (c) The secretary of state or designee shall serve as the chairperson of the commission. The
+21 state archivist or designee shall serve as the secretary of the commission with voting rights.
+22 (d) It shall be the duty of the public records advisory commission to provide professional
+23 and technical assistance to the public records administration program, the state archives, and the
+24 local governments of the state in all matters relating to the administration of public records.
+25 Members of the commission shall serve without pay.
+26 (e) The secretary of state may appoint an administrator of the program and shall establish
+27 his or her qualifications other than the professional competence required. The administrator shall
+28 coordinate, direct, and administer the activities and responsibilities of the program. The
+29 administrator shall serve at the pleasure of the secretary of state.
+30 (f) The program may make and enter into contracts and agreements with other agencies,
+31 organizations, associations, corporations, and individuals, or federal agencies as it may determine
+32 are necessary, expedient, or incidental to the performance of its duties or the execution of its powers
+33 under this chapter.
+34 (g) The program shall adopt rules and regulations deemed necessary to carry out its duties
+LC001329 - Page 3 of 11
+
+1 and responsibilities under this chapter which rules shall be binding on all agencies and persons
+2 affected thereby. The willful violation of any of the rules and regulations adopted by the program
+3 shall constitute a misdemeanor.
+4 (h) The program may accept gifts, grants, bequests, loans, and endowments for purposes
+5 not inconsistent with its responsibilities under this chapter.
+6 38-3-4. Duties of administrator.
+7 (a) It shall be the duty and responsibility of the administrator to render all services required
+8 by the program herein set forth that can advantageously and effectively be centralized. The office
+9 shall perform such other functions and duties as the secretary of state may direct.
+10 (b) The administrator shall supervise, direct, and coordinate the activities of the program.
+11 (c) The administrator shall be designated “the public records administrator”.
+12 It shall be the duty and responsibility of the administrator to:
+13 (1) Establish and administer a public records management program, for public bodies
+14 which shall be primarily responsible for assisting state agencies and cities and towns with the care
+15 and management of public records, including the operation of a record center or centers, and apply
+16 efficient and economical management methods relating to the creation, utilization, retention,
+17 preservation, and disposal of records or the transfer of permanent records to the state archives.
+18 (2) Establish and administer a local government records program which shall be primarily
+19 responsible for assisting cities and towns with the care and management of their public records.
+20 The program shall be charged with designing and implementing a training program for local
+21 government records keepers, publishing retention schedules for the proper disposition of public
+22 records in local governments, and providing technical and advisory assistance in the storage,
+23 preservation and ongoing maintenance of the records of local governments.
+24 (3) Analyze, develop, establish, and coordinate standards, procedures, and techniques of
+25 record making and record keeping to ensure the access, security, and preservation of public records.
+26 (4) Institute and maintain a training and information program including, but not limited to,
+27 the publication of educational materials on all phases of records management to bring to the
+28 attention of all agencies approved and current practices, methods, procedures, and devices for the
+29 efficient and economical management of records.
+30 (5) Make continuous surveys of record keeping operations, to examine the condition of
+31 public records and recommend improvements to public officials in current records management
+32 practices, space, equipment, supplies, and personnel in creating, maintaining, and making available
+33 the public records in their custody.
+34 (6) Establish and maintain a program, in cooperation with each agency, for the selection
+LC001329 - Page 4 of 11
+
+1 and protection of public records considered essential to the operation of government and to the
+2 protection of the rights and privileges of citizens.
+3 (7) Create forms for records management processes and the development of the required
+4 records control schedules submitted by an agency to the program.
+5 (8) Create, analyze, and uphold records control schedules of public records in the custody
+6 of state and local agencies.
+7 (9) Establish safeguards against unauthorized or unlawful removal or loss of records.
+8 (10) Initiate appropriate action to recover records removed unlawfully or without
+9 authorization.
+10 (11) Preserve and administer such public records as shall be transferred to the state archives
+11 according to approved conservation and security practices, and to permit them to be inspected,
+12 examined, and copied at reasonable times and under supervision of the program; provided that, any
+13 record placed in keeping of the program under special terms or conditions restricting their use shall
+14 be made available only in accordance with the provisions of § 38-2-2.
+15 (12) Provide a public research room where, upon policies established by the program, the
+16 records in the state archives may be studied.
+17 (13) Make certified copies under seal of any records transferred to it upon the application
+18 of any person, and sign the certificates which shall have the same force and effect as if made by the
+19 agency from which the records were received. The program may charge a reasonable fee for this
+20 service.
+21 (14) Assist agencies in identifying, securing, and transferring records of permanent legal,
+22 historical or enduring value to the state archives.
+23 (15) Approve emergency destruction of public records which were damaged due to
+24 catastrophic, environmental, or otherwise unforeseen circumstances and pose a risk to human
+25 health, but have not met their established retention.
+26 (16) Submit a yearly report on the progress of the local government records program to the
+27 general officers and to the general assembly.
+28 (17) Request funding for the public records administration program in accordance with §
+29 38-3-3 and for the local government records program pursuant to § 42-8.1-20(e) as part of the
+30 operating budget of the office of secretary of state to operate the program.
+31 (18) Render all services required by the program herein set forth that can advantageously
+32 and effectively be centralized.
+33 (19) Facilitate the transfer of permanent records of any state or local agency, elected
+34 official, or of the general assembly to the state archives for permanent preservation and public
+LC001329 - Page 5 of 11
+
+1 access.
+2 (20) To perform such other functions and duties as the secretary may direct.
+3 38-3-5.1. Reproduction of public records — Destruction of original records
+4 Reproduction of public records.
+5 (a) If any department or agency of government, in the regular course of business or activity,
+6 has kept or recorded any memorandum, writing, state tax returns, report, application, payment,
+7 entry, print, representation, or combination thereof, or any act, transaction, occurrence, or event,
+8 and, in the regular course of business, public record or, has caused any or all of the public records
+9 to be recorded, copied, or reproduced by a photographic, photostatic, microfilm, micro-card, optical
+10 disk, miniature photographic, electronic or other process which accurately reproduces or forms a
+11 durable medium for reproducing the original,:
+12 (i) the The original may be destroyed, and the reproduction established as the record copy,
+13 in the regular course of business, provided the process meets standards established by the public
+14 records administration, and provided all the provisions of § 38-3-6 concerning disposal of public
+15 records readability and accessibility are fulfilled.
+16 (ii) The reproduction, when satisfactorily identified, shall be admissible in evidence as the
+17 original in any judicial or administrative proceeding whether or not the original exists or is available
+18 and an enlargement or facsimile of the reproduction shall be likewise admissible in evidence if the
+19 original is in existence and available for inspection under the direction of the court.
+20 (b) The introduction of a reproduced record, enlargement, or facsimile into evidence shall
+21 not preclude the admission into evidence of the original, if available.
+22 (c) The duplicate of any record made pursuant to this chapter, and designated as a record
+23 copy, shall have the same force and effect for all purposes as the original record.
+24 (d) When provided in response to a request from the public, a certified copy shall have the
+25 same force and effect for all purposes as the original record.
+26 (e) This section shall not be construed to exclude from introduction into evidence any
+27 document or copy thereof which is otherwise admissible under the Rhode Island general laws, as
+28 amended.
+29 38-3-6. Public records custody and disposal.
+30 (a) Each agency shall prepare and submit to the program, in accordance with the rules and
+31 regulations of the program, record control schedules for all public records in the custody of the
+32 agency.
+33 (b) The offices of the attorney general and the auditor general will advise the program on
+34 the legal and fiscal values of records covered by proposed records control schedules. Proposed
+LC001329 - Page 6 of 11
+
+1 schedules shall be sent to the offices of the attorney general and the auditor general. Within one
+2 hundred and twenty (120) days of receipt, the attorney general and the auditor general may, within
+3 their discretion, provide the administrator with comments regarding the proposed schedule. If the
+4 proposed schedules are not returned to the administrator within one hundred and twenty (120) days
+5 of receiving the proposed schedule, the proposed schedule may nonetheless be made final for use
+6 in records disposition pursuant to § 38-3-7(4).
+7 (c) Those records which are determined by an agency not to be needed in the transaction
+8 of current business but which, for legal or fiscal requirements, must be retained for specific time
+9 periods beyond administrative needs, shall may be sent to the records center. The records will be
+10 kept in the center until time for disposition as provided in record control schedules.
+11 (d) Public records possessing permanent enduring value and that have not yet met
+12 minimum retention as determined by approved the records control schedules shall may be
+13 transferred to the public records repository when no longer needed by an agency in transaction of
+14 current business state records center after the twentieth year or when no longer considered active.
+15 (e) Public records determined to be of permanent value according to the records retention
+16 schedule and by the administrator in consultation with the state archivist, shall be transferred to the
+17 state archives following assessment after the twentieth year, if not sooner, if the transfer of custody
+18 is in the best interest of the record.
+19 (e)(f) Title to any record placed in the records center shall remain in with the agency placing
+20 the record in the center.
+21 (f)(g) Title to any record transferred to the public records repository state archives, as
+22 authorized in this chapter, shall be vested in the program and shall be made available to the public.
+23 (g)(h) The program shall preserve and administer such public records as shall be transferred
+24 to its custody according to approved conservation and security practices, and to permit them to be
+25 inspected, examined, and copied at reasonable times and under supervision of the program;
+26 provided that any Any record placed in keeping of the program under special terms or conditions
+27 restricting their use shall be made available only in accordance with the terms and conditions
+28 provisions of § 38-2-2.
+29 (h)(i) Provide a public research room where, upon policies established by the program, the
+30 records in the public records repository state archives may be studied.
+31 (i) The program may make certified copies under seal of any records transferred to it upon
+32 the application of any person, and the certificates, signed by the administrator or his or her designee,
+33 shall have the same force and effect as if made by the agency from which the records were received.
+34 The program may charge a reasonable fee for this service.
+LC001329 - Page 7 of 11
+
+1 (j) No public record shall be destroyed or otherwise disposed of by any agency without
+2 prior notice to, and approval by, the program pursuant to § 38-3-6(a). Records without established
+3 retention in an approved records retention schedule cannot be destroyed.
+4 (k) The program shall adopt reasonable rules and regulations not inconsistent with this
+5 chapter relating to the destruction and disposal of records. The rules and regulations shall provide
+6 but not be limited to:
+7 (1) Procedures for preparing and submitting record control schedules to the program.
+8 (2) Procedures for the physical destruction or other disposal of records.
+9 (3) Standards for the reproduction of records for security or with a view to the disposal of
+10 the original record.
+11 (l) The program shall:
+12 (1) Establish safeguards against unauthorized or unlawful removal or loss of records; and
+13 (2) Initiate appropriate action to recover records removed unlawfully or without
+14 authorization.
+15 (m) The program may prepare and publish handbooks, guides, indexes, and other literature
+16 directed toward encouraging the management, preservation, and uses of the state’s public records
+17 resource.
+18 38-3-7. Agency responsibilities. Duties and responsibilities of agencies.
+19 It shall be the duty of each agency to:
+20 (1) Cooperate with the program in complying with the provisions of this chapter.
+21 (2) Establish and maintain an active and continuous program procedure for the economical
+22 and efficient management of public records, including, but not limited to, working with the
+23 administrator to create and update records control schedules and transfer permanent records to the
+24 state archives.
+25 (3) Transfer records, or any reasonably segregable portion thereof not including personal
+26 papers deemed not public pursuant to § 42-8.1-2(11), created or received by general officers,
+27 immediate staff, or a unit or individual of the executive office whose function is to advise and assist
+28 general officers, in the course of conducting activities which relate to or have an effect upon the
+29 carrying out of the constitutional, statutory, or other official duties carried out on behalf of the state.
+30 Such materials shall be transferred at the end of the elected official's final term within thirty (30)
+31 days of leaving such office.
+32 (4) Submit a certification of records destruction for approval by the program for each public
+33 record the agency seeks to destroy once it has met its approved minimum retention period. The
+34 certification of records destruction shall be the permanent replacement for duly approved destroyed
+LC001329 - Page 8 of 11
+
+1 public records.
+2 (5) Not later than January 1, 2026, designate a records officer who has responsibility for
+3 compliance with this chapter and has been provided orientation and training by the public records
+4 administration regarding this chapter. The records officer:
+5 (i) Shall establish and operate a records management program for the agency in cooperation
+6 with the public records administration and state archives;
+7 (ii) May delegate responsibilities to an individual within the agency at the records officer's
+8 discretion;
+9 (iii) Annually confirm the accuracy of the agency's records control schedule and request
+10 amendments if necessary;
+11 (iv) Annually submit for approval of destruction of records that have met minimum
+12 retention periods based on the records control schedule; and
+13 (v) May also serve as the agency forms management representative as required by § 42-
+14 84-5.
+15 SECTION 2. Chapter 38-3 of the General Laws entitled "Public Records Administration"
+16 is hereby amended by adding thereto the following sections:
+17 38-3-8. Public reporting of compliance.
+18 Every year the secretary shall prepare a report summarizing the compliance with the
+19 provisions of this chapter, which shall be submitted to the general assembly and which shall be
+20 published electronically on the department of state website.
+21 38-3-9. Violations.
+22 The administrator is hereby empowered to bring an action in superior court for restraining
+23 orders and injunctive relief to restrain and enjoin violations or threatened violations of any
+24 provision of this chapter.
+25 38-3-10. Severability.
+26 If any provision of this chapter or the application of this chapter to any person or
+27 circumstances is held invalid, the invalidity shall not affect other provisions or applications of this
+28 chapter which can be given effect without the invalid provision or application, and to this end the
+29 provisions of this chapter are declared to be severable.
+30 SECTION 3. Section 38-3-5 of the General Laws in Chapter 38-3 entitled "Public Records
+31 Administration" is hereby repealed.
+32 38-3-5. Duties of program.
+33 It shall be the duty and responsibility of the public records administration program to:
+34 (1) Establish and administer a public records management program, including the operation
+LC001329 - Page 9 of 11
+
+1 of a record center or centers, and appoint a director who will apply efficient and economical
+2 management methods relating to the creation, utilization, maintenance, retention, preservation, and
+3 disposal of records.
+4 (2) Analyze, develop, establish, and coordinate standards, procedures, and techniques of
+5 record making and record keeping.
+6 (3) Insure the maintenance and security of records which are deemed appropriate for
+7 preservation.
+8 (4) Institute and maintain a training and information program in all phases of records
+9 management to bring to the attention of all agencies approved and current practices, methods,
+10 procedures, and devices for the efficient and economical management of records.
+11 (5) Make available a centralized program of microfilming for the benefit of all agencies.
+12 (6) Make continuous surveys of record keeping operations.
+13 (7) Recommend improvements in current records management practices, including the use
+14 of space, equipment, supplies, and personnel in creating, maintaining, and servicing records.
+15 (8)(i) Establish and maintain a program, in cooperation with each agency, for the selection
+16 and protection of public records considered essential to the operation of government and to the
+17 protection of the rights and privileges of citizens.
+18 (ii) Make or to have made duplicates of essential records, or to designate existing record
+19 copies as essential records to be protected in the place and manner of safekeeping as prescribed by
+20 the program.
+21 (iii) The duplicate of any record made pursuant to this chapter shall have the same force
+22 and effect for all purposes as the original record. A transcript, exemplification, or certified copy of
+23 the duplicate shall be deemed, for all purposes, to be the original record.
+24 SECTION 4. This act shall take effect upon passage.
+========
+LC001329
+========
+LC001329 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC RECORDS -- PUBLIC RECORDS ADMINISTRATION
+***
+1 This act would update the public records administration act by designating a public records
+2 administrator, amending the definition of records, adding various definitions to include, electronic,
+3 records series, state archivist, and retention, modifying a records control schedule, designating a
+4 records officer and establish procedures for the retention of public records and their transfer after
+5 twenty (20) years to the state archives. It would also provide that a research room be established
+6 for research of records, that the administrator submit yearly reports, provide certified copies,
+7 approve emergency destruction of public records and perform other functions and duties as the
+8 secretary of state may direct.
+9 This act would take effect upon passage.
+========
+LC001329
+========
+LC001329 - Page 11 of 11
+
+[DELETED: TATE  OF  RHODE  ISLAND S L f 3 F ( t s ( r l s w c ( o ( o ( “ s m m t p r a p o t]
+[DELETED:  s ( m r c ( f o t d b t t h v w t ( m a f u t d o t a t p s p s n ( d f h ( l f ( t t ( o ( " m t d o t t a r r s o o i ( ( b ( a 3 (]
+[DELETED:  t A p ( m o ( s c T s a s s a a p m o t c T a i s s o ( t r t a ( s ( a l g o t s i a m r t t a o p r M ( h c d a a t a a r o t p T a ( o a u (]
+[DELETED:  a a s ( n 3 ( b s ( ( I ( w a e a e m m r t t c u r p ( r T p s b c w d a i a p f l g r g a p t a a a i t s p ( r ( t t a e ( p p t (]
+[DELETED:  a p ( r ( o ( ( I a a t r r r u o w a ( a e r b ( r ( o a s ( h ( A e d o p r w w d d t c h ( g ( 3 o ( a ( o]
+[DELETED:  a ( 3 R o p r — D o o r R ( h e a t d d ( i r r ( o a o ( n ( c ( s ( d a 3 ( r a ( t]
+[DELETED:  s h t p o i ( o p k ( P r p p e v a t h n y m m r a d b a t r c s s m b t c ( s s i ( t ( a ( t i e a c a r t a u s o t p p r t p ( r ( t s T]
+[DELETED:  ( p r ( c b ( ( ( t ( ( ( I a a t r r r u o w a ( d r 3 I ( ( a e m o p r i b n l t w w t a s ( p i g c S d ( r c]
+[DELETED:  p ( c a ( w ( d ( a ( A s f a o d o r t h m m r ( 8 S i 3 E y t s s p a r s t c w t p p 3 T o a i r t r a e v o t v o a p 3 I a p o t c o t a o t c t a p o c c p S A 3 I (]
+[DELETED:  o m d ( r ( I t m a s o d a f p ( m p ( ( ( o ( a p ( c t ( a t S]
+[DELETED:  T a r r t f r o r t a s y r p c a s T]

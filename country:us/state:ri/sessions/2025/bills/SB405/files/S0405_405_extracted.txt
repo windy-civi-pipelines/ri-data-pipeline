@@ -1,0 +1,589 @@
+Title: RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND CLEAN AIR
+Official Title: RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND CLEAN AIR
+Number of Sections: 1
+Source: versions - 405
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0405
+========
+LC001781
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+PRESERVATION ACT
+Introduced By: Senators E Morgan, and Raptakis
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 The general assembly finds and intends the following:
+3 (1) Attempts to alter atmospheric conditions through cloud seeding, weather modification,
+4 solar radiation modification (SRM), sunlight reflection methods (SRM), solar radiation
+5 management (SRM), geoengineering, and other atmospheric experiments and/or interventions
+6 involve the release of pollutants, including Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS),
+7 known also as "forever chemicals," into the atmosphere;
+8 (2) Environmental accumulation of combustible agents contained in cloud seeding aerosols
+9 and other pollutants released in atmospheric experiments and/or interventions threatens public
+10 health and safety, with the potential to cause harm and desiccation of all biological life, contributing
+11 to drought and the hazard of catastrophic forest fires; and
+12 (3) It is therefore in the public interest to prohibit solar radiation modification (SRM),
+13 sunlight reflection methods (SRM), solar radiation management (SRM), cloud seeding, and any
+14 other polluting atmospheric experiments and/or interventions.
+15 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+16 amended by adding thereto the following chapter:
+17 CHAPTER 23.8
+18 THE RHODE ISLAND CLEAN AIR PRESERVATION ACT
+1 23-23.8-1. Short title.
+2 This chapter shall be known and may be cited as "The Rhode Island Clean Air Preservation
+3 Act".
+4 23-23.8-2. Definitions.
+5 As used in this chapter:
+6 (1) "Air National Guard" means the Rhode Island air national guard (RI ANG) is the aerial
+7 militia of the State of Rhode Island. It is not in the normal United States Air Force chain of
+8 command. In the event that RI ANG is federalized, the governor shall form a state guard to defend
+9 Rhode Island airspace.
+10 (2) "Artificial intelligence (AI)" means a field of science and technology encompassing
+11 systems and tools that can perform tasks typically requiring human intelligence, such as learning,
+12 reasoning, pattern recognition, and decision-making, often through computational techniques like
+13 machine learning and neural networks. AI operates within defined parameters to analyze, predict,
+14 and execute actions based on complex datasets, with applications ranging from healthcare and
+15 genomics to military systems and public policy.
+16 (3) "Atmospheric activity" means any deliberate polluting experiment or intervention
+17 conducted by any iteration of human, machine learning, or artificial intelligence (AI) or any
+18 combination thereof, that occurs in the atmosphere and may have harmful consequences upon
+19 health, the environment, wildlife, and/or agriculture.
+20 (4) "Atmospheric contaminant" means any type of aerosol, biologic and/or trans-biologic
+21 agent, chaff, genetically modified agent, graphene-oxide, metal, radioactive material, vapor,
+22 particulate down to or less than one nanometer in diameter, smart dust, and any air pollutant
+23 regulated by the state, any xenobiotic (foreign-to-life) electromagnetic radiation and fields,
+24 mechanical vibration and other physical agents, or any combination of these contaminants.
+25 (5) "Chaff" means aluminum-coated silica glass fibers typically dispersed in bundles
+26 containing five million (5,000,000) to one hundred million (100,000,000) inhalable fibers, which
+27 fall to the ground in about one day, or for nanochaff, years, and then fall and break apart;
+28 Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS), known also as "forever chemicals," are an
+29 ingredient in chaff.
+30 (6) "Cloud seeding" means a type of weather engineering or experimentation that may
+31 change the amount or type of precipitation by dispersing chemicals or chemical compounds such
+32 as dry ice (CO ), silver iodide (AGI), or Tri-methyl aluminum (TMA) into the atmosphere by means
+2
+33 of aircraft or ground generators.
+34 (7) “Desiccate” means to dry up or cause to dry up.
+LC001781 - Page 2 of 9
+1 (8) "Entity" means any of the following: an individual; trust; firm; joint stock company;
+2 corporation, including a quasi-governmental corporation; non-governmental organization (NGO),
+3 partnership; public private partnership; association; syndicate; municipality or state or municipal
+4 agency; program; fire district; club; nonprofit agency; commission; university; college or academic
+5 institution; department or agency of the state; the federal government; or any interstate or
+6 international governance or instrumentality thereof; including foreign, domestic and mercenary
+7 armed services or region within the United States; artificial intelligence (AI).
+8 (9) "Geoengineering" means the intentional large-scale alteration or manipulation of the
+9 environment, typically involving the release of aerosols, chemicals, chemical compounds,
+10 electromagnetic radiation and/ or other physical agents that increase air pollution and effect changes
+11 to earth's atmosphere or surface, inclusive of solar radiation modification (SRM), solar radiation
+12 management (SRM), sunlight reflection methods (SRM), stratospheric aerosol injection (SAI),
+13 cirrus cloud thinning (CCT), marine cloud brightening (MCB), or cloud seeding.
+14 (10) "Hazard" means a substance or physical agent by its nature harmful to living
+15 organisms, generally, and/or to property or another interest of value.
+16 (11) "Individual" means any man, woman, or child.
+17 (12) "Intervention" means the act of interfering with weather processes, altering
+18 atmospheric or environmental conditions, or releasing pollutants by methods including, but not
+19 limited to, solar radiation modification (SRM), sunlight reflection methods (SRM), solar radiation
+20 management (SRM), stratospheric aerosol injection (SAI), marine cloud brightening (MCB), cirrus
+21 cloud thinning (CCT), weather modification, cloud seeding, or outdoor pollution dispersion
+22 modeling.
+23 (13) "Irradiating infrastructure" means a facility, antenna, instrument, equipment, or
+24 satellite used for the transmission and/or reception of pulse-modulated radiofrequency/microwave
+25 radiation for communications and other purposes.
+26 (14) "Laser" means light amplification by stimulated emission for radiation devices. Lasers
+27 typically have unique frequencies in the infrared, visible, or ultraviolet parts of the electromagnetic
+28 spectrum.
+29 (15) "Machine learning" means the process relative to AI, in which a machine can learn on
+30 its own without being explicitly programmed.
+31 (16) "Physical agent" means an agent other than a substance including, without limitation,
+32 radiofrequency/microwave (RF/MW) radiation pollution and other electromagnetic radiation
+33 pollution and fields, maser, barometric pressure, temperature, gravity, kinetic weaponry,
+34 mechanical vibration and sound.
+LC001781 - Page 3 of 9
+1 (17) "Pollution" means the discharge, dispersal, deposition, injection, release, seepage,
+2 migration or escape of pollutants.
+3 (18) "Pollutants" means any solid, liquid, gaseous, or thermal irritant, contaminant, or
+4 substance, including smoke, vapor, soot, fumes, aerosol plumes, acid, alkalis, chemicals including,
+5 but not limited to, barium, strontium, tri-methyl aluminum, sulfur dioxide, magnesium, chemical
+6 compounds, coal-fly ash, chaff, artificially produced electric fields, magnetic field, electromagnetic
+7 field, electromagnetic pulse (EMP), sound waves, sound pollution, light pollution, microwaves,
+8 and all artificially produced ionizing or non-ionizing radiation, and/or waste. Waste includes
+9 materials to be recycled, reconditioned or reclaimed.
+10 (19) "Release" means any activity that results in the issuance or deposition of pollutants
+11 such as the emitting, transmitting, dispersion, discharging or injecting of one or more nuclear,
+12 biological, trans-biological, chemical, and/or physical agents into the ambient atmosphere, whether
+13 once, intermittently, or continuously.
+14 (20) "Satellite" means a facility launched into earth's orbit to perform functions including,
+15 but not limited to, transmission of electromagnetic radiation pollution via communications, global
+16 positioning, intelligence gathering, weather forecasting, weather experimentation, weather
+17 modification and weaponry. Currently satellites are operating in low earth orbit (LEO), medium
+18 earth orbit (MEO), and high earth orbit (HEO).
+19 (21) "Satellite weather modification system (SWMS)" means weather modification by
+20 satellites involves a space-based, man-made network of satellites communicating in real-time with
+21 other satellites and ground-based infrastructure via transmission of electromagnetic radiation
+22 pollution such as lasers.
+23 (22) "Solar radiation modification (SRM)", "sunlight reflection methods (SRM)", or "solar
+24 radiation management (SRM)" means an experiment in the earth's climatic system involving the
+25 release of pollutants that reduces the amount of sunlight reaching the earth's surface. SRM involves
+26 the use of inter-operable ground-based, airborne, and space-based facilities.
+27 (23) "State police" means the Rhode Island state police (RISP), an agency of the State of
+28 Rhode Island responsible for statewide law enforcement and regulation, especially in areas
+29 underserved by local police agencies and on the state's limited-access highways.
+30 (24) "Weather engineering" means the deliberate manipulation or alteration of the
+31 environment for the purpose of changing the weather or climate by artificial means, through
+32 interventions involving the release of pollutants into the atmosphere via cloud seeding for small-
+33 scale, large-scale, and global-scale alteration of the environment.
+34 (25) "Weather modification" means any activity performed with the intention of producing
+LC001781 - Page 4 of 9
+1 artificial changes in the composition, behavior, or dynamics of the atmosphere.
+2 23-23.8-3. Regulation by the state.
+3 (a) Government and armed forces projects shall meet all the requirements of this chapter.
+4 If an activity deemed a hazard by this chapter has been approved, explicitly or implicitly, by the
+5 federal government, the Rhode Island state police (RISP) shall issue a notice to the appropriate
+6 federal agency that the activity cannot lawfully be carried out within or over the state.
+7 (b) RISP is authorized to and shall implement this chapter, determining when violations
+8 have occurred and if deemed necessary shall refer potentially violative activity to the Rhode Island
+9 air national guard.
+10 23-23.8-4. Violative activity - Prohibition on solar radiation modification (SRM),
+11 sunlight reflection methods (SRM), solar radiation management (SRM), cloud seeding,
+12 weather modification, or other polluting atmospheric experiments and/or interventions.
+13 (a) No person or entity shall engage in SRM or other polluting atmospheric
+14 experimentation and/or interventions in this state, including through the use of an aircraft, balloon,
+15 space-based platform, ground generators, or interoperable ground-based facility.
+16 (b) The state police shall immediately issue and publicly report a cease-and-desist order,
+17 when an unlawful polluting atmospheric activity is suspected. The cease-and-desist order under
+18 this section shall have the weight of a court order and any violation shall be punished in accordance
+19 with § 23-23.8-6.
+20 23-23.8-5. Departmental notice to cease federal or foreign-approved programs.
+21 (a) Where an activity deemed hazardous by this chapter has been approved, explicitly or
+22 implicitly, by the federal government or a government agency, the state police shall issue a notice
+23 to the appropriate federal authority, agency, entity, or academic institution that the polluting
+24 intervention cannot lawfully be carried out within or over the State of Rhode Island.
+25 (b) Government agencies or projects, academic institutions, public or private entities, and
+26 armed forces operating within or above the State of Rhode Island shall meet all the requirements
+27 of this chapter.
+28 23-23.8-6. Penalties and enforcement.
+29 An entity that engages in a prohibited polluting atmospheric experiment and/or intervention
+30 under this chapter or person who uses an unmarked or unidentified aircraft or other vehicle or
+31 facility to carry out an experiment and/or intervention involving the release of pollutants, or who
+32 fails to comply with the regulations set forth:
+33 (1) Has committed a felony and shall pay a fine of not less than five hundred thousand
+34 dollars ($500,000) or be imprisoned for not less than five (5) years, or both;
+LC001781 - Page 5 of 9
+1 (2) Shall be guilty of a separate offense for each day during which violative activity has
+2 been conducted, repeated, or continued;
+3 (3) Rhode Island state police shall deputize and train volunteer Rhode Island citizens to
+4 assist with the enforcement of the provisions of this chapter.
+5 (4) The Rhode Island state police or deputies shall investigate reports of SRM or radiation
+6 pollution to ensure compliance with the requirements of this chapter or the administrative
+7 regulations promulgated hereunder.
+8 23-23.8-7. Investigatory findings -- Responses.
+9 As established in this chapter, scientific dimensions of SRM include the use of
+10 interoperable ground-based, airborne, and space-based facilities involving the release of pollutants,
+11 including radiation. There are ever-increasing numbers of pollution-generating, microwave-
+12 irradiating instruments used in weather experimentation including, but not limited to, ground-based
+13 facilities interoperable with drones and satellites. Such infrastructures and the electrical grid are
+14 vulnerable to radiation pollution interference, EMP events and cyber-attacks, potentially leading to
+15 accidents, fatalities, damage to critical infrastructures, possible collapse of commerce systems and
+16 the failure of essential public utilities, costing the state billions of dollars. Therefore, irradiating
+17 infrastructure shall be subject to evaluation by an independent licensed radiofrequency (RF)
+18 engineer paid for by the facility owner. RF engineer shall provide findings in a report to be
+19 submitted to the Rhode Island state police, therefore:
+20 (1) Radiation signal strength metered at the reported location is not to exceed -75 dBm
+21 (decibel-milliwatt) for any frequency or channel band specified by a transmitting entity’s FCC
+22 transmission license; or, maximum power output limit from all frequencies/antennas from a
+23 wireless facility is not to exceed 0.1 watt of effective radiated power (ERP) so as to provide -75
+24 dBm signal strength at 1/2 mile, or five (5) bars on a cell phone. If signal strength metered by RF
+25 engineer is in excess of -75 dBm (decibel-milliwatt), the facility operator has thirty (30) days to
+26 achieve compliance without disruption to performance of personal wireless services. The Rhode
+27 Island state police or deputies shall perform random testing from time to time to ensure facility
+28 compliance with this chapter. Failure to comply will result in a fine of not less than five hundred
+29 thousand dollars ($500,000) per day for each day the facility is out of compliance. Deliberate
+30 falsification or altering of information shall be punished in accordance with § 23-23.8-6(1) and (2).
+31 All public and private entities operating in the state shall comply with these guidelines.
+32 (2) To reduce pollution and ensure the economic protection and privacy of Rhode Islanders,
+33 the safe and secure deployment of hardwired, fiber-optic connections to the premises (FTTP) to
+34 homes, schools, and businesses shall be required, thereby providing the ability to conduct financial
+LC001781 - Page 6 of 9
+1 transactions and complete lifesaving communications in the event that electronic interactions by
+2 existing means are compromised, hacked, restricted, or not possible. To safeguard the wellbeing of
+3 Rhode Islanders, consumer choice options, including non-wireless routers, non-wireless modems,
+4 and non-wireless mechanical analog utility meters, within home, property, or business shall be
+5 offered to customers without additional fees.
+6 SECTION 3. Section 30-15-7 of the General Laws in Chapter 30-15 entitled "Emergency
+7 Management" is hereby amended to read as follows:
+8 30-15-7. Governor’s general powers.
+9 The governor shall be responsible for carrying out the provisions of this chapter and shall
+10 be primarily responsible for emergency management in the state. Aside from powers granted to the
+11 governor elsewhere, the governor is hereby specifically authorized to:
+12 (1) Issue executive orders, proclamations, and regulations and amend or rescind them.
+13 Executive orders, proclamations, and regulations, for the purposes of this chapter, have the force
+14 and effect of law;
+15 (2) Cooperate with the federal authorities and with the governors and/or officials of the
+16 other states in matters pertaining to the common disaster preparedness of the states and nation, and
+17 in exercising the powers under this chapter, the governor shall avoid duplications of, and conflicts
+18 with, the efforts of the federal authorities acting within their proper spheres;
+19 (3) Consider on a continuing basis steps that could be taken to prevent or reduce the harmful
+20 consequences of disasters. At the governor’s direction, and pursuant to any other authority they
+21 now have, state agencies, including, but not limited to, those that are or may be charged with
+22 responsibilities in connection with flood plain management, stream encroachment and flow
+23 regulation, weather modification, fire prevention and control, air quality, public works, land use
+24 and land-use planning, and construction standards, shall make studies of disaster-prevention-related
+25 matters. The governor, from time to time, shall make recommendations to the general assembly,
+26 local governments, and other appropriate public and private entities as may facilitate measures for
+27 mitigation of the harmful consequences of disasters;
+28 (4) Prepare a comprehensive plan and program for disasters (including response and
+29 recovery) in the state, the plan and program to be integrated into, and coordinated with, the response
+30 and disaster plans of other states to the fullest possible extent, and coordinate the preparation of
+31 plans and programs for disasters by the political subdivisions of the state, such plans to be integrated
+32 into, and coordinated with the state disaster plan and program to the fullest possible extent;
+33 (5) In accordance with the plans and programs for disasters in the state, procure supplies
+34 and equipment, to institute training programs and public information programs, and to take all other
+LC001781 - Page 7 of 9
+1 preparatory steps, including the partial or full mobilization of disaster organizations in advance of
+2 actual disaster, to ensure the furnishing of adequately trained and equipped forces of disaster
+3 personnel in time of need;
+4 (6) Delegate any administrative authority vested in the governor under this chapter and
+5 provide for the subsequent delegation of that authority; and
+6 (7) Do all other things necessary to ensure adequate preparation for disasters in the state,
+7 not inconsistent with other provisions of law.
+8 SECTION 4. This act shall take effect upon passage.
+========
+LC001781
+========
+LC001781 - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND CLEAN AIR
+PRESERVATION ACT
+***
+1 This act establishes the Rhode Island Clean Air Preservation Act that establishes a
+2 regulatory process to prohibit polluting atmospheric experimentation such as solar radiation
+3 modification (SRM), sunlight reflection methods (SRM), solar radiation management (SRM),
+4 geoengineering, weather modification, cloud seeding, or other atmospheric interventions involving
+5 the release of pollutants including Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) known
+6 also as "forever chemicals," within the state, providing penalties for violations.
+7 This act would take effect upon passage.
+========
+LC001781
+========
+LC001781 - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND S T ( s r m ( s r m ( s r m ( g a o a e a i i k ( a h t ( s o S a C T]
+[DELETED:  2 T A 2 A ( m c R ( s r m a g ( " a m a d p e o i c b a i o h m l o a i ( o a c h ( a c g m a g m r m v p r b t s a x ( e r a f m ( " m a s g f t d i b c f t t g i a o d o f n y a t f a b a P i ( c aO) o (]
+[DELETED:  ( c p a i d o a o t s t f g o a i o i a ( e t i t r o a c c c e t m c ( " m a s o p a b i n h t l o ( ( " m t a o i w w p a a l m c t ( w m c s o o p d m ( " i m a f a i e o s r ( t s ( i ( r ( r p a o e r p a f m b p t g k w m]
+[DELETED:  ( m ( s b c f a a a p i o n r a w W i m ( s b o ( b p i g w f w e w m e ( s o s a g i v t o e r p ( r r t ( R I r f s l e a r e i a u ( " e m t d m o a o t e f t p o c t w o c b a t i s (]
+[DELETED:  a 2 ( I f f ( h a 2 V a - P o s r m ( s r m ( s r m ( c s w ( N p o e s e i S o o p a e s ( w t w 2 ( i t t a f a a e o a i t t p i ( a o 2 A u f f ( d]
+[DELETED:  ( b ( a ( p t e c w t r o t c o t a r 2 A e i t c s d o S i t u o i i r T a e n o p m i f v a t i s b s t e b a i l r ( e p b t f o R e s p a r s ( ( t l o m p o l f a f f a w d e a I c t f A ( t h]
+[DELETED:  t e R a o S M 3 T b g ( E a ( o i w ( c n r i c w f p m s e a f r a m l m ( P a c p a p f d ( r a r a p i ( a]
+[DELETED:  p a p ( p ( n S]
+[DELETED:  T a e t R I C A P A t e a r p t p p a e s a s r m ( s r m ( s r m ( g t a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0405
+========
+LC001781
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND CLEAN AIR
+PRESERVATION ACT
+Introduced By: Senators E Morgan, and Raptakis
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 The general assembly finds and intends the following:
+3 (1) Attempts to alter atmospheric conditions through cloud seeding, weather modification,
+4 solar radiation modification (SRM), sunlight reflection methods (SRM), solar radiation
+5 management (SRM), geoengineering, and other atmospheric experiments and/or interventions
+6 involve the release of pollutants, including Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS),
+7 known also as "forever chemicals," into the atmosphere;
+8 (2) Environmental accumulation of combustible agents contained in cloud seeding aerosols
+9 and other pollutants released in atmospheric experiments and/or interventions threatens public
+10 health and safety, with the potential to cause harm and desiccation of all biological life, contributing
+11 to drought and the hazard of catastrophic forest fires; and
+12 (3) It is therefore in the public interest to prohibit solar radiation modification (SRM),
+13 sunlight reflection methods (SRM), solar radiation management (SRM), cloud seeding, and any
+14 other polluting atmospheric experiments and/or interventions.
+15 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+16 amended by adding thereto the following chapter:
+17 CHAPTER 23.8
+18 THE RHODE ISLAND CLEAN AIR PRESERVATION ACT
+
+1 23-23.8-1. Short title.
+2 This chapter shall be known and may be cited as "The Rhode Island Clean Air Preservation
+3 Act".
+4 23-23.8-2. Definitions.
+5 As used in this chapter:
+6 (1) "Air National Guard" means the Rhode Island air national guard (RI ANG) is the aerial
+7 militia of the State of Rhode Island. It is not in the normal United States Air Force chain of
+8 command. In the event that RI ANG is federalized, the governor shall form a state guard to defend
+9 Rhode Island airspace.
+10 (2) "Artificial intelligence (AI)" means a field of science and technology encompassing
+11 systems and tools that can perform tasks typically requiring human intelligence, such as learning,
+12 reasoning, pattern recognition, and decision-making, often through computational techniques like
+13 machine learning and neural networks. AI operates within defined parameters to analyze, predict,
+14 and execute actions based on complex datasets, with applications ranging from healthcare and
+15 genomics to military systems and public policy.
+16 (3) "Atmospheric activity" means any deliberate polluting experiment or intervention
+17 conducted by any iteration of human, machine learning, or artificial intelligence (AI) or any
+18 combination thereof, that occurs in the atmosphere and may have harmful consequences upon
+19 health, the environment, wildlife, and/or agriculture.
+20 (4) "Atmospheric contaminant" means any type of aerosol, biologic and/or trans-biologic
+21 agent, chaff, genetically modified agent, graphene-oxide, metal, radioactive material, vapor,
+22 particulate down to or less than one nanometer in diameter, smart dust, and any air pollutant
+23 regulated by the state, any xenobiotic (foreign-to-life) electromagnetic radiation and fields,
+24 mechanical vibration and other physical agents, or any combination of these contaminants.
+25 (5) "Chaff" means aluminum-coated silica glass fibers typically dispersed in bundles
+26 containing five million (5,000,000) to one hundred million (100,000,000) inhalable fibers, which
+27 fall to the ground in about one day, or for nanochaff, years, and then fall and break apart;
+28 Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS), known also as "forever chemicals," are an
+29 ingredient in chaff.
+30 (6) "Cloud seeding" means a type of weather engineering or experimentation that may
+31 change the amount or type of precipitation by dispersing chemicals or chemical compounds such
+32 as dry ice (CO ), silver iodide (AGI), or Tri-methyl aluminum (TMA) into the atmosphere by means
+2
+33 of aircraft or ground generators.
+34 (7) “Desiccate” means to dry up or cause to dry up.
+LC001781 - Page 2 of 9
+
+1 (8) "Entity" means any of the following: an individual; trust; firm; joint stock company;
+2 corporation, including a quasi-governmental corporation; non-governmental organization (NGO),
+3 partnership; public private partnership; association; syndicate; municipality or state or municipal
+4 agency; program; fire district; club; nonprofit agency; commission; university; college or academic
+5 institution; department or agency of the state; the federal government; or any interstate or
+6 international governance or instrumentality thereof; including foreign, domestic and mercenary
+7 armed services or region within the United States; artificial intelligence (AI).
+8 (9) "Geoengineering" means the intentional large-scale alteration or manipulation of the
+9 environment, typically involving the release of aerosols, chemicals, chemical compounds,
+10 electromagnetic radiation and/ or other physical agents that increase air pollution and effect changes
+11 to earth's atmosphere or surface, inclusive of solar radiation modification (SRM), solar radiation
+12 management (SRM), sunlight reflection methods (SRM), stratospheric aerosol injection (SAI),
+13 cirrus cloud thinning (CCT), marine cloud brightening (MCB), or cloud seeding.
+14 (10) "Hazard" means a substance or physical agent by its nature harmful to living
+15 organisms, generally, and/or to property or another interest of value.
+16 (11) "Individual" means any man, woman, or child.
+17 (12) "Intervention" means the act of interfering with weather processes, altering
+18 atmospheric or environmental conditions, or releasing pollutants by methods including, but not
+19 limited to, solar radiation modification (SRM), sunlight reflection methods (SRM), solar radiation
+20 management (SRM), stratospheric aerosol injection (SAI), marine cloud brightening (MCB), cirrus
+21 cloud thinning (CCT), weather modification, cloud seeding, or outdoor pollution dispersion
+22 modeling.
+23 (13) "Irradiating infrastructure" means a facility, antenna, instrument, equipment, or
+24 satellite used for the transmission and/or reception of pulse-modulated radiofrequency/microwave
+25 radiation for communications and other purposes.
+26 (14) "Laser" means light amplification by stimulated emission for radiation devices. Lasers
+27 typically have unique frequencies in the infrared, visible, or ultraviolet parts of the electromagnetic
+28 spectrum.
+29 (15) "Machine learning" means the process relative to AI, in which a machine can learn on
+30 its own without being explicitly programmed.
+31 (16) "Physical agent" means an agent other than a substance including, without limitation,
+32 radiofrequency/microwave (RF/MW) radiation pollution and other electromagnetic radiation
+33 pollution and fields, maser, barometric pressure, temperature, gravity, kinetic weaponry,
+34 mechanical vibration and sound.
+LC001781 - Page 3 of 9
+
+1 (17) "Pollution" means the discharge, dispersal, deposition, injection, release, seepage,
+2 migration or escape of pollutants.
+3 (18) "Pollutants" means any solid, liquid, gaseous, or thermal irritant, contaminant, or
+4 substance, including smoke, vapor, soot, fumes, aerosol plumes, acid, alkalis, chemicals including,
+5 but not limited to, barium, strontium, tri-methyl aluminum, sulfur dioxide, magnesium, chemical
+6 compounds, coal-fly ash, chaff, artificially produced electric fields, magnetic field, electromagnetic
+7 field, electromagnetic pulse (EMP), sound waves, sound pollution, light pollution, microwaves,
+8 and all artificially produced ionizing or non-ionizing radiation, and/or waste. Waste includes
+9 materials to be recycled, reconditioned or reclaimed.
+10 (19) "Release" means any activity that results in the issuance or deposition of pollutants
+11 such as the emitting, transmitting, dispersion, discharging or injecting of one or more nuclear,
+12 biological, trans-biological, chemical, and/or physical agents into the ambient atmosphere, whether
+13 once, intermittently, or continuously.
+14 (20) "Satellite" means a facility launched into earth's orbit to perform functions including,
+15 but not limited to, transmission of electromagnetic radiation pollution via communications, global
+16 positioning, intelligence gathering, weather forecasting, weather experimentation, weather
+17 modification and weaponry. Currently satellites are operating in low earth orbit (LEO), medium
+18 earth orbit (MEO), and high earth orbit (HEO).
+19 (21) "Satellite weather modification system (SWMS)" means weather modification by
+20 satellites involves a space-based, man-made network of satellites communicating in real-time with
+21 other satellites and ground-based infrastructure via transmission of electromagnetic radiation
+22 pollution such as lasers.
+23 (22) "Solar radiation modification (SRM)", "sunlight reflection methods (SRM)", or "solar
+24 radiation management (SRM)" means an experiment in the earth's climatic system involving the
+25 release of pollutants that reduces the amount of sunlight reaching the earth's surface. SRM involves
+26 the use of inter-operable ground-based, airborne, and space-based facilities.
+27 (23) "State police" means the Rhode Island state police (RISP), an agency of the State of
+28 Rhode Island responsible for statewide law enforcement and regulation, especially in areas
+29 underserved by local police agencies and on the state's limited-access highways.
+30 (24) "Weather engineering" means the deliberate manipulation or alteration of the
+31 environment for the purpose of changing the weather or climate by artificial means, through
+32 interventions involving the release of pollutants into the atmosphere via cloud seeding for small-
+33 scale, large-scale, and global-scale alteration of the environment.
+34 (25) "Weather modification" means any activity performed with the intention of producing
+LC001781 - Page 4 of 9
+
+1 artificial changes in the composition, behavior, or dynamics of the atmosphere.
+2 23-23.8-3. Regulation by the state.
+3 (a) Government and armed forces projects shall meet all the requirements of this chapter.
+4 If an activity deemed a hazard by this chapter has been approved, explicitly or implicitly, by the
+5 federal government, the Rhode Island state police (RISP) shall issue a notice to the appropriate
+6 federal agency that the activity cannot lawfully be carried out within or over the state.
+7 (b) RISP is authorized to and shall implement this chapter, determining when violations
+8 have occurred and if deemed necessary shall refer potentially violative activity to the Rhode Island
+9 air national guard.
+10 23-23.8-4. Violative activity - Prohibition on solar radiation modification (SRM),
+11 sunlight reflection methods (SRM), solar radiation management (SRM), cloud seeding,
+12 weather modification, or other polluting atmospheric experiments and/or interventions.
+13 (a) No person or entity shall engage in SRM or other polluting atmospheric
+14 experimentation and/or interventions in this state, including through the use of an aircraft, balloon,
+15 space-based platform, ground generators, or interoperable ground-based facility.
+16 (b) The state police shall immediately issue and publicly report a cease-and-desist order,
+17 when an unlawful polluting atmospheric activity is suspected. The cease-and-desist order under
+18 this section shall have the weight of a court order and any violation shall be punished in accordance
+19 with § 23-23.8-6.
+20 23-23.8-5. Departmental notice to cease federal or foreign-approved programs.
+21 (a) Where an activity deemed hazardous by this chapter has been approved, explicitly or
+22 implicitly, by the federal government or a government agency, the state police shall issue a notice
+23 to the appropriate federal authority, agency, entity, or academic institution that the polluting
+24 intervention cannot lawfully be carried out within or over the State of Rhode Island.
+25 (b) Government agencies or projects, academic institutions, public or private entities, and
+26 armed forces operating within or above the State of Rhode Island shall meet all the requirements
+27 of this chapter.
+28 23-23.8-6. Penalties and enforcement.
+29 An entity that engages in a prohibited polluting atmospheric experiment and/or intervention
+30 under this chapter or person who uses an unmarked or unidentified aircraft or other vehicle or
+31 facility to carry out an experiment and/or intervention involving the release of pollutants, or who
+32 fails to comply with the regulations set forth:
+33 (1) Has committed a felony and shall pay a fine of not less than five hundred thousand
+34 dollars ($500,000) or be imprisoned for not less than five (5) years, or both;
+LC001781 - Page 5 of 9
+
+1 (2) Shall be guilty of a separate offense for each day during which violative activity has
+2 been conducted, repeated, or continued;
+3 (3) Rhode Island state police shall deputize and train volunteer Rhode Island citizens to
+4 assist with the enforcement of the provisions of this chapter.
+5 (4) The Rhode Island state police or deputies shall investigate reports of SRM or radiation
+6 pollution to ensure compliance with the requirements of this chapter or the administrative
+7 regulations promulgated hereunder.
+8 23-23.8-7. Investigatory findings -- Responses.
+9 As established in this chapter, scientific dimensions of SRM include the use of
+10 interoperable ground-based, airborne, and space-based facilities involving the release of pollutants,
+11 including radiation. There are ever-increasing numbers of pollution-generating, microwave-
+12 irradiating instruments used in weather experimentation including, but not limited to, ground-based
+13 facilities interoperable with drones and satellites. Such infrastructures and the electrical grid are
+14 vulnerable to radiation pollution interference, EMP events and cyber-attacks, potentially leading to
+15 accidents, fatalities, damage to critical infrastructures, possible collapse of commerce systems and
+16 the failure of essential public utilities, costing the state billions of dollars. Therefore, irradiating
+17 infrastructure shall be subject to evaluation by an independent licensed radiofrequency (RF)
+18 engineer paid for by the facility owner. RF engineer shall provide findings in a report to be
+19 submitted to the Rhode Island state police, therefore:
+20 (1) Radiation signal strength metered at the reported location is not to exceed -75 dBm
+21 (decibel-milliwatt) for any frequency or channel band specified by a transmitting entity’s FCC
+22 transmission license; or, maximum power output limit from all frequencies/antennas from a
+23 wireless facility is not to exceed 0.1 watt of effective radiated power (ERP) so as to provide -75
+24 dBm signal strength at 1/2 mile, or five (5) bars on a cell phone. If signal strength metered by RF
+25 engineer is in excess of -75 dBm (decibel-milliwatt), the facility operator has thirty (30) days to
+26 achieve compliance without disruption to performance of personal wireless services. The Rhode
+27 Island state police or deputies shall perform random testing from time to time to ensure facility
+28 compliance with this chapter. Failure to comply will result in a fine of not less than five hundred
+29 thousand dollars ($500,000) per day for each day the facility is out of compliance. Deliberate
+30 falsification or altering of information shall be punished in accordance with § 23-23.8-6(1) and (2).
+31 All public and private entities operating in the state shall comply with these guidelines.
+32 (2) To reduce pollution and ensure the economic protection and privacy of Rhode Islanders,
+33 the safe and secure deployment of hardwired, fiber-optic connections to the premises (FTTP) to
+34 homes, schools, and businesses shall be required, thereby providing the ability to conduct financial
+LC001781 - Page 6 of 9
+
+1 transactions and complete lifesaving communications in the event that electronic interactions by
+2 existing means are compromised, hacked, restricted, or not possible. To safeguard the wellbeing of
+3 Rhode Islanders, consumer choice options, including non-wireless routers, non-wireless modems,
+4 and non-wireless mechanical analog utility meters, within home, property, or business shall be
+5 offered to customers without additional fees.
+6 SECTION 3. Section 30-15-7 of the General Laws in Chapter 30-15 entitled "Emergency
+7 Management" is hereby amended to read as follows:
+8 30-15-7. Governor’s general powers.
+9 The governor shall be responsible for carrying out the provisions of this chapter and shall
+10 be primarily responsible for emergency management in the state. Aside from powers granted to the
+11 governor elsewhere, the governor is hereby specifically authorized to:
+12 (1) Issue executive orders, proclamations, and regulations and amend or rescind them.
+13 Executive orders, proclamations, and regulations, for the purposes of this chapter, have the force
+14 and effect of law;
+15 (2) Cooperate with the federal authorities and with the governors and/or officials of the
+16 other states in matters pertaining to the common disaster preparedness of the states and nation, and
+17 in exercising the powers under this chapter, the governor shall avoid duplications of, and conflicts
+18 with, the efforts of the federal authorities acting within their proper spheres;
+19 (3) Consider on a continuing basis steps that could be taken to prevent or reduce the harmful
+20 consequences of disasters. At the governor’s direction, and pursuant to any other authority they
+21 now have, state agencies, including, but not limited to, those that are or may be charged with
+22 responsibilities in connection with flood plain management, stream encroachment and flow
+23 regulation, weather modification, fire prevention and control, air quality, public works, land use
+24 and land-use planning, and construction standards, shall make studies of disaster-prevention-related
+25 matters. The governor, from time to time, shall make recommendations to the general assembly,
+26 local governments, and other appropriate public and private entities as may facilitate measures for
+27 mitigation of the harmful consequences of disasters;
+28 (4) Prepare a comprehensive plan and program for disasters (including response and
+29 recovery) in the state, the plan and program to be integrated into, and coordinated with, the response
+30 and disaster plans of other states to the fullest possible extent, and coordinate the preparation of
+31 plans and programs for disasters by the political subdivisions of the state, such plans to be integrated
+32 into, and coordinated with the state disaster plan and program to the fullest possible extent;
+33 (5) In accordance with the plans and programs for disasters in the state, procure supplies
+34 and equipment, to institute training programs and public information programs, and to take all other
+LC001781 - Page 7 of 9
+
+1 preparatory steps, including the partial or full mobilization of disaster organizations in advance of
+2 actual disaster, to ensure the furnishing of adequately trained and equipped forces of disaster
+3 personnel in time of need;
+4 (6) Delegate any administrative authority vested in the governor under this chapter and
+5 provide for the subsequent delegation of that authority; and
+6 (7) Do all other things necessary to ensure adequate preparation for disasters in the state,
+7 not inconsistent with other provisions of law.
+8 SECTION 4. This act shall take effect upon passage.
+========
+LC001781
+========
+LC001781 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND CLEAN AIR
+PRESERVATION ACT
+***
+1 This act establishes the Rhode Island Clean Air Preservation Act that establishes a
+2 regulatory process to prohibit polluting atmospheric experimentation such as solar radiation
+3 modification (SRM), sunlight reflection methods (SRM), solar radiation management (SRM),
+4 geoengineering, weather modification, cloud seeding, or other atmospheric interventions involving
+5 the release of pollutants including Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) known
+6 also as "forever chemicals," within the state, providing penalties for violations.
+7 This act would take effect upon passage.
+========
+LC001781
+========
+LC001781 - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S T ( s r m ( s r m ( s r m ( g a o a e a i i k ( a h t ( s o S a C T]
+[DELETED:  2 T A 2 A ( m c R ( s r m a g ( " a m a d p e o i c b a i o h m l o a i ( o a c h ( a c g m a g m r m v p r b t s a x ( e r a f m ( " m a s g f t d i b c f t t g i a o d o f n y a t f a b a P i ( c aO) o (]
+[DELETED:  ( c p a i d o a o t s t f g o a i o i a ( e t i t r o a c c c e t m c ( " m a s o p a b i n h t l o ( ( " m t a o i w w p a a l m c t ( w m c s o o p d m ( " i m a f a i e o s r ( t s ( i ( r ( r p a o e r p a f m b p t g k w m]
+[DELETED:  ( m ( s b c f a a a p i o n r a w W i m ( s b o ( b p i g w f w e w m e ( s o s a g i v t o e r p ( r r t ( R I r f s l e a r e i a u ( " e m t d m o a o t e f t p o c t w o c b a t i s (]
+[DELETED:  a 2 ( I f f ( h a 2 V a - P o s r m ( s r m ( s r m ( c s w ( N p o e s e i S o o p a e s ( w t w 2 ( i t t a f a a e o a i t t p i ( a o 2 A u f f ( d]
+[DELETED:  ( b ( a ( p t e c w t r o t c o t a r 2 A e i t c s d o S i t u o i i r T a e n o p m i f v a t i s b s t e b a i l r ( e p b t f o R e s p a r s ( ( t l o m p o l f a f f a w d e a I c t f A ( t h]
+[DELETED:  t e R a o S M 3 T b g ( E a ( o i w ( c n r i c w f p m s e a f r a m l m ( P a c p a p f d ( r a r a p i ( a]
+[DELETED:  p a p ( p ( n S]
+[DELETED:  T a e t R I C A P A t e a r p t p p a e s a s r m ( s r m ( s r m ( g t a T]

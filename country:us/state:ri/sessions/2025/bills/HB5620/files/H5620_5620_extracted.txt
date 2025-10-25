@@ -1,0 +1,368 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND HEALTH
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND HEALTH
+Number of Sections: 1
+Source: versions - 5620
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5620
+========
+LC001931
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CARE REFORM ACT OF 2024 -- HEALTH INSURANCE OVERSIGHT
+Introduced By: Representatives Potter, Kislak, McGaw, Donovan, Giraldo, Speakman,
+Cotter, Bennett, Tanzi, and Handy
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-14.5-2.1 of the General Laws in Chapter 42-14.5 entitled "The
+2 Rhode Island Health Care Reform Act of 2004 — Health Insurance Oversight" is hereby amended
+3 to read as follows:
+4 42-14.5-2.1. Definitions.
+5 As used in this chapter:
+6 (1) “Accountability standards” means measures including service processes, client and
+7 population outcomes, practice standard compliance and fiscal integrity of social and human service
+8 providers on the individual contractual level and service type for all state contacts of the state or
+9 any subdivision or agency to include, but not limited to, the department of children, youth and
+10 families (DCYF), the department of behavioral healthcare, developmental disabilities and hospitals
+11 (BHDDH), the department of human services (DHS), the department of health (DOH), and
+12 Medicaid. This may include mandatory reporting, consolidated, standardized reporting, audits
+13 regardless of organizational tax status, and accountability dashboards of aforementioned state
+14 departments or subdivisions that are regularly shared with the public.
+15 (2) "Consumer Price Index" means the Consumer Price Index, Annual Average, for all
+16 Urban Consumers, CPI-U: US City Average, All Items, reported by the United States Department
+17 of Labor, Bureau of Labor Statistics, or its successor or, if the index is discontinued, an equivalent
+18 index reported by a federal authority or, if no such index is reported, "Consumer Price Index" means
+1 a comparable index chosen by the Bureau of Labor Statistics.
+2 (3) “Executive Office of Health and Human Services (EOHHS)” means the department
+3 that serves as “principal agency of the executive branch of state government” (§ 42-7.2-2)
+4 responsible for managing the departments and offices of: health (RIDOH), human services (DHS),
+5 healthy aging (OHA), veterans services (VETS), children, youth and families (DCYF), and
+6 behavioral healthcare, developmental disabilities and hospitals (BHDDH). EOHHS is also
+7 designated as the single state agency with authority to administer the Medicaid program in Rhode
+8 Island.
+9 (4) "Identified drug" means any prescription drug that has at any time been identified as
+10 having an unsupported price increase.
+11 (5) "Prescription drug" has the same meaning as prescription as defined in § 23-25.3-3.
+12 (3)(6) “Rate review” means the process of reviewing and reporting of specific trending
+13 factors that influence the cost of service that informs rate setting.
+14 (4)(7) “Rate setting” means the process of establishing rates for social and human service
+15 programs that are based on a thorough rate review process.
+16 (5)(8) “Social and human service program” means a social, mental health, developmental
+17 disability, child welfare, juvenile justice, prevention services, habilitative, rehabilitative, substance
+18 use disorder treatment, residential care, adult or adolescent day services, vocational, employment
+19 and training, or aging service program or accommodations purchased by the state.
+20 (6)(9) “Social and human service provider” means a provider of social and human service
+21 programs pursuant to a contract with the state or any subdivision or agency to include, but not be
+22 limited to, the department of children, youth and families (DCYF), the department of behavioral
+23 healthcare, developmental disabilities and hospitals (BHDDH), the department of human services
+24 (DHS), the department of health (DOH), and Medicaid.
+25 (7)(10) “State government and the provider network” refers to the contractual relationship
+26 between a state agency or subdivision of a state agency and private companies the state contracts
+27 with to provide the network of mandated and discretionary social and human services.
+28 (11) "Unsupported price increase" means an increase in price for a prescription drug for
+29 which there was no, or inadequate, new clinical evidence to support the price increase. In order to
+30 determine whether a price increase for a prescription drug is unsupported by new clinical evidence,
+31 the state shall utilize and rely upon the analyses of prescription drugs prepared annually by the
+32 Institute for Clinical and Economic Review (ICER) and published in its annual unsupported price
+33 increase report.
+34 (12) "Wholesale acquisition cost" has the meaning set forth in 42 U.S.C. § 1395w-
+LC001931 - Page 2 of 6
+1 3a(c)(6)(B).
+2 SECTION 2. Chapter 42-14.5 of the General Laws entitled "The Rhode Island Health Care
+3 Reform Act of 2004 — Health Insurance Oversight" is hereby amended by adding thereto the
+4 following section:
+5 42-14.5-6. Penalty imposed and collection power.
+6 (a) A penalty shall be assessed on the sales within the state of identified drugs and payable
+7 by the manufacturers of the identified drugs. The penalty shall be calculated as described in
+8 subsection (a)(1) of this section.
+9 (1) The penalty in any calendar year shall equal eighty percent (80%) of the difference
+10 between the revenue generated by sales within the state of the identified drugs and the revenue that
+11 would have been generated if the manufacturer had maintained the wholesale acquisition cost from
+12 the previous calendar year, adjusted for inflation utilizing the Consumer Price Index.
+13 (2) In order to be subject to the penalty a manufacturer shall have at least two hundred fifty
+14 thousand dollars ($250,000) in total annual sales within the state in the calendar year for which the
+15 penalty is assessed.
+16 (3) Within sixty (60) days of the annual publication by ICER of the unsupported price
+17 increase report, the commissioner shall identify the manufacturers of identified drugs. The
+18 commissioner shall notify each manufacturer that sales within the state of identified drugs shall be
+19 subject to the penalty assessed in this section for a period of two (2) calendar years following the
+20 identified drug’s appearance in the annual publication by ICER.
+21 (4) Such penalty shall be collected annually. Any manufacturer notified by the
+22 commissioner pursuant to subsection (a)(3) of this section, shall submit to the commissioner a
+23 return on a form prescribed and furnished by the commissioner and pay the penalty by April 15 for
+24 the previous calendar year.
+25 (5) The form described in subsection (a)(4) of this section shall contain information
+26 including, but not limited to:
+27 (i) The total amount of sales of the identified drug within the state;
+28 (ii) The total number of units sold of the identified drug within the state;
+29 (iii) The wholesale acquisition cost of the identified drug during the tax period and any
+30 changes in the wholesale acquisition cost during the calendar year;
+31 (iv) The wholesale acquisition cost during the previous calendar year;
+32 (v) A calculation of the penalty owed; and
+33 (vi) Any other information that the commissioner determines is necessary to calculate the
+34 correct amount of the penalty owed.
+LC001931 - Page 3 of 6
+1 (6) The commissioner may request any agency to assist in calculation of the penalty and
+2 collection, including the tax administrator, who may collect the contribution with interest in the
+3 same manner and with the same powers as are prescribed for collection of taxes in title 44.
+4 (b) Use of revenue.
+5 (1) The payments required by this section may be made by electronic transfer of monies to
+6 the general treasurer.
+7 (2) The general treasurer shall take all steps necessary to facilitate the transfer of monies
+8 to a restricted receipt account and made available to the office of the health insurance commissioner
+9 to offset costs to assess and collect the penalty, audit manufacturers that are required to submit
+10 returns pursuant to this section, and defend appeals from manufacturers. The balance shall be
+11 deposited in the general fund.
+12 (c) Prohibition on withdrawal of prescription drugs for sale.
+13 (1) It shall be a prohibition of this chapter for any manufacturer or distributor of an
+14 identified drug to withdraw that drug from sale or distribution within this state for the purpose of
+15 avoiding the penalty set forth in this section.
+16 (2) Any manufacturer who intends to withdraw an identified drug from sale or distribution
+17 from within the state in order to avoid a penalty as described in this section shall provide a notice
+18 of withdrawal in writing to the board of pharmacy and to the attorney general at a minimum of one
+19 hundred eighty (180) days prior to such withdrawal.
+20 (3) The attorney general shall assess a penalty of five hundred thousand dollars ($500,000)
+21 on any entity, including any manufacturer or distributor of an identified drug, that it determines has
+22 withdrawn an identified drug from distribution or sale in the state in violation of this section.
+23 (d) Hearing by commission on application and appeals.
+24 (1) Any manufacturer aggrieved by the action of the commissioner in determining the
+25 amount of any penalty imposed under the provisions of this section may apply to the commissioner,
+26 within thirty (30) days after the notice of the action is mailed to it, for a hearing relative to the
+27 penalty. The commissioner shall fix a time and place for the hearing and shall so notify the
+28 manufacturer. Upon the hearing the commissioner shall correct manifest errors, if any, disclosed at
+29 the hearing and thereupon assess and collect the amount lawfully due together with any penalty or
+30 interest thereon.
+31 (2) Appeals from administrative orders or decisions made pursuant to any provisions of
+32 this section shall be pursued pursuant to chapter 35 of title 42 ("administrative procedures"). The
+33 right to appeal under this section shall be expressly made conditional upon prepayment of all
+34 contributions, interest, and penalties unless the manufacturer demonstrates to the satisfaction of the
+LC001931 - Page 4 of 6
+1 court that the manufacturer has a reasonable probability of success on the merits and is unable to
+2 prepay all contributions, interest, and penalties, considering not only the manufacturer’s own
+3 financial resources, but also the ability of the manufacturer to borrow the required funds. If the
+4 court, after appeal, holds that the manufacturer is entitled to a refund, the manufacturer shall also
+5 be paid interest on the amount at the rate provided in § 44-1-7.1, as amended.
+6 SECTION 3. This act shall take effect upon passage.
+========
+LC001931
+========
+LC001931 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND HEALTH
+CARE REFORM ACT OF 2024 -- HEALTH INSURANCE OVERSIGHT
+***
+1 This act would regulate price increases for prescription drugs. Any unsupported price
+2 increase of a prescription drug would be subject to a penalty equal to eight percent (80%) of the
+3 difference between the revenue generated by the sales of the prescription drug and the revenue that
+4 would have been generated if the manufacturer had maintained the wholesale acquisition cost from
+5 the previous calendar year, adjusted appropriately for inflation. Manufacturers would be prohibited
+6 from withdrawing a prescription drug from sale or distribution for the sole purpose of avoiding the
+7 penalty of a price increase.
+8 This act would take effect upon passage.
+========
+LC001931
+========
+LC001931 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S R t 4 A ( p p a f ( t d o h s ( t d o h ( a M m i m r c r a r o o t s a a d o a d ( U o i]
+[DELETED:  a ( t s a “ a o t e b o s g ( 4 r h a ( v s ( c y a f ( a b h d d a h ( E i a d I ( h ( ( f ( p ( d u a ( p l h ( ( b w ( w d t I i ( " a c h t m s f i 4 U § 1]
+[DELETED:  3 S R f 4 ( b t m o t i d p s b c d i s ( b w t ( t p ( i r t c s i t m o i d T c s i ( S p s b c a A m n b t c r t ( T f d i s ( o t s s c i i ( ( ( c ( ( ( c]
+[DELETED:  ( c s ( ( t ( t t r d ( ( I s b a p o t c m o d o a i a ( f o h ( o w ( ( a w p s f a a p f h a s n t m t i ( t r c]
+[DELETED:  c p a c i a p c n o t m o f c b S]
+[DELETED:  T i d w t f p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5620
+========
+LC001931
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND HEALTH
+CARE REFORM ACT OF 2024 -- HEALTH INSURANCE OVERSIGHT
+Introduced By: Representatives Potter, Kislak, McGaw, Donovan, Giraldo, Speakman,
+Cotter, Bennett, Tanzi, and Handy
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-14.5-2.1 of the General Laws in Chapter 42-14.5 entitled "The
+2 Rhode Island Health Care Reform Act of 2004 — Health Insurance Oversight" is hereby amended
+3 to read as follows:
+4 42-14.5-2.1. Definitions.
+5 As used in this chapter:
+6 (1) “Accountability standards” means measures including service processes, client and
+7 population outcomes, practice standard compliance and fiscal integrity of social and human service
+8 providers on the individual contractual level and service type for all state contacts of the state or
+9 any subdivision or agency to include, but not limited to, the department of children, youth and
+10 families (DCYF), the department of behavioral healthcare, developmental disabilities and hospitals
+11 (BHDDH), the department of human services (DHS), the department of health (DOH), and
+12 Medicaid. This may include mandatory reporting, consolidated, standardized reporting, audits
+13 regardless of organizational tax status, and accountability dashboards of aforementioned state
+14 departments or subdivisions that are regularly shared with the public.
+15 (2) "Consumer Price Index" means the Consumer Price Index, Annual Average, for all
+16 Urban Consumers, CPI-U: US City Average, All Items, reported by the United States Department
+17 of Labor, Bureau of Labor Statistics, or its successor or, if the index is discontinued, an equivalent
+18 index reported by a federal authority or, if no such index is reported, "Consumer Price Index" means
+
+1 a comparable index chosen by the Bureau of Labor Statistics.
+2 (3) “Executive Office of Health and Human Services (EOHHS)” means the department
+3 that serves as “principal agency of the executive branch of state government” (§ 42-7.2-2)
+4 responsible for managing the departments and offices of: health (RIDOH), human services (DHS),
+5 healthy aging (OHA), veterans services (VETS), children, youth and families (DCYF), and
+6 behavioral healthcare, developmental disabilities and hospitals (BHDDH). EOHHS is also
+7 designated as the single state agency with authority to administer the Medicaid program in Rhode
+8 Island.
+9 (4) "Identified drug" means any prescription drug that has at any time been identified as
+10 having an unsupported price increase.
+11 (5) "Prescription drug" has the same meaning as prescription as defined in § 23-25.3-3.
+12 (3)(6) “Rate review” means the process of reviewing and reporting of specific trending
+13 factors that influence the cost of service that informs rate setting.
+14 (4)(7) “Rate setting” means the process of establishing rates for social and human service
+15 programs that are based on a thorough rate review process.
+16 (5)(8) “Social and human service program” means a social, mental health, developmental
+17 disability, child welfare, juvenile justice, prevention services, habilitative, rehabilitative, substance
+18 use disorder treatment, residential care, adult or adolescent day services, vocational, employment
+19 and training, or aging service program or accommodations purchased by the state.
+20 (6)(9) “Social and human service provider” means a provider of social and human service
+21 programs pursuant to a contract with the state or any subdivision or agency to include, but not be
+22 limited to, the department of children, youth and families (DCYF), the department of behavioral
+23 healthcare, developmental disabilities and hospitals (BHDDH), the department of human services
+24 (DHS), the department of health (DOH), and Medicaid.
+25 (7)(10) “State government and the provider network” refers to the contractual relationship
+26 between a state agency or subdivision of a state agency and private companies the state contracts
+27 with to provide the network of mandated and discretionary social and human services.
+28 (11) "Unsupported price increase" means an increase in price for a prescription drug for
+29 which there was no, or inadequate, new clinical evidence to support the price increase. In order to
+30 determine whether a price increase for a prescription drug is unsupported by new clinical evidence,
+31 the state shall utilize and rely upon the analyses of prescription drugs prepared annually by the
+32 Institute for Clinical and Economic Review (ICER) and published in its annual unsupported price
+33 increase report.
+34 (12) "Wholesale acquisition cost" has the meaning set forth in 42 U.S.C. § 1395w-
+LC001931 - Page 2 of 6
+
+1 3a(c)(6)(B).
+2 SECTION 2. Chapter 42-14.5 of the General Laws entitled "The Rhode Island Health Care
+3 Reform Act of 2004 — Health Insurance Oversight" is hereby amended by adding thereto the
+4 following section:
+5 42-14.5-6. Penalty imposed and collection power.
+6 (a) A penalty shall be assessed on the sales within the state of identified drugs and payable
+7 by the manufacturers of the identified drugs. The penalty shall be calculated as described in
+8 subsection (a)(1) of this section.
+9 (1) The penalty in any calendar year shall equal eighty percent (80%) of the difference
+10 between the revenue generated by sales within the state of the identified drugs and the revenue that
+11 would have been generated if the manufacturer had maintained the wholesale acquisition cost from
+12 the previous calendar year, adjusted for inflation utilizing the Consumer Price Index.
+13 (2) In order to be subject to the penalty a manufacturer shall have at least two hundred fifty
+14 thousand dollars ($250,000) in total annual sales within the state in the calendar year for which the
+15 penalty is assessed.
+16 (3) Within sixty (60) days of the annual publication by ICER of the unsupported price
+17 increase report, the commissioner shall identify the manufacturers of identified drugs. The
+18 commissioner shall notify each manufacturer that sales within the state of identified drugs shall be
+19 subject to the penalty assessed in this section for a period of two (2) calendar years following the
+20 identified drug’s appearance in the annual publication by ICER.
+21 (4) Such penalty shall be collected annually. Any manufacturer notified by the
+22 commissioner pursuant to subsection (a)(3) of this section, shall submit to the commissioner a
+23 return on a form prescribed and furnished by the commissioner and pay the penalty by April 15 for
+24 the previous calendar year.
+25 (5) The form described in subsection (a)(4) of this section shall contain information
+26 including, but not limited to:
+27 (i) The total amount of sales of the identified drug within the state;
+28 (ii) The total number of units sold of the identified drug within the state;
+29 (iii) The wholesale acquisition cost of the identified drug during the tax period and any
+30 changes in the wholesale acquisition cost during the calendar year;
+31 (iv) The wholesale acquisition cost during the previous calendar year;
+32 (v) A calculation of the penalty owed; and
+33 (vi) Any other information that the commissioner determines is necessary to calculate the
+34 correct amount of the penalty owed.
+LC001931 - Page 3 of 6
+
+1 (6) The commissioner may request any agency to assist in calculation of the penalty and
+2 collection, including the tax administrator, who may collect the contribution with interest in the
+3 same manner and with the same powers as are prescribed for collection of taxes in title 44.
+4 (b) Use of revenue.
+5 (1) The payments required by this section may be made by electronic transfer of monies to
+6 the general treasurer.
+7 (2) The general treasurer shall take all steps necessary to facilitate the transfer of monies
+8 to a restricted receipt account and made available to the office of the health insurance commissioner
+9 to offset costs to assess and collect the penalty, audit manufacturers that are required to submit
+10 returns pursuant to this section, and defend appeals from manufacturers. The balance shall be
+11 deposited in the general fund.
+12 (c) Prohibition on withdrawal of prescription drugs for sale.
+13 (1) It shall be a prohibition of this chapter for any manufacturer or distributor of an
+14 identified drug to withdraw that drug from sale or distribution within this state for the purpose of
+15 avoiding the penalty set forth in this section.
+16 (2) Any manufacturer who intends to withdraw an identified drug from sale or distribution
+17 from within the state in order to avoid a penalty as described in this section shall provide a notice
+18 of withdrawal in writing to the board of pharmacy and to the attorney general at a minimum of one
+19 hundred eighty (180) days prior to such withdrawal.
+20 (3) The attorney general shall assess a penalty of five hundred thousand dollars ($500,000)
+21 on any entity, including any manufacturer or distributor of an identified drug, that it determines has
+22 withdrawn an identified drug from distribution or sale in the state in violation of this section.
+23 (d) Hearing by commission on application and appeals.
+24 (1) Any manufacturer aggrieved by the action of the commissioner in determining the
+25 amount of any penalty imposed under the provisions of this section may apply to the commissioner,
+26 within thirty (30) days after the notice of the action is mailed to it, for a hearing relative to the
+27 penalty. The commissioner shall fix a time and place for the hearing and shall so notify the
+28 manufacturer. Upon the hearing the commissioner shall correct manifest errors, if any, disclosed at
+29 the hearing and thereupon assess and collect the amount lawfully due together with any penalty or
+30 interest thereon.
+31 (2) Appeals from administrative orders or decisions made pursuant to any provisions of
+32 this section shall be pursued pursuant to chapter 35 of title 42 ("administrative procedures"). The
+33 right to appeal under this section shall be expressly made conditional upon prepayment of all
+34 contributions, interest, and penalties unless the manufacturer demonstrates to the satisfaction of the
+LC001931 - Page 4 of 6
+
+1 court that the manufacturer has a reasonable probability of success on the merits and is unable to
+2 prepay all contributions, interest, and penalties, considering not only the manufacturer’s own
+3 financial resources, but also the ability of the manufacturer to borrow the required funds. If the
+4 court, after appeal, holds that the manufacturer is entitled to a refund, the manufacturer shall also
+5 be paid interest on the amount at the rate provided in § 44-1-7.1, as amended.
+6 SECTION 3. This act shall take effect upon passage.
+========
+LC001931
+========
+LC001931 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND HEALTH
+CARE REFORM ACT OF 2024 -- HEALTH INSURANCE OVERSIGHT
+***
+1 This act would regulate price increases for prescription drugs. Any unsupported price
+2 increase of a prescription drug would be subject to a penalty equal to eight percent (80%) of the
+3 difference between the revenue generated by the sales of the prescription drug and the revenue that
+4 would have been generated if the manufacturer had maintained the wholesale acquisition cost from
+5 the previous calendar year, adjusted appropriately for inflation. Manufacturers would be prohibited
+6 from withdrawing a prescription drug from sale or distribution for the sole purpose of avoiding the
+7 penalty of a price increase.
+8 This act would take effect upon passage.
+========
+LC001931
+========
+LC001931 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S R t 4 A ( p p a f ( t d o h s ( t d o h ( a M m i m r c r a r o o t s a a d o a d ( U o i]
+[DELETED:  a ( t s a “ a o t e b o s g ( 4 r h a ( v s ( c y a f ( a b h d d a h ( E i a d I ( h ( ( f ( p ( d u a ( p l h ( ( b w ( w d t I i ( " a c h t m s f i 4 U § 1]
+[DELETED:  3 S R f 4 ( b t m o t i d p s b c d i s ( b w t ( t p ( i r t c s i t m o i d T c s i ( S p s b c a A m n b t c r t ( T f d i s ( o t s s c i i ( ( ( c ( ( ( c]
+[DELETED:  ( c s ( ( t ( t t r d ( ( I s b a p o t c m o d o a i a ( f o h ( o w ( ( a w p s f a a p f h a s n t m t i ( t r c]
+[DELETED:  c p a c i a p c n o t m o f c b S]
+[DELETED:  T i d w t f p T]

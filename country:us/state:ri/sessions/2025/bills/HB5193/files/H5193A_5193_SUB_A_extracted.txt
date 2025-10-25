@@ -1,0 +1,127 @@
+Title: RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Official Title: RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Number of Sections: 1
+Source: versions - 5193  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5193 SUBSTITUTE A
+========
+LC000848/SUB A/3
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Read, Noret, Casimiro, Edwards, Serpa, Hull, Corvese,
+Casey, Azzinaro, and Phillips
+Date Introduced: January 24, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-28.2 of the General Laws entitled "Office of State Fire Marshal"
+2 is hereby amended by adding thereto the following section:
+3 23-28.2-31. Electric and hybrid motor vehicle identification database.
+4 (a) The office of the state fire marshal ("office") shall, in coordination with the division of
+5 motor vehicles ("division"), create and maintain a vehicle identification database for electric or
+6 hybrid motor vehicles powered in whole or in part by a high-voltage lithium-ion storage battery.
+7 (b) The office shall compile a contact list of all departments and districts that provide fire-
+8 fighting services and shall provide the division with the list which would enable the division to
+9 transfer the information required to be collected pursuant to subsection (c) of this section directly
+10 to the fire department or fire district that provides fire protection services to the address of the
+11 vehicle owner. The office shall provide an updated contact list to the division as necessary.
+12 (c) The information to be transferred by the division pursuant to this section shall be limited
+13 to:
+14 (1) The vehicle registration information;
+15 (2) A vehicle description including the make, model and year of the vehicle; and
+16 (3) The address of the structure where the vehicle is located.
+17 (d) The division shall forward the information collected pursuant to subsection (c) of this
+18 section to the municipal or volunteer fire department or fire district that provides fire protection
+19 services where the vehicle is located by January 1, and July 1, of each year.
+1 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC000848/SUB A/3
+========
+LC000848/SUB A/3 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+***
+1 This act would create a voluntary program through which registrants of electric and hybrid
+2 motor vehicles can register their vehicles with their local fire department or fire district.
+3 This act would take effect on January 1, 2026.
+========
+LC000848/SUB A/3
+========
+LC000848/SUB A/3 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S i 2 ( m h ( f t t v ( t ( ( ( ( s s ]
+[DELETED:  S]
+[DELETED:  T m T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5193 SUBSTITUTE A
+========
+LC000848/SUB A/3
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Introduced By: Representatives Read, Noret, Casimiro, Edwards, Serpa, Hull, Corvese,
+Casey, Azzinaro, and Phillips
+Date Introduced: January 24, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-28.2 of the General Laws entitled "Office of State Fire Marshal"
+2 is hereby amended by adding thereto the following section:
+3 23-28.2-31. Electric and hybrid motor vehicle identification database.
+4 (a) The office of the state fire marshal ("office") shall, in coordination with the division of
+5 motor vehicles ("division"), create and maintain a vehicle identification database for electric or
+6 hybrid motor vehicles powered in whole or in part by a high-voltage lithium-ion storage battery.
+7 (b) The office shall compile a contact list of all departments and districts that provide fire-
+8 fighting services and shall provide the division with the list which would enable the division to
+9 transfer the information required to be collected pursuant to subsection (c) of this section directly
+10 to the fire department or fire district that provides fire protection services to the address of the
+11 vehicle owner. The office shall provide an updated contact list to the division as necessary.
+12 (c) The information to be transferred by the division pursuant to this section shall be limited
+13 to:
+14 (1) The vehicle registration information;
+15 (2) A vehicle description including the make, model and year of the vehicle; and
+16 (3) The address of the structure where the vehicle is located.
+17 (d) The division shall forward the information collected pursuant to subsection (c) of this
+18 section to the municipal or volunteer fire department or fire district that provides fire protection
+19 services where the vehicle is located by January 1, and July 1, of each year.
+
+1 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC000848/SUB A/3
+========
+LC000848/SUB A/3 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+***
+1 This act would create a voluntary program through which registrants of electric and hybrid
+2 motor vehicles can register their vehicles with their local fire department or fire district.
+3 This act would take effect on January 1, 2026.
+========
+LC000848/SUB A/3
+========
+LC000848/SUB A/3 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S i 2 ( m h ( f t t v ( t ( ( ( ( s s ]
+[DELETED:  S]
+[DELETED:  T m T]

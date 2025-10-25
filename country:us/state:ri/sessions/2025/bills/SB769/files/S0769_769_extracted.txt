@@ -1,0 +1,350 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+Number of Sections: 1
+Source: versions - 769
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0769
+========
+LC002230
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SECURITY ACT
+Introduced By: Senator Samuel D. Zurier
+Date Introduced: March 14, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-31-10 of the General Laws in Chapter 39-31 entitled "Affordable
+2 Clean Energy Security Act" is hereby amended to read as follows:
+3 39-31-10. Offshore wind procurement.
+4 (a) The electric distribution company, is hereby authorized and required to issue a request
+5 for proposals for at least six hundred megawatts (600 MW) but no greater than one thousand
+6 megawatts (1,000 MW) of newly-developed offshore wind capacity no later than October 15, 2022
+7 in collaboration with the Rhode Island office of energy resources, shall establish a schedule for
+8 competitive solicitations for the development and construction of offshore wind power projects,
+9 subject to review and approval by the commission. The electric distribution company shall conduct
+10 one or more competitive solicitations through a staggered procurement schedule developed with
+11 the office of energy resources; provided that, the schedule shall ensure that the electric distribution
+12 company enters into cost-effective long-term contracts for offshore wind energy generation equal
+13 to approximately twelve hundred megawatts (1200 MW) of aggregate nameplate capacity not later
+14 than March 30, 2029; and provided further, that individual solicitations shall seek proposals for no
+15 less than four hundred megawatts (400 MW) of aggregate nameplate capacity of offshore wind
+16 energy generation resources. A staggered procurement schedule shall be developed by the electric
+17 distribution company and the office of energy resources and shall specify that any subsequent
+18 solicitation shall occur within thirty-six (36) months of a previous solicitation. Proposals received
+1 pursuant to a solicitation under this section shall be subject to review by the electric company
+2 distribution company and the office of energy resources.
+3 (b) The electric distribution company shall develop the each request for proposals (RFP)
+4 in consultation with the Rhode Island office of energy resources and the Rhode Island division of
+5 public utilities and carriers. Review of any proposed contract(s) resulting from this procurement
+6 shall be conducted by the commission consistent with the requirements of this chapter. The request
+7 for proposals shall require all bidders to provide, at a minimum, information on potential
+8 environmental impacts through the submittal of an environmental and fisheries mitigation plan,
+9 which shall include site and environmental data transparency requirements; a site layout plan and
+10 maps that illustrate the location of all on-shore and offshore equipment and facilities and clearly
+11 delineates the perimeter of the area in which offshore wind turbines will be placed; annualized
+12 estimates for all economic benefits, including the specific in-state expenditures and employment
+13 proposed during the development, construction, and operation and maintenance phases of the
+14 project; a diversity, equity, and inclusion plan that, at a minimum, provides the bidder’s proposed
+15 strategy to enable access to employment and vendor opportunities for historically marginalized
+16 communities; identification of Rhode Island vendors and other domestic offshore wind supply
+17 chain opportunities associated with the project; and a plan outlining the bidder’s intentions with
+18 respect to the negotiation of a project labor agreement(s) to cover construction activities on a
+19 proposed project. This information shall be incorporated in the procurement’s evaluation and
+20 scoring criteria.
+21 (c) In reviewing responses to the request for proposals, the electric distribution company
+22 shall give priority to offshore wind projects that:
+23 (1) Provide employment and contracting opportunities for workers from disadvantaged
+24 communities as defined by:
+25 (i) The United States Council on Environmental Quality’s climate and economic justice
+26 screening tool or by an agency of this state using standards similar to those in the screening tool as
+27 determined by the commission;
+28 (ii) The United States Department of Commerce, Economic Development Administration’s
+29 economic distress criteria; or
+30 (iii) The United States Department of Energy’s disadvantaged community criteria.
+31 (2) Provide community benefits, as determined preconstruction through a stakeholder
+32 engagement process that includes disadvantaged communities and investments in fishing
+33 communities;
+34 (3) Provide financial contributions or technical assistance to support research, monitoring
+LC002230 - Page 2 of 6
+1 and mitigation of impacts to wildlife, fisheries and habitats and the minimization of environmental
+2 impacts from the offshore wind power project and related transmission and interconnection
+3 infrastructure;
+4 (4) Provide economic benefits to the state, including using an offshore wind port located
+5 in this state;
+6 (5) Maximize the hiring of residents of this state;
+7 (6) Maximize economic, employment and contracting opportunities for residents of this
+8 state and all businesses in this state; and
+9 (7) Provide ratepayer benefits including, but not limited to, enhanced electric reliability,
+10 resource adequacy including contributing to reducing winter electric price spikes and overall price
+11 impacts, avoidance of line loss and mitigation of transmission costs to the extent possible.
+12 (b)(c) The electric distribution company, prior to its issuance, shall file the RFP as
+13 described in subsection (a) of this section with the commission solely for the purpose of soliciting
+14 public comment. The RFP shall be available for thirty (30) days and the commission shall accept
+15 written comment throughout that period, and it shall hold one public hearing to accept oral
+16 comments. Following the public comment period, the electric distribution company shall issue the
+17 RFP with no further action of the commission. Should the electric distribution company
+18 subsequently file a contract resulting from the RFP under subsection (c) of this section, or an
+19 alternative filing under subsection (d) of this section, it shall provide testimony responding to the
+20 public comments either indicating how it was incorporated into the final filing or was not germane
+21 to the procurement.
+22 (c)(d) Unless the electric distribution company determines that the bids are unlikely to lead
+23 to contracts that comply with all of the requirements of this section and § 39-31-6, it shall select a
+24 project or projects during each solicitation for negotiating a contract that shall be conditioned upon
+25 approval by the commission. Negotiations shall proceed in good faith to achieve a commercially
+26 reasonable contract that meets the standards set forth in this chapter. Should the distribution
+27 company and the selected party agree to a contract, the contract shall be filed with the commission
+28 no later than March 15, 2024 sixteen (16) months after issuance of the solicitation, for commission
+29 approval. The commission shall review the contract and issue an order approving or disapproving
+30 the contract within one hundred twenty (120) days of the filing. If the parties are unable to reach
+31 agreement on a contract prior to March 15, 2024 sixteen (16) months after issuance of the
+32 solicitation, an unsigned copy noting which items have mutual agreement and providing each
+33 parties’ preferred terms that remain in dispute shall be filed with the commission by the electric
+34 distribution company prior to that same date. The commission shall have the authority to evaluate
+LC002230 - Page 3 of 6
+1 the unsigned contract consistent with the terms of this chapter, rule on any outstanding terms in
+2 dispute, and order the electric distribution company to execute the approved contract. In such case
+3 of a disputed contract, the commission has the discretion to extend the deadline for approval as
+4 needed to complete its review.
+5 (d)(e) If the electric distribution company determines that the bids are unlikely to lead to
+6 contracts that meet all of the requirements of this section and § 39-31-6, it shall submit a filing to
+7 the commission together with testimony to explain why it should not be required to negotiate a
+8 contract. The commission shall review and rule on the filing within ninety (90) days, which review
+9 shall include soliciting input from the agencies required to provide advisory opinions to the
+10 commission, and public comment. If the electric distribution company fails to show that the bids
+11 are unlikely to lead to a contract that meets all the requirements of this section and § 39-31-6 the
+12 commission may order the utility to proceed with negotiations as set forth in subsection (c) of this
+13 section.
+14 (e)(f) Long-term contracts shall require that developers of newly developed renewable
+15 energy resources will enter into a labor peace agreement with at least one bona fide labor
+16 organization either where such bona fide labor organization is actively representing employees
+17 providing necessary construction, operations and maintenance services for the newly developed
+18 renewable energy resource at the time of such agreement or upon notice by a bona fide labor
+19 organization that is attempting to represent employees who will provide necessary operations and
+20 maintenance services for the renewable energy system employed in the state. The maintenance of
+21 such a labor peace agreement shall be an ongoing material condition of any continuation of
+22 payments under the contract.
+23 (f)(g) Developers of newly developed renewable energy resources shall pay each
+24 construction, operations and maintenance employees wages and benefits that are not less than the
+25 prevailing wage and fringe benefit rates at the journeyman level that are prescribed by the
+26 department of labor and training pursuant to chapter 13 of title 37, for the corresponding
+27 classification in which the employee is employed, and not less than the prevailing wage rates for
+28 employees for which there is no classification prescribed by the department of labor and training;
+29 provided that, a worker may be paid wages and benefits not less than the rate applicable to
+30 apprentices for the pertinent classification if:
+31 (1) The worker is a participant in an approved apprenticeship program; and
+32 (2) The approved apprenticeship program from which the apprentice is hired maintains a
+33 direct entry agreement with a certified pre-apprenticeship training program.
+34 (g)(h) Solicitations by the electric distribution company shall reflect the requirements of
+LC002230 - Page 4 of 6
+1 this section.
+2 SECTION 2. This act shall take effect upon passage.
+========
+LC002230
+========
+LC002230 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+***
+1 This act would mandate that the state and electric distribution companies develop proposals
+2 and encourage off shore wind power development and give priority in those projects to providing
+3 employment and business opportunities to workers from disadvantaged communities.
+4 This act would take effect upon passage.
+========
+LC002230
+========
+LC002230 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S C 3 ( f m i c s o t c t t l e d s]
+[DELETED:  p d ( i p s f p s r a b t p a a m i o p e w m d e p p s c c r p p s b t p e a s ( s ( c ( s d ( e ( ( P c b a d p t a s e p t i d c a i i f c (]
+[DELETED:  a i f t o w p p a r t a i i ( i ( ( s ( r i ( T e d c p t i i s f t R a d p w c t t p a i s h o p h t a o c R w n f a o t c S t e d c s a p t ( t p a r c t m t s s f i t c S t d c n a t a o a c p t M 1 2 s ( m a i o t s p d]
+[DELETED:  t d o n ( c t c s i s i f t a r t p a o t t c a c s ( e r w e i a l p a w a l o b f l o p r o m s a l p a s b a o m c o a c o p ( D o n d r e r s p e c p w a f b r a t j l t a p b t d o l a t p t c 1 o t 3 f t c c e p t a w m b p w a b n l t t r a t a ( ( d (]
+[DELETED:  t S]
+[DELETED:  T a e T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0769
+========
+LC002230
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+Introduced By: Senator Samuel D. Zurier
+Date Introduced: March 14, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-31-10 of the General Laws in Chapter 39-31 entitled "Affordable
+2 Clean Energy Security Act" is hereby amended to read as follows:
+3 39-31-10. Offshore wind procurement.
+4 (a) The electric distribution company, is hereby authorized and required to issue a request
+5 for proposals for at least six hundred megawatts (600 MW) but no greater than one thousand
+6 megawatts (1,000 MW) of newly-developed offshore wind capacity no later than October 15, 2022
+7 in collaboration with the Rhode Island office of energy resources, shall establish a schedule for
+8 competitive solicitations for the development and construction of offshore wind power projects,
+9 subject to review and approval by the commission. The electric distribution company shall conduct
+10 one or more competitive solicitations through a staggered procurement schedule developed with
+11 the office of energy resources; provided that, the schedule shall ensure that the electric distribution
+12 company enters into cost-effective long-term contracts for offshore wind energy generation equal
+13 to approximately twelve hundred megawatts (1200 MW) of aggregate nameplate capacity not later
+14 than March 30, 2029; and provided further, that individual solicitations shall seek proposals for no
+15 less than four hundred megawatts (400 MW) of aggregate nameplate capacity of offshore wind
+16 energy generation resources. A staggered procurement schedule shall be developed by the electric
+17 distribution company and the office of energy resources and shall specify that any subsequent
+18 solicitation shall occur within thirty-six (36) months of a previous solicitation. Proposals received
+
+1 pursuant to a solicitation under this section shall be subject to review by the electric company
+2 distribution company and the office of energy resources.
+3 (b) The electric distribution company shall develop the each request for proposals (RFP)
+4 in consultation with the Rhode Island office of energy resources and the Rhode Island division of
+5 public utilities and carriers. Review of any proposed contract(s) resulting from this procurement
+6 shall be conducted by the commission consistent with the requirements of this chapter. The request
+7 for proposals shall require all bidders to provide, at a minimum, information on potential
+8 environmental impacts through the submittal of an environmental and fisheries mitigation plan,
+9 which shall include site and environmental data transparency requirements; a site layout plan and
+10 maps that illustrate the location of all on-shore and offshore equipment and facilities and clearly
+11 delineates the perimeter of the area in which offshore wind turbines will be placed; annualized
+12 estimates for all economic benefits, including the specific in-state expenditures and employment
+13 proposed during the development, construction, and operation and maintenance phases of the
+14 project; a diversity, equity, and inclusion plan that, at a minimum, provides the bidder’s proposed
+15 strategy to enable access to employment and vendor opportunities for historically marginalized
+16 communities; identification of Rhode Island vendors and other domestic offshore wind supply
+17 chain opportunities associated with the project; and a plan outlining the bidder’s intentions with
+18 respect to the negotiation of a project labor agreement(s) to cover construction activities on a
+19 proposed project. This information shall be incorporated in the procurement’s evaluation and
+20 scoring criteria.
+21 (c) In reviewing responses to the request for proposals, the electric distribution company
+22 shall give priority to offshore wind projects that:
+23 (1) Provide employment and contracting opportunities for workers from disadvantaged
+24 communities as defined by:
+25 (i) The United States Council on Environmental Quality’s climate and economic justice
+26 screening tool or by an agency of this state using standards similar to those in the screening tool as
+27 determined by the commission;
+28 (ii) The United States Department of Commerce, Economic Development Administration’s
+29 economic distress criteria; or
+30 (iii) The United States Department of Energy’s disadvantaged community criteria.
+31 (2) Provide community benefits, as determined preconstruction through a stakeholder
+32 engagement process that includes disadvantaged communities and investments in fishing
+33 communities;
+34 (3) Provide financial contributions or technical assistance to support research, monitoring
+LC002230 - Page 2 of 6
+
+1 and mitigation of impacts to wildlife, fisheries and habitats and the minimization of environmental
+2 impacts from the offshore wind power project and related transmission and interconnection
+3 infrastructure;
+4 (4) Provide economic benefits to the state, including using an offshore wind port located
+5 in this state;
+6 (5) Maximize the hiring of residents of this state;
+7 (6) Maximize economic, employment and contracting opportunities for residents of this
+8 state and all businesses in this state; and
+9 (7) Provide ratepayer benefits including, but not limited to, enhanced electric reliability,
+10 resource adequacy including contributing to reducing winter electric price spikes and overall price
+11 impacts, avoidance of line loss and mitigation of transmission costs to the extent possible.
+12 (b)(c) The electric distribution company, prior to its issuance, shall file the RFP as
+13 described in subsection (a) of this section with the commission solely for the purpose of soliciting
+14 public comment. The RFP shall be available for thirty (30) days and the commission shall accept
+15 written comment throughout that period, and it shall hold one public hearing to accept oral
+16 comments. Following the public comment period, the electric distribution company shall issue the
+17 RFP with no further action of the commission. Should the electric distribution company
+18 subsequently file a contract resulting from the RFP under subsection (c) of this section, or an
+19 alternative filing under subsection (d) of this section, it shall provide testimony responding to the
+20 public comments either indicating how it was incorporated into the final filing or was not germane
+21 to the procurement.
+22 (c)(d) Unless the electric distribution company determines that the bids are unlikely to lead
+23 to contracts that comply with all of the requirements of this section and § 39-31-6, it shall select a
+24 project or projects during each solicitation for negotiating a contract that shall be conditioned upon
+25 approval by the commission. Negotiations shall proceed in good faith to achieve a commercially
+26 reasonable contract that meets the standards set forth in this chapter. Should the distribution
+27 company and the selected party agree to a contract, the contract shall be filed with the commission
+28 no later than March 15, 2024 sixteen (16) months after issuance of the solicitation, for commission
+29 approval. The commission shall review the contract and issue an order approving or disapproving
+30 the contract within one hundred twenty (120) days of the filing. If the parties are unable to reach
+31 agreement on a contract prior to March 15, 2024 sixteen (16) months after issuance of the
+32 solicitation, an unsigned copy noting which items have mutual agreement and providing each
+33 parties’ preferred terms that remain in dispute shall be filed with the commission by the electric
+34 distribution company prior to that same date. The commission shall have the authority to evaluate
+LC002230 - Page 3 of 6
+
+1 the unsigned contract consistent with the terms of this chapter, rule on any outstanding terms in
+2 dispute, and order the electric distribution company to execute the approved contract. In such case
+3 of a disputed contract, the commission has the discretion to extend the deadline for approval as
+4 needed to complete its review.
+5 (d)(e) If the electric distribution company determines that the bids are unlikely to lead to
+6 contracts that meet all of the requirements of this section and § 39-31-6, it shall submit a filing to
+7 the commission together with testimony to explain why it should not be required to negotiate a
+8 contract. The commission shall review and rule on the filing within ninety (90) days, which review
+9 shall include soliciting input from the agencies required to provide advisory opinions to the
+10 commission, and public comment. If the electric distribution company fails to show that the bids
+11 are unlikely to lead to a contract that meets all the requirements of this section and § 39-31-6 the
+12 commission may order the utility to proceed with negotiations as set forth in subsection (c) of this
+13 section.
+14 (e)(f) Long-term contracts shall require that developers of newly developed renewable
+15 energy resources will enter into a labor peace agreement with at least one bona fide labor
+16 organization either where such bona fide labor organization is actively representing employees
+17 providing necessary construction, operations and maintenance services for the newly developed
+18 renewable energy resource at the time of such agreement or upon notice by a bona fide labor
+19 organization that is attempting to represent employees who will provide necessary operations and
+20 maintenance services for the renewable energy system employed in the state. The maintenance of
+21 such a labor peace agreement shall be an ongoing material condition of any continuation of
+22 payments under the contract.
+23 (f)(g) Developers of newly developed renewable energy resources shall pay each
+24 construction, operations and maintenance employees wages and benefits that are not less than the
+25 prevailing wage and fringe benefit rates at the journeyman level that are prescribed by the
+26 department of labor and training pursuant to chapter 13 of title 37, for the corresponding
+27 classification in which the employee is employed, and not less than the prevailing wage rates for
+28 employees for which there is no classification prescribed by the department of labor and training;
+29 provided that, a worker may be paid wages and benefits not less than the rate applicable to
+30 apprentices for the pertinent classification if:
+31 (1) The worker is a participant in an approved apprenticeship program; and
+32 (2) The approved apprenticeship program from which the apprentice is hired maintains a
+33 direct entry agreement with a certified pre-apprenticeship training program.
+34 (g)(h) Solicitations by the electric distribution company shall reflect the requirements of
+LC002230 - Page 4 of 6
+
+1 this section.
+2 SECTION 2. This act shall take effect upon passage.
+========
+LC002230
+========
+LC002230 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- AFFORDABLE CLEAN ENERGY
+SECURITY ACT
+***
+1 This act would mandate that the state and electric distribution companies develop proposals
+2 and encourage off shore wind power development and give priority in those projects to providing
+3 employment and business opportunities to workers from disadvantaged communities.
+4 This act would take effect upon passage.
+========
+LC002230
+========
+LC002230 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 3 ( f m i c s o t c t t l e d s]
+[DELETED:  p d ( i p s f p s r a b t p a a m i o p e w m d e p p s c c r p p s b t p e a s ( s ( c ( s d ( e ( ( P c b a d p t a s e p t i d c a i i f c (]
+[DELETED:  a i f t o w p p a r t a i i ( i ( ( s ( r i ( T e d c p t i i s f t R a d p w c t t p a i s h o p h t a o c R w n f a o t c S t e d c s a p t ( t p a r c t m t s s f i t c S t d c n a t a o a c p t M 1 2 s ( m a i o t s p d]
+[DELETED:  t d o n ( c t c s i s i f t a r t p a o t t c a c s ( e r w e i a l p a w a l o b f l o p r o m s a l p a s b a o m c o a c o p ( D o n d r e r s p e c p w a f b r a t j l t a p b t d o l a t p t c 1 o t 3 f t c c e p t a w m b p w a b n l t t r a t a ( ( d (]
+[DELETED:  t S]
+[DELETED:  T a e T]

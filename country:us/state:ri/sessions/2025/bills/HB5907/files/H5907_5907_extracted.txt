@@ -1,0 +1,155 @@
+Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Official Title: RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+Number of Sections: 1
+Source: versions - 5907
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5907
+========
+LC002294
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+LITIGATION LENDING AGREEMENTS
+Introduced By: Representatives Potter, Baginski, Batista, Shanley, and Dawson
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+2 -- PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.1
+4 LITIGATION LENDING AGREEMENTS
+5 9-3.1-1. Legislative findings.
+6 The general assembly finds and declares that:
+7 (1) Litigation financing contracts are being entered into where companies advance money
+8 to a litigant in return for payment from litigation proceeds at effective annual interest rates far
+9 exceeding state usury limits; and
+10 (2) These contracts often bear annual interest rates which exceed one hundred percent
+11 (100%); and
+12 (3) These rates are detrimental to the general welfare of the citizens of this state and it is
+13 necessary to enact legislation to ensure that litigation-funding advances conform to state laws
+14 governing usurious loans.
+15 9-3.1-2. Litigation lending agreement defined.
+16 A "litigation lending agreement" (LLA) is any agreement whereby monies are paid to
+17 parties to civil litigation (litigants) in consideration for a litigant's agreement to repay these monies
+18 (with or without interest, one-time charges, use fees, or any other add-on charges) from the proceeds
+1 of the litigation. Not included in the definition of an LLA are advancements of expenses of litigation
+2 made by attorneys on behalf of their clients, as permitted by rule 1.8(e) of the Rhode Island rules
+3 of professional conduct.
+4 9-3.1-3. Litigation advances considered loans pursuant to state usury law.
+5 All payments made by a litigant under an LLA greater than the amount received by the
+6 litigant under the LLA shall be considered interest on loans subject to the provisions of chapter 26
+7 of title 6 ("interest and usury") regardless of:
+8 (1) Whether an LLA characterizes itself as a "loan," an "advance," an "investment," an
+9 "assignment of proceeds," or any other characterization;
+10 (2) Whether monies to be repaid under the LLA are called "interest," "use fees," or any
+11 other term;
+12 (3) Whether the amount received by the litigant under the LLA otherwise exceeds any
+13 monetary limit for loans and interest rates falling within the provisions of chapter 26 of title 6; and
+14 (4) Whether the obligation on the part of the litigant to repay monies is contingent upon a
+15 particular outcome of the litigation.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC002294
+========
+LC002294 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+LITIGATION LENDING AGREEMENTS
+***
+1 This act would make litigation loan agreements subject to state usury laws.
+2 This act would take effect upon passage.
+========
+LC002294
+========
+LC002294 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S - C L 9 T ( t e ( ( ( n g 9 A p (]
+[DELETED:  o m o 9 A l o   " ( o   m ( p S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5907
+========
+LC002294
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+LITIGATION LENDING AGREEMENTS
+Introduced By: Representatives Potter, Baginski, Batista, Shanley, and Dawson
+Date Introduced: February 28, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+2 -- PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.1
+4 LITIGATION LENDING AGREEMENTS
+5 9-3.1-1. Legislative findings.
+6 The general assembly finds and declares that:
+7 (1) Litigation financing contracts are being entered into where companies advance money
+8 to a litigant in return for payment from litigation proceeds at effective annual interest rates far
+9 exceeding state usury limits; and
+10 (2) These contracts often bear annual interest rates which exceed one hundred percent
+11 (100%); and
+12 (3) These rates are detrimental to the general welfare of the citizens of this state and it is
+13 necessary to enact legislation to ensure that litigation-funding advances conform to state laws
+14 governing usurious loans.
+15 9-3.1-2. Litigation lending agreement defined.
+16 A "litigation lending agreement" (LLA) is any agreement whereby monies are paid to
+17 parties to civil litigation (litigants) in consideration for a litigant's agreement to repay these monies
+18 (with or without interest, one-time charges, use fees, or any other add-on charges) from the proceeds
+
+1 of the litigation. Not included in the definition of an LLA are advancements of expenses of litigation
+2 made by attorneys on behalf of their clients, as permitted by rule 1.8(e) of the Rhode Island rules
+3 of professional conduct.
+4 9-3.1-3. Litigation advances considered loans pursuant to state usury law.
+5 All payments made by a litigant under an LLA greater than the amount received by the
+6 litigant under the LLA shall be considered interest on loans subject to the provisions of chapter 26
+7 of title 6 ("interest and usury") regardless of:
+8 (1) Whether an LLA characterizes itself as a "loan," an "advance," an "investment," an
+9 "assignment of proceeds," or any other characterization;
+10 (2) Whether monies to be repaid under the LLA are called "interest," "use fees," or any
+11 other term;
+12 (3) Whether the amount received by the litigant under the LLA otherwise exceeds any
+13 monetary limit for loans and interest rates falling within the provisions of chapter 26 of title 6; and
+14 (4) Whether the obligation on the part of the litigant to repay monies is contingent upon a
+15 particular outcome of the litigation.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC002294
+========
+LC002294 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+LITIGATION LENDING AGREEMENTS
+***
+1 This act would make litigation loan agreements subject to state usury laws.
+2 This act would take effect upon passage.
+========
+LC002294
+========
+LC002294 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S - C L 9 T ( t e ( ( ( n g 9 A p (]
+[DELETED:  o m o 9 A l o   " ( o   m ( p S]
+[DELETED:  T T]

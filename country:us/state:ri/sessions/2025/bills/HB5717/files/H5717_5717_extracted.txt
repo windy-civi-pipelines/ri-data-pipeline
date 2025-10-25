@@ -1,0 +1,1047 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY
+Number of Sections: 1
+Source: versions - 5717
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5717
+========
+LC001748
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SANDBOX ACT
+Introduced By: Representatives Place, Santucci, Hopkins, and Nardone
+Date Introduced: February 26, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 64.35
+4 UNIVERSAL REGULATORY SANDBOX ACT
+5 42-64.35-1. Purpose.
+6 This chapter establishes a universal regulatory sandbox, which allows businesses, under
+7 the observation of regulators, to trial innovative products, services, and business models while
+8 temporarily receiving a waiver of inapplicable laws and/or regulations.
+9 42-64.35-2. Definitions.
+10 (1) “Advisory committee” means the general regulatory sandbox program created in § 42-
+11 64.35- 4.
+12 (2) “Applicable agency” means a department or agency of the state that by law regulates a
+13 business activity and persons engaged in such business activity, including the issuance of licenses
+14 or other types of authorization, which the regulatory relief office determines would otherwise
+15 regulate a sandbox participant.
+16 (3) “Applicant” means a person that applies to participate in the regulatory sandbox.
+17 (4) “Blockchain technology” means the use of a digital database containing records of
+18 financial transactions, which can be simultaneously used and shared within a decentralized,
+1 publicly accessible network and can record transactions between two (2) parties in a verifiable and
+2 permanent way.
+3 (5) “Consumer” means a person that purchases or otherwise enters into a transaction or
+4 agreement to receive an offering pursuant to a demonstration by a sandbox participant.
+5 (6) “Demonstrate” or “demonstration” means to temporarily provide an offering in
+6 accordance with the provisions of the regulatory sandbox program described in this chapter.
+7 (7) “Executive director” means the secretary of commerce of the commerce corporation.
+8 (8) “Financial product or service” means:
+9 (i) A financial product or financial service that requires state licensure or registration; or
+10 (ii) A financial product, financial service, or banking business that includes a business
+11 model, delivery mechanism, offering of deposit accounts, or element that may require other
+12 authorization to act as a financial institution, enterprise, or other entity that is regulated by the
+13 department of business regulation.
+14 (9) “Innovation” means the use or incorporation of a new or existing idea, a new or
+15 emerging technology, or a new use of existing technology, including blockchain technology, to
+16 address a problem, provide a benefit, or otherwise offer a product, production method, or service.
+17 (10) “Insurance product or service” means an insurance product or insurance service that
+18 requires state licensure, registration, or other authorization as regulated by title 27, including an
+19 insurance product or insurance service that includes a business model, delivery mechanism, or
+20 element that requires a license, registration, or other authorization to do an insurance business, act
+21 as an insurance producer or consultant, or engage in insurance adjusting as regulated by department
+22 of business regulation, insurance division.
+23 (11) “Offering” means a product, production method, or service, including a financial
+24 product or service or an insurance product or service, that includes an innovation.
+25 (12) “Product” means a commercially distributed good that is:
+26 (i) Tangible personal property;
+27 (ii) The result of a production process; and
+28 (iii) Passed through the distribution channel before consumption.
+29 (13) “Production” means the method or process of creating or obtaining a good, which may
+30 include assembling, breeding, capturing, collecting, extracting, fabricating, farming, fishing,
+31 gathering, growing, harvesting, hunting, manufacturing, mining, processing, raising, or trapping a
+32 good.
+33 (14) “Regulatory relief office” means the office of regulatory reform (ORR) created within
+34 the commerce corporation.
+LC001748 - Page 2 of 15
+1 (15) “Regulatory sandbox” means the general regulatory sandbox program created in this
+2 chapter which allows a person to temporarily demonstrate an offering under a waiver or suspension
+3 of one or more state laws or regulations.
+4 (16) “Sandbox participant” means a person whose application to participate in the
+5 regulatory sandbox is approved in accordance with the provisions of this chapter.
+6 (17) “Service” means any commercial activity, duty, or labor performed for another person.
+7 42-64.35-3. Regulatory relief office - Appointment of director - Responsibilities.
+8 (a) There is created within the commerce corporation the regulatory relief office.
+9 (b) The regulatory relief office shall be administered by a director appointed by the
+10 executive director.
+11 (c) The director shall report to the executive director and may appoint staff subject to the
+12 approval of the executive director.
+13 (d) The regulatory relief office shall:
+14 (1) Administer the provisions of this chapter;
+15 (2) Administer the regulatory sandbox program; and
+16 (3) Act as a liaison between private businesses and applicable agencies to identify state
+17 laws or regulations that could potentially be waived or suspended under the regulatory sandbox
+18 program.
+19 (e) The regulatory relief office shall:
+20 (1) Review state laws and regulations that may unnecessarily inhibit the creation and
+21 success of new companies or industries and provide recommendations to the governor and the
+22 general assembly on modifying such state laws and regulations;
+23 (2) Create a framework for analyzing the risk level to the health, safety, and financial well-
+24 being of consumers related to permanently removing or temporarily waiving laws and regulations
+25 inhibiting the creation or success of new and existing companies or industries;
+26 (3) Propose potential reciprocity agreements between states that use or are proposing to
+27 use similar regulatory sandbox programs as described in this chapter;
+28 (f) In accordance with chapter 35 of title 42 ("administrative procedures"), and the
+29 provisions of this chapter, make rules regarding:
+30 (1) Administering the regulatory sandbox, including promulgating rules and regulations
+31 regarding the application process and the reporting requirements of sandbox participants; and
+32 (2) Cooperating and consulting with other agencies in the state that administer sandbox
+33 programs.
+34 42-64.35-4. Advisory committee.
+LC001748 - Page 3 of 15
+1 (a) There is hereby created the general regulatory sandbox program advisory committee.
+2 (b) The advisory committee shall have eleven (11) members as follows:
+3 (1) Six (6) members appointed by the office director who represent businesses interests and
+4 are selected from a variety of industry clusters; three (3) members appointed by the office director
+5 who represent state agencies that regulate businesses; one member of the senate, appointed by the
+6 president of the senate; and one member of the house of representatives, appointed by the speaker
+7 of the house of representatives.
+8 (2) Subject to subsection (c) of this section, members of the advisory committee who are
+9 not legislators shall be appointed to a four (4) year term.
+10 (c) Notwithstanding the requirements of subsection (b) of this section, the office director
+11 may adjust the length of terms of appointments and reappointments to the advisory committee in
+12 order that approximately fifty percent (50%) of the advisory committee is appointed every two (2)
+13 years.
+14 (d) The office director shall select a chair of the advisory committee on an annual basis.
+15 (e) A majority of the advisory committee constitutes a quorum for the purpose of
+16 conducting advisory committee business, and the action of the majority of a quorum constitutes the
+17 action of the advisory committee.
+18 (f) The advisory committee shall advise and make recommendations to the regulatory relief
+19 office as described in this chapter.
+20 (g) The regulatory relief office shall provide administrative staff support for the advisory
+21 committee.
+22 (h) A member shall not receive compensation or benefits for the member’s service;
+23 provided, however, a member appointed under subsection (b)(1) of this section representing
+24 businesses interest may receive per diem and travel expenses.
+25 42-64.35-5. General regulatory sandbox program and application requirements.
+26 (a) There is created in the regulatory relief office, the general regulatory sandbox program.
+27 In administering the regulatory sandbox, the regulatory relief office:
+28 (1) Shall consult with each applicable agency;
+29 (2) Shall establish a program to enable a person to obtain legal protections and limited
+30 access to the market in the state to demonstrate an offering without obtaining a license or other
+31 authorization that might otherwise be required;
+32 (3) May enter into agreements with or adopt the best practices of corresponding federal
+33 regulatory agencies or other states that are administering similar programs; and
+34 (4) May consult with businesses in the state about existing or potential proposals for the
+LC001748 - Page 4 of 15
+1 regulatory sandbox.
+2 (b) An applicant for the regulatory sandbox may contact the regulatory relief office to
+3 request a consultation regarding the regulatory sandbox before submitting an application. The
+4 regulatory relief office shall provide assistance to an applicant in preparing an application for
+5 submission.
+6 (c) An applicant for the regulatory sandbox shall provide to the regulatory relief office an
+7 application in a form prescribed by the regulatory relief office that:
+8 (1) Confirms the applicant is subject to the jurisdiction of the state;
+9 (2) Confirms the applicant has established a physical or virtual location in the state, from
+10 which the demonstration of an offering shall be developed and performed and where all required
+11 records, documents, and data shall be maintained;
+12 (3) Contains relevant personal and contact information for the applicant, including legal
+13 names, addresses, telephone numbers, email addresses, website addresses, and other information
+14 required by the regulatory relief office;
+15 (4) Discloses criminal convictions of the applicant or other participating personnel, if any;
+16 (5) Contains a description of the offering to be demonstrated, including statements
+17 regarding:
+18 (i) How the offering is subject to licensing, legal prohibition, or other authorization
+19 requirements outside of the regulatory sandbox;
+20 (ii) Each law or regulation that the applicant seeks to have waived or suspended while
+21 participating in the regulatory sandbox program;
+22 (iii) How the offering would benefit consumers;
+23 (iv) How the offering is different from other offerings available in the state;
+24 (v) What risks might exist for consumers who use or purchase the offering;
+25 (vi) How participating in the regulatory sandbox would enable a successful demonstration
+26 of the offering;
+27 (vii) A description of the proposed demonstration plan, including estimated time periods
+28 for beginning and ending the demonstration;
+29 (viii) Recognition that the applicant will be subject to all laws and regulations pertaining
+30 to the applicant’s offering after conclusion of the demonstration;
+31 (ix) How the applicant will end the demonstration and protect consumers if the
+32 demonstration fails;
+33 (x) Lists each government agency, if any, that the applicant knows regulates the applicant’s
+34 business; and
+LC001748 - Page 5 of 15
+1 (xi) Provides any other required information as determined by the regulatory relief office.
+2 (d) The regulatory relief office may collect an application fee from an applicant.
+3 (e) An applicant shall file a separate application for each offering that the applicant intends
+4 to demonstrate.
+5 (f) After an application is filed, the regulatory relief office shall:
+6 (1) Classify, as protected record, any part of the application that the office determines is
+7 nonpublic, confidential information that if disclosed would result in actual economic harm to the
+8 applicant in accordance with chapter 2 of title 38 ("access to public records");
+9 (2) Consult with each applicable government agency that regulates the applicant’s business
+10 regarding whether more information is needed from the applicant; and
+11 (3) Seek additional information from the applicant that the regulatory relief office
+12 determines is necessary.
+13 (g) No later than five (5) business days after the day on which a complete application is
+14 received by the regulatory relief office, the regulatory relief office shall:
+15 (1) Review the application and refer the application to each applicable government agency
+16 that regulates the applicant’s business;
+17 (2) Provide to the applicant:
+18 (i) An acknowledgment of receipt of the application; and
+19 (ii) The identity and contact information of each regulatory agency to which the application
+20 has been referred for review;
+21 (3) Provide public notice, on the office’s website and through other appropriate means, of
+22 each law or regulation that the office is considering to suspend or waive under the application.
+23 (h) Subject to subsections (h)(3) and (h)(7) of this section, no later than thirty (30) days
+24 after the day on which an applicable agency receives a complete application for review, the
+25 applicable agency shall provide a written report to the office director of the applicable agency’s
+26 findings.
+27 (1) The report shall:
+28 (i) Describe any identifiable, likely, and significant harm to the health, safety, or financial
+29 well-being of consumers that the relevant law or regulation protects against; and
+30 (ii) Make a recommendation to the regulatory relief office that the applicant either be
+31 admitted or denied entrance into the regulatory sandbox.
+32 (2) The applicable agency may request an additional five (5) business days to deliver the
+33 written report by providing notice to the office director, which request shall automatically be
+34 granted.
+LC001748 - Page 6 of 15
+1 (3) The applicable agency shall only request one extension per application.
+2 (4) If the applicable agency recommends an applicant under this section be denied entrance
+3 into the regulatory sandbox, the written report shall include a description of the reasons for the
+4 recommendation, including why a temporary waiver or suspension of the relevant laws or
+5 regulations would potentially significantly harm the health, safety, or financial well-being of
+6 consumers or the public and the likelihood of such harm occurring.
+7 (5) If the agency determines that the consumer’s or public’s health, safety, or financial
+8 well-being can be protected through less restrictive means than the existing relevant laws or
+9 regulations, then the applicable agency shall provide a recommendation of how that can be
+10 achieved.
+11 (6) If an applicable agency fails to deliver a written report as described in subsection (h)(1)
+12 of this section, the office director shall assume that the applicable agency does not object to the
+13 temporary waiver or suspension of the relevant laws or regulations for an applicant seeking to
+14 participate in the regulatory sandbox.
+15 (7) Notwithstanding any other provision of this section, an applicable agency shall by
+16 written notice to the regulatory relief office:
+17 (i) Within the thirty (30) days after the day on which the applicable agency receives a
+18 complete application for review, or within thirty-five (35) days if an extension has been requested
+19 by the applicable agency, reject an application if the applicable agency determines, in the applicable
+20 agency’s sole discretion, that the applicant’s offering fails to comply with standards or
+21 specifications:
+22 (A) Required by federal law or regulation; or
+23 (B) Previously approved for use by a federal agency; or
+24 (ii) Reject an application preliminarily approved by the regulatory relief office, if the
+25 applicable agency:
+26 (A) Recommended rejection of the application in accordance with subsection (h)(4) of this
+27 section in the agency’s written report; and
+28 (B) Provided in the written notice under subsection (h)(7) of this section, a description of
+29 the applicable agency’s reasons why approval of the application would create a substantial risk of
+30 harm to the health or safety of the public, or create unreasonable expenses for taxpayers in the state.
+31 (8) If an applicable agency rejects an application under subsection (h)(7) of this section,
+32 the regulatory relief office shall not approve the application.
+33 (i) Upon receiving a written report described in subsection (h)(1) of this section, the
+34 director shall provide the application and the written report to the advisory committee.
+LC001748 - Page 7 of 15
+1 (A) The office director may call the advisory committee to meet as needed; provided,
+2 however, not less than once per quarter if applications are available for review.
+3 (B) After receiving and reviewing the application and each written report, the advisory
+4 committee shall provide to the office director the advisory committee’s recommendation as to
+5 whether or not the applicant should be admitted as a sandbox participant under this chapter.
+6 (C) As part of the advisory committee’s review of each written report, the advisory
+7 committee shall use the criteria required for an applicable agency as described in subsection (h)(1)
+8 of this section.
+9 (j) In reviewing an application and each applicable agency’s written report, the regulatory
+10 relief office shall consult with each applicable agency and the advisory committee before admitting
+11 an applicant into the regulatory sandbox. The consultation with each applicable agency and the
+12 consultation with the advisory committee may include seeking information about whether:
+13 (i) The applicable agency has previously issued a license or other authorization to the
+14 applicant; and
+15 (ii) The applicable agency has previously investigated, sanctioned, or pursued legal action
+16 against the applicant.
+17 (k) In reviewing an application under this section, the regulatory relief office and applicable
+18 agency shall consider whether a competitor to the applicant is or has been a sandbox participant
+19 and, if so, weigh that as a factor in favor of allowing the applicant to also become a sandbox
+20 participant.
+21 (l) In reviewing an application under this section, the regulatory relief office shall consider
+22 whether:
+23 (1) The applicant’s plan will adequately protect consumers from potential harm identified
+24 by an applicable agency in the applicable agency’s written report;
+25 (2) The risk of harm to consumers is outweighed by the potential benefits to consumers
+26 from the applicant’s participation in the regulatory sandbox; and
+27 (3) Certain state laws or regulations that regulate an offering should not be waived or
+28 suspended even if the applicant is approved as a sandbox participant, including applicable antifraud
+29 or disclosure provisions.
+30 (m) An applicant becomes a sandbox participant if the regulatory relief office approves the
+31 application for the regulatory sandbox and enters into a written agreement with the applicant
+32 describing the specific laws and regulations that are waived or suspended as part of participation in
+33 the regulatory sandbox. Notwithstanding any other provision of this chapter, the regulatory relief
+34 office shall not enter into a written agreement with an applicant that waives or suspends a tax, fee,
+LC001748 - Page 8 of 15
+1 or charge that is administered by the department of revenue or the division of taxation.
+2 (n) The office director may deny at the office director’s sole discretion any application
+3 submitted under this section for any reason, including if the office director determines that the
+4 preponderance of evidence demonstrates that suspending or waiving enforcement of a law or
+5 regulation would cause a significant risk of harm to consumers or residents of the state. If the office
+6 director denies an application submitted under this section, the regulatory relief office shall provide
+7 to the applicant a written description of the reasons for not allowing the applicant to be a sandbox
+8 participant. The denial of an application submitted under this section is not subject to:
+9 (1) Agency or judicial review; or
+10 (2) The provisions of chapter 35 of title 42 ("administrative procedures").
+11 (o) The office director shall deny an application for participation in the regulatory sandbox
+12 described by this section if the applicant or any person who seeks to participate with the applicant
+13 in demonstrating an offering has been convicted, entered a plea of nolo contendere, or entered a
+14 plea of guilty or nolo contendere held in abeyance, for any crime involving significant theft, fraud,
+15 or dishonesty if the crime bears a significant relationship to the applicant’s or other participant’s
+16 ability to safely and competently participate in the regulatory sandbox program.
+17 (p) When an applicant is approved for participation in the regulatory sandbox, the director
+18 shall provide public notice of the approval on the office’s website and through other appropriate
+19 means. The public notice shall state:
+20 (1) The name of the sandbox participant;
+21 (2) The industries the sandbox participant represents; and
+22 (3) Each law or regulation that is suspended or waived for the sandbox participant as
+23 allowed by the regulatory sandbox.
+24 (q) In addition to the information described in subsection (p) of this section, the office shall
+25 make the following information available on the office’s website and through other appropriate
+26 means:
+27 (1) Documentation regarding the office’s determination and grounds for approving each
+28 sandbox participant; and
+29 (2) Public notice regarding any sandbox participant’s revocation to participate in the
+30 regulatory sandbox.
+31 42-64.35-6. Scope of the regulatory sandbox.
+32 (a) If the regulatory relief office approves an application under the provisions of this
+33 chapter, the sandbox participant has twelve (12) months after the day on which the application was
+34 approved to demonstrate the offering described in the sandbox participant’s application.
+LC001748 - Page 9 of 15
+1 (b) An offering that is demonstrated within the regulatory sandbox is subject to the
+2 following:
+3 (1) Each consumer shall be a resident of the state; and
+4 (2) No law or regulation may be waived or suspended if waiving or suspending the law or
+5 regulation would prevent a consumer from seeking restitution in the event that the consumer is
+6 harmed.
+7 (c) This section does not restrict a sandbox participant who holds a license or other
+8 authorization in another jurisdiction from acting in accordance with that license or other
+9 authorization.
+10 (d) A sandbox participant is deemed to possess an appropriate license or other authorization
+11 under the laws of the state for the purposes of any provision of federal law requiring licensure or
+12 other authorization by the state.
+13 (e) Subject to subsection (f) of this section:
+14 (1) During the demonstration period, a sandbox participant is not subject to the
+15 enforcement of state laws or regulations identified in the written agreement between the regulatory
+16 relief office and the sandbox participant;
+17 (2) The department of the attorney general shall not file or pursue charges pertaining to a
+18 law or regulation identified in the written agreement between the regulatory relief office and the
+19 sandbox participant that occurs during the demonstration period; and
+20 (3) A state agency shall not file or pursue any punitive action against a sandbox participant,
+21 including a fine or license suspension or revocation, for the violation of a law or regulation that:
+22 (i) Is identified as being waived or suspended in the written agreement between the
+23 regulatory relief office and the sandbox participant; and
+24 (ii) Occurs during the demonstration period.
+25 (f) Notwithstanding any other provision of this section:
+26 (1) A sandbox participant does not have immunity related to any criminal offense
+27 committed during the sandbox participant’s participation in the regulatory sandbox; and
+28 (2) A sandbox participant that provides an offering that is a financial product or service
+29 shall comply with all applicable federal laws and regulations governing consumer protection.
+30 (g) By written notice, the regulatory relief office may end a sandbox participant’s
+31 participation in the regulatory sandbox at any time and for any reason, including if the office
+32 director determines that a sandbox participant is not operating in good faith to bring an offering to
+33 market.
+34 (h) The regulatory relief office and the regulatory relief office's employees shall not be
+LC001748 - Page 10 of 15
+1 liable for any business losses or the recouping of application expenses or other expenses related to
+2 the regulatory sandbox, including for:
+3 (1) Denying an applicant’s application to participate in the regulatory sandbox for any
+4 reason; or
+5 (2) Ending a sandbox participant’s participation in the regulatory sandbox at any time and
+6 for any reason.
+7 42-64.35-7. Annual report.
+8 (a) The executive director shall include in the annual report described in this section a
+9 written report from the office director on the activities of the regulatory relief office, which report
+10 shall include:
+11 (1) Information regarding each participant in the regulatory sandbox, including which
+12 industries each participant represents and the anticipated or actual cost savings that each participant
+13 experienced;
+14 (2) Recommendations regarding any laws or regulations that should be permanently
+15 modified;
+16 (3) Information regarding outcomes for consumers; and
+17 (4) Recommendations for changes to the regulatory sandbox program or other duties of the
+18 regulatory relief office.
+19 (b) By October 1 of each year, the executive director shall provide the written report from
+20 the office director on the activities of the regulatory relief office described in subsection (a) of this
+21 section to the general assembly.
+22 42-64.35-8. Consumer protection for regulatory sandbox.
+23 (a) Before demonstrating an offering to a consumer, a sandbox participant shall disclose
+24 the following to the consumer:
+25 (1) The name and contact information of the sandbox participant;
+26 (2) That the offering is authorized pursuant to the regulatory sandbox and, if applicable,
+27 that the sandbox participant does not have a license or other authorization to provide an offering
+28 under state laws that regulate offerings outside of the regulatory sandbox;
+29 (3) That the offering is undergoing testing and may not function as intended and may
+30 expose the consumer to certain risks as identified by the applicable agency’s written report;
+31 (4) That the provider of the offering is not immune from civil liability for any losses or
+32 damages caused by the offering;
+33 (5) That the provider of the offering is not immune from criminal prosecution for violations
+34 of state law or regulations that are not suspended or waived as allowed by the regulatory sandbox;
+LC001748 - Page 11 of 15
+1 (6) That the offering is a temporary demonstration that may be discounted at the end of the
+2 demonstration period;
+3 (7) The expected end date of the demonstration period; and
+4 (8) That a consumer may contact the regulatory relief office and file a complaint regarding
+5 the offering being demonstrated and provide the regulatory relief office’s telephone number and
+6 website address where a complaint may be filed.
+7 (b) The disclosures required by subsection (a) of this section shall be provided to a
+8 consumer in a clear and conspicuous form and, for an Internet or application-based offering, a
+9 consumer shall acknowledge receipt of the disclosure before any transaction may be completed.
+10 (c) The regulatory relief office may require that a sandbox participant make additional
+11 disclosures to a consumer.
+12 42-64.35-9. Requirements for exiting regulatory sandbox.
+13 (a) At least thirty (30) days before the end of the twelve (12) month regulatory sandbox
+14 demonstration period, a sandbox participant shall:
+15 (1) Notify the regulatory relief office that the sandbox participant will exit the regulatory
+16 sandbox and discontinue the sandbox participant’s demonstration after the day on which the twelve
+17 (12) month demonstration period ends; or
+18 (2) Seek an extension under § 42-64.35-10.
+19 (b) Subject to subsection (c) of this section, if the regulatory relief office does not receive
+20 notification as required by subsection (a) of this section, the regulatory sandbox demonstration
+21 period ends at the end of the twelve (12) month testing period.
+22 (c) If a demonstration includes an offering that requires ongoing duties, the sandbox
+23 participant may continue to do so; provided, however, the participant will be subject to enforcement
+24 of the laws or regulations that were waived or suspended as part of the regulatory sandbox.
+25 42-64.35-10. Extensions.
+26 (a) Not later than thirty (30) days before the end of the twelve (12) month regulatory
+27 sandbox demonstration period, a sandbox participant may request an extension of the regulatory
+28 sandbox demonstration period.
+29 (b) The regulatory relief office shall grant or deny a request for an extension in accordance
+30 with subsection (a) of this section by the end of the twelve (12) month regulatory sandbox testing
+31 period.
+32 (c) The regulatory relief office may grant an extension in accordance with this section for
+33 not more than twelve (12) months after the end of the regulatory sandbox demonstration period.
+34 42-64.35-11. Record keeping and reporting requirements.
+LC001748 - Page 12 of 15
+1 (a) A sandbox participant shall retain records, documents, and data produced in the
+2 ordinary course of business regarding an offering demonstrated in the regulatory sandbox.
+3 (b) If a sandbox participant ceases to provide an offering before the end of a demonstration
+4 period, the sandbox participant shall notify the regulatory relief office and each applicable agency
+5 and report on actions taken by the sandbox participant to ensure consumers have not been harmed
+6 as a result.
+7 (c) The regulatory relief office shall establish quarterly reporting requirements for a
+8 sandbox participant, including information about any consumer complaints.
+9 (d) The regulatory relief office may request records, documents, and data from a sandbox
+10 participant and, upon the regulatory relief office’s request, the sandbox participant shall make such
+11 records, documents, and data available for inspection by the regulatory relief office.
+12 (e)(1) The sandbox participant shall notify the regulatory relief office and each applicable
+13 agency of any incidents that result in harm to the health, safety, or financial well-being of a
+14 consumer.
+15 (2) If a sandbox participant fails to notify the regulatory relief office and each applicable
+16 agency of any incidents as described in subsection (e)(1) of this section, or the regulatory relief
+17 office or an applicable agency has evidence that significant harm to a consumer has occurred, the
+18 regulatory relief office shall immediately remove the sandbox participant from the regulatory
+19 sandbox.
+20 (f) No later than thirty (30) days after the day on which a sandbox participant exits the
+21 regulatory sandbox, the sandbox participant shall submit a written report to the regulatory relief
+22 office and each applicable agency describing an overview of the sandbox participant’s
+23 demonstration, including any:
+24 (1) Incidents of harm to consumers;
+25 (2) Legal action filed against the participant as a result of the participant’s demonstration;
+26 and
+27 (3) Complaints filed with an applicable agency as a result of the participant’s
+28 demonstration.
+29 (g) No later than thirty (30) days after the day on which an applicable agency receives the
+30 quarterly reporting described in subsection (c) of this section or a written report from a sandbox
+31 participant as described in subsection (e)(1) of this section, the applicable agency shall provide a
+32 written report to the regulatory relief office on the demonstration that describes any statutory or
+33 regulatory reform the applicable agency recommends as a result of the demonstration.
+34 (h) The regulatory relief office may remove a sandbox participant from the regulatory
+LC001748 - Page 13 of 15
+1 sandbox at any time if the regulatory relief office determines that a sandbox participant has engaged
+2 in, is engaging in, or is about to engage in any practice or transaction that is in violation of this
+3 chapter or that constitutes a violation of a law or regulation for which suspension or waiver has not
+4 been granted.
+5 42-64.35-12. Regulatory relief webpage.
+6 (a) The regulatory relief office shall create and maintain on its website a webpage that
+7 invites residents and businesses in the state to make suggestions regarding laws and regulations that
+8 could be modified or eliminated to reduce the regulatory burden of residents and businesses in the
+9 state.
+10 (b) On at least a quarterly basis, the regulatory relief office shall compile the results of
+11 suggestions from the webpage and provide a written report to the governor, and the general
+12 assembly that describes the most common suggestions.
+13 (c) In creating the report described in subsection (b) of this section, the regulatory relief
+14 office and the advisory committee:
+15 (1) Shall ensure that private information of residents and businesses that make suggestions
+16 on the webpage is not made public; and
+17 (2) May evaluate the suggestions and provide analysis and suggestions regarding which
+18 state laws and regulations could be modified or eliminated to reduce the regulatory burden of
+19 residents and businesses in the state while still protecting consumers.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC001748
+========
+LC001748 - Page 14 of 15
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY
+SANDBOX ACT
+***
+1 This act shall establish a regulatory sandbox program designed to provide a depository for
+2 ideas in a regulatory approach, typically summarized in writing and published, that allows live,
+3 time-bound testing of innovations under a regulator's oversight in an effort to modify or eliminate
+4 state laws and regulations which produce a regulatory burden on residents and businesses in the
+5 state while still protecting consumers.
+6 This act would take effect upon passage.
+========
+LC001748
+========
+LC001748 - Page 15 of 15
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C U 4 T t t 4 ( 6 ( b o r ( ( ﬁ t w c b s u a s w a d]
+[DELETED:  p p ( a ( “ o “ m t t p a o i a ( ( ( ( m d m o o d a o e t m r o a d ( m u o i n i e a ( r i e a o ( p ( ( ( ( ( i a b c c e f f ﬁ g g ( t]
+[DELETED:  ( c o ( “ p m a p w a t p i t r ( 4 ( ( T r r o s b a b a d a b t e ( a ( ( ( ( l p ( ( s g ( b i ( u ( I a w c 3 o t 4 ( p a t p ( r ( p 4]
+[DELETED:  ( ( ( a w p o ( n ( m o y ( ( A m o t a c c a q f t p o c a ( o ( c ( A m s n r c o b f t m s p h a m a u s ( o t s r b 4 ( I ( ( a a ( r (]
+[DELETED:  r ( r r s ( a ( ( w r ( n r ( ( C a d o t o t b d i s r ( H t o i s t l l p o o a r ( p ( ( ( ( o ( f ( t ( H t a w e t d a p c i t d ( b]
+[DELETED:  ( ( ( t ( ( n a ( r ( S a i f t a t t r r o d ( r ( t ( ( ( h ( e ( a t d o w a a a r a c a f r t a ﬁ ( ( w ( a ( w g]
+[DELETED:  ( ( i r i w a t w o s o t r l o r w p s h t h s o ﬁ w o c ( w c b p t l r m t t e r l o r t t a a s p a r o h t c b a ( o t p ( w ( c b a s d t t a o f t c w s o s ( ( ( a ( s ( t h ( t ( U r a w r d i s o t s t d]
+[DELETED:  ( h ( c w ( A p o t a c r o e w r t a c o ( r a c ( a ( a ( a a p ( w ( b ( f ( s o ( a d t o]
+[DELETED:  o ( s p r d t p ( ( ( d i p o a ( s m ( ( ( a ( m m ( s ( P n r a s p r t p i t r 4 ( t c a]
+[DELETED:  ( A o t i d w t r s i s t t f ( ( r h ( T s d n r a s p w h a l o o a i a j f a i a w t l o o a ( u o ( ( D t d p a s p i n s t t e r ( l s ( i ( I i a b w o s i t w a b t r ( ( ( A s p d n h i r t a c o c ( s ( B w n t r r o m e a s p p d m (]
+[DELETED:  l t ( r ( f 4 ( w s ( i e ( R r a l o r t s b p m ( ( r ( t s 4 ( t ( ( t u ( e ( d ( o]
+[DELETED:  ( d ( ( t w ( T d r b s ( o t s s b p t a c c ( d 4 ( d ( s ( ( ( n p ( I a d i a o t r o d t s p o 4 ( s s ( w p ( n 4]
+[DELETED:  ( A s p s r r d a d p i t o ( p a a ( T r r o s e q r r f a s ( p r ( a c ( a o r r o s i r t s p t r s ( r o a e a a d a o o t s p d ( ( a ( C ﬁ w a a a a a r o t p d ( q p w r (]
+[DELETED:  s i c b 4 ( i c s ( s f t w a p a w r t t g a t g a ( o ( o ( s r S]
+[DELETED:  T i t s s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5717
+========
+LC001748
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY
+SANDBOX ACT
+Introduced By: Representatives Place, Santucci, Hopkins, and Nardone
+Date Introduced: February 26, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 64.35
+4 UNIVERSAL REGULATORY SANDBOX ACT
+5 42-64.35-1. Purpose.
+6 This chapter establishes a universal regulatory sandbox, which allows businesses, under
+7 the observation of regulators, to trial innovative products, services, and business models while
+8 temporarily receiving a waiver of inapplicable laws and/or regulations.
+9 42-64.35-2. Definitions.
+10 (1) “Advisory committee” means the general regulatory sandbox program created in § 42-
+11 64.35- 4.
+12 (2) “Applicable agency” means a department or agency of the state that by law regulates a
+13 business activity and persons engaged in such business activity, including the issuance of licenses
+14 or other types of authorization, which the regulatory relief office determines would otherwise
+15 regulate a sandbox participant.
+16 (3) “Applicant” means a person that applies to participate in the regulatory sandbox.
+17 (4) “Blockchain technology” means the use of a digital database containing records of
+18 financial transactions, which can be simultaneously used and shared within a decentralized,
+
+1 publicly accessible network and can record transactions between two (2) parties in a verifiable and
+2 permanent way.
+3 (5) “Consumer” means a person that purchases or otherwise enters into a transaction or
+4 agreement to receive an offering pursuant to a demonstration by a sandbox participant.
+5 (6) “Demonstrate” or “demonstration” means to temporarily provide an offering in
+6 accordance with the provisions of the regulatory sandbox program described in this chapter.
+7 (7) “Executive director” means the secretary of commerce of the commerce corporation.
+8 (8) “Financial product or service” means:
+9 (i) A financial product or financial service that requires state licensure or registration; or
+10 (ii) A financial product, financial service, or banking business that includes a business
+11 model, delivery mechanism, offering of deposit accounts, or element that may require other
+12 authorization to act as a financial institution, enterprise, or other entity that is regulated by the
+13 department of business regulation.
+14 (9) “Innovation” means the use or incorporation of a new or existing idea, a new or
+15 emerging technology, or a new use of existing technology, including blockchain technology, to
+16 address a problem, provide a benefit, or otherwise offer a product, production method, or service.
+17 (10) “Insurance product or service” means an insurance product or insurance service that
+18 requires state licensure, registration, or other authorization as regulated by title 27, including an
+19 insurance product or insurance service that includes a business model, delivery mechanism, or
+20 element that requires a license, registration, or other authorization to do an insurance business, act
+21 as an insurance producer or consultant, or engage in insurance adjusting as regulated by department
+22 of business regulation, insurance division.
+23 (11) “Offering” means a product, production method, or service, including a financial
+24 product or service or an insurance product or service, that includes an innovation.
+25 (12) “Product” means a commercially distributed good that is:
+26 (i) Tangible personal property;
+27 (ii) The result of a production process; and
+28 (iii) Passed through the distribution channel before consumption.
+29 (13) “Production” means the method or process of creating or obtaining a good, which may
+30 include assembling, breeding, capturing, collecting, extracting, fabricating, farming, fishing,
+31 gathering, growing, harvesting, hunting, manufacturing, mining, processing, raising, or trapping a
+32 good.
+33 (14) “Regulatory relief office” means the office of regulatory reform (ORR) created within
+34 the commerce corporation.
+LC001748 - Page 2 of 15
+
+1 (15) “Regulatory sandbox” means the general regulatory sandbox program created in this
+2 chapter which allows a person to temporarily demonstrate an offering under a waiver or suspension
+3 of one or more state laws or regulations.
+4 (16) “Sandbox participant” means a person whose application to participate in the
+5 regulatory sandbox is approved in accordance with the provisions of this chapter.
+6 (17) “Service” means any commercial activity, duty, or labor performed for another person.
+7 42-64.35-3. Regulatory relief office - Appointment of director - Responsibilities.
+8 (a) There is created within the commerce corporation the regulatory relief office.
+9 (b) The regulatory relief office shall be administered by a director appointed by the
+10 executive director.
+11 (c) The director shall report to the executive director and may appoint staff subject to the
+12 approval of the executive director.
+13 (d) The regulatory relief office shall:
+14 (1) Administer the provisions of this chapter;
+15 (2) Administer the regulatory sandbox program; and
+16 (3) Act as a liaison between private businesses and applicable agencies to identify state
+17 laws or regulations that could potentially be waived or suspended under the regulatory sandbox
+18 program.
+19 (e) The regulatory relief office shall:
+20 (1) Review state laws and regulations that may unnecessarily inhibit the creation and
+21 success of new companies or industries and provide recommendations to the governor and the
+22 general assembly on modifying such state laws and regulations;
+23 (2) Create a framework for analyzing the risk level to the health, safety, and financial well-
+24 being of consumers related to permanently removing or temporarily waiving laws and regulations
+25 inhibiting the creation or success of new and existing companies or industries;
+26 (3) Propose potential reciprocity agreements between states that use or are proposing to
+27 use similar regulatory sandbox programs as described in this chapter;
+28 (f) In accordance with chapter 35 of title 42 ("administrative procedures"), and the
+29 provisions of this chapter, make rules regarding:
+30 (1) Administering the regulatory sandbox, including promulgating rules and regulations
+31 regarding the application process and the reporting requirements of sandbox participants; and
+32 (2) Cooperating and consulting with other agencies in the state that administer sandbox
+33 programs.
+34 42-64.35-4. Advisory committee.
+LC001748 - Page 3 of 15
+
+1 (a) There is hereby created the general regulatory sandbox program advisory committee.
+2 (b) The advisory committee shall have eleven (11) members as follows:
+3 (1) Six (6) members appointed by the office director who represent businesses interests and
+4 are selected from a variety of industry clusters; three (3) members appointed by the office director
+5 who represent state agencies that regulate businesses; one member of the senate, appointed by the
+6 president of the senate; and one member of the house of representatives, appointed by the speaker
+7 of the house of representatives.
+8 (2) Subject to subsection (c) of this section, members of the advisory committee who are
+9 not legislators shall be appointed to a four (4) year term.
+10 (c) Notwithstanding the requirements of subsection (b) of this section, the office director
+11 may adjust the length of terms of appointments and reappointments to the advisory committee in
+12 order that approximately fifty percent (50%) of the advisory committee is appointed every two (2)
+13 years.
+14 (d) The office director shall select a chair of the advisory committee on an annual basis.
+15 (e) A majority of the advisory committee constitutes a quorum for the purpose of
+16 conducting advisory committee business, and the action of the majority of a quorum constitutes the
+17 action of the advisory committee.
+18 (f) The advisory committee shall advise and make recommendations to the regulatory relief
+19 office as described in this chapter.
+20 (g) The regulatory relief office shall provide administrative staff support for the advisory
+21 committee.
+22 (h) A member shall not receive compensation or benefits for the member’s service;
+23 provided, however, a member appointed under subsection (b)(1) of this section representing
+24 businesses interest may receive per diem and travel expenses.
+25 42-64.35-5. General regulatory sandbox program and application requirements.
+26 (a) There is created in the regulatory relief office, the general regulatory sandbox program.
+27 In administering the regulatory sandbox, the regulatory relief office:
+28 (1) Shall consult with each applicable agency;
+29 (2) Shall establish a program to enable a person to obtain legal protections and limited
+30 access to the market in the state to demonstrate an offering without obtaining a license or other
+31 authorization that might otherwise be required;
+32 (3) May enter into agreements with or adopt the best practices of corresponding federal
+33 regulatory agencies or other states that are administering similar programs; and
+34 (4) May consult with businesses in the state about existing or potential proposals for the
+LC001748 - Page 4 of 15
+
+1 regulatory sandbox.
+2 (b) An applicant for the regulatory sandbox may contact the regulatory relief office to
+3 request a consultation regarding the regulatory sandbox before submitting an application. The
+4 regulatory relief office shall provide assistance to an applicant in preparing an application for
+5 submission.
+6 (c) An applicant for the regulatory sandbox shall provide to the regulatory relief office an
+7 application in a form prescribed by the regulatory relief office that:
+8 (1) Confirms the applicant is subject to the jurisdiction of the state;
+9 (2) Confirms the applicant has established a physical or virtual location in the state, from
+10 which the demonstration of an offering shall be developed and performed and where all required
+11 records, documents, and data shall be maintained;
+12 (3) Contains relevant personal and contact information for the applicant, including legal
+13 names, addresses, telephone numbers, email addresses, website addresses, and other information
+14 required by the regulatory relief office;
+15 (4) Discloses criminal convictions of the applicant or other participating personnel, if any;
+16 (5) Contains a description of the offering to be demonstrated, including statements
+17 regarding:
+18 (i) How the offering is subject to licensing, legal prohibition, or other authorization
+19 requirements outside of the regulatory sandbox;
+20 (ii) Each law or regulation that the applicant seeks to have waived or suspended while
+21 participating in the regulatory sandbox program;
+22 (iii) How the offering would benefit consumers;
+23 (iv) How the offering is different from other offerings available in the state;
+24 (v) What risks might exist for consumers who use or purchase the offering;
+25 (vi) How participating in the regulatory sandbox would enable a successful demonstration
+26 of the offering;
+27 (vii) A description of the proposed demonstration plan, including estimated time periods
+28 for beginning and ending the demonstration;
+29 (viii) Recognition that the applicant will be subject to all laws and regulations pertaining
+30 to the applicant’s offering after conclusion of the demonstration;
+31 (ix) How the applicant will end the demonstration and protect consumers if the
+32 demonstration fails;
+33 (x) Lists each government agency, if any, that the applicant knows regulates the applicant’s
+34 business; and
+LC001748 - Page 5 of 15
+
+1 (xi) Provides any other required information as determined by the regulatory relief office.
+2 (d) The regulatory relief office may collect an application fee from an applicant.
+3 (e) An applicant shall file a separate application for each offering that the applicant intends
+4 to demonstrate.
+5 (f) After an application is filed, the regulatory relief office shall:
+6 (1) Classify, as protected record, any part of the application that the office determines is
+7 nonpublic, confidential information that if disclosed would result in actual economic harm to the
+8 applicant in accordance with chapter 2 of title 38 ("access to public records");
+9 (2) Consult with each applicable government agency that regulates the applicant’s business
+10 regarding whether more information is needed from the applicant; and
+11 (3) Seek additional information from the applicant that the regulatory relief office
+12 determines is necessary.
+13 (g) No later than five (5) business days after the day on which a complete application is
+14 received by the regulatory relief office, the regulatory relief office shall:
+15 (1) Review the application and refer the application to each applicable government agency
+16 that regulates the applicant’s business;
+17 (2) Provide to the applicant:
+18 (i) An acknowledgment of receipt of the application; and
+19 (ii) The identity and contact information of each regulatory agency to which the application
+20 has been referred for review;
+21 (3) Provide public notice, on the office’s website and through other appropriate means, of
+22 each law or regulation that the office is considering to suspend or waive under the application.
+23 (h) Subject to subsections (h)(3) and (h)(7) of this section, no later than thirty (30) days
+24 after the day on which an applicable agency receives a complete application for review, the
+25 applicable agency shall provide a written report to the office director of the applicable agency’s
+26 findings.
+27 (1) The report shall:
+28 (i) Describe any identifiable, likely, and significant harm to the health, safety, or financial
+29 well-being of consumers that the relevant law or regulation protects against; and
+30 (ii) Make a recommendation to the regulatory relief office that the applicant either be
+31 admitted or denied entrance into the regulatory sandbox.
+32 (2) The applicable agency may request an additional five (5) business days to deliver the
+33 written report by providing notice to the office director, which request shall automatically be
+34 granted.
+LC001748 - Page 6 of 15
+
+1 (3) The applicable agency shall only request one extension per application.
+2 (4) If the applicable agency recommends an applicant under this section be denied entrance
+3 into the regulatory sandbox, the written report shall include a description of the reasons for the
+4 recommendation, including why a temporary waiver or suspension of the relevant laws or
+5 regulations would potentially significantly harm the health, safety, or financial well-being of
+6 consumers or the public and the likelihood of such harm occurring.
+7 (5) If the agency determines that the consumer’s or public’s health, safety, or financial
+8 well-being can be protected through less restrictive means than the existing relevant laws or
+9 regulations, then the applicable agency shall provide a recommendation of how that can be
+10 achieved.
+11 (6) If an applicable agency fails to deliver a written report as described in subsection (h)(1)
+12 of this section, the office director shall assume that the applicable agency does not object to the
+13 temporary waiver or suspension of the relevant laws or regulations for an applicant seeking to
+14 participate in the regulatory sandbox.
+15 (7) Notwithstanding any other provision of this section, an applicable agency shall by
+16 written notice to the regulatory relief office:
+17 (i) Within the thirty (30) days after the day on which the applicable agency receives a
+18 complete application for review, or within thirty-five (35) days if an extension has been requested
+19 by the applicable agency, reject an application if the applicable agency determines, in the applicable
+20 agency’s sole discretion, that the applicant’s offering fails to comply with standards or
+21 specifications:
+22 (A) Required by federal law or regulation; or
+23 (B) Previously approved for use by a federal agency; or
+24 (ii) Reject an application preliminarily approved by the regulatory relief office, if the
+25 applicable agency:
+26 (A) Recommended rejection of the application in accordance with subsection (h)(4) of this
+27 section in the agency’s written report; and
+28 (B) Provided in the written notice under subsection (h)(7) of this section, a description of
+29 the applicable agency’s reasons why approval of the application would create a substantial risk of
+30 harm to the health or safety of the public, or create unreasonable expenses for taxpayers in the state.
+31 (8) If an applicable agency rejects an application under subsection (h)(7) of this section,
+32 the regulatory relief office shall not approve the application.
+33 (i) Upon receiving a written report described in subsection (h)(1) of this section, the
+34 director shall provide the application and the written report to the advisory committee.
+LC001748 - Page 7 of 15
+
+1 (A) The office director may call the advisory committee to meet as needed; provided,
+2 however, not less than once per quarter if applications are available for review.
+3 (B) After receiving and reviewing the application and each written report, the advisory
+4 committee shall provide to the office director the advisory committee’s recommendation as to
+5 whether or not the applicant should be admitted as a sandbox participant under this chapter.
+6 (C) As part of the advisory committee’s review of each written report, the advisory
+7 committee shall use the criteria required for an applicable agency as described in subsection (h)(1)
+8 of this section.
+9 (j) In reviewing an application and each applicable agency’s written report, the regulatory
+10 relief office shall consult with each applicable agency and the advisory committee before admitting
+11 an applicant into the regulatory sandbox. The consultation with each applicable agency and the
+12 consultation with the advisory committee may include seeking information about whether:
+13 (i) The applicable agency has previously issued a license or other authorization to the
+14 applicant; and
+15 (ii) The applicable agency has previously investigated, sanctioned, or pursued legal action
+16 against the applicant.
+17 (k) In reviewing an application under this section, the regulatory relief office and applicable
+18 agency shall consider whether a competitor to the applicant is or has been a sandbox participant
+19 and, if so, weigh that as a factor in favor of allowing the applicant to also become a sandbox
+20 participant.
+21 (l) In reviewing an application under this section, the regulatory relief office shall consider
+22 whether:
+23 (1) The applicant’s plan will adequately protect consumers from potential harm identified
+24 by an applicable agency in the applicable agency’s written report;
+25 (2) The risk of harm to consumers is outweighed by the potential benefits to consumers
+26 from the applicant’s participation in the regulatory sandbox; and
+27 (3) Certain state laws or regulations that regulate an offering should not be waived or
+28 suspended even if the applicant is approved as a sandbox participant, including applicable antifraud
+29 or disclosure provisions.
+30 (m) An applicant becomes a sandbox participant if the regulatory relief office approves the
+31 application for the regulatory sandbox and enters into a written agreement with the applicant
+32 describing the specific laws and regulations that are waived or suspended as part of participation in
+33 the regulatory sandbox. Notwithstanding any other provision of this chapter, the regulatory relief
+34 office shall not enter into a written agreement with an applicant that waives or suspends a tax, fee,
+LC001748 - Page 8 of 15
+
+1 or charge that is administered by the department of revenue or the division of taxation.
+2 (n) The office director may deny at the office director’s sole discretion any application
+3 submitted under this section for any reason, including if the office director determines that the
+4 preponderance of evidence demonstrates that suspending or waiving enforcement of a law or
+5 regulation would cause a significant risk of harm to consumers or residents of the state. If the office
+6 director denies an application submitted under this section, the regulatory relief office shall provide
+7 to the applicant a written description of the reasons for not allowing the applicant to be a sandbox
+8 participant. The denial of an application submitted under this section is not subject to:
+9 (1) Agency or judicial review; or
+10 (2) The provisions of chapter 35 of title 42 ("administrative procedures").
+11 (o) The office director shall deny an application for participation in the regulatory sandbox
+12 described by this section if the applicant or any person who seeks to participate with the applicant
+13 in demonstrating an offering has been convicted, entered a plea of nolo contendere, or entered a
+14 plea of guilty or nolo contendere held in abeyance, for any crime involving significant theft, fraud,
+15 or dishonesty if the crime bears a significant relationship to the applicant’s or other participant’s
+16 ability to safely and competently participate in the regulatory sandbox program.
+17 (p) When an applicant is approved for participation in the regulatory sandbox, the director
+18 shall provide public notice of the approval on the office’s website and through other appropriate
+19 means. The public notice shall state:
+20 (1) The name of the sandbox participant;
+21 (2) The industries the sandbox participant represents; and
+22 (3) Each law or regulation that is suspended or waived for the sandbox participant as
+23 allowed by the regulatory sandbox.
+24 (q) In addition to the information described in subsection (p) of this section, the office shall
+25 make the following information available on the office’s website and through other appropriate
+26 means:
+27 (1) Documentation regarding the office’s determination and grounds for approving each
+28 sandbox participant; and
+29 (2) Public notice regarding any sandbox participant’s revocation to participate in the
+30 regulatory sandbox.
+31 42-64.35-6. Scope of the regulatory sandbox.
+32 (a) If the regulatory relief office approves an application under the provisions of this
+33 chapter, the sandbox participant has twelve (12) months after the day on which the application was
+34 approved to demonstrate the offering described in the sandbox participant’s application.
+LC001748 - Page 9 of 15
+
+1 (b) An offering that is demonstrated within the regulatory sandbox is subject to the
+2 following:
+3 (1) Each consumer shall be a resident of the state; and
+4 (2) No law or regulation may be waived or suspended if waiving or suspending the law or
+5 regulation would prevent a consumer from seeking restitution in the event that the consumer is
+6 harmed.
+7 (c) This section does not restrict a sandbox participant who holds a license or other
+8 authorization in another jurisdiction from acting in accordance with that license or other
+9 authorization.
+10 (d) A sandbox participant is deemed to possess an appropriate license or other authorization
+11 under the laws of the state for the purposes of any provision of federal law requiring licensure or
+12 other authorization by the state.
+13 (e) Subject to subsection (f) of this section:
+14 (1) During the demonstration period, a sandbox participant is not subject to the
+15 enforcement of state laws or regulations identified in the written agreement between the regulatory
+16 relief office and the sandbox participant;
+17 (2) The department of the attorney general shall not file or pursue charges pertaining to a
+18 law or regulation identified in the written agreement between the regulatory relief office and the
+19 sandbox participant that occurs during the demonstration period; and
+20 (3) A state agency shall not file or pursue any punitive action against a sandbox participant,
+21 including a fine or license suspension or revocation, for the violation of a law or regulation that:
+22 (i) Is identified as being waived or suspended in the written agreement between the
+23 regulatory relief office and the sandbox participant; and
+24 (ii) Occurs during the demonstration period.
+25 (f) Notwithstanding any other provision of this section:
+26 (1) A sandbox participant does not have immunity related to any criminal offense
+27 committed during the sandbox participant’s participation in the regulatory sandbox; and
+28 (2) A sandbox participant that provides an offering that is a financial product or service
+29 shall comply with all applicable federal laws and regulations governing consumer protection.
+30 (g) By written notice, the regulatory relief office may end a sandbox participant’s
+31 participation in the regulatory sandbox at any time and for any reason, including if the office
+32 director determines that a sandbox participant is not operating in good faith to bring an offering to
+33 market.
+34 (h) The regulatory relief office and the regulatory relief office's employees shall not be
+LC001748 - Page 10 of 15
+
+1 liable for any business losses or the recouping of application expenses or other expenses related to
+2 the regulatory sandbox, including for:
+3 (1) Denying an applicant’s application to participate in the regulatory sandbox for any
+4 reason; or
+5 (2) Ending a sandbox participant’s participation in the regulatory sandbox at any time and
+6 for any reason.
+7 42-64.35-7. Annual report.
+8 (a) The executive director shall include in the annual report described in this section a
+9 written report from the office director on the activities of the regulatory relief office, which report
+10 shall include:
+11 (1) Information regarding each participant in the regulatory sandbox, including which
+12 industries each participant represents and the anticipated or actual cost savings that each participant
+13 experienced;
+14 (2) Recommendations regarding any laws or regulations that should be permanently
+15 modified;
+16 (3) Information regarding outcomes for consumers; and
+17 (4) Recommendations for changes to the regulatory sandbox program or other duties of the
+18 regulatory relief office.
+19 (b) By October 1 of each year, the executive director shall provide the written report from
+20 the office director on the activities of the regulatory relief office described in subsection (a) of this
+21 section to the general assembly.
+22 42-64.35-8. Consumer protection for regulatory sandbox.
+23 (a) Before demonstrating an offering to a consumer, a sandbox participant shall disclose
+24 the following to the consumer:
+25 (1) The name and contact information of the sandbox participant;
+26 (2) That the offering is authorized pursuant to the regulatory sandbox and, if applicable,
+27 that the sandbox participant does not have a license or other authorization to provide an offering
+28 under state laws that regulate offerings outside of the regulatory sandbox;
+29 (3) That the offering is undergoing testing and may not function as intended and may
+30 expose the consumer to certain risks as identified by the applicable agency’s written report;
+31 (4) That the provider of the offering is not immune from civil liability for any losses or
+32 damages caused by the offering;
+33 (5) That the provider of the offering is not immune from criminal prosecution for violations
+34 of state law or regulations that are not suspended or waived as allowed by the regulatory sandbox;
+LC001748 - Page 11 of 15
+
+1 (6) That the offering is a temporary demonstration that may be discounted at the end of the
+2 demonstration period;
+3 (7) The expected end date of the demonstration period; and
+4 (8) That a consumer may contact the regulatory relief office and file a complaint regarding
+5 the offering being demonstrated and provide the regulatory relief office’s telephone number and
+6 website address where a complaint may be filed.
+7 (b) The disclosures required by subsection (a) of this section shall be provided to a
+8 consumer in a clear and conspicuous form and, for an Internet or application-based offering, a
+9 consumer shall acknowledge receipt of the disclosure before any transaction may be completed.
+10 (c) The regulatory relief office may require that a sandbox participant make additional
+11 disclosures to a consumer.
+12 42-64.35-9. Requirements for exiting regulatory sandbox.
+13 (a) At least thirty (30) days before the end of the twelve (12) month regulatory sandbox
+14 demonstration period, a sandbox participant shall:
+15 (1) Notify the regulatory relief office that the sandbox participant will exit the regulatory
+16 sandbox and discontinue the sandbox participant’s demonstration after the day on which the twelve
+17 (12) month demonstration period ends; or
+18 (2) Seek an extension under § 42-64.35-10.
+19 (b) Subject to subsection (c) of this section, if the regulatory relief office does not receive
+20 notification as required by subsection (a) of this section, the regulatory sandbox demonstration
+21 period ends at the end of the twelve (12) month testing period.
+22 (c) If a demonstration includes an offering that requires ongoing duties, the sandbox
+23 participant may continue to do so; provided, however, the participant will be subject to enforcement
+24 of the laws or regulations that were waived or suspended as part of the regulatory sandbox.
+25 42-64.35-10. Extensions.
+26 (a) Not later than thirty (30) days before the end of the twelve (12) month regulatory
+27 sandbox demonstration period, a sandbox participant may request an extension of the regulatory
+28 sandbox demonstration period.
+29 (b) The regulatory relief office shall grant or deny a request for an extension in accordance
+30 with subsection (a) of this section by the end of the twelve (12) month regulatory sandbox testing
+31 period.
+32 (c) The regulatory relief office may grant an extension in accordance with this section for
+33 not more than twelve (12) months after the end of the regulatory sandbox demonstration period.
+34 42-64.35-11. Record keeping and reporting requirements.
+LC001748 - Page 12 of 15
+
+1 (a) A sandbox participant shall retain records, documents, and data produced in the
+2 ordinary course of business regarding an offering demonstrated in the regulatory sandbox.
+3 (b) If a sandbox participant ceases to provide an offering before the end of a demonstration
+4 period, the sandbox participant shall notify the regulatory relief office and each applicable agency
+5 and report on actions taken by the sandbox participant to ensure consumers have not been harmed
+6 as a result.
+7 (c) The regulatory relief office shall establish quarterly reporting requirements for a
+8 sandbox participant, including information about any consumer complaints.
+9 (d) The regulatory relief office may request records, documents, and data from a sandbox
+10 participant and, upon the regulatory relief office’s request, the sandbox participant shall make such
+11 records, documents, and data available for inspection by the regulatory relief office.
+12 (e)(1) The sandbox participant shall notify the regulatory relief office and each applicable
+13 agency of any incidents that result in harm to the health, safety, or financial well-being of a
+14 consumer.
+15 (2) If a sandbox participant fails to notify the regulatory relief office and each applicable
+16 agency of any incidents as described in subsection (e)(1) of this section, or the regulatory relief
+17 office or an applicable agency has evidence that significant harm to a consumer has occurred, the
+18 regulatory relief office shall immediately remove the sandbox participant from the regulatory
+19 sandbox.
+20 (f) No later than thirty (30) days after the day on which a sandbox participant exits the
+21 regulatory sandbox, the sandbox participant shall submit a written report to the regulatory relief
+22 office and each applicable agency describing an overview of the sandbox participant’s
+23 demonstration, including any:
+24 (1) Incidents of harm to consumers;
+25 (2) Legal action filed against the participant as a result of the participant’s demonstration;
+26 and
+27 (3) Complaints filed with an applicable agency as a result of the participant’s
+28 demonstration.
+29 (g) No later than thirty (30) days after the day on which an applicable agency receives the
+30 quarterly reporting described in subsection (c) of this section or a written report from a sandbox
+31 participant as described in subsection (e)(1) of this section, the applicable agency shall provide a
+32 written report to the regulatory relief office on the demonstration that describes any statutory or
+33 regulatory reform the applicable agency recommends as a result of the demonstration.
+34 (h) The regulatory relief office may remove a sandbox participant from the regulatory
+LC001748 - Page 13 of 15
+
+1 sandbox at any time if the regulatory relief office determines that a sandbox participant has engaged
+2 in, is engaging in, or is about to engage in any practice or transaction that is in violation of this
+3 chapter or that constitutes a violation of a law or regulation for which suspension or waiver has not
+4 been granted.
+5 42-64.35-12. Regulatory relief webpage.
+6 (a) The regulatory relief office shall create and maintain on its website a webpage that
+7 invites residents and businesses in the state to make suggestions regarding laws and regulations that
+8 could be modified or eliminated to reduce the regulatory burden of residents and businesses in the
+9 state.
+10 (b) On at least a quarterly basis, the regulatory relief office shall compile the results of
+11 suggestions from the webpage and provide a written report to the governor, and the general
+12 assembly that describes the most common suggestions.
+13 (c) In creating the report described in subsection (b) of this section, the regulatory relief
+14 office and the advisory committee:
+15 (1) Shall ensure that private information of residents and businesses that make suggestions
+16 on the webpage is not made public; and
+17 (2) May evaluate the suggestions and provide analysis and suggestions regarding which
+18 state laws and regulations could be modified or eliminated to reduce the regulatory burden of
+19 residents and businesses in the state while still protecting consumers.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC001748
+========
+LC001748 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY
+SANDBOX ACT
+***
+1 This act shall establish a regulatory sandbox program designed to provide a depository for
+2 ideas in a regulatory approach, typically summarized in writing and published, that allows live,
+3 time-bound testing of innovations under a regulator's oversight in an effort to modify or eliminate
+4 state laws and regulations which produce a regulatory burden on residents and businesses in the
+5 state while still protecting consumers.
+6 This act would take effect upon passage.
+========
+LC001748
+========
+LC001748 - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C U 4 T t t 4 ( 6 ( b o r ( ( ﬁ t w c b s u a s w a d]
+[DELETED:  p p ( a ( “ o “ m t t p a o i a ( ( ( ( m d m o o d a o e t m r o a d ( m u o i n i e a ( r i e a o ( p ( ( ( ( ( i a b c c e f f ﬁ g g ( t]
+[DELETED:  ( c o ( “ p m a p w a t p i t r ( 4 ( ( T r r o s b a b a d a b t e ( a ( ( ( ( l p ( ( s g ( b i ( u ( I a w c 3 o t 4 ( p a t p ( r ( p 4]
+[DELETED:  ( ( ( a w p o ( n ( m o y ( ( A m o t a c c a q f t p o c a ( o ( c ( A m s n r c o b f t m s p h a m a u s ( o t s r b 4 ( I ( ( a a ( r (]
+[DELETED:  r ( r r s ( a ( ( w r ( n r ( ( C a d o t o t b d i s r ( H t o i s t l l p o o a r ( p ( ( ( ( o ( f ( t ( H t a w e t d a p c i t d ( b]
+[DELETED:  ( ( ( t ( ( n a ( r ( S a i f t a t t r r o d ( r ( t ( ( ( h ( e ( a t d o w a a a r a c a f r t a ﬁ ( ( w ( a ( w g]
+[DELETED:  ( ( i r i w a t w o s o t r l o r w p s h t h s o ﬁ w o c ( w c b p t l r m t t e r l o r t t a a s p a r o h t c b a ( o t p ( w ( c b a s d t t a o f t c w s o s ( ( ( a ( s ( t h ( t ( U r a w r d i s o t s t d]
+[DELETED:  ( h ( c w ( A p o t a c r o e w r t a c o ( r a c ( a ( a ( a a p ( w ( b ( f ( s o ( a d t o]
+[DELETED:  o ( s p r d t p ( ( ( d i p o a ( s m ( ( ( a ( m m ( s ( P n r a s p r t p i t r 4 ( t c a]
+[DELETED:  ( A o t i d w t r s i s t t f ( ( r h ( T s d n r a s p w h a l o o a i a j f a i a w t l o o a ( u o ( ( D t d p a s p i n s t t e r ( l s ( i ( I i a b w o s i t w a b t r ( ( ( A s p d n h i r t a c o c ( s ( B w n t r r o m e a s p p d m (]
+[DELETED:  l t ( r ( f 4 ( w s ( i e ( R r a l o r t s b p m ( ( r ( t s 4 ( t ( ( t u ( e ( d ( o]
+[DELETED:  ( d ( ( t w ( T d r b s ( o t s s b p t a c c ( d 4 ( d ( s ( ( ( n p ( I a d i a o t r o d t s p o 4 ( s s ( w p ( n 4]
+[DELETED:  ( A s p s r r d a d p i t o ( p a a ( T r r o s e q r r f a s ( p r ( a c ( a o r r o s i r t s p t r s ( r o a e a a d a o o t s p d ( ( a ( C ﬁ w a a a a a r o t p d ( q p w r (]
+[DELETED:  s i c b 4 ( i c s ( s f t w a p a w r t t g a t g a ( o ( o ( s r S]
+[DELETED:  T i t s s T]

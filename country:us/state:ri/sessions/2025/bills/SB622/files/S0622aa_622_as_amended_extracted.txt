@@ -1,0 +1,652 @@
+Title: RELATING TO LABOR AND LABOR RELATIONS -- EMPLOYMENT SECURITY --
+Official Title: RELATING TO LABOR AND LABOR RELATIONS -- EMPLOYMENT SECURITY --
+Number of Sections: 1
+Source: versions - 622  as amended
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0622 AS AMENDED
+========
+LC001365
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+GENERAL PROVISIONS
+Introduced By: Senators Burke, Tikoian, Appollonio, and Raptakis
+Date Introduced: March 06, 2025
+Referred To: Senate Labor & Gaming
+(Dept. of Labor and Training)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 28-42-3 of the General Laws in Chapter 28-42 entitled "Employment
+2 Security — General Provisions" is hereby amended to read as follows:
+3 28-42-3. Definitions.
+4 The following words and phrases, as used in chapters 42 — 44 of this title, have the
+5 following meanings unless the context clearly requires otherwise:
+6 (1) “Administration account” means the employment security administration account
+7 established by this chapter.
+8 (2) “Average weekly wage” means the amount determined by dividing the individual’s
+9 total wages earned for service performed in employment within the individual’s base period by the
+10 number of that individual’s credit weeks within the individual’s base period.
+11 (3) “Base period,” with respect to an individual’s benefit year, means the first four (4), of
+12 the most recently completed five (5) calendar quarters immediately preceding the first day of an
+13 individual’s benefit year. For any individual’s benefit year, and for any individual deemed
+14 monetarily ineligible for benefits for the “base period” as defined in this subdivision, the
+15 department shall make a re-determination of entitlement based upon the alternate base period that
+16 consists of the last four (4) completed calendar quarters immediately preceding the first day of the
+17 claimant’s benefit year. Notwithstanding anything contained to the contrary in this subdivision, the
+18 base period shall not include any calendar quarter previously used to establish a valid claim for
+1 benefits; provided, that notwithstanding any provision of chapters 42 — 44 of this title to the
+2 contrary, for the benefit years beginning on or after October 4, 1992, whenever an individual who
+3 has received workers’ compensation benefits is entitled to reinstatement under § 28-33-47, but the
+4 position to which reinstatement is sought does not exist or is not available, the individual’s base
+5 period shall be determined as if the individual filed for benefits on the date of the injury.
+6 (4) “Benefit” means the money payable to an individual as compensation for the
+7 individual’s wage losses due to unemployment as provided in these chapters.
+8 (5) “Benefit credits” means the total amount of money payable to an individual as benefits,
+9 as determined by § 28-44-9.
+10 (6) “Benefit rate” means the money payable to an individual as compensation, as provided
+11 in chapters 42 — 44 of this title, for the individual’s wage losses with respect to any week of total
+12 unemployment.
+13 (7) “Benefit year,” with respect to any individual who does not already have a benefit year
+14 in effect and who files a valid claim for benefits, means fifty-two (52) consecutive calendar weeks,
+15 the first of which shall be the week containing the day as of which he or she first files a valid claim
+16 in accordance with regulations adopted as hereinafter prescribed; provided, that the benefit year
+17 shall be fifty-three (53) weeks if the filing of a new, valid claim would result in overlapping any
+18 quarter of the base period of a prior new claim previously filed by the individual. In no event shall
+19 a new benefit year begin prior to the Sunday next following the end of the old benefit year.
+20 (8) “Calendar quarter” means the period of three (3) consecutive calendar months ending
+21 March 31, June 30, September 30, and December 31; or the equivalent thereof, in accordance with
+22 regulations as subsequently prescribed.
+23 (9) “Contributions” means the money payments to the state employment security fund
+24 required by those chapters.
+25 (10) “Credit amount,” effective July 6, 2014, means earnings by the individual in an
+26 amount equal to at least eight (8) times the individual’s weekly benefit rate.
+27 (11) “Credit week,” prior to July 1, 2012, means any week within an individual’s base
+28 period in which that individual earned wages amounting to at least twenty (20) times the minimum
+29 hourly wage as defined in chapter 12 of this title for performing services in employment for one or
+30 more employers subject to chapters 42 — 44 of this title, and for the period July 1, 2012, through
+31 July 5, 2014, means any week within an individual’s base period in which that individual earned
+32 wages amounting to at least the individual’s weekly benefit rate for performing services in
+33 employment for one or more employers subject to chapters 42 — 44 of this title.
+34 (12) “Crew leader,” for the purpose of subdivision (19) of this section, means an individual
+LC001365 - Page 2 of 10
+1 who:
+2 (i) Furnishes individuals to perform service in agricultural labor for any other person;
+3 (ii) Pays (either on the crew leader’s own behalf or on behalf of that other person) the
+4 individuals so furnished by the crew leader for the service in agricultural labor performed by them;
+5 and
+6 (iii) Has not entered into a written agreement with that other person (farm operator) under
+7 which that individual (crew leader) is designated as an employee of that other person (farm
+8 operator).
+9 (13) “Director” means the head of the department of labor and training or the director’s
+10 authorized representative.
+11 (14) “Domestic service employment.” “Employment” includes domestic service in a
+12 private home performed for a person who paid cash remuneration of one thousand dollars ($1,000)
+13 or more in any calendar quarter in the current calendar year, or the preceding calendar year, to
+14 individuals employed in that domestic service.
+15 (15) “Employee” means any person who is, or has been, employed by an employer subject
+16 to those chapters and in employment subject to those chapters.
+17 (16) “Employer” means:
+18 (i) Any employing unit that was an employer as of December 31, 1955;
+19 (ii) Any employing unit that for some portion of a day on and after January 1, 1956, has,
+20 or had, in employment, within any calendar year, one or more individuals; except, however, for
+21 “domestic service employment,” as defined in subdivision (14) of this section;
+22 (iii) For the effective period of its election pursuant to § 28-42-12, any other employing
+23 unit that has elected to become subject to chapters 42 — 44 of this title; or
+24 (iv) Any employing unit not an employer by reason of any other paragraph of this
+25 subdivision for which, within either the current or preceding calendar year, service is, or was,
+26 performed with respect to which that employing unit is liable for any federal tax against which
+27 credit may be taken for contributions required to be paid into this state’s employment security fund;
+28 or which, as a condition for approval of chapters 42 — 44 of this title for full tax credit against the
+29 tax imposed by the Federal Unemployment Tax Act, 26 U.S.C. § 3301 et seq., is required, pursuant
+30 to that act, to be an “employer” under chapters 42 — 44 of this title.
+31 (17) “Employing unit” means any person, partnership, association, trust, estate, or
+32 corporation, whether domestic or foreign, or its legal representative, trustee in bankruptcy, receiver,
+33 or trustee, or the legal representative of a deceased person, that has, or had, in the unit’s employ,
+34 one or more individuals. For the purposes of subdivision (14) of this section, a private home shall
+LC001365 - Page 3 of 10
+1 be considered an employing unit only if the person for whom the domestic service was performed
+2 paid cash remuneration of one thousand dollars ($1,000) or more in any calendar quarter in the
+3 current calendar year, or the preceding calendar year, to individuals employed in that domestic
+4 service in that private home.
+5 (18)(i) “Employment,” subject to §§ 28-42-4 — 28-42-10, means service, including service
+6 in interstate commerce, performed for wages, or under any contract of hire, written or oral, express
+7 or implied; provided, that service performed shall also be deemed to constitute employment for all
+8 the purposes of chapters 42 — 44 of this title if performed by an individual in the employ of a
+9 nonprofit organization as described in subdivision (25) of this section, except as provided in § 28-
+10 42-8(7);
+11 (ii) Notwithstanding any other provisions of this section, “Employment” also means
+12 service with respect to which a tax is required to be paid under any federal law imposing a tax
+13 against which credit may be taken for contributions required to be paid into this state’s employment
+14 security fund or which, as a condition for full tax credit against the tax imposed by the Federal
+15 Unemployment Tax Act, is required to be covered under chapters 42 — 44 of this title;
+16 (iii) Employment not to include owners. Employment does not include services performed
+17 by sole proprietors (owners), partners in a partnership, limited liability company — single member
+18 filing as a sole proprietor with the IRS, or members of a limited liability company filing as a
+19 partnership with the IRS.
+20 (19) “Employment — Crew leader.” For the purposes of subdivision (12) of this section:
+21 (i) Any individual who is a member of a crew furnished by a crew leader to perform service
+22 in agricultural labor for any other person shall be treated as an employee of that crew leader if:
+23 (A) That crew leader holds a valid certificate of registration under the Migrant and Seasonal
+24 Agricultural Worker Protection Act, 29 U.S.C. § 1801 et seq., or substantially all members of that
+25 crew operate or maintain tractors, mechanized harvesting, or crop-dusting equipment, or any other
+26 mechanized equipment that is provided by that crew leader; and
+27 (B) That individual is not an employee of the other person within the meaning of
+28 subdivision (15) of this section; and
+29 (ii) In the case of any individual who is furnished by a crew leader to perform service in
+30 agricultural labor for any other person and who is not treated as an employee of that crew leader:
+31 (A) That other person, and not the crew leader, shall be treated as the employer of that
+32 individual; and
+33 (B) That other person shall be treated as having paid cash remuneration to that individual
+34 in an amount equal to the amount of cash remuneration paid to that individual by the crew leader
+LC001365 - Page 4 of 10
+1 (either on the crew leader’s own behalf or on behalf of that other person) for the service in
+2 agricultural labor performed for that other person.
+3 (20) “Employment office” means a free, public-employment office, or its branch, operated
+4 by the director or by this state as part of a system of free, public-employment offices, or any other
+5 agency that the director may designate with the approval of the Social Security Administration.
+6 (21) “Fund” means the employment security fund established by this chapter.
+7 (22) “Governmental entity” means state and local governments in this state and includes
+8 the following:
+9 (i) The state of Rhode Island or any of its instrumentalities, or any political subdivision of
+10 the state, or any of its instrumentalities;
+11 (ii) Any instrumentality of more than one of these entities; or
+12 (iii) Any instrumentality of any of these entities and one or more other states or political
+13 subdivisions.
+14 (23) “Hospital” means an institution that has been licensed, certified, or approved by the
+15 department of health as a hospital.
+16 (24)(i) “Institution of higher education” means an educational institution in this state that:
+17 (A) Admits, as regular students, only individuals having a certificate of graduation from a
+18 high school, or the recognized equivalent of such certificate;
+19 (B) Is legally authorized within this state to provide a program of education beyond high
+20 school;
+21 (C) Provides:
+22 (I) An educational program for which it awards a bachelor’s or higher degree, or a program
+23 that is acceptable for full credit toward such a degree;
+24 (II) A program of post-graduate or post-doctoral studies; or
+25 (III) A program of training to prepare students for gainful employment in a recognized
+26 occupation; and
+27 (D) Is a public or other nonprofit institution.
+28 (ii) Notwithstanding any of the preceding provisions of this subdivision, all colleges and
+29 universities in this state are institutions of higher education for purposes of this section.
+30 (25) “Nonprofit organization” means an organization, or group of organizations, as defined
+31 in 26 U.S.C. § 501(c)(3), that is exempt from income tax under 26 U.S.C. § 501(a).
+32 (26)(i) “Partial unemployment.” An employee shall be deemed partially unemployed in
+33 any week of less than full-time work if the employee fails to earn in wages for that week an amount
+34 equal to the weekly benefit rate for total unemployment to which the employee would be entitled
+LC001365 - Page 5 of 10
+1 if totally unemployed and eligible. For weeks beginning on or after May 23, 2021, through June
+2 30, 2025, 2026, an employee shall be deemed partially unemployed in any week of less than full-
+3 time work if the employee fails to earn wages for that week in an amount equal to or greater than
+4 one hundred and fifty percent (150%) of the weekly benefit rate for total unemployment to which
+5 the employee would be entitled if totally unemployed and eligible.
+6 (ii) For the purposes of this subdivision and subdivision (28) of this section, “wages”
+7 includes only that part of remuneration for any work that is in excess of one-fifth (⅕) of the weekly
+8 benefit rate for total unemployment, rounded to the next lower multiple of one dollar ($1.00), to
+9 which the individual would be entitled if totally unemployed and eligible in any one week, and
+10 “services” includes only that part of any work for which remuneration in excess of one-fifth (⅕) of
+11 the weekly benefit rate for total unemployment, rounded to the next lower multiple of one dollar
+12 ($1.00), to which the individual would be entitled if totally unemployed and eligible in any one
+13 week is payable; provided, that nothing contained in this paragraph shall permit any individual to
+14 whom remuneration is payable for any work performed in any week in an amount equal to or greater
+15 than his or her weekly benefit rate to receive benefits under this subdivision for that week.
+16 (iii) Notwithstanding the foregoing, for weeks ending on or after May 23, 2021, through
+17 June 30, 2025, 2026, “wages” includes only that part of remuneration for any work that is in excess
+18 of fifty percent (50%) of the weekly benefit rate for total unemployment, rounded to the next lower
+19 multiple of one dollar ($1.00), to which the individual would be entitled if totally unemployed and
+20 eligible in any one week, and “services” includes only that part of any work for which remuneration
+21 in excess of fifty percent (50%) of the weekly benefit rate for total unemployment, rounded to the
+22 next lower multiple of one dollar ($1.00), to which the individual would be entitled if totally
+23 unemployed and eligible in any one week is payable. Provided, that, during the period defined in
+24 this subdivision, nothing contained in this subdivision shall permit any individual to whom
+25 remuneration is payable for any work performed in any week in an amount equal to or greater than
+26 one hundred fifty percent (150%) of their weekly benefit rate to receive benefits under this
+27 subdivision for that week.
+28 (iv) Notwithstanding anything contained to the contrary in this subdivision, “services,” as
+29 used in this subdivision and in subdivision (28) of this section, does not include services rendered
+30 by an individual under the exclusive supervision of any agency of this state, or any of its political
+31 subdivisions, by which the services are required solely for the purpose of affording relief, support,
+32 or assistance to needy individuals performing those services, or services performed by members of
+33 the national guard and organized reserves in carrying out their duties in weekly drills as members
+34 of those organizations. “Wages,” as used in this subdivision and in subdivision (28) of this section,
+LC001365 - Page 6 of 10
+1 does not include either remuneration received by needy individuals for rendering the
+2 aforementioned services when that remuneration is paid exclusively from funds made available for
+3 that purpose out of taxes collected by this state or any of its political subdivisions, or remuneration
+4 received from the federal government by members of the national guard and organized reserves, as
+5 drill pay, including longevity pay and allowances.
+6 (27) “Payroll” means the total amount of all wages paid by the employer to the employer’s
+7 employees for employment.
+8 (28) “Total unemployment.” An individual shall be deemed totally unemployed in any
+9 week in which the individual performs no services (as used in subdivision (26) of this section) and
+10 for which the individual earns no wages (as used in subdivision (26) of this section), and in which
+11 the individual cannot reasonably return to any self-employment in which the individual has
+12 customarily been engaged.
+13 (29) “Wages” means all remuneration paid for personal services on or after January 1,
+14 1940, including commissions and bonuses and the cash value of all remuneration paid in any
+15 medium other than cash, and all other remuneration that is subject to a tax under a federal law
+16 imposing a tax against which credit may be taken for contributions required to be paid into a state
+17 unemployment fund. Gratuities customarily received by an individual in the course of the
+18 individual’s employment from persons other than the individual’s employing unit shall be treated
+19 as wages paid by the individual’s employing unit. The reasonable cash value of remuneration paid
+20 in any medium other than cash, and the reasonable amount of gratuities, shall be estimated and
+21 determined in accordance with rules prescribed by the director; except that for the purpose of this
+22 subdivision and of §§ 28-43-1 — 28-43-8.1, 28-43-8.2 [repealed], 28-43-8.3, 28-43-8.4 [repealed],
+23 28-43-8.5 — 28-43-8.10, 28-43-11 [repealed], and 28-43-12 — 28-43-14, this term does not
+24 include:
+25 (i) That part of remuneration that is paid by an employer to an individual with respect to
+26 employment during any calendar year, after remuneration equal to the amount of the taxable wage
+27 base as determined in accordance with § 28-43-7 has been paid during that calendar year by the
+28 employer or the employer’s predecessor to that individual; provided, that if the definition of
+29 “wages” as contained in the Federal Unemployment Tax Act is amended to include remuneration
+30 in excess of the taxable wage base for that employment, then, for the purposes of §§ 28-43-1 —
+31 28-43-14, “wages” includes the remuneration as previously set forth, up to an amount equal to the
+32 dollar limitation specified in the federal act. For the purposes of this subdivision, “employment”
+33 includes services constituting employment under any employment security law of another state or
+34 of the federal government;
+LC001365 - Page 7 of 10
+1 (ii) The amount of any payment made to, or on behalf of, an employee under a plan or
+2 system established by an employer that makes provision for employees generally, or for a class or
+3 classes of employees (including any amount paid by an employer or an employee for insurance or
+4 annuities, or into a fund, to provide for any such payment), on account of:
+5 (A) Retirement;
+6 (B) Sickness or accident disability;
+7 (C) Medical and hospitalization expenses in connection with sickness or accident
+8 disability; or
+9 (D) Death; provided, that the employee has not the:
+10 (I) Option to receive, instead of provision for that death benefit, any part of that payment
+11 or, if that death benefit is insured, any part of the premiums (or contributions to premiums) paid by
+12 the individual’s employer; and
+13 (II) Right, under the provisions of the plan or system or policy of insurance providing for
+14 that death benefit, to assign that benefit, or to receive a cash consideration in lieu of that benefit
+15 either upon the employee’s withdrawal from the plan or system providing for that benefit or upon
+16 termination of the plan or system or policy of insurance, or of the individual’s employment with
+17 that employer;
+18 (E) The payment by an employer (without deduction from the remuneration of the
+19 employee) of:
+20 (I) The tax imposed upon an employee under 26 U.S.C. § 3101; or
+21 (II) Any payment required from an employee under chapters 42 — 44 of this title.
+22 (iii) Any amount paid by an employee, or an amount paid by an employer, under a benefit
+23 plan organized under the Internal Revenue Code [26 U.S.C. § 125].
+24 (30) “Week” means the seven-day (7) calendar week beginning on Sunday at 12:01 a.m.
+25 and ending on Saturday at 12:00 a.m. midnight.
+26 SECTION 2. Section 28-44-7 of the General Laws in Chapter 28-44 entitled "Employment
+27 Security — Benefits" is hereby amended to read as follows:
+28 28-44-7. Partial unemployment benefits.
+29 For weeks beginning on or after July 1, 1983, an individual partially unemployed and
+30 eligible in any week shall be paid sufficient benefits with respect to that week, so that the
+31 individual’s week’s wages, rounded to the next higher multiple of one dollar ($1.00), as defined in
+32 § 28-42-3(26), and the individual’s benefits combined will equal in amount the weekly benefit rate
+33 to which the individual would be entitled if totally unemployed in that week. For weeks beginning
+34 on or after May 23, 2021, through June 30, 2025, 2026, an individual partially unemployed and
+LC001365 - Page 8 of 10
+1 eligible in any week shall be paid benefits in an amount equal to the weekly benefit rate to which
+2 the individual would be entitled if totally unemployed in that week less any wages earned in that
+3 week, as defined in § 28-42-3(26), and the individual’s benefits combined may not exceed in
+4 amount one hundred and fifty percent (150%) of the individual’s weekly benefit rate.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC001365
+========
+LC001365 - Page 9 of 10
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- EMPLOYMENT SECURITY --
+GENERAL PROVISIONS
+***
+1 This act would eliminate the until June 30, 2025 sunset on the increase in the total amount
+2 of earnings a partial-unemployment insurance claimant can receive before being entirely
+3 disqualified for unemployment insurance benefits and the increase in the amount of earnings
+4 disregarded when calculating a weekly benefit rate.
+5 This act would take effect upon passage.
+========
+LC001365
+========
+LC001365 - Page 10 of 10
+[DELETED: TATE  OF  RHODE  ISLAND S S 2 T f ( “ a m t e s a a e ( t n ( t i b y F a i b y a f a i d m i f b f t “ p a d i t s t d c c b]
+[DELETED:  b c h p p ( “ m t m p t a i a c f t i ( a ( i u ( i t i s q a ( M r ( r ( “ a e 6 2 m e b t a ( p h m J w a t a l t i w b r f p s i e (]
+[DELETED:  w ( ( i a ( w t i ( l i d a a e o t o p ( o ( a ( “ s e “ i d s i a p o i ( t ( ( ( o “ ( u ( A e u n a e b r o a o p o t s p c o t t ( “ u m a p p a t e o c o o]
+[DELETED:  b p c s ( i o t n 4 ( N a o p o t s “ a m s a s U ( b f p ( ( i ( A c m ( T i i n a e o t o p w t m o s ( a ( i ( i]
+[DELETED:  ( o o b o o o o p f t i a ( b a ( ( t ( t ( ( s ( d ( ( h ( s ( ( t ( ( o ( ( u ( i ( a e]
+[DELETED:  i 3 t o t ( i b w “ t ( w w t ( J o m e i n u t s n c i t s s p a i t w r o h f p ( o t w b r t r b u t s ( u b s o t o]
+[DELETED:  d n i e r r b n i f r t a t r d ( e ( w f t i c r r t a s i w t i h c ( 1 m i u f G c r b a i i t c o t i a i d s 2 — 2 2 [ a 2 — 2 t t d n i ( e b e o t e p t t i p t i t d o “ i 2 d i o]
+[DELETED:  ( s c a ( ( ( M a h e i c w s o a d ( ( o t ( t e t t ( T p b a e ( d f t r o t e ( ( ( p ( a S S 2 F e i a w s b p s b w r t t w s t t i § t o]
+[DELETED:  e t w a S]
+[DELETED:  T o e a p i c c r b b e d i b t a o e d T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0622 AS AMENDED
+========
+LC001365
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- EMPLOYMENT SECURITY --
+GENERAL PROVISIONS
+Introduced By: Senators Burke, Tikoian, Appollonio, and Raptakis
+Date Introduced: March 06, 2025
+Referred To: Senate Labor & Gaming
+(Dept. of Labor and Training)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 28-42-3 of the General Laws in Chapter 28-42 entitled "Employment
+2 Security — General Provisions" is hereby amended to read as follows:
+3 28-42-3. Definitions.
+4 The following words and phrases, as used in chapters 42 — 44 of this title, have the
+5 following meanings unless the context clearly requires otherwise:
+6 (1) “Administration account” means the employment security administration account
+7 established by this chapter.
+8 (2) “Average weekly wage” means the amount determined by dividing the individual’s
+9 total wages earned for service performed in employment within the individual’s base period by the
+10 number of that individual’s credit weeks within the individual’s base period.
+11 (3) “Base period,” with respect to an individual’s benefit year, means the first four (4), of
+12 the most recently completed five (5) calendar quarters immediately preceding the first day of an
+13 individual’s benefit year. For any individual’s benefit year, and for any individual deemed
+14 monetarily ineligible for benefits for the “base period” as defined in this subdivision, the
+15 department shall make a re-determination of entitlement based upon the alternate base period that
+16 consists of the last four (4) completed calendar quarters immediately preceding the first day of the
+17 claimant’s benefit year. Notwithstanding anything contained to the contrary in this subdivision, the
+18 base period shall not include any calendar quarter previously used to establish a valid claim for
+
+1 benefits; provided, that notwithstanding any provision of chapters 42 — 44 of this title to the
+2 contrary, for the benefit years beginning on or after October 4, 1992, whenever an individual who
+3 has received workers’ compensation benefits is entitled to reinstatement under § 28-33-47, but the
+4 position to which reinstatement is sought does not exist or is not available, the individual’s base
+5 period shall be determined as if the individual filed for benefits on the date of the injury.
+6 (4) “Benefit” means the money payable to an individual as compensation for the
+7 individual’s wage losses due to unemployment as provided in these chapters.
+8 (5) “Benefit credits” means the total amount of money payable to an individual as benefits,
+9 as determined by § 28-44-9.
+10 (6) “Benefit rate” means the money payable to an individual as compensation, as provided
+11 in chapters 42 — 44 of this title, for the individual’s wage losses with respect to any week of total
+12 unemployment.
+13 (7) “Benefit year,” with respect to any individual who does not already have a benefit year
+14 in effect and who files a valid claim for benefits, means fifty-two (52) consecutive calendar weeks,
+15 the first of which shall be the week containing the day as of which he or she first files a valid claim
+16 in accordance with regulations adopted as hereinafter prescribed; provided, that the benefit year
+17 shall be fifty-three (53) weeks if the filing of a new, valid claim would result in overlapping any
+18 quarter of the base period of a prior new claim previously filed by the individual. In no event shall
+19 a new benefit year begin prior to the Sunday next following the end of the old benefit year.
+20 (8) “Calendar quarter” means the period of three (3) consecutive calendar months ending
+21 March 31, June 30, September 30, and December 31; or the equivalent thereof, in accordance with
+22 regulations as subsequently prescribed.
+23 (9) “Contributions” means the money payments to the state employment security fund
+24 required by those chapters.
+25 (10) “Credit amount,” effective July 6, 2014, means earnings by the individual in an
+26 amount equal to at least eight (8) times the individual’s weekly benefit rate.
+27 (11) “Credit week,” prior to July 1, 2012, means any week within an individual’s base
+28 period in which that individual earned wages amounting to at least twenty (20) times the minimum
+29 hourly wage as defined in chapter 12 of this title for performing services in employment for one or
+30 more employers subject to chapters 42 — 44 of this title, and for the period July 1, 2012, through
+31 July 5, 2014, means any week within an individual’s base period in which that individual earned
+32 wages amounting to at least the individual’s weekly benefit rate for performing services in
+33 employment for one or more employers subject to chapters 42 — 44 of this title.
+34 (12) “Crew leader,” for the purpose of subdivision (19) of this section, means an individual
+LC001365 - Page 2 of 10
+
+1 who:
+2 (i) Furnishes individuals to perform service in agricultural labor for any other person;
+3 (ii) Pays (either on the crew leader’s own behalf or on behalf of that other person) the
+4 individuals so furnished by the crew leader for the service in agricultural labor performed by them;
+5 and
+6 (iii) Has not entered into a written agreement with that other person (farm operator) under
+7 which that individual (crew leader) is designated as an employee of that other person (farm
+8 operator).
+9 (13) “Director” means the head of the department of labor and training or the director’s
+10 authorized representative.
+11 (14) “Domestic service employment.” “Employment” includes domestic service in a
+12 private home performed for a person who paid cash remuneration of one thousand dollars ($1,000)
+13 or more in any calendar quarter in the current calendar year, or the preceding calendar year, to
+14 individuals employed in that domestic service.
+15 (15) “Employee” means any person who is, or has been, employed by an employer subject
+16 to those chapters and in employment subject to those chapters.
+17 (16) “Employer” means:
+18 (i) Any employing unit that was an employer as of December 31, 1955;
+19 (ii) Any employing unit that for some portion of a day on and after January 1, 1956, has,
+20 or had, in employment, within any calendar year, one or more individuals; except, however, for
+21 “domestic service employment,” as defined in subdivision (14) of this section;
+22 (iii) For the effective period of its election pursuant to § 28-42-12, any other employing
+23 unit that has elected to become subject to chapters 42 — 44 of this title; or
+24 (iv) Any employing unit not an employer by reason of any other paragraph of this
+25 subdivision for which, within either the current or preceding calendar year, service is, or was,
+26 performed with respect to which that employing unit is liable for any federal tax against which
+27 credit may be taken for contributions required to be paid into this state’s employment security fund;
+28 or which, as a condition for approval of chapters 42 — 44 of this title for full tax credit against the
+29 tax imposed by the Federal Unemployment Tax Act, 26 U.S.C. § 3301 et seq., is required, pursuant
+30 to that act, to be an “employer” under chapters 42 — 44 of this title.
+31 (17) “Employing unit” means any person, partnership, association, trust, estate, or
+32 corporation, whether domestic or foreign, or its legal representative, trustee in bankruptcy, receiver,
+33 or trustee, or the legal representative of a deceased person, that has, or had, in the unit’s employ,
+34 one or more individuals. For the purposes of subdivision (14) of this section, a private home shall
+LC001365 - Page 3 of 10
+
+1 be considered an employing unit only if the person for whom the domestic service was performed
+2 paid cash remuneration of one thousand dollars ($1,000) or more in any calendar quarter in the
+3 current calendar year, or the preceding calendar year, to individuals employed in that domestic
+4 service in that private home.
+5 (18)(i) “Employment,” subject to §§ 28-42-4 — 28-42-10, means service, including service
+6 in interstate commerce, performed for wages, or under any contract of hire, written or oral, express
+7 or implied; provided, that service performed shall also be deemed to constitute employment for all
+8 the purposes of chapters 42 — 44 of this title if performed by an individual in the employ of a
+9 nonprofit organization as described in subdivision (25) of this section, except as provided in § 28-
+10 42-8(7);
+11 (ii) Notwithstanding any other provisions of this section, “Employment” also means
+12 service with respect to which a tax is required to be paid under any federal law imposing a tax
+13 against which credit may be taken for contributions required to be paid into this state’s employment
+14 security fund or which, as a condition for full tax credit against the tax imposed by the Federal
+15 Unemployment Tax Act, is required to be covered under chapters 42 — 44 of this title;
+16 (iii) Employment not to include owners. Employment does not include services performed
+17 by sole proprietors (owners), partners in a partnership, limited liability company — single member
+18 filing as a sole proprietor with the IRS, or members of a limited liability company filing as a
+19 partnership with the IRS.
+20 (19) “Employment — Crew leader.” For the purposes of subdivision (12) of this section:
+21 (i) Any individual who is a member of a crew furnished by a crew leader to perform service
+22 in agricultural labor for any other person shall be treated as an employee of that crew leader if:
+23 (A) That crew leader holds a valid certificate of registration under the Migrant and Seasonal
+24 Agricultural Worker Protection Act, 29 U.S.C. § 1801 et seq., or substantially all members of that
+25 crew operate or maintain tractors, mechanized harvesting, or crop-dusting equipment, or any other
+26 mechanized equipment that is provided by that crew leader; and
+27 (B) That individual is not an employee of the other person within the meaning of
+28 subdivision (15) of this section; and
+29 (ii) In the case of any individual who is furnished by a crew leader to perform service in
+30 agricultural labor for any other person and who is not treated as an employee of that crew leader:
+31 (A) That other person, and not the crew leader, shall be treated as the employer of that
+32 individual; and
+33 (B) That other person shall be treated as having paid cash remuneration to that individual
+34 in an amount equal to the amount of cash remuneration paid to that individual by the crew leader
+LC001365 - Page 4 of 10
+
+1 (either on the crew leader’s own behalf or on behalf of that other person) for the service in
+2 agricultural labor performed for that other person.
+3 (20) “Employment office” means a free, public-employment office, or its branch, operated
+4 by the director or by this state as part of a system of free, public-employment offices, or any other
+5 agency that the director may designate with the approval of the Social Security Administration.
+6 (21) “Fund” means the employment security fund established by this chapter.
+7 (22) “Governmental entity” means state and local governments in this state and includes
+8 the following:
+9 (i) The state of Rhode Island or any of its instrumentalities, or any political subdivision of
+10 the state, or any of its instrumentalities;
+11 (ii) Any instrumentality of more than one of these entities; or
+12 (iii) Any instrumentality of any of these entities and one or more other states or political
+13 subdivisions.
+14 (23) “Hospital” means an institution that has been licensed, certified, or approved by the
+15 department of health as a hospital.
+16 (24)(i) “Institution of higher education” means an educational institution in this state that:
+17 (A) Admits, as regular students, only individuals having a certificate of graduation from a
+18 high school, or the recognized equivalent of such certificate;
+19 (B) Is legally authorized within this state to provide a program of education beyond high
+20 school;
+21 (C) Provides:
+22 (I) An educational program for which it awards a bachelor’s or higher degree, or a program
+23 that is acceptable for full credit toward such a degree;
+24 (II) A program of post-graduate or post-doctoral studies; or
+25 (III) A program of training to prepare students for gainful employment in a recognized
+26 occupation; and
+27 (D) Is a public or other nonprofit institution.
+28 (ii) Notwithstanding any of the preceding provisions of this subdivision, all colleges and
+29 universities in this state are institutions of higher education for purposes of this section.
+30 (25) “Nonprofit organization” means an organization, or group of organizations, as defined
+31 in 26 U.S.C. § 501(c)(3), that is exempt from income tax under 26 U.S.C. § 501(a).
+32 (26)(i) “Partial unemployment.” An employee shall be deemed partially unemployed in
+33 any week of less than full-time work if the employee fails to earn in wages for that week an amount
+34 equal to the weekly benefit rate for total unemployment to which the employee would be entitled
+LC001365 - Page 5 of 10
+
+1 if totally unemployed and eligible. For weeks beginning on or after May 23, 2021, through June
+2 30, 2025, 2026, an employee shall be deemed partially unemployed in any week of less than full-
+3 time work if the employee fails to earn wages for that week in an amount equal to or greater than
+4 one hundred and fifty percent (150%) of the weekly benefit rate for total unemployment to which
+5 the employee would be entitled if totally unemployed and eligible.
+6 (ii) For the purposes of this subdivision and subdivision (28) of this section, “wages”
+7 includes only that part of remuneration for any work that is in excess of one-fifth (⅕) of the weekly
+8 benefit rate for total unemployment, rounded to the next lower multiple of one dollar ($1.00), to
+9 which the individual would be entitled if totally unemployed and eligible in any one week, and
+10 “services” includes only that part of any work for which remuneration in excess of one-fifth (⅕) of
+11 the weekly benefit rate for total unemployment, rounded to the next lower multiple of one dollar
+12 ($1.00), to which the individual would be entitled if totally unemployed and eligible in any one
+13 week is payable; provided, that nothing contained in this paragraph shall permit any individual to
+14 whom remuneration is payable for any work performed in any week in an amount equal to or greater
+15 than his or her weekly benefit rate to receive benefits under this subdivision for that week.
+16 (iii) Notwithstanding the foregoing, for weeks ending on or after May 23, 2021, through
+17 June 30, 2025, 2026, “wages” includes only that part of remuneration for any work that is in excess
+18 of fifty percent (50%) of the weekly benefit rate for total unemployment, rounded to the next lower
+19 multiple of one dollar ($1.00), to which the individual would be entitled if totally unemployed and
+20 eligible in any one week, and “services” includes only that part of any work for which remuneration
+21 in excess of fifty percent (50%) of the weekly benefit rate for total unemployment, rounded to the
+22 next lower multiple of one dollar ($1.00), to which the individual would be entitled if totally
+23 unemployed and eligible in any one week is payable. Provided, that, during the period defined in
+24 this subdivision, nothing contained in this subdivision shall permit any individual to whom
+25 remuneration is payable for any work performed in any week in an amount equal to or greater than
+26 one hundred fifty percent (150%) of their weekly benefit rate to receive benefits under this
+27 subdivision for that week.
+28 (iv) Notwithstanding anything contained to the contrary in this subdivision, “services,” as
+29 used in this subdivision and in subdivision (28) of this section, does not include services rendered
+30 by an individual under the exclusive supervision of any agency of this state, or any of its political
+31 subdivisions, by which the services are required solely for the purpose of affording relief, support,
+32 or assistance to needy individuals performing those services, or services performed by members of
+33 the national guard and organized reserves in carrying out their duties in weekly drills as members
+34 of those organizations. “Wages,” as used in this subdivision and in subdivision (28) of this section,
+LC001365 - Page 6 of 10
+
+1 does not include either remuneration received by needy individuals for rendering the
+2 aforementioned services when that remuneration is paid exclusively from funds made available for
+3 that purpose out of taxes collected by this state or any of its political subdivisions, or remuneration
+4 received from the federal government by members of the national guard and organized reserves, as
+5 drill pay, including longevity pay and allowances.
+6 (27) “Payroll” means the total amount of all wages paid by the employer to the employer’s
+7 employees for employment.
+8 (28) “Total unemployment.” An individual shall be deemed totally unemployed in any
+9 week in which the individual performs no services (as used in subdivision (26) of this section) and
+10 for which the individual earns no wages (as used in subdivision (26) of this section), and in which
+11 the individual cannot reasonably return to any self-employment in which the individual has
+12 customarily been engaged.
+13 (29) “Wages” means all remuneration paid for personal services on or after January 1,
+14 1940, including commissions and bonuses and the cash value of all remuneration paid in any
+15 medium other than cash, and all other remuneration that is subject to a tax under a federal law
+16 imposing a tax against which credit may be taken for contributions required to be paid into a state
+17 unemployment fund. Gratuities customarily received by an individual in the course of the
+18 individual’s employment from persons other than the individual’s employing unit shall be treated
+19 as wages paid by the individual’s employing unit. The reasonable cash value of remuneration paid
+20 in any medium other than cash, and the reasonable amount of gratuities, shall be estimated and
+21 determined in accordance with rules prescribed by the director; except that for the purpose of this
+22 subdivision and of §§ 28-43-1 — 28-43-8.1, 28-43-8.2 [repealed], 28-43-8.3, 28-43-8.4 [repealed],
+23 28-43-8.5 — 28-43-8.10, 28-43-11 [repealed], and 28-43-12 — 28-43-14, this term does not
+24 include:
+25 (i) That part of remuneration that is paid by an employer to an individual with respect to
+26 employment during any calendar year, after remuneration equal to the amount of the taxable wage
+27 base as determined in accordance with § 28-43-7 has been paid during that calendar year by the
+28 employer or the employer’s predecessor to that individual; provided, that if the definition of
+29 “wages” as contained in the Federal Unemployment Tax Act is amended to include remuneration
+30 in excess of the taxable wage base for that employment, then, for the purposes of §§ 28-43-1 —
+31 28-43-14, “wages” includes the remuneration as previously set forth, up to an amount equal to the
+32 dollar limitation specified in the federal act. For the purposes of this subdivision, “employment”
+33 includes services constituting employment under any employment security law of another state or
+34 of the federal government;
+LC001365 - Page 7 of 10
+
+1 (ii) The amount of any payment made to, or on behalf of, an employee under a plan or
+2 system established by an employer that makes provision for employees generally, or for a class or
+3 classes of employees (including any amount paid by an employer or an employee for insurance or
+4 annuities, or into a fund, to provide for any such payment), on account of:
+5 (A) Retirement;
+6 (B) Sickness or accident disability;
+7 (C) Medical and hospitalization expenses in connection with sickness or accident
+8 disability; or
+9 (D) Death; provided, that the employee has not the:
+10 (I) Option to receive, instead of provision for that death benefit, any part of that payment
+11 or, if that death benefit is insured, any part of the premiums (or contributions to premiums) paid by
+12 the individual’s employer; and
+13 (II) Right, under the provisions of the plan or system or policy of insurance providing for
+14 that death benefit, to assign that benefit, or to receive a cash consideration in lieu of that benefit
+15 either upon the employee’s withdrawal from the plan or system providing for that benefit or upon
+16 termination of the plan or system or policy of insurance, or of the individual’s employment with
+17 that employer;
+18 (E) The payment by an employer (without deduction from the remuneration of the
+19 employee) of:
+20 (I) The tax imposed upon an employee under 26 U.S.C. § 3101; or
+21 (II) Any payment required from an employee under chapters 42 — 44 of this title.
+22 (iii) Any amount paid by an employee, or an amount paid by an employer, under a benefit
+23 plan organized under the Internal Revenue Code [26 U.S.C. § 125].
+24 (30) “Week” means the seven-day (7) calendar week beginning on Sunday at 12:01 a.m.
+25 and ending on Saturday at 12:00 a.m. midnight.
+26 SECTION 2. Section 28-44-7 of the General Laws in Chapter 28-44 entitled "Employment
+27 Security — Benefits" is hereby amended to read as follows:
+28 28-44-7. Partial unemployment benefits.
+29 For weeks beginning on or after July 1, 1983, an individual partially unemployed and
+30 eligible in any week shall be paid sufficient benefits with respect to that week, so that the
+31 individual’s week’s wages, rounded to the next higher multiple of one dollar ($1.00), as defined in
+32 § 28-42-3(26), and the individual’s benefits combined will equal in amount the weekly benefit rate
+33 to which the individual would be entitled if totally unemployed in that week. For weeks beginning
+34 on or after May 23, 2021, through June 30, 2025, 2026, an individual partially unemployed and
+LC001365 - Page 8 of 10
+
+1 eligible in any week shall be paid benefits in an amount equal to the weekly benefit rate to which
+2 the individual would be entitled if totally unemployed in that week less any wages earned in that
+3 week, as defined in § 28-42-3(26), and the individual’s benefits combined may not exceed in
+4 amount one hundred and fifty percent (150%) of the individual’s weekly benefit rate.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC001365
+========
+LC001365 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- EMPLOYMENT SECURITY --
+GENERAL PROVISIONS
+***
+1 This act would eliminate the until June 30, 2025 sunset on the increase in the total amount
+2 of earnings a partial-unemployment insurance claimant can receive before being entirely
+3 disqualified for unemployment insurance benefits and the increase in the amount of earnings
+4 disregarded when calculating a weekly benefit rate.
+5 This act would take effect upon passage.
+========
+LC001365
+========
+LC001365 - Page 10 of 10
+
+[DELETED: TATE  OF  RHODE  ISLAND S S 2 T f ( “ a m t e s a a e ( t n ( t i b y F a i b y a f a i d m i f b f t “ p a d i t s t d c c b]
+[DELETED:  b c h p p ( “ m t m p t a i a c f t i ( a ( i u ( i t i s q a ( M r ( r ( “ a e 6 2 m e b t a ( p h m J w a t a l t i w b r f p s i e (]
+[DELETED:  w ( ( i a ( w t i ( l i d a a e o t o p ( o ( a ( “ s e “ i d s i a p o i ( t ( ( ( o “ ( u ( A e u n a e b r o a o p o t s p c o t t ( “ u m a p p a t e o c o o]
+[DELETED:  b p c s ( i o t n 4 ( N a o p o t s “ a m s a s U ( b f p ( ( i ( A c m ( T i i n a e o t o p w t m o s ( a ( i ( i]
+[DELETED:  ( o o b o o o o p f t i a ( b a ( ( t ( t ( ( s ( d ( ( h ( s ( ( t ( ( o ( ( u ( i ( a e]
+[DELETED:  i 3 t o t ( i b w “ t ( w w t ( J o m e i n u t s n c i t s s p a i t w r o h f p ( o t w b r t r b u t s ( u b s o t o]
+[DELETED:  d n i e r r b n i f r t a t r d ( e ( w f t i c r r t a s i w t i h c ( 1 m i u f G c r b a i i t c o t i a i d s 2 — 2 2 [ a 2 — 2 t t d n i ( e b e o t e p t t i p t i t d o “ i 2 d i o]
+[DELETED:  ( s c a ( ( ( M a h e i c w s o a d ( ( o t ( t e t t ( T p b a e ( d f t r o t e ( ( ( p ( a S S 2 F e i a w s b p s b w r t t w s t t i § t o]
+[DELETED:  e t w a S]
+[DELETED:  T o e a p i c c r b b e d i b t a o e d T]

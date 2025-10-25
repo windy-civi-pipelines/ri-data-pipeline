@@ -1,0 +1,153 @@
+Title: RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION
+Official Title: RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION
+Number of Sections: 1
+Source: versions - 818
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0818
+========
+LC002326
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Dimitri, Bissaillon, and Zurier
+Date Introduced: March 14, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-19-18 of the General Laws in Chapter 12-19 entitled "Sentence
+2 and Execution" is hereby amended to read as follows:
+3 12-19-18. Termination of imprisonment on deferred sentence on failure of grand jury
+4 to indict — Determinations of insufficient evidence lack of probable cause or exercise of
+5 prosecutorial discretion.
+6 (a) Whenever any person has been sentenced to imprisonment for violation of a deferred
+7 sentence by reason of the alleged commission of a felony and the grand jury has failed to return
+8 any indictment or an information has not been filed on the charge which was specifically alleged
+9 to have constituted the violation of the deferred sentence, the sentence to imprisonment for the
+10 alleged violation of the deferred sentence shall, on motion made to the court on behalf of the person
+11 so sentenced, be quashed, and imprisonment shall be immediately terminated, and the deferred
+12 sentence shall have same force and effect as if no sentence to imprisonment had been imposed.
+13 (b) Whenever any person, after an evidentiary hearing, has been sentenced to imprisonment
+14 for violation of a suspended sentence or probationary period by reason of the alleged commission
+15 of a felony or misdemeanor said sentence of imprisonment shall, on a motion made to the court on
+16 behalf of the person so sentenced, be quashed, and imprisonment shall be terminated when any of
+17 the following occur on the charge which was specifically alleged to have constituted the violation:
+18 (1) After trial person is found “not guilty” or a motion for judgment of acquittal or to
+19 dismiss is made and granted pursuant to Superior or District Court Rule of Criminal Procedure 29;
+1 (2) After hearing evidence, a “no true bill” is returned by the grand jury;
+2 (3) After consideration by an assistant or special assistant designated by the attorney
+3 general, a “no information” based upon a lack of probable cause is returned;
+4 (4) A motion to dismiss is made and granted pursuant to the Rhode Island general laws §
+5 12-12-1.7 and/or Superior Court Rule of Criminal Procedure 9.1; or
+6 (5) The charge fails to proceed in District or Superior Court under circumstances where the
+7 state is indicating a lack of probable cause, or circumstances where the state or its agents believe
+8 there is doubt about the culpability of the accused are unwilling or unable to pursue the charge(s)
+9 and the matter is dismissed.
+10 (c) This section shall apply to all individuals sentenced to imprisonment for violation of a
+11 suspended sentence or probationary period by reason of the alleged commission of a felony or
+12 misdemeanor and shall not alter the ability of the court to revoke a suspended sentence or
+13 probationary period for an allegation of conduct that does not rise to the level of criminal conduct.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC002326
+========
+LC002326 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION
+***
+1 This act would eliminate the "doubt" about culpability requirement and replace it with
+2 "unwilling" or "unable" to pursue charge(s) in cases for persons sentenced to imprisonment for
+3 violations of suspended sentence.
+4 This act would take effect upon passage.
+========
+LC002326
+========
+LC002326 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 t p ( s a t a s s ( f o b t ( d]
+[DELETED:  ( ( A c b a a o s a d b t g ( 1 ( s t a ( s m a s n a t a o t c t r a s s o p S]
+[DELETED:  T " v T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0818
+========
+LC002326
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION
+Introduced By: Senators Dimitri, Bissaillon, and Zurier
+Date Introduced: March 14, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-19-18 of the General Laws in Chapter 12-19 entitled "Sentence
+2 and Execution" is hereby amended to read as follows:
+3 12-19-18. Termination of imprisonment on deferred sentence on failure of grand jury
+4 to indict — Determinations of insufficient evidence lack of probable cause or exercise of
+5 prosecutorial discretion.
+6 (a) Whenever any person has been sentenced to imprisonment for violation of a deferred
+7 sentence by reason of the alleged commission of a felony and the grand jury has failed to return
+8 any indictment or an information has not been filed on the charge which was specifically alleged
+9 to have constituted the violation of the deferred sentence, the sentence to imprisonment for the
+10 alleged violation of the deferred sentence shall, on motion made to the court on behalf of the person
+11 so sentenced, be quashed, and imprisonment shall be immediately terminated, and the deferred
+12 sentence shall have same force and effect as if no sentence to imprisonment had been imposed.
+13 (b) Whenever any person, after an evidentiary hearing, has been sentenced to imprisonment
+14 for violation of a suspended sentence or probationary period by reason of the alleged commission
+15 of a felony or misdemeanor said sentence of imprisonment shall, on a motion made to the court on
+16 behalf of the person so sentenced, be quashed, and imprisonment shall be terminated when any of
+17 the following occur on the charge which was specifically alleged to have constituted the violation:
+18 (1) After trial person is found “not guilty” or a motion for judgment of acquittal or to
+19 dismiss is made and granted pursuant to Superior or District Court Rule of Criminal Procedure 29;
+
+1 (2) After hearing evidence, a “no true bill” is returned by the grand jury;
+2 (3) After consideration by an assistant or special assistant designated by the attorney
+3 general, a “no information” based upon a lack of probable cause is returned;
+4 (4) A motion to dismiss is made and granted pursuant to the Rhode Island general laws §
+5 12-12-1.7 and/or Superior Court Rule of Criminal Procedure 9.1; or
+6 (5) The charge fails to proceed in District or Superior Court under circumstances where the
+7 state is indicating a lack of probable cause, or circumstances where the state or its agents believe
+8 there is doubt about the culpability of the accused are unwilling or unable to pursue the charge(s)
+9 and the matter is dismissed.
+10 (c) This section shall apply to all individuals sentenced to imprisonment for violation of a
+11 suspended sentence or probationary period by reason of the alleged commission of a felony or
+12 misdemeanor and shall not alter the ability of the court to revoke a suspended sentence or
+13 probationary period for an allegation of conduct that does not rise to the level of criminal conduct.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC002326
+========
+LC002326 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION
+***
+1 This act would eliminate the "doubt" about culpability requirement and replace it with
+2 "unwilling" or "unable" to pursue charge(s) in cases for persons sentenced to imprisonment for
+3 violations of suspended sentence.
+4 This act would take effect upon passage.
+========
+LC002326
+========
+LC002326 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 t p ( s a t a s s ( f o b t ( d]
+[DELETED:  ( ( A c b a a o s a d b t g ( 1 ( s t a ( s m a s n a t a o t c t r a s s o p S]
+[DELETED:  T " v T]

@@ -1,0 +1,165 @@
+Title: RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Official Title: RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Number of Sections: 1
+Source: versions - 916
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0916
+========
+LC002614
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senator John P. Burke
+Date Introduced: March 27, 2025
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-28.2 of the General Laws entitled "Office of State Fire Marshal"
+2 is hereby amended by adding thereto the following section:
+3 23-28.2-31. Electric and hybrid motor vehicles identification stickers.
+4 (a) The office of state fire marshal ("the office") shall create a sticker to be affixed
+5 voluntarily by a registrant of an electric or hybrid motor vehicle powered in whole or in part by a
+6 high-voltage lithium-ion storage battery to any enclosure housing such a vehicle.
+7 (b) The office shall make the stickers available to registrants of electric or hybrid motor
+8 vehicles upon request, whether in person or through an online application process.
+9 (c) The office is authorized to establish an online application for registrants to request the
+10 sticker identified in subsection (a) of this section.
+11 (d) The office is authorized to promulgate rules and regulations to assist fire departments
+12 and fire districts that provide fire protection services in carrying out the objectives of this electrical
+13 fire safety program.
+14 SECTION 2. Chapter 31-3 of the General Laws entitled "Registration of Vehicles" is
+15 hereby amended by adding thereto the following section:
+16 31-3-130. Registration of electric and hybrid motor vehicles.
+17 (a) On or after January 1, 2026, any person who registers or renews a registration for an
+18 electric or hybrid motor vehicle powered in whole or in part by a high-voltage lithium-ion storage
+19 battery with the division of motor vehicles may elect to participate in a voluntary fire safety
+1 program by obtaining a sticker from the office of state fire marshal to affix to any enclosure housing
+2 a hybrid or electric motor vehicle.
+3 (b) The division of motor vehicles shall provide any person who registers or renews a
+4 registration for an electric or hybrid motor vehicle with written notice of the office of state fire
+5 marshal's electrical fire safety program and the opportunity to obtain a sticker to affix to any
+6 enclosure housing a hybrid or electric motor vehicle.
+7 (c) The division of motor vehicles shall maintain a list of hybrid and electric motor vehicles
+8 registered in the state and provide quarterly updates of registrations and vehicle descriptions to
+9 include year, make and model to the fire departments and fire districts within the state that provide
+10 fire protection services to be used for official purposes only. There shall be no registrant's names
+11 and other personal information transmitted.
+12 SECTION 3. Chapter 46-12.2 of the General Laws entitled "Rhode Island Infrastructure
+13 Bank" is hereby amended by adding thereto the following section:
+14 46-12.2-4.4. Funding for electric and hybrid motor vehicle fire safety program.
+15 The Rhode Island infrastructure bank is authorized to assist in funding, from the clean
+16 energy fund created pursuant to § 46-12.2-4.3, the efforts of the state fire marshal in carrying out
+17 the objectives of the electrical fire safety program at § 31-3-130 and § 23-28.2-31.
+18 SECTION 4. This act shall take effect on January 1, 2026.
+========
+LC002614
+========
+LC002614 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+***
+1 This act would create a voluntary program through which registrants of electric and hybrid
+2 motor vehicles can request stickers to affix to enclosures housing such vehicles to promote first
+3 responders' safety in relation to electrical fires. The act would also require that the division of motor
+4 vehicles maintain a list of electric and hybrid motor vehicle registrations and send quarterly lists of
+5 such registrations to the fire departments and fire districts within the state.
+6 This act would take effect on January 1, 2026.
+========
+LC002614
+========
+LC002614 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S i 2 ( T o o s f m ( o s c a s t b a v h ( v ( s ( a f S h 3 ( e b m]
+[DELETED:  p a ( r m e ( r i f a S B 4 T e t S]
+[DELETED:  T m r v s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0916
+========
+LC002614
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Introduced By: Senator John P. Burke
+Date Introduced: March 27, 2025
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-28.2 of the General Laws entitled "Office of State Fire Marshal"
+2 is hereby amended by adding thereto the following section:
+3 23-28.2-31. Electric and hybrid motor vehicles identification stickers.
+4 (a) The office of state fire marshal ("the office") shall create a sticker to be affixed
+5 voluntarily by a registrant of an electric or hybrid motor vehicle powered in whole or in part by a
+6 high-voltage lithium-ion storage battery to any enclosure housing such a vehicle.
+7 (b) The office shall make the stickers available to registrants of electric or hybrid motor
+8 vehicles upon request, whether in person or through an online application process.
+9 (c) The office is authorized to establish an online application for registrants to request the
+10 sticker identified in subsection (a) of this section.
+11 (d) The office is authorized to promulgate rules and regulations to assist fire departments
+12 and fire districts that provide fire protection services in carrying out the objectives of this electrical
+13 fire safety program.
+14 SECTION 2. Chapter 31-3 of the General Laws entitled "Registration of Vehicles" is
+15 hereby amended by adding thereto the following section:
+16 31-3-130. Registration of electric and hybrid motor vehicles.
+17 (a) On or after January 1, 2026, any person who registers or renews a registration for an
+18 electric or hybrid motor vehicle powered in whole or in part by a high-voltage lithium-ion storage
+19 battery with the division of motor vehicles may elect to participate in a voluntary fire safety
+
+1 program by obtaining a sticker from the office of state fire marshal to affix to any enclosure housing
+2 a hybrid or electric motor vehicle.
+3 (b) The division of motor vehicles shall provide any person who registers or renews a
+4 registration for an electric or hybrid motor vehicle with written notice of the office of state fire
+5 marshal's electrical fire safety program and the opportunity to obtain a sticker to affix to any
+6 enclosure housing a hybrid or electric motor vehicle.
+7 (c) The division of motor vehicles shall maintain a list of hybrid and electric motor vehicles
+8 registered in the state and provide quarterly updates of registrations and vehicle descriptions to
+9 include year, make and model to the fire departments and fire districts within the state that provide
+10 fire protection services to be used for official purposes only. There shall be no registrant's names
+11 and other personal information transmitted.
+12 SECTION 3. Chapter 46-12.2 of the General Laws entitled "Rhode Island Infrastructure
+13 Bank" is hereby amended by adding thereto the following section:
+14 46-12.2-4.4. Funding for electric and hybrid motor vehicle fire safety program.
+15 The Rhode Island infrastructure bank is authorized to assist in funding, from the clean
+16 energy fund created pursuant to § 46-12.2-4.3, the efforts of the state fire marshal in carrying out
+17 the objectives of the electrical fire safety program at § 31-3-130 and § 23-28.2-31.
+18 SECTION 4. This act shall take effect on January 1, 2026.
+========
+LC002614
+========
+LC002614 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+***
+1 This act would create a voluntary program through which registrants of electric and hybrid
+2 motor vehicles can request stickers to affix to enclosures housing such vehicles to promote first
+3 responders' safety in relation to electrical fires. The act would also require that the division of motor
+4 vehicles maintain a list of electric and hybrid motor vehicle registrations and send quarterly lists of
+5 such registrations to the fire departments and fire districts within the state.
+6 This act would take effect on January 1, 2026.
+========
+LC002614
+========
+LC002614 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S i 2 ( T o o s f m ( o s c a s t b a v h ( v ( s ( a f S h 3 ( e b m]
+[DELETED:  p a ( r m e ( r i f a S B 4 T e t S]
+[DELETED:  T m r v s T]

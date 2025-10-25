@@ -1,0 +1,390 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+Number of Sections: 1
+Source: versions - 5817
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5817
+========
+LC001577
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+AND INVESTMENT ACT
+Introduced By: Representatives McGaw, Edwards, Potter, Voas, Stewart, Morales,
+Batista, Handy, Boylan, and Furtado
+Date Introduced: February 28, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-28-1 and 39-28-2 of the General Laws in Chapter 39-28 entitled
+2 "Broadband Deployment and Investment Act" are hereby amended to read as follows:
+3 39-28-1. Findings.
+4 The Rhode Island general assembly finds that growth and enhancement of services using
+5 internet protocol technology provide Rhode Island consumers more choice in voice, data, and video
+6 services than at any other time. The proliferation of new technologies and applications and the
+7 growing number of providers developing and offering innovative services using internet protocol
+8 are due in large part to little barrier to investment, including freedom from state laws and
+9 regulations governing traditional telephone service, that these technologies have enjoyed in Rhode
+10 Island, as well as recognition that federal law is more uniform in its oversight of internet protocol-
+11 enabled services. The economic benefits, including consumer choice, new jobs, and significant
+12 capital investment, will be jeopardized and competition minimized by the imposition of traditional
+13 state entry, rate, and service-term regulation on voice over internet protocol service and internet
+14 protocol-enabled service. The general assembly finds that the broadband infrastructure which
+15 delivers Internet connectivity has become essential for the social, physical, and economic well-
+16 being of all Rhode Islanders. This infrastructure enables critical activities and services across
+17 numerous sectors that society depends upon including, but not limited to: food delivery, finding
+18 housing, providing healthcare, education, environmental monitoring, public safety, energy
+1 monitoring, financial services, operating businesses, and government services. The general
+2 assembly must ensure broadband services in Rhode Island are reliable, secure, affordable,
+3 accessible, and robust for all residents and businesses alike. In order to meet this objective,
+4 information must continue to be collected, analyzed, made publicly available, and used to plan and
+5 implement policies that effectively protect and seek to improve broadband service in Rhode Island,
+6 including creation of a broadband regulatory authority.
+7 39-28-2. Definitions.
+8 For the purpose of this chapter, the following terms shall have the following meanings:
+9 (1) “Voice over internet protocol service” or “VoIP service” means any service that:
+10 (i) Enables real-time, two-way voice communications that originate from or terminate at
+11 the user’s location in internet protocol or any successor protocol;
+12 (ii) Uses a broadband connection from the user’s location; and
+13 (iii) Permits users generally to receive calls that originate on the public switched telephone
+14 network and to terminate calls to the public switched telephone network.
+15 "Broadband" means high-speed Internet access that provides a continuous, reliable
+16 connection currently defined by the Federal Communications Commission (FCC). Broadband can
+17 be delivered through technologies such as optical fiber, coaxial cable, fixed wireless, satellite, or
+18 cellular networks.
+19 (2) “Internet protocol-enabled service” or “IP-enabled service” means any service,
+20 capability, functionality, or application provided, except that as provided in subsection (1), using
+21 internet protocol, or any successor protocol, that enables an end-user to send or receive a
+22 communication in internet protocol format or any successor format.
+23 "Internet" means a global network of interconnected computer systems and servers that
+24 communicate using Internet protocol (IP) or its successors, enabling the transmission of data, voice,
+25 video, and multimedia content. It supports a wide variety of services, including web browsing,
+26 email, file sharing, voice over Internet protocol (VoIP), streaming, messaging, and other digital
+27 communications and content access.
+28 SECTION 2. Sections 39-28-3, 39-28-4, 39-28-5 and 39-28-6 of the General Laws in
+29 Chapter 39-28 entitled "Broadband Deployment and Investment Act" are hereby repealed.
+30 39-28-3. Regulation.
+31 Notwithstanding any general or public law to the contrary, and with the exception of the
+32 provisions of § 39-28-4, no department, agency, commission, or political subdivision of Rhode
+33 Island shall enact, adopt, or enforce, either directly or indirectly, any law, rule, regulation,
+34 ordinance, standard, order, or other provision having the force or effect of law that regulates, or has
+LC001577 - Page 2 of 6
+1 the effect of regulating, the entry, rates, terms, or conditions of VoIP service or IP-enabled service.
+2 39-28-4. Unaffected fees.
+3 Nothing in this act shall be construed to affect, mandate, or prohibit the assessment of
+4 nondiscriminatory enhanced 911 fees, telecommunications relay service fees, or the
+5 telecommunications education access fund surcharge under § 39-1-61.
+6 39-28-5. Rights or obligations of carriers.
+7 Nothing in this act shall be construed to modify or affect the rights or obligations of any
+8 carrier pursuant to 47 U.S.C. § 251 or 47 U.S.C. § 252.
+9 39-28-6. Effect on tax obligations or authority.
+10 Nothing in this act shall be construed to modify or affect any tax obligations imposed by §
+11 44-13-4 or the authority of the department of revenue to enforce any such obligations.
+12 SECTION 3. Chapter 42-64 of the General Laws entitled "Rhode Island Commerce
+13 Corporation" is hereby amended by adding thereto the following section:
+14 42-64-43. Corporation requirements.
+15 The commerce corporation (“corporation”) shall implement the following requirements.
+16 (1) Data collection and mapping.
+17 (i) Each Internet service provider (ISP) providing service in Rhode Island shall submit
+18 information to the commerce corporation, in a form and manner prescribed by the corporation, to
+19 support the maintenance of a statewide broadband map, which shall include for each broadband
+20 serviceable location (BSL), by geographic area served by a provider in Rhode Island:
+21 (A) Maximum advertised download and upload speeds;
+22 (B) Type of transmission technology used to provide the service such as fiber, cable, DSL,
+23 satellite; and
+24 (C) The number of broadband connections and consumer subscriptions for each
+25 combination of advertised download and upload speeds and transmission technology.
+26 (ii) In consultation with other state agencies as deemed appropriate, the corporation shall
+27 develop and maintain an up-to-date broadband map that shows the availability and adoption of
+28 broadband services across the state. This map shall include data on download and upload speeds
+29 available to each BSL and shall be regularly updated to reflect changes in broadband service
+30 availability, technology, and consumer adoption. The corporation shall use credible and relevant
+31 data provided by broadband providers, state agencies, political subdivisions of the state, speed tests,
+32 and other third parties, including consumers, in the development and maintenance of the map.
+33 (iii) The corporation shall use the broadband map to identify underserved and unserved
+34 areas of the state and to facilitate planning and implementation of broadband programs and
+LC001577 - Page 3 of 6
+1 initiatives.
+2 (iv) The corporation shall use the data collected to provide guidance to broadband providers
+3 seeking to expand services in underserved and unserved areas and shall collaborate with state and
+4 local authorities to remove barriers to broadband infrastructure development.
+5 (v) All state agencies and political subdivisions of the state shall provide any information
+6 requested by the corporation to assist in the development and maintenance of the broadband map
+7 and other work authorized by this section.
+8 (2) With regard to confidentiality and protection of trade secrets, any information submitted
+9 by private parties may be submitted in aggregated form necessary to protect confidentiality, and
+10 shall be protected as required by the provisions of chapter 48.1 of title 6 (The Rhode Island data
+11 transparency and privacy protection act). Information claimed to be a “trade secret” by private
+12 parties shall meet requirements set forth in chapter 41 of title 6 (the uniform trade secrets act).
+13 (3) With regard to transparency, on or before December 1, 2025, and annually thereafter,
+14 the corporation shall update and publish the broadband map on its official website. The map shall
+15 be accessible to the public and include detailed information on broadband availability, speeds,
+16 transmission technology, and adoption rates across Rhode Island.
+17 (i) Internet service providers (“ISPs”) shall report to the Rhode Island commerce
+18 corporation within forty-eight (48) hours of the occurrence and keep a five (5) year record of service
+19 outages affecting one hundred (100) or more customers or lasting four (4) or more hours. These
+20 reports and records shall include: cause (if known), affected areas, number of customers, restoration
+21 time, mitigation, and consumer compensation.
+22 (ii) The corporation shall publish a summary of outage data annually on its website.
+23 (4) With regard to a regulatory plan, within one year from the effective date of this section,
+24 the corporation shall develop and submit a detailed plan to the governor and the general assembly
+25 regarding the creation of a broadband regulatory authority. The plan shall include, but not be limited
+26 to, the following components:
+27 (i) The mission, authority, and responsibilities of the regulatory agency, which shall include
+28 oversight of broadband planning, deployment, service quality, consumer protections, and equitable
+29 access;
+30 (ii) Recommendations for the organizational structure and staffing of the agency;
+31 (iii) A framework for collaboration between the corporation and other state, local, and
+32 federal entities involved in broadband expansion and regulation;
+33 (iv) Proposed funding mechanisms to support the agency’s operations and activities; and
+34 (v) A timeline for the establishment of the agency, including any legislative actions
+LC001577 - Page 4 of 6
+1 necessary for its formation.
+2 (5) With regard to funding, to fund the data collection and other activities required under
+3 this section, the corporation shall collect fees from ISPs operating in Rhode Island. The amount of
+4 the fee shall be determined by the corporation based on the total cost of administering this program.
+5 Each ISP shall pay a fee proportional to the revenue it generates from providing broadband services
+6 to customers in Rhode Island. Fees shall be due within sixty (60) days of notification by the
+7 corporation.
+8 (6) With regard to enforcement, failure to submit accurate or timely data or fees as required
+9 by this section shall be subject to penalties, including fines, determined by the corporation,
+10 suspension of participation in state grant programs, and restrictions on future projects supported by
+11 state funding.
+12 (7) The corporation shall promulgate rules and regulations as it deems necessary for the
+13 implementation of this section.
+14 (8) If any subsection or provision of this section shall be determined to be invalid or
+15 unconstitutional, the remaining provisions and subsections shall be deemed severable and shall
+16 remain in full force and effect.
+17 SECTION 4. This act shall take effect upon passage.
+========
+LC001577
+========
+LC001577 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+AND INVESTMENT ACT
+***
+1 This act would require the constant updating of information to accommodate changes in
+2 broadband technology. The act would also direct the Rhode Island commerce corporation to
+3 implement new data collection and mapping of broadband availability, provide protections for
+4 certain submitted data, and direct the corporation to collect fees from Internet service providers
+5 operating in Rhode Island to fund the data collection required by the act. The act would further
+6 require the corporation to submit a detailed plan to the governor and general assembly regarding
+7 the creation of a broadband regulatory authority.
+8 This act would take effect upon passage.
+========
+LC001577
+========
+LC001577 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND B R M E P V S M S " 3 T i s g a d i l p t l b t i i f f s l a r I e c s p s T g a f t t b i w d b n h p h e e m p s e]
+[DELETED:  m f s o b a g s T g a m e b s i R I a r s a a a r f a r a b a I o t m t o i i i 3 F ( ( t ( ( n " m h I a t p a c r c b c ( “ p s o “ s m a s c i p o a s p t e a e t s o r a c " c v e c S C 3 N p I s e a o e e d o i a l r r o]
+[DELETED:  t 3 N n e 9 f t r s f o t t 3 N c 3 N 4 S 3 C 4 o t G L e " I C C 4 T ( ( i s s ( ( s ( T n o b c a c s f e c ( d b a a d a ( a o t s a t f p a i o b p a]
+[DELETED:  i ( s l ( r a ( b s t p ( t b t ( I s p ( s r t t R I c c o r t ( ( t r t ( o a ( ( f ( ( A t f t e o t a i a l a]
+[DELETED:  n ( t t E t c ( b t s s b s t p i f d b t c s s ( i ( u r S]
+[DELETED:  T b t T a w a d t R I c c t i c o r t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5817
+========
+LC001577
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+AND INVESTMENT ACT
+Introduced By: Representatives McGaw, Edwards, Potter, Voas, Stewart, Morales,
+Batista, Handy, Boylan, and Furtado
+Date Introduced: February 28, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-28-1 and 39-28-2 of the General Laws in Chapter 39-28 entitled
+2 "Broadband Deployment and Investment Act" are hereby amended to read as follows:
+3 39-28-1. Findings.
+4 The Rhode Island general assembly finds that growth and enhancement of services using
+5 internet protocol technology provide Rhode Island consumers more choice in voice, data, and video
+6 services than at any other time. The proliferation of new technologies and applications and the
+7 growing number of providers developing and offering innovative services using internet protocol
+8 are due in large part to little barrier to investment, including freedom from state laws and
+9 regulations governing traditional telephone service, that these technologies have enjoyed in Rhode
+10 Island, as well as recognition that federal law is more uniform in its oversight of internet protocol-
+11 enabled services. The economic benefits, including consumer choice, new jobs, and significant
+12 capital investment, will be jeopardized and competition minimized by the imposition of traditional
+13 state entry, rate, and service-term regulation on voice over internet protocol service and internet
+14 protocol-enabled service. The general assembly finds that the broadband infrastructure which
+15 delivers Internet connectivity has become essential for the social, physical, and economic well-
+16 being of all Rhode Islanders. This infrastructure enables critical activities and services across
+17 numerous sectors that society depends upon including, but not limited to: food delivery, finding
+18 housing, providing healthcare, education, environmental monitoring, public safety, energy
+
+1 monitoring, financial services, operating businesses, and government services. The general
+2 assembly must ensure broadband services in Rhode Island are reliable, secure, affordable,
+3 accessible, and robust for all residents and businesses alike. In order to meet this objective,
+4 information must continue to be collected, analyzed, made publicly available, and used to plan and
+5 implement policies that effectively protect and seek to improve broadband service in Rhode Island,
+6 including creation of a broadband regulatory authority.
+7 39-28-2. Definitions.
+8 For the purpose of this chapter, the following terms shall have the following meanings:
+9 (1) “Voice over internet protocol service” or “VoIP service” means any service that:
+10 (i) Enables real-time, two-way voice communications that originate from or terminate at
+11 the user’s location in internet protocol or any successor protocol;
+12 (ii) Uses a broadband connection from the user’s location; and
+13 (iii) Permits users generally to receive calls that originate on the public switched telephone
+14 network and to terminate calls to the public switched telephone network.
+15 "Broadband" means high-speed Internet access that provides a continuous, reliable
+16 connection currently defined by the Federal Communications Commission (FCC). Broadband can
+17 be delivered through technologies such as optical fiber, coaxial cable, fixed wireless, satellite, or
+18 cellular networks.
+19 (2) “Internet protocol-enabled service” or “IP-enabled service” means any service,
+20 capability, functionality, or application provided, except that as provided in subsection (1), using
+21 internet protocol, or any successor protocol, that enables an end-user to send or receive a
+22 communication in internet protocol format or any successor format.
+23 "Internet" means a global network of interconnected computer systems and servers that
+24 communicate using Internet protocol (IP) or its successors, enabling the transmission of data, voice,
+25 video, and multimedia content. It supports a wide variety of services, including web browsing,
+26 email, file sharing, voice over Internet protocol (VoIP), streaming, messaging, and other digital
+27 communications and content access.
+28 SECTION 2. Sections 39-28-3, 39-28-4, 39-28-5 and 39-28-6 of the General Laws in
+29 Chapter 39-28 entitled "Broadband Deployment and Investment Act" are hereby repealed.
+30 39-28-3. Regulation.
+31 Notwithstanding any general or public law to the contrary, and with the exception of the
+32 provisions of § 39-28-4, no department, agency, commission, or political subdivision of Rhode
+33 Island shall enact, adopt, or enforce, either directly or indirectly, any law, rule, regulation,
+34 ordinance, standard, order, or other provision having the force or effect of law that regulates, or has
+LC001577 - Page 2 of 6
+
+1 the effect of regulating, the entry, rates, terms, or conditions of VoIP service or IP-enabled service.
+2 39-28-4. Unaffected fees.
+3 Nothing in this act shall be construed to affect, mandate, or prohibit the assessment of
+4 nondiscriminatory enhanced 911 fees, telecommunications relay service fees, or the
+5 telecommunications education access fund surcharge under § 39-1-61.
+6 39-28-5. Rights or obligations of carriers.
+7 Nothing in this act shall be construed to modify or affect the rights or obligations of any
+8 carrier pursuant to 47 U.S.C. § 251 or 47 U.S.C. § 252.
+9 39-28-6. Effect on tax obligations or authority.
+10 Nothing in this act shall be construed to modify or affect any tax obligations imposed by §
+11 44-13-4 or the authority of the department of revenue to enforce any such obligations.
+12 SECTION 3. Chapter 42-64 of the General Laws entitled "Rhode Island Commerce
+13 Corporation" is hereby amended by adding thereto the following section:
+14 42-64-43. Corporation requirements.
+15 The commerce corporation (“corporation”) shall implement the following requirements.
+16 (1) Data collection and mapping.
+17 (i) Each Internet service provider (ISP) providing service in Rhode Island shall submit
+18 information to the commerce corporation, in a form and manner prescribed by the corporation, to
+19 support the maintenance of a statewide broadband map, which shall include for each broadband
+20 serviceable location (BSL), by geographic area served by a provider in Rhode Island:
+21 (A) Maximum advertised download and upload speeds;
+22 (B) Type of transmission technology used to provide the service such as fiber, cable, DSL,
+23 satellite; and
+24 (C) The number of broadband connections and consumer subscriptions for each
+25 combination of advertised download and upload speeds and transmission technology.
+26 (ii) In consultation with other state agencies as deemed appropriate, the corporation shall
+27 develop and maintain an up-to-date broadband map that shows the availability and adoption of
+28 broadband services across the state. This map shall include data on download and upload speeds
+29 available to each BSL and shall be regularly updated to reflect changes in broadband service
+30 availability, technology, and consumer adoption. The corporation shall use credible and relevant
+31 data provided by broadband providers, state agencies, political subdivisions of the state, speed tests,
+32 and other third parties, including consumers, in the development and maintenance of the map.
+33 (iii) The corporation shall use the broadband map to identify underserved and unserved
+34 areas of the state and to facilitate planning and implementation of broadband programs and
+LC001577 - Page 3 of 6
+
+1 initiatives.
+2 (iv) The corporation shall use the data collected to provide guidance to broadband providers
+3 seeking to expand services in underserved and unserved areas and shall collaborate with state and
+4 local authorities to remove barriers to broadband infrastructure development.
+5 (v) All state agencies and political subdivisions of the state shall provide any information
+6 requested by the corporation to assist in the development and maintenance of the broadband map
+7 and other work authorized by this section.
+8 (2) With regard to confidentiality and protection of trade secrets, any information submitted
+9 by private parties may be submitted in aggregated form necessary to protect confidentiality, and
+10 shall be protected as required by the provisions of chapter 48.1 of title 6 (The Rhode Island data
+11 transparency and privacy protection act). Information claimed to be a “trade secret” by private
+12 parties shall meet requirements set forth in chapter 41 of title 6 (the uniform trade secrets act).
+13 (3) With regard to transparency, on or before December 1, 2025, and annually thereafter,
+14 the corporation shall update and publish the broadband map on its official website. The map shall
+15 be accessible to the public and include detailed information on broadband availability, speeds,
+16 transmission technology, and adoption rates across Rhode Island.
+17 (i) Internet service providers (“ISPs”) shall report to the Rhode Island commerce
+18 corporation within forty-eight (48) hours of the occurrence and keep a five (5) year record of service
+19 outages affecting one hundred (100) or more customers or lasting four (4) or more hours. These
+20 reports and records shall include: cause (if known), affected areas, number of customers, restoration
+21 time, mitigation, and consumer compensation.
+22 (ii) The corporation shall publish a summary of outage data annually on its website.
+23 (4) With regard to a regulatory plan, within one year from the effective date of this section,
+24 the corporation shall develop and submit a detailed plan to the governor and the general assembly
+25 regarding the creation of a broadband regulatory authority. The plan shall include, but not be limited
+26 to, the following components:
+27 (i) The mission, authority, and responsibilities of the regulatory agency, which shall include
+28 oversight of broadband planning, deployment, service quality, consumer protections, and equitable
+29 access;
+30 (ii) Recommendations for the organizational structure and staffing of the agency;
+31 (iii) A framework for collaboration between the corporation and other state, local, and
+32 federal entities involved in broadband expansion and regulation;
+33 (iv) Proposed funding mechanisms to support the agency’s operations and activities; and
+34 (v) A timeline for the establishment of the agency, including any legislative actions
+LC001577 - Page 4 of 6
+
+1 necessary for its formation.
+2 (5) With regard to funding, to fund the data collection and other activities required under
+3 this section, the corporation shall collect fees from ISPs operating in Rhode Island. The amount of
+4 the fee shall be determined by the corporation based on the total cost of administering this program.
+5 Each ISP shall pay a fee proportional to the revenue it generates from providing broadband services
+6 to customers in Rhode Island. Fees shall be due within sixty (60) days of notification by the
+7 corporation.
+8 (6) With regard to enforcement, failure to submit accurate or timely data or fees as required
+9 by this section shall be subject to penalties, including fines, determined by the corporation,
+10 suspension of participation in state grant programs, and restrictions on future projects supported by
+11 state funding.
+12 (7) The corporation shall promulgate rules and regulations as it deems necessary for the
+13 implementation of this section.
+14 (8) If any subsection or provision of this section shall be determined to be invalid or
+15 unconstitutional, the remaining provisions and subsections shall be deemed severable and shall
+16 remain in full force and effect.
+17 SECTION 4. This act shall take effect upon passage.
+========
+LC001577
+========
+LC001577 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+AND INVESTMENT ACT
+***
+1 This act would require the constant updating of information to accommodate changes in
+2 broadband technology. The act would also direct the Rhode Island commerce corporation to
+3 implement new data collection and mapping of broadband availability, provide protections for
+4 certain submitted data, and direct the corporation to collect fees from Internet service providers
+5 operating in Rhode Island to fund the data collection required by the act. The act would further
+6 require the corporation to submit a detailed plan to the governor and general assembly regarding
+7 the creation of a broadband regulatory authority.
+8 This act would take effect upon passage.
+========
+LC001577
+========
+LC001577 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND B R M E P V S M S " 3 T i s g a d i l p t l b t i i f f s l a r I e c s p s T g a f t t b i w d b n h p h e e m p s e]
+[DELETED:  m f s o b a g s T g a m e b s i R I a r s a a a r f a r a b a I o t m t o i i i 3 F ( ( t ( ( n " m h I a t p a c r c b c ( “ p s o “ s m a s c i p o a s p t e a e t s o r a c " c v e c S C 3 N p I s e a o e e d o i a l r r o]
+[DELETED:  t 3 N n e 9 f t r s f o t t 3 N c 3 N 4 S 3 C 4 o t G L e " I C C 4 T ( ( i s s ( ( s ( T n o b c a c s f e c ( d b a a d a ( a o t s a t f p a i o b p a]
+[DELETED:  i ( s l ( r a ( b s t p ( t b t ( I s p ( s r t t R I c c o r t ( ( t r t ( o a ( ( f ( ( A t f t e o t a i a l a]
+[DELETED:  n ( t t E t c ( b t s s b s t p i f d b t c s s ( i ( u r S]
+[DELETED:  T b t T a w a d t R I c c t i c o r t T]

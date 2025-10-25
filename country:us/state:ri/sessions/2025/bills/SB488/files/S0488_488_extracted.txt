@@ -1,0 +1,234 @@
+Title: RELATING TO HUMAN SERVICES -- RHODE ISLAND MEDICAID ELIGIBILITY
+Official Title: RELATING TO HUMAN SERVICES -- RHODE ISLAND MEDICAID ELIGIBILITY
+Number of Sections: 1
+Source: versions - 488
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0488
+========
+LC000288
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+DETERMINATION ACT
+Introduced By: Senators Bell, Ujifusa, Thompson, Quezada, Ciccone, Mack, Kallman,
+Burke, Euer, and Valverde
+Date Introduced: February 26, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 40 of the General Laws entitled "HUMAN SERVICES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 23
+4 RHODE ISLAND MEDICAID ELIGIBILITY DETERMINATION ACT
+5 40-23-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Medicaid Eligibility
+7 Determination Act."
+8 40-23-2. Definitions.
+9 For the purposes of this chapter, the following words and terms have the following
+10 meanings:
+11 (1) “Decision to terminate” shall mean the entire process of deciding to remove an
+12 individual from enrollment in Medicaid or request information from an individual when the failure
+13 to respond within a set timeframe will remove the individual from enrollment in Medicaid.
+14 (2) “Private entity data” means any data purchased from private entities or involving wage,
+15 address, or other eligibility-related data collected by a private entity, such as data reported by
+16 employers to a private entity.
+17 (3) "Public assistance reporting information system" or "PARIS" means a federal-state
+18 partnership that facilitates the sharing of data between states to identify individuals who may be
+1 receiving benefits in multiple states.
+2 (4) “Public data sources” means any data collected, maintained, or controlled by a state or
+3 federal government entity or agency, including, but not limited to, SWICA, PARIS, and other state-
+4 administered databases.
+5 (5) "State wage information collection agency date" or "SWICA data" means the data from
+6 the Rhode Island department of labor and training that collects wage and employment data for
+7 unemployment insurance purposes and provides data on individuals’ earnings.
+8 (6) “Terminate” shall mean to make a decision to terminate.
+9 (7) “Termination” shall mean a removal from Medicaid enrollment as a result of a decision
+10 to terminate.
+11 (8) “Termination decision” shall mean a decision of whether or not to terminate, including
+12 decisions to not terminate. It shall include a decision to request information from an individual
+13 when the failure to respond within a set timeframe will remove the individual from enrollment in
+14 Medicaid. In such a case, the decision to remove an individual who has not responded to such a
+15 request from enrollment in Medicaid shall not count as an additional termination decision, but a
+16 decision of whether or not to proceed with removing the individual from enrollment in Medicaid
+17 after they do respond in any manner shall count as an additional termination decision, even if the
+18 response is deemed insufficient.
+19 40-23-3. Eligibility determination based on state data only.
+20 (a) Eligibility criteria. The eligibility for Medicaid benefits in Rhode Island shall be
+21 determined exclusively by the use of the following state-controlled data sources:
+22 (1) SWICA data including, but not limited to, wage, employment, and earnings
+23 information.
+24 (2) PARIS data, including information about applicants who may be receiving benefits
+25 from other states.
+26 (3) Other state-maintained databases as determined by the Rhode Island executive office
+27 of health and human services.
+28 (b) Prohibition on private entity data. No private entity data may be used for any part of
+29 the Medicaid eligibility determination process, including post-eligibility verification. Any
+30 termination where private entity data was utilized for any part of the decision to terminate shall not
+31 be valid.
+32 (c) Retroactive reinstatement. Any individuals terminated from Medicaid utilizing private
+33 entity data prior to the effective date of this act shall be retroactively reinstated within ten (10) days
+34 of the effective date of this act, unless the executive office of health and human services determines
+LC000288 - Page 2 of 4
+1 that the decision to terminate was correct using only state data sources within the ten (10) days. If
+2 the decision to terminate is determined to be correct, terminated individuals shall have a right to
+3 appeal the termination to the executive office of health and human services and/or the superior
+4 court and shall receive written notice of their rights. The executive office of health and human
+5 services shall not impose a time limit on the right of appeal.
+6 (d) Ban on automated terminations. No termination from Medicaid shall be valid unless
+7 the decision to terminate was made by a human being employed by the executive office of health
+8 and human services or the department of human services. No terminations from Medicaid shall be
+9 valid if, on the day when the decision to terminate was made, the employee making the decision to
+10 terminate made more than fifty (50) termination decisions. No termination from Medicaid shall be
+11 valid if the decision to terminate was made by a computer program. If the decision to terminate was
+12 recommended by a computer program, the burden of proof shall fall on the state to demonstrate
+13 that the employee certifying the termination made a good faith effort to independently review the
+14 case.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC000288
+========
+LC000288 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND MEDICAID ELIGIBILITY
+DETERMINATION ACT
+***
+1 This bill would establish that Medicaid eligibility in Rhode Island can only be determined
+2 using state-controlled data, prohibit private entity data in eligibility decisions, and ensure
+3 terminations are made by human employees rather than automated systems. It would also mandate
+4 retroactive reinstatement for improperly terminated individuals
+5 This act would take effect upon passage.
+========
+LC000288
+========
+LC000288 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 4 T D 4 F t p o t c t f w a t h t f m ( “ t t s m t e p o d t r a i t ( a e ( p]
+[DELETED:  r ( f a ( t u ( ( t ( d w M r d a r 4 ( E c T e f M b i R I s b d ( S d i b n l t w e a e i ( f ( o ( t M e d p i p v A t b ( e o]
+[DELETED:  t t a c s ( t a v t v r t c S]
+[DELETED:  T u s d p p e d i e d a e t r T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0488
+========
+LC000288
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND MEDICAID ELIGIBILITY
+DETERMINATION ACT
+Introduced By: Senators Bell, Ujifusa, Thompson, Quezada, Ciccone, Mack, Kallman,
+Burke, Euer, and Valverde
+Date Introduced: February 26, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 40 of the General Laws entitled "HUMAN SERVICES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 23
+4 RHODE ISLAND MEDICAID ELIGIBILITY DETERMINATION ACT
+5 40-23-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Medicaid Eligibility
+7 Determination Act."
+8 40-23-2. Definitions.
+9 For the purposes of this chapter, the following words and terms have the following
+10 meanings:
+11 (1) “Decision to terminate” shall mean the entire process of deciding to remove an
+12 individual from enrollment in Medicaid or request information from an individual when the failure
+13 to respond within a set timeframe will remove the individual from enrollment in Medicaid.
+14 (2) “Private entity data” means any data purchased from private entities or involving wage,
+15 address, or other eligibility-related data collected by a private entity, such as data reported by
+16 employers to a private entity.
+17 (3) "Public assistance reporting information system" or "PARIS" means a federal-state
+18 partnership that facilitates the sharing of data between states to identify individuals who may be
+
+1 receiving benefits in multiple states.
+2 (4) “Public data sources” means any data collected, maintained, or controlled by a state or
+3 federal government entity or agency, including, but not limited to, SWICA, PARIS, and other state-
+4 administered databases.
+5 (5) "State wage information collection agency date" or "SWICA data" means the data from
+6 the Rhode Island department of labor and training that collects wage and employment data for
+7 unemployment insurance purposes and provides data on individuals’ earnings.
+8 (6) “Terminate” shall mean to make a decision to terminate.
+9 (7) “Termination” shall mean a removal from Medicaid enrollment as a result of a decision
+10 to terminate.
+11 (8) “Termination decision” shall mean a decision of whether or not to terminate, including
+12 decisions to not terminate. It shall include a decision to request information from an individual
+13 when the failure to respond within a set timeframe will remove the individual from enrollment in
+14 Medicaid. In such a case, the decision to remove an individual who has not responded to such a
+15 request from enrollment in Medicaid shall not count as an additional termination decision, but a
+16 decision of whether or not to proceed with removing the individual from enrollment in Medicaid
+17 after they do respond in any manner shall count as an additional termination decision, even if the
+18 response is deemed insufficient.
+19 40-23-3. Eligibility determination based on state data only.
+20 (a) Eligibility criteria. The eligibility for Medicaid benefits in Rhode Island shall be
+21 determined exclusively by the use of the following state-controlled data sources:
+22 (1) SWICA data including, but not limited to, wage, employment, and earnings
+23 information.
+24 (2) PARIS data, including information about applicants who may be receiving benefits
+25 from other states.
+26 (3) Other state-maintained databases as determined by the Rhode Island executive office
+27 of health and human services.
+28 (b) Prohibition on private entity data. No private entity data may be used for any part of
+29 the Medicaid eligibility determination process, including post-eligibility verification. Any
+30 termination where private entity data was utilized for any part of the decision to terminate shall not
+31 be valid.
+32 (c) Retroactive reinstatement. Any individuals terminated from Medicaid utilizing private
+33 entity data prior to the effective date of this act shall be retroactively reinstated within ten (10) days
+34 of the effective date of this act, unless the executive office of health and human services determines
+LC000288 - Page 2 of 4
+
+1 that the decision to terminate was correct using only state data sources within the ten (10) days. If
+2 the decision to terminate is determined to be correct, terminated individuals shall have a right to
+3 appeal the termination to the executive office of health and human services and/or the superior
+4 court and shall receive written notice of their rights. The executive office of health and human
+5 services shall not impose a time limit on the right of appeal.
+6 (d) Ban on automated terminations. No termination from Medicaid shall be valid unless
+7 the decision to terminate was made by a human being employed by the executive office of health
+8 and human services or the department of human services. No terminations from Medicaid shall be
+9 valid if, on the day when the decision to terminate was made, the employee making the decision to
+10 terminate made more than fifty (50) termination decisions. No termination from Medicaid shall be
+11 valid if the decision to terminate was made by a computer program. If the decision to terminate was
+12 recommended by a computer program, the burden of proof shall fall on the state to demonstrate
+13 that the employee certifying the termination made a good faith effort to independently review the
+14 case.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC000288
+========
+LC000288 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- RHODE ISLAND MEDICAID ELIGIBILITY
+DETERMINATION ACT
+***
+1 This bill would establish that Medicaid eligibility in Rhode Island can only be determined
+2 using state-controlled data, prohibit private entity data in eligibility decisions, and ensure
+3 terminations are made by human employees rather than automated systems. It would also mandate
+4 retroactive reinstatement for improperly terminated individuals
+5 This act would take effect upon passage.
+========
+LC000288
+========
+LC000288 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 4 T D 4 F t p o t c t f w a t h t f m ( “ t t s m t e p o d t r a i t ( a e ( p]
+[DELETED:  r ( f a ( t u ( ( t ( d w M r d a r 4 ( E c T e f M b i R I s b d ( S d i b n l t w e a e i ( f ( o ( t M e d p i p v A t b ( e o]
+[DELETED:  t t a c s ( t a v t v r t c S]
+[DELETED:  T u s d p p e d i e d a e t r T]

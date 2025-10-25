@@ -1,0 +1,952 @@
+Title: RELATING TO CRIMINAL OFFENSES -- THEFT, EMBEZZLEMENT, FALSE
+Official Title: RELATING TO CRIMINAL OFFENSES -- THEFT, EMBEZZLEMENT, FALSE
+Number of Sections: 1
+Source: versions - 545
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0545
+========
+LC000263
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+PRETENSES, AND MISAPPROPRIATION
+Introduced By: Senators Bell, Mack, Kallman, Quezada, Valverde, and Acosta
+Date Introduced: February 26, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 11-41-5, 11-41-6, 11-41-7, 11-41-20 and 11-41-28 of the General
+2 Laws in Chapter 11-41 entitled "Theft, Embezzlement, False Pretenses, and Misappropriation" are
+3 hereby amended to read as follows:
+4 11-41-5. Penalties for larceny.
+5 (a) Any person convicted of any offense under §§ 11-41-1 — 11-41-6, except § 11-41-3, §
+6 11-41-1, § 11-41-2, § 11-41-4, or § 11-41-20 shall be punished as follows, according to the value
+7 of the property or money stolen, received, embezzled, fraudulently appropriated, converted, or
+8 obtained, received, taken, or secreted by false pretenses or otherwise with intent to cheat, defraud,
+9 embezzle, or fraudulently convert:
+10 (1) If the value is less than or equal to twenty-five dollars ($25.00), the person shall be
+11 punished by up to twenty (20) hours of community service, as ordered by the court, or by a fine of
+12 not more than fifty dollars ($50.00);
+13 (2) If the value exceeds twenty-five dollars ($25.00), but is less than or equal to two
+14 hundred fifty dollars ($250), for a first offense under this chapter, the person shall be punished by
+15 up to twenty (20) hours of community service, as ordered by the court, or by a fine of not more
+16 than one hundred dollars ($100);
+17 (3) If the value exceeds twenty-five dollars ($25.00), but is less than or equal to two
+18 hundred fifty dollars ($250), for a second or subsequent offense under this chapter, the person shall
+1 be punished by imprisonment for not more than three (3) months or by a fine of not more than two
+2 hundred fifty dollars ($250);
+3 (4) If the value exceeds two hundred fifty dollars ($250), but is less than or equal to one
+4 thousand dollars ($1,000), for a first offense under this chapter, the person shall be punished by
+5 imprisonment for not more than three (3) months or by a fine of not more than two hundred fifty
+6 dollars ($250);
+7 (5) If the value exceeds two hundred fifty dollars ($250), but is less than or equal to one
+8 thousand dollars ($1,000), for a second or subsequent offense under this chapter, the person shall
+9 be punished by imprisonment for not more than six (6) months or by a fine of not more than two
+10 hundred fifty dollars ($250);
+11 (6) If the value exceeds one thousand dollars ($1000), but is less than or equal to one
+12 thousand five hundred dollars ($1,500), the person shall be punished by imprisonment for not more
+13 than three hundred sixty-four (364) days or by a fine of not more than five hundred dollars ($500);
+14 (1)(7) If the value exceeds one thousand five hundred dollars ($1,500), and is less than or
+15 equal to five thousand dollars ($5,000), the person shall be punished by imprisonment for not more
+16 than three (3) years or by a fine of not more than one thousand five hundred dollars ($1,500), or
+17 both;
+18 (2)(8) If the value exceeds five thousand dollars ($5,000), but is less than or equal to ten
+19 thousand dollars ($10,000), the person shall be punished by imprisonment for not more than six (6)
+20 years or by a fine of not more than three thousand dollars ($3,000), or both; and
+21 (3)(9) If the value exceeds ten thousand dollars ($10,000), or if the property is a firearm as
+22 defined in § 11-47-5.1, regardless of its value, the person shall be punished by imprisonment for
+23 not more than ten (10) years or by a fine of not more than five thousand dollars ($5,000), or both.
+24 If the value does not exceed one thousand five hundred dollars ($1,500), the person shall be
+25 punished by imprisonment for not more than one year, or by a fine of not more than five hundred
+26 dollars ($500), or both. Any person convicted of an offense under § 11-41-2 who shall be found to
+27 have knowingly obtained the property from a person under eighteen (18) years of age,
+28 notwithstanding the value of the property or money, shall be punished by imprisonment for not
+29 more than ten (10) years or by a fine of not more than five thousand dollars ($5,000), or both.
+30 (b) All monetary amounts with regard to the value of the item(s) stolen shall be increased
+31 annually to reflect the rate of median income growth as adjusted by the percentage of change in
+32 Rhode Island median household income. Any person convicted of an offense in violation of §§ 11-
+33 41-1 — 11-41-7, except § 11-41-3, that involves a victim who is a person sixty-five (65) years of
+34 age or older at the time of the offense and which involves property or money stolen, received,
+LC000263 - Page 2 of 14
+1 embezzled, fraudulently appropriated, converted, or obtained, received, taken, or secreted by false
+2 pretenses or otherwise with intent to cheat, defraud, embezzle, or fraudulently convert, with a value
+3 in excess of five hundred dollars ($500), shall be punished by imprisonment for not less than two
+4 (2) years but not more than fifteen (15) years or by a fine of not more than five thousand dollars
+5 ($5,000), or both. If the value of the property or money does not exceed five hundred dollars ($500),
+6 the person shall be punished by imprisonment for not less than one year but not more than five (5)
+7 years or by a fine of not more than three thousand dollars ($3,000), or both.
+8 (c) In addition to any other penalties pursuant to this section, an elected official or candidate
+9 for office convicted of violating § 11-41-1, § 11-41-2, § 11-41-3, or § 11-41-4 where the theft is a
+10 campaign account created, pursuant to title 17, for the benefit of the person so convicted, all
+11 restitution shall be deposited into the Rhode Island crime victim compensation program fund and
+12 not into the campaign account of that person convicted of the offense.
+13 (d) If a person is convicted of multiple offenses punished under this section for the same
+14 act, the penalties for only one of the offenses may be applied.
+15 11-41-6. Attempted larceny.
+16 Whoever attempts to commit larceny by doing any act toward the commission of the
+17 offense, but fails in its perpetration, shall, unless otherwise provided, suffer half the same
+18 punishment which might have been inflicted if the attempted offense had been committed.
+19 11-41-7. Larceny from the person.
+20 Every person who shall steal or attempt to steal from the person of another any money,
+21 goods, chattels, or other article enumerated in § 11-41-1, shall be punished according to § 11-41-5,
+22 with the maximum fine or maximum term of imprisonment or community service doubled. Every
+23 person who shall attempt to steal from the person of another any money, goods, chattels, or other
+24 article enumerated in § 11-41-1, shall be punished according to § 11-41-5 be imprisoned not less
+25 than one year nor more than ten (10) years.
+26 11-41-20. Shoplifting.
+27 (a) For the purpose of this section:
+28 (1) “Conceal” means to place merchandise in such a manner that it is not visible through
+29 ordinary observation.
+30 (2) “Full retail value” means the merchant’s stated price of the merchandise.
+31 (3) “Merchandise” means any items of tangible personal property offered for sale within a
+32 retail mercantile establishment.
+33 (4) “Merchant” means an owner or operator of any retail mercantile establishment or any
+34 agent, employee, lessee, officer, or director of the owner or operator.
+LC000263 - Page 3 of 14
+1 (5) “Premises of a retail mercantile establishment” includes the retail mercantile
+2 establishment, and common use areas in shopping centers, and all parking areas set aside by a
+3 merchant or on behalf of a merchant for the parking of vehicles for the convenience of the patrons
+4 of the retail mercantile establishment.
+5 (6) “Retail mercantile establishment” means any place where merchandise is displayed,
+6 held, stored or offered for sale to the public.
+7 (7) “Shopping cart” means those push carts of the type or types which are commonly
+8 provided by grocery stores, drug stores, or other retail mercantile establishments for the use of the
+9 public in transporting commodities on or from the premises of the retail mercantile establishment.
+10 (b) Whoever shall engage in the following shall be guilty of the crime of shoplifting:
+11 (1) Take possession of, carry away, transfer or cause to be carried away or transferred any
+12 merchandise displayed, held, stored, or offered for sale by a retail mercantile establishment with
+13 the intention of depriving the merchant of all or any part of the full retail value of the merchandise;
+14 (2) Alter, transfer, or remove a label, price tag, marking, indicia of value or any other
+15 markings which aid in determining value affixed to any merchandise displayed, held, stored or
+16 offered for sale in a retail mercantile establishment and attempt to purchase or purchase the
+17 merchandise personally or in consort with another at less than the full retail value with the intention
+18 of depriving the merchant of all or any part of the full retail value of such merchandise;
+19 (3) Transfer any merchandise displayed, held, stored or offered for sale in a retail
+20 mercantile establishment from one container to another in an attempt to purchase or purchase the
+21 merchandise personally or in consort with another at less than the full retail value with the intention
+22 of depriving the merchant of all or any part of the full retail value of the merchandise; or
+23 (4) Remove a shopping cart from the premises of a retail mercantile establishment without
+24 the consent of the merchant given at the time of the removal with the intention of depriving the
+25 merchant of the possession, use, or benefit of the cart.
+26 (c) The fact that a person conceals upon his person, among his or her belongings, or upon
+27 the person or among the belongings of another merchandise displayed, held, stored or offered for
+28 sale in a retail mercantile establishment, for which he or she has not paid the full retail value, and
+29 the merchandise has been taken beyond the area within the retail mercantile establishment where
+30 payment for it is to be made, shall be prima facie evidence that the person has possessed, carried
+31 away, or transferred the merchandise with the intention of depriving the merchant of all or part of
+32 the full retail value of the merchandise without paying the full retail value of the merchandise.
+33 (d) Any person convicted of the crime of shoplifting shall be guilty of a misdemeanor and
+34 shall be punished according to § 11-41-5 or civil restitution to the merchant under § 11-41-28 but
+LC000263 - Page 4 of 14
+1 not both. If a conviction under this section is punished by civil restitution to the merchant under §
+2 11-41-28, the person shall be only guilty of the civil offense of § 11-41-28 and shall not be deemed
+3 guilty of a criminal offense under this section for the same act. No person may be convicted of a
+4 criminal offense under this section for an act where the merchant has elected to pursue a civil action
+5 pursuant to § 11-41-28.by a fine of not less than fifty dollars ($50.00) or two times the full retail
+6 value of the merchandise, whichever is greater, but not more than five hundred dollars ($500), or
+7 by imprisonment for not more than one year, or both; provided, any person convicted of the crime
+8 of shoplifting merchandise with a retail value of over one hundred dollars ($100) who has
+9 previously been convicted of shoplifting shall be guilty of a felony and shall be punished by a fine
+10 of not more than five thousand dollars ($5,000), or by imprisonment of not more than five (5) years,
+11 or both.
+12 11-41-28. Civil restitution for shoplifting.
+13 (a) An adult or emancipated minor who commits or attempts to commit a larceny of goods
+14 for sale on the premises of a merchant as set forth in § 11-41-20 shall be civilly liable to the
+15 merchant in an amount consisting of:
+16 (1) Not more than the retail value of the merchandise if not recovered in merchantable
+17 condition; plus
+18 (2) A penalty of not more than one hundred dollars ($100); plus
+19 (3) Court costs.
+20 (b) A store employee shall be liable in a civil action for larceny of goods for sale on the
+21 premises of his or her merchant employer and for larceny of cash from the merchant. The civil
+22 liability to the merchant shall be in the amount consisting of:
+23 (1) Not more than the value of the goods or cash; plus
+24 (2) A penalty assessed of not more than one hundred dollars ($100); plus
+25 (3) Court costs.
+26 (c) A conviction or a plea of guilty to the offense of shoplifting is not a prerequisite to the
+27 shall bar the merchant from bringing of a civil suit, obtaining a judgment, or collecting that
+28 judgment under this section.
+29 (d) The fact that a merchant may bring action against an individual as provided in this
+30 section shall not limit the right of the merchant to demand, orally or in writing, that a person who
+31 is liable for damages and penalties under this section remit the damages prior to the consideration
+32 of the commencement of any legal action.
+33 (e) An action for recovery of damages and penalties under this section may be brought in
+34 any court of competent jurisdiction, including the small claims court of a district court, if the total
+LC000263 - Page 5 of 14
+1 damages do not exceed the jurisdictional limit of the small claims court.
+2 (f) The provisions of this section shall not be construed to prohibit or limit any other course
+3 of action permitted by law which a merchant may have against a person who unlawfully takes
+4 merchandise from the merchant’s premise.
+5 (g) If the person to whom a written demand is made complies with the demand within
+6 twenty (20) days after the receipt of the demand, that person shall be given a written release from
+7 further civil liability with respect to the specific act of retail theft; provided, that written demand
+8 shall not include penalties.
+9 SECTION 2. Sections 11-41-8, 11-41-9, 11-41-10, 11-41-14.1, 11-41-19, 11-41-20.1, 11-
+10 41-24, 11-41-25.1, 11-41-29, 11-41-30 and 11-41-33 of the General Laws in Chapter 11-41 entitled
+11 "Theft, Embezzlement, False Pretenses, and Misappropriation" are hereby repealed.
+12 11-41-8. Stealing of animals.
+13 Every person who shall steal or attempt to steal any horse or other domestic animal shall
+14 be punished by imprisonment for not more than one year or by a fine of not more than five hundred
+15 dollars ($500), or both; in case a fine is imposed, one-half (½) shall inure to the use of the
+16 complainant.
+17 11-41-9. Theft of poultry — Receiving stolen poultry.
+18 Every person who steals poultry from any building or enclosure in which poultry are kept
+19 or confined, or whoever shall receive poultry, knowing it to have been stolen, shall be punished by
+20 imprisonment for not more than one year or by fine of not more than five hundred dollars ($500),
+21 or by both. One-half (½) of any fine imposed under this section shall inure to the complainant.
+22 11-41-10. Robbing of fish nets and weirs.
+23 Every person who shall rob or draw any fishpot, weir, or net belonging to any other person
+24 shall be fined not exceeding twenty dollars ($20.00).
+25 11-41-14.1. Concealment of book or other property while on premises of library —
+26 Removal of book or other property from library.
+27 (a) Whoever, without authority, with the intention of converting to his or her own or
+28 another’s use, willfully conceals a book or other library property, while still on the premises of the
+29 library, or willfully or without authority removes any book or other library property from any of
+30 the libraries or collections set forth in § 11-44-15, shall be deemed guilty of larceny, and upon,
+31 conviction, shall be punished as provided by § 11-41-5 and shall be ordered to make restitution to
+32 the library in the full retail value of the books or library property.
+33 (b) Any person reasonably believed to have committed or to be committing the crime set
+34 forth in subsection (a) of this section shall be subject to detention by a police officer in accordance
+LC000263 - Page 6 of 14
+1 with § 12-7-1.
+2 (c) Any employee or agent of a library, eighteen (18) years of age or older, who observes
+3 any person willfully concealing or attempting to conceal books or other library property on his or
+4 her person or amongst his or her belongings or upon the person or amongst the belongings of
+5 another, and leaving the premises with the books or other library property without first having an
+6 employee or agent record the removal of the property, or injuring or destroying books and other
+7 library property as set forth in § 11-44-15, may stop the person. Immediately upon stopping the
+8 person the library employee shall identify himself or herself and state the reason for stopping the
+9 person. If after the initial confrontation with the person under suspicion, the library employee has
+10 reasonable grounds to believe that at the time stopped the person was committing or attempting to
+11 commit the crime of larceny as set forth in this section or the misdemeanor set forth in § 11-44-15,
+12 the employee or agent may detain the person for a time sufficient to summon a police officer to the
+13 library. In no case shall the detention be for a period of more than one-half (½) hour. The detention
+14 must be accomplished in a reasonable manner without unreasonable restraints or excessive force,
+15 and may take place only on the premises of the library where the alleged crime occurred. Library
+16 premises includes the interior of a building, structure, or other enclosure in which a library facility
+17 is located, the exterior appurtenances to any building, structure, or enclosure, and the land on which
+18 the building, structure, or other enclosure is located. Any person so stopped by an employee or
+19 agent of a library shall promptly identify himself or herself by name and address. Once placed
+20 under detention, no other information shall be required of the person and no written and/or signed
+21 statement shall be elicited from him or her until a police officer has taken him or her into custody.
+22 The employee or agent may however examine, for the purposes of ascertaining whether any book
+23 or other library property has been properly checked out by the person, the property which the
+24 employee has reasonable grounds to believe were unlawfully taken in violation of this chapter or
+25 injured or destroyed in violation of chapter 44 of title 11. Should the person detained refuse to
+26 surrender the item for examination, a limited and reasonable search may be conducted. Only
+27 packages, shopping bags, handbags, or other property in the immediate possession of the person
+28 detained, but not including any clothing worn by the person, may be searched.
+29 (d) For the purposes of this chapter, “reasonable grounds” includes knowledge that a person
+30 has concealed or injured a book or other library property while on the premises or is leaving the
+31 premises with the library property without having an employee of the library record the removal of
+32 the property from the premises.
+33 (e) In detaining a person whom the employee or agent of the library has reasonable grounds
+34 to believe is committing the crime of larceny set forth in this chapter or the misdemeanor set forth
+LC000263 - Page 7 of 14
+1 in chapter 44 of title 11, the employee or agent may use a reasonable amount of non-deadly force
+2 when and only when that force is necessary to protect himself or herself or to prevent the escape of
+3 the person being detained or the loss of his or her property.
+4 (f) In any civil action by a person detained under these sections against the library or
+5 employee or agent of the library so detaining him or her arising out of the detention, evidence that
+6 the defendant had reasonable grounds to believe that the plaintiff was at the time in question
+7 committing or attempting to commit the crime set forth in either section shall create a rebuttable
+8 presumption that the plaintiff was so committing or attempting to commit the crime.
+9 11-41-19. Refusal to return rental battery.
+10 Every person having in his or her possession any electric storage battery, the property of
+11 another, who neglects or refuses for a period of fourteen (14) days after demand for it shall have
+12 been made to deliver it to its owner, shall be guilty of a misdemeanor and shall be fined not more
+13 than twenty dollars ($20.00), and shall be liable to the owner in an action of the case for the value
+14 of the electric storage battery at the time it was delivered to the person. Demand for the return of
+15 an electric storage battery shall be made in writing and shall be served upon the person upon whom
+16 demand is made by leaving it in his or her hands and possession or by sending it to him or her,
+17 postage fully prepaid, by registered or certified mail, to the address given by him or her at the time
+18 he or she received the battery.
+19 11-41-20.1. Shoplifting — Use of implements in concealment.
+20 Whoever shall willfully take possession of any goods, wares, or merchandise offered for
+21 sale by any store or other mercantile establishment, or whoever shall willfully conceal upon his or
+22 her person, among his belongings, or upon the person or among the belongings of another
+23 unpurchased goods, wares, or merchandise of any store or other mercantile establishment either
+24 inside the store or other mercantile establishment or outside, but in its immediate vicinity, with the
+25 intention of converting it to his or her own use without paying the purchase price, with intention of
+26 depriving the owner of all or some part of the value, while wearing any article of clothing, or
+27 carrying any implement of any kind specifically designed or adapted for the purpose of concealing,
+28 carrying away, or otherwise unlawfully removing any merchandise from a store, knowing the
+29 clothing or implement to be designed or adapted for that purpose, with the intent to use or employ
+30 it or allow it be used or employed for an unlawful purpose, shall be guilty of a felony and shall be
+31 punished by a fine of not less than five hundred dollars ($500) nor more than five thousand dollars
+32 ($5,000) or by imprisonment for not more than five (5) years, or both.
+33 11-41-24. Habitual offender.
+34 Any person who shall be convicted three (3) times for the crime of shoplifting as defined
+LC000263 - Page 8 of 14
+1 in § 11-41-20 or larceny as defined in § 11-41-1 or receiving stolen goods as defined in § 11-41-2,
+2 or who shall have been convicted three (3) times of any combination of the crimes described in this
+3 section, shall also be charged as an habitual offender and, upon conviction, shall be fined not less
+4 than two hundred dollars ($200) nor more than five hundred dollars ($500) and shall be imprisoned
+5 not less than six (6) months nor more than one year.
+6 11-41-25.1. Theft of motor fuel.
+7 Every person who shall leave the premises of a retail motor fuel dealer without paying said
+8 dealer for fuel taken shall be guilty of larceny. Any person convicted of violating this section, and
+9 the retail value of the fuel taken was five hundred dollars ($500) or less, shall be punished by
+10 imprisonment for not more than one year or a fine of not more than five hundred dollars ($500) or
+11 both. Any person convicted of violating this section, and the retail value of the fuel taken exceeds
+12 five hundred dollars ($500), shall be punished by imprisonment for not more than ten (10) years or
+13 by a fine of not more than five thousand dollars ($5,000) or both.
+14 11-41-29. Insurance fraud — Prohibited activities.
+15 (a) When used in this section:
+16 (1) “Insurer” means, but is not limited to, an authorized insurer, self-insurer, re-insurer,
+17 broker, producer, or any agent of them.
+18 (2) “Larceny” means the crime of larceny established in this chapter and by common law,
+19 including the requirement of specific intent.
+20 (3) “Person” means any individual, partnership, association, firm, corporation, or any other
+21 legal entity.
+22 (4) “Statement” means, but is not limited to, any written notice, statement, proof of loss,
+23 bill of lading, receipt for payment, invoice, account, estimate of property damages, bills for
+24 services, diagnosis, prescription, hospital or doctor records, x-rays, test result or other evidence of
+25 loss, injury or expense.
+26 (b)(1) Every person who, with the intent to deceive, prepares or assists, abets, or solicits
+27 another to prepare or make any written statement that is intended to be presented to any insurer in
+28 connection with, or in support of, any application for the issuance of an insurance policy, knowing
+29 that the statement contains any false information material to the application, shall be guilty of a
+30 misdemeanor, and, upon conviction, shall be punished by a fine of not more than one thousand
+31 dollars ($1,000), or by imprisonment for a period of not more than one year, or both.
+32 (2) Every person who, with the intent to deceive, prepares or assists, abets, or solicits
+33 another to prepare or make any written statement, including computer-generated documents, that
+34 is intended to be presented to any insurer in connection with, or in support of, any claim for payment
+LC000263 - Page 9 of 14
+1 or other benefit pursuant to an insurance policy, knowing that the statement contains any false
+2 information material to the claim, shall be guilty of a misdemeanor, and, upon conviction, shall be
+3 punished by a fine of not more than one thousand dollars ($1,000), or by imprisonment for a period
+4 of not more than one year, or both.
+5 (3) Every person who, with the intent to deceive, presents or causes to be presented to any
+6 insurer any written statement, including computer-generated documents, as part of or in support of
+7 a claim for payment or other benefit pursuant to an insurance policy, knowing that the statement
+8 contains false information material to the claim, shall be deemed guilty of larceny.
+9 (4) Every person who, with the intent to deceive, presents or causes to be presented to any
+10 claimant any written statement, including computer-generated documents, as part of or in support
+11 of its contest of any claim for payment or other benefit pursuant to an insurance policy, knowing
+12 that the statement contains any false information material to the claim, shall be deemed guilty of
+13 larceny.
+14 11-41-30. Fraud as to health insurer.
+15 Every person who shall obtain health care services from a provider of those services by
+16 any false pretense or pretenses with intent to cheat or defraud a health care services insurer or a
+17 service corporation organized under chapters 18, 19, 20, 20.1, 20.2 or 41 of title 27 shall be deemed
+18 guilty of larceny.
+19 11-41-33. Larceny of farm products.
+20 (a) Definitions. As used in this section:
+21 (1) “Farm product” means goods used in a farming operation, including, but not limited to:
+22 (i) Crops grown, growing, or to be grown, including, but not limited to, crops produced on
+23 trees, vines, and bushes, aquatic goods produced in aquacultural operations, and horticultural and
+24 forestry products;
+25 (ii) Livestock, born or unborn, including aquatic goods produced in aquacultural
+26 operations;
+27 (iii) Supplies used or produced in a farming operation; or
+28 (iv) Products of crops or livestock in their unmanufactured states.
+29 (2) “Farming operation” means the commercial raising, cultivating, propagating, fattening,
+30 grazing, or any other farming, livestock, or aquacultural, horticultural or forestry operation,
+31 whereby the operation is eligible to be classified as a farm pursuant to the provisions of chapter 27
+32 of title 44.
+33 (3) “Value” means credible evidence that establishes the worth of the farm product on the
+34 day of the theft in comparison with a farm product of the same variety and weight.
+LC000263 - Page 10 of 14
+1 (b) It shall be unlawful for any person to steal a farm product that is the property of a
+2 farming operation, from the farm itself, or the place where the farm product is sold.
+3 (c) Any person found in violation of this section shall be guilty of a felony if the wholesale
+4 value of the farm product is two hundred and fifty dollars ($250) or more, and, upon conviction,
+5 shall be subject to imprisonment of not more than five (5) years, a fine of not more than five
+6 thousand dollars ($5,000), or both.
+7 (d) Any person found in violation of this section shall be guilty of a misdemeanor if the
+8 wholesale value of the farm product is less than two hundred and fifty dollars ($250) and, upon
+9 conviction, shall be subject to imprisonment of no more than one year, a fine of not more than one
+10 thousand dollars ($1,000), or both.
+11 SECTION 3. Section 40-6-8.1 of the General Laws in Chapter 40-6 entitled "Public
+12 Assistance Act" is hereby amended to read as follows:
+13 40-6-8.1. Prohibited uses of electronic benefit transfer cards.
+14 (a) The department shall adopt rules prohibiting purchases with cash assistance funds held
+15 on electronic benefit transfer cards in venues as described in this section.
+16 (b) The department is hereby empowered, and shall maintain policies and practices as
+17 necessary, to prohibit cash assistance provided under this chapter from being used in any electronic
+18 benefit transfer transaction at:
+19 The following establishments shall not be permitted to accept electronic benefit transfer
+20 cards or allow cash withdrawals from electronic benefit transfer cards on their premises:
+21 (1) Liquor stores (holding solely a retailers class A license);
+22 (2) Casinos or at facilities that conduct casino gaming as defined in chapter 61.2 of title 42;
+23 (3) Gambling facilities as defined by chapter 9 of title 41;
+24 (4) Retail establishments that provide adult-oriented entertainment in which performers
+25 disrobe or perform in an unclothed state for entertainment as defined in the Social Security Act, 42
+26 U.S.C. § 608(a).
+27 (c) Eligible recipients of direct-cash assistance, who use cash assistance funds held on
+28 electronic benefit transfer cards in such establishments, shall, for a first offense, have their cash
+29 assistance reduced for one month by the portion of the family’s benefit attributable to one parent,
+30 in accordance with rules and regulations promulgated by the department; for a second offense, have
+31 their cash assistance reduced for three (3) months by the portion of the family’s benefit attributable
+32 to one parent, in accordance with rules and regulations promulgated by the department; and for a
+33 third offense, shall be disqualified from the direct-cash assistance program for a period of one year.
+34 It shall be the responsibility of the establishment to prevent the usage of electronic benefit
+LC000263 - Page 11 of 14
+1 transfer cards. No recipient of cash assistance may be punished for utilizing an electronic benefit
+2 transfer card at an establishment listed in subsection (b) of this section.
+3 (d) A store owner who commits fraud against the department of human services by
+4 violating § 11-41-34, and who also possesses a license to sell alcoholic beverages under chapter 7
+5 of title 3, shall be referred to the appropriate licensing authority for possible disciplinary action
+6 pursuant to title 3.
+7 (e) A store owner who commits fraud against the department of human services by
+8 violating § 11-41-34, and who also possesses a license to sell lottery tickets under chapter 61 of
+9 title 42, shall be referred to the director of the state lottery for possible disciplinary action.
+10 (f) The operator of an automated teller machine (ATM) located on the premises of an
+11 establishment listed in subsection (b) of this section shall not permit withdrawals from electronic
+12 benefit transfer cards. An automated teller machine (ATM) operator that permits the withdrawal
+13 of funds from an automated teller machine (ATM) located on the premises of an establishment
+14 listed in subsection (b) of this section shall be civilly liable to the holder of the electronic benefit
+15 card for twice the amount of the withdrawal, plus one hundred dollars ($100), plus court costs.
+16 SECTION 4. Sections 40-6-15 and 40-6-16 of the General Laws in Chapter 40-6 entitled
+17 "Public Assistance Act" are hereby repealed.
+18 40-6-15. Fraudulently obtaining assistance.
+19 Any person who by any fraudulent device obtains, or attempts to obtain, or aids or abets
+20 any person to obtain, public assistance, pursuant to this chapter, to which he or she is not entitled,
+21 or who willfully fails to report income or resources as provided in this chapter, shall be guilty of
+22 larceny and, upon conviction thereof, shall be punished by imprisonment of not more than five (5)
+23 years or by a fine of not more than one thousand dollars ($1,000), or both, if the value of the public
+24 assistance to which he or she is not entitled shall exceed five hundred dollars ($500); or by
+25 imprisonment by less than one year or by a fine of not more than five hundred dollars ($500), or
+26 by both, if the value of the public assistance to which he or she is not entitled shall not exceed five
+27 hundred dollars ($500).
+28 40-6-16. Fraudulent use of food stamps.
+29 (a) Any person who by any fraudulent device obtains, or attempts to obtain, or aids or abets
+30 any person to obtain, food stamps issued pursuant to the Food Stamp Act of 1964, as amended, 7
+31 U.S.C. § 2011 et seq., shall be guilty of larceny, and upon conviction thereof, shall be punished by
+32 imprisonment of not more than five (5) years or by fine of not more than one thousand dollars
+33 ($1,000), or both, if the value of the food stamps to which one is not entitled shall exceed five
+34 hundred dollars ($500); or by imprisonment by less than one year or by a fine of not more than five
+LC000263 - Page 12 of 14
+1 hundred dollars ($500), or both, if the value of the food stamps to which one is not entitled, shall
+2 not exceed five hundred dollars ($500).
+3 (b) Upon conviction of the felony or misdemeanor, the individual shall be ineligible to
+4 participate in the food stamp program for not less than six (6) and not more than twenty-four (24)
+5 months, as determined by the court; provided, that the disqualification applies only to the individual
+6 so convicted and does not render the entire household ineligible for the program.
+7 SECTION 5. This act shall take effect upon passage.
+========
+LC000263
+========
+LC000263 - Page 13 of 14
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- THEFT, EMBEZZLEMENT, FALSE
+PRETENSES, AND MISAPPROPRIATION
+***
+1 This act would provide for tiered and reduced penalties for the offenses of larceny, and
+2 shoplifting. This act would further provide that the offense of shoplifting, under two hundred fifty
+3 dollars ($250), for a first offense, or under twenty-five dollars ($25.00), for a second or third
+4 offense, would no longer be classified as a misdemeanor. This act would also repeal the habitual
+5 offender mandatory minimum statute, certain specified larceny offenses, and would also repeal
+6 criminal offenses involving insurance fraud, health care fraud, fraud involving obtaining public
+7 assistance and fraudulent use of food stamps.
+8 This act would take effect upon passage.
+========
+LC000263
+========
+LC000263 - Page 14 of 14
+[DELETED: TATE  OF  RHODE  ISLAND S L h 1 ( 1 o o e ( p n ( h u t ( h]
+[DELETED:  b h ( t i d ( t b h ( t t ( e t b ( t y ( d n I p d h k o t p f a p u e ( y o a n m ( a R 4 a]
+[DELETED:  e p i ( ( t y ( f c r n ( a 1 W o b f i i p s u o p s h t s p 1 E g w p a t 1 ( ( o ( ( r ( a]
+[DELETED:  ( “ o a r m e i t r m e m o ( h ( p p ( ( m t ( m o f s i a r m e a a t p o p t m o ( T a m d h s o o f s i a r m m o ( t m ( t s t p a t ( s]
+[DELETED:  n 1 g c p v b o s m w a r v o o o h d ( w h p o o 1 ( f m ( c ( ( ( p l ( ( ( ( s b t m b o a c s o a o c t j ( s i o ( a]
+[DELETED:  d ( o m ( t f s S 4 " 1 E b d o b c a i i o ( s t u o c 1 E o i o 1 E s 1 R ( a l t c t ( f]
+[DELETED:  w ( a h a e l p p r c t l m a p i t a u s T o e i s p d ( h p t ( t]
+[DELETED:  i w t ( e t c p 1 E a b t o a d p h 1 W s h p a h b o u t p o a t b o a u i i d c c c i p ( 1 A]
+[DELETED:  i o s t n 1 E d t i b f b 1 ( ( b ( i ( l ( b o l r f p i a e o p d b f s l ( a c t m d ( a i]
+[DELETED:  o i p o ( i a c ( c o t l 1 E a s g 1 ( ( ( t f ( L b o u i a g p i a o ( ( ( g o a o f l o a h o f o w o ( d]
+[DELETED:  ( f ( v s t ( w c t S 3 S 4 o t G L i C 4 e " A 4 ( o ( n b T c ( ( ( ( d U ( e a i t t t I]
+[DELETED:  t t ( A s o w c f a t d o h s b v o p ( A s o w c f a t d o h s b v t ( e b o l c S " 4 A a o l y a w h o s i n e s f h d ( o b i b h 4 ( a U i ( h]
+[DELETED:  h n ( p m s S]
+[DELETED:  T s d o o c a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0545
+========
+LC000263
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- THEFT, EMBEZZLEMENT, FALSE
+PRETENSES, AND MISAPPROPRIATION
+Introduced By: Senators Bell, Mack, Kallman, Quezada, Valverde, and Acosta
+Date Introduced: February 26, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 11-41-5, 11-41-6, 11-41-7, 11-41-20 and 11-41-28 of the General
+2 Laws in Chapter 11-41 entitled "Theft, Embezzlement, False Pretenses, and Misappropriation" are
+3 hereby amended to read as follows:
+4 11-41-5. Penalties for larceny.
+5 (a) Any person convicted of any offense under §§ 11-41-1 — 11-41-6, except § 11-41-3, §
+6 11-41-1, § 11-41-2, § 11-41-4, or § 11-41-20 shall be punished as follows, according to the value
+7 of the property or money stolen, received, embezzled, fraudulently appropriated, converted, or
+8 obtained, received, taken, or secreted by false pretenses or otherwise with intent to cheat, defraud,
+9 embezzle, or fraudulently convert:
+10 (1) If the value is less than or equal to twenty-five dollars ($25.00), the person shall be
+11 punished by up to twenty (20) hours of community service, as ordered by the court, or by a fine of
+12 not more than fifty dollars ($50.00);
+13 (2) If the value exceeds twenty-five dollars ($25.00), but is less than or equal to two
+14 hundred fifty dollars ($250), for a first offense under this chapter, the person shall be punished by
+15 up to twenty (20) hours of community service, as ordered by the court, or by a fine of not more
+16 than one hundred dollars ($100);
+17 (3) If the value exceeds twenty-five dollars ($25.00), but is less than or equal to two
+18 hundred fifty dollars ($250), for a second or subsequent offense under this chapter, the person shall
+
+1 be punished by imprisonment for not more than three (3) months or by a fine of not more than two
+2 hundred fifty dollars ($250);
+3 (4) If the value exceeds two hundred fifty dollars ($250), but is less than or equal to one
+4 thousand dollars ($1,000), for a first offense under this chapter, the person shall be punished by
+5 imprisonment for not more than three (3) months or by a fine of not more than two hundred fifty
+6 dollars ($250);
+7 (5) If the value exceeds two hundred fifty dollars ($250), but is less than or equal to one
+8 thousand dollars ($1,000), for a second or subsequent offense under this chapter, the person shall
+9 be punished by imprisonment for not more than six (6) months or by a fine of not more than two
+10 hundred fifty dollars ($250);
+11 (6) If the value exceeds one thousand dollars ($1000), but is less than or equal to one
+12 thousand five hundred dollars ($1,500), the person shall be punished by imprisonment for not more
+13 than three hundred sixty-four (364) days or by a fine of not more than five hundred dollars ($500);
+14 (1)(7) If the value exceeds one thousand five hundred dollars ($1,500), and is less than or
+15 equal to five thousand dollars ($5,000), the person shall be punished by imprisonment for not more
+16 than three (3) years or by a fine of not more than one thousand five hundred dollars ($1,500), or
+17 both;
+18 (2)(8) If the value exceeds five thousand dollars ($5,000), but is less than or equal to ten
+19 thousand dollars ($10,000), the person shall be punished by imprisonment for not more than six (6)
+20 years or by a fine of not more than three thousand dollars ($3,000), or both; and
+21 (3)(9) If the value exceeds ten thousand dollars ($10,000), or if the property is a firearm as
+22 defined in § 11-47-5.1, regardless of its value, the person shall be punished by imprisonment for
+23 not more than ten (10) years or by a fine of not more than five thousand dollars ($5,000), or both.
+24 If the value does not exceed one thousand five hundred dollars ($1,500), the person shall be
+25 punished by imprisonment for not more than one year, or by a fine of not more than five hundred
+26 dollars ($500), or both. Any person convicted of an offense under § 11-41-2 who shall be found to
+27 have knowingly obtained the property from a person under eighteen (18) years of age,
+28 notwithstanding the value of the property or money, shall be punished by imprisonment for not
+29 more than ten (10) years or by a fine of not more than five thousand dollars ($5,000), or both.
+30 (b) All monetary amounts with regard to the value of the item(s) stolen shall be increased
+31 annually to reflect the rate of median income growth as adjusted by the percentage of change in
+32 Rhode Island median household income. Any person convicted of an offense in violation of §§ 11-
+33 41-1 — 11-41-7, except § 11-41-3, that involves a victim who is a person sixty-five (65) years of
+34 age or older at the time of the offense and which involves property or money stolen, received,
+LC000263 - Page 2 of 14
+
+1 embezzled, fraudulently appropriated, converted, or obtained, received, taken, or secreted by false
+2 pretenses or otherwise with intent to cheat, defraud, embezzle, or fraudulently convert, with a value
+3 in excess of five hundred dollars ($500), shall be punished by imprisonment for not less than two
+4 (2) years but not more than fifteen (15) years or by a fine of not more than five thousand dollars
+5 ($5,000), or both. If the value of the property or money does not exceed five hundred dollars ($500),
+6 the person shall be punished by imprisonment for not less than one year but not more than five (5)
+7 years or by a fine of not more than three thousand dollars ($3,000), or both.
+8 (c) In addition to any other penalties pursuant to this section, an elected official or candidate
+9 for office convicted of violating § 11-41-1, § 11-41-2, § 11-41-3, or § 11-41-4 where the theft is a
+10 campaign account created, pursuant to title 17, for the benefit of the person so convicted, all
+11 restitution shall be deposited into the Rhode Island crime victim compensation program fund and
+12 not into the campaign account of that person convicted of the offense.
+13 (d) If a person is convicted of multiple offenses punished under this section for the same
+14 act, the penalties for only one of the offenses may be applied.
+15 11-41-6. Attempted larceny.
+16 Whoever attempts to commit larceny by doing any act toward the commission of the
+17 offense, but fails in its perpetration, shall, unless otherwise provided, suffer half the same
+18 punishment which might have been inflicted if the attempted offense had been committed.
+19 11-41-7. Larceny from the person.
+20 Every person who shall steal or attempt to steal from the person of another any money,
+21 goods, chattels, or other article enumerated in § 11-41-1, shall be punished according to § 11-41-5,
+22 with the maximum fine or maximum term of imprisonment or community service doubled. Every
+23 person who shall attempt to steal from the person of another any money, goods, chattels, or other
+24 article enumerated in § 11-41-1, shall be punished according to § 11-41-5 be imprisoned not less
+25 than one year nor more than ten (10) years.
+26 11-41-20. Shoplifting.
+27 (a) For the purpose of this section:
+28 (1) “Conceal” means to place merchandise in such a manner that it is not visible through
+29 ordinary observation.
+30 (2) “Full retail value” means the merchant’s stated price of the merchandise.
+31 (3) “Merchandise” means any items of tangible personal property offered for sale within a
+32 retail mercantile establishment.
+33 (4) “Merchant” means an owner or operator of any retail mercantile establishment or any
+34 agent, employee, lessee, officer, or director of the owner or operator.
+LC000263 - Page 3 of 14
+
+1 (5) “Premises of a retail mercantile establishment” includes the retail mercantile
+2 establishment, and common use areas in shopping centers, and all parking areas set aside by a
+3 merchant or on behalf of a merchant for the parking of vehicles for the convenience of the patrons
+4 of the retail mercantile establishment.
+5 (6) “Retail mercantile establishment” means any place where merchandise is displayed,
+6 held, stored or offered for sale to the public.
+7 (7) “Shopping cart” means those push carts of the type or types which are commonly
+8 provided by grocery stores, drug stores, or other retail mercantile establishments for the use of the
+9 public in transporting commodities on or from the premises of the retail mercantile establishment.
+10 (b) Whoever shall engage in the following shall be guilty of the crime of shoplifting:
+11 (1) Take possession of, carry away, transfer or cause to be carried away or transferred any
+12 merchandise displayed, held, stored, or offered for sale by a retail mercantile establishment with
+13 the intention of depriving the merchant of all or any part of the full retail value of the merchandise;
+14 (2) Alter, transfer, or remove a label, price tag, marking, indicia of value or any other
+15 markings which aid in determining value affixed to any merchandise displayed, held, stored or
+16 offered for sale in a retail mercantile establishment and attempt to purchase or purchase the
+17 merchandise personally or in consort with another at less than the full retail value with the intention
+18 of depriving the merchant of all or any part of the full retail value of such merchandise;
+19 (3) Transfer any merchandise displayed, held, stored or offered for sale in a retail
+20 mercantile establishment from one container to another in an attempt to purchase or purchase the
+21 merchandise personally or in consort with another at less than the full retail value with the intention
+22 of depriving the merchant of all or any part of the full retail value of the merchandise; or
+23 (4) Remove a shopping cart from the premises of a retail mercantile establishment without
+24 the consent of the merchant given at the time of the removal with the intention of depriving the
+25 merchant of the possession, use, or benefit of the cart.
+26 (c) The fact that a person conceals upon his person, among his or her belongings, or upon
+27 the person or among the belongings of another merchandise displayed, held, stored or offered for
+28 sale in a retail mercantile establishment, for which he or she has not paid the full retail value, and
+29 the merchandise has been taken beyond the area within the retail mercantile establishment where
+30 payment for it is to be made, shall be prima facie evidence that the person has possessed, carried
+31 away, or transferred the merchandise with the intention of depriving the merchant of all or part of
+32 the full retail value of the merchandise without paying the full retail value of the merchandise.
+33 (d) Any person convicted of the crime of shoplifting shall be guilty of a misdemeanor and
+34 shall be punished according to § 11-41-5 or civil restitution to the merchant under § 11-41-28 but
+LC000263 - Page 4 of 14
+
+1 not both. If a conviction under this section is punished by civil restitution to the merchant under §
+2 11-41-28, the person shall be only guilty of the civil offense of § 11-41-28 and shall not be deemed
+3 guilty of a criminal offense under this section for the same act. No person may be convicted of a
+4 criminal offense under this section for an act where the merchant has elected to pursue a civil action
+5 pursuant to § 11-41-28.by a fine of not less than fifty dollars ($50.00) or two times the full retail
+6 value of the merchandise, whichever is greater, but not more than five hundred dollars ($500), or
+7 by imprisonment for not more than one year, or both; provided, any person convicted of the crime
+8 of shoplifting merchandise with a retail value of over one hundred dollars ($100) who has
+9 previously been convicted of shoplifting shall be guilty of a felony and shall be punished by a fine
+10 of not more than five thousand dollars ($5,000), or by imprisonment of not more than five (5) years,
+11 or both.
+12 11-41-28. Civil restitution for shoplifting.
+13 (a) An adult or emancipated minor who commits or attempts to commit a larceny of goods
+14 for sale on the premises of a merchant as set forth in § 11-41-20 shall be civilly liable to the
+15 merchant in an amount consisting of:
+16 (1) Not more than the retail value of the merchandise if not recovered in merchantable
+17 condition; plus
+18 (2) A penalty of not more than one hundred dollars ($100); plus
+19 (3) Court costs.
+20 (b) A store employee shall be liable in a civil action for larceny of goods for sale on the
+21 premises of his or her merchant employer and for larceny of cash from the merchant. The civil
+22 liability to the merchant shall be in the amount consisting of:
+23 (1) Not more than the value of the goods or cash; plus
+24 (2) A penalty assessed of not more than one hundred dollars ($100); plus
+25 (3) Court costs.
+26 (c) A conviction or a plea of guilty to the offense of shoplifting is not a prerequisite to the
+27 shall bar the merchant from bringing of a civil suit, obtaining a judgment, or collecting that
+28 judgment under this section.
+29 (d) The fact that a merchant may bring action against an individual as provided in this
+30 section shall not limit the right of the merchant to demand, orally or in writing, that a person who
+31 is liable for damages and penalties under this section remit the damages prior to the consideration
+32 of the commencement of any legal action.
+33 (e) An action for recovery of damages and penalties under this section may be brought in
+34 any court of competent jurisdiction, including the small claims court of a district court, if the total
+LC000263 - Page 5 of 14
+
+1 damages do not exceed the jurisdictional limit of the small claims court.
+2 (f) The provisions of this section shall not be construed to prohibit or limit any other course
+3 of action permitted by law which a merchant may have against a person who unlawfully takes
+4 merchandise from the merchant’s premise.
+5 (g) If the person to whom a written demand is made complies with the demand within
+6 twenty (20) days after the receipt of the demand, that person shall be given a written release from
+7 further civil liability with respect to the specific act of retail theft; provided, that written demand
+8 shall not include penalties.
+9 SECTION 2. Sections 11-41-8, 11-41-9, 11-41-10, 11-41-14.1, 11-41-19, 11-41-20.1, 11-
+10 41-24, 11-41-25.1, 11-41-29, 11-41-30 and 11-41-33 of the General Laws in Chapter 11-41 entitled
+11 "Theft, Embezzlement, False Pretenses, and Misappropriation" are hereby repealed.
+12 11-41-8. Stealing of animals.
+13 Every person who shall steal or attempt to steal any horse or other domestic animal shall
+14 be punished by imprisonment for not more than one year or by a fine of not more than five hundred
+15 dollars ($500), or both; in case a fine is imposed, one-half (½) shall inure to the use of the
+16 complainant.
+17 11-41-9. Theft of poultry — Receiving stolen poultry.
+18 Every person who steals poultry from any building or enclosure in which poultry are kept
+19 or confined, or whoever shall receive poultry, knowing it to have been stolen, shall be punished by
+20 imprisonment for not more than one year or by fine of not more than five hundred dollars ($500),
+21 or by both. One-half (½) of any fine imposed under this section shall inure to the complainant.
+22 11-41-10. Robbing of fish nets and weirs.
+23 Every person who shall rob or draw any fishpot, weir, or net belonging to any other person
+24 shall be fined not exceeding twenty dollars ($20.00).
+25 11-41-14.1. Concealment of book or other property while on premises of library —
+26 Removal of book or other property from library.
+27 (a) Whoever, without authority, with the intention of converting to his or her own or
+28 another’s use, willfully conceals a book or other library property, while still on the premises of the
+29 library, or willfully or without authority removes any book or other library property from any of
+30 the libraries or collections set forth in § 11-44-15, shall be deemed guilty of larceny, and upon,
+31 conviction, shall be punished as provided by § 11-41-5 and shall be ordered to make restitution to
+32 the library in the full retail value of the books or library property.
+33 (b) Any person reasonably believed to have committed or to be committing the crime set
+34 forth in subsection (a) of this section shall be subject to detention by a police officer in accordance
+LC000263 - Page 6 of 14
+
+1 with § 12-7-1.
+2 (c) Any employee or agent of a library, eighteen (18) years of age or older, who observes
+3 any person willfully concealing or attempting to conceal books or other library property on his or
+4 her person or amongst his or her belongings or upon the person or amongst the belongings of
+5 another, and leaving the premises with the books or other library property without first having an
+6 employee or agent record the removal of the property, or injuring or destroying books and other
+7 library property as set forth in § 11-44-15, may stop the person. Immediately upon stopping the
+8 person the library employee shall identify himself or herself and state the reason for stopping the
+9 person. If after the initial confrontation with the person under suspicion, the library employee has
+10 reasonable grounds to believe that at the time stopped the person was committing or attempting to
+11 commit the crime of larceny as set forth in this section or the misdemeanor set forth in § 11-44-15,
+12 the employee or agent may detain the person for a time sufficient to summon a police officer to the
+13 library. In no case shall the detention be for a period of more than one-half (½) hour. The detention
+14 must be accomplished in a reasonable manner without unreasonable restraints or excessive force,
+15 and may take place only on the premises of the library where the alleged crime occurred. Library
+16 premises includes the interior of a building, structure, or other enclosure in which a library facility
+17 is located, the exterior appurtenances to any building, structure, or enclosure, and the land on which
+18 the building, structure, or other enclosure is located. Any person so stopped by an employee or
+19 agent of a library shall promptly identify himself or herself by name and address. Once placed
+20 under detention, no other information shall be required of the person and no written and/or signed
+21 statement shall be elicited from him or her until a police officer has taken him or her into custody.
+22 The employee or agent may however examine, for the purposes of ascertaining whether any book
+23 or other library property has been properly checked out by the person, the property which the
+24 employee has reasonable grounds to believe were unlawfully taken in violation of this chapter or
+25 injured or destroyed in violation of chapter 44 of title 11. Should the person detained refuse to
+26 surrender the item for examination, a limited and reasonable search may be conducted. Only
+27 packages, shopping bags, handbags, or other property in the immediate possession of the person
+28 detained, but not including any clothing worn by the person, may be searched.
+29 (d) For the purposes of this chapter, “reasonable grounds” includes knowledge that a person
+30 has concealed or injured a book or other library property while on the premises or is leaving the
+31 premises with the library property without having an employee of the library record the removal of
+32 the property from the premises.
+33 (e) In detaining a person whom the employee or agent of the library has reasonable grounds
+34 to believe is committing the crime of larceny set forth in this chapter or the misdemeanor set forth
+LC000263 - Page 7 of 14
+
+1 in chapter 44 of title 11, the employee or agent may use a reasonable amount of non-deadly force
+2 when and only when that force is necessary to protect himself or herself or to prevent the escape of
+3 the person being detained or the loss of his or her property.
+4 (f) In any civil action by a person detained under these sections against the library or
+5 employee or agent of the library so detaining him or her arising out of the detention, evidence that
+6 the defendant had reasonable grounds to believe that the plaintiff was at the time in question
+7 committing or attempting to commit the crime set forth in either section shall create a rebuttable
+8 presumption that the plaintiff was so committing or attempting to commit the crime.
+9 11-41-19. Refusal to return rental battery.
+10 Every person having in his or her possession any electric storage battery, the property of
+11 another, who neglects or refuses for a period of fourteen (14) days after demand for it shall have
+12 been made to deliver it to its owner, shall be guilty of a misdemeanor and shall be fined not more
+13 than twenty dollars ($20.00), and shall be liable to the owner in an action of the case for the value
+14 of the electric storage battery at the time it was delivered to the person. Demand for the return of
+15 an electric storage battery shall be made in writing and shall be served upon the person upon whom
+16 demand is made by leaving it in his or her hands and possession or by sending it to him or her,
+17 postage fully prepaid, by registered or certified mail, to the address given by him or her at the time
+18 he or she received the battery.
+19 11-41-20.1. Shoplifting — Use of implements in concealment.
+20 Whoever shall willfully take possession of any goods, wares, or merchandise offered for
+21 sale by any store or other mercantile establishment, or whoever shall willfully conceal upon his or
+22 her person, among his belongings, or upon the person or among the belongings of another
+23 unpurchased goods, wares, or merchandise of any store or other mercantile establishment either
+24 inside the store or other mercantile establishment or outside, but in its immediate vicinity, with the
+25 intention of converting it to his or her own use without paying the purchase price, with intention of
+26 depriving the owner of all or some part of the value, while wearing any article of clothing, or
+27 carrying any implement of any kind specifically designed or adapted for the purpose of concealing,
+28 carrying away, or otherwise unlawfully removing any merchandise from a store, knowing the
+29 clothing or implement to be designed or adapted for that purpose, with the intent to use or employ
+30 it or allow it be used or employed for an unlawful purpose, shall be guilty of a felony and shall be
+31 punished by a fine of not less than five hundred dollars ($500) nor more than five thousand dollars
+32 ($5,000) or by imprisonment for not more than five (5) years, or both.
+33 11-41-24. Habitual offender.
+34 Any person who shall be convicted three (3) times for the crime of shoplifting as defined
+LC000263 - Page 8 of 14
+
+1 in § 11-41-20 or larceny as defined in § 11-41-1 or receiving stolen goods as defined in § 11-41-2,
+2 or who shall have been convicted three (3) times of any combination of the crimes described in this
+3 section, shall also be charged as an habitual offender and, upon conviction, shall be fined not less
+4 than two hundred dollars ($200) nor more than five hundred dollars ($500) and shall be imprisoned
+5 not less than six (6) months nor more than one year.
+6 11-41-25.1. Theft of motor fuel.
+7 Every person who shall leave the premises of a retail motor fuel dealer without paying said
+8 dealer for fuel taken shall be guilty of larceny. Any person convicted of violating this section, and
+9 the retail value of the fuel taken was five hundred dollars ($500) or less, shall be punished by
+10 imprisonment for not more than one year or a fine of not more than five hundred dollars ($500) or
+11 both. Any person convicted of violating this section, and the retail value of the fuel taken exceeds
+12 five hundred dollars ($500), shall be punished by imprisonment for not more than ten (10) years or
+13 by a fine of not more than five thousand dollars ($5,000) or both.
+14 11-41-29. Insurance fraud — Prohibited activities.
+15 (a) When used in this section:
+16 (1) “Insurer” means, but is not limited to, an authorized insurer, self-insurer, re-insurer,
+17 broker, producer, or any agent of them.
+18 (2) “Larceny” means the crime of larceny established in this chapter and by common law,
+19 including the requirement of specific intent.
+20 (3) “Person” means any individual, partnership, association, firm, corporation, or any other
+21 legal entity.
+22 (4) “Statement” means, but is not limited to, any written notice, statement, proof of loss,
+23 bill of lading, receipt for payment, invoice, account, estimate of property damages, bills for
+24 services, diagnosis, prescription, hospital or doctor records, x-rays, test result or other evidence of
+25 loss, injury or expense.
+26 (b)(1) Every person who, with the intent to deceive, prepares or assists, abets, or solicits
+27 another to prepare or make any written statement that is intended to be presented to any insurer in
+28 connection with, or in support of, any application for the issuance of an insurance policy, knowing
+29 that the statement contains any false information material to the application, shall be guilty of a
+30 misdemeanor, and, upon conviction, shall be punished by a fine of not more than one thousand
+31 dollars ($1,000), or by imprisonment for a period of not more than one year, or both.
+32 (2) Every person who, with the intent to deceive, prepares or assists, abets, or solicits
+33 another to prepare or make any written statement, including computer-generated documents, that
+34 is intended to be presented to any insurer in connection with, or in support of, any claim for payment
+LC000263 - Page 9 of 14
+
+1 or other benefit pursuant to an insurance policy, knowing that the statement contains any false
+2 information material to the claim, shall be guilty of a misdemeanor, and, upon conviction, shall be
+3 punished by a fine of not more than one thousand dollars ($1,000), or by imprisonment for a period
+4 of not more than one year, or both.
+5 (3) Every person who, with the intent to deceive, presents or causes to be presented to any
+6 insurer any written statement, including computer-generated documents, as part of or in support of
+7 a claim for payment or other benefit pursuant to an insurance policy, knowing that the statement
+8 contains false information material to the claim, shall be deemed guilty of larceny.
+9 (4) Every person who, with the intent to deceive, presents or causes to be presented to any
+10 claimant any written statement, including computer-generated documents, as part of or in support
+11 of its contest of any claim for payment or other benefit pursuant to an insurance policy, knowing
+12 that the statement contains any false information material to the claim, shall be deemed guilty of
+13 larceny.
+14 11-41-30. Fraud as to health insurer.
+15 Every person who shall obtain health care services from a provider of those services by
+16 any false pretense or pretenses with intent to cheat or defraud a health care services insurer or a
+17 service corporation organized under chapters 18, 19, 20, 20.1, 20.2 or 41 of title 27 shall be deemed
+18 guilty of larceny.
+19 11-41-33. Larceny of farm products.
+20 (a) Definitions. As used in this section:
+21 (1) “Farm product” means goods used in a farming operation, including, but not limited to:
+22 (i) Crops grown, growing, or to be grown, including, but not limited to, crops produced on
+23 trees, vines, and bushes, aquatic goods produced in aquacultural operations, and horticultural and
+24 forestry products;
+25 (ii) Livestock, born or unborn, including aquatic goods produced in aquacultural
+26 operations;
+27 (iii) Supplies used or produced in a farming operation; or
+28 (iv) Products of crops or livestock in their unmanufactured states.
+29 (2) “Farming operation” means the commercial raising, cultivating, propagating, fattening,
+30 grazing, or any other farming, livestock, or aquacultural, horticultural or forestry operation,
+31 whereby the operation is eligible to be classified as a farm pursuant to the provisions of chapter 27
+32 of title 44.
+33 (3) “Value” means credible evidence that establishes the worth of the farm product on the
+34 day of the theft in comparison with a farm product of the same variety and weight.
+LC000263 - Page 10 of 14
+
+1 (b) It shall be unlawful for any person to steal a farm product that is the property of a
+2 farming operation, from the farm itself, or the place where the farm product is sold.
+3 (c) Any person found in violation of this section shall be guilty of a felony if the wholesale
+4 value of the farm product is two hundred and fifty dollars ($250) or more, and, upon conviction,
+5 shall be subject to imprisonment of not more than five (5) years, a fine of not more than five
+6 thousand dollars ($5,000), or both.
+7 (d) Any person found in violation of this section shall be guilty of a misdemeanor if the
+8 wholesale value of the farm product is less than two hundred and fifty dollars ($250) and, upon
+9 conviction, shall be subject to imprisonment of no more than one year, a fine of not more than one
+10 thousand dollars ($1,000), or both.
+11 SECTION 3. Section 40-6-8.1 of the General Laws in Chapter 40-6 entitled "Public
+12 Assistance Act" is hereby amended to read as follows:
+13 40-6-8.1. Prohibited uses of electronic benefit transfer cards.
+14 (a) The department shall adopt rules prohibiting purchases with cash assistance funds held
+15 on electronic benefit transfer cards in venues as described in this section.
+16 (b) The department is hereby empowered, and shall maintain policies and practices as
+17 necessary, to prohibit cash assistance provided under this chapter from being used in any electronic
+18 benefit transfer transaction at:
+19 The following establishments shall not be permitted to accept electronic benefit transfer
+20 cards or allow cash withdrawals from electronic benefit transfer cards on their premises:
+21 (1) Liquor stores (holding solely a retailers class A license);
+22 (2) Casinos or at facilities that conduct casino gaming as defined in chapter 61.2 of title 42;
+23 (3) Gambling facilities as defined by chapter 9 of title 41;
+24 (4) Retail establishments that provide adult-oriented entertainment in which performers
+25 disrobe or perform in an unclothed state for entertainment as defined in the Social Security Act, 42
+26 U.S.C. § 608(a).
+27 (c) Eligible recipients of direct-cash assistance, who use cash assistance funds held on
+28 electronic benefit transfer cards in such establishments, shall, for a first offense, have their cash
+29 assistance reduced for one month by the portion of the family’s benefit attributable to one parent,
+30 in accordance with rules and regulations promulgated by the department; for a second offense, have
+31 their cash assistance reduced for three (3) months by the portion of the family’s benefit attributable
+32 to one parent, in accordance with rules and regulations promulgated by the department; and for a
+33 third offense, shall be disqualified from the direct-cash assistance program for a period of one year.
+34 It shall be the responsibility of the establishment to prevent the usage of electronic benefit
+LC000263 - Page 11 of 14
+
+1 transfer cards. No recipient of cash assistance may be punished for utilizing an electronic benefit
+2 transfer card at an establishment listed in subsection (b) of this section.
+3 (d) A store owner who commits fraud against the department of human services by
+4 violating § 11-41-34, and who also possesses a license to sell alcoholic beverages under chapter 7
+5 of title 3, shall be referred to the appropriate licensing authority for possible disciplinary action
+6 pursuant to title 3.
+7 (e) A store owner who commits fraud against the department of human services by
+8 violating § 11-41-34, and who also possesses a license to sell lottery tickets under chapter 61 of
+9 title 42, shall be referred to the director of the state lottery for possible disciplinary action.
+10 (f) The operator of an automated teller machine (ATM) located on the premises of an
+11 establishment listed in subsection (b) of this section shall not permit withdrawals from electronic
+12 benefit transfer cards. An automated teller machine (ATM) operator that permits the withdrawal
+13 of funds from an automated teller machine (ATM) located on the premises of an establishment
+14 listed in subsection (b) of this section shall be civilly liable to the holder of the electronic benefit
+15 card for twice the amount of the withdrawal, plus one hundred dollars ($100), plus court costs.
+16 SECTION 4. Sections 40-6-15 and 40-6-16 of the General Laws in Chapter 40-6 entitled
+17 "Public Assistance Act" are hereby repealed.
+18 40-6-15. Fraudulently obtaining assistance.
+19 Any person who by any fraudulent device obtains, or attempts to obtain, or aids or abets
+20 any person to obtain, public assistance, pursuant to this chapter, to which he or she is not entitled,
+21 or who willfully fails to report income or resources as provided in this chapter, shall be guilty of
+22 larceny and, upon conviction thereof, shall be punished by imprisonment of not more than five (5)
+23 years or by a fine of not more than one thousand dollars ($1,000), or both, if the value of the public
+24 assistance to which he or she is not entitled shall exceed five hundred dollars ($500); or by
+25 imprisonment by less than one year or by a fine of not more than five hundred dollars ($500), or
+26 by both, if the value of the public assistance to which he or she is not entitled shall not exceed five
+27 hundred dollars ($500).
+28 40-6-16. Fraudulent use of food stamps.
+29 (a) Any person who by any fraudulent device obtains, or attempts to obtain, or aids or abets
+30 any person to obtain, food stamps issued pursuant to the Food Stamp Act of 1964, as amended, 7
+31 U.S.C. § 2011 et seq., shall be guilty of larceny, and upon conviction thereof, shall be punished by
+32 imprisonment of not more than five (5) years or by fine of not more than one thousand dollars
+33 ($1,000), or both, if the value of the food stamps to which one is not entitled shall exceed five
+34 hundred dollars ($500); or by imprisonment by less than one year or by a fine of not more than five
+LC000263 - Page 12 of 14
+
+1 hundred dollars ($500), or both, if the value of the food stamps to which one is not entitled, shall
+2 not exceed five hundred dollars ($500).
+3 (b) Upon conviction of the felony or misdemeanor, the individual shall be ineligible to
+4 participate in the food stamp program for not less than six (6) and not more than twenty-four (24)
+5 months, as determined by the court; provided, that the disqualification applies only to the individual
+6 so convicted and does not render the entire household ineligible for the program.
+7 SECTION 5. This act shall take effect upon passage.
+========
+LC000263
+========
+LC000263 - Page 13 of 14
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- THEFT, EMBEZZLEMENT, FALSE
+PRETENSES, AND MISAPPROPRIATION
+***
+1 This act would provide for tiered and reduced penalties for the offenses of larceny, and
+2 shoplifting. This act would further provide that the offense of shoplifting, under two hundred fifty
+3 dollars ($250), for a first offense, or under twenty-five dollars ($25.00), for a second or third
+4 offense, would no longer be classified as a misdemeanor. This act would also repeal the habitual
+5 offender mandatory minimum statute, certain specified larceny offenses, and would also repeal
+6 criminal offenses involving insurance fraud, health care fraud, fraud involving obtaining public
+7 assistance and fraudulent use of food stamps.
+8 This act would take effect upon passage.
+========
+LC000263
+========
+LC000263 - Page 14 of 14
+
+[DELETED: TATE  OF  RHODE  ISLAND S L h 1 ( 1 o o e ( p n ( h u t ( h]
+[DELETED:  b h ( t i d ( t b h ( t t ( e t b ( t y ( d n I p d h k o t p f a p u e ( y o a n m ( a R 4 a]
+[DELETED:  e p i ( ( t y ( f c r n ( a 1 W o b f i i p s u o p s h t s p 1 E g w p a t 1 ( ( o ( ( r ( a]
+[DELETED:  ( “ o a r m e i t r m e m o ( h ( p p ( ( m t ( m o f s i a r m e a a t p o p t m o ( T a m d h s o o f s i a r m m o ( t m ( t s t p a t ( s]
+[DELETED:  n 1 g c p v b o s m w a r v o o o h d ( w h p o o 1 ( f m ( c ( ( ( p l ( ( ( ( s b t m b o a c s o a o c t j ( s i o ( a]
+[DELETED:  d ( o m ( t f s S 4 " 1 E b d o b c a i i o ( s t u o c 1 E o i o 1 E s 1 R ( a l t c t ( f]
+[DELETED:  w ( a h a e l p p r c t l m a p i t a u s T o e i s p d ( h p t ( t]
+[DELETED:  i w t ( e t c p 1 E a b t o a d p h 1 W s h p a h b o u t p o a t b o a u i i d c c c i p ( 1 A]
+[DELETED:  i o s t n 1 E d t i b f b 1 ( ( b ( i ( l ( b o l r f p i a e o p d b f s l ( a c t m d ( a i]
+[DELETED:  o i p o ( i a c ( c o t l 1 E a s g 1 ( ( ( t f ( L b o u i a g p i a o ( ( ( g o a o f l o a h o f o w o ( d]
+[DELETED:  ( f ( v s t ( w c t S 3 S 4 o t G L i C 4 e " A 4 ( o ( n b T c ( ( ( ( d U ( e a i t t t I]
+[DELETED:  t t ( A s o w c f a t d o h s b v o p ( A s o w c f a t d o h s b v t ( e b o l c S " 4 A a o l y a w h o s i n e s f h d ( o b i b h 4 ( a U i ( h]
+[DELETED:  h n ( p m s S]
+[DELETED:  T s d o o c a T]

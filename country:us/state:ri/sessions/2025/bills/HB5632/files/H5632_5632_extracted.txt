@@ -1,0 +1,299 @@
+Title: RELATING TO BUSINESSES AND PROFESSIONS -- THE PRESCRIPTION DRUG SALES
+Official Title: RELATING TO BUSINESSES AND PROFESSIONS -- THE PRESCRIPTION DRUG SALES
+Number of Sections: 1
+Source: versions - 5632
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5632
+========
+LC001930
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+REPRESENTATIVE DISCLOSURE ACT
+Introduced By: Representatives Potter, Kislak, Fogarty, McGaw, Donovan, Giraldo,
+Speakman, Cotter, Bennett, and Tanzi
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and declaration of purpose. The general assembly hereby
+2 finds and declares that:
+3 (1) Containing health care costs requires containing prescription drug costs. The costs of
+4 prescription drugs have been increasing dramatically. To contain prescription drug costs, it is
+5 essential to understand the drivers of those costs, including increases in prescriptions and changes
+6 in prescription patterns from low-cost to high-cost drugs.
+7 (2) Drug companies employ pharmaceutical sales representatives to increase sales by
+8 persuading prescribers to prescribe certain drugs. Sales representatives may provide education to
+9 the prescriber, but often also include inducements in the form of gifts and drug samples.
+10 (3) Drug sales representatives often have access to physician prescription tracking data.
+11 (4) The state has an interest in requiring disclosures and regulating the practice of drug
+12 sales representatives.
+13 SECTION 2. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+14 is hereby amended by adding thereto the following chapter:
+15 CHAPTER 19.3
+16 THE PRESCRIPTION DRUG SALES REPRESENTATIVE DISCLOSURE ACT
+17 5-19.3-1. Short title.
+18 This chapter shall be known and may be cited as "The Prescription Drug Sales
+1 Representative Disclosure Act".
+2 5-19.3-2. Definitions.
+3 As used in this chapter, the following words and terms shall have the following meanings:
+4 (1) "Department" means the department of business regulation.
+5 (2) "Director" means the director of the department of business regulation, or designee.
+6 (3) "Manufacturer" means a pharmaceutical, biological product, or medical device
+7 manufacturer or any other person who is engaged in the production, preparation, propagation,
+8 compounding, processing, marketing, or packaging of prescribed products. The term does not
+9 include a wholesale distributor, a retailer, or a pharmacist. The term also does not include a
+10 manufacturer whose only prescribed products are classified as Class I by the U.S. Food and Drug
+11 Administration, are exempt from pre-market notification under Section 510(k) of the federal Food,
+12 Drug and Cosmetic Act, and are sold over-the-counter without a prescription.
+13 (4) "Medical facility" means any freestanding emergency care facility, healthcare facility,
+14 physician or podiatry ambulatory-surgery center, or other similar entity licensed by the state.
+15 (5) "Pharmaceutical sales representative" means a person who markets prescription drugs
+16 to providers of health care licensed, certified or registered in this state, pharmacies or employees
+17 thereof, operators or employees of medical facilities or persons licensed or certified by the state.
+18 (6) "Prescription drug" means a drug as defined in 21 U.S.C. § 321.
+19 (7) "Provider of health care" means any person licensed in this state to administer or
+20 prescribe a prescription drug.
+21 5-19.3-3. Pharmaceutical manufacturer and sales representative registration,
+22 disclosure, and transparency report.
+23 (a) A manufacturer of a prescription drug shall provide to the department a list of each
+24 pharmaceutical sales representative who markets prescription drugs on behalf of the manufacturer
+25 to providers of health care in this state, pharmacies or employees thereof, or operators or employees
+26 of medical facilities or persons licensed in this state.
+27 (1) The manufacturer shall inform the department by any means acceptable to the
+28 department of a change in the manufacturer's list within sixty (60) days of the change. Failure to
+29 timely inform the department of a change may result in a penalty to be determined by the
+30 department.
+31 (2) The manufacturer shall refile or update the list annually.
+32 (b) The department shall provide electronic access to the most recent list provided by each
+33 manufacturer pursuant to subsection (a) of this section, to each provider of health care licensed,
+34 certified or registered in this state, operator of a pharmacy, and operator of a medical facility, or
+LC001930 - Page 2 of 5
+1 person licensed or certified under the provisions of title 5 for the purposes of ensuring compliance
+2 with the requirements of subsection (c) of this section. The department shall also provide electronic
+3 access to the information to the department of health and public access via the department's website.
+4 This subsection shall not be construed to impose any duty on a provider of health care, operator of
+5 a pharmacy, or operator of a medical facility or person licensed or certified under the provisions of
+6 title 5 to ensure such compliance.
+7 (c) A person who is not included on a current list submitted pursuant to subsection (a) of
+8 this section, shall not market prescription drugs on behalf of a manufacturer to any provider of
+9 health care licensed, certified or registered in this state, pharmacy or employee thereof, operator or
+10 employee of a medical facility or person licensed or certified under the provisions of title 5.
+11 (d) On or before March 1 of each year, each person who was included on a list of
+12 pharmaceutical sales representatives submitted pursuant to subsection (a) of this section, at any
+13 time during the immediately preceding calendar year shall submit to the department a report, which
+14 shall include, for the immediately preceding calendar year:
+15 (1) A list of providers of health care, pharmacies and employees thereof, and operators and
+16 employees of medical facilities and persons licensed or certified under the provisions of title 5 to
+17 whom the pharmaceutical sales representative provided:
+18 (i) Any type of compensation, gift, or thing of value, with a value that exceeds one hundred
+19 dollars ($100); or
+20 (ii) Total compensation, gift, or thing of value, with a value that exceeds two hundred fifty
+21 dollars ($250) in the aggregate; and
+22 (2) The name and manufacturer of each prescription drug for which the pharmaceutical
+23 sales representative provided a free sample to a provider of health care licensed, certified or
+24 registered in this state, pharmacy or employee thereof, or operator or employee of a medical facility
+25 or person licensed or certified under the provisions of title 5.
+26 (e) The department shall analyze annually the information submitted pursuant to subsection
+27 (d) of this section, and compile a report on the activities of pharmaceutical sales representatives in
+28 this state. On or before June 1 of each year, the department shall:
+29 (1) Post the report on the website maintained by the department; and
+30 (2) Submit the report to the governor, the director of the department of health, the
+31 commissioner of the office of health insurance, and to the speaker of the house and the senate
+32 president.
+33 5-19.3-4. Fees and penalties.
+34 (a) A fee in the amount of fifty-five dollars ($55.00) annually shall be charged by the
+LC001930 - Page 3 of 5
+1 director from each manufacturer, per each pharmaceutical sales representative listed by the
+2 manufacturer. All revenue collected pursuant to this chapter shall be deposited as restricted receipts
+3 available to the department as described in § 42-14-9.
+4 (b) The attorney general may bring an action in superior court, Providence county for
+5 injunctive relief, costs, and attorneys' fees, and to impose on a manufacturer that fails to provide
+6 the information required by this chapter a civil penalty of no more than ten thousand dollars
+7 ($10,000) per violation. Each unlawful failure to provide information shall constitute a separate
+8 violation. In any action brought pursuant to this section, the attorney general shall have the same
+9 authority to investigate and to obtain remedies as if the action were brought under chapter 13.1 of
+10 title 6 ("deceptive trade practices").
+11 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001930
+========
+LC001930 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRESCRIPTION DRUG SALES
+REPRESENTATIVE DISCLOSURE ACT
+***
+1 This act would require prescription drug manufacturers to file a detailed, updated list of
+2 each pharmaceutical sales representative engaged by the manufacturer and to pay an annual fee for
+3 each name listed with the department of business regulation. Failure to comply would result in civil
+4 penalties.
+5 This act would take effect on January 1, 2026.
+========
+LC001930
+========
+LC001930 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND B R P K F M D G S f ( p e i ( D c e p s r t i s b p t ( ( s S i C T 5 T c s b k a m b c a " P D S]
+[DELETED:  R 5 A ( ( ( " m a p b p o m d m c d i w d a r o p a d n a m A D ( p ( t t ( ( p 5 P m a s r r d ( p t o ( T m s i t d b a m a t t d t i t d o a c m r i a p t b d b t d ( ( m c]
+[DELETED:  p w a T a t ( t h e ( O o b M 1 o e y e p w w i o a l o p t s ( e w ( d ( d ( s r p a f s a p o c c r o ( ( t ( ( S t r t t g t d o t d o h t c p 5 (]
+[DELETED:  d f e m p e p s r l b t m a ( i t ( v a t S]
+[DELETED:  T e e p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5632
+========
+LC001930
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRESCRIPTION DRUG SALES
+REPRESENTATIVE DISCLOSURE ACT
+Introduced By: Representatives Potter, Kislak, Fogarty, McGaw, Donovan, Giraldo,
+Speakman, Cotter, Bennett, and Tanzi
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and declaration of purpose. The general assembly hereby
+2 finds and declares that:
+3 (1) Containing health care costs requires containing prescription drug costs. The costs of
+4 prescription drugs have been increasing dramatically. To contain prescription drug costs, it is
+5 essential to understand the drivers of those costs, including increases in prescriptions and changes
+6 in prescription patterns from low-cost to high-cost drugs.
+7 (2) Drug companies employ pharmaceutical sales representatives to increase sales by
+8 persuading prescribers to prescribe certain drugs. Sales representatives may provide education to
+9 the prescriber, but often also include inducements in the form of gifts and drug samples.
+10 (3) Drug sales representatives often have access to physician prescription tracking data.
+11 (4) The state has an interest in requiring disclosures and regulating the practice of drug
+12 sales representatives.
+13 SECTION 2. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+14 is hereby amended by adding thereto the following chapter:
+15 CHAPTER 19.3
+16 THE PRESCRIPTION DRUG SALES REPRESENTATIVE DISCLOSURE ACT
+17 5-19.3-1. Short title.
+18 This chapter shall be known and may be cited as "The Prescription Drug Sales
+
+1 Representative Disclosure Act".
+2 5-19.3-2. Definitions.
+3 As used in this chapter, the following words and terms shall have the following meanings:
+4 (1) "Department" means the department of business regulation.
+5 (2) "Director" means the director of the department of business regulation, or designee.
+6 (3) "Manufacturer" means a pharmaceutical, biological product, or medical device
+7 manufacturer or any other person who is engaged in the production, preparation, propagation,
+8 compounding, processing, marketing, or packaging of prescribed products. The term does not
+9 include a wholesale distributor, a retailer, or a pharmacist. The term also does not include a
+10 manufacturer whose only prescribed products are classified as Class I by the U.S. Food and Drug
+11 Administration, are exempt from pre-market notification under Section 510(k) of the federal Food,
+12 Drug and Cosmetic Act, and are sold over-the-counter without a prescription.
+13 (4) "Medical facility" means any freestanding emergency care facility, healthcare facility,
+14 physician or podiatry ambulatory-surgery center, or other similar entity licensed by the state.
+15 (5) "Pharmaceutical sales representative" means a person who markets prescription drugs
+16 to providers of health care licensed, certified or registered in this state, pharmacies or employees
+17 thereof, operators or employees of medical facilities or persons licensed or certified by the state.
+18 (6) "Prescription drug" means a drug as defined in 21 U.S.C. § 321.
+19 (7) "Provider of health care" means any person licensed in this state to administer or
+20 prescribe a prescription drug.
+21 5-19.3-3. Pharmaceutical manufacturer and sales representative registration,
+22 disclosure, and transparency report.
+23 (a) A manufacturer of a prescription drug shall provide to the department a list of each
+24 pharmaceutical sales representative who markets prescription drugs on behalf of the manufacturer
+25 to providers of health care in this state, pharmacies or employees thereof, or operators or employees
+26 of medical facilities or persons licensed in this state.
+27 (1) The manufacturer shall inform the department by any means acceptable to the
+28 department of a change in the manufacturer's list within sixty (60) days of the change. Failure to
+29 timely inform the department of a change may result in a penalty to be determined by the
+30 department.
+31 (2) The manufacturer shall refile or update the list annually.
+32 (b) The department shall provide electronic access to the most recent list provided by each
+33 manufacturer pursuant to subsection (a) of this section, to each provider of health care licensed,
+34 certified or registered in this state, operator of a pharmacy, and operator of a medical facility, or
+LC001930 - Page 2 of 5
+
+1 person licensed or certified under the provisions of title 5 for the purposes of ensuring compliance
+2 with the requirements of subsection (c) of this section. The department shall also provide electronic
+3 access to the information to the department of health and public access via the department's website.
+4 This subsection shall not be construed to impose any duty on a provider of health care, operator of
+5 a pharmacy, or operator of a medical facility or person licensed or certified under the provisions of
+6 title 5 to ensure such compliance.
+7 (c) A person who is not included on a current list submitted pursuant to subsection (a) of
+8 this section, shall not market prescription drugs on behalf of a manufacturer to any provider of
+9 health care licensed, certified or registered in this state, pharmacy or employee thereof, operator or
+10 employee of a medical facility or person licensed or certified under the provisions of title 5.
+11 (d) On or before March 1 of each year, each person who was included on a list of
+12 pharmaceutical sales representatives submitted pursuant to subsection (a) of this section, at any
+13 time during the immediately preceding calendar year shall submit to the department a report, which
+14 shall include, for the immediately preceding calendar year:
+15 (1) A list of providers of health care, pharmacies and employees thereof, and operators and
+16 employees of medical facilities and persons licensed or certified under the provisions of title 5 to
+17 whom the pharmaceutical sales representative provided:
+18 (i) Any type of compensation, gift, or thing of value, with a value that exceeds one hundred
+19 dollars ($100); or
+20 (ii) Total compensation, gift, or thing of value, with a value that exceeds two hundred fifty
+21 dollars ($250) in the aggregate; and
+22 (2) The name and manufacturer of each prescription drug for which the pharmaceutical
+23 sales representative provided a free sample to a provider of health care licensed, certified or
+24 registered in this state, pharmacy or employee thereof, or operator or employee of a medical facility
+25 or person licensed or certified under the provisions of title 5.
+26 (e) The department shall analyze annually the information submitted pursuant to subsection
+27 (d) of this section, and compile a report on the activities of pharmaceutical sales representatives in
+28 this state. On or before June 1 of each year, the department shall:
+29 (1) Post the report on the website maintained by the department; and
+30 (2) Submit the report to the governor, the director of the department of health, the
+31 commissioner of the office of health insurance, and to the speaker of the house and the senate
+32 president.
+33 5-19.3-4. Fees and penalties.
+34 (a) A fee in the amount of fifty-five dollars ($55.00) annually shall be charged by the
+LC001930 - Page 3 of 5
+
+1 director from each manufacturer, per each pharmaceutical sales representative listed by the
+2 manufacturer. All revenue collected pursuant to this chapter shall be deposited as restricted receipts
+3 available to the department as described in § 42-14-9.
+4 (b) The attorney general may bring an action in superior court, Providence county for
+5 injunctive relief, costs, and attorneys' fees, and to impose on a manufacturer that fails to provide
+6 the information required by this chapter a civil penalty of no more than ten thousand dollars
+7 ($10,000) per violation. Each unlawful failure to provide information shall constitute a separate
+8 violation. In any action brought pursuant to this section, the attorney general shall have the same
+9 authority to investigate and to obtain remedies as if the action were brought under chapter 13.1 of
+10 title 6 ("deceptive trade practices").
+11 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001930
+========
+LC001930 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRESCRIPTION DRUG SALES
+REPRESENTATIVE DISCLOSURE ACT
+***
+1 This act would require prescription drug manufacturers to file a detailed, updated list of
+2 each pharmaceutical sales representative engaged by the manufacturer and to pay an annual fee for
+3 each name listed with the department of business regulation. Failure to comply would result in civil
+4 penalties.
+5 This act would take effect on January 1, 2026.
+========
+LC001930
+========
+LC001930 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND B R P K F M D G S f ( p e i ( D c e p s r t i s b p t ( ( s S i C T 5 T c s b k a m b c a " P D S]
+[DELETED:  R 5 A ( ( ( " m a p b p o m d m c d i w d a r o p a d n a m A D ( p ( t t ( ( p 5 P m a s r r d ( p t o ( T m s i t d b a m a t t d t i t d o a c m r i a p t b d b t d ( ( m c]
+[DELETED:  p w a T a t ( t h e ( O o b M 1 o e y e p w w i o a l o p t s ( e w ( d ( d ( s r p a f s a p o c c r o ( ( t ( ( S t r t t g t d o t d o h t c p 5 (]
+[DELETED:  d f e m p e p s r l b t m a ( i t ( v a t S]
+[DELETED:  T e e p T]

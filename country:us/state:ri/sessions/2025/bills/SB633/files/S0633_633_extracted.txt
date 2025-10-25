@@ -1,0 +1,171 @@
+Title: Introduced By: Senators Valverde, DiMario, Thompson, Ujifusa, Gallo, and Murray
+Official Title: Introduced By: Senators Valverde, DiMario, Thompson, Ujifusa, Gallo, and Murray
+Number of Sections: 1
+Source: versions - 633
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0633
+========
+LC000607
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' TENURE
+Date Introduced: March 07, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-13 of the General Laws entitled "Teachers’ Tenure" is hereby
+2 amended by adding thereto the following section:
+3 16-13-10. Termination for cause -- Noncredentialled employees -- List maintained.
+4 (a) Whenever a noncredentialled employee’s employment with a school is terminated for
+5 good and just cause by a principal, superintendent, school committee or other governing body of a
+6 public school, a private school, a school district, a charter public school, or a mayoral academy
+7 (hereinafter collectively referred to as a “school”), the school’s governing body shall, within sixty
+8 (60) days of the termination, or in cases where the termination is appealed, within sixty (60) days
+9 after the conclusion of the appeal filed by the terminated noncredentialled employee, and the
+10 termination is upheld, furnish the Rhode Island department of elementary and secondary education
+11 (the “department”) with the identity of the terminated noncredentialled employee and the good and
+12 just cause for the termination. Provided, this section shall not apply to:
+13 (1) The nonrenewal of a contract of a noncredentialled employee pursuant to § 16-13-2; or
+14 (2) The termination of a noncredentialled employee due to fiscal exigency or program
+15 reorganization.
+16 (b) The department shall maintain a list of those noncredentialled employees who have
+17 been terminated for good and just cause as well as the good and just cause for the termination (the
+18 “list”), and shall update the list monthly to include any additional names and cause submitted
+19 pursuant to the provisions of this section. The department shall establish a tracking system for
+1 reporting these names and causes, as well as to provide access to these names and causes, to hiring
+2 authorities. This list shall be accessible only to the hiring authority of any private, parochial, charter,
+3 or public school or school district.
+4 (c) The list shall not be a public record pursuant to chapter 2 of title 38 ("access to public
+5 records"). This section shall not abrogate or modify any existing statutory or common law
+6 privileges or immunities.
+7 (d) As used herein, the term “noncredentialled employee” means any person working
+8 within or for a school whose employment with the school does not require an educational license
+9 or certificate issued by the department. The following persons are excluded from the definition of
+10 a “noncredentialled employee” if those persons are working within or for a school using any of the
+11 licenses listed herein:
+12 (1) A teacher as defined in §16-13-1;
+13 (2) An athletic coach as described in chapter 11.1 of title 16 (“athletic coaches”);
+14 (3) A teaching assistant as defined in §16-11.2-1;
+15 (4) A superintendent, assistant superintendent, or equivalent similar position, as defined in
+16 §16-2-10;
+17 (5) An administrator including, but not limited to, a principal, vice principal, or similar
+18 building-level administrator as defined in §16-12.1-2; and
+19 (6) Any other person who is employed in or for a school in a position that requires
+20 possession of a certificate or license issued by the department.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC000607
+========
+LC000607 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' TENURE
+***
+1 This act would require that the names of any noncredentialled school employees who are
+2 terminated for good and just cause, be furnished to the Rhode Island department of elementary and
+3 secondary education. The department would maintain a list of the names and the good cause for
+4 the termination. This list would not be a public document, but would be available to hiring
+5 authorities of schools and school districts.
+6 This act would take effect upon passage.
+========
+LC000607
+========
+LC000607 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( g p ( ( a a t ( j ( ( r ( b “ p]
+[DELETED:  r a o ( r T s s n a o m a e s o c l p ( m w o a l ( ( ( ( § ( b ( A o p w i e i o f a s i a p t r p S]
+[DELETED:  T t s t t T l w n b a p d b w b a t h a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0633
+========
+LC000607
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' TENURE
+Introduced By: Senators Valverde, DiMario, Thompson, Ujifusa, Gallo, and Murray
+Date Introduced: March 07, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-13 of the General Laws entitled "Teachers’ Tenure" is hereby
+2 amended by adding thereto the following section:
+3 16-13-10. Termination for cause -- Noncredentialled employees -- List maintained.
+4 (a) Whenever a noncredentialled employee’s employment with a school is terminated for
+5 good and just cause by a principal, superintendent, school committee or other governing body of a
+6 public school, a private school, a school district, a charter public school, or a mayoral academy
+7 (hereinafter collectively referred to as a “school”), the school’s governing body shall, within sixty
+8 (60) days of the termination, or in cases where the termination is appealed, within sixty (60) days
+9 after the conclusion of the appeal filed by the terminated noncredentialled employee, and the
+10 termination is upheld, furnish the Rhode Island department of elementary and secondary education
+11 (the “department”) with the identity of the terminated noncredentialled employee and the good and
+12 just cause for the termination. Provided, this section shall not apply to:
+13 (1) The nonrenewal of a contract of a noncredentialled employee pursuant to § 16-13-2; or
+14 (2) The termination of a noncredentialled employee due to fiscal exigency or program
+15 reorganization.
+16 (b) The department shall maintain a list of those noncredentialled employees who have
+17 been terminated for good and just cause as well as the good and just cause for the termination (the
+18 “list”), and shall update the list monthly to include any additional names and cause submitted
+19 pursuant to the provisions of this section. The department shall establish a tracking system for
+
+1 reporting these names and causes, as well as to provide access to these names and causes, to hiring
+2 authorities. This list shall be accessible only to the hiring authority of any private, parochial, charter,
+3 or public school or school district.
+4 (c) The list shall not be a public record pursuant to chapter 2 of title 38 ("access to public
+5 records"). This section shall not abrogate or modify any existing statutory or common law
+6 privileges or immunities.
+7 (d) As used herein, the term “noncredentialled employee” means any person working
+8 within or for a school whose employment with the school does not require an educational license
+9 or certificate issued by the department. The following persons are excluded from the definition of
+10 a “noncredentialled employee” if those persons are working within or for a school using any of the
+11 licenses listed herein:
+12 (1) A teacher as defined in §16-13-1;
+13 (2) An athletic coach as described in chapter 11.1 of title 16 (“athletic coaches”);
+14 (3) A teaching assistant as defined in §16-11.2-1;
+15 (4) A superintendent, assistant superintendent, or equivalent similar position, as defined in
+16 §16-2-10;
+17 (5) An administrator including, but not limited to, a principal, vice principal, or similar
+18 building-level administrator as defined in §16-12.1-2; and
+19 (6) Any other person who is employed in or for a school in a position that requires
+20 possession of a certificate or license issued by the department.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC000607
+========
+LC000607 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' TENURE
+***
+1 This act would require that the names of any noncredentialled school employees who are
+2 terminated for good and just cause, be furnished to the Rhode Island department of elementary and
+3 secondary education. The department would maintain a list of the names and the good cause for
+4 the termination. This list would not be a public document, but would be available to hiring
+5 authorities of schools and school districts.
+6 This act would take effect upon passage.
+========
+LC000607
+========
+LC000607 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S a 1 ( g p ( ( a a t ( j ( ( r ( b “ p]
+[DELETED:  r a o ( r T s s n a o m a e s o c l p ( m w o a l ( ( ( ( § ( b ( A o p w i e i o f a s i a p t r p S]
+[DELETED:  T t s t t T l w n b a p d b w b a t h a T]

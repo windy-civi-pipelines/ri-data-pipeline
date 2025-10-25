@@ -1,0 +1,313 @@
+Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Official Title: RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Number of Sections: 1
+Source: versions - 18
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0018
+========
+LC000776
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Gu, Sosnowski, Kallman, Mack, Zurier, and Urso
+Date Introduced: January 23, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-1-27.7.1 of the General Laws in Chapter 39-1 entitled "Public
+2 Utilities Commission" is hereby amended to read as follows:
+3 39-1-27.7.1. Revenue decoupling.
+4 (a) The general assembly finds and declares that electricity and gas revenues shall be fully
+5 decoupled from sales pursuant to the provisions of this chapter and further finds and declares that
+6 any decoupling proposal submitted by an electric distribution company as defined in § 39-1-
+7 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+8 than one hundred thousand (100,000) customers, shall be for the following purposes:
+9 (1) Increasing efficiency in the operations and management of the electric and gas
+10 distribution system;
+11 (2) Achieving the goals established in the electric distribution company’s plan for system
+12 reliability and energy efficiency and conservation procurement as required pursuant to § 39-1-
+13 27.7(d);
+14 (3) Increasing investment in least-cost resources that will reduce long-term electricity
+15 demand;
+16 (4) Reducing risks for both customers and the distribution company including, but not
+17 limited to, societal risks, weather risks, and economic risks;
+18 (5) Increasing investment in end-use energy efficiency;
+19 (6) Eliminating disincentives to support energy-efficiency programs;
+1 (7) Facilitating and encouraging investment in utility infrastructure, safety, and reliability;
+2 and
+3 (8) Considering the reduction of fixed, recurring customer charges and transition to
+4 increased unit charges that more accurately reflect the long-term costs of energy production and
+5 delivery.
+6 (b)(1) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+7 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+8 (100,000) customers shall file proposals at the commission to implement the policy set forth in
+9 subsection (a) of this section. The commission shall approve these proposals, provided they contain
+10 the features and components set forth in subsection (c) of this section, and that they are consistent
+11 with the intent and objectives contained in subsection (a) of this section. Actions taken by the
+12 commission in the exercise of its ratemaking authority for electric and gas rate cases shall be within
+13 the norm of industry standards and recognize the need to maintain the financial health of the
+14 distribution company as a stand-alone entity in Rhode Island.
+15 (2) Provided, effective July 1, 2025, the profit margin of any public utility company that is
+16 an electric distribution company or gas distribution company, as further defined in § 39-1-2, shall
+17 not have a profit margin greater than or exceeding four percent (4%), in any given calendar year.
+18 The public utilities commission shall amend its rules and regulations as needed, consistent with the
+19 provisions of this chapter. As used herein, a "profit margin" shall refer to the return on equity,
+20 which shall be the return on the equity portion of the base rate, that is allowed by the commission.
+21 (c) The proposals shall contain the following features and components:
+22 (1) A revenue decoupling reconciliation mechanism that reconciles annually the revenue
+23 requirement allowed in the company’s base distribution-rate case to revenues actually received for
+24 the applicable twelve-month (12) period. Any revenues over-recovered or under-recovered shall be
+25 credited to, or recovered from, customers, as applicable; and
+26 (2) An annual infrastructure, safety, and reliability spending plan for each fiscal year and
+27 an annual rate-reconciliation mechanism that includes a reconcilable allowance for the anticipated
+28 capital investments and other spending pursuant to the annual pre-approved budget as developed
+29 in accordance with subsection (d) of this section.
+30 (d) Prior to the beginning of each fiscal year, gas and electric distribution companies shall
+31 consult with the division of public utilities and carriers regarding their infrastructure, safety, and
+32 reliability spending plan for the following fiscal year, addressing the following categories:
+33 (1) Capital spending on utility infrastructure;
+34 (2) For electric distribution companies, operation and maintenance expenses on vegetation
+LC000776 - Page 2 of 5
+1 management;
+2 (3) For electric distribution companies, operation and maintenance expenses on system
+3 inspection, including expenses from expected resulting repairs; and
+4 (4) Any other costs relating to maintaining safety and reliability that are mutually agreed
+5 upon by the division and the company.
+6 The distribution company shall submit a plan to the division and the division shall
+7 cooperate in good faith to reach an agreement on a proposed plan for these categories of costs for
+8 the prospective fiscal year within sixty (60) days. To the extent that the company and the division
+9 mutually agree on a plan, such plan shall be filed with the commission for review and approval
+10 within ninety (90) days. If the company and the division cannot agree on a plan, the company shall
+11 file a proposed plan with the commission and the commission shall review and, if the investments
+12 and spending are found to be reasonably needed to maintain safe and reliable distribution service
+13 over the short and long term, approve the plan within ninety (90) days.
+14 (e) The commission shall have the following duties and powers, in addition to its existing
+15 authorities established in this title:
+16 (1) To maintain reasonable and adequate service-quality standards, after decoupling, that
+17 are in effect at the time of the proposal and were established pursuant to § 39-3-7.
+18 (2) The commission may exclude the low-income rate class from the revenue decoupling
+19 reconciliation-rate mechanism for either electric or gas distribution. The commission also may
+20 exclude customers in the large commercial and industrial rate class from the gas-distribution
+21 mechanism.
+22 (3) The commission may adopt performance incentives for the electric distribution
+23 company that provide a shared-savings mechanism whereby the company would receive a
+24 percentage of savings realized as a result of achieving the purposes of this section while the
+25 remaining savings are credited to customers.
+26 (4) The commission shall review and approve, with any necessary amendments,
+27 performance-based, energy-savings targets developed and submitted by the Rhode Island energy
+28 efficiency and resources management council. The performance-based targets shall also be used as
+29 a consideration in any shared-savings mechanism established by the commission pursuant to
+30 subsection (e)(3) of this section.
+31 (f) The Rhode Island energy efficiency and resources management council shall propose
+32 performance-based, energy-savings targets to the commission no later than September 1, 2010. The
+33 targets shall include, but not be limited to, specific energy kilowatt-hour savings overall and peak-
+34 demand savings for both summer and winter peak periods expressed in total megawatts as well as
+LC000776 - Page 3 of 5
+1 appropriate targets recommended in the opportunities report filed with the commission pursuant to
+2 § 39-1-27.7(d)(3). The council shall revise, as necessary, these targets on an annual basis prior to
+3 the reconciliation process established pursuant to subsection (c) of this section and submit its
+4 revisions to the commission for approval.
+5 (g) Reporting. Every electric distribution company, as defined in subsection (a) of this
+6 section, shall report to the governor, general assembly, division of public utilities and carriers, and
+7 public utilities commission on or before September 1, 2012. The report shall include, but not be
+8 limited to, the following elements:
+9 (1) A comparison of revenues from traditional rate regulation and how the revenues have
+10 differed as part of an approved decoupling structure;
+11 (2) A summary of how the company is achieving the performance-based targets that may
+12 have been adopted pursuant to subsection (e)(4) of this section;
+13 (3) A summary of any shared savings the company may have received pursuant to the
+14 performance incentives authorized in subsection (e)(3) of this section;
+15 (4) A summary of how the company is achieving the service-quality standards required in
+16 subsection (e)(1) of this section;
+17 (5) An overview of how decoupling is impacting revenue stabilization goals that have
+18 resulted from decoupling; and
+19 (6) A summary of any customer education programs provided.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000776
+========
+LC000776 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+***
+1 This act would provide that effective July 1, 2025, the profit margin of any electric
+2 distribution company or gas distribution company, would not exceed four percent (4%), in any
+3 given calendar year. This act would further define a "profit margin" as the return on equity, which
+4 would be the return on the equity portion of the base rate, that is allowed by the commission.
+5 This act would take effect upon passage.
+========
+LC000776
+========
+LC000776 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S U 3 ( d a 2 t ( I e i t o a m o t e a g d ( r 2 ( d ( l ( (]
+[DELETED:  ( a ( C t r o f r c c a t t i d ( c ( s t w c t d ( a n T p w ( ( r t c ( a c i ( c r ( (]
+[DELETED:  m ( i ( u T d c s s a p t t d a t d s c t m w f a o ( a ( a ( r e c i t l c a i r c f t g m ( T c m a p i f t e d c t p a s m w t c w r a p r ( T c s r a a w a n a p e a c i a s m e b t c p t s ( p t d]
+[DELETED:  a § t r ( s p l ( d ( h ( p ( s ( r ( S]
+[DELETED:  T a w p t e J 1 2 t p m o a e d g w T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0018
+========
+LC000776
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Introduced By: Senators Gu, Sosnowski, Kallman, Mack, Zurier, and Urso
+Date Introduced: January 23, 2025
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-1-27.7.1 of the General Laws in Chapter 39-1 entitled "Public
+2 Utilities Commission" is hereby amended to read as follows:
+3 39-1-27.7.1. Revenue decoupling.
+4 (a) The general assembly finds and declares that electricity and gas revenues shall be fully
+5 decoupled from sales pursuant to the provisions of this chapter and further finds and declares that
+6 any decoupling proposal submitted by an electric distribution company as defined in § 39-1-
+7 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+8 than one hundred thousand (100,000) customers, shall be for the following purposes:
+9 (1) Increasing efficiency in the operations and management of the electric and gas
+10 distribution system;
+11 (2) Achieving the goals established in the electric distribution company’s plan for system
+12 reliability and energy efficiency and conservation procurement as required pursuant to § 39-1-
+13 27.7(d);
+14 (3) Increasing investment in least-cost resources that will reduce long-term electricity
+15 demand;
+16 (4) Reducing risks for both customers and the distribution company including, but not
+17 limited to, societal risks, weather risks, and economic risks;
+18 (5) Increasing investment in end-use energy efficiency;
+19 (6) Eliminating disincentives to support energy-efficiency programs;
+
+1 (7) Facilitating and encouraging investment in utility infrastructure, safety, and reliability;
+2 and
+3 (8) Considering the reduction of fixed, recurring customer charges and transition to
+4 increased unit charges that more accurately reflect the long-term costs of energy production and
+5 delivery.
+6 (b)(1) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+7 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+8 (100,000) customers shall file proposals at the commission to implement the policy set forth in
+9 subsection (a) of this section. The commission shall approve these proposals, provided they contain
+10 the features and components set forth in subsection (c) of this section, and that they are consistent
+11 with the intent and objectives contained in subsection (a) of this section. Actions taken by the
+12 commission in the exercise of its ratemaking authority for electric and gas rate cases shall be within
+13 the norm of industry standards and recognize the need to maintain the financial health of the
+14 distribution company as a stand-alone entity in Rhode Island.
+15 (2) Provided, effective July 1, 2025, the profit margin of any public utility company that is
+16 an electric distribution company or gas distribution company, as further defined in § 39-1-2, shall
+17 not have a profit margin greater than or exceeding four percent (4%), in any given calendar year.
+18 The public utilities commission shall amend its rules and regulations as needed, consistent with the
+19 provisions of this chapter. As used herein, a "profit margin" shall refer to the return on equity,
+20 which shall be the return on the equity portion of the base rate, that is allowed by the commission.
+21 (c) The proposals shall contain the following features and components:
+22 (1) A revenue decoupling reconciliation mechanism that reconciles annually the revenue
+23 requirement allowed in the company’s base distribution-rate case to revenues actually received for
+24 the applicable twelve-month (12) period. Any revenues over-recovered or under-recovered shall be
+25 credited to, or recovered from, customers, as applicable; and
+26 (2) An annual infrastructure, safety, and reliability spending plan for each fiscal year and
+27 an annual rate-reconciliation mechanism that includes a reconcilable allowance for the anticipated
+28 capital investments and other spending pursuant to the annual pre-approved budget as developed
+29 in accordance with subsection (d) of this section.
+30 (d) Prior to the beginning of each fiscal year, gas and electric distribution companies shall
+31 consult with the division of public utilities and carriers regarding their infrastructure, safety, and
+32 reliability spending plan for the following fiscal year, addressing the following categories:
+33 (1) Capital spending on utility infrastructure;
+34 (2) For electric distribution companies, operation and maintenance expenses on vegetation
+LC000776 - Page 2 of 5
+
+1 management;
+2 (3) For electric distribution companies, operation and maintenance expenses on system
+3 inspection, including expenses from expected resulting repairs; and
+4 (4) Any other costs relating to maintaining safety and reliability that are mutually agreed
+5 upon by the division and the company.
+6 The distribution company shall submit a plan to the division and the division shall
+7 cooperate in good faith to reach an agreement on a proposed plan for these categories of costs for
+8 the prospective fiscal year within sixty (60) days. To the extent that the company and the division
+9 mutually agree on a plan, such plan shall be filed with the commission for review and approval
+10 within ninety (90) days. If the company and the division cannot agree on a plan, the company shall
+11 file a proposed plan with the commission and the commission shall review and, if the investments
+12 and spending are found to be reasonably needed to maintain safe and reliable distribution service
+13 over the short and long term, approve the plan within ninety (90) days.
+14 (e) The commission shall have the following duties and powers, in addition to its existing
+15 authorities established in this title:
+16 (1) To maintain reasonable and adequate service-quality standards, after decoupling, that
+17 are in effect at the time of the proposal and were established pursuant to § 39-3-7.
+18 (2) The commission may exclude the low-income rate class from the revenue decoupling
+19 reconciliation-rate mechanism for either electric or gas distribution. The commission also may
+20 exclude customers in the large commercial and industrial rate class from the gas-distribution
+21 mechanism.
+22 (3) The commission may adopt performance incentives for the electric distribution
+23 company that provide a shared-savings mechanism whereby the company would receive a
+24 percentage of savings realized as a result of achieving the purposes of this section while the
+25 remaining savings are credited to customers.
+26 (4) The commission shall review and approve, with any necessary amendments,
+27 performance-based, energy-savings targets developed and submitted by the Rhode Island energy
+28 efficiency and resources management council. The performance-based targets shall also be used as
+29 a consideration in any shared-savings mechanism established by the commission pursuant to
+30 subsection (e)(3) of this section.
+31 (f) The Rhode Island energy efficiency and resources management council shall propose
+32 performance-based, energy-savings targets to the commission no later than September 1, 2010. The
+33 targets shall include, but not be limited to, specific energy kilowatt-hour savings overall and peak-
+34 demand savings for both summer and winter peak periods expressed in total megawatts as well as
+LC000776 - Page 3 of 5
+
+1 appropriate targets recommended in the opportunities report filed with the commission pursuant to
+2 § 39-1-27.7(d)(3). The council shall revise, as necessary, these targets on an annual basis prior to
+3 the reconciliation process established pursuant to subsection (c) of this section and submit its
+4 revisions to the commission for approval.
+5 (g) Reporting. Every electric distribution company, as defined in subsection (a) of this
+6 section, shall report to the governor, general assembly, division of public utilities and carriers, and
+7 public utilities commission on or before September 1, 2012. The report shall include, but not be
+8 limited to, the following elements:
+9 (1) A comparison of revenues from traditional rate regulation and how the revenues have
+10 differed as part of an approved decoupling structure;
+11 (2) A summary of how the company is achieving the performance-based targets that may
+12 have been adopted pursuant to subsection (e)(4) of this section;
+13 (3) A summary of any shared savings the company may have received pursuant to the
+14 performance incentives authorized in subsection (e)(3) of this section;
+15 (4) A summary of how the company is achieving the service-quality standards required in
+16 subsection (e)(1) of this section;
+17 (5) An overview of how decoupling is impacting revenue stabilization goals that have
+18 resulted from decoupling; and
+19 (6) A summary of any customer education programs provided.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC000776
+========
+LC000776 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+***
+1 This act would provide that effective July 1, 2025, the profit margin of any electric
+2 distribution company or gas distribution company, would not exceed four percent (4%), in any
+3 given calendar year. This act would further define a "profit margin" as the return on equity, which
+4 would be the return on the equity portion of the base rate, that is allowed by the commission.
+5 This act would take effect upon passage.
+========
+LC000776
+========
+LC000776 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S U 3 ( d a 2 t ( I e i t o a m o t e a g d ( r 2 ( d ( l ( (]
+[DELETED:  ( a ( C t r o f r c c a t t i d ( c ( s t w c t d ( a n T p w ( ( r t c ( a c i ( c r ( (]
+[DELETED:  m ( i ( u T d c s s a p t t d a t d s c t m w f a o ( a ( a ( r e c i t l c a i r c f t g m ( T c m a p i f t e d c t p a s m w t c w r a p r ( T c s r a a w a n a p e a c i a s m e b t c p t s ( p t d]
+[DELETED:  a § t r ( s p l ( d ( h ( p ( s ( r ( S]
+[DELETED:  T a w p t e J 1 2 t p m o a e d g w T]

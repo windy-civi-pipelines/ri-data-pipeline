@@ -1,0 +1,175 @@
+Title: RELATING TO EDUCATION -- RHODE ISLAND PREKINDERGARTEN EDUCATION
+Official Title: RELATING TO EDUCATION -- RHODE ISLAND PREKINDERGARTEN EDUCATION
+Number of Sections: 1
+Source: versions - 971
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0971
+========
+LC002684
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ACT
+Introduced By: Senators Gallo, Urso, McKenney, Murray, Valverde, Mack, and
+Bissaillon
+Date Introduced: April 16, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-87 of the General Laws entitled "Rhode Island Prekindergarten
+2 Education Act" is hereby amended by adding thereto the following section:
+3 16-87-8. Prekindergarten seat finder.
+4 (a) Purpose. The purpose of this section is to establish a statewide prekindergarten seat
+5 finder to support families in accessing high-quality early childhood education programs for three
+6 (3) and four (4) year old children. This system will provide real-time availability, eligibility
+7 screening, and application support for families seeking licensed early learning providers.
+8 (b) Establishment of a prekindergarten finder platform development.
+9 (1) The department of elementary and secondary education shall procure or develop and
+10 maintain a statewide digital prekindergarten seat finder platform to help families locate and secure
+11 Pre-K program placements.
+12 (2) Functionality. The finder shall include the following:
+13 (i) Provide real-time availability of licensed early learning programs serving three (3) and
+14 four (4) year old children;
+15 (ii) Include a searchable directory of providers with filters for location, hours, quality
+16 ratings, tuition, language, tour availability, parent ratings, and subsidy eligibility;
+17 (iii) Offer an eligibility screener for state and federally funded Pre-K programs; including
+18 Head Start, state preschool, and mixed-delivery models;
+1 (iv) Enable families to apply directly for programs or join waitlists through a centralized
+2 intake system; and
+3 (v) Ensure accessibility for non-English speaking families and those with disabilities.
+4 (c) Provider participation and data requirements.
+5 (1) All licensed Pre-K providers, including state-funded, private, and nonprofit programs,
+6 must participate in the finder platform.
+7 (2) Providers must update availability at least weekly and report key program details,
+8 including:
+9 (i) Enrollment openings by age group;
+10 (ii) Tuition rates and subsidy acceptance;
+11 (iii) Program quality indicators (QRIS ratings, national accreditation status);
+12 (iv) Special services offered including, but not limited to, dual-language, inclusive
+13 education, and extended care;
+14 (v) Parental ratings; and
+15 (vi) Tour availability.
+16 (3) The state shall integrate the finder with the subsidy eligibility system to facilitate
+17 streamlined enrollment for families using childcare assistance or Pre-K grants.
+18 (d) Parental support and outreach. The department shall conduct outreach campaigns to
+19 ensure families, particularly those in underserved communities, are aware of and can access the
+20 finder.
+21 (e) Implementation. The finder shall be fully operational within twelve (12) months of
+22 enactment. The department shall report annually to the speaker of the house and senate president
+23 on usage rates, enrollment trends, and provider participation.
+24 SECTION 2. This act shall take effect upon passage.
+========
+LC002684
+========
+LC002684 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- RHODE ISLAND PREKINDERGARTEN EDUCATION
+ACT
+***
+1 This act would establish a prekindergarten seat finder to support families in accessing high
+2 quality early childhood education programs for three (3) and four (4) year old children.
+3 This act would take effect upon passage.
+========
+LC002684
+========
+LC002684 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND B S G U M M V M a S E 1 ( f ( a f ( y o c T s w p r a e s ( ( m P ( ( f ( r ( H]
+[DELETED:  ( i ( ( ( m ( p i ( ( ( ( S s o i b n l t d i e ( ( ( f s ( e f ( e o S]
+[DELETED:  T q T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0971
+========
+LC002684
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- RHODE ISLAND PREKINDERGARTEN EDUCATION
+ACT
+Introduced By: Senators Gallo, Urso, McKenney, Murray, Valverde, Mack, and
+Bissaillon
+Date Introduced: April 16, 2025
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-87 of the General Laws entitled "Rhode Island Prekindergarten
+2 Education Act" is hereby amended by adding thereto the following section:
+3 16-87-8. Prekindergarten seat finder.
+4 (a) Purpose. The purpose of this section is to establish a statewide prekindergarten seat
+5 finder to support families in accessing high-quality early childhood education programs for three
+6 (3) and four (4) year old children. This system will provide real-time availability, eligibility
+7 screening, and application support for families seeking licensed early learning providers.
+8 (b) Establishment of a prekindergarten finder platform development.
+9 (1) The department of elementary and secondary education shall procure or develop and
+10 maintain a statewide digital prekindergarten seat finder platform to help families locate and secure
+11 Pre-K program placements.
+12 (2) Functionality. The finder shall include the following:
+13 (i) Provide real-time availability of licensed early learning programs serving three (3) and
+14 four (4) year old children;
+15 (ii) Include a searchable directory of providers with filters for location, hours, quality
+16 ratings, tuition, language, tour availability, parent ratings, and subsidy eligibility;
+17 (iii) Offer an eligibility screener for state and federally funded Pre-K programs; including
+18 Head Start, state preschool, and mixed-delivery models;
+
+1 (iv) Enable families to apply directly for programs or join waitlists through a centralized
+2 intake system; and
+3 (v) Ensure accessibility for non-English speaking families and those with disabilities.
+4 (c) Provider participation and data requirements.
+5 (1) All licensed Pre-K providers, including state-funded, private, and nonprofit programs,
+6 must participate in the finder platform.
+7 (2) Providers must update availability at least weekly and report key program details,
+8 including:
+9 (i) Enrollment openings by age group;
+10 (ii) Tuition rates and subsidy acceptance;
+11 (iii) Program quality indicators (QRIS ratings, national accreditation status);
+12 (iv) Special services offered including, but not limited to, dual-language, inclusive
+13 education, and extended care;
+14 (v) Parental ratings; and
+15 (vi) Tour availability.
+16 (3) The state shall integrate the finder with the subsidy eligibility system to facilitate
+17 streamlined enrollment for families using childcare assistance or Pre-K grants.
+18 (d) Parental support and outreach. The department shall conduct outreach campaigns to
+19 ensure families, particularly those in underserved communities, are aware of and can access the
+20 finder.
+21 (e) Implementation. The finder shall be fully operational within twelve (12) months of
+22 enactment. The department shall report annually to the speaker of the house and senate president
+23 on usage rates, enrollment trends, and provider participation.
+24 SECTION 2. This act shall take effect upon passage.
+========
+LC002684
+========
+LC002684 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- RHODE ISLAND PREKINDERGARTEN EDUCATION
+ACT
+***
+1 This act would establish a prekindergarten seat finder to support families in accessing high
+2 quality early childhood education programs for three (3) and four (4) year old children.
+3 This act would take effect upon passage.
+========
+LC002684
+========
+LC002684 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND B S G U M M V M a S E 1 ( f ( a f ( y o c T s w p r a e s ( ( m P ( ( f ( r ( H]
+[DELETED:  ( i ( ( ( m ( p i ( ( ( ( S s o i b n l t d i e ( ( ( f s ( e f ( e o S]
+[DELETED:  T q T]

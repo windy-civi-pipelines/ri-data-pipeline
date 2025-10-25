@@ -1,0 +1,378 @@
+Title: RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+Official Title: RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+Number of Sections: 1
+Source: versions - 6037
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6037
+========
+LC002274
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives McEntee, Caldwell, Morales, Tanzi, Shallcross Smith,
+Fogarty, Serpa, Cotter, and McGaw
+Date Introduced: March 07, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-19.1-2 of the General Laws in Chapter 5-19.1 entitled "Pharmacies"
+2 is hereby amended to read as follows:
+3 5-19.1-2. Definitions.
+4 (a) “Biological product” means a “biological product” as defined in the “Public Health
+5 Service Act,” 42 U.S.C. § 262.
+6 (b) “Board” means the Rhode Island board of pharmacy.
+7 (c) “Change of ownership” means:
+8 (1) In the case of a pharmacy, manufacturer, or wholesaler that is a partnership, any change
+9 that results in a new partner acquiring a controlling interest in the partnership;
+10 (2) In the case of a pharmacy, manufacturer, or wholesaler that is a sole proprietorship, the
+11 transfer of the title and property to another person;
+12 (3) In the case of a pharmacy, manufacturer, or wholesaler that is a corporation:
+13 (i) A sale, lease exchange, or other disposition of all, or substantially all, of the property
+14 and assets of the corporation; or
+15 (ii) A merger of the corporation into another corporation; or
+16 (iii) The consolidation of two (2) or more corporations resulting in the creation of a new
+17 corporation; or
+18 (iv) In the case of a pharmacy, manufacturer, or wholesaler that is a business corporation,
+19 any transfer of corporate stock that results in a new person acquiring a controlling interest in the
+1 corporation; or
+2 (v) In the case of a pharmacy, manufacturer, or wholesaler that is a non-business
+3 corporation, any change in membership that results in a new person acquiring a controlling vote in
+4 the corporation.
+5 (d) “Compounding” means the act of combining two (2) or more ingredients as a result of
+6 a practitioner’s prescription or medication order occurring in the course of professional practice
+7 based upon the individual needs of a patient and a relationship between the practitioner, patient,
+8 and pharmacist. Compounding does not mean the routine preparation, mixing, or assembling of
+9 drug products that are essentially copies of a commercially available product. Compounding shall
+10 only occur in the pharmacy where the drug or device is dispensed to the patient or caregiver and
+11 includes the preparation of drugs or devices in anticipation of prescription orders based upon
+12 routine, regularly observed prescribing patterns.
+13 (e) “Controlled substance” means a drug or substance, or an immediate precursor of such
+14 drug or substance, so designated under, or pursuant to, the provisions of chapter 28 of title 21.
+15 (f) “Deliver” or “delivery” means the actual, constructive, or attempted transfer from one
+16 person to another of a drug or device, whether or not there is an agency relationship.
+17 (g) “Device” means instruments, apparatus, and contrivances, including their components,
+18 parts, and accessories, intended:
+19 (1) For use in the diagnosis, cure, mitigation, treatment, or prevention of disease in humans
+20 or other animals; or
+21 (2) To affect the structure or any function of the body of humans or other animals.
+22 (h) “Director” means the director of the Rhode Island state department of health.
+23 (i) “Dispense” means the interpretation of a prescription or order for a drug, biological
+24 product, or device and, pursuant to that prescription or order, the proper selection, measuring,
+25 compounding, labeling, or packaging necessary to prepare that prescription or order for delivery or
+26 administration.
+27 (j) “Distribute” means the delivery of a drug or device other than by administering or
+28 dispensing.
+29 (k) “Drug” means:
+30 (1) Articles recognized in the official United States Pharmacopoeia or the Official
+31 Homeopathic Pharmacopoeia of the U.S.;
+32 (2) Substances intended for use in the diagnosis, cure, mitigation, treatment, or prevention
+33 of disease in humans or other animals;
+34 (3) Substances (other than food) intended to affect the structure, or any function, of the
+LC002274 - Page 2 of 6
+1 body of humans or other animals; or
+2 (4) Substances intended for use as a component of any substances specified in subsection
+3 (k)(1), (k)(2), or (k)(3), but not including devices or their component parts or accessories.
+4 (l) “Equivalent and interchangeable” means a drug, excluding a biological product, having
+5 the same generic name, dosage form, and labeled potency, meeting standards of the United States
+6 Pharmacopoeia or National Formulary, or their successors, if applicable, and not found in violation
+7 of the requirements of the United States Food and Drug Administration, or its successor agency, or
+8 the Rhode Island department of health.
+9 (m) “Interchangeable biological product” means a biological product that the United States
+10 Food and Drug Administration has:
+11 (1) Licensed and determined meets the standards for interchangeability pursuant to 42
+12 U.S.C. § 262(k)(4) or lists of licensed, biological products with reference product exclusivity and
+13 biosimilarity or interchangeability evaluations; or
+14 (2) Determined is therapeutically equivalent as set forth in the latest edition of, or
+15 supplement to, the United States Food and Drug Administration’s Approved Drug Products with
+16 Therapeutic Equivalence Evaluations.
+17 (n) “Intern” means:
+18 (1) A graduate of an American Council on Pharmaceutical Education (ACPE)-accredited
+19 program of pharmacy;
+20 (2) A student who is enrolled in at least the first year of a professional ACPE-accredited
+21 program of pharmacy; or
+22 (3) A graduate of a foreign college of pharmacy who has obtained full certification from
+23 the FPGEC (Foreign Pharmacy Graduate Equivalency Commission) administered by the National
+24 Association of Boards of Pharmacy.
+25 (o) “Legend drugs” means any drugs that are required by any applicable federal or state
+26 law or regulation to be dispensed on prescription only or are restricted to use by practitioners only.
+27 (p) “Limited-function test” means those tests listed in the federal register under the Clinical
+28 Laboratory Improvement Amendments of 1988 (CLIA) as waived tests. For the purposes of this
+29 chapter, limited-function test shall include only the following: blood glucose, hemoglobin A1c,
+30 cholesterol tests, and/or other tests that are classified as waived under CLIA and are approved by
+31 the United States Food and Drug Administration for sale to the public without a prescription in the
+32 form of an over-the-counter test kit.
+33 (q) “Manufacture” means the production, preparation, propagation, compounding, or
+34 processing of a drug or other substance or device or the packaging or repackaging.
+LC002274 - Page 3 of 6
+1 (r) “Non-legend” or “nonprescription drugs” means any drugs that may be lawfully sold
+2 without a prescription.
+3 (s) “Person” means an individual, corporation, government, subdivision, or agency,
+4 business trust, estate, trust, partnership, or association, or any other legal entity.
+5 (t) “Pharmaceutical care” is the provision of drugs and other pharmaceutical services
+6 intended to achieve outcomes related to cure or prevention of a disease, elimination or reduction of
+7 a patient’s symptoms, or arresting or slowing of a disease process. “Pharmaceutical care” includes
+8 the judgment of a pharmacist in dispensing an equivalent and interchangeable drug or device in
+9 response to a prescription after appropriate communication with the prescriber and the patient.
+10 (u) “Pharmacist in charge” means a pharmacist licensed in this state as designated by the
+11 owner as the person responsible for the operation of a pharmacy in conformance with all laws and
+12 regulations pertinent to the practice of pharmacy and who is personally in full and actual charge of
+13 such pharmacy and personnel.
+14 (v) “Pharmacy” means that portion or part of a premise where prescriptions are
+15 compounded and dispensed, including that portion utilized for the storage of prescription or legend
+16 drugs.
+17 (w) “Pharmacy technician” means an individual who meets minimum qualifications
+18 established by the board, that are less than those established by this chapter as necessary for
+19 licensing as a pharmacist, and who works under the direction and supervision of a licensed
+20 pharmacist.
+21 (x) “Practice of pharmacy” means the interpretation, evaluation, and implementation of
+22 medical orders; the dispensing of prescription drug orders; participation in drug and device
+23 selection; the compounding of prescription drugs; drug regimen reviews and drug or drug-related
+24 research; the administration of adult immunizations for persons age three (3) and older and,
+25 medications approved by the department of health in consultation with the board of pharmacy for
+26 administration by a pharmacist except as provided by § 5-25-7, pursuant to a valid prescription or
+27 physician-approved protocol and in accordance with regulations, to include training requirements
+28 as promulgated by the department of health; the administration of all forms of influenza
+29 immunizations to individuals between the ages of nine (9) years and eighteen (18) years, inclusive,
+30 pursuant to a valid prescription or prescriber-approved protocol, in accordance with the provisions
+31 of § 5-19.1-31 and in accordance with regulations, to include necessary training requirements
+32 specific to the administration of influenza immunizations to individuals between the ages of nine
+33 (9) years and eighteen (18) years, inclusive, as promulgated by the department of health; provision
+34 of patient counseling and the provision of those acts or services necessary to provide
+LC002274 - Page 4 of 6
+1 pharmaceutical care; the responsibility for the supervision for compounding and labeling of drugs
+2 and devices (except labeling by a manufacturer, repackager, or distributor of nonprescription drugs
+3 and commercially packaged legend drugs and devices), proper and safe storage of drugs and
+4 devices, and maintenance of proper records for them; and the performance of clinical laboratory
+5 tests, provided such testing is limited to limited-function tests as defined herein. Nothing in this
+6 definition shall be construed to limit or otherwise affect the scope of practice of any other
+7 profession.
+8 (y) “Practitioner” means a physician, dentist, veterinarian, nurse, or other person duly
+9 authorized by law in the state in which they practice to prescribe drugs.
+10 (z) “Preceptor” means a pharmacist registered to engage in the practice of pharmacy in this
+11 state who has the responsibility for training interns.
+12 (aa) “Prescription” means an order for drugs or devices issued by the practitioner duly
+13 authorized by law in the state in which he or she practices to prescribe drugs or devices in the course
+14 of his or her professional practice for a legitimate medical purpose.
+15 (bb) “Wholesaler” means a person who buys drugs or devices for resale and distribution to
+16 corporations, individuals, or entities other than consumers.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC002274
+========
+LC002274 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+***
+1 This act would amend the definition of the "practice of pharmacy" to include the
+2 administration of immunizations vaccines for persons three years of age and older.
+3 This act would take effect upon passage.
+========
+LC002274
+========
+LC002274 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S i 5 ( S ( ( ( t ( t ( ( a ( ( c ( a]
+[DELETED:  c ( I t c o a p m o w t i a n c t ( a b a d o i r ( d ( p ( p ( o ( ( ( p c a ( d ( ( A r i t o U S P o t O H ( o (]
+[DELETED:  b ( ( ( t P o t ( F ( U b ( D i t e a s f i t l e o o s T ( ( p ( p ( t A ( l ( L c c t f ( “ m t p p p c o p]
+[DELETED:  ( w ( “ m a i c g s o a b ( “ c t p o o i a t r ( o r s ( “ m t p o p o a p w p a c d ( “ t m a i w m m q e n l a a p a w w u t d a s o a l p ( m o t d o p d o p i d a d s r t a o a i f p a t ( a o a m a p a p b t d o h t a o a f o i i p o s ( o p c a t p o t a o s n t p]
+[DELETED:  p a a p l d a d a s s o d a d t d s b c t l o o a t s o p o a o p ( a ( s ( a o ( c S]
+[DELETED:  T a w a t d o t " o p t i t a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6037
+========
+LC002274
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+Introduced By: Representatives McEntee, Caldwell, Morales, Tanzi, Shallcross Smith,
+Fogarty, Serpa, Cotter, and McGaw
+Date Introduced: March 07, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-19.1-2 of the General Laws in Chapter 5-19.1 entitled "Pharmacies"
+2 is hereby amended to read as follows:
+3 5-19.1-2. Definitions.
+4 (a) “Biological product” means a “biological product” as defined in the “Public Health
+5 Service Act,” 42 U.S.C. § 262.
+6 (b) “Board” means the Rhode Island board of pharmacy.
+7 (c) “Change of ownership” means:
+8 (1) In the case of a pharmacy, manufacturer, or wholesaler that is a partnership, any change
+9 that results in a new partner acquiring a controlling interest in the partnership;
+10 (2) In the case of a pharmacy, manufacturer, or wholesaler that is a sole proprietorship, the
+11 transfer of the title and property to another person;
+12 (3) In the case of a pharmacy, manufacturer, or wholesaler that is a corporation:
+13 (i) A sale, lease exchange, or other disposition of all, or substantially all, of the property
+14 and assets of the corporation; or
+15 (ii) A merger of the corporation into another corporation; or
+16 (iii) The consolidation of two (2) or more corporations resulting in the creation of a new
+17 corporation; or
+18 (iv) In the case of a pharmacy, manufacturer, or wholesaler that is a business corporation,
+19 any transfer of corporate stock that results in a new person acquiring a controlling interest in the
+
+1 corporation; or
+2 (v) In the case of a pharmacy, manufacturer, or wholesaler that is a non-business
+3 corporation, any change in membership that results in a new person acquiring a controlling vote in
+4 the corporation.
+5 (d) “Compounding” means the act of combining two (2) or more ingredients as a result of
+6 a practitioner’s prescription or medication order occurring in the course of professional practice
+7 based upon the individual needs of a patient and a relationship between the practitioner, patient,
+8 and pharmacist. Compounding does not mean the routine preparation, mixing, or assembling of
+9 drug products that are essentially copies of a commercially available product. Compounding shall
+10 only occur in the pharmacy where the drug or device is dispensed to the patient or caregiver and
+11 includes the preparation of drugs or devices in anticipation of prescription orders based upon
+12 routine, regularly observed prescribing patterns.
+13 (e) “Controlled substance” means a drug or substance, or an immediate precursor of such
+14 drug or substance, so designated under, or pursuant to, the provisions of chapter 28 of title 21.
+15 (f) “Deliver” or “delivery” means the actual, constructive, or attempted transfer from one
+16 person to another of a drug or device, whether or not there is an agency relationship.
+17 (g) “Device” means instruments, apparatus, and contrivances, including their components,
+18 parts, and accessories, intended:
+19 (1) For use in the diagnosis, cure, mitigation, treatment, or prevention of disease in humans
+20 or other animals; or
+21 (2) To affect the structure or any function of the body of humans or other animals.
+22 (h) “Director” means the director of the Rhode Island state department of health.
+23 (i) “Dispense” means the interpretation of a prescription or order for a drug, biological
+24 product, or device and, pursuant to that prescription or order, the proper selection, measuring,
+25 compounding, labeling, or packaging necessary to prepare that prescription or order for delivery or
+26 administration.
+27 (j) “Distribute” means the delivery of a drug or device other than by administering or
+28 dispensing.
+29 (k) “Drug” means:
+30 (1) Articles recognized in the official United States Pharmacopoeia or the Official
+31 Homeopathic Pharmacopoeia of the U.S.;
+32 (2) Substances intended for use in the diagnosis, cure, mitigation, treatment, or prevention
+33 of disease in humans or other animals;
+34 (3) Substances (other than food) intended to affect the structure, or any function, of the
+LC002274 - Page 2 of 6
+
+1 body of humans or other animals; or
+2 (4) Substances intended for use as a component of any substances specified in subsection
+3 (k)(1), (k)(2), or (k)(3), but not including devices or their component parts or accessories.
+4 (l) “Equivalent and interchangeable” means a drug, excluding a biological product, having
+5 the same generic name, dosage form, and labeled potency, meeting standards of the United States
+6 Pharmacopoeia or National Formulary, or their successors, if applicable, and not found in violation
+7 of the requirements of the United States Food and Drug Administration, or its successor agency, or
+8 the Rhode Island department of health.
+9 (m) “Interchangeable biological product” means a biological product that the United States
+10 Food and Drug Administration has:
+11 (1) Licensed and determined meets the standards for interchangeability pursuant to 42
+12 U.S.C. § 262(k)(4) or lists of licensed, biological products with reference product exclusivity and
+13 biosimilarity or interchangeability evaluations; or
+14 (2) Determined is therapeutically equivalent as set forth in the latest edition of, or
+15 supplement to, the United States Food and Drug Administration’s Approved Drug Products with
+16 Therapeutic Equivalence Evaluations.
+17 (n) “Intern” means:
+18 (1) A graduate of an American Council on Pharmaceutical Education (ACPE)-accredited
+19 program of pharmacy;
+20 (2) A student who is enrolled in at least the first year of a professional ACPE-accredited
+21 program of pharmacy; or
+22 (3) A graduate of a foreign college of pharmacy who has obtained full certification from
+23 the FPGEC (Foreign Pharmacy Graduate Equivalency Commission) administered by the National
+24 Association of Boards of Pharmacy.
+25 (o) “Legend drugs” means any drugs that are required by any applicable federal or state
+26 law or regulation to be dispensed on prescription only or are restricted to use by practitioners only.
+27 (p) “Limited-function test” means those tests listed in the federal register under the Clinical
+28 Laboratory Improvement Amendments of 1988 (CLIA) as waived tests. For the purposes of this
+29 chapter, limited-function test shall include only the following: blood glucose, hemoglobin A1c,
+30 cholesterol tests, and/or other tests that are classified as waived under CLIA and are approved by
+31 the United States Food and Drug Administration for sale to the public without a prescription in the
+32 form of an over-the-counter test kit.
+33 (q) “Manufacture” means the production, preparation, propagation, compounding, or
+34 processing of a drug or other substance or device or the packaging or repackaging.
+LC002274 - Page 3 of 6
+
+1 (r) “Non-legend” or “nonprescription drugs” means any drugs that may be lawfully sold
+2 without a prescription.
+3 (s) “Person” means an individual, corporation, government, subdivision, or agency,
+4 business trust, estate, trust, partnership, or association, or any other legal entity.
+5 (t) “Pharmaceutical care” is the provision of drugs and other pharmaceutical services
+6 intended to achieve outcomes related to cure or prevention of a disease, elimination or reduction of
+7 a patient’s symptoms, or arresting or slowing of a disease process. “Pharmaceutical care” includes
+8 the judgment of a pharmacist in dispensing an equivalent and interchangeable drug or device in
+9 response to a prescription after appropriate communication with the prescriber and the patient.
+10 (u) “Pharmacist in charge” means a pharmacist licensed in this state as designated by the
+11 owner as the person responsible for the operation of a pharmacy in conformance with all laws and
+12 regulations pertinent to the practice of pharmacy and who is personally in full and actual charge of
+13 such pharmacy and personnel.
+14 (v) “Pharmacy” means that portion or part of a premise where prescriptions are
+15 compounded and dispensed, including that portion utilized for the storage of prescription or legend
+16 drugs.
+17 (w) “Pharmacy technician” means an individual who meets minimum qualifications
+18 established by the board, that are less than those established by this chapter as necessary for
+19 licensing as a pharmacist, and who works under the direction and supervision of a licensed
+20 pharmacist.
+21 (x) “Practice of pharmacy” means the interpretation, evaluation, and implementation of
+22 medical orders; the dispensing of prescription drug orders; participation in drug and device
+23 selection; the compounding of prescription drugs; drug regimen reviews and drug or drug-related
+24 research; the administration of adult immunizations for persons age three (3) and older and,
+25 medications approved by the department of health in consultation with the board of pharmacy for
+26 administration by a pharmacist except as provided by § 5-25-7, pursuant to a valid prescription or
+27 physician-approved protocol and in accordance with regulations, to include training requirements
+28 as promulgated by the department of health; the administration of all forms of influenza
+29 immunizations to individuals between the ages of nine (9) years and eighteen (18) years, inclusive,
+30 pursuant to a valid prescription or prescriber-approved protocol, in accordance with the provisions
+31 of § 5-19.1-31 and in accordance with regulations, to include necessary training requirements
+32 specific to the administration of influenza immunizations to individuals between the ages of nine
+33 (9) years and eighteen (18) years, inclusive, as promulgated by the department of health; provision
+34 of patient counseling and the provision of those acts or services necessary to provide
+LC002274 - Page 4 of 6
+
+1 pharmaceutical care; the responsibility for the supervision for compounding and labeling of drugs
+2 and devices (except labeling by a manufacturer, repackager, or distributor of nonprescription drugs
+3 and commercially packaged legend drugs and devices), proper and safe storage of drugs and
+4 devices, and maintenance of proper records for them; and the performance of clinical laboratory
+5 tests, provided such testing is limited to limited-function tests as defined herein. Nothing in this
+6 definition shall be construed to limit or otherwise affect the scope of practice of any other
+7 profession.
+8 (y) “Practitioner” means a physician, dentist, veterinarian, nurse, or other person duly
+9 authorized by law in the state in which they practice to prescribe drugs.
+10 (z) “Preceptor” means a pharmacist registered to engage in the practice of pharmacy in this
+11 state who has the responsibility for training interns.
+12 (aa) “Prescription” means an order for drugs or devices issued by the practitioner duly
+13 authorized by law in the state in which he or she practices to prescribe drugs or devices in the course
+14 of his or her professional practice for a legitimate medical purpose.
+15 (bb) “Wholesaler” means a person who buys drugs or devices for resale and distribution to
+16 corporations, individuals, or entities other than consumers.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC002274
+========
+LC002274 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+***
+1 This act would amend the definition of the "practice of pharmacy" to include the
+2 administration of immunizations vaccines for persons three years of age and older.
+3 This act would take effect upon passage.
+========
+LC002274
+========
+LC002274 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S i 5 ( S ( ( ( t ( t ( ( a ( ( c ( a]
+[DELETED:  c ( I t c o a p m o w t i a n c t ( a b a d o i r ( d ( p ( p ( o ( ( ( p c a ( d ( ( A r i t o U S P o t O H ( o (]
+[DELETED:  b ( ( ( t P o t ( F ( U b ( D i t e a s f i t l e o o s T ( ( p ( p ( t A ( l ( L c c t f ( “ m t p p p c o p]
+[DELETED:  ( w ( “ m a i c g s o a b ( “ c t p o o i a t r ( o r s ( “ m t p o p o a p w p a c d ( “ t m a i w m m q e n l a a p a w w u t d a s o a l p ( m o t d o p d o p i d a d s r t a o a i f p a t ( a o a m a p a p b t d o h t a o a f o i i p o s ( o p c a t p o t a o s n t p]
+[DELETED:  p a a p l d a d a s s o d a d t d s b c t l o o a t s o p o a o p ( a ( s ( a o ( c S]
+[DELETED:  T a w a t d o t " o p t i t a T]

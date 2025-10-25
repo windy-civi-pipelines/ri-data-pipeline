@@ -1,0 +1,181 @@
+Title: RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+Official Title: RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+Number of Sections: 1
+Source: versions - 5500  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5500 SUBSTITUTE A
+========
+LC001337/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+CARE COMMUNICATIONS AND INFORMATION ACT
+Introduced By: Representative Rebecca M. Kislak
+Date Introduced: February 13, 2025
+Referred To: House Judiciary
+(BHDDH)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-37.3 of the General Laws entitled "Confidentiality of Health Care
+2 Communications and Information Act" is hereby amended by adding thereto the following section:
+3 5-37.3-4.1. Additional limitations on and permitted disclosures.
+4 (a) The purpose of this section is to establish a pilot program authorizing certain additional
+5 permitted disclosures to the department of behavioral healthcare, developmental disabilities, and
+6 hospitals (“BHDDH”).
+7 (b) For the period commencing July 1, 2025, and ending on December 31, 2026, the
+8 following provisions shall be in effect:
+9 (1) No consent for release or transfer of confidential healthcare information shall be
+10 required to report allegations of abuse, neglect, mistreatment, exploitation, death or violation of
+11 rights to the department of behavioral healthcare, developmental disabilities and hospitals, or to
+12 produce records to BHDDH, when BHDDH makes a written demand for records to a BHDDH-
+13 licensed organization, and/or to a facility or program subject to chapter 5 of title 40.1 ("mental
+14 health law"), pursuant to either chapter 5, 24, 24.5, 26, or 27 of title 40.1, for any of the
+15 organization's or client's or patient's records.
+16 (2) If any staff member of the department of behavioral healthcare, developmental
+17 disabilities and hospitals who is authorized by its director makes a written demand for records
+18 pursuant to either chapter 5, 24, 24.5, 26, or 27 of title 40.1 for any of the organization's or client's
+1 or patient's records while BHDDH is investigating an alleged incident of abuse, neglect,
+2 mistreatment, exploitation, death, or other violation of rights of an individual who has received or
+3 is receiving services from either a facility or program subject to chapter 5 of title 40.1 ("mental
+4 health law") or an organization licensed by BHDDH, the records identified in such written demand
+5 for records shall be immediately produced to BHDDH; provided, however, that:
+6 (i) The BHDDH written demand for records shall include notice that BHDDH has opened
+7 an investigation with regard to abuse, neglect, mistreatment, exploitation, death, or violation of
+8 rights of a patient or client of the facility, program or organization, and the notice shall include the
+9 patient's or client's name if BHDDH is aware of the name;
+10 (ii) If the recipient of the written demand for records fails to comply, BHDDH may file in
+11 the superior court a petition for writ of mandamus or similar petition for the records requested in
+12 the written demand for records; and
+13 (iii) For purposes of this section, BHDDH is designated as a health oversight agency as the
+14 term is used in 42 CFR § 164.512, and is designated as both a social-service agency and protective
+15 services agency as those terms are used in §5-37.3-4.
+16 (c) On or before March 31, 2027, the director of BHDDH shall submit to the governor, the
+17 speaker of the house, and the president of the senate, a report which shall include, at a minimum,
+18 the number of written demands for records made by BHDDH under this section, the number of
+19 petitions filed by BHDDH under this section and the results or decision of such petitions, and any
+20 recommendations as to the continuation of or amendments to the provisions of this section.
+21 (d) Unless extended by the general assembly, the provisions of this section shall sunset and
+22 expire on March 31, 2027.
+23 SECTION 2. This act shall take effect upon passage and shall sunset and expire on March
+24 31, 2027.
+========
+LC001337/SUB A
+========
+LC001337/SUB A - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+CARE COMMUNICATIONS AND INFORMATION ACT
+***
+1 This act would amend provisions relative to confidentiality of health care communications
+2 and the process for requesting records and/or confidential health care information by making an
+3 eighteen (18) month pilot program regarding specific written demands made by the department of
+4 behavioral healthcare, developmental disabilities, and hospitals pursuant to investigations of
+5 allegations of abuse, neglect, and other mistreatment of persons.
+6 This act would take effect upon passage and would sunset and expire on March 31, 2027.
+========
+LC001337/SUB A
+========
+LC001337/SUB A - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S C 5 ( p h ( f ( N c f r o t o c h i s b r r p l h l p t e c 5 2 2 2 o 2 o t 4 f a o t o ( I a s m o t d o b h d d p]
+[DELETED:  o p r w B i i a a i o a n m i h f ( a r p ( t t ( t s ( s t p r ( e S 3]
+[DELETED:  T a e b h d d a h p t i o a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5500 SUBSTITUTE A
+========
+LC001337/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+CARE COMMUNICATIONS AND INFORMATION ACT
+Introduced By: Representative Rebecca M. Kislak
+Date Introduced: February 13, 2025
+Referred To: House Judiciary
+(BHDDH)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-37.3 of the General Laws entitled "Confidentiality of Health Care
+2 Communications and Information Act" is hereby amended by adding thereto the following section:
+3 5-37.3-4.1. Additional limitations on and permitted disclosures.
+4 (a) The purpose of this section is to establish a pilot program authorizing certain additional
+5 permitted disclosures to the department of behavioral healthcare, developmental disabilities, and
+6 hospitals (“BHDDH”).
+7 (b) For the period commencing July 1, 2025, and ending on December 31, 2026, the
+8 following provisions shall be in effect:
+9 (1) No consent for release or transfer of confidential healthcare information shall be
+10 required to report allegations of abuse, neglect, mistreatment, exploitation, death or violation of
+11 rights to the department of behavioral healthcare, developmental disabilities and hospitals, or to
+12 produce records to BHDDH, when BHDDH makes a written demand for records to a BHDDH-
+13 licensed organization, and/or to a facility or program subject to chapter 5 of title 40.1 ("mental
+14 health law"), pursuant to either chapter 5, 24, 24.5, 26, or 27 of title 40.1, for any of the
+15 organization's or client's or patient's records.
+16 (2) If any staff member of the department of behavioral healthcare, developmental
+17 disabilities and hospitals who is authorized by its director makes a written demand for records
+18 pursuant to either chapter 5, 24, 24.5, 26, or 27 of title 40.1 for any of the organization's or client's
+
+1 or patient's records while BHDDH is investigating an alleged incident of abuse, neglect,
+2 mistreatment, exploitation, death, or other violation of rights of an individual who has received or
+3 is receiving services from either a facility or program subject to chapter 5 of title 40.1 ("mental
+4 health law") or an organization licensed by BHDDH, the records identified in such written demand
+5 for records shall be immediately produced to BHDDH; provided, however, that:
+6 (i) The BHDDH written demand for records shall include notice that BHDDH has opened
+7 an investigation with regard to abuse, neglect, mistreatment, exploitation, death, or violation of
+8 rights of a patient or client of the facility, program or organization, and the notice shall include the
+9 patient's or client's name if BHDDH is aware of the name;
+10 (ii) If the recipient of the written demand for records fails to comply, BHDDH may file in
+11 the superior court a petition for writ of mandamus or similar petition for the records requested in
+12 the written demand for records; and
+13 (iii) For purposes of this section, BHDDH is designated as a health oversight agency as the
+14 term is used in 42 CFR § 164.512, and is designated as both a social-service agency and protective
+15 services agency as those terms are used in §5-37.3-4.
+16 (c) On or before March 31, 2027, the director of BHDDH shall submit to the governor, the
+17 speaker of the house, and the president of the senate, a report which shall include, at a minimum,
+18 the number of written demands for records made by BHDDH under this section, the number of
+19 petitions filed by BHDDH under this section and the results or decision of such petitions, and any
+20 recommendations as to the continuation of or amendments to the provisions of this section.
+21 (d) Unless extended by the general assembly, the provisions of this section shall sunset and
+22 expire on March 31, 2027.
+23 SECTION 2. This act shall take effect upon passage and shall sunset and expire on March
+24 31, 2027.
+========
+LC001337/SUB A
+========
+LC001337/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+CARE COMMUNICATIONS AND INFORMATION ACT
+***
+1 This act would amend provisions relative to confidentiality of health care communications
+2 and the process for requesting records and/or confidential health care information by making an
+3 eighteen (18) month pilot program regarding specific written demands made by the department of
+4 behavioral healthcare, developmental disabilities, and hospitals pursuant to investigations of
+5 allegations of abuse, neglect, and other mistreatment of persons.
+6 This act would take effect upon passage and would sunset and expire on March 31, 2027.
+========
+LC001337/SUB A
+========
+LC001337/SUB A - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 5 ( p h ( f ( N c f r o t o c h i s b r r p l h l p t e c 5 2 2 2 o 2 o t 4 f a o t o ( I a s m o t d o b h d d p]
+[DELETED:  o p r w B i i a a i o a n m i h f ( a r p ( t t ( t s ( s t p r ( e S 3]
+[DELETED:  T a e b h d d a h p t i o a T]

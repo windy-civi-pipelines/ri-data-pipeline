@@ -1,0 +1,496 @@
+Title: RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+Official Title: RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+Number of Sections: 1
+Source: versions - 974  as amended
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0974 AS AMENDED
+========
+LC002731
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+INSURANCE --CONTRIBUTIONS
+Introduced By: Senators Lawson, Bissaillon, Tikoian, Lauria, DiMario, Euer, Urso,
+Felag, Murray, and Gallo
+Date Introduced: April 16, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 28-40-1 of the General Laws in Chapter 28-40 entitled "Temporary
+2 Disability Insurance — Contributions" is hereby amended to read as follows:
+3 28-40-1. Amount of employee contributions — Wages on which based.
+4 (a) The taxable wage base under this chapter for each calendar year shall be equal to the
+5 greater of thirty-eight thousand dollars ($38,000) one hundred thousand dollars ($100,000) or the
+6 annual earnings needed by an individual to qualify for the maximum weekly benefit amount and
+7 the maximum duration under chapters 39 — 41 of this title. That taxable wage base shall be
+8 computed as follows: Every September 30, the maximum weekly benefit amount in effect as of that
+9 date shall be multiplied by thirty (30) and the resultant product shall be divided by thirty-six
+10 hundredths (.36). If the result thus obtained is not an even multiple of one hundred dollars ($100),
+11 it shall be rounded upward to the next higher even multiple of one hundred dollars ($100). That
+12 taxable wage base shall be effective for the calendar year beginning on the next January 1.
+13 (b) Each employee shall contribute with respect to employment after the date upon which
+14 the employer becomes subject to chapters 39 — 41 of this title, an amount equal to the fund cost
+15 rate times the wages paid by the employer to the employee up to the taxable wage base as defined
+16 and computed in subsection (a) of this section. The employee contribution rate for the following
+17 calendar year shall be determined by computing the fund cost rate on or before November 15 of
+18 each year as follows:
+1 (1) The total amount of disbursements made from the fund for the twelve-month (12)
+2 period ending on the immediately preceding September 30 shall be divided by the total taxable
+3 wages paid by employers during the twelve-month (12) period ending on the immediately
+4 preceding June 30. The ratio thus obtained shall be multiplied by one hundred (100) and the
+5 resultant product if not an exact multiple of one-tenth of one percent (0.1%) shall be rounded down
+6 to the next lowest multiple of one-tenth of one percent (0.1%);
+7 (2) If the fund balance as of the preceding September 30 is less than the total disbursements
+8 from the fund for the six-month (6) period ending on that September 30, that difference shall be
+9 added to the total disbursements for the twelve-month (12) period ending September 30 for the
+10 purpose of computing the fund cost rate, and if the resulting fund cost rate is not an exact multiple
+11 of one-tenth of one percent (0.1%) it shall be rounded to the nearest multiple of one-tenth of one
+12 percent (0.1%).
+13 SECTION 2. Sections 28-41-5, 28-41-34 and 28-41-35 of the General Laws in Chapter 28-
+14 41 entitled "Temporary Disability Insurance — Benefits" are hereby amended to read as follows:
+15 28-41-5. Weekly benefit rate — Dependents’ allowances. [Effective January 1, 2025.]
+16 (a) Benefit rate.
+17 (1) The benefit rate payable under this chapter to any eligible individual with respect to
+18 any week of the individual’s unemployment due to sickness, when that week occurs within a benefit
+19 year, shall be, for benefit years beginning on or after October 7, 1990, and prior to January 1, 2027,
+20 four and sixty-two hundredths percent (4.62%); for benefit years beginning on or after January 1,
+21 2027, and prior to January 1, 2028, five and thirty-eight hundredths percent (5.38%); and for benefit
+22 years beginning on or after January 1, 2028, five and seventy-seven hundredths percent (5.77%) of
+23 the wages paid to the individual in that calendar quarter of the base period in which the individual’s
+24 wages were highest; provided, however, that the benefit rate shall not exceed eighty-five percent
+25 (85%) of the average weekly wage paid to individuals covered by chapters 42 — 44 of this title for
+26 the preceding calendar year ending December 31. If the maximum weekly benefit rate is not an
+27 exact multiple of one dollar ($1.00) then the rate shall be raised to the next higher multiple of one
+28 dollar ($1.00). Those weekly benefit rates shall be effective throughout the benefit years beginning
+29 on or after July 1 of the year prior to July of the succeeding calendar year.
+30 (2) The benefit rate of any individual, if not an exact multiple of one dollar ($1.00), shall
+31 be raised to the next higher multiple of one dollar ($1.00).
+32 (b) Dependents’ allowances. An individual to whom benefits for unemployment due to
+33 sickness are payable under this chapter with respect to any week, shall, in addition to those benefits,
+34 be paid with respect to each week a dependent’s allowance of twenty dollars ($20.00) or seven
+LC002731 - Page 2 of 8
+1 percent (7%) of the individual’s benefit rate payable under subsection (a) of this section, whichever
+2 is greater, for each of that individual’s children, including adopted and stepchildren or that
+3 individual’s court-appointed wards who, at the beginning of the individual’s benefit year, is under
+4 eighteen (18) years of age and who is at that time in fact dependent on that individual. A
+5 dependent’s allowance shall also be paid to that individual for any child, including an adopted child
+6 or a stepchild or that individual’s court appointed ward, eighteen (18) years of age or over,
+7 incapable of earning any wages because of mental or physical incapacity, and who is dependent on
+8 that individual in fact at the beginning of the individual’s benefit year, including individuals who
+9 have been appointed the legal guardian of that child by the appropriate court. However, in no
+10 instance shall the number of dependents for which an individual may receive dependents’
+11 allowances exceed five (5) in total. The weekly total of dependents’ allowances payable to any
+12 individual, if not an exact multiple of one dollar ($1.00), shall be rounded to the next lower multiple
+13 of one dollar ($1.00). The number of an individual’s dependents, and the fact of their dependency,
+14 shall be determined as of the beginning of that individual’s benefit year; provided, that only one
+15 individual shall be entitled to a dependent’s allowance for the same dependent with respect to any
+16 week. Each individual who claims a dependent’s allowance shall establish their claim to it to the
+17 satisfaction of the director under procedures established by the director.
+18 (c) Any individual’s benefit rate and/or dependents’ allowance in effect for a benefit year
+19 shall continue in effect until the end of that benefit year.
+20 (d) Partial unemployment due to sickness. For weeks beginning on or after January 1,
+21 2006, an individual partially unemployed due to sickness and otherwise eligible in any week shall
+22 be paid sufficient benefits with respect to that week, so that their wages, rounded to the next higher
+23 multiple of one dollar ($1.00), and their benefits combined will equal in amount the weekly benefit
+24 rate to which the individual would be entitled if totally unemployed due to sickness in that week;
+25 provided that an individual must have been totally unemployed due to sickness for at least seven
+26 (7) consecutive days prior to claiming partial benefits under this provision; provided, that this
+27 provision shall not apply if the individual is entitled to lag day benefits pursuant to § 28-41-9;
+28 provided, further, that nothing contained herein shall permit any individual to whom remuneration
+29 is payable for any work performed in any week in an amount equal to or greater than his or her
+30 weekly benefit rate to receive benefits or waiting period credit for that week.
+31 28-41-34. Temporary caregiver insurance.
+32 The purpose of this chapter is to establish, within the state temporary disability insurance
+33 program, a temporary caregiver insurance program to provide wage replacement benefits in
+34 accordance with the provisions of this chapter, to workers who take time off work to care for a
+LC002731 - Page 3 of 8
+1 seriously ill child, spouse, domestic partner, sibling, parent, parent-in-law, grandparent, or to bond
+2 with a new child.
+3 Definitions as used in this chapter:
+4 (1) “Adopted child” means a child adopted by, or placed for adoption with, the employee.
+5 (2) “Bonding or bond” means to develop a psychological and emotional attachment
+6 between a child and his or her parent(s) or persons who stand in loco parentis. This shall involve
+7 being in one another’s physical presence.
+8 (3) “Child” means a biological, adopted, or foster son or daughter, a stepson or
+9 stepdaughter, a legal ward, a son or daughter of a domestic partner, or a son or daughter of an
+10 employee who stands in loco parentis to that child.
+11 (4) “Department” means the department of labor and training.
+12 (5) “Domestic partner” means a party to a civil union as defined by chapter 3.1 of title 15.
+13 (6) “Employee” means any person who is or has been employed by an employer subject to
+14 chapters 39 — 41 of this title and in employment subject to those chapters.
+15 (7) “Grandparent” means a parent of the employee’s parent.
+16 (8) “Newborn child” means a child under one year of age.
+17 (9) “Parent” means a biological, foster, or adoptive parent, a stepparent, a legal guardian,
+18 or other person who stands in loco parentis to the employee or the employee’s spouse or domestic
+19 partner when he/she was a child.
+20 (10) “Parent-in-law” means the parent of the employee’s spouse or domestic partner.
+21 (11) “Persons who stand in loco parentis” means those with day-to-day responsibilities to
+22 care for and financially support a child or, in the case of an employee, who had such responsibility
+23 for the employee when the employee was a child. A biological or legal relationship shall not be
+24 required.
+25 (12) “Serious health condition” means any illness, injury, impairment, or physical or
+26 mental condition that involves inpatient care in a hospital, hospice, residential healthcare facility,
+27 or continued treatment or continuing supervision by a licensed healthcare provider.
+28 (13) "Sibling" means children with a common parent, including biological siblings, half-
+29 siblings, step-siblings, foster siblings, and adopted siblings.
+30 (13)(14) “Spouse” means a party in a common law marriage, a party in a marriage
+31 conducted and recognized by another state or country, or in a marriage as defined by chapter 3 of
+32 title 15.
+33 28-41-35. Benefits. [Effective January 1, 2025.]
+34 (a) Subject to the conditions set forth in this chapter, an employee shall be eligible for
+LC002731 - Page 4 of 8
+1 temporary caregiver benefits for any week in which the employee is unable to perform their regular
+2 and customary work because the employee is:
+3 (1) Bonding with a newborn child or a child newly placed for adoption or foster care with
+4 the employee or domestic partner in accordance with the provisions of § 28-41-36(c); or
+5 (2) Caring for a child, parent, parent-in-law, grandparent, spouse, or domestic partner, or
+6 sibling who has a serious health condition, subject to a waiting period in accordance with the
+7 provisions of § 28-41-12 [repealed]. Employees may use accrued sick time during the eligibility
+8 waiting period in accordance with the policy of the individual’s employer.
+9 (b) Temporary caregiver benefits shall be available only to the employee exercising his or
+10 her right to leave while covered by the temporary caregiver insurance program. An employee shall
+11 file a written intent with their employer, in accordance with rules and regulations promulgated by
+12 the department, with a minimum of thirty (30) days’ notice prior to commencement of the family
+13 leave. Failure by the employee to provide the written intent may result in delay or reduction in the
+14 claimant’s benefits, except in the event the time of the leave is unforeseeable or the time of the
+15 leave changes for unforeseeable circumstances.
+16 (c) Employees cannot file for both temporary caregiver benefits and temporary disability
+17 benefits for the same purpose, concurrently, in accordance with all provisions of this act and
+18 chapters 39 — 41 of this title.
+19 (d) Temporary caregiver benefits may be available to any individual exercising their right
+20 to leave while covered by the temporary caregiver insurance program, commencing on or after
+21 January 1, 2014, which shall not exceed the individual’s maximum benefits in accordance with
+22 chapters 39 — 41 of this title. The benefits for the temporary caregiver program shall be payable
+23 with respect to the first day of leave taken after the waiting period and each subsequent day of leave
+24 during that period of family temporary disability leave. Benefits shall be in accordance with the
+25 following:
+26 (1) Beginning January 1, 2014, temporary caregiver benefits shall be limited to a maximum
+27 of four (4) weeks in a benefit year;
+28 (2) Beginning January 1, 2022, temporary caregiver benefits shall be limited to a maximum
+29 of five (5) weeks in a benefit year;
+30 (3) Beginning January 1, 2023, temporary caregiver benefits shall be limited to a maximum
+31 of six (6) weeks in a benefit year;
+32 (4) Beginning January 1, 2025, temporary caregiver benefits shall be limited to a maximum
+33 of seven (7) weeks in a benefit year; and
+34 (5) Beginning January 1, 2026, temporary caregiver benefits shall be limited to a maximum
+LC002731 - Page 5 of 8
+1 of eight (8) weeks in a benefit year.
+2 (e) In addition, no individual shall be paid temporary caregiver benefits and temporary
+3 disability benefits that together exceed thirty (30) times the individual’s weekly benefit rate in any
+4 benefit year.
+5 (f) Any employee who exercises their right to leave covered by temporary caregiver
+6 insurance under this chapter shall, upon the expiration of that leave, be entitled to be restored by
+7 the employer to the position held by the employee when the leave commenced, or to a position with
+8 equivalent seniority, status, employment benefits, pay, and other terms and conditions of
+9 employment including fringe benefits and service credits that the employee had been entitled to at
+10 the commencement of leave.
+11 (g) During any caregiver leave taken pursuant to this chapter, the employer shall maintain
+12 any existing health benefits of the employee in force for the duration of the leave as if the employee
+13 had continued in employment continuously from the date the employee commenced the leave until
+14 the date the caregiver benefits terminate; provided, however, that the employee shall continue to
+15 pay any employee shares of the cost of health benefits as required prior to the commencement of
+16 the caregiver benefits.
+17 (h) No individual shall be entitled to waiting period credit or temporary caregiver benefits
+18 under this section for any week beginning prior to January 1, 2014. An employer may require an
+19 employee who is entitled to leave under the federal Family and Medical Leave Act, Pub. L. No.
+20 103-3 and/or the Rhode Island parental and family medical leave act, § 28-48-1 et seq., who
+21 exercises their right to benefits under the temporary caregiver insurance program under this chapter,
+22 to take any temporary caregiver benefits received, concurrently, with any leave taken pursuant to
+23 the federal Family and Medical Leave Act and/or the Rhode Island parental and family medical
+24 leave act.
+25 (i) Temporary caregiver benefits shall be in accordance with the federal Family and
+26 Medical Leave Act (FMLA), Pub. L. No. 103-3 and the Rhode Island parental and family medical
+27 leave act in accordance with § 28-48-1 et seq. An employer may require an employee who is entitled
+28 to leave under the federal Family and Medical Leave Act, Pub. L. No. 103-3 and/or the Rhode
+29 Island parental and family medical leave act, § 28-48-1 et seq., who exercises their right to benefits
+30 under the temporary caregiver insurance program under this chapter, to take any temporary
+31 caregiver benefits received, concurrently, with any leave taken pursuant to the federal Family and
+32 Medical Leave Act and/or the Rhode Island parental and family medical leave act.
+33 SECTION 3. This act shall take effect January 1, 2026.
+LC002731 - Page 6 of 8
+========
+LC002731
+========
+LC002731 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+INSURANCE --CONTRIBUTIONS
+***
+1 This act would increase the taxable wage base for temporary disability insurance claims
+2 from thirty-eight thousand dollars ($38,000) to one hundred thousand dollars ($100,000) or the
+3 annual earnings needed by an individual to qualify for the maximum weekly benefit amount and
+4 the maximum duration under chapters 39 through 41 of this title. This act would also increase the
+5 percent of wages used in the base period to determine an individual's weekly benefit amount and
+6 would amend the duration period of caregiver benefits for the years 2027, 2028 and beyond.
+7 This act would take effect January 1, 2026.
+========
+LC002731
+========
+LC002731 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND B S L B T L D E U S D 2 ( g a t c d h i t ( t r a c e]
+[DELETED:  ( p w p b e d t t ( p e o t i p r t ( f a p o p S 4 2 ( ( a y f 2 y t w ( t e d o ( b ( s b]
+[DELETED:  p i g f e o t i c i a a s o t i e ( y o a a w i a t t i f d o t i A d o a s o t i c a w e ( y o a o o i t h i s t n o d f w a i m r d a i o s i w s ( s ( 2 b m r p ( p p i w 2 T p a t c i p t p w r b i a]
+[DELETED:  s w D ( ( “ o b m t d a p a e a b b ( “ m a b a o f s o d a s o s e ( ( ( c ( ( ( o p ( ( c f r ( “ h c m a i i i o p o m o ( s ( “ m a p i a c l m a p i a m c t 2 (]
+[DELETED:  t a ( t ( s p w ( h f t l c l ( b c ( t J c w d f ( o ( o ( o ( o (]
+[DELETED:  o ( d b ( A e w e t r t l c b t c i t e s s e b p a o t a c o e t ( a h t p t ( u e 1 e t t l ( T c b s b i a w t f F a M l t I u t t c i p u t c t t a t c M S]
+[DELETED:  T f a t p w T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0974 AS AMENDED
+========
+LC002731
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+INSURANCE --CONTRIBUTIONS
+Introduced By: Senators Lawson, Bissaillon, Tikoian, Lauria, DiMario, Euer, Urso,
+Felag, Murray, and Gallo
+Date Introduced: April 16, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 28-40-1 of the General Laws in Chapter 28-40 entitled "Temporary
+2 Disability Insurance — Contributions" is hereby amended to read as follows:
+3 28-40-1. Amount of employee contributions — Wages on which based.
+4 (a) The taxable wage base under this chapter for each calendar year shall be equal to the
+5 greater of thirty-eight thousand dollars ($38,000) one hundred thousand dollars ($100,000) or the
+6 annual earnings needed by an individual to qualify for the maximum weekly benefit amount and
+7 the maximum duration under chapters 39 — 41 of this title. That taxable wage base shall be
+8 computed as follows: Every September 30, the maximum weekly benefit amount in effect as of that
+9 date shall be multiplied by thirty (30) and the resultant product shall be divided by thirty-six
+10 hundredths (.36). If the result thus obtained is not an even multiple of one hundred dollars ($100),
+11 it shall be rounded upward to the next higher even multiple of one hundred dollars ($100). That
+12 taxable wage base shall be effective for the calendar year beginning on the next January 1.
+13 (b) Each employee shall contribute with respect to employment after the date upon which
+14 the employer becomes subject to chapters 39 — 41 of this title, an amount equal to the fund cost
+15 rate times the wages paid by the employer to the employee up to the taxable wage base as defined
+16 and computed in subsection (a) of this section. The employee contribution rate for the following
+17 calendar year shall be determined by computing the fund cost rate on or before November 15 of
+18 each year as follows:
+
+1 (1) The total amount of disbursements made from the fund for the twelve-month (12)
+2 period ending on the immediately preceding September 30 shall be divided by the total taxable
+3 wages paid by employers during the twelve-month (12) period ending on the immediately
+4 preceding June 30. The ratio thus obtained shall be multiplied by one hundred (100) and the
+5 resultant product if not an exact multiple of one-tenth of one percent (0.1%) shall be rounded down
+6 to the next lowest multiple of one-tenth of one percent (0.1%);
+7 (2) If the fund balance as of the preceding September 30 is less than the total disbursements
+8 from the fund for the six-month (6) period ending on that September 30, that difference shall be
+9 added to the total disbursements for the twelve-month (12) period ending September 30 for the
+10 purpose of computing the fund cost rate, and if the resulting fund cost rate is not an exact multiple
+11 of one-tenth of one percent (0.1%) it shall be rounded to the nearest multiple of one-tenth of one
+12 percent (0.1%).
+13 SECTION 2. Sections 28-41-5, 28-41-34 and 28-41-35 of the General Laws in Chapter 28-
+14 41 entitled "Temporary Disability Insurance — Benefits" are hereby amended to read as follows:
+15 28-41-5. Weekly benefit rate — Dependents’ allowances. [Effective January 1, 2025.]
+16 (a) Benefit rate.
+17 (1) The benefit rate payable under this chapter to any eligible individual with respect to
+18 any week of the individual’s unemployment due to sickness, when that week occurs within a benefit
+19 year, shall be, for benefit years beginning on or after October 7, 1990, and prior to January 1, 2027,
+20 four and sixty-two hundredths percent (4.62%); for benefit years beginning on or after January 1,
+21 2027, and prior to January 1, 2028, five and thirty-eight hundredths percent (5.38%); and for benefit
+22 years beginning on or after January 1, 2028, five and seventy-seven hundredths percent (5.77%) of
+23 the wages paid to the individual in that calendar quarter of the base period in which the individual’s
+24 wages were highest; provided, however, that the benefit rate shall not exceed eighty-five percent
+25 (85%) of the average weekly wage paid to individuals covered by chapters 42 — 44 of this title for
+26 the preceding calendar year ending December 31. If the maximum weekly benefit rate is not an
+27 exact multiple of one dollar ($1.00) then the rate shall be raised to the next higher multiple of one
+28 dollar ($1.00). Those weekly benefit rates shall be effective throughout the benefit years beginning
+29 on or after July 1 of the year prior to July of the succeeding calendar year.
+30 (2) The benefit rate of any individual, if not an exact multiple of one dollar ($1.00), shall
+31 be raised to the next higher multiple of one dollar ($1.00).
+32 (b) Dependents’ allowances. An individual to whom benefits for unemployment due to
+33 sickness are payable under this chapter with respect to any week, shall, in addition to those benefits,
+34 be paid with respect to each week a dependent’s allowance of twenty dollars ($20.00) or seven
+LC002731 - Page 2 of 8
+
+1 percent (7%) of the individual’s benefit rate payable under subsection (a) of this section, whichever
+2 is greater, for each of that individual’s children, including adopted and stepchildren or that
+3 individual’s court-appointed wards who, at the beginning of the individual’s benefit year, is under
+4 eighteen (18) years of age and who is at that time in fact dependent on that individual. A
+5 dependent’s allowance shall also be paid to that individual for any child, including an adopted child
+6 or a stepchild or that individual’s court appointed ward, eighteen (18) years of age or over,
+7 incapable of earning any wages because of mental or physical incapacity, and who is dependent on
+8 that individual in fact at the beginning of the individual’s benefit year, including individuals who
+9 have been appointed the legal guardian of that child by the appropriate court. However, in no
+10 instance shall the number of dependents for which an individual may receive dependents’
+11 allowances exceed five (5) in total. The weekly total of dependents’ allowances payable to any
+12 individual, if not an exact multiple of one dollar ($1.00), shall be rounded to the next lower multiple
+13 of one dollar ($1.00). The number of an individual’s dependents, and the fact of their dependency,
+14 shall be determined as of the beginning of that individual’s benefit year; provided, that only one
+15 individual shall be entitled to a dependent’s allowance for the same dependent with respect to any
+16 week. Each individual who claims a dependent’s allowance shall establish their claim to it to the
+17 satisfaction of the director under procedures established by the director.
+18 (c) Any individual’s benefit rate and/or dependents’ allowance in effect for a benefit year
+19 shall continue in effect until the end of that benefit year.
+20 (d) Partial unemployment due to sickness. For weeks beginning on or after January 1,
+21 2006, an individual partially unemployed due to sickness and otherwise eligible in any week shall
+22 be paid sufficient benefits with respect to that week, so that their wages, rounded to the next higher
+23 multiple of one dollar ($1.00), and their benefits combined will equal in amount the weekly benefit
+24 rate to which the individual would be entitled if totally unemployed due to sickness in that week;
+25 provided that an individual must have been totally unemployed due to sickness for at least seven
+26 (7) consecutive days prior to claiming partial benefits under this provision; provided, that this
+27 provision shall not apply if the individual is entitled to lag day benefits pursuant to § 28-41-9;
+28 provided, further, that nothing contained herein shall permit any individual to whom remuneration
+29 is payable for any work performed in any week in an amount equal to or greater than his or her
+30 weekly benefit rate to receive benefits or waiting period credit for that week.
+31 28-41-34. Temporary caregiver insurance.
+32 The purpose of this chapter is to establish, within the state temporary disability insurance
+33 program, a temporary caregiver insurance program to provide wage replacement benefits in
+34 accordance with the provisions of this chapter, to workers who take time off work to care for a
+LC002731 - Page 3 of 8
+
+1 seriously ill child, spouse, domestic partner, sibling, parent, parent-in-law, grandparent, or to bond
+2 with a new child.
+3 Definitions as used in this chapter:
+4 (1) “Adopted child” means a child adopted by, or placed for adoption with, the employee.
+5 (2) “Bonding or bond” means to develop a psychological and emotional attachment
+6 between a child and his or her parent(s) or persons who stand in loco parentis. This shall involve
+7 being in one another’s physical presence.
+8 (3) “Child” means a biological, adopted, or foster son or daughter, a stepson or
+9 stepdaughter, a legal ward, a son or daughter of a domestic partner, or a son or daughter of an
+10 employee who stands in loco parentis to that child.
+11 (4) “Department” means the department of labor and training.
+12 (5) “Domestic partner” means a party to a civil union as defined by chapter 3.1 of title 15.
+13 (6) “Employee” means any person who is or has been employed by an employer subject to
+14 chapters 39 — 41 of this title and in employment subject to those chapters.
+15 (7) “Grandparent” means a parent of the employee’s parent.
+16 (8) “Newborn child” means a child under one year of age.
+17 (9) “Parent” means a biological, foster, or adoptive parent, a stepparent, a legal guardian,
+18 or other person who stands in loco parentis to the employee or the employee’s spouse or domestic
+19 partner when he/she was a child.
+20 (10) “Parent-in-law” means the parent of the employee’s spouse or domestic partner.
+21 (11) “Persons who stand in loco parentis” means those with day-to-day responsibilities to
+22 care for and financially support a child or, in the case of an employee, who had such responsibility
+23 for the employee when the employee was a child. A biological or legal relationship shall not be
+24 required.
+25 (12) “Serious health condition” means any illness, injury, impairment, or physical or
+26 mental condition that involves inpatient care in a hospital, hospice, residential healthcare facility,
+27 or continued treatment or continuing supervision by a licensed healthcare provider.
+28 (13) "Sibling" means children with a common parent, including biological siblings, half-
+29 siblings, step-siblings, foster siblings, and adopted siblings.
+30 (13)(14) “Spouse” means a party in a common law marriage, a party in a marriage
+31 conducted and recognized by another state or country, or in a marriage as defined by chapter 3 of
+32 title 15.
+33 28-41-35. Benefits. [Effective January 1, 2025.]
+34 (a) Subject to the conditions set forth in this chapter, an employee shall be eligible for
+LC002731 - Page 4 of 8
+
+1 temporary caregiver benefits for any week in which the employee is unable to perform their regular
+2 and customary work because the employee is:
+3 (1) Bonding with a newborn child or a child newly placed for adoption or foster care with
+4 the employee or domestic partner in accordance with the provisions of § 28-41-36(c); or
+5 (2) Caring for a child, parent, parent-in-law, grandparent, spouse, or domestic partner, or
+6 sibling who has a serious health condition, subject to a waiting period in accordance with the
+7 provisions of § 28-41-12 [repealed]. Employees may use accrued sick time during the eligibility
+8 waiting period in accordance with the policy of the individual’s employer.
+9 (b) Temporary caregiver benefits shall be available only to the employee exercising his or
+10 her right to leave while covered by the temporary caregiver insurance program. An employee shall
+11 file a written intent with their employer, in accordance with rules and regulations promulgated by
+12 the department, with a minimum of thirty (30) days’ notice prior to commencement of the family
+13 leave. Failure by the employee to provide the written intent may result in delay or reduction in the
+14 claimant’s benefits, except in the event the time of the leave is unforeseeable or the time of the
+15 leave changes for unforeseeable circumstances.
+16 (c) Employees cannot file for both temporary caregiver benefits and temporary disability
+17 benefits for the same purpose, concurrently, in accordance with all provisions of this act and
+18 chapters 39 — 41 of this title.
+19 (d) Temporary caregiver benefits may be available to any individual exercising their right
+20 to leave while covered by the temporary caregiver insurance program, commencing on or after
+21 January 1, 2014, which shall not exceed the individual’s maximum benefits in accordance with
+22 chapters 39 — 41 of this title. The benefits for the temporary caregiver program shall be payable
+23 with respect to the first day of leave taken after the waiting period and each subsequent day of leave
+24 during that period of family temporary disability leave. Benefits shall be in accordance with the
+25 following:
+26 (1) Beginning January 1, 2014, temporary caregiver benefits shall be limited to a maximum
+27 of four (4) weeks in a benefit year;
+28 (2) Beginning January 1, 2022, temporary caregiver benefits shall be limited to a maximum
+29 of five (5) weeks in a benefit year;
+30 (3) Beginning January 1, 2023, temporary caregiver benefits shall be limited to a maximum
+31 of six (6) weeks in a benefit year;
+32 (4) Beginning January 1, 2025, temporary caregiver benefits shall be limited to a maximum
+33 of seven (7) weeks in a benefit year; and
+34 (5) Beginning January 1, 2026, temporary caregiver benefits shall be limited to a maximum
+LC002731 - Page 5 of 8
+
+1 of eight (8) weeks in a benefit year.
+2 (e) In addition, no individual shall be paid temporary caregiver benefits and temporary
+3 disability benefits that together exceed thirty (30) times the individual’s weekly benefit rate in any
+4 benefit year.
+5 (f) Any employee who exercises their right to leave covered by temporary caregiver
+6 insurance under this chapter shall, upon the expiration of that leave, be entitled to be restored by
+7 the employer to the position held by the employee when the leave commenced, or to a position with
+8 equivalent seniority, status, employment benefits, pay, and other terms and conditions of
+9 employment including fringe benefits and service credits that the employee had been entitled to at
+10 the commencement of leave.
+11 (g) During any caregiver leave taken pursuant to this chapter, the employer shall maintain
+12 any existing health benefits of the employee in force for the duration of the leave as if the employee
+13 had continued in employment continuously from the date the employee commenced the leave until
+14 the date the caregiver benefits terminate; provided, however, that the employee shall continue to
+15 pay any employee shares of the cost of health benefits as required prior to the commencement of
+16 the caregiver benefits.
+17 (h) No individual shall be entitled to waiting period credit or temporary caregiver benefits
+18 under this section for any week beginning prior to January 1, 2014. An employer may require an
+19 employee who is entitled to leave under the federal Family and Medical Leave Act, Pub. L. No.
+20 103-3 and/or the Rhode Island parental and family medical leave act, § 28-48-1 et seq., who
+21 exercises their right to benefits under the temporary caregiver insurance program under this chapter,
+22 to take any temporary caregiver benefits received, concurrently, with any leave taken pursuant to
+23 the federal Family and Medical Leave Act and/or the Rhode Island parental and family medical
+24 leave act.
+25 (i) Temporary caregiver benefits shall be in accordance with the federal Family and
+26 Medical Leave Act (FMLA), Pub. L. No. 103-3 and the Rhode Island parental and family medical
+27 leave act in accordance with § 28-48-1 et seq. An employer may require an employee who is entitled
+28 to leave under the federal Family and Medical Leave Act, Pub. L. No. 103-3 and/or the Rhode
+29 Island parental and family medical leave act, § 28-48-1 et seq., who exercises their right to benefits
+30 under the temporary caregiver insurance program under this chapter, to take any temporary
+31 caregiver benefits received, concurrently, with any leave taken pursuant to the federal Family and
+32 Medical Leave Act and/or the Rhode Island parental and family medical leave act.
+33 SECTION 3. This act shall take effect January 1, 2026.
+LC002731 - Page 6 of 8
+
+========
+LC002731
+========
+LC002731 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+INSURANCE --CONTRIBUTIONS
+***
+1 This act would increase the taxable wage base for temporary disability insurance claims
+2 from thirty-eight thousand dollars ($38,000) to one hundred thousand dollars ($100,000) or the
+3 annual earnings needed by an individual to qualify for the maximum weekly benefit amount and
+4 the maximum duration under chapters 39 through 41 of this title. This act would also increase the
+5 percent of wages used in the base period to determine an individual's weekly benefit amount and
+6 would amend the duration period of caregiver benefits for the years 2027, 2028 and beyond.
+7 This act would take effect January 1, 2026.
+========
+LC002731
+========
+LC002731 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND B S L B T L D E U S D 2 ( g a t c d h i t ( t r a c e]
+[DELETED:  ( p w p b e d t t ( p e o t i p r t ( f a p o p S 4 2 ( ( a y f 2 y t w ( t e d o ( b ( s b]
+[DELETED:  p i g f e o t i c i a a s o t i e ( y o a a w i a t t i f d o t i A d o a s o t i c a w e ( y o a o o i t h i s t n o d f w a i m r d a i o s i w s ( s ( 2 b m r p ( p p i w 2 T p a t c i p t p w r b i a]
+[DELETED:  s w D ( ( “ o b m t d a p a e a b b ( “ m a b a o f s o d a s o s e ( ( ( c ( ( ( o p ( ( c f r ( “ h c m a i i i o p o m o ( s ( “ m a p i a c l m a p i a m c t 2 (]
+[DELETED:  t a ( t ( s p w ( h f t l c l ( b c ( t J c w d f ( o ( o ( o ( o (]
+[DELETED:  o ( d b ( A e w e t r t l c b t c i t e s s e b p a o t a c o e t ( a h t p t ( u e 1 e t t l ( T c b s b i a w t f F a M l t I u t t c i p u t c t t a t c M S]
+[DELETED:  T f a t p w T]

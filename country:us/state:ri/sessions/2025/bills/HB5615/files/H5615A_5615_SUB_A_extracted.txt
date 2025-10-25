@@ -1,0 +1,1432 @@
+Title: RELATING TO FOOD AND DRUGS -- UNIFORM CONTROLLED SUBSTANCES ACT
+Official Title: RELATING TO FOOD AND DRUGS -- UNIFORM CONTROLLED SUBSTANCES ACT
+Number of Sections: 1
+Source: versions - 5615  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5615 SUBSTITUTE A
+========
+LC001419/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 21-28-1.02, 21-28-3.20 and 21-28-3.20.1 of the General Laws in
+2 Chapter 21-28 entitled "Uniform Controlled Substances Act" are hereby amended to read as
+3 follows:
+4 21-28-1.02. Definitions. [Effective January 1, 2023; see Sunset Provision note.]
+5 Unless the context otherwise requires, the words and phrases as defined in this section are
+6 used in this chapter in the sense given them in the following definitions:
+7 (1) “Acute pain” means the normal, predicted physiological response to a noxious
+8 chemical, thermal, or mechanical stimulus and typically is associated with invasive procedures,
+9 trauma, and disease. Acute pain is generally pain of less than thirty (30) days duration.
+10 (1)(2) “Administer” refers to the direct application of controlled substances to the body of
+11 a patient or research subject by:
+12 (i) A practitioner Practitioners, or, in his or her their presence by his or her their authorized
+13 agent; or
+14 (ii) The patient or research subject at the direction and in the presence of the practitioner
+15 whether the application is by injection, inhalation, ingestion, or any other means.
+16 (2)(3) “Agent” means an authorized person who acts on behalf of, or at the direction of, a
+17 manufacturer, wholesaler, distributor, or dispenser; except that these terms do not include a
+18 common or contract carrier or warehouse operator when acting in the usual and lawful course of
+19 the carrier’s or warehouse operator’s business.
+1 (3)(4) “Apothecary” means a registered pharmacist as defined by the laws of this state and,
+2 where the context requires, the owner of a licensed pharmacy or other place of business where
+3 controlled substances are compounded or dispensed by a registered pharmacist; and includes
+4 registered assistant pharmacists as defined by existing law, but nothing in this chapter shall be
+5 construed as conferring on a person who is not registered as a pharmacist any authority, right, or
+6 privilege that is not granted to him or her by the pharmacy laws of the state.
+7 (4)(5) “Automated data processing system” means a system utilizing computer software
+8 and hardware for the purposes of record keeping.
+9 (6) “Chronic intractable pain” means pain that is: excruciating; constant; incurable, and of
+10 such severity that it dominates virtually every conscious moment; and/or produces mental and
+11 physical debilitation. A diagnosis and written documentation of chronic intractable pain made by a
+12 physician licensed in the State of Rhode Island specializing in pain management, oncology, or
+13 similar specialty defined in regulations shall constitute proof that the patient suffers from chronic
+14 intractable pain.
+15 (7) “Chronic pain” means pain of greater than ninety (90) days duration, excluding chronic
+16 intractable pain.
+17 (5)(8) “Computer” means programmable electronic device capable of multi-functions,
+18 including, but not limited to: storage, retrieval, and processing of information.
+19 (6)(9) “Control” means to add a drug or other substance or immediate precursor to a
+20 schedule under this chapter, whether by transfer from another schedule or otherwise.
+21 (7)(10) “Controlled substance” means a drug, substance, immediate precursor, or synthetic
+22 drug in schedules I — V of this chapter. The term shall not include distilled spirits, wine, or malt
+23 beverages, as those terms are defined or used in chapter 1 of title 3, nor tobacco.
+24 (8)(11) “Co-prescribing” means issuing a prescription for an opioid antagonist along with
+25 a prescription for an opioid analgesic.
+26 (9)(12) “Counterfeit substance” means a controlled substance that, or the container or
+27 labeling of which, without authorization bears the trademark, trade name, or other identifying mark,
+28 imprint, number, or device, or any likeness of them, of a manufacturer, distributor, or dispenser,
+29 other than the person or persons who in fact manufactured, distributed, or dispensed the substance
+30 and that thereby falsely purports or is represented to be the product of, or to have been distributed
+31 by, the other manufacturer, distributor, or dispenser, or which substance is falsely purported to be
+32 or represented to be one of the controlled substances by a manufacturer, distributor, or dispenser.
+33 (10)(13) “CRT” means cathode ray tube used to impose visual information on a screen.
+34 (11)(14) “Deliver” or “delivery” means the actual, constructive, or attempted transfer of a
+LC001419/SUB A - Page 2 of 20
+1 controlled substance or imitation controlled substance, whether or not there exists an agency
+2 relationship.
+3 (12)(15) “Department” means the department of health of this state.
+4 (13)(16) “Depressant or stimulant drug” means:
+5 (i) A drug that contains any quantity of:
+6 (A) Barbituric acid or derivatives, compounds, mixtures, or preparations of barbituric acid;
+7 and
+8 (B) “Barbiturate” or “barbiturates” includes all hypnotic and/or somnifacient drugs,
+9 whether or not derivatives of barbituric acid, except that this definition shall not include bromides
+10 and narcotics.
+11 (ii) A drug that contains any quantity of:
+12 (A) Amphetamine or any of its optical isomers;
+13 (B) Any salt of amphetamine and/or desoxyephedrine or any salt of an optical isomer of
+14 amphetamine and/or desoxyephedrine, or any compound, mixture, or preparation of them.
+15 (iii) A drug that contains any quantity of coca leaves. “Coca leaves” includes cocaine, or
+16 any compound, manufacture, salt, derivative, mixture, or preparation of coca leaves, except
+17 derivatives of coca leaves, that do not contain cocaine, ecgonine, or substance from which cocaine
+18 or ecgonine may be synthesized or made.
+19 (iv) Any other drug or substance that contains any quantity of a substance that the attorney
+20 general of the United States, or the director of health, after investigation, has found to have, or by
+21 regulation designates as having, a potential for abuse because of its depressant or stimulant effect
+22 on the central nervous system.
+23 (14)(17) “Director” means the director of health.
+24 (15)(18) “Dispense” means to deliver, distribute, leave with, give away, or dispose of a
+25 controlled substance to the ultimate user or human research subject by or pursuant to the lawful
+26 order of a practitioner, including the packaging, labeling, or compounding necessary to prepare the
+27 substance for that delivery.
+28 (16)(19) “Dispenser” is a practitioner who delivers a controlled substance to the ultimate
+29 user or human research subject.
+30 (17)(20) “Distribute” means to deliver (other than by administering or dispensing) a
+31 controlled substance or an imitation controlled substance and includes actual constructive, or
+32 attempted transfer. “Distributor” means a person who so delivers a controlled substance or an
+33 imitation controlled substance.
+34 (18)(21) “Downtime” means that period of time when a computer is not operable.
+LC001419/SUB A - Page 3 of 20
+1 (19)(22) “Drug addicted person” means a person who exhibits a maladaptive pattern of
+2 behavior resulting from drug use, including one or more of the following: impaired control over
+3 drug use; compulsive use; and/or continued use despite harm, and craving.
+4 (20)(23) “Drug Enforcement Administration” means the Drug Enforcement
+5 Administration, United States Department of Justice or its successor.
+6 (21)(24) “Federal law” means the Comprehensive Drug Abuse Prevention and Control Act
+7 of 1970, (84 stat. 1236) (see generally 21 U.S.C. § 801 et seq.), and all regulations pertaining to
+8 that federal act.
+9 (22)(25) “Hardware” means the fixed component parts of a computer.
+10 (23)(26) “Hospital” means an institution as defined in chapter 17 of title 23.
+11 (24)(27) “Imitation controlled substance” means a substance that is not a controlled
+12 substance, that by dosage unit, appearance (including color, shape, size, and markings), or by
+13 representations made, would lead a reasonable person to believe that the substance is a controlled
+14 substance and, which imitation controlled substances contain substances that if ingested, could be
+15 injurious to the health of a person. In those cases when the appearance of the dosage unit is not
+16 reasonably sufficient to establish that the substance is an “imitation controlled substance” (for
+17 example in the case of powder or liquid), the court or authority concerned should consider, in
+18 addition to all other logically relevant factors, the following factors as related to “representations
+19 made” in determining whether the substance is an “imitation controlled substance”:
+20 (i) Statement made by an owner, possessor, transferor, recipient, or by anyone else in
+21 control of the substance concerning the nature of the substance, or its use or effect.
+22 (ii) Statements made by the owner, possessor, or transferor, to the recipient that the
+23 substance may be resold for substantial profit.
+24 (iii) Whether the substance is packaged in a manner reasonably similar to packaging of
+25 illicit controlled substances.
+26 (iv) Whether the distribution or attempted distribution included an exchange of or demand
+27 for money or other property as consideration, and whether the amount of the consideration was
+28 substantially greater than the reasonable value of the non-controlled substance.
+29 (25)(28) “Immediate precursor” means a substance:
+30 (i) That the director of health has found to be, and by regulation designated as being, the
+31 principal compound used, or produced primarily for use, in the manufacture of a controlled
+32 substance;
+33 (ii) That is an immediate chemical intermediary used or likely to be used in the manufacture
+34 of those controlled substances; and
+LC001419/SUB A - Page 4 of 20
+1 (iii) The control of which is necessary to prevent, curtail, or limit the manufacture of that
+2 controlled substance.
+3 (26)(29) “Laboratory” means a laboratory approved by the department of health as proper
+4 to be entrusted with controlled substances and the use of controlled substances for scientific and
+5 medical purposes and for the purposes of instruction.
+6 (27)(30) “Manufacture” means the production, preparation, propagation, cultivation,
+7 compounding, or processing of a drug or other substance, including an imitation controlled
+8 substance, either directly or indirectly or by extraction from substances of natural origin, or
+9 independently by means of chemical synthesis or by a combination of extraction and chemical
+10 synthesis and includes any packaging or repackaging of the substance or labeling or relabeling of
+11 its container in conformity with the general laws of this state except by a practitioner as an incident
+12 to his or her administration or dispensing of the drug or substance in the course of his or her
+13 professional practice.
+14 (28)(31) “Manufacturer” means a person who manufactures but does not include an
+15 apothecary who compounds controlled substances to be sold or dispensed on prescriptions.
+16 (29)(32) “Marijuana” means all parts of the plant cannabis sativa L., whether growing or
+17 not; the seeds of the plant; the resin extracted from any part of the plant; and every compound,
+18 manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, but shall not
+19 include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the
+20 seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of
+21 mature stalks, (except the resin extracted from it), fiber, oil or cake, or the sterilized seed from the
+22 plant which is incapable of germination. Marijuana shall not include “industrial hemp” or
+23 “industrial hemp products” which satisfy the requirements of chapter 26 of title 2, nor shall it
+24 include products that have been approved for marketing as a prescription medication by the U.S.
+25 Food and Drug Administration and legally prescribed.
+26 (30)(33) “Narcotic drug” means any of the following, whether produced directly or
+27 indirectly by extraction from substances of vegetable origin, or independently by means of
+28 chemical synthesis or by a combination of extraction and chemical synthesis:
+29 (i) Opium and opiates.
+30 (ii) A compound, manufacture, salt, derivative, or preparation of opium or opiates.
+31 (iii) A substance (and any compound, manufacture, salt, derivative, or preparation of it)
+32 that is chemically identical with any of the substances referred to in subsections (30)(i) and (30)(ii).
+33 (iv) Any other substance that the attorney general of the United States, or his or her
+34 successor, or the director of health, after investigation, has found to have, and by regulation
+LC001419/SUB A - Page 5 of 20
+1 designates as having, a potential for abuse similar to opium and opiates.
+2 (31)(34) “Official written order” means an order written on a form provided for that
+3 purpose by the Drug Enforcement Administration under any laws of the United States making
+4 provision for an official form, if order forms are authorized and required by federal law, and if no
+5 order form is provided then on an official form provided for that purpose by the director of health.
+6 (32) “Opiate” means any substance having an addiction-forming or addiction-sustaining
+7 liability similar to morphine or being capable of conversion into a drug having addiction-forming
+8 or addiction-sustaining liability.
+9 (33)(35) “Opioid analgesics” means and includes, but is not limited to, the medicines
+10 buprenophine, medications butorphanol, codeine, hydrocodone, hydromorphone, levorphanol,
+11 meperidine, methadone, morphine, nalbuphine, oxycodone, oxymorphone, pentazocine,
+12 propoxyphene as well as their brand names, isomers, and combinations, or other medications
+13 approved by the department.
+14 (34)(36) “Opioid antagonist” means naloxone hydrochloride and any other drug approved
+15 by the United States Food and Drug Administration for the treatment of opioid overdose.
+16 (37) “Opioid therapy” means to prescribe, administer, or dispense controlled substances
+17 not prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner
+18 for a condition by any route of administration.
+19 (35)(38) “Opium poppy” means the plant of the species papaver somniferum L., except the
+20 seeds of the plant.
+21 (36)(39) “Ounce” means an avoirdupois ounce as applied to solids and semi-solids, and a
+22 fluid ounce as applied to liquids.
+23 (37)(40) “Person” means any corporation, association, partnership, or one or more
+24 individuals.
+25 (38)(41) “Physical dependence” means a state of adaptation that is manifested by a drug
+26 class specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction,
+27 decreasing blood level of the drug, and/or administration of an antagonist.
+28 (39)(42) “Poppy straw” means all parts, except the seeds, of the opium poppy, after
+29 mowing.
+30 (40)(43) “Practitioner” means:
+31 (i) A physician, osteopath, dentist, chiropodist, veterinarian, scientific investigator, or other
+32 person licensed, registered, or permitted to distribute, dispense, conduct research with respect to or
+33 to administer a controlled substance in the course of professional practice or research in this state.
+34 (ii) A pharmacy, hospital, or other institution licensed, registered or permitted to distribute,
+LC001419/SUB A - Page 6 of 20
+1 dispense, conduct research with respect to, or to administer a controlled substance in the course of
+2 professional practice or research in this state.
+3 (41)(44) “Printout” means a hard copy produced by computer that is readable without the
+4 aid of any special device.
+5 (42)(45) “Production” includes the manufacture, planting, cultivation, growing, or
+6 harvesting of a controlled substance.
+7 (43)(46) “Researcher” means a person authorized by the director of health to conduct a
+8 laboratory as defined in this chapter.
+9 (44)(47) “Sell” includes sale, barter, gift, transfer, or delivery in any manner to another, or
+10 to offer or agree to do the same.
+11 (45)(48) “Software” means programs, procedures, and storage of required information
+12 data.
+13 (46)(49) “Synthetic drugs” means any synthetic cannabinoids or piperazines or any
+14 synthetic cathinones as provided for in schedule I.
+15 (50) “Therapeutic purpose” means the use of controlled substances for the treatment of
+16 pain in appropriate doses as indicated by the patient’s medical record. Any other use is
+17 nontherapeutic.
+18 (47)(51) “Ultimate user” means a person who lawfully possesses a controlled substance for
+19 his or her own use or for the use of a member of his or her household, or for administering to an
+20 animal owned by him or her or by a member of his or her household.
+21 (48)(52) “Wholesaler” means a person who sells, vends, or distributes at wholesale, or as
+22 a jobber, broker agent, or distributor, or for resale in any manner in this state any controlled
+23 substance.
+24 21-28-3.20. Authority of practitioner to prescribe, administer, and dispense.
+25 (a)(1) A practitioner Practitioners, in good faith and in the course of his or her their
+26 professional practice only, may prescribe, administer, and dispense controlled substances, or he or
+27 she may cause the controlled substances to be administered by a nurse or intern under his or her
+28 their direction and supervision after completing an assessment of pain experienced by a patient.
+29 (2) Opioid therapy must only be initiated for acute pain unresponsive to non-opioid
+30 therapies or if, based on clinical assessment, benefits of opioid therapy for acute pain management
+31 outweigh risks.
+32 (2)(3) When issuing an initial a prescription for an opiate opioid to an adult patient, a
+33 practitioner shall not exceed the maximum daily dose requirements established by the department
+34 of health must prescribe the lowest effective dosage of an immediate-release opioid in a quantity
+LC001419/SUB A - Page 7 of 20
+1 sufficient to treat the expected duration of pain. A practitioner shall not write an initial prescription
+2 for an opioid in a quantity exceeding a seven (7)-day supply for treatment of acute pain.
+3 (3)(4) Except as provided in subsection (a)(4) of this section, a practitioner shall not issue
+4 an opiate prescription to a minor for more than twenty (20) doses at any time. Prior to issuing an
+5 opiate prescription to a minor, a practitioner shall discuss with the parent or guardian of the minor
+6 the risks associated with opiate use and the reasons why the prescription is necessary. The
+7 practitioner shall document his or her discussion with the parent or guardian in the medical record.
+8 (4)(5) Notwithstanding the limitations referenced in subsection (a)(3) of this section, if, in
+9 the professional medical judgment of a practitioner, a greater dosage or supply of an opiate is
+10 required to treat the minor patient’s acute medical condition or is necessary for the treatment of
+11 chronic pain management, sickle cell related pain, intractable pain treatment as defined in chapter
+12 37.4 of title 5, pain associated with a cancer diagnosis, or for palliative care, then the practitioner
+13 may issue a prescription for the quantity needed to treat the acute medical condition, chronic pain,
+14 sickle cell related pain, intractable pain, pain associated with a cancer diagnosis, or pain
+15 experienced while the patient is in palliative care, provided that this dosage shall not exceed the
+16 maximum daily dosage permitted for the treatment of this pain as set forth in the department of
+17 health regulations. The medical condition triggering the prescription of an opiate shall opioid must
+18 be documented in the minor patient’s medical record, and the practitioner shall must indicate that
+19 a non-opiate non-opioid alternative was not appropriate to address the medical condition.
+20 (5) Notwithstanding subsections (a)(2) and (a)(3) of this section, this section shall not apply
+21 to medications designed for the treatment of substance abuse or opioid dependence.
+22 (b) The prescription-monitoring drug monitoring program shall must be reviewed prior to
+23 starting any opioid. A prescribing practitioner, or designee as authorized by § 21-28-3.32(a)(3),
+24 shall must review the patient’s prescribed controlled substance use in the prescription-monitoring
+25 drug monitoring program prior to refilling or initiating opioid therapy with an intrathecal pump,
+26 including opioid therapy delivered through an intrathecal pump. The review must include gathering
+27 a history of any prescribed methadone and buprenorphine. For patients the prescribing practitioner
+28 is maintaining being maintained on continuous opioid therapy for pain for three (3) months or
+29 longer, the prescribing practitioner shall must review information from the prescription-monitoring
+30 drug monitoring program at least every three (3) months. Documentation of that review shall must
+31 be noted in the patient’s medical record.
+32 (c) The director of health shall develop regulations for prescribing practitioners on
+33 appropriate limits of opioid use in acute pain management. Initial prescriptions of opioids for acute
+34 pain management of outpatient adults shall not exceed thirty (30) morphine milligram equivalents
+LC001419/SUB A - Page 8 of 20
+1 (MMEs) total daily dose per day for a maximum total of twenty (20) doses, and, for pediatric
+2 patients, the appropriate opioid dosage maximum per the department of health.
+3 (d)(c) For the purposes of this section, acute pain management shall must not include
+4 management or treatment for chronic intractable pain management, pain associated with a cancer
+5 diagnosis, pain related to sickle cell disease, palliative or nursing home end-of-life care, intractable
+6 or chronic intractable pain, as provided in § 5-37.4-2, or other exception exceptions in accordance
+7 with department of health regulations.
+8 (e) Subsection (c) shall not apply to medications designed for the treatment of substance
+9 abuse or opioid dependence.
+10 (f) On or before September 1, 2018, the director of health shall develop, and make available
+11 to healthcare practitioners, information on best practices for co-prescribing opioid antagonists to
+12 patients. The best practices information shall identify situations in which co-prescribing an opioid
+13 antagonist may be appropriate, including, but not limited to:
+14 (1) In conjunction with a prescription for an opioid medication, under circumstances in
+15 which the healthcare practitioner determines the patient is at an elevated risk for an opioid drug
+16 overdose;
+17 (2) In conjunction with medications prescribed pursuant to a course of medication therapy
+18 management for the treatment of a substance use disorder involving opioids; or
+19 (3) Under any other circumstances in which a healthcare practitioner identifies a patient as
+20 being at an elevated risk for an opioid drug overdose.
+21 (g) The best practices information developed pursuant to subsection (f) of this section shall
+22 include guidelines for determining when a patient is at an elevated risk for an opioid drug overdose,
+23 including, but not limited to, situations in which the patient:
+24 (1) Meets the criteria provided in the opioid overdose toolkit published by the federal
+25 substance abuse and mental health service administration;
+26 (2) Is receiving high-dose, extended-release, or long-acting opioid medications;
+27 (3) Has a documented history of an alcohol or substance use disorder, or a mental health
+28 disorder;
+29 (4) Has a respiratory ailment or other co-morbidity that may be exacerbated by the use of
+30 opioid medications;
+31 (5) Has a known history of intravenous drug use or misuse of prescription opioids;
+32 (6) Has received emergency medical care or been hospitalized for an opioid overdose; or
+33 (7) Uses opioids with antidepressants, benzodiazepines, alcohol, or other drugs.
+34 (h) On or before September 1, 2018, the director of health and the secretary of the executive
+LC001419/SUB A - Page 9 of 20
+1 office of health and human services shall develop strategies that include:
+2 (1) Allowing practitioners in non-pharmacy settings to prescribe and dispense opioid
+3 antagonists; and
+4 (2) Ensuring that opioid antagonists that are distributed in a non-pharmacy setting are
+5 eligible for reimbursement from any health insurance carrier, as defined under chapters 18, 19, 20,
+6 and 41 of title 27, and the Rhode Island medical assistance program, as defined under chapter 7.2
+7 of title 42.
+8 (d) The director of health may promulgate regulations for practitioners on opioid use in
+9 pain management.
+10 21-28-3.20.1. Authority of practitioner to prescribe, administer, and dispense —
+11 Cancer, palliative care, and chronic intractable pain.
+12 (a) A practitioner, in good faith and in the course of his or her professional practice
+13 managing pain associated with a cancer diagnosis, palliative or nursing home care, intractable or
+14 chronic intractable pain as provided in § 5-37.4-2, or other condition allowed by department of
+15 health regulations pursuant to the exception in § 21-28-3.20(d), may prescribe, administer, and
+16 dispense controlled substances without regard to the CDC Clinical Practice Guideline for
+17 Prescribing Opioids for Pain—United States, 2022.
+18 (b) The director of health may promulgate those rules and regulations necessary to
+19 effectuate the provisions of this section and ensure that rules governing pain management
+20 associated with a cancer diagnosis, palliative or nursing home care, intractable or chronic
+21 intractable pain as provided in § 5-37.4-2, or other condition allowed by department of health
+22 regulations pursuant to the exception created in § 21-28-3.20(d), shall:
+23 (1) Take into consideration the individualized needs of patients covered by this section;
+24 and
+25 (2) Make provisions for practitioners, acting in good faith, and in the course of their
+26 profession, and managing pain associated with their patients’ illness to use their best judgment
+27 notwithstanding any statute, rule, or regulation to the contrary. may prescribe, administer, or
+28 dispense controlled substances not prohibited by law for a therapeutic purpose to a person
+29 diagnosed and treated by a practitioner for a condition resulting in chronic intractable pain, if this
+30 diagnosis and treatment has been documented in the practitioner’s medical records.
+31 (b) Concern about a patient’s substance use disorder or the possibility of a substance use
+32 disorder in and of itself is not a reason to withhold or prohibit prescribing, administering, or
+33 dispensing controlled substances for the therapeutic purpose of treatment of a person for chronic
+34 intractable pain. Provided, however, practitioners must check the patient’s prescribed controlled
+LC001419/SUB A - Page 10 of 20
+1 substances use in the prescription drug monitoring program, verify the patient's methadone use,
+2 refer the patient to a substance use disorder specialist, as appropriate, and enter into a written patient
+3 treatment agreement in accordance with regulations promulgated by the department.
+4 (c) The provisions of subsection (a) of this section provide no authority to a practitioner to
+5 prescribe, administer, or dispense controlled substances to a person the practitioner knows or should
+6 know to be using the prescribed, administered, or dispensed controlled substance
+7 nontherapeutically.
+8 (d) Nothing in this section shall be construed to prohibit a practitioner or pharmacist from
+9 denying a prescription based on their best clinical judgment.
+10 (e) Nothing in this section shall deny the right of the director to deny, revoke, or suspend
+11 the license of any practitioner or discipline any practitioner who:
+12 (1) Prescribes, administers, or dispenses a controlled substance that is nontherapeutic in
+13 nature or nontherapeutic in the manner in which it is prescribed, administered, or dispensed, or fails
+14 to keep complete and accurate ongoing records of the diagnosis and treatment plan;
+15 (2) Fails to keep complete and accurate records of controlled substances received,
+16 prescribed, dispensed, and administered, and disposal of drugs as required by law or of controlled
+17 substances scheduled in the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21
+18 U.S.C. § 801 et seq. A practitioner shall keep records of controlled substances received, prescribed,
+19 dispensed and administered, and disposal of these drugs shall include the date of receipt of the
+20 drugs, the sale or disposal of the drugs by the practitioner, the name and address of the person
+21 receiving the drugs, and the reason for the disposal or the dispensing of the drugs to the person;
+22 (3) Writes false or fictitious prescriptions for controlled substances as prohibited by law,
+23 or for controlled substances scheduled in the Comprehensive Drug Abuse Prevention and Control
+24 Act of 1970, 21 U.S.C. § 801 et seq.; or
+25 (4) Prescribes, administers, or dispenses in a manner that is inconsistent with provisions of
+26 the law, or the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21 U.S.C. § 801
+27 et seq., any controlled substance.
+28 (f) The director of health may promulgate those rules and regulations necessary to
+29 effectuate the provisions of this section.
+30 SECTION 2. Chapter 5-37.4 of the General Laws entitled "Intractable Pain Treatment" is
+31 hereby repealed in its entirety.
+32 CHAPTER 5-37.4
+33 Intractable Pain Treatment
+34 5-37.4-1. Title.
+LC001419/SUB A - Page 11 of 20
+1 This chapter shall be known and may be cited as the “Intractable Pain Treatment Act.”
+2 5-37.4-2. Definitions.
+3 For purposes of this chapter:
+4 (1) “Chronic intractable pain” means pain that is: excruciating; constant; incurable, and of
+5 such severity that it dominates virtually every conscious moment; and/or produces mental and
+6 physical debilitation. A diagnosis and written documentation of chronic intractable pain made by a
+7 physician licensed in the state of Rhode Island specializing in pain management, oncology, or
+8 similar specialty defined in regulations shall constitute proof that the patient suffers from chronic
+9 intractable pain.
+10 (2) “Director” means the director of the department of health of the state of Rhode Island.
+11 (3) “Intractable pain” means a pain state that persists beyond the usual course of an acute
+12 disease or healing of an injury or results from a chronic disease or condition that causes continuous
+13 or intermittent pain over a period of months or years. Unless the context clearly indicates otherwise,
+14 the term intractable pain includes chronic intractable pain.
+15 (4) “Practitioner” means healthcare professionals licensed to distribute, dispense, or
+16 administer controlled substances in the course of professional practice as defined in § 21-28-
+17 1.02(41).
+18 (5) “Therapeutic purpose” means the use of controlled substances for the treatment of pain
+19 in appropriate doses as indicated by the patient’s medical record. Any other use is nontherapeutic.
+20 5-37.4-3. Controlled substances.
+21 (a) A practitioner may prescribe, administer, or dispense controlled substances not
+22 prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner for
+23 a condition resulting in intractable pain, if this diagnosis and treatment has been documented in the
+24 practitioner’s medical records. No practitioner shall be subject to disciplinary action by the board
+25 solely for prescribing, administering, or dispensing controlled substances when prescribed,
+26 administered, or dispensed for a therapeutic purpose for a person diagnosed and treated by a
+27 practitioner for a condition resulting in intractable pain, if this diagnosis and treatment has been
+28 documented in the practitioner’s medical records.
+29 (b) The provisions of subsection (a) of this section do not apply to those persons being
+30 treated by a practitioner for chemical dependency because of their use of controlled substances not
+31 related to the therapeutic purposes of treatment of intractable pain.
+32 (c) The provisions of subsection (a) of this section provide no authority to a practitioner to
+33 prescribe, administer, or dispense controlled substances to a person the practitioner knows or should
+34 know to be using the prescribed, administered, or dispensed controlled substance
+LC001419/SUB A - Page 12 of 20
+1 nontherapeutically.
+2 (d) Drug dependency or the possibility of drug dependency in and of itself is not a reason
+3 to withhold or prohibit prescribing, administering, or dispensing controlled substances for the
+4 therapeutic purpose of treatment of a person for intractable pain, nor shall dependency relating
+5 solely to this prescribing, administering, or dispensing subject a practitioner to disciplinary action
+6 by the director.
+7 (e) In coordination with §§ 21-28-3.20 and 21-28-3.20.1, the director of health may
+8 promulgate rules and regulations necessary to effectuate the purpose of this chapter and ensure that
+9 patients with intractable or chronic intractable pain are treated or referred to an appropriate
+10 specialist.
+11 (f) Nothing in this section shall be construed to prohibit a practitioner or pharmacist from
+12 denying a prescription based on their best clinical judgment.
+13 (g) Nothing in this section shall deny the right of the director to deny, revoke, or suspend
+14 the license of any practitioner or discipline any practitioner who:
+15 (1) Prescribes, administers, or dispenses a controlled substance that is nontherapeutic in
+16 nature or nontherapeutic in the manner in which it is prescribed, administered, or dispensed, or fails
+17 to keep complete and accurate ongoing records of the diagnosis and treatment plan;
+18 (2) Fails to keep complete and accurate records of controlled substances received,
+19 prescribed, dispensed, and administered, and disposal of drugs as required by law or of controlled
+20 substances scheduled in the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21
+21 U.S.C. § 801 et seq. A practitioner shall keep records of controlled substances received, prescribed,
+22 dispensed and administered, and disposal of these drugs shall include the date of receipt of the
+23 drugs, the sale or disposal of the drugs by the practitioner, the name and address of the person
+24 receiving the drugs, and the reason for the disposal or the dispensing of the drugs to the person;
+25 (3) Writes false or fictitious prescriptions for controlled substances as prohibited by law,
+26 or for controlled substances scheduled in the Comprehensive Drug Abuse Prevention and Control
+27 Act of 1970, 21 U.S.C § 801 et seq.; or
+28 (4) Prescribes, administers, or dispenses in a manner which is inconsistent with provisions
+29 of the law, or the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21 U.S.C. §
+30 801 et seq., any controlled substance.
+31 (h) A practitioner may administer a controlled substance prescribed by a practitioner and
+32 not prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner
+33 for a condition resulting in intractable pain, if this diagnosis and treatment has been documented in
+34 the practitioner’s medical records. No practitioner shall be subject to disciplinary action by the
+LC001419/SUB A - Page 13 of 20
+1 director solely for administering controlled substances when prescribed or dispensed for a
+2 therapeutic purpose for a person diagnosed and treated by a practitioner for a condition resulting in
+3 intractable pain, if this diagnosis and treatment has been documented in the practitioner’s medical
+4 records of the patient.
+5 SECTION 3. Section 21-28-1.02 of the General Laws in Chapter 21-28 entitled "Uniform
+6 Controlled Substances Act" is hereby repealed.
+7 21-28-1.02. Definitions. [Effective until January 1, 2023; see Sunset Provision note.]
+8 Unless the context otherwise requires, the words and phrases as defined in this section are
+9 used in this chapter in the sense given them in the following definitions:
+10 (1) “Administer” refers to the direct application of controlled substances to the body of a
+11 patient or research subject by:
+12 (i) A practitioner, or, in his or her presence by his or her authorized agent; or
+13 (ii) The patient or research subject at the direction and in the presence of the practitioner
+14 whether the application is by injection, inhalation, ingestion, or any other means.
+15 (2) “Agent” means an authorized person who acts on behalf of, or at the direction of, a
+16 manufacturer, wholesaler, distributor, or dispenser; except that these terms do not include a
+17 common or contract carrier or warehouse operator when acting in the usual and lawful course of
+18 the carrier’s or warehouse operator’s business.
+19 (3) “Apothecary” means a registered pharmacist as defined by the laws of this state and,
+20 where the context requires, the owner of a licensed pharmacy or other place of business where
+21 controlled substances are compounded or dispensed by a registered pharmacist; and includes
+22 registered assistant pharmacists as defined by existing law, but nothing in this chapter shall be
+23 construed as conferring on a person who is not registered as a pharmacist any authority, right, or
+24 privilege that is not granted to him or her by the pharmacy laws of the state.
+25 (4) “Automated data processing system” means a system utilizing computer software and
+26 hardware for the purposes of record keeping.
+27 (5) “Certified law enforcement prescription drug diversion investigator” means a certified
+28 law enforcement officer assigned by his or her qualified law enforcement agency to investigate
+29 prescription drug diversion.
+30 (6) “Computer” means programmable electronic device capable of multi-functions,
+31 including, but not limited to: storage, retrieval, and processing of information.
+32 (7) “Control” means to add a drug or other substance or immediate precursor to a schedule
+33 under this chapter, whether by transfer from another schedule or otherwise.
+34 (8) “Controlled substance” means a drug, substance, immediate precursor, or synthetic
+LC001419/SUB A - Page 14 of 20
+1 drug in schedules I — V of this chapter. The term shall not include distilled spirits, wine, or malt
+2 beverages, as those terms are defined or used in chapter 1 of title 3, nor tobacco.
+3 (9) “Co-prescribing” means issuing a prescription for an opioid antagonist along with a
+4 prescription for an opioid analgesic.
+5 (10) “Counterfeit substance” means a controlled substance that, or the container or labeling
+6 of which, without authorization bears the trademark, trade name, or other identifying mark, imprint,
+7 number, or device, or any likeness of them, of a manufacturer, distributor, or dispenser, other than
+8 the person or persons who in fact manufactured, distributed, or dispensed the substance and that
+9 thereby falsely purports or is represented to be the product of, or to have been distributed by, the
+10 other manufacturer, distributor, or dispenser, or which substance is falsely purported to be or
+11 represented to be one of the controlled substances by a manufacturer, distributor, or dispenser.
+12 (11) “CRT” means cathode ray tube used to impose visual information on a screen.
+13 (12) “Deliver” or “delivery” means the actual, constructive, or attempted transfer of a
+14 controlled substance or imitation controlled substance, whether or not there exists an agency
+15 relationship.
+16 (13) “Department” means the department of health of this state.
+17 (14) “Depressant or stimulant drug” means:
+18 (i) A drug that contains any quantity of:
+19 (A) Barbituric acid or derivatives, compounds, mixtures, or preparations of barbituric acid;
+20 and
+21 (B) “Barbiturate” or “barbiturates” includes all hypnotic and/or somnifacient drugs,
+22 whether or not derivatives of barbituric acid, except that this definition shall not include bromides
+23 and narcotics.
+24 (ii) A drug that contains any quantity of:
+25 (A) Amphetamine or any of its optical isomers;
+26 (B) Any salt of amphetamine and/or desoxyephedrine or any salt of an optical isomer of
+27 amphetamine and/or desoxyephedrine, or any compound, mixture, or preparation of them.
+28 (iii) A drug that contains any quantity of coca leaves. “Coca leaves” includes cocaine, or
+29 any compound, manufacture, salt, derivative, mixture, or preparation of coca leaves, except
+30 derivatives of coca leaves, that do not contain cocaine, ecgonine, or substance from which cocaine
+31 or ecgonine may be synthesized or made.
+32 (iv) Any other drug or substance that contains any quantity of a substance that the attorney
+33 general of the United States, or the director of health, after investigation, has found to have, or by
+34 regulation designates as having, a potential for abuse because of its depressant or stimulant effect
+LC001419/SUB A - Page 15 of 20
+1 on the central nervous system.
+2 (15) “Director” means the director of health.
+3 (16) “Dispense” means to deliver, distribute, leave with, give away, or dispose of a
+4 controlled substance to the ultimate user or human research subject by or pursuant to the lawful
+5 order of a practitioner, including the packaging, labeling, or compounding necessary to prepare the
+6 substance for that delivery.
+7 (17) “Dispenser” is a practitioner who delivers a controlled substance to the ultimate user
+8 or human research subject.
+9 (18) “Distribute” means to deliver (other than by administering or dispensing) a controlled
+10 substance or an imitation controlled substance and includes actual constructive, or attempted
+11 transfer. “Distributor” means a person who so delivers a controlled substance or an imitation
+12 controlled substance.
+13 (19) “Downtime” means that period of time when a computer is not operable.
+14 (20) “Drug addicted person” means a person who exhibits a maladaptive pattern of
+15 behavior resulting from drug use, including one or more of the following: impaired control over
+16 drug use; compulsive use; and/or continued use despite harm, and craving.
+17 (21) “Drug Enforcement Administration” means the Drug Enforcement Administration,
+18 United States Department of Justice or its successor.
+19 (22) “Federal law” means the Comprehensive Drug Abuse Prevention and Control Act of
+20 1970, (84 stat. 1236) (see generally 21 U.S.C. § 801 et seq.), and all regulations pertaining to that
+21 federal act.
+22 (23) “Hardware” means the fixed component parts of a computer.
+23 (24) “Hospital” means an institution as defined in chapter 17 of title 23.
+24 (25) “Imitation controlled substance” means a substance that is not a controlled substance,
+25 that by dosage unit, appearance (including color, shape, size, and markings), or by representations
+26 made, would lead a reasonable person to believe that the substance is a controlled substance and,
+27 which imitation controlled substances contain substances that if ingested, could be injurious to the
+28 health of a person. In those cases when the appearance of the dosage unit is not reasonably sufficient
+29 to establish that the substance is an “imitation controlled substance” (for example in the case of
+30 powder or liquid), the court or authority concerned should consider, in addition to all other logically
+31 relevant factors, the following factors as related to “representations made” in determining whether
+32 the substance is an “imitation controlled substance”:
+33 (i) Statement made by an owner, possessor, transferor, recipient, or by anyone else in
+34 control of the substance concerning the nature of the substance, or its use or effect.
+LC001419/SUB A - Page 16 of 20
+1 (ii) Statements made by the owner, possessor, or transferor, to the recipient that the
+2 substance may be resold for substantial profit.
+3 (iii) Whether the substance is packaged in a manner reasonably similar to packaging of
+4 illicit controlled substances.
+5 (iv) Whether the distribution or attempted distribution included an exchange of or demand
+6 for money or other property as consideration, and whether the amount of the consideration was
+7 substantially greater than the reasonable value of the non-controlled substance.
+8 (26) “Immediate precursor” means a substance:
+9 (i) That the director of health has found to be, and by regulation designated as being, the
+10 principal compound used, or produced primarily for use, in the manufacture of a controlled
+11 substance;
+12 (ii) That is an immediate chemical intermediary used, or likely to be used, in the
+13 manufacture of those controlled substances; and
+14 (iii) The control of which is necessary to prevent, curtail, or limit the manufacture of that
+15 controlled substance.
+16 (27) “Laboratory” means a laboratory approved by the department of health as proper to
+17 be entrusted with controlled substances and the use of controlled substances for scientific and
+18 medical purposes and for the purposes of instruction.
+19 (28) “Manufacture” means the production, preparation, propagation, cultivation,
+20 compounding, or processing of a drug or other substance, including an imitation controlled
+21 substance, either directly or indirectly or by extraction from substances of natural origin, or
+22 independently by means of chemical synthesis or by a combination of extraction and chemical
+23 synthesis and includes any packaging or repackaging of the substance or labeling or relabeling of
+24 its container in conformity with the general laws of this state except by a practitioner as an incident
+25 to his or her administration or dispensing of the drug or substance in the course of his or her
+26 professional practice.
+27 (29) “Manufacturer” means a person who manufactures but does not include an apothecary
+28 who compounds controlled substances to be sold or dispensed on prescriptions.
+29 (30) “Marijuana” means all parts of the plant cannabis sativa L., whether growing or not;
+30 the seeds of the plant; the resin extracted from any part of the plant; and every compound,
+31 manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, but shall not
+32 include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the
+33 seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of
+34 mature stalks, (except the resin extracted from it), fiber, oil or cake, or the sterilized seed from the
+LC001419/SUB A - Page 17 of 20
+1 plant which is incapable of germination. Marijuana shall not include “industrial hemp” or
+2 “industrial hemp products” which satisfy the requirements of chapter 26 of title 2, nor shall it
+3 include products that have been approved for marketing as a prescription medication by the U.S.
+4 Food and Drug Administration and legally prescribed.
+5 (31) “Narcotic drug” means any of the following, whether produced directly or indirectly
+6 by extraction from substances of vegetable origin, or independently by means of chemical synthesis
+7 or by a combination of extraction and chemical synthesis:
+8 (i) Opium and opiates.
+9 (ii) A compound, manufacture, salt, derivative, or preparation of opium or opiates.
+10 (iii) A substance (and any compound, manufacture, salt, derivative, or preparation of it)
+11 that is chemically identical with any of the substances referred to in subsections 31(i) and (31)(ii).
+12 (iv) Any other substance that the attorney general of the United States, or his or her
+13 successor, or the director of health, after investigation, has found to have, and by regulation
+14 designates as having, a potential for abuse similar to opium and opiates.
+15 (32) “Official written order” means an order written on a form provided for that purpose
+16 by the Drug Enforcement Administration under any laws of the United States making provision for
+17 an official form, if order forms are authorized and required by federal law, and if no order form is
+18 provided, then on an official form provided for that purpose by the director of health.
+19 (33) “Opiate” means any substance having an addiction-forming or addiction-sustaining
+20 liability similar to morphine or being capable of conversion into a drug having addiction-forming
+21 or addiction-sustaining liability.
+22 (34) “Opioid analgesics” means and includes, but is not limited to, the medicines
+23 buprenophine, butorphanol, codeine, hydrocodone, hydromorphone, levorphanol, meperidine,
+24 methadone, morphine, nalbuphine, oxycodone, oxymorphone, pentazocine, propoxyphene as well
+25 as their brand names, isomers, and combinations, or other medications approved by the department.
+26 (35) “Opioid antagonist” means naloxone hydrochloride and any other drug approved by
+27 the United States Food and Drug Administration for the treatment of opioid overdose.
+28 (36) “Opium poppy” means the plant of the species papaver somniferum L., except the
+29 seeds of the plant.
+30 (37) “Ounce” means an avoirdupois ounce as applied to solids and semi-solids, and a fluid
+31 ounce as applied to liquids.
+32 (38) “Person” means any corporation, association, partnership, or one or more individuals.
+33 (39) “Physical dependence” means a state of adaptation that is manifested by a drug class
+34 specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction,
+LC001419/SUB A - Page 18 of 20
+1 decreasing blood level of the drug, and/or administration of an antagonist.
+2 (40) “Poppy straw” means all parts, except the seeds, of the opium poppy, after mowing.
+3 (41) “Practitioner” means:
+4 (i) A physician, osteopath, dentist, chiropodist, veterinarian, scientific investigator, or other
+5 person licensed, registered, or permitted to distribute, dispense, conduct research with respect to or
+6 to administer a controlled substance in the course of professional practice or research in this state.
+7 (ii) A pharmacy, hospital, or other institution licensed, registered, or permitted to distribute,
+8 dispense, conduct research with respect to, or to administer a controlled substance in the course of
+9 professional practice or research in this state.
+10 (42) “Printout” means a hard copy produced by computer that is readable without the aid
+11 of any special device.
+12 (43) “Production” includes the manufacture, planting, cultivation, growing, or harvesting
+13 of a controlled substance.
+14 (44) “Qualified law enforcement agency” means the U.S. Food and Drug Administration,
+15 Drug Enforcement Administration, Federal Bureau of Investigation, Office of Inspector General of
+16 the U.S. Department of Health & Human Services, or the Medicaid Fraud and Patient Abuse Unit
+17 in the Office of the Attorney General.
+18 (45) “Researcher” means a person authorized by the director of health to conduct a
+19 laboratory as defined in this chapter.
+20 (46) “Sell” includes sale, barter, gift, transfer, or delivery in any manner to another, or to
+21 offer or agree to do the same.
+22 (47) “Software” means programs, procedures, and storage of required information data.
+23 (48) “Synthetic drugs” means any synthetic cannabinoids or piperazines or any synthetic
+24 cathinones as provided for in schedule I.
+25 (49) “Ultimate user” means a person who lawfully possesses a controlled substance for his
+26 or her own use or for the use of a member of his or her household, or for administering to an animal
+27 owned by him or her or by a member of his or her household.
+28 (50) “Wholesaler” means a person who sells, vends, or distributes at wholesale, or as a
+29 jobber, broker agent, or distributor, or for resale in any manner in this state any controlled
+30 substance.
+31 SECTION 4. This act shall take effect upon passage.
+========
+LC001419/SUB A
+========
+LC001419/SUB A - Page 19 of 20
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- UNIFORM CONTROLLED SUBSTANCES ACT
+***
+1 This act would revise sections of the uniform controlled substances act to remove specific
+2 opioid dosage requirements and revise the uniform controlled substances act in accordance with
+3 current standards of professional practice and would repeal chapter 37.4 of title 5 relating to
+4 intractable pain treatment.
+5 This act would take effect upon passage.
+========
+LC001419/SUB A
+========
+LC001419/SUB A - Page 20 of 20
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 e " C S A a h a t r a f 2 U u ( “ p m t n p p r t a n c t ( a ( a ( w ( m w d o d e t t t d n i a c t]
+[DELETED:  ( w c s a c o d b a r p a i r c p ( a ( s p p s i ( i ( “ m p e d c o m i ( s ( d b ( a ( l i o a b o ( (]
+[DELETED:  c s o i c s w o n t e a a r ( ( ( ( a ( “ o “ i a h a s d w a ( ( ( a ( a c m s d m o p o c l e d o ( g r o ( ( c o s ( u ( “ m t d ( t b a o d a c s o a i c s a i a c o a i (]
+[DELETED:  ( b d ( “ E A m t D E A ( o t ( ( ( “ c s m a s t i n a c s r s i r e a m ( c ( S m b t o p o t t t r t t s ( i ( f s ( ( p c u o p p f u i t m o a c s ( o]
+[DELETED:  ( c ( t m ( “ m t p p p c c o p o a d o o s i a i c s e d o i o b e f s o n o o i s i t p ( “ m a p w m b d n i a a ( n m i s m p w i i o g M s n i “ h o “ i F ( “ d m a o t f w p d o i b e f s o v o o i b m o c ( ( ( t ( t s o t d o h a i h f t h a b r]
+[DELETED:  d ( “ w m a o w o f p f p p o ( l o ( m b m b c h h l m m m n o o p p a ( b ( n f ( s ( f ( “ m a c a p o o o m i ( c d ( “ s m a p e t s o t o p a m ( ( p t (]
+[DELETED:  d p ( a ( “ i t m p c g o h ( l ( t ( d ( “ d m a s c o p o a s ( p i a d a i b t p m r A o u i n ( h a ( a s 2 ( A p P g f a i c o h p s t ( O t m o b i f a p u t n t o ( p o]
+[DELETED:  s f ( a o t r a w o u a t r w t p i n T p ( t r c 3 m s c r p i p p a w a c d o p e m h b a ( t ( s s d i a i l d b ( T d o h s d r f p p o a p]
+[DELETED:  ( p ( m d o w ( a ( t p a ( w o ( m ( b ( i i ( s ( ( d ( o ( ( ( (]
+[DELETED:  o ( A p i n s t p a d o a ( e a o ( p 2 A o p t p a a d — C ( A p i g f a i h p m c h d c s w r t t C C P G f P ( T d o h m p t r a r n t e t p o t s a e t r g p m a w a c d p o n h c i o c i r ( a ( p n a s r o r t t c m p a o d c s n p b l f a t p t a p d d ( d d i]
+[DELETED:  s r t ( p k t b u t p a o d c s n ( d ( t ( n t ( F t k c a a r o c s r p s U d d r ( o A ( t e ( T d o h m p t r a r n t e S h C I 5]
+[DELETED:  T 5 F ( s p p s i ( ( d o t ( “ m h p l t d d o a 1 ( i 5 ( A p m p a o d c s n p a p s f p a o d c s w p a p d ( t r ( p k t b u t p a o d c s]
+[DELETED:  n ( t t s b ( I c w § 2 a 2 t d o h m p p w i o c i p a t o r t a a s ( d ( t ( n t ( F t k c a a r o c s r p s U d d r ( o A ( o 8 ( n f t]
+[DELETED:  d s f a c s w p o d f a t i r S C 2 U u ( p ( ( w ( m w d o d e t t t d n i a c t ( w c s a c o d b a r p a i r c p ( h ( l p ( “ m p e d c o m i ( u (]
+[DELETED:  d b ( p ( o n t t o r ( ( c s o i c s w o n t e a a r ( ( ( ( a ( “ o “ i a h a s d w a ( ( ( a ( a c m s d m o p o c l e d o ( g r]
+[DELETED:  o ( ( “ m t d d l w g a o d o a c o s ( o ( s o a i c s a i a c o a t c ( ( “ a p m a p w e a m p o b d ( U ( 1 f ( ( ( t m w h t p r t ( c]
+[DELETED:  ( S m b t o p o t t t r t t s ( i ( f s ( ( p c u o p p f u i t m o a c s ( T i a i c i u o l t b u i t m ( c ( b m ( “ m t p p p c c o p o a d o o s i a i c s e d o i o b e f s o n o o i s i t p ( w ( t s o t p t r e f a p o t p a e c m i s m]
+[DELETED:  p w i i o g M s n i “ h o “ i F ( b o ( ( ( t ( s o t d o h a i h f t h a b r d ( b a p ( l o ( “ a m a i b i n l t t m b b c h h l m m a ( t ( s ( o ( ( s]
+[DELETED:  d ( ( ( p t ( d p ( o ( o ( D t i ( “ m a p a b t d o h t c a l ( o ( ( c ( o o ( j b a o d o f r i a m i t s a c s S]
+[DELETED:  T o c i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5615 SUBSTITUTE A
+========
+LC001419/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- UNIFORM CONTROLLED SUBSTANCES ACT
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: February 26, 2025
+Referred To: House Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 21-28-1.02, 21-28-3.20 and 21-28-3.20.1 of the General Laws in
+2 Chapter 21-28 entitled "Uniform Controlled Substances Act" are hereby amended to read as
+3 follows:
+4 21-28-1.02. Definitions. [Effective January 1, 2023; see Sunset Provision note.]
+5 Unless the context otherwise requires, the words and phrases as defined in this section are
+6 used in this chapter in the sense given them in the following definitions:
+7 (1) “Acute pain” means the normal, predicted physiological response to a noxious
+8 chemical, thermal, or mechanical stimulus and typically is associated with invasive procedures,
+9 trauma, and disease. Acute pain is generally pain of less than thirty (30) days duration.
+10 (1)(2) “Administer” refers to the direct application of controlled substances to the body of
+11 a patient or research subject by:
+12 (i) A practitioner Practitioners, or, in his or her their presence by his or her their authorized
+13 agent; or
+14 (ii) The patient or research subject at the direction and in the presence of the practitioner
+15 whether the application is by injection, inhalation, ingestion, or any other means.
+16 (2)(3) “Agent” means an authorized person who acts on behalf of, or at the direction of, a
+17 manufacturer, wholesaler, distributor, or dispenser; except that these terms do not include a
+18 common or contract carrier or warehouse operator when acting in the usual and lawful course of
+19 the carrier’s or warehouse operator’s business.
+
+1 (3)(4) “Apothecary” means a registered pharmacist as defined by the laws of this state and,
+2 where the context requires, the owner of a licensed pharmacy or other place of business where
+3 controlled substances are compounded or dispensed by a registered pharmacist; and includes
+4 registered assistant pharmacists as defined by existing law, but nothing in this chapter shall be
+5 construed as conferring on a person who is not registered as a pharmacist any authority, right, or
+6 privilege that is not granted to him or her by the pharmacy laws of the state.
+7 (4)(5) “Automated data processing system” means a system utilizing computer software
+8 and hardware for the purposes of record keeping.
+9 (6) “Chronic intractable pain” means pain that is: excruciating; constant; incurable, and of
+10 such severity that it dominates virtually every conscious moment; and/or produces mental and
+11 physical debilitation. A diagnosis and written documentation of chronic intractable pain made by a
+12 physician licensed in the State of Rhode Island specializing in pain management, oncology, or
+13 similar specialty defined in regulations shall constitute proof that the patient suffers from chronic
+14 intractable pain.
+15 (7) “Chronic pain” means pain of greater than ninety (90) days duration, excluding chronic
+16 intractable pain.
+17 (5)(8) “Computer” means programmable electronic device capable of multi-functions,
+18 including, but not limited to: storage, retrieval, and processing of information.
+19 (6)(9) “Control” means to add a drug or other substance or immediate precursor to a
+20 schedule under this chapter, whether by transfer from another schedule or otherwise.
+21 (7)(10) “Controlled substance” means a drug, substance, immediate precursor, or synthetic
+22 drug in schedules I — V of this chapter. The term shall not include distilled spirits, wine, or malt
+23 beverages, as those terms are defined or used in chapter 1 of title 3, nor tobacco.
+24 (8)(11) “Co-prescribing” means issuing a prescription for an opioid antagonist along with
+25 a prescription for an opioid analgesic.
+26 (9)(12) “Counterfeit substance” means a controlled substance that, or the container or
+27 labeling of which, without authorization bears the trademark, trade name, or other identifying mark,
+28 imprint, number, or device, or any likeness of them, of a manufacturer, distributor, or dispenser,
+29 other than the person or persons who in fact manufactured, distributed, or dispensed the substance
+30 and that thereby falsely purports or is represented to be the product of, or to have been distributed
+31 by, the other manufacturer, distributor, or dispenser, or which substance is falsely purported to be
+32 or represented to be one of the controlled substances by a manufacturer, distributor, or dispenser.
+33 (10)(13) “CRT” means cathode ray tube used to impose visual information on a screen.
+34 (11)(14) “Deliver” or “delivery” means the actual, constructive, or attempted transfer of a
+LC001419/SUB A - Page 2 of 20
+
+1 controlled substance or imitation controlled substance, whether or not there exists an agency
+2 relationship.
+3 (12)(15) “Department” means the department of health of this state.
+4 (13)(16) “Depressant or stimulant drug” means:
+5 (i) A drug that contains any quantity of:
+6 (A) Barbituric acid or derivatives, compounds, mixtures, or preparations of barbituric acid;
+7 and
+8 (B) “Barbiturate” or “barbiturates” includes all hypnotic and/or somnifacient drugs,
+9 whether or not derivatives of barbituric acid, except that this definition shall not include bromides
+10 and narcotics.
+11 (ii) A drug that contains any quantity of:
+12 (A) Amphetamine or any of its optical isomers;
+13 (B) Any salt of amphetamine and/or desoxyephedrine or any salt of an optical isomer of
+14 amphetamine and/or desoxyephedrine, or any compound, mixture, or preparation of them.
+15 (iii) A drug that contains any quantity of coca leaves. “Coca leaves” includes cocaine, or
+16 any compound, manufacture, salt, derivative, mixture, or preparation of coca leaves, except
+17 derivatives of coca leaves, that do not contain cocaine, ecgonine, or substance from which cocaine
+18 or ecgonine may be synthesized or made.
+19 (iv) Any other drug or substance that contains any quantity of a substance that the attorney
+20 general of the United States, or the director of health, after investigation, has found to have, or by
+21 regulation designates as having, a potential for abuse because of its depressant or stimulant effect
+22 on the central nervous system.
+23 (14)(17) “Director” means the director of health.
+24 (15)(18) “Dispense” means to deliver, distribute, leave with, give away, or dispose of a
+25 controlled substance to the ultimate user or human research subject by or pursuant to the lawful
+26 order of a practitioner, including the packaging, labeling, or compounding necessary to prepare the
+27 substance for that delivery.
+28 (16)(19) “Dispenser” is a practitioner who delivers a controlled substance to the ultimate
+29 user or human research subject.
+30 (17)(20) “Distribute” means to deliver (other than by administering or dispensing) a
+31 controlled substance or an imitation controlled substance and includes actual constructive, or
+32 attempted transfer. “Distributor” means a person who so delivers a controlled substance or an
+33 imitation controlled substance.
+34 (18)(21) “Downtime” means that period of time when a computer is not operable.
+LC001419/SUB A - Page 3 of 20
+
+1 (19)(22) “Drug addicted person” means a person who exhibits a maladaptive pattern of
+2 behavior resulting from drug use, including one or more of the following: impaired control over
+3 drug use; compulsive use; and/or continued use despite harm, and craving.
+4 (20)(23) “Drug Enforcement Administration” means the Drug Enforcement
+5 Administration, United States Department of Justice or its successor.
+6 (21)(24) “Federal law” means the Comprehensive Drug Abuse Prevention and Control Act
+7 of 1970, (84 stat. 1236) (see generally 21 U.S.C. § 801 et seq.), and all regulations pertaining to
+8 that federal act.
+9 (22)(25) “Hardware” means the fixed component parts of a computer.
+10 (23)(26) “Hospital” means an institution as defined in chapter 17 of title 23.
+11 (24)(27) “Imitation controlled substance” means a substance that is not a controlled
+12 substance, that by dosage unit, appearance (including color, shape, size, and markings), or by
+13 representations made, would lead a reasonable person to believe that the substance is a controlled
+14 substance and, which imitation controlled substances contain substances that if ingested, could be
+15 injurious to the health of a person. In those cases when the appearance of the dosage unit is not
+16 reasonably sufficient to establish that the substance is an “imitation controlled substance” (for
+17 example in the case of powder or liquid), the court or authority concerned should consider, in
+18 addition to all other logically relevant factors, the following factors as related to “representations
+19 made” in determining whether the substance is an “imitation controlled substance”:
+20 (i) Statement made by an owner, possessor, transferor, recipient, or by anyone else in
+21 control of the substance concerning the nature of the substance, or its use or effect.
+22 (ii) Statements made by the owner, possessor, or transferor, to the recipient that the
+23 substance may be resold for substantial profit.
+24 (iii) Whether the substance is packaged in a manner reasonably similar to packaging of
+25 illicit controlled substances.
+26 (iv) Whether the distribution or attempted distribution included an exchange of or demand
+27 for money or other property as consideration, and whether the amount of the consideration was
+28 substantially greater than the reasonable value of the non-controlled substance.
+29 (25)(28) “Immediate precursor” means a substance:
+30 (i) That the director of health has found to be, and by regulation designated as being, the
+31 principal compound used, or produced primarily for use, in the manufacture of a controlled
+32 substance;
+33 (ii) That is an immediate chemical intermediary used or likely to be used in the manufacture
+34 of those controlled substances; and
+LC001419/SUB A - Page 4 of 20
+
+1 (iii) The control of which is necessary to prevent, curtail, or limit the manufacture of that
+2 controlled substance.
+3 (26)(29) “Laboratory” means a laboratory approved by the department of health as proper
+4 to be entrusted with controlled substances and the use of controlled substances for scientific and
+5 medical purposes and for the purposes of instruction.
+6 (27)(30) “Manufacture” means the production, preparation, propagation, cultivation,
+7 compounding, or processing of a drug or other substance, including an imitation controlled
+8 substance, either directly or indirectly or by extraction from substances of natural origin, or
+9 independently by means of chemical synthesis or by a combination of extraction and chemical
+10 synthesis and includes any packaging or repackaging of the substance or labeling or relabeling of
+11 its container in conformity with the general laws of this state except by a practitioner as an incident
+12 to his or her administration or dispensing of the drug or substance in the course of his or her
+13 professional practice.
+14 (28)(31) “Manufacturer” means a person who manufactures but does not include an
+15 apothecary who compounds controlled substances to be sold or dispensed on prescriptions.
+16 (29)(32) “Marijuana” means all parts of the plant cannabis sativa L., whether growing or
+17 not; the seeds of the plant; the resin extracted from any part of the plant; and every compound,
+18 manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, but shall not
+19 include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the
+20 seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of
+21 mature stalks, (except the resin extracted from it), fiber, oil or cake, or the sterilized seed from the
+22 plant which is incapable of germination. Marijuana shall not include “industrial hemp” or
+23 “industrial hemp products” which satisfy the requirements of chapter 26 of title 2, nor shall it
+24 include products that have been approved for marketing as a prescription medication by the U.S.
+25 Food and Drug Administration and legally prescribed.
+26 (30)(33) “Narcotic drug” means any of the following, whether produced directly or
+27 indirectly by extraction from substances of vegetable origin, or independently by means of
+28 chemical synthesis or by a combination of extraction and chemical synthesis:
+29 (i) Opium and opiates.
+30 (ii) A compound, manufacture, salt, derivative, or preparation of opium or opiates.
+31 (iii) A substance (and any compound, manufacture, salt, derivative, or preparation of it)
+32 that is chemically identical with any of the substances referred to in subsections (30)(i) and (30)(ii).
+33 (iv) Any other substance that the attorney general of the United States, or his or her
+34 successor, or the director of health, after investigation, has found to have, and by regulation
+LC001419/SUB A - Page 5 of 20
+
+1 designates as having, a potential for abuse similar to opium and opiates.
+2 (31)(34) “Official written order” means an order written on a form provided for that
+3 purpose by the Drug Enforcement Administration under any laws of the United States making
+4 provision for an official form, if order forms are authorized and required by federal law, and if no
+5 order form is provided then on an official form provided for that purpose by the director of health.
+6 (32) “Opiate” means any substance having an addiction-forming or addiction-sustaining
+7 liability similar to morphine or being capable of conversion into a drug having addiction-forming
+8 or addiction-sustaining liability.
+9 (33)(35) “Opioid analgesics” means and includes, but is not limited to, the medicines
+10 buprenophine, medications butorphanol, codeine, hydrocodone, hydromorphone, levorphanol,
+11 meperidine, methadone, morphine, nalbuphine, oxycodone, oxymorphone, pentazocine,
+12 propoxyphene as well as their brand names, isomers, and combinations, or other medications
+13 approved by the department.
+14 (34)(36) “Opioid antagonist” means naloxone hydrochloride and any other drug approved
+15 by the United States Food and Drug Administration for the treatment of opioid overdose.
+16 (37) “Opioid therapy” means to prescribe, administer, or dispense controlled substances
+17 not prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner
+18 for a condition by any route of administration.
+19 (35)(38) “Opium poppy” means the plant of the species papaver somniferum L., except the
+20 seeds of the plant.
+21 (36)(39) “Ounce” means an avoirdupois ounce as applied to solids and semi-solids, and a
+22 fluid ounce as applied to liquids.
+23 (37)(40) “Person” means any corporation, association, partnership, or one or more
+24 individuals.
+25 (38)(41) “Physical dependence” means a state of adaptation that is manifested by a drug
+26 class specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction,
+27 decreasing blood level of the drug, and/or administration of an antagonist.
+28 (39)(42) “Poppy straw” means all parts, except the seeds, of the opium poppy, after
+29 mowing.
+30 (40)(43) “Practitioner” means:
+31 (i) A physician, osteopath, dentist, chiropodist, veterinarian, scientific investigator, or other
+32 person licensed, registered, or permitted to distribute, dispense, conduct research with respect to or
+33 to administer a controlled substance in the course of professional practice or research in this state.
+34 (ii) A pharmacy, hospital, or other institution licensed, registered or permitted to distribute,
+LC001419/SUB A - Page 6 of 20
+
+1 dispense, conduct research with respect to, or to administer a controlled substance in the course of
+2 professional practice or research in this state.
+3 (41)(44) “Printout” means a hard copy produced by computer that is readable without the
+4 aid of any special device.
+5 (42)(45) “Production” includes the manufacture, planting, cultivation, growing, or
+6 harvesting of a controlled substance.
+7 (43)(46) “Researcher” means a person authorized by the director of health to conduct a
+8 laboratory as defined in this chapter.
+9 (44)(47) “Sell” includes sale, barter, gift, transfer, or delivery in any manner to another, or
+10 to offer or agree to do the same.
+11 (45)(48) “Software” means programs, procedures, and storage of required information
+12 data.
+13 (46)(49) “Synthetic drugs” means any synthetic cannabinoids or piperazines or any
+14 synthetic cathinones as provided for in schedule I.
+15 (50) “Therapeutic purpose” means the use of controlled substances for the treatment of
+16 pain in appropriate doses as indicated by the patient’s medical record. Any other use is
+17 nontherapeutic.
+18 (47)(51) “Ultimate user” means a person who lawfully possesses a controlled substance for
+19 his or her own use or for the use of a member of his or her household, or for administering to an
+20 animal owned by him or her or by a member of his or her household.
+21 (48)(52) “Wholesaler” means a person who sells, vends, or distributes at wholesale, or as
+22 a jobber, broker agent, or distributor, or for resale in any manner in this state any controlled
+23 substance.
+24 21-28-3.20. Authority of practitioner to prescribe, administer, and dispense.
+25 (a)(1) A practitioner Practitioners, in good faith and in the course of his or her their
+26 professional practice only, may prescribe, administer, and dispense controlled substances, or he or
+27 she may cause the controlled substances to be administered by a nurse or intern under his or her
+28 their direction and supervision after completing an assessment of pain experienced by a patient.
+29 (2) Opioid therapy must only be initiated for acute pain unresponsive to non-opioid
+30 therapies or if, based on clinical assessment, benefits of opioid therapy for acute pain management
+31 outweigh risks.
+32 (2)(3) When issuing an initial a prescription for an opiate opioid to an adult patient, a
+33 practitioner shall not exceed the maximum daily dose requirements established by the department
+34 of health must prescribe the lowest effective dosage of an immediate-release opioid in a quantity
+LC001419/SUB A - Page 7 of 20
+
+1 sufficient to treat the expected duration of pain. A practitioner shall not write an initial prescription
+2 for an opioid in a quantity exceeding a seven (7)-day supply for treatment of acute pain.
+3 (3)(4) Except as provided in subsection (a)(4) of this section, a practitioner shall not issue
+4 an opiate prescription to a minor for more than twenty (20) doses at any time. Prior to issuing an
+5 opiate prescription to a minor, a practitioner shall discuss with the parent or guardian of the minor
+6 the risks associated with opiate use and the reasons why the prescription is necessary. The
+7 practitioner shall document his or her discussion with the parent or guardian in the medical record.
+8 (4)(5) Notwithstanding the limitations referenced in subsection (a)(3) of this section, if, in
+9 the professional medical judgment of a practitioner, a greater dosage or supply of an opiate is
+10 required to treat the minor patient’s acute medical condition or is necessary for the treatment of
+11 chronic pain management, sickle cell related pain, intractable pain treatment as defined in chapter
+12 37.4 of title 5, pain associated with a cancer diagnosis, or for palliative care, then the practitioner
+13 may issue a prescription for the quantity needed to treat the acute medical condition, chronic pain,
+14 sickle cell related pain, intractable pain, pain associated with a cancer diagnosis, or pain
+15 experienced while the patient is in palliative care, provided that this dosage shall not exceed the
+16 maximum daily dosage permitted for the treatment of this pain as set forth in the department of
+17 health regulations. The medical condition triggering the prescription of an opiate shall opioid must
+18 be documented in the minor patient’s medical record, and the practitioner shall must indicate that
+19 a non-opiate non-opioid alternative was not appropriate to address the medical condition.
+20 (5) Notwithstanding subsections (a)(2) and (a)(3) of this section, this section shall not apply
+21 to medications designed for the treatment of substance abuse or opioid dependence.
+22 (b) The prescription-monitoring drug monitoring program shall must be reviewed prior to
+23 starting any opioid. A prescribing practitioner, or designee as authorized by § 21-28-3.32(a)(3),
+24 shall must review the patient’s prescribed controlled substance use in the prescription-monitoring
+25 drug monitoring program prior to refilling or initiating opioid therapy with an intrathecal pump,
+26 including opioid therapy delivered through an intrathecal pump. The review must include gathering
+27 a history of any prescribed methadone and buprenorphine. For patients the prescribing practitioner
+28 is maintaining being maintained on continuous opioid therapy for pain for three (3) months or
+29 longer, the prescribing practitioner shall must review information from the prescription-monitoring
+30 drug monitoring program at least every three (3) months. Documentation of that review shall must
+31 be noted in the patient’s medical record.
+32 (c) The director of health shall develop regulations for prescribing practitioners on
+33 appropriate limits of opioid use in acute pain management. Initial prescriptions of opioids for acute
+34 pain management of outpatient adults shall not exceed thirty (30) morphine milligram equivalents
+LC001419/SUB A - Page 8 of 20
+
+1 (MMEs) total daily dose per day for a maximum total of twenty (20) doses, and, for pediatric
+2 patients, the appropriate opioid dosage maximum per the department of health.
+3 (d)(c) For the purposes of this section, acute pain management shall must not include
+4 management or treatment for chronic intractable pain management, pain associated with a cancer
+5 diagnosis, pain related to sickle cell disease, palliative or nursing home end-of-life care, intractable
+6 or chronic intractable pain, as provided in § 5-37.4-2, or other exception exceptions in accordance
+7 with department of health regulations.
+8 (e) Subsection (c) shall not apply to medications designed for the treatment of substance
+9 abuse or opioid dependence.
+10 (f) On or before September 1, 2018, the director of health shall develop, and make available
+11 to healthcare practitioners, information on best practices for co-prescribing opioid antagonists to
+12 patients. The best practices information shall identify situations in which co-prescribing an opioid
+13 antagonist may be appropriate, including, but not limited to:
+14 (1) In conjunction with a prescription for an opioid medication, under circumstances in
+15 which the healthcare practitioner determines the patient is at an elevated risk for an opioid drug
+16 overdose;
+17 (2) In conjunction with medications prescribed pursuant to a course of medication therapy
+18 management for the treatment of a substance use disorder involving opioids; or
+19 (3) Under any other circumstances in which a healthcare practitioner identifies a patient as
+20 being at an elevated risk for an opioid drug overdose.
+21 (g) The best practices information developed pursuant to subsection (f) of this section shall
+22 include guidelines for determining when a patient is at an elevated risk for an opioid drug overdose,
+23 including, but not limited to, situations in which the patient:
+24 (1) Meets the criteria provided in the opioid overdose toolkit published by the federal
+25 substance abuse and mental health service administration;
+26 (2) Is receiving high-dose, extended-release, or long-acting opioid medications;
+27 (3) Has a documented history of an alcohol or substance use disorder, or a mental health
+28 disorder;
+29 (4) Has a respiratory ailment or other co-morbidity that may be exacerbated by the use of
+30 opioid medications;
+31 (5) Has a known history of intravenous drug use or misuse of prescription opioids;
+32 (6) Has received emergency medical care or been hospitalized for an opioid overdose; or
+33 (7) Uses opioids with antidepressants, benzodiazepines, alcohol, or other drugs.
+34 (h) On or before September 1, 2018, the director of health and the secretary of the executive
+LC001419/SUB A - Page 9 of 20
+
+1 office of health and human services shall develop strategies that include:
+2 (1) Allowing practitioners in non-pharmacy settings to prescribe and dispense opioid
+3 antagonists; and
+4 (2) Ensuring that opioid antagonists that are distributed in a non-pharmacy setting are
+5 eligible for reimbursement from any health insurance carrier, as defined under chapters 18, 19, 20,
+6 and 41 of title 27, and the Rhode Island medical assistance program, as defined under chapter 7.2
+7 of title 42.
+8 (d) The director of health may promulgate regulations for practitioners on opioid use in
+9 pain management.
+10 21-28-3.20.1. Authority of practitioner to prescribe, administer, and dispense —
+11 Cancer, palliative care, and chronic intractable pain.
+12 (a) A practitioner, in good faith and in the course of his or her professional practice
+13 managing pain associated with a cancer diagnosis, palliative or nursing home care, intractable or
+14 chronic intractable pain as provided in § 5-37.4-2, or other condition allowed by department of
+15 health regulations pursuant to the exception in § 21-28-3.20(d), may prescribe, administer, and
+16 dispense controlled substances without regard to the CDC Clinical Practice Guideline for
+17 Prescribing Opioids for Pain—United States, 2022.
+18 (b) The director of health may promulgate those rules and regulations necessary to
+19 effectuate the provisions of this section and ensure that rules governing pain management
+20 associated with a cancer diagnosis, palliative or nursing home care, intractable or chronic
+21 intractable pain as provided in § 5-37.4-2, or other condition allowed by department of health
+22 regulations pursuant to the exception created in § 21-28-3.20(d), shall:
+23 (1) Take into consideration the individualized needs of patients covered by this section;
+24 and
+25 (2) Make provisions for practitioners, acting in good faith, and in the course of their
+26 profession, and managing pain associated with their patients’ illness to use their best judgment
+27 notwithstanding any statute, rule, or regulation to the contrary. may prescribe, administer, or
+28 dispense controlled substances not prohibited by law for a therapeutic purpose to a person
+29 diagnosed and treated by a practitioner for a condition resulting in chronic intractable pain, if this
+30 diagnosis and treatment has been documented in the practitioner’s medical records.
+31 (b) Concern about a patient’s substance use disorder or the possibility of a substance use
+32 disorder in and of itself is not a reason to withhold or prohibit prescribing, administering, or
+33 dispensing controlled substances for the therapeutic purpose of treatment of a person for chronic
+34 intractable pain. Provided, however, practitioners must check the patient’s prescribed controlled
+LC001419/SUB A - Page 10 of 20
+
+1 substances use in the prescription drug monitoring program, verify the patient's methadone use,
+2 refer the patient to a substance use disorder specialist, as appropriate, and enter into a written patient
+3 treatment agreement in accordance with regulations promulgated by the department.
+4 (c) The provisions of subsection (a) of this section provide no authority to a practitioner to
+5 prescribe, administer, or dispense controlled substances to a person the practitioner knows or should
+6 know to be using the prescribed, administered, or dispensed controlled substance
+7 nontherapeutically.
+8 (d) Nothing in this section shall be construed to prohibit a practitioner or pharmacist from
+9 denying a prescription based on their best clinical judgment.
+10 (e) Nothing in this section shall deny the right of the director to deny, revoke, or suspend
+11 the license of any practitioner or discipline any practitioner who:
+12 (1) Prescribes, administers, or dispenses a controlled substance that is nontherapeutic in
+13 nature or nontherapeutic in the manner in which it is prescribed, administered, or dispensed, or fails
+14 to keep complete and accurate ongoing records of the diagnosis and treatment plan;
+15 (2) Fails to keep complete and accurate records of controlled substances received,
+16 prescribed, dispensed, and administered, and disposal of drugs as required by law or of controlled
+17 substances scheduled in the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21
+18 U.S.C. § 801 et seq. A practitioner shall keep records of controlled substances received, prescribed,
+19 dispensed and administered, and disposal of these drugs shall include the date of receipt of the
+20 drugs, the sale or disposal of the drugs by the practitioner, the name and address of the person
+21 receiving the drugs, and the reason for the disposal or the dispensing of the drugs to the person;
+22 (3) Writes false or fictitious prescriptions for controlled substances as prohibited by law,
+23 or for controlled substances scheduled in the Comprehensive Drug Abuse Prevention and Control
+24 Act of 1970, 21 U.S.C. § 801 et seq.; or
+25 (4) Prescribes, administers, or dispenses in a manner that is inconsistent with provisions of
+26 the law, or the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21 U.S.C. § 801
+27 et seq., any controlled substance.
+28 (f) The director of health may promulgate those rules and regulations necessary to
+29 effectuate the provisions of this section.
+30 SECTION 2. Chapter 5-37.4 of the General Laws entitled "Intractable Pain Treatment" is
+31 hereby repealed in its entirety.
+32 CHAPTER 5-37.4
+33 Intractable Pain Treatment
+34 5-37.4-1. Title.
+LC001419/SUB A - Page 11 of 20
+
+1 This chapter shall be known and may be cited as the “Intractable Pain Treatment Act.”
+2 5-37.4-2. Definitions.
+3 For purposes of this chapter:
+4 (1) “Chronic intractable pain” means pain that is: excruciating; constant; incurable, and of
+5 such severity that it dominates virtually every conscious moment; and/or produces mental and
+6 physical debilitation. A diagnosis and written documentation of chronic intractable pain made by a
+7 physician licensed in the state of Rhode Island specializing in pain management, oncology, or
+8 similar specialty defined in regulations shall constitute proof that the patient suffers from chronic
+9 intractable pain.
+10 (2) “Director” means the director of the department of health of the state of Rhode Island.
+11 (3) “Intractable pain” means a pain state that persists beyond the usual course of an acute
+12 disease or healing of an injury or results from a chronic disease or condition that causes continuous
+13 or intermittent pain over a period of months or years. Unless the context clearly indicates otherwise,
+14 the term intractable pain includes chronic intractable pain.
+15 (4) “Practitioner” means healthcare professionals licensed to distribute, dispense, or
+16 administer controlled substances in the course of professional practice as defined in § 21-28-
+17 1.02(41).
+18 (5) “Therapeutic purpose” means the use of controlled substances for the treatment of pain
+19 in appropriate doses as indicated by the patient’s medical record. Any other use is nontherapeutic.
+20 5-37.4-3. Controlled substances.
+21 (a) A practitioner may prescribe, administer, or dispense controlled substances not
+22 prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner for
+23 a condition resulting in intractable pain, if this diagnosis and treatment has been documented in the
+24 practitioner’s medical records. No practitioner shall be subject to disciplinary action by the board
+25 solely for prescribing, administering, or dispensing controlled substances when prescribed,
+26 administered, or dispensed for a therapeutic purpose for a person diagnosed and treated by a
+27 practitioner for a condition resulting in intractable pain, if this diagnosis and treatment has been
+28 documented in the practitioner’s medical records.
+29 (b) The provisions of subsection (a) of this section do not apply to those persons being
+30 treated by a practitioner for chemical dependency because of their use of controlled substances not
+31 related to the therapeutic purposes of treatment of intractable pain.
+32 (c) The provisions of subsection (a) of this section provide no authority to a practitioner to
+33 prescribe, administer, or dispense controlled substances to a person the practitioner knows or should
+34 know to be using the prescribed, administered, or dispensed controlled substance
+LC001419/SUB A - Page 12 of 20
+
+1 nontherapeutically.
+2 (d) Drug dependency or the possibility of drug dependency in and of itself is not a reason
+3 to withhold or prohibit prescribing, administering, or dispensing controlled substances for the
+4 therapeutic purpose of treatment of a person for intractable pain, nor shall dependency relating
+5 solely to this prescribing, administering, or dispensing subject a practitioner to disciplinary action
+6 by the director.
+7 (e) In coordination with §§ 21-28-3.20 and 21-28-3.20.1, the director of health may
+8 promulgate rules and regulations necessary to effectuate the purpose of this chapter and ensure that
+9 patients with intractable or chronic intractable pain are treated or referred to an appropriate
+10 specialist.
+11 (f) Nothing in this section shall be construed to prohibit a practitioner or pharmacist from
+12 denying a prescription based on their best clinical judgment.
+13 (g) Nothing in this section shall deny the right of the director to deny, revoke, or suspend
+14 the license of any practitioner or discipline any practitioner who:
+15 (1) Prescribes, administers, or dispenses a controlled substance that is nontherapeutic in
+16 nature or nontherapeutic in the manner in which it is prescribed, administered, or dispensed, or fails
+17 to keep complete and accurate ongoing records of the diagnosis and treatment plan;
+18 (2) Fails to keep complete and accurate records of controlled substances received,
+19 prescribed, dispensed, and administered, and disposal of drugs as required by law or of controlled
+20 substances scheduled in the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21
+21 U.S.C. § 801 et seq. A practitioner shall keep records of controlled substances received, prescribed,
+22 dispensed and administered, and disposal of these drugs shall include the date of receipt of the
+23 drugs, the sale or disposal of the drugs by the practitioner, the name and address of the person
+24 receiving the drugs, and the reason for the disposal or the dispensing of the drugs to the person;
+25 (3) Writes false or fictitious prescriptions for controlled substances as prohibited by law,
+26 or for controlled substances scheduled in the Comprehensive Drug Abuse Prevention and Control
+27 Act of 1970, 21 U.S.C § 801 et seq.; or
+28 (4) Prescribes, administers, or dispenses in a manner which is inconsistent with provisions
+29 of the law, or the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21 U.S.C. §
+30 801 et seq., any controlled substance.
+31 (h) A practitioner may administer a controlled substance prescribed by a practitioner and
+32 not prohibited by law for a therapeutic purpose to a person diagnosed and treated by a practitioner
+33 for a condition resulting in intractable pain, if this diagnosis and treatment has been documented in
+34 the practitioner’s medical records. No practitioner shall be subject to disciplinary action by the
+LC001419/SUB A - Page 13 of 20
+
+1 director solely for administering controlled substances when prescribed or dispensed for a
+2 therapeutic purpose for a person diagnosed and treated by a practitioner for a condition resulting in
+3 intractable pain, if this diagnosis and treatment has been documented in the practitioner’s medical
+4 records of the patient.
+5 SECTION 3. Section 21-28-1.02 of the General Laws in Chapter 21-28 entitled "Uniform
+6 Controlled Substances Act" is hereby repealed.
+7 21-28-1.02. Definitions. [Effective until January 1, 2023; see Sunset Provision note.]
+8 Unless the context otherwise requires, the words and phrases as defined in this section are
+9 used in this chapter in the sense given them in the following definitions:
+10 (1) “Administer” refers to the direct application of controlled substances to the body of a
+11 patient or research subject by:
+12 (i) A practitioner, or, in his or her presence by his or her authorized agent; or
+13 (ii) The patient or research subject at the direction and in the presence of the practitioner
+14 whether the application is by injection, inhalation, ingestion, or any other means.
+15 (2) “Agent” means an authorized person who acts on behalf of, or at the direction of, a
+16 manufacturer, wholesaler, distributor, or dispenser; except that these terms do not include a
+17 common or contract carrier or warehouse operator when acting in the usual and lawful course of
+18 the carrier’s or warehouse operator’s business.
+19 (3) “Apothecary” means a registered pharmacist as defined by the laws of this state and,
+20 where the context requires, the owner of a licensed pharmacy or other place of business where
+21 controlled substances are compounded or dispensed by a registered pharmacist; and includes
+22 registered assistant pharmacists as defined by existing law, but nothing in this chapter shall be
+23 construed as conferring on a person who is not registered as a pharmacist any authority, right, or
+24 privilege that is not granted to him or her by the pharmacy laws of the state.
+25 (4) “Automated data processing system” means a system utilizing computer software and
+26 hardware for the purposes of record keeping.
+27 (5) “Certified law enforcement prescription drug diversion investigator” means a certified
+28 law enforcement officer assigned by his or her qualified law enforcement agency to investigate
+29 prescription drug diversion.
+30 (6) “Computer” means programmable electronic device capable of multi-functions,
+31 including, but not limited to: storage, retrieval, and processing of information.
+32 (7) “Control” means to add a drug or other substance or immediate precursor to a schedule
+33 under this chapter, whether by transfer from another schedule or otherwise.
+34 (8) “Controlled substance” means a drug, substance, immediate precursor, or synthetic
+LC001419/SUB A - Page 14 of 20
+
+1 drug in schedules I — V of this chapter. The term shall not include distilled spirits, wine, or malt
+2 beverages, as those terms are defined or used in chapter 1 of title 3, nor tobacco.
+3 (9) “Co-prescribing” means issuing a prescription for an opioid antagonist along with a
+4 prescription for an opioid analgesic.
+5 (10) “Counterfeit substance” means a controlled substance that, or the container or labeling
+6 of which, without authorization bears the trademark, trade name, or other identifying mark, imprint,
+7 number, or device, or any likeness of them, of a manufacturer, distributor, or dispenser, other than
+8 the person or persons who in fact manufactured, distributed, or dispensed the substance and that
+9 thereby falsely purports or is represented to be the product of, or to have been distributed by, the
+10 other manufacturer, distributor, or dispenser, or which substance is falsely purported to be or
+11 represented to be one of the controlled substances by a manufacturer, distributor, or dispenser.
+12 (11) “CRT” means cathode ray tube used to impose visual information on a screen.
+13 (12) “Deliver” or “delivery” means the actual, constructive, or attempted transfer of a
+14 controlled substance or imitation controlled substance, whether or not there exists an agency
+15 relationship.
+16 (13) “Department” means the department of health of this state.
+17 (14) “Depressant or stimulant drug” means:
+18 (i) A drug that contains any quantity of:
+19 (A) Barbituric acid or derivatives, compounds, mixtures, or preparations of barbituric acid;
+20 and
+21 (B) “Barbiturate” or “barbiturates” includes all hypnotic and/or somnifacient drugs,
+22 whether or not derivatives of barbituric acid, except that this definition shall not include bromides
+23 and narcotics.
+24 (ii) A drug that contains any quantity of:
+25 (A) Amphetamine or any of its optical isomers;
+26 (B) Any salt of amphetamine and/or desoxyephedrine or any salt of an optical isomer of
+27 amphetamine and/or desoxyephedrine, or any compound, mixture, or preparation of them.
+28 (iii) A drug that contains any quantity of coca leaves. “Coca leaves” includes cocaine, or
+29 any compound, manufacture, salt, derivative, mixture, or preparation of coca leaves, except
+30 derivatives of coca leaves, that do not contain cocaine, ecgonine, or substance from which cocaine
+31 or ecgonine may be synthesized or made.
+32 (iv) Any other drug or substance that contains any quantity of a substance that the attorney
+33 general of the United States, or the director of health, after investigation, has found to have, or by
+34 regulation designates as having, a potential for abuse because of its depressant or stimulant effect
+LC001419/SUB A - Page 15 of 20
+
+1 on the central nervous system.
+2 (15) “Director” means the director of health.
+3 (16) “Dispense” means to deliver, distribute, leave with, give away, or dispose of a
+4 controlled substance to the ultimate user or human research subject by or pursuant to the lawful
+5 order of a practitioner, including the packaging, labeling, or compounding necessary to prepare the
+6 substance for that delivery.
+7 (17) “Dispenser” is a practitioner who delivers a controlled substance to the ultimate user
+8 or human research subject.
+9 (18) “Distribute” means to deliver (other than by administering or dispensing) a controlled
+10 substance or an imitation controlled substance and includes actual constructive, or attempted
+11 transfer. “Distributor” means a person who so delivers a controlled substance or an imitation
+12 controlled substance.
+13 (19) “Downtime” means that period of time when a computer is not operable.
+14 (20) “Drug addicted person” means a person who exhibits a maladaptive pattern of
+15 behavior resulting from drug use, including one or more of the following: impaired control over
+16 drug use; compulsive use; and/or continued use despite harm, and craving.
+17 (21) “Drug Enforcement Administration” means the Drug Enforcement Administration,
+18 United States Department of Justice or its successor.
+19 (22) “Federal law” means the Comprehensive Drug Abuse Prevention and Control Act of
+20 1970, (84 stat. 1236) (see generally 21 U.S.C. § 801 et seq.), and all regulations pertaining to that
+21 federal act.
+22 (23) “Hardware” means the fixed component parts of a computer.
+23 (24) “Hospital” means an institution as defined in chapter 17 of title 23.
+24 (25) “Imitation controlled substance” means a substance that is not a controlled substance,
+25 that by dosage unit, appearance (including color, shape, size, and markings), or by representations
+26 made, would lead a reasonable person to believe that the substance is a controlled substance and,
+27 which imitation controlled substances contain substances that if ingested, could be injurious to the
+28 health of a person. In those cases when the appearance of the dosage unit is not reasonably sufficient
+29 to establish that the substance is an “imitation controlled substance” (for example in the case of
+30 powder or liquid), the court or authority concerned should consider, in addition to all other logically
+31 relevant factors, the following factors as related to “representations made” in determining whether
+32 the substance is an “imitation controlled substance”:
+33 (i) Statement made by an owner, possessor, transferor, recipient, or by anyone else in
+34 control of the substance concerning the nature of the substance, or its use or effect.
+LC001419/SUB A - Page 16 of 20
+
+1 (ii) Statements made by the owner, possessor, or transferor, to the recipient that the
+2 substance may be resold for substantial profit.
+3 (iii) Whether the substance is packaged in a manner reasonably similar to packaging of
+4 illicit controlled substances.
+5 (iv) Whether the distribution or attempted distribution included an exchange of or demand
+6 for money or other property as consideration, and whether the amount of the consideration was
+7 substantially greater than the reasonable value of the non-controlled substance.
+8 (26) “Immediate precursor” means a substance:
+9 (i) That the director of health has found to be, and by regulation designated as being, the
+10 principal compound used, or produced primarily for use, in the manufacture of a controlled
+11 substance;
+12 (ii) That is an immediate chemical intermediary used, or likely to be used, in the
+13 manufacture of those controlled substances; and
+14 (iii) The control of which is necessary to prevent, curtail, or limit the manufacture of that
+15 controlled substance.
+16 (27) “Laboratory” means a laboratory approved by the department of health as proper to
+17 be entrusted with controlled substances and the use of controlled substances for scientific and
+18 medical purposes and for the purposes of instruction.
+19 (28) “Manufacture” means the production, preparation, propagation, cultivation,
+20 compounding, or processing of a drug or other substance, including an imitation controlled
+21 substance, either directly or indirectly or by extraction from substances of natural origin, or
+22 independently by means of chemical synthesis or by a combination of extraction and chemical
+23 synthesis and includes any packaging or repackaging of the substance or labeling or relabeling of
+24 its container in conformity with the general laws of this state except by a practitioner as an incident
+25 to his or her administration or dispensing of the drug or substance in the course of his or her
+26 professional practice.
+27 (29) “Manufacturer” means a person who manufactures but does not include an apothecary
+28 who compounds controlled substances to be sold or dispensed on prescriptions.
+29 (30) “Marijuana” means all parts of the plant cannabis sativa L., whether growing or not;
+30 the seeds of the plant; the resin extracted from any part of the plant; and every compound,
+31 manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, but shall not
+32 include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the
+33 seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of
+34 mature stalks, (except the resin extracted from it), fiber, oil or cake, or the sterilized seed from the
+LC001419/SUB A - Page 17 of 20
+
+1 plant which is incapable of germination. Marijuana shall not include “industrial hemp” or
+2 “industrial hemp products” which satisfy the requirements of chapter 26 of title 2, nor shall it
+3 include products that have been approved for marketing as a prescription medication by the U.S.
+4 Food and Drug Administration and legally prescribed.
+5 (31) “Narcotic drug” means any of the following, whether produced directly or indirectly
+6 by extraction from substances of vegetable origin, or independently by means of chemical synthesis
+7 or by a combination of extraction and chemical synthesis:
+8 (i) Opium and opiates.
+9 (ii) A compound, manufacture, salt, derivative, or preparation of opium or opiates.
+10 (iii) A substance (and any compound, manufacture, salt, derivative, or preparation of it)
+11 that is chemically identical with any of the substances referred to in subsections 31(i) and (31)(ii).
+12 (iv) Any other substance that the attorney general of the United States, or his or her
+13 successor, or the director of health, after investigation, has found to have, and by regulation
+14 designates as having, a potential for abuse similar to opium and opiates.
+15 (32) “Official written order” means an order written on a form provided for that purpose
+16 by the Drug Enforcement Administration under any laws of the United States making provision for
+17 an official form, if order forms are authorized and required by federal law, and if no order form is
+18 provided, then on an official form provided for that purpose by the director of health.
+19 (33) “Opiate” means any substance having an addiction-forming or addiction-sustaining
+20 liability similar to morphine or being capable of conversion into a drug having addiction-forming
+21 or addiction-sustaining liability.
+22 (34) “Opioid analgesics” means and includes, but is not limited to, the medicines
+23 buprenophine, butorphanol, codeine, hydrocodone, hydromorphone, levorphanol, meperidine,
+24 methadone, morphine, nalbuphine, oxycodone, oxymorphone, pentazocine, propoxyphene as well
+25 as their brand names, isomers, and combinations, or other medications approved by the department.
+26 (35) “Opioid antagonist” means naloxone hydrochloride and any other drug approved by
+27 the United States Food and Drug Administration for the treatment of opioid overdose.
+28 (36) “Opium poppy” means the plant of the species papaver somniferum L., except the
+29 seeds of the plant.
+30 (37) “Ounce” means an avoirdupois ounce as applied to solids and semi-solids, and a fluid
+31 ounce as applied to liquids.
+32 (38) “Person” means any corporation, association, partnership, or one or more individuals.
+33 (39) “Physical dependence” means a state of adaptation that is manifested by a drug class
+34 specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction,
+LC001419/SUB A - Page 18 of 20
+
+1 decreasing blood level of the drug, and/or administration of an antagonist.
+2 (40) “Poppy straw” means all parts, except the seeds, of the opium poppy, after mowing.
+3 (41) “Practitioner” means:
+4 (i) A physician, osteopath, dentist, chiropodist, veterinarian, scientific investigator, or other
+5 person licensed, registered, or permitted to distribute, dispense, conduct research with respect to or
+6 to administer a controlled substance in the course of professional practice or research in this state.
+7 (ii) A pharmacy, hospital, or other institution licensed, registered, or permitted to distribute,
+8 dispense, conduct research with respect to, or to administer a controlled substance in the course of
+9 professional practice or research in this state.
+10 (42) “Printout” means a hard copy produced by computer that is readable without the aid
+11 of any special device.
+12 (43) “Production” includes the manufacture, planting, cultivation, growing, or harvesting
+13 of a controlled substance.
+14 (44) “Qualified law enforcement agency” means the U.S. Food and Drug Administration,
+15 Drug Enforcement Administration, Federal Bureau of Investigation, Office of Inspector General of
+16 the U.S. Department of Health & Human Services, or the Medicaid Fraud and Patient Abuse Unit
+17 in the Office of the Attorney General.
+18 (45) “Researcher” means a person authorized by the director of health to conduct a
+19 laboratory as defined in this chapter.
+20 (46) “Sell” includes sale, barter, gift, transfer, or delivery in any manner to another, or to
+21 offer or agree to do the same.
+22 (47) “Software” means programs, procedures, and storage of required information data.
+23 (48) “Synthetic drugs” means any synthetic cannabinoids or piperazines or any synthetic
+24 cathinones as provided for in schedule I.
+25 (49) “Ultimate user” means a person who lawfully possesses a controlled substance for his
+26 or her own use or for the use of a member of his or her household, or for administering to an animal
+27 owned by him or her or by a member of his or her household.
+28 (50) “Wholesaler” means a person who sells, vends, or distributes at wholesale, or as a
+29 jobber, broker agent, or distributor, or for resale in any manner in this state any controlled
+30 substance.
+31 SECTION 4. This act shall take effect upon passage.
+========
+LC001419/SUB A
+========
+LC001419/SUB A - Page 19 of 20
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- UNIFORM CONTROLLED SUBSTANCES ACT
+***
+1 This act would revise sections of the uniform controlled substances act to remove specific
+2 opioid dosage requirements and revise the uniform controlled substances act in accordance with
+3 current standards of professional practice and would repeal chapter 37.4 of title 5 relating to
+4 intractable pain treatment.
+5 This act would take effect upon passage.
+========
+LC001419/SUB A
+========
+LC001419/SUB A - Page 20 of 20
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 e " C S A a h a t r a f 2 U u ( “ p m t n p p r t a n c t ( a ( a ( w ( m w d o d e t t t d n i a c t]
+[DELETED:  ( w c s a c o d b a r p a i r c p ( a ( s p p s i ( i ( “ m p e d c o m i ( s ( d b ( a ( l i o a b o ( (]
+[DELETED:  c s o i c s w o n t e a a r ( ( ( ( a ( “ o “ i a h a s d w a ( ( ( a ( a c m s d m o p o c l e d o ( g r o ( ( c o s ( u ( “ m t d ( t b a o d a c s o a i c s a i a c o a i (]
+[DELETED:  ( b d ( “ E A m t D E A ( o t ( ( ( “ c s m a s t i n a c s r s i r e a m ( c ( S m b t o p o t t t r t t s ( i ( f s ( ( p c u o p p f u i t m o a c s ( o]
+[DELETED:  ( c ( t m ( “ m t p p p c c o p o a d o o s i a i c s e d o i o b e f s o n o o i s i t p ( “ m a p w m b d n i a a ( n m i s m p w i i o g M s n i “ h o “ i F ( “ d m a o t f w p d o i b e f s o v o o i b m o c ( ( ( t ( t s o t d o h a i h f t h a b r]
+[DELETED:  d ( “ w m a o w o f p f p p o ( l o ( m b m b c h h l m m m n o o p p a ( b ( n f ( s ( f ( “ m a c a p o o o m i ( c d ( “ s m a p e t s o t o p a m ( ( p t (]
+[DELETED:  d p ( a ( “ i t m p c g o h ( l ( t ( d ( “ d m a s c o p o a s ( p i a d a i b t p m r A o u i n ( h a ( a s 2 ( A p P g f a i c o h p s t ( O t m o b i f a p u t n t o ( p o]
+[DELETED:  s f ( a o t r a w o u a t r w t p i n T p ( t r c 3 m s c r p i p p a w a c d o p e m h b a ( t ( s s d i a i l d b ( T d o h s d r f p p o a p]
+[DELETED:  ( p ( m d o w ( a ( t p a ( w o ( m ( b ( i i ( s ( ( d ( o ( ( ( (]
+[DELETED:  o ( A p i n s t p a d o a ( e a o ( p 2 A o p t p a a d — C ( A p i g f a i h p m c h d c s w r t t C C P G f P ( T d o h m p t r a r n t e t p o t s a e t r g p m a w a c d p o n h c i o c i r ( a ( p n a s r o r t t c m p a o d c s n p b l f a t p t a p d d ( d d i]
+[DELETED:  s r t ( p k t b u t p a o d c s n ( d ( t ( n t ( F t k c a a r o c s r p s U d d r ( o A ( t e ( T d o h m p t r a r n t e S h C I 5]
+[DELETED:  T 5 F ( s p p s i ( ( d o t ( “ m h p l t d d o a 1 ( i 5 ( A p m p a o d c s n p a p s f p a o d c s w p a p d ( t r ( p k t b u t p a o d c s]
+[DELETED:  n ( t t s b ( I c w § 2 a 2 t d o h m p p w i o c i p a t o r t a a s ( d ( t ( n t ( F t k c a a r o c s r p s U d d r ( o A ( o 8 ( n f t]
+[DELETED:  d s f a c s w p o d f a t i r S C 2 U u ( p ( ( w ( m w d o d e t t t d n i a c t ( w c s a c o d b a r p a i r c p ( h ( l p ( “ m p e d c o m i ( u (]
+[DELETED:  d b ( p ( o n t t o r ( ( c s o i c s w o n t e a a r ( ( ( ( a ( “ o “ i a h a s d w a ( ( ( a ( a c m s d m o p o c l e d o ( g r]
+[DELETED:  o ( ( “ m t d d l w g a o d o a c o s ( o ( s o a i c s a i a c o a t c ( ( “ a p m a p w e a m p o b d ( U ( 1 f ( ( ( t m w h t p r t ( c]
+[DELETED:  ( S m b t o p o t t t r t t s ( i ( f s ( ( p c u o p p f u i t m o a c s ( T i a i c i u o l t b u i t m ( c ( b m ( “ m t p p p c c o p o a d o o s i a i c s e d o i o b e f s o n o o i s i t p ( w ( t s o t p t r e f a p o t p a e c m i s m]
+[DELETED:  p w i i o g M s n i “ h o “ i F ( b o ( ( ( t ( s o t d o h a i h f t h a b r d ( b a p ( l o ( “ a m a i b i n l t t m b b c h h l m m a ( t ( s ( o ( ( s]
+[DELETED:  d ( ( ( p t ( d p ( o ( o ( D t i ( “ m a p a b t d o h t c a l ( o ( ( c ( o o ( j b a o d o f r i a m i t s a c s S]
+[DELETED:  T o c i T]

@@ -1,0 +1,161 @@
+Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Official Title: RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Number of Sections: 1
+Source: versions - 1114
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 1114
+========
+LC002959
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Ciccone, Bell, Bissaillon, Vargas, Mack, Quezada, and Kallman
+Date Introduced: May 23, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-5-11.18 of the General Laws in Chapter 44-5 entitled "Levy and
+2 Assessment of Local Taxes" is hereby amended to read as follows:
+3 44-5-11.18. Tax classification — Providence.
+4 Notwithstanding any provision of § 44-5-11.8 to the contrary, the city of Providence may
+5 adopt a tax classification with unrestricted tax rates by ordinance as follows:
+6 (1) Classes of property.
+7 (i)(A) Class 1A: Residential real estate consisting of fewer than six (6) dwelling units; land
+8 classified as open space; and dwellings on leased land including mobile homes.
+9 (B) Class 1B: Residential real estate consisting of six (6) to ten (10) dwelling units.
+10 (C) Class 1C: Residential real estate of more than ten (10) dwelling units.
+11 (ii) Class 2: Commercial and industrial real estate.
+12 (iii) Class 3: Properties containing partial residential and commercial or business uses. The
+13 city is authorized to adopt a tax rate for this class or to apply the appropriate residential tax rate to
+14 the residential portion of the property and the commercial rate to the commercial portion of the
+15 property. The city may apportion property by square footage, by number of units, or by any other
+16 reasonable and consistent manner.
+17 (iv) Class 4: All ratable, tangible personal property.
+18 (2) A homestead exemption is also authorized within Class 1A. In lieu of a homestead
+19 exemption, the city of Providence may divide Class 1A into non-owner and owner-occupied
+1 property and adopt separate tax rates.
+2 (3) In any tax year after the first in which the city of Providence adopts such a tax
+3 classification, the city council of the city of Providence may by ordinance change the number of
+4 dwelling units to be included in Class 1A, Class 1B, and Class 1C.
+5 (4) The tax rate for Class 2 shall not be more than two (2) times the base tax rate of Class
+6 1A; and the tax rate for Class 2 shall not be more than three and one-half (3½) times the effective
+7 owner-occupied tax rate of Class 1, whether by homestead exemption or separate rates. There shall
+8 be no further differential tax rate limits for a tax classification adopted pursuant to this section.
+9 (5) The city council of the city of Providence may, by ordinance, adopt higher rates for the
+10 marginal value of residential property in excess of one million dollars ($1,000,000) per dwelling
+11 unit. These higher rates may be separated into progressive brackets, and properties occupied by
+12 taxpayers below a certain income level may be exempted. Any additional revenue from these higher
+13 rates shall be exempted from the four percent (4%) levy growth cap established pursuant to § 44-
+14 5-2.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC002959
+========
+LC002959 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would allow the city of Providence to adopt higher rates for the marginal value of
+2 residential property in excess of one million dollars ($1,000,000) per dwelling unit. This act would
+3 allow the higher rates to be separated into progressive brackets. This act would also exempt
+4 additional revenue received from the four percent (4%) levy growth cap established pursuant to §
+5 44-5-2. This act would also provide that properties occupied by taxpayers below a certain income
+6 level may be exempt.
+7 This act would take effect upon passage.
+========
+LC002959
+========
+LC002959 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 N a ( ( c ( ( ( ( c t p r ( ( e t c o P m d C 1 i n a o]
+[DELETED:  p ( I a t y a t f i w t c o P a s a t c d ( 1 o b ( m u t r 5 S]
+[DELETED:  T r a t h r s i p b a w a e a 4 l T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 1114
+========
+LC002959
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+Introduced By: Senators Ciccone, Bell, Bissaillon, Vargas, Mack, Quezada, and Kallman
+Date Introduced: May 23, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-5-11.18 of the General Laws in Chapter 44-5 entitled "Levy and
+2 Assessment of Local Taxes" is hereby amended to read as follows:
+3 44-5-11.18. Tax classification — Providence.
+4 Notwithstanding any provision of § 44-5-11.8 to the contrary, the city of Providence may
+5 adopt a tax classification with unrestricted tax rates by ordinance as follows:
+6 (1) Classes of property.
+7 (i)(A) Class 1A: Residential real estate consisting of fewer than six (6) dwelling units; land
+8 classified as open space; and dwellings on leased land including mobile homes.
+9 (B) Class 1B: Residential real estate consisting of six (6) to ten (10) dwelling units.
+10 (C) Class 1C: Residential real estate of more than ten (10) dwelling units.
+11 (ii) Class 2: Commercial and industrial real estate.
+12 (iii) Class 3: Properties containing partial residential and commercial or business uses. The
+13 city is authorized to adopt a tax rate for this class or to apply the appropriate residential tax rate to
+14 the residential portion of the property and the commercial rate to the commercial portion of the
+15 property. The city may apportion property by square footage, by number of units, or by any other
+16 reasonable and consistent manner.
+17 (iv) Class 4: All ratable, tangible personal property.
+18 (2) A homestead exemption is also authorized within Class 1A. In lieu of a homestead
+19 exemption, the city of Providence may divide Class 1A into non-owner and owner-occupied
+
+1 property and adopt separate tax rates.
+2 (3) In any tax year after the first in which the city of Providence adopts such a tax
+3 classification, the city council of the city of Providence may by ordinance change the number of
+4 dwelling units to be included in Class 1A, Class 1B, and Class 1C.
+5 (4) The tax rate for Class 2 shall not be more than two (2) times the base tax rate of Class
+6 1A; and the tax rate for Class 2 shall not be more than three and one-half (3½) times the effective
+7 owner-occupied tax rate of Class 1, whether by homestead exemption or separate rates. There shall
+8 be no further differential tax rate limits for a tax classification adopted pursuant to this section.
+9 (5) The city council of the city of Providence may, by ordinance, adopt higher rates for the
+10 marginal value of residential property in excess of one million dollars ($1,000,000) per dwelling
+11 unit. These higher rates may be separated into progressive brackets, and properties occupied by
+12 taxpayers below a certain income level may be exempted. Any additional revenue from these higher
+13 rates shall be exempted from the four percent (4%) levy growth cap established pursuant to § 44-
+14 5-2.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC002959
+========
+LC002959 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES
+***
+1 This act would allow the city of Providence to adopt higher rates for the marginal value of
+2 residential property in excess of one million dollars ($1,000,000) per dwelling unit. This act would
+3 allow the higher rates to be separated into progressive brackets. This act would also exempt
+4 additional revenue received from the four percent (4%) levy growth cap established pursuant to §
+5 44-5-2. This act would also provide that properties occupied by taxpayers below a certain income
+6 level may be exempt.
+7 This act would take effect upon passage.
+========
+LC002959
+========
+LC002959 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S A 4 N a ( ( c ( ( ( ( c t p r ( ( e t c o P m d C 1 i n a o]
+[DELETED:  p ( I a t y a t f i w t c o P a s a t c d ( 1 o b ( m u t r 5 S]
+[DELETED:  T r a t h r s i p b a w a e a 4 l T]

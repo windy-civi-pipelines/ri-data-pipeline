@@ -1,0 +1,187 @@
+Title: RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+Official Title: RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+Number of Sections: 1
+Source: versions - 6353
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6353
+========
+LC002909
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+PRESERVATION ACT
+Introduced By: Representatives Hopkins, J. Brien, Cotter, and Nardone
+Date Introduced: May 21, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 37.9
+4 THE PRIMARY CARE PRESERVATION ACT
+5 5-37.9-1. Short title.
+6 This chapter shall be known and may be cited as the "The Primary Care Preservation Act".
+7 5-37.9-2. Definitions.
+8 As used in this chapter, the following words and terms shall have the following meanings
+9 unless the context shall clearly indicate another or different meaning or intent:
+10 (1) "Payor" means an insurer, health maintenance organization, or other entity responsible
+11 for payment of healthcare services under a health plan.
+12 (2) "Physician practice" means a medical practice owned or operated by licensed
+13 physicians providing outpatient care in the State of Rhode Island.
+14 (3) "Practice support contribution" means a fee charged by a physician practice to patients
+15 for operational services including, but not limited to, reception, referral coordination, medication
+16 refill management, medical assistant support, and general operational overhead.
+17 5-37.9-3. Authorization of practice support contributions.
+18 (a) A physician practice may charge a practice support contribution not to exceed one
+1 hundred twenty dollars ($120) per year, per patient, enrolled in a healthcare insurance plan,
+2 excluding Medicaid and traditional Medicare.
+3 (b) The practice support contribution shall be adjusted annually based on the most recently
+4 published annual consumer price index, as formulated and computed by the Bureau of Labor
+5 Statistics of the United States Department of Labor.
+6 5-37.9-4. Payor non-interference.
+7 (a) No payor shall include in any contract with a physician practice a clause that prohibits
+8 or restricts the practice from charging, billing, or collecting a practice support contribution directly
+9 from patients.
+10 (b) Payors shall not bill or collect the practice support contribution on behalf of a physician
+11 practice.
+12 5-37.9-5. Patient access and care continuity.
+13 (a) Physician practices may require current payment of the practice support contribution as
+14 a condition for scheduling non-emergent appointments for patients enrolled in healthcare insurance
+15 or Medicare Advantage plans.
+16 (b) Patients in arrears shall receive standard and customary care, including medication
+17 refills for thirty (30) days and medical record transfers upon request.
+18 5-37.9-6. Reimbursement of contributions.
+19 The practice support contribution may be eligible for reimbursement by the state or a payor;
+20 provided that, such reimbursement is processed separately from the physician practice’s direct
+21 billing to patients.
+22 5-37.9-7. Severability.
+23 If any clause, sentence, paragraph, section, or part of this chapter shall be adjudged by any
+24 court of competent jurisdiction to be invalid, that judgment shall not affect, impair, or invalidate
+25 the remainder of the chapter but shall be confined in its operation to the clause, sentence, paragraph,
+26 section, or part directly involved in the controversy in which that judgment shall have been
+27 rendered.
+28 SECTION 3. This act shall take effect upon passage.
+========
+LC002909
+========
+LC002909 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+PRESERVATION ACT
+***
+1 This act would authorize a physician practice to charge a practice support contribution;
+2 provided that, the amount charged does not exceed one hundred twenty dollars ($120) per year, per
+3 patient, enrolled in a healthcare insurance plan, (excluding Medicaid and traditional Medicare).
+4 Patients in arrears would still be entitled to receive standard and customary care, including
+5 medication refills for thirty (30) days and medical record transfers.
+6 This act would take effect upon passage.
+========
+LC002909
+========
+LC002909 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S i C T 5 T 5 A u ( f ( " p m a m p o o o b l p ( f r 5 (]
+[DELETED:  h t d ( p y p p e i a h i p e ( p S 5 ( o f ( p 5 ( a o ( r 5 T p b 5 I c t s o p d i i t c i w t j s h b r S]
+[DELETED:  T p p P i a w s b e t r s a c c i m T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6353
+========
+LC002909
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+PRESERVATION ACT
+Introduced By: Representatives Hopkins, J. Brien, Cotter, and Nardone
+Date Introduced: May 21, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 37.9
+4 THE PRIMARY CARE PRESERVATION ACT
+5 5-37.9-1. Short title.
+6 This chapter shall be known and may be cited as the "The Primary Care Preservation Act".
+7 5-37.9-2. Definitions.
+8 As used in this chapter, the following words and terms shall have the following meanings
+9 unless the context shall clearly indicate another or different meaning or intent:
+10 (1) "Payor" means an insurer, health maintenance organization, or other entity responsible
+11 for payment of healthcare services under a health plan.
+12 (2) "Physician practice" means a medical practice owned or operated by licensed
+13 physicians providing outpatient care in the State of Rhode Island.
+14 (3) "Practice support contribution" means a fee charged by a physician practice to patients
+15 for operational services including, but not limited to, reception, referral coordination, medication
+16 refill management, medical assistant support, and general operational overhead.
+17 5-37.9-3. Authorization of practice support contributions.
+18 (a) A physician practice may charge a practice support contribution not to exceed one
+
+1 hundred twenty dollars ($120) per year, per patient, enrolled in a healthcare insurance plan,
+2 excluding Medicaid and traditional Medicare.
+3 (b) The practice support contribution shall be adjusted annually based on the most recently
+4 published annual consumer price index, as formulated and computed by the Bureau of Labor
+5 Statistics of the United States Department of Labor.
+6 5-37.9-4. Payor non-interference.
+7 (a) No payor shall include in any contract with a physician practice a clause that prohibits
+8 or restricts the practice from charging, billing, or collecting a practice support contribution directly
+9 from patients.
+10 (b) Payors shall not bill or collect the practice support contribution on behalf of a physician
+11 practice.
+12 5-37.9-5. Patient access and care continuity.
+13 (a) Physician practices may require current payment of the practice support contribution as
+14 a condition for scheduling non-emergent appointments for patients enrolled in healthcare insurance
+15 or Medicare Advantage plans.
+16 (b) Patients in arrears shall receive standard and customary care, including medication
+17 refills for thirty (30) days and medical record transfers upon request.
+18 5-37.9-6. Reimbursement of contributions.
+19 The practice support contribution may be eligible for reimbursement by the state or a payor;
+20 provided that, such reimbursement is processed separately from the physician practice’s direct
+21 billing to patients.
+22 5-37.9-7. Severability.
+23 If any clause, sentence, paragraph, section, or part of this chapter shall be adjudged by any
+24 court of competent jurisdiction to be invalid, that judgment shall not affect, impair, or invalidate
+25 the remainder of the chapter but shall be confined in its operation to the clause, sentence, paragraph,
+26 section, or part directly involved in the controversy in which that judgment shall have been
+27 rendered.
+28 SECTION 3. This act shall take effect upon passage.
+========
+LC002909
+========
+LC002909 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+PRESERVATION ACT
+***
+1 This act would authorize a physician practice to charge a practice support contribution;
+2 provided that, the amount charged does not exceed one hundred twenty dollars ($120) per year, per
+3 patient, enrolled in a healthcare insurance plan, (excluding Medicaid and traditional Medicare).
+4 Patients in arrears would still be entitled to receive standard and customary care, including
+5 medication refills for thirty (30) days and medical record transfers.
+6 This act would take effect upon passage.
+========
+LC002909
+========
+LC002909 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S i C T 5 T 5 A u ( f ( " p m a m p o o o b l p ( f r 5 (]
+[DELETED:  h t d ( p y p p e i a h i p e ( p S 5 ( o f ( p 5 ( a o ( r 5 T p b 5 I c t s o p d i i t c i w t j s h b r S]
+[DELETED:  T p p P i a w s b e t r s a c c i m T]

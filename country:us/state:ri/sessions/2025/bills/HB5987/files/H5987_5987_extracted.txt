@@ -1,0 +1,1114 @@
+Title: RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+Official Title: RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+Number of Sections: 1
+Source: versions - 5987
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5987
+========
+LC001094
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+HOSPITALS -- CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS-988
+Introduced By: Representatives Shallcross Smith, Fogarty, Hull, Serpa, Diaz, Tanzi,
+Ajello, Messier, Donovan, and Sanchez
+Date Introduced: February 28, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly finds as follows:
+3 (1) It is in the public interest to improve the quality and access to behavioral health crisis
+4 services; reducing stigma surrounding suicide, mental health and substance use conditions;
+5 providing a behavioral health crisis response that is substantially equivalent to the response already
+6 provided to individuals who require emergency physical health care in the state; furthering equity
+7 in addressing mental health and substance use conditions; requiring parity in insurers’ and health
+8 plans’ coverage of mental health and substance use disorder benefits; strengthening the crisis
+9 response for children, youth, young people, and families; requiring protocols for 988 crisis
+10 counselors, 911 responders, and law enforcement involvement; updating the name of the 988
+11 Suicide Hotline; ensuring a culturally and linguistically competent response to behavioral health
+12 crises and saving lives; requiring the state to pursue sustainable sources of funding; building a new
+13 system of equitable and linguistically appropriate behavioral crisis services in which all individuals
+14 are treated with respect, dignity, cultural competence, and humility; and for the purpose of
+15 complying with the National Suicide Hotline Designation Act of 2020 and the Federal
+16 Communication Commission’s rules adopted July 16, 2020 to ensure that all citizens and visitors
+17 of the state receive a consistent level of 988 and crisis behavioral health services no matter where
+18 they live, work, or travel in the state.
+1 SECTION 2. Title 40.1 of the General Laws entitled "BEHAVIORAL HEALTHCARE,
+2 DEVELOPMENTAL DISABILITIES AND HOSPITALS" is hereby amended by adding thereto
+3 the following chapter:
+4 CHAPTER 30
+5 CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS
+6 40.1-30-1. Definitions.
+7 In this chapter, the following words have the following meanings:
+8 (1) “988” means the universal telephone number designated as the universal telephone
+9 number within the United States for the purpose of the national suicide prevention and mental
+10 health crisis hotline system operating through the 988 Suicide & Crisis Lifeline, or its successor
+11 maintained by the Assistant Secretary for Mental Health and Substance Use under section 520E-3
+12 of the Public Health Service Act (42 U.S.C. 290bb-36(c).
+13 (2) “988 administrator” means the administrator of the 988 national suicide prevention and
+14 mental health crisis hotline 988 Suicide & Crisis Lifeline system maintained by the Assistant
+15 Secretary for Mental Health and Substance Use under section 520E-3 of the Public Health Service
+16 Act (42 U.S.C. § 290bb-36(a).
+17 (3) “988 contact” means a communication with the 988 Suicide & Crisis Lifeline system
+18 within the United States operating through the National Suicide Prevention Lifeline or its successor
+19 via modalities offered, including call, chat, or text.
+20 (4) “988 crisis center” means a state-designated center participating in the 988 Suicide &
+21 Crisis Lifeline program to respond to statewide or regional 988 contacts.
+22 (5) “988 fee” means the surcharge assessed on commercial landline, mobile service,
+23 prepaid wireless voice service, and interconnected voice over Internet protocol service lines created
+24 under § 39-21.1-14 authority for communication law, regulation, and technological innovation.
+25 (6) “988 Suicide & Crisis Lifeline (988 Lifeline)” means the national suicide prevention
+26 and mental health crisis hotline system maintained by the Assistant Secretary for Mental Health
+27 and Substance Use under section 520E-3 of the Public Health Service Act (42 U.S.C. 290bb-36(c)).
+28 (7) “Behavioral health crisis services” means the continuum of services needed by an
+29 individual experiencing a mental health or substance use crisis including, but not limited to, crisis
+30 intervention, crisis stabilization, and crisis residential needs provided by 988 contact centers,
+31 mobile crisis teams, and crisis receiving and stabilization service providers.
+32 (8) “Community mental health centers, and certified community behavioral health clinics”
+33 mean facilities as defined under Sec. 1913(c) of the Public Health Services Act and/or Section
+34 223(d) of the Protecting Access to Medicare Act of 2014 (PAMA), and community behavioral
+LC001094 - Page 2 of 16
+1 health organizations as licensed and certified by relevant state agencies.
+2 (9) “Crisis receiving and stabilization centers” are facilities providing short term services
+3 of up to twenty-four (24) hours with capacity for diagnosis, initial management, observation, crisis
+4 stabilization and follow up referral services to all persons in a home-like environment.
+5 (10) “Director” means the director of the department of behavioral healthcare,
+6 developmental disabilities and hospitals (BHDDH).
+7 (11) “Federal Communications Commission” regulates interstate and international
+8 communications by radio, television, wire, satellite, and cable in all fifty (50) states, the District of
+9 Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the
+10 Commission is the federal agency responsible for implementing and enforcing America’s
+11 communications law and regulations.
+12 (12) “Insurer” means the definition in § 27-20.6-1.
+13 (13) “Mobile crisis team” means a multidisciplinary behavioral health team as defined in
+14 the American Rescue Plan Act of 2021 (Section 1947(b)(2) of Public Law 117-2).
+15 (14) “Peers”, also referred to as “individuals with lived experience,” means individuals
+16 employed on the basis of their personal lived experience of a mental health condition and/or
+17 substance use disorder and recovery who have successfully completed a state recognized peer
+18 support training program.
+19 (15) "State or related public health authority" means the department of behavioral
+20 healthcare, developmental disabilities and hospitals.
+21 (16) “Substance Abuse and Mental Health Services Administration (“SAMHSA”)” means
+22 the agency within the U.S. Department of Health and Human Services that leads public health
+23 efforts to advance the behavioral health of the nation.
+24 (17) “Veterans Crisis Line (VCL)” means Veterans Crisis Line maintained by the Secretary
+25 of Veterans Affairs under 28 U.S.C. § 1720F(h).
+26 40.1-30-2. Crisis services systems established.
+27 (a) The director is hereby authorized to designate a crisis hotline center or centers to
+28 provide crisis intervention services and crisis care coordination to individuals accessing the 988
+29 suicide prevention and behavioral health crisis hotline within Rhode Island twenty-four (24) hours
+30 a day, seven (7) days a week.
+31 (b) The designated 988 Lifeline center(s) shall meet 988 Lifeline program requirements
+32 and best practices guidelines for operational, performance and clinical standards.
+33 (c) The designated hotline center(s) shall provide data, report, and participate in evaluations
+34 and related quality improvement activities as required by the 988 administrators.
+LC001094 - Page 3 of 16
+1 (d) The designated 988 Lifeline center(s) shall have the authority to deploy crisis and
+2 outgoing services, including mobile crisis teams, and coordinate access to crisis receiving and
+3 stabilization services or other local resources as appropriate and consistent with guidelines and best
+4 practices established by the 988 Lifeline.
+5 (e) To facilitate the ongoing care needs of persons contacting 988, the state or related public
+6 health authority shall ensure active collaborations and coordination of service linkages between the
+7 designated center(s), mental health and substance use disorder treatment providers, local
+8 community mental health centers (including certified community behavioral health clinics and
+9 community behavioral health centers), mobile crisis teams, and community-based as well as
+10 hospital emergency departments and inpatient psychiatric settings, establishing formal agreements
+11 and appropriate information sharing procedures where appropriate.
+12 (f) The state or related public health authority shall assure active collaborations and
+13 coordination of service linkages between the designated center(s) and crisis receiving and
+14 stabilization services for individuals accessing the 988 Suicide & Crisis Lifeline through
+15 appropriate information sharing regarding availability of services.
+16 (g) The state or related, public health authority shall work in concert with the 988 Suicide
+17 & Crisis Lifeline, for the purposes of ensuring consistency of public messaging about 988 services.
+18 (h) The designated 988 Lifeline center(s) shall meet the requirements set forth by the 988
+19 Lifeline program for serving at-risk and specialized populations as identified by the Substance
+20 Abuse and Mental Health Services Administration (SAMHSA) including, but not be limited to,
+21 LGBTQ+ individuals, children, youth and young people, racially, ethnically, and linguistically
+22 diverse populations, rural individuals, veterans, American Indians, Alaskan Natives, and other
+23 high-risk populations as well as those with co-occurring substance use; provide culturally and
+24 linguistically competent care; and include training requirements and policies for transferring a 988
+25 Lifeline contact to an appropriate specialized center or subnetworks within the 988 Lifeline
+26 program.
+27 (i) The designated hotline center(s) shall provide follow-up services to individuals
+28 accessing the 988 Suicide & Crisis Lifeline consistent with guidance and policies established by
+29 the 988 Lifeline program.
+30 (j) The state or related public health authority having primary oversight of suicide
+31 prevention and crisis service activities and essential coordination shall provide an annual report of
+32 the 988 Suicide & Crisis Lifeline’s usage and the services provided to the general assembly and to
+33 the SAMHSA.
+34 40.1-30-3. Response to contacts -- Mobile crisis teams.
+LC001094 - Page 4 of 16
+1 (a) The department of behavioral healthcare, developmental disabilities and hospitals shall
+2 provide, onsite response services to crisis contacts utilizing state and/or locally funded mobile crisis
+3 teams.
+4 (b) The mobile crisis teams shall be:
+5 (1) Jurisdiction-based behavioral health teams including licensed or credentialed
+6 behavioral health professionals, paraprofessionals, and including individuals with lived experience;
+7 (2) Behavioral health teams embedded in emergency medical services (EMS) and including
+8 individuals with lived experience.
+9 (b) Mobile crisis teams shall:
+10 (1) Collaborate with local first responders and behavioral health agencies; and
+11 (2) Include licensed behavioral health professionals and individuals with lived experience;
+12 and
+13 (3) May include police as co-responders with behavioral health teams only as needed to
+14 respond in high-risk situations that cannot be managed without law enforcement as defined in
+15 protocols by the 988/911 committee.
+16 (c) Mobile crisis teams and crisis stabilization services provided shall:
+17 (1) Be designed in partnership with community members, including people with lived
+18 experience utilizing crisis services;
+19 (2) Be staffed by personnel that reflect the demographics of the community served; and
+20 (3) Collect demographic customer service data from individuals served by demographic
+21 requirements, including race and ethnicity, set forth by SAMHSA and consistent with the state
+22 block grant requirements for continuous evaluation and quality improvement.
+23 40.1-30-4. Determination of payment responsibility.
+24 (a) For the purposes of this chapter, crisis receiving and stabilization services facilities with
+25 greater than sixteen (16) beds shall not be considered Institutions for Mental Disease under § 1905
+26 (i) of the Social Security Act.
+27 (b) Crisis receiving and stabilization services shall be funded by appropriations by the
+28 general assembly if the individual is uninsured, the services are not otherwise covered by another
+29 entity funding, or the crisis stabilization service is not a covered benefit by the individual’s health
+30 coverage.
+31 (c) For Medicaid recipients, the state Medicaid office shall work with the entities
+32 responsible for the development of crisis receiving and stabilization center services, and mobile
+33 crisis services, to explore options for appropriate coding of and payment for crisis management
+34 services.
+LC001094 - Page 5 of 16
+1 (d) BHDDH shall determine how payment shall be made to the provider of service.
+2 40.1-30-5. Implementation-Advisory board.
+3 The director shall provide general oversight of and direction on the state's implementation
+4 and operation of the 988 Suicide & Crisis Lifeline. During the course of the oversight, the director
+5 shall create an advisory board to provide guidance to the 988 Suicide & Crisis Lifeline. The
+6 advisory body, consisting of eleven (11) members shall include, but not be limited to, the following
+7 members: One representative of the designated 988 Suicide & Crisis Lifeline center(s), one
+8 representative of the 9-1-1 call centers, one representative appointed from the department of
+9 behavioral healthcare, developmental disabilities and hospitals, one member from a state substance
+10 use agency, one member of law enforcement, one nurse from a hospital emergency department,
+11 one member of the judiciary appointed by the chief justice, one individual with lived experience
+12 with suicide prevention or behavioral health crisis services usage and two (2) family members and
+13 caregivers of patients of mental health facilities, and one behavioral health crisis services provider.
+14 40.1-30-6. Coordination with E-911 system.
+15 The director shall act in the public interest to enhance the public emergency response
+16 system to ensure individuals in a behavioral health crisis are connected to the appropriate
+17 behavioral health response by coordinating 988 and E-911 services, including the development of
+18 policies and protocols to allow for dispatch of mobile crisis services from 988 Lifeline contact
+19 centers.
+20 40.1-30-7. Application for federal funds.
+21 (a) The director shall submit as soon as practicable a state Medicaid program application
+22 through the executive office of health and human services to the Centers for Medicare and Medicaid
+23 Services, a state Medicaid program application for the Federal Medical Assistance Percentage
+24 (FMAP) of eighty-five percent (85%) applicable to amounts expended by the state for medical
+25 assistance for qualifying community-based mobile crisis intervention services furnished.
+26 (b) The director shall require the Medicaid managed care and Children’s Health Insurance
+27 Program plans to cover mobile crisis teams, and crisis receiving and stabilization services provided
+28 to beneficiaries pursuant to the coverage requirements of § 40.1-30-8.
+29 40.1-30-8. Required health insurance coverage.
+30 (a) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+31 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+32 Coverage of such services shall be without the need for any prior authorization determination and
+33 whether the healthcare provider furnishing such services is a participating provider.
+34 (b) An insured shall only be responsible for in-network cost sharing. If behavioral health
+LC001094 - Page 6 of 16
+1 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+2 insured pays no more in cost sharing than the insured would pay if the same services were provided
+3 by a contracted provider.
+4 (c) The health insurance commissioner shall enforce federal emergency services coverage
+5 requirements, including for behavioral health services provided in independent freestanding
+6 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+7 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+8 (d) The health insurance commissioner shall verify that each treatment limitation placed
+9 on behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+10 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+11 limitation placed on mental health or substance use disorder services within the emergency
+12 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+13 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+14 compliance. Behavioral health crisis response services shall be placed within the emergency
+15 classification of care in the same manner as physical health emergency services.
+16 (e) The coverage mandated in this section shall commence January 1, 2026.
+17 (f) The commissioner shall adopt rules and regulations, under chapter 35 of title 42
+18 ("administrative procedures") as may be necessary to effectuate any provisions of this section.
+19 40.1-30-9. Equity required.
+20 (a) The completion of a local assessment shall be conducted covering the entire state to
+21 determine system needs to ensure equity in access, experience, and outcomes for historically
+22 underserved and marginalized groups.
+23 (b) The development of a strategic plan, based on each local assessment in subsection (a)
+24 of this section shall establish:
+25 (1) Appropriate trauma-informed, culturally, and linguistically competent services and
+26 service options that are responsive to the unique needs of populations who have been historically
+27 underserved, marginalized and/or experienced inequitable experiences or outcomes; and
+28 (2) Short- and long-term goals to achieve equity.
+29 (c) The State of Rhode Island shall regularly collect and analyze the data at a local level,
+30 including experience of care data, for quality improvements to services, and to determine progress
+31 towards meeting the goals outlined in the state’s strategic plan.
+32 (d) To achieve the goals within this section, the state shall:
+33 (1) Engage partners and stakeholders across the continuum of care, including
+34 representatives of historically underserved or marginalized communities, schools, community
+LC001094 - Page 7 of 16
+1 organizations, child welfare and foster care, juvenile and criminal justice, and housing specialists;
+2 (2) Initiate specialized training; and
+3 (3) Enhance protocols and resources to:
+4 (i) Provide rapid access to translation services, TTY and other resources to match the
+5 language needs of the community;
+6 (ii) Minimize the role of law enforcement;
+7 (iii) Develop linkages with culturally specific community-based services and supports; and
+8 (iv) Regularly engage with communities to ensure responsiveness to local needs.
+9 40.1-30-10. Statewide assessment and strategic planning.
+10 (a) The state or related public health authority shall develop and maintain behavioral health
+11 crisis services and supports that provide a comprehensive, trauma-informed, recovery-oriented, and
+12 customized 988 Suicide & Crisis Services system meeting the needs of children, youth, young
+13 people, and families through the completion of a statewide assessment, to determine system needs
+14 to provide safe, and culturally and developmentally appropriate crisis services for children, youth,
+15 young people, and their families. The assessment may be conducted using the Implementation
+16 Strategies from the National Guidelines for Child and Youth Behavioral Health Crisis Care
+17 developed by SAMHSA and other relevant national guidelines on child and adolescent behavioral
+18 health. The state shall regularly collect and analyze data for quality improvements to services and
+19 determine progress towards meeting the goals outlined in the state’s strategic plan.
+20 (b) Development of a strategic plan, based on the assessment in subsection (a) of this
+21 section, to establish appropriate services statewide, based on the National Guidelines for Child and
+22 Youth Behavioral Health Crisis Care, and emphasize:
+23 (1) Early intervention services;
+24 (2) Safety for children and youth;
+25 (3) Culturally, linguistically, and developmentally-appropriate services and responses;
+26 (4) Peer support and family inclusion in responses and services;
+27 (5) A focus on reaching underserved and at-risk communities;
+28 (6) No rejection policies, or medical clearance policies; and
+29 (7) Service options for prioritizing family unification and connections to current living
+30 environment.
+31 (c) To achieve the goals within this section, the state shall:
+32 (1) Engage partners and stakeholders across the continuum of care, including schools,
+33 community organizations, child welfare and foster care, juvenile justice, pediatricians, and other
+34 primary care providers.
+LC001094 - Page 8 of 16
+1 (2) Initiate specialized age-appropriate training, implement standardized screening and
+2 assessment tools, and leverage Zero Suicide/Suicide Safer Care.
+3 (3) Enhance protocols and resources to allow for quick access to translation services, TTY,
+4 and other resources to match the language needs of the community by equipping crisis contact
+5 centers, mobile crisis teams and crisis stabilization centers in the state with the resources to:
+6 (i) Consider in-home stabilization;
+7 (ii) Minimize the role of law enforcement in response to children in crisis;
+8 (iii) Implement technology for caller ID, capacity for text, chat, video, and real time
+9 regional bed registries;
+10 (iv) Utilize tools to screen for self-harm, suicide, and violence risk;
+11 (v) Create age-appropriate receiving and support areas; and
+12 (vi) Provide short-term individual and family therapies as well as intensive support beds
+13 that utilize standard evidence-based programs, community-defined evidence-based programs,
+14 cultural adaptations of evidence-based interventions, and warm handoffs to home, community-
+15 based, and youth-serving systems.
+16 SECTION 3. Section 39-21.1-14 of the General Laws in Chapter 39-21.1 entitled "911
+17 Emergency Telephone Number Act" is hereby amended to read as follows:
+18 39-21.1-14. E-911 surcharge and first response surcharge. E-911 and 988 suicide
+19 lifeline surcharge and first response surcharge.
+20 (a)(1) A combined monthly E-911 and 988 surcharge of fifty cents ($.50) is hereby levied
+21 upon each residence and business telephone line or trunk, or path and data, telephony, internet,
+22 voice over internet protocol (VoIP) wireline, line, trunk, or path in the state including PBX trunks
+23 and centrex equivalent trunks and each line or trunk serving, and upon each user interface number
+24 or extension number or similarly identifiable line, trunk, or path to or from a digital network (such
+25 as, but not exclusive of, integrated services digital network (ISDN), Flexpath, or comparable digital
+26 private branch exchange, or connecting to or from a customer-based or dedicated telephone switch
+27 site (such as, but not exclusive of, a private branch exchange (PBX)), or connecting to or from a
+28 customer-based or dedicated central office (such as, but not exclusive of, a centrex system but
+29 exclusive of trunks and lines provided to wireless communication companies) that can access to,
+30 connect with, or interface with the Rhode Island E-911 uniform emergency telephone system (RI
+31 E-911) and 988 suicide lifeline. In each instance where a surcharge is levied pursuant to this
+32 subsection (a)(1) there shall also be a monthly first response surcharge of fifty cents ($.50). The
+33 surcharges shall be billed by each telecommunication services provider at the inception of services
+34 and shall be payable to the telecommunication services provider by the subscriber of the services.
+LC001094 - Page 9 of 16
+1 (2) A monthly E-911 and 988 surcharge of fifty cents ($.50) is hereby levied on each
+2 wireless instrument, device, or means, including prepaid, cellular, telephony, internet, voice over
+3 internet protocol (VoIP), satellite, computer, radio, communication, data or data only wireless lines,
+4 or any other wireless instrument, device, or means that has access to, connects with, or activates or
+5 interfaces or any combination thereof with the E-911 uniform emergency telephone system and the
+6 988 suicide lifeline. In each instance where a surcharge is levied pursuant to this subsection (a)(2)
+7 there shall also be a monthly first response surcharge of seventy-five cents ($.75). The surcharges
+8 shall be billed by each telecommunication services provider and shall be payable to the
+9 telecommunication services provider by the subscriber. Prepaid wireless telecommunications
+10 services shall not be included in this act, but shall be governed by chapter 21.2 of this title. The E-
+11 911 uniform emergency telephone system and the 988 suicide lifeline shall establish, by rule or
+12 regulation, an appropriate funding mechanism to recover from the general body of ratepayers this
+13 surcharge.
+14 (b) The amount of the surcharges shall not be subject to the tax imposed under chapter 18
+15 of title 44 nor be included within the telephone common carrier’s gross earnings for the purpose of
+16 computing the tax under chapter 13 of title 44.
+17 (c) Each telephone common carrier and each telecommunication services provider shall
+18 establish a special account to which it shall deposit on a monthly basis the amounts collected as
+19 surcharges under this section.
+20 (d) The money collected by each telecommunication services provider shall be transferred
+21 within sixty (60) days after its inception of wireline, wireless, prepaid, cellular, telephony, voice
+22 over internet protocol (VoIP), satellite, computer, internet, or communications services in this state
+23 and every month thereafter, to the division of taxation, together with the accrued interest. The E-
+24 911 and 988 surcharge shall be deposited in a restricted-receipt account and used solely for the
+25 operation of the E-911 uniform emergency telephone system and the 988 suicide lifeline. The first
+26 response surcharge shall be deposited in the general fund; provided, however, that ten percent
+27 (10%) of the money collected from the first response surcharge shall be deposited in the information
+28 technology restricted receipt account (ITRR account) established pursuant to § 42-11-2.5(a). Any
+29 money not transferred in accordance with this subsection shall be assessed interest at the rate set
+30 forth in § 44-1-7 from the date the money should have been transferred.
+31 (e) Every billed subscriber-user shall be liable for any surcharge imposed under this section
+32 until it has been paid to the telephone common carrier or telecommunication services provider. Any
+33 surcharge shall be added to and shall be stated separately in the billing by the telephone common
+34 carrier or telecommunication services provider and shall be collected by the telephone common
+LC001094 - Page 10 of 16
+1 carrier or telecommunication services provider.
+2 (f) Each telephone common carrier and telecommunication services provider shall annually
+3 provide the E-911 uniform emergency telephone system division, and 988 suicide lifeline or any
+4 other agency that may replace it, with a list of amounts uncollected, together with the names and
+5 addresses of its subscriber-users who can be determined by the telephone common carrier or
+6 telecommunication services provider to have not paid the E-911 and 988 suicide lifeline surcharge.
+7 (g) Included within, but not limited to, the purposes for which the money collected from
+8 the E-911 and 988 suicide lifeline surcharge may be used, are rent, lease, purchase, improvement,
+9 construction, maintenance, repair, and utilities for the equipment and site or sites occupied by the
+10 E-911 uniform emergency telephone system and 988 suicide lifeline; salaries, benefits, and other
+11 associated personnel costs; acquisition, upgrade, or modification of PSAP equipment to be capable
+12 of receiving E-911 and 988 suicide lifeline information, including necessary computer hardware,
+13 software, and database provisioning, addressing, and non-recurring costs of establishing emergency
+14 services; network development, operation, and maintenance; database development, operation, and
+15 maintenance; on-premise equipment maintenance and operation; training emergency service
+16 personnel regarding use of E-911 and 988 suicide lifeline; educating consumers regarding the
+17 operations, limitations, role, and responsible use of E-911 and 988 suicide lifeline; reimbursement
+18 to telephone common carriers or telecommunication services providers of rates or recurring costs
+19 associated with any services, operation, administration, or maintenance of E-911 and 988 suicide
+20 lifeline services as approved by the division; reimbursement to telecommunication services
+21 providers or telephone common carriers of other costs associated with providing E-911 and 988
+22 suicide lifeline services, including the cost of the design, development, and implementation of
+23 equipment or software necessary to provide E-911 and 988 suicide lifeline service information to
+24 PSAPs, as approved by the division.
+25 (h) [Deleted by P.L. 2000, ch. 55, art. 28, § 1.]
+26 (i) Nothing in this section shall be construed to constitute rate regulation of wireless
+27 communication services carriers, nor shall this section be construed to prohibit wireless
+28 communication services carriers from charging subscribers for any wireless service or feature.
+29 (j) [Deleted by P.L. 2006, ch. 246, art. 4, § 1.]
+30 SECTION 4. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+31 Policies" is hereby amended by adding thereto the following section:
+32 27-18-35.1. Behavioral health crisis services coverage required.
+33 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+34 issued for delivery or renewed in this state, except policies which only provide coverage for
+LC001094 - Page 11 of 16
+1 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+2 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+3 crisis services.
+4 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+5 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+6 Coverage of such services shall be without the need for any prior authorization determination and
+7 whether the healthcare provider furnishing such services is a participating provider.
+8 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+9 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+10 insured pays no more in cost sharing than the insured would pay if the same services were provided
+11 by a contracted provider.
+12 (d) The health insurance commissioner shall enforce federal emergency services coverage
+13 requirements, including for behavioral health services provided in independent freestanding
+14 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+15 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+16 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+17 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+18 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+19 limitation placed on mental health or substance use disorder services within the emergency
+20 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+21 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+22 compliance. Behavioral health crisis response services shall be placed within the emergency
+23 classification of care in the same manner as physical health emergency services.
+24 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+25 procedures") as may be necessary to effectuate any provisions of this section.
+26 SECTION 5. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+27 Corporations" is hereby amended by adding thereto the following section:
+28 27-19-31.1. Behavioral health crisis services coverage required.
+29 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+30 issued for delivery or renewed in this state, except policies which only provide coverage for
+31 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+32 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+33 crisis services.
+34 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+LC001094 - Page 12 of 16
+1 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+2 Coverage of such services shall be without the need for any prior authorization determination and
+3 whether the healthcare provider furnishing such services is a participating provider.
+4 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+5 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+6 insured pays no more in cost sharing than the insured would pay if the same services were provided
+7 by a contracted provider.
+8 (d) The health insurance commissioner shall enforce federal emergency services coverage
+9 requirements, including for behavioral health services provided in independent freestanding
+10 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+11 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+12 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+13 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+14 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+15 limitation placed on mental health or substance use disorder services within the emergency
+16 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+17 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+18 compliance. Behavioral health crisis response services shall be placed within the emergency
+19 classification of care in the same manner as physical health emergency services.
+20 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+21 procedures") as may be necessary to effectuate any provisions of this section.
+22 SECTION 6. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+23 Corporations" is hereby amended by adding thereto the following section:
+24 27-20-31.2. Behavioral health crisis services coverage required.
+25 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+26 issued for delivery or renewed in this state, except policies which only provide coverage for
+27 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+28 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+29 crisis services.
+30 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+31 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+32 Coverage of such services shall be without the need for any prior authorization determination and
+33 whether the healthcare provider furnishing such services is a participating provider.
+34 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+LC001094 - Page 13 of 16
+1 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+2 insured pays no more in cost sharing than the insured would pay if the same services were provided
+3 by a contracted provider.
+4 (d) The health insurance commissioner shall enforce federal emergency services coverage
+5 requirements, including for behavioral health services provided in independent freestanding
+6 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+7 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+8 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+9 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+10 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+11 limitation placed on mental health or substance use disorder services within the emergency
+12 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+13 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+14 compliance. Behavioral health crisis response services shall be placed within the emergency
+15 classification of care in the same manner as physical health emergency services.
+16 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+17 procedures") as may be necessary to effectuate any provisions of this section.
+18 SECTION 7. Chapter 27-41 of the General Laws entitled "Health Maintenance
+19 Organizations" is hereby amended by adding thereto the following section:
+20 27-41-39.1. Behavioral health crisis services coverage required.
+21 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+22 issued for delivery or renewed in this state, except policies which only provide coverage for
+23 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+24 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+25 crisis services.
+26 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+27 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+28 Coverage of such services shall be without the need for any prior authorization determination and
+29 whether the healthcare provider furnishing such services is a participating provider.
+30 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+31 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+32 insured pays no more in cost sharing than the insured would pay if the same services were provided
+33 by a contracted provider.
+34 (d) The health insurance commissioner shall enforce federal emergency services coverage
+LC001094 - Page 14 of 16
+1 requirements, including for behavioral health services provided in independent freestanding
+2 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+3 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+4 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+5 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+6 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+7 limitation placed on mental health or substance use disorder services within the emergency
+8 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+9 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+10 compliance. Behavioral health crisis response services shall be placed within the emergency
+11 classification of care in the same manner as physical health emergency services.
+12 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+13 procedures") as may be necessary to effectuate any provisions of this section/.
+14 SECTION 8. This act shall take effect upon passage.
+========
+LC001094
+========
+LC001094 - Page 15 of 16
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS-988
+***
+1 This act would establish a core state behavioral health crisis services system, to be
+2 administered by the director of behavioral healthcare, developmental disabilities and hospitals. The
+3 systems would include establishing and administering a 988 Lifeline for suicide prevention,
+4 establishing mobile crisis response teams, and establishing a 988 fee, in coordination with 9-1-1,
+5 on subscribers of commercial land line telephone, mobile telephone and/or IP-enabled voice
+6 services. The act would require insurers to pay for and cover behavioral health crisis services,
+7 commencing January 1, 2026.
+8 This act would take effect upon passage.
+========
+LC001094
+========
+LC001094 - Page 16 of 16
+[DELETED: TATE  OF  RHODE  ISLAND B R S S F H S D T S T ( s r s s s m h a s u c p p i p r f c y y p a f r p f 9 c c S c s a t w r d c c a h a f t p o c w t N S H D A o 2 a t F C o t]
+[DELETED:  S D t C C 4 I ( n h m o ( m S A ( w v ( C ( “ f m t s a o c l m s p u ( a a ( i i c s a c r n p b 9 c c m ( m 2]
+[DELETED:  h ( o s ( “ m t d o t d o b h d ( “ C C r i a i c C C i t f a r f i a e A c ( ( t ( e s s ( " o r p h a m t d o b h ( t e ( o 4 ( p s a ( a ( a]
+[DELETED:  ( o s p ( h d c m h a s u d t p l c c b h c m c t a c a w a h a ( T s o r p h a s a a c a c o s l b t d c a c r a s s f i a t 9 S & C L t a ( & ( L A L d h l L c t a a s c o s w t 9 L p ( T d h c s p f s t i a t ( T s o r p h a h p o o s p t t 4]
+[DELETED:  ( p t ( ( J b h t i l o c b ( i ( ( ( a ( r p ( ( e ( ( r b 4 ( g ( ( g e c ( F M r t s M o s w w t e r c s]
+[DELETED:  ( 4 T a s S a m O r o t d 9 S & C L c o r o t 9 c c o r a f t d o b u o w c 4 T s t e i i a b h c a c t t a b p c 4 ( t S ( a ( P t 4 ( p C w (]
+[DELETED:  c i b ( r i f b h s p i i f e C ( o A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( ( T c s a r a r u c 3 o t 4 ( 4 ( d s n e e i a a o h u ( o ( s u ( ( i t ( ( E p a s a t c o c i r o h u o m c s c]
+[DELETED:  o ( ( ( l ( ( ( 4 ( c c p t y S f t N G f C a Y B H C C d h d ( s Y ( ( ( ( ( ( ( e ( ( c p]
+[DELETED:  ( a ( a c ( ( ( I t f c I c f t c v a t r ( ( ( t u s e p c e p c b S E 3 E s a r s E a 9 s l ( u v a o a p s c e c E s s a]
+[DELETED:  ( w i o i 9 t s b b b e t s p a s b p t t t s p b t s P w t s 9 r s ( o c ( e s ( w o a 9 o r ( t m f ( u s c]
+[DELETED:  c ( p o a t ( t c E a o s s m o e m a o t e s p o t a l s a a b t d r t t s p s e P ( ( N i t s s b t c r r o c s c n s t s b c t p w c ( S P 2 ( i d o e p w o p]
+[DELETED:  s l c ( p C w ( c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S C 2 ( i d o e p w o p s l c (]
+[DELETED:  p C w ( c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S C 2 ( i d o e p w o p s l c ( p C w (]
+[DELETED:  c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S 7 C 2 o t G L e " M O 2 ( i d o e p w o p s l c ( p C w ( c i b (]
+[DELETED:  r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S]
+[DELETED:  T a w e a c s b h c s s t b a s w i e a a a 9 L f s p e o s o c l l t m t a I v s c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5987
+========
+LC001094
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS-988
+Introduced By: Representatives Shallcross Smith, Fogarty, Hull, Serpa, Diaz, Tanzi,
+Ajello, Messier, Donovan, and Sanchez
+Date Introduced: February 28, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly finds as follows:
+3 (1) It is in the public interest to improve the quality and access to behavioral health crisis
+4 services; reducing stigma surrounding suicide, mental health and substance use conditions;
+5 providing a behavioral health crisis response that is substantially equivalent to the response already
+6 provided to individuals who require emergency physical health care in the state; furthering equity
+7 in addressing mental health and substance use conditions; requiring parity in insurers’ and health
+8 plans’ coverage of mental health and substance use disorder benefits; strengthening the crisis
+9 response for children, youth, young people, and families; requiring protocols for 988 crisis
+10 counselors, 911 responders, and law enforcement involvement; updating the name of the 988
+11 Suicide Hotline; ensuring a culturally and linguistically competent response to behavioral health
+12 crises and saving lives; requiring the state to pursue sustainable sources of funding; building a new
+13 system of equitable and linguistically appropriate behavioral crisis services in which all individuals
+14 are treated with respect, dignity, cultural competence, and humility; and for the purpose of
+15 complying with the National Suicide Hotline Designation Act of 2020 and the Federal
+16 Communication Commission’s rules adopted July 16, 2020 to ensure that all citizens and visitors
+17 of the state receive a consistent level of 988 and crisis behavioral health services no matter where
+18 they live, work, or travel in the state.
+
+1 SECTION 2. Title 40.1 of the General Laws entitled "BEHAVIORAL HEALTHCARE,
+2 DEVELOPMENTAL DISABILITIES AND HOSPITALS" is hereby amended by adding thereto
+3 the following chapter:
+4 CHAPTER 30
+5 CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS
+6 40.1-30-1. Definitions.
+7 In this chapter, the following words have the following meanings:
+8 (1) “988” means the universal telephone number designated as the universal telephone
+9 number within the United States for the purpose of the national suicide prevention and mental
+10 health crisis hotline system operating through the 988 Suicide & Crisis Lifeline, or its successor
+11 maintained by the Assistant Secretary for Mental Health and Substance Use under section 520E-3
+12 of the Public Health Service Act (42 U.S.C. 290bb-36(c).
+13 (2) “988 administrator” means the administrator of the 988 national suicide prevention and
+14 mental health crisis hotline 988 Suicide & Crisis Lifeline system maintained by the Assistant
+15 Secretary for Mental Health and Substance Use under section 520E-3 of the Public Health Service
+16 Act (42 U.S.C. § 290bb-36(a).
+17 (3) “988 contact” means a communication with the 988 Suicide & Crisis Lifeline system
+18 within the United States operating through the National Suicide Prevention Lifeline or its successor
+19 via modalities offered, including call, chat, or text.
+20 (4) “988 crisis center” means a state-designated center participating in the 988 Suicide &
+21 Crisis Lifeline program to respond to statewide or regional 988 contacts.
+22 (5) “988 fee” means the surcharge assessed on commercial landline, mobile service,
+23 prepaid wireless voice service, and interconnected voice over Internet protocol service lines created
+24 under § 39-21.1-14 authority for communication law, regulation, and technological innovation.
+25 (6) “988 Suicide & Crisis Lifeline (988 Lifeline)” means the national suicide prevention
+26 and mental health crisis hotline system maintained by the Assistant Secretary for Mental Health
+27 and Substance Use under section 520E-3 of the Public Health Service Act (42 U.S.C. 290bb-36(c)).
+28 (7) “Behavioral health crisis services” means the continuum of services needed by an
+29 individual experiencing a mental health or substance use crisis including, but not limited to, crisis
+30 intervention, crisis stabilization, and crisis residential needs provided by 988 contact centers,
+31 mobile crisis teams, and crisis receiving and stabilization service providers.
+32 (8) “Community mental health centers, and certified community behavioral health clinics”
+33 mean facilities as defined under Sec. 1913(c) of the Public Health Services Act and/or Section
+34 223(d) of the Protecting Access to Medicare Act of 2014 (PAMA), and community behavioral
+LC001094 - Page 2 of 16
+
+1 health organizations as licensed and certified by relevant state agencies.
+2 (9) “Crisis receiving and stabilization centers” are facilities providing short term services
+3 of up to twenty-four (24) hours with capacity for diagnosis, initial management, observation, crisis
+4 stabilization and follow up referral services to all persons in a home-like environment.
+5 (10) “Director” means the director of the department of behavioral healthcare,
+6 developmental disabilities and hospitals (BHDDH).
+7 (11) “Federal Communications Commission” regulates interstate and international
+8 communications by radio, television, wire, satellite, and cable in all fifty (50) states, the District of
+9 Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the
+10 Commission is the federal agency responsible for implementing and enforcing America’s
+11 communications law and regulations.
+12 (12) “Insurer” means the definition in § 27-20.6-1.
+13 (13) “Mobile crisis team” means a multidisciplinary behavioral health team as defined in
+14 the American Rescue Plan Act of 2021 (Section 1947(b)(2) of Public Law 117-2).
+15 (14) “Peers”, also referred to as “individuals with lived experience,” means individuals
+16 employed on the basis of their personal lived experience of a mental health condition and/or
+17 substance use disorder and recovery who have successfully completed a state recognized peer
+18 support training program.
+19 (15) "State or related public health authority" means the department of behavioral
+20 healthcare, developmental disabilities and hospitals.
+21 (16) “Substance Abuse and Mental Health Services Administration (“SAMHSA”)” means
+22 the agency within the U.S. Department of Health and Human Services that leads public health
+23 efforts to advance the behavioral health of the nation.
+24 (17) “Veterans Crisis Line (VCL)” means Veterans Crisis Line maintained by the Secretary
+25 of Veterans Affairs under 28 U.S.C. § 1720F(h).
+26 40.1-30-2. Crisis services systems established.
+27 (a) The director is hereby authorized to designate a crisis hotline center or centers to
+28 provide crisis intervention services and crisis care coordination to individuals accessing the 988
+29 suicide prevention and behavioral health crisis hotline within Rhode Island twenty-four (24) hours
+30 a day, seven (7) days a week.
+31 (b) The designated 988 Lifeline center(s) shall meet 988 Lifeline program requirements
+32 and best practices guidelines for operational, performance and clinical standards.
+33 (c) The designated hotline center(s) shall provide data, report, and participate in evaluations
+34 and related quality improvement activities as required by the 988 administrators.
+LC001094 - Page 3 of 16
+
+1 (d) The designated 988 Lifeline center(s) shall have the authority to deploy crisis and
+2 outgoing services, including mobile crisis teams, and coordinate access to crisis receiving and
+3 stabilization services or other local resources as appropriate and consistent with guidelines and best
+4 practices established by the 988 Lifeline.
+5 (e) To facilitate the ongoing care needs of persons contacting 988, the state or related public
+6 health authority shall ensure active collaborations and coordination of service linkages between the
+7 designated center(s), mental health and substance use disorder treatment providers, local
+8 community mental health centers (including certified community behavioral health clinics and
+9 community behavioral health centers), mobile crisis teams, and community-based as well as
+10 hospital emergency departments and inpatient psychiatric settings, establishing formal agreements
+11 and appropriate information sharing procedures where appropriate.
+12 (f) The state or related public health authority shall assure active collaborations and
+13 coordination of service linkages between the designated center(s) and crisis receiving and
+14 stabilization services for individuals accessing the 988 Suicide & Crisis Lifeline through
+15 appropriate information sharing regarding availability of services.
+16 (g) The state or related, public health authority shall work in concert with the 988 Suicide
+17 & Crisis Lifeline, for the purposes of ensuring consistency of public messaging about 988 services.
+18 (h) The designated 988 Lifeline center(s) shall meet the requirements set forth by the 988
+19 Lifeline program for serving at-risk and specialized populations as identified by the Substance
+20 Abuse and Mental Health Services Administration (SAMHSA) including, but not be limited to,
+21 LGBTQ+ individuals, children, youth and young people, racially, ethnically, and linguistically
+22 diverse populations, rural individuals, veterans, American Indians, Alaskan Natives, and other
+23 high-risk populations as well as those with co-occurring substance use; provide culturally and
+24 linguistically competent care; and include training requirements and policies for transferring a 988
+25 Lifeline contact to an appropriate specialized center or subnetworks within the 988 Lifeline
+26 program.
+27 (i) The designated hotline center(s) shall provide follow-up services to individuals
+28 accessing the 988 Suicide & Crisis Lifeline consistent with guidance and policies established by
+29 the 988 Lifeline program.
+30 (j) The state or related public health authority having primary oversight of suicide
+31 prevention and crisis service activities and essential coordination shall provide an annual report of
+32 the 988 Suicide & Crisis Lifeline’s usage and the services provided to the general assembly and to
+33 the SAMHSA.
+34 40.1-30-3. Response to contacts -- Mobile crisis teams.
+LC001094 - Page 4 of 16
+
+1 (a) The department of behavioral healthcare, developmental disabilities and hospitals shall
+2 provide, onsite response services to crisis contacts utilizing state and/or locally funded mobile crisis
+3 teams.
+4 (b) The mobile crisis teams shall be:
+5 (1) Jurisdiction-based behavioral health teams including licensed or credentialed
+6 behavioral health professionals, paraprofessionals, and including individuals with lived experience;
+7 (2) Behavioral health teams embedded in emergency medical services (EMS) and including
+8 individuals with lived experience.
+9 (b) Mobile crisis teams shall:
+10 (1) Collaborate with local first responders and behavioral health agencies; and
+11 (2) Include licensed behavioral health professionals and individuals with lived experience;
+12 and
+13 (3) May include police as co-responders with behavioral health teams only as needed to
+14 respond in high-risk situations that cannot be managed without law enforcement as defined in
+15 protocols by the 988/911 committee.
+16 (c) Mobile crisis teams and crisis stabilization services provided shall:
+17 (1) Be designed in partnership with community members, including people with lived
+18 experience utilizing crisis services;
+19 (2) Be staffed by personnel that reflect the demographics of the community served; and
+20 (3) Collect demographic customer service data from individuals served by demographic
+21 requirements, including race and ethnicity, set forth by SAMHSA and consistent with the state
+22 block grant requirements for continuous evaluation and quality improvement.
+23 40.1-30-4. Determination of payment responsibility.
+24 (a) For the purposes of this chapter, crisis receiving and stabilization services facilities with
+25 greater than sixteen (16) beds shall not be considered Institutions for Mental Disease under § 1905
+26 (i) of the Social Security Act.
+27 (b) Crisis receiving and stabilization services shall be funded by appropriations by the
+28 general assembly if the individual is uninsured, the services are not otherwise covered by another
+29 entity funding, or the crisis stabilization service is not a covered benefit by the individual’s health
+30 coverage.
+31 (c) For Medicaid recipients, the state Medicaid office shall work with the entities
+32 responsible for the development of crisis receiving and stabilization center services, and mobile
+33 crisis services, to explore options for appropriate coding of and payment for crisis management
+34 services.
+LC001094 - Page 5 of 16
+
+1 (d) BHDDH shall determine how payment shall be made to the provider of service.
+2 40.1-30-5. Implementation-Advisory board.
+3 The director shall provide general oversight of and direction on the state's implementation
+4 and operation of the 988 Suicide & Crisis Lifeline. During the course of the oversight, the director
+5 shall create an advisory board to provide guidance to the 988 Suicide & Crisis Lifeline. The
+6 advisory body, consisting of eleven (11) members shall include, but not be limited to, the following
+7 members: One representative of the designated 988 Suicide & Crisis Lifeline center(s), one
+8 representative of the 9-1-1 call centers, one representative appointed from the department of
+9 behavioral healthcare, developmental disabilities and hospitals, one member from a state substance
+10 use agency, one member of law enforcement, one nurse from a hospital emergency department,
+11 one member of the judiciary appointed by the chief justice, one individual with lived experience
+12 with suicide prevention or behavioral health crisis services usage and two (2) family members and
+13 caregivers of patients of mental health facilities, and one behavioral health crisis services provider.
+14 40.1-30-6. Coordination with E-911 system.
+15 The director shall act in the public interest to enhance the public emergency response
+16 system to ensure individuals in a behavioral health crisis are connected to the appropriate
+17 behavioral health response by coordinating 988 and E-911 services, including the development of
+18 policies and protocols to allow for dispatch of mobile crisis services from 988 Lifeline contact
+19 centers.
+20 40.1-30-7. Application for federal funds.
+21 (a) The director shall submit as soon as practicable a state Medicaid program application
+22 through the executive office of health and human services to the Centers for Medicare and Medicaid
+23 Services, a state Medicaid program application for the Federal Medical Assistance Percentage
+24 (FMAP) of eighty-five percent (85%) applicable to amounts expended by the state for medical
+25 assistance for qualifying community-based mobile crisis intervention services furnished.
+26 (b) The director shall require the Medicaid managed care and Children’s Health Insurance
+27 Program plans to cover mobile crisis teams, and crisis receiving and stabilization services provided
+28 to beneficiaries pursuant to the coverage requirements of § 40.1-30-8.
+29 40.1-30-8. Required health insurance coverage.
+30 (a) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+31 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+32 Coverage of such services shall be without the need for any prior authorization determination and
+33 whether the healthcare provider furnishing such services is a participating provider.
+34 (b) An insured shall only be responsible for in-network cost sharing. If behavioral health
+LC001094 - Page 6 of 16
+
+1 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+2 insured pays no more in cost sharing than the insured would pay if the same services were provided
+3 by a contracted provider.
+4 (c) The health insurance commissioner shall enforce federal emergency services coverage
+5 requirements, including for behavioral health services provided in independent freestanding
+6 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+7 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+8 (d) The health insurance commissioner shall verify that each treatment limitation placed
+9 on behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+10 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+11 limitation placed on mental health or substance use disorder services within the emergency
+12 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+13 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+14 compliance. Behavioral health crisis response services shall be placed within the emergency
+15 classification of care in the same manner as physical health emergency services.
+16 (e) The coverage mandated in this section shall commence January 1, 2026.
+17 (f) The commissioner shall adopt rules and regulations, under chapter 35 of title 42
+18 ("administrative procedures") as may be necessary to effectuate any provisions of this section.
+19 40.1-30-9. Equity required.
+20 (a) The completion of a local assessment shall be conducted covering the entire state to
+21 determine system needs to ensure equity in access, experience, and outcomes for historically
+22 underserved and marginalized groups.
+23 (b) The development of a strategic plan, based on each local assessment in subsection (a)
+24 of this section shall establish:
+25 (1) Appropriate trauma-informed, culturally, and linguistically competent services and
+26 service options that are responsive to the unique needs of populations who have been historically
+27 underserved, marginalized and/or experienced inequitable experiences or outcomes; and
+28 (2) Short- and long-term goals to achieve equity.
+29 (c) The State of Rhode Island shall regularly collect and analyze the data at a local level,
+30 including experience of care data, for quality improvements to services, and to determine progress
+31 towards meeting the goals outlined in the state’s strategic plan.
+32 (d) To achieve the goals within this section, the state shall:
+33 (1) Engage partners and stakeholders across the continuum of care, including
+34 representatives of historically underserved or marginalized communities, schools, community
+LC001094 - Page 7 of 16
+
+1 organizations, child welfare and foster care, juvenile and criminal justice, and housing specialists;
+2 (2) Initiate specialized training; and
+3 (3) Enhance protocols and resources to:
+4 (i) Provide rapid access to translation services, TTY and other resources to match the
+5 language needs of the community;
+6 (ii) Minimize the role of law enforcement;
+7 (iii) Develop linkages with culturally specific community-based services and supports; and
+8 (iv) Regularly engage with communities to ensure responsiveness to local needs.
+9 40.1-30-10. Statewide assessment and strategic planning.
+10 (a) The state or related public health authority shall develop and maintain behavioral health
+11 crisis services and supports that provide a comprehensive, trauma-informed, recovery-oriented, and
+12 customized 988 Suicide & Crisis Services system meeting the needs of children, youth, young
+13 people, and families through the completion of a statewide assessment, to determine system needs
+14 to provide safe, and culturally and developmentally appropriate crisis services for children, youth,
+15 young people, and their families. The assessment may be conducted using the Implementation
+16 Strategies from the National Guidelines for Child and Youth Behavioral Health Crisis Care
+17 developed by SAMHSA and other relevant national guidelines on child and adolescent behavioral
+18 health. The state shall regularly collect and analyze data for quality improvements to services and
+19 determine progress towards meeting the goals outlined in the state’s strategic plan.
+20 (b) Development of a strategic plan, based on the assessment in subsection (a) of this
+21 section, to establish appropriate services statewide, based on the National Guidelines for Child and
+22 Youth Behavioral Health Crisis Care, and emphasize:
+23 (1) Early intervention services;
+24 (2) Safety for children and youth;
+25 (3) Culturally, linguistically, and developmentally-appropriate services and responses;
+26 (4) Peer support and family inclusion in responses and services;
+27 (5) A focus on reaching underserved and at-risk communities;
+28 (6) No rejection policies, or medical clearance policies; and
+29 (7) Service options for prioritizing family unification and connections to current living
+30 environment.
+31 (c) To achieve the goals within this section, the state shall:
+32 (1) Engage partners and stakeholders across the continuum of care, including schools,
+33 community organizations, child welfare and foster care, juvenile justice, pediatricians, and other
+34 primary care providers.
+LC001094 - Page 8 of 16
+
+1 (2) Initiate specialized age-appropriate training, implement standardized screening and
+2 assessment tools, and leverage Zero Suicide/Suicide Safer Care.
+3 (3) Enhance protocols and resources to allow for quick access to translation services, TTY,
+4 and other resources to match the language needs of the community by equipping crisis contact
+5 centers, mobile crisis teams and crisis stabilization centers in the state with the resources to:
+6 (i) Consider in-home stabilization;
+7 (ii) Minimize the role of law enforcement in response to children in crisis;
+8 (iii) Implement technology for caller ID, capacity for text, chat, video, and real time
+9 regional bed registries;
+10 (iv) Utilize tools to screen for self-harm, suicide, and violence risk;
+11 (v) Create age-appropriate receiving and support areas; and
+12 (vi) Provide short-term individual and family therapies as well as intensive support beds
+13 that utilize standard evidence-based programs, community-defined evidence-based programs,
+14 cultural adaptations of evidence-based interventions, and warm handoffs to home, community-
+15 based, and youth-serving systems.
+16 SECTION 3. Section 39-21.1-14 of the General Laws in Chapter 39-21.1 entitled "911
+17 Emergency Telephone Number Act" is hereby amended to read as follows:
+18 39-21.1-14. E-911 surcharge and first response surcharge. E-911 and 988 suicide
+19 lifeline surcharge and first response surcharge.
+20 (a)(1) A combined monthly E-911 and 988 surcharge of fifty cents ($.50) is hereby levied
+21 upon each residence and business telephone line or trunk, or path and data, telephony, internet,
+22 voice over internet protocol (VoIP) wireline, line, trunk, or path in the state including PBX trunks
+23 and centrex equivalent trunks and each line or trunk serving, and upon each user interface number
+24 or extension number or similarly identifiable line, trunk, or path to or from a digital network (such
+25 as, but not exclusive of, integrated services digital network (ISDN), Flexpath, or comparable digital
+26 private branch exchange, or connecting to or from a customer-based or dedicated telephone switch
+27 site (such as, but not exclusive of, a private branch exchange (PBX)), or connecting to or from a
+28 customer-based or dedicated central office (such as, but not exclusive of, a centrex system but
+29 exclusive of trunks and lines provided to wireless communication companies) that can access to,
+30 connect with, or interface with the Rhode Island E-911 uniform emergency telephone system (RI
+31 E-911) and 988 suicide lifeline. In each instance where a surcharge is levied pursuant to this
+32 subsection (a)(1) there shall also be a monthly first response surcharge of fifty cents ($.50). The
+33 surcharges shall be billed by each telecommunication services provider at the inception of services
+34 and shall be payable to the telecommunication services provider by the subscriber of the services.
+LC001094 - Page 9 of 16
+
+1 (2) A monthly E-911 and 988 surcharge of fifty cents ($.50) is hereby levied on each
+2 wireless instrument, device, or means, including prepaid, cellular, telephony, internet, voice over
+3 internet protocol (VoIP), satellite, computer, radio, communication, data or data only wireless lines,
+4 or any other wireless instrument, device, or means that has access to, connects with, or activates or
+5 interfaces or any combination thereof with the E-911 uniform emergency telephone system and the
+6 988 suicide lifeline. In each instance where a surcharge is levied pursuant to this subsection (a)(2)
+7 there shall also be a monthly first response surcharge of seventy-five cents ($.75). The surcharges
+8 shall be billed by each telecommunication services provider and shall be payable to the
+9 telecommunication services provider by the subscriber. Prepaid wireless telecommunications
+10 services shall not be included in this act, but shall be governed by chapter 21.2 of this title. The E-
+11 911 uniform emergency telephone system and the 988 suicide lifeline shall establish, by rule or
+12 regulation, an appropriate funding mechanism to recover from the general body of ratepayers this
+13 surcharge.
+14 (b) The amount of the surcharges shall not be subject to the tax imposed under chapter 18
+15 of title 44 nor be included within the telephone common carrier’s gross earnings for the purpose of
+16 computing the tax under chapter 13 of title 44.
+17 (c) Each telephone common carrier and each telecommunication services provider shall
+18 establish a special account to which it shall deposit on a monthly basis the amounts collected as
+19 surcharges under this section.
+20 (d) The money collected by each telecommunication services provider shall be transferred
+21 within sixty (60) days after its inception of wireline, wireless, prepaid, cellular, telephony, voice
+22 over internet protocol (VoIP), satellite, computer, internet, or communications services in this state
+23 and every month thereafter, to the division of taxation, together with the accrued interest. The E-
+24 911 and 988 surcharge shall be deposited in a restricted-receipt account and used solely for the
+25 operation of the E-911 uniform emergency telephone system and the 988 suicide lifeline. The first
+26 response surcharge shall be deposited in the general fund; provided, however, that ten percent
+27 (10%) of the money collected from the first response surcharge shall be deposited in the information
+28 technology restricted receipt account (ITRR account) established pursuant to § 42-11-2.5(a). Any
+29 money not transferred in accordance with this subsection shall be assessed interest at the rate set
+30 forth in § 44-1-7 from the date the money should have been transferred.
+31 (e) Every billed subscriber-user shall be liable for any surcharge imposed under this section
+32 until it has been paid to the telephone common carrier or telecommunication services provider. Any
+33 surcharge shall be added to and shall be stated separately in the billing by the telephone common
+34 carrier or telecommunication services provider and shall be collected by the telephone common
+LC001094 - Page 10 of 16
+
+1 carrier or telecommunication services provider.
+2 (f) Each telephone common carrier and telecommunication services provider shall annually
+3 provide the E-911 uniform emergency telephone system division, and 988 suicide lifeline or any
+4 other agency that may replace it, with a list of amounts uncollected, together with the names and
+5 addresses of its subscriber-users who can be determined by the telephone common carrier or
+6 telecommunication services provider to have not paid the E-911 and 988 suicide lifeline surcharge.
+7 (g) Included within, but not limited to, the purposes for which the money collected from
+8 the E-911 and 988 suicide lifeline surcharge may be used, are rent, lease, purchase, improvement,
+9 construction, maintenance, repair, and utilities for the equipment and site or sites occupied by the
+10 E-911 uniform emergency telephone system and 988 suicide lifeline; salaries, benefits, and other
+11 associated personnel costs; acquisition, upgrade, or modification of PSAP equipment to be capable
+12 of receiving E-911 and 988 suicide lifeline information, including necessary computer hardware,
+13 software, and database provisioning, addressing, and non-recurring costs of establishing emergency
+14 services; network development, operation, and maintenance; database development, operation, and
+15 maintenance; on-premise equipment maintenance and operation; training emergency service
+16 personnel regarding use of E-911 and 988 suicide lifeline; educating consumers regarding the
+17 operations, limitations, role, and responsible use of E-911 and 988 suicide lifeline; reimbursement
+18 to telephone common carriers or telecommunication services providers of rates or recurring costs
+19 associated with any services, operation, administration, or maintenance of E-911 and 988 suicide
+20 lifeline services as approved by the division; reimbursement to telecommunication services
+21 providers or telephone common carriers of other costs associated with providing E-911 and 988
+22 suicide lifeline services, including the cost of the design, development, and implementation of
+23 equipment or software necessary to provide E-911 and 988 suicide lifeline service information to
+24 PSAPs, as approved by the division.
+25 (h) [Deleted by P.L. 2000, ch. 55, art. 28, § 1.]
+26 (i) Nothing in this section shall be construed to constitute rate regulation of wireless
+27 communication services carriers, nor shall this section be construed to prohibit wireless
+28 communication services carriers from charging subscribers for any wireless service or feature.
+29 (j) [Deleted by P.L. 2006, ch. 246, art. 4, § 1.]
+30 SECTION 4. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+31 Policies" is hereby amended by adding thereto the following section:
+32 27-18-35.1. Behavioral health crisis services coverage required.
+33 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+34 issued for delivery or renewed in this state, except policies which only provide coverage for
+LC001094 - Page 11 of 16
+
+1 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+2 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+3 crisis services.
+4 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+5 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+6 Coverage of such services shall be without the need for any prior authorization determination and
+7 whether the healthcare provider furnishing such services is a participating provider.
+8 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+9 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+10 insured pays no more in cost sharing than the insured would pay if the same services were provided
+11 by a contracted provider.
+12 (d) The health insurance commissioner shall enforce federal emergency services coverage
+13 requirements, including for behavioral health services provided in independent freestanding
+14 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+15 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+16 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+17 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+18 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+19 limitation placed on mental health or substance use disorder services within the emergency
+20 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+21 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+22 compliance. Behavioral health crisis response services shall be placed within the emergency
+23 classification of care in the same manner as physical health emergency services.
+24 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+25 procedures") as may be necessary to effectuate any provisions of this section.
+26 SECTION 5. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+27 Corporations" is hereby amended by adding thereto the following section:
+28 27-19-31.1. Behavioral health crisis services coverage required.
+29 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+30 issued for delivery or renewed in this state, except policies which only provide coverage for
+31 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+32 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+33 crisis services.
+34 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+LC001094 - Page 12 of 16
+
+1 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+2 Coverage of such services shall be without the need for any prior authorization determination and
+3 whether the healthcare provider furnishing such services is a participating provider.
+4 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+5 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+6 insured pays no more in cost sharing than the insured would pay if the same services were provided
+7 by a contracted provider.
+8 (d) The health insurance commissioner shall enforce federal emergency services coverage
+9 requirements, including for behavioral health services provided in independent freestanding
+10 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+11 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+12 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+13 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+14 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+15 limitation placed on mental health or substance use disorder services within the emergency
+16 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+17 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+18 compliance. Behavioral health crisis response services shall be placed within the emergency
+19 classification of care in the same manner as physical health emergency services.
+20 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+21 procedures") as may be necessary to effectuate any provisions of this section.
+22 SECTION 6. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+23 Corporations" is hereby amended by adding thereto the following section:
+24 27-20-31.2. Behavioral health crisis services coverage required.
+25 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+26 issued for delivery or renewed in this state, except policies which only provide coverage for
+27 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+28 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+29 crisis services.
+30 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+31 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+32 Coverage of such services shall be without the need for any prior authorization determination and
+33 whether the healthcare provider furnishing such services is a participating provider.
+34 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+LC001094 - Page 13 of 16
+
+1 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+2 insured pays no more in cost sharing than the insured would pay if the same services were provided
+3 by a contracted provider.
+4 (d) The health insurance commissioner shall enforce federal emergency services coverage
+5 requirements, including for behavioral health services provided in independent freestanding
+6 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+7 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+8 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+9 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+10 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+11 limitation placed on mental health or substance use disorder services within the emergency
+12 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+13 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+14 compliance. Behavioral health crisis response services shall be placed within the emergency
+15 classification of care in the same manner as physical health emergency services.
+16 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+17 procedures") as may be necessary to effectuate any provisions of this section.
+18 SECTION 7. Chapter 27-41 of the General Laws entitled "Health Maintenance
+19 Organizations" is hereby amended by adding thereto the following section:
+20 27-41-39.1. Behavioral health crisis services coverage required.
+21 (a) Commencing January 1, 2026, every health insurance contract plan or policy delivered,
+22 issued for delivery or renewed in this state, except policies which only provide coverage for
+23 specified diseases, fix indemnity, Medicare supplement long-term care disability income, or other
+24 limited benefit policies, shall provide coverage for the services of counselors in behavioral health
+25 crisis services.
+26 (b) An insurer shall cover mobile crisis teams and crisis receiving and stabilization services
+27 provided to an insured experiencing, or believed to be experiencing, a behavioral health crisis.
+28 Coverage of such services shall be without the need for any prior authorization determination and
+29 whether the healthcare provider furnishing such services is a participating provider.
+30 (c) An insured shall only be responsible for in-network cost sharing. If behavioral health
+31 crisis services are provided by a non-participating provider, the health insurer shall ensure that the
+32 insured pays no more in cost sharing than the insured would pay if the same services were provided
+33 by a contracted provider.
+34 (d) The health insurance commissioner shall enforce federal emergency services coverage
+LC001094 - Page 14 of 16
+
+1 requirements, including for behavioral health services provided in independent freestanding
+2 emergency departments, pursuant to the No Surprises Act (including 26 U.S. Code § 9816, 29 U.S.
+3 Code § 1185e, and 42 U.S. Code § 300gg-111) and its implementing regulations.
+4 (e) The health insurance commissioner shall verify that each treatment limitation placed on
+5 behavioral health crisis services is fully compliant with the federal Mental Health Parity and
+6 Addiction Equity Act and its implementing regulations. For each non-quantitative treatment
+7 limitation placed on mental health or substance use disorder services within the emergency
+8 classification of care, the commissioner shall request each insurer’s parity compliance analysis
+9 prepared pursuant to 42 U.S. Code § 300gg-26(a)(8) and verify that each analysis demonstrates
+10 compliance. Behavioral health crisis response services shall be placed within the emergency
+11 classification of care in the same manner as physical health emergency services.
+12 (f) The commissioner shall adopt rules, under chapter 35 of title 42 ("administrative
+13 procedures") as may be necessary to effectuate any provisions of this section/.
+14 SECTION 8. This act shall take effect upon passage.
+========
+LC001094
+========
+LC001094 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- CORE STATE BEHAVIORAL HEALTH CRISIS SERVICES SYSTEMS-988
+***
+1 This act would establish a core state behavioral health crisis services system, to be
+2 administered by the director of behavioral healthcare, developmental disabilities and hospitals. The
+3 systems would include establishing and administering a 988 Lifeline for suicide prevention,
+4 establishing mobile crisis response teams, and establishing a 988 fee, in coordination with 9-1-1,
+5 on subscribers of commercial land line telephone, mobile telephone and/or IP-enabled voice
+6 services. The act would require insurers to pay for and cover behavioral health crisis services,
+7 commencing January 1, 2026.
+8 This act would take effect upon passage.
+========
+LC001094
+========
+LC001094 - Page 16 of 16
+
+[DELETED: TATE  OF  RHODE  ISLAND B R S S F H S D T S T ( s r s s s m h a s u c p p i p r f c y y p a f r p f 9 c c S c s a t w r d c c a h a f t p o c w t N S H D A o 2 a t F C o t]
+[DELETED:  S D t C C 4 I ( n h m o ( m S A ( w v ( C ( “ f m t s a o c l m s p u ( a a ( i i c s a c r n p b 9 c c m ( m 2]
+[DELETED:  h ( o s ( “ m t d o t d o b h d ( “ C C r i a i c C C i t f a r f i a e A c ( ( t ( e s s ( " o r p h a m t d o b h ( t e ( o 4 ( p s a ( a ( a]
+[DELETED:  ( o s p ( h d c m h a s u d t p l c c b h c m c t a c a w a h a ( T s o r p h a s a a c a c o s l b t d c a c r a s s f i a t 9 S & C L t a ( & ( L A L d h l L c t a a s c o s w t 9 L p ( T d h c s p f s t i a t ( T s o r p h a h p o o s p t t 4]
+[DELETED:  ( p t ( ( J b h t i l o c b ( i ( ( ( a ( r p ( ( e ( ( r b 4 ( g ( ( g e c ( F M r t s M o s w w t e r c s]
+[DELETED:  ( 4 T a s S a m O r o t d 9 S & C L c o r o t 9 c c o r a f t d o b u o w c 4 T s t e i i a b h c a c t t a b p c 4 ( t S ( a ( P t 4 ( p C w (]
+[DELETED:  c i b ( r i f b h s p i i f e C ( o A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( ( T c s a r a r u c 3 o t 4 ( 4 ( d s n e e i a a o h u ( o ( s u ( ( i t ( ( E p a s a t c o c i r o h u o m c s c]
+[DELETED:  o ( ( ( l ( ( ( 4 ( c c p t y S f t N G f C a Y B H C C d h d ( s Y ( ( ( ( ( ( ( e ( ( c p]
+[DELETED:  ( a ( a c ( ( ( I t f c I c f t c v a t r ( ( ( t u s e p c e p c b S E 3 E s a r s E a 9 s l ( u v a o a p s c e c E s s a]
+[DELETED:  ( w i o i 9 t s b b b e t s p a s b p t t t s p b t s P w t s 9 r s ( o c ( e s ( w o a 9 o r ( t m f ( u s c]
+[DELETED:  c ( p o a t ( t c E a o s s m o e m a o t e s p o t a l s a a b t d r t t s p s e P ( ( N i t s s b t c r r o c s c n s t s b c t p w c ( S P 2 ( i d o e p w o p]
+[DELETED:  s l c ( p C w ( c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S C 2 ( i d o e p w o p s l c (]
+[DELETED:  p C w ( c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S C 2 ( i d o e p w o p s l c ( p C w (]
+[DELETED:  c i b ( r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S 7 C 2 o t G L e " M O 2 ( i d o e p w o p s l c ( p C w ( c i b (]
+[DELETED:  r i f b h s p i i f e C ( b h c s f c f M H P a A E A a i i r F e n t l p o m h o s u d s w t e c p c B h c r s s b p w t e c ( T c s a r u c 3 o t 4 ( p S]
+[DELETED:  T a w e a c s b h c s s t b a s w i e a a a 9 L f s p e o s o c l l t m t a I v s c T]

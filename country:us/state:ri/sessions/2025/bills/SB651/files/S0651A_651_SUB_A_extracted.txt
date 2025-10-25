@@ -1,0 +1,755 @@
+Title: Introduced By: Senators Murray, DiMario, Lauria, Sosnowski, Valverde, Kallman, Urso,
+Official Title: Introduced By: Senators Murray, DiMario, Lauria, Sosnowski, Valverde, Kallman, Urso,
+Number of Sections: 1
+Source: versions - 651  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0651 SUBSTITUTE A
+========
+LC001274/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PESTICIDE CONTROL
+Ujifusa, and Mack
+Date Introduced: March 07, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-25-4 of the General Laws in Chapter 23-25 entitled "Pesticide
+2 Control" is hereby amended to read as follows:
+3 23-25-4. Definitions.
+4 As used in this chapter:
+5 (1) “Active ingredient” means any ingredient that will prevent, destroy, repel, control, or
+6 mitigate pests, or that will act as a plant regulator, defoliant, or desiccant.
+7 (2) “Adulterated” applies to any pesticide if its strength or purity falls below the professed
+8 standards of quality as expressed on its labeling under which it is sold, or if any substance has been
+9 substituted wholly or in part for the pesticide, or if any valuable constituent of the pesticide has
+10 been wholly or in part abstracted.
+11 (3) “Agricultural commodity” means any plant, or part of plant, or animal, or animal
+12 product, produced by a person (including farmers, ranchers, vineyardists, plant propagators,
+13 Christmas tree growers, aquaculturists, floriculturists, orchardists, foresters, or other comparable
+14 persons) primarily for sale, consumption, propagation, or other use by humans or animals.
+15 (4) “Animal” means all vertebrate and invertebrate species, including, but not limited to,
+16 humans and other mammals, birds, fish, and shellfish.
+17 (5) “Beneficial insects” means those insects that, during their life cycle, are effective
+18 pollinators of plants, are parasites or predators of pests, or are otherwise beneficial.
+19 (6) “Board” means the pesticide advisory board as provided for under § 23-25.2-3.
+1 (7) “Defoliant” means any substance or mixture of substances intended for causing the
+2 leaves or foliage to drop from a plant with or without causing abscission.
+3 (8) “Desiccant” means any substance or mixture of substances intended for artificially
+4 accelerating the drying of plant tissue.
+5 (9) “Device” means any instrument or contrivance (other than a firearm) that is intended
+6 for trapping, destroying, repelling, or mitigating any pest or any other form of plant or animal life
+7 (other than humans and other than bacteria, virus, or other micro-organism on or in living humans
+8 or other living animals) but not including equipment used for the application of pesticides when
+9 sold separately from it.
+10 (10) “Director” means the director of environmental management.
+11 (11) “Distribute” means to offer for sale, hold for sale, sell, barter, ship, deliver for
+12 shipment, or receive and (having so received) deliver or offer to deliver pesticides in this state.
+13 (12) “Environment” includes water, air, land, and all plants and humans and other living
+14 animals in it, and the interrelationships that exist among these.
+15 (13) “EPA” means the United States Environmental Protection Agency.
+16 (14) “FIFRA” means the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. §
+17 136 et seq., and other legislation supplementary to it and amendatory of it.
+18 (15) “First generation anticoagulant rodenticide” means any pesticide product that contains
+19 any of the following active ingredients:
+20 (i) Chlorophacinone;
+21 (ii) Diphacinone; or
+22 (iii) Warfarin.
+23 (15)(16) “Fungi” means all nonchlorophyll-bearing thallophytes (that is, all
+24 nonchlorophyll-bearing plants of a lower order than mosses and liverworts) as, for example, rusts,
+25 smuts, mildews, molds, yeasts, and bacteria, except those in or on living humans or other living
+26 animals, and except those in or on processed food, beverages, or pharmaceuticals.
+27 (16)(17) “Highly toxic pesticide” means any pesticide determined to be a highly toxic
+28 pesticide under the authority of § 25(c)(2) of FIFRA, 7 U.S.C. § 136w(c)(2), or by the director
+29 under § 23-25-9(a)(2).
+30 (17)(18) “Imminent hazard” means a situation that exists when the continued use of a
+31 pesticide during the time required for cancellation proceedings pursuant to § 23-25-8 would likely
+32 result in unreasonable adverse effects on the environment or will involve unreasonable hazard to
+33 the survival of a species declared endangered by the secretary of the interior under 16 U.S.C. §
+34 1531 et seq.
+LC001274/SUB A - Page 2 of 11
+1 (18)(19) “Inert ingredient” means an ingredient that is not an active ingredient.
+2 (19)(20) “Ingredient statement” means:
+3 (i) A statement of the name and percentage of each active ingredient together with the total
+4 percentage of the inert ingredients in the pesticide; and
+5 (ii) When the pesticide contains arsenic in any form, the ingredient statement shall also
+6 include percentages of total and water soluble arsenic, each calculated as elemental arsenic.
+7 (20)(21) “Insect” means any of the numerous small invertebrate animals generally having
+8 the body more or less obviously segmented, for the most part belonging to the class insecta,
+9 comprising six (6) legged, usually winged forms, as for example, moths, beetles, bugs, bees, flies,
+10 and their immature stages, and to other allied classes of anthropods whose members are wingless
+11 and usually have more than six (6) legs, as for example, spiders, mites, ticks, centipedes, and wood
+12 lice.
+13 (21)(22) “Integrated Pest Management (IPM)” refers to a method of pest control that uses
+14 a systems approach to reduce pest damage to tolerable levels through a variety of techniques,
+15 including natural predators and parasites, genetically resistant hosts, environmental modifications
+16 and, when necessary and appropriate, chemical pesticides. IPM strategies rely upon nonchemical
+17 defenses first and chemical pesticides second.
+18 (22)(23) “Label” means the written, printed, or graphic matter on, or attached to, the
+19 pesticide or device or any of its containers or wrappers.
+20 (23)(24) “Labeling” means the label and all other written, printed, or graphic matter:
+21 (i) Accompanying the pesticide or device at any time; or
+22 (ii) To which reference is made on the label or in literature accompanying the pesticide or
+23 device, except to current official publications of EPA, the United States Departments of Agriculture
+24 and Interior, and the department of health and human services; state experiment stations; state
+25 agricultural colleges; and other federal or state institutions or agencies authorized by law to conduct
+26 research in the field of pesticides.
+27 (24)(25) “Land” means all land and water areas, including airspace, all plants, animals,
+28 structures, buildings, contrivances, and machinery appurtenant to it or situated on it, fixed or
+29 mobile, including any used for transportation.
+30 (25)(26) “Nematode” means invertebrate animals of the phylum Nemathelminthes and
+31 class Nematoda, that is, unsegmented round worms with elongated, fusiform, or sac-like bodies
+32 covered with cuticle, and inhabiting soil, water, plants, or plant parts; may also be called nemas or
+33 eelworms.
+34 (26)(27) “Neonicotinoids” means any of a class of systemic water soluble insecticides
+LC001274/SUB A - Page 3 of 11
+1 related to nicotine that affect the central nervous system of insects by selectively binding to the
+2 postsynaptic nicotinic receptors of insects thereby causing paralysis and death. Neonicotinoids
+3 include, but are not limited to:
+4 (i) Imidacloprid;
+5 (ii) Acetamiprid;
+6 (iii) Clothianidin;
+7 (iv) Nitenpyram;
+8 (v) Nithiazine;
+9 (vi) Thiacloprid;
+10 (vii) Thiamethoxam; and
+11 (viii) Dinotefuran.
+12 (27)(28) “Permit” means a written certificate, issued by the director, authorizing the
+13 purchase, possession, and/or use of certain pesticides or pesticide uses defined in subsections (36)
+14 and (37) of this section.
+15 (28)(29) “Person” means any individual, partnership, association, fiduciary, corporation,
+16 governmental entity, or any organized group of persons whether incorporated or not.
+17 (29)(30) “Pest” means:
+18 (i) Any insect, rodent, nematode, fungus, or weed; and
+19 (ii) Any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other
+20 micro-organism (except viruses, bacteria, or other micro-organisms on or in living humans or other
+21 living animals) which the director declares to be a pest under § 23-25-9(a)(1).
+22 (30)(31) “Pesticide” means:
+23 (i) Any substance or mixture of substances intended for preventing, destroying, repelling,
+24 or mitigating any pest; and
+25 (ii) Any substance or mixture of substances intended for use as a plant regulator, defoliant,
+26 or desiccant.
+27 (31)(32) “Pesticide dealer” means any person who distributes within the state any pesticide
+28 product classified for restricted use by EPA or limited use by the director.
+29 (32)(33) “Plant regulator” means any substance or mixture of substances intended, through
+30 physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for
+31 altering the behavior of plants or the produce of these but shall not include substances to the extent
+32 that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and
+33 soil amendments. Also, the term “plant regulator” is not required to include any of those nutrient
+34 mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products,
+LC001274/SUB A - Page 4 of 11
+1 intended for improvement, maintenance, survival, health, and propagation of plants, are not for pest
+2 destruction and are nontoxic and nonpoisonous in the undiluted packaged concentration.
+3 (33)(34)(i) “Private applicator” means any person who uses or supervises the use of any
+4 pesticide for purposes of producing any agricultural commodity on land owned or rented by him or
+5 her or his or her employer or (if applied without compensation other than trading of personal
+6 services between producers of agricultural commodities) on land of another person.
+7 (ii) “Certified private applicator” means any private applicator who is certified under § 23-
+8 25-14 as authorized to purchase, acquire, apply, or supervise the application of any pesticide
+9 classified for restricted use by EPA or limited use by the director.
+10 (iii) “Commercial applicator” means any person (whether or not that person is a private
+11 applicator with respect to some uses), including employees of any federal, state, county or
+12 municipal agency, department, office, division, section, bureau, board, or commission, who applies
+13 or supervises the application of any pesticide for any purpose or on any property other than as
+14 provided by the definition of “private applicator”.
+15 (iv) “Certified commercial applicator” means any commercial applicator who is certified
+16 under § 23-25-13 as authorized to purchase, acquire, apply, or supervise the application of a
+17 pesticide classified for restricted use by EPA or limited use by the director.
+18 (v) “Licensed commercial applicator” means any commercial applicator who is licensed
+19 under § 23-25-12 as authorized to use or supervise the use of any pesticide not classified for
+20 restricted use by EPA or limited use by the director on land not owned or rented by him or her.
+21 (34)(35) “Protect health and the environment” means protection against any unreasonable
+22 adverse effects on the environment.
+23 (35)(36) “Registrant” means a person who has registered any pesticide pursuant to the
+24 provisions of this chapter.
+25 (36)(37) “Restricted use pesticide” means a pesticide or pesticide use that is classified for
+26 restricted use by the administrator of EPA, or under § 23-25-6(h).
+27 (38) “Second generation anticoagulant rodenticide” means any pesticide product that
+28 contains any of the following active ingredients:
+29 (i) Brodifacoum;
+30 (ii) Bromadiolone;
+31 (iii) Difenacoum;
+32 (iv) Difethialone.
+33 (37)(39) “State limited use pesticide” means any pesticide or pesticide use that, when used
+34 as directed or in accordance with a widespread and commonly recognized practice, the director
+LC001274/SUB A - Page 5 of 11
+1 determines, subsequent to a hearing, requires additional restrictions to prevent unreasonable
+2 adverse effects on the environment including humans, land, beneficial insects, animals, crops, and
+3 wildlife, other than pests.
+4 (38)(40) “Under the direct supervision” means on-site supervision of any pesticide
+5 application by an appropriately certified or licensed applicator who is responsible for the
+6 application and is capable of dealing with emergency situations which might occur.
+7 (39)(41) “Unreasonable adverse effects on the environment” means any unreasonable risk
+8 to humans or the environment, taking into account the economic, social, and environmental costs
+9 and benefits of the use of any pesticide.
+10 (40)(42) “Weed” means any plant that grows where not wanted.
+11 (41)(43) “Wildlife” means all living things that are neither human nor, as defined in this
+12 chapter, pests, including but not limited to mammals, birds, and aquatic life.
+13 SECTION 2. Chapter 23-25 of the General Laws entitled "Pesticide Control" is hereby
+14 amended by adding thereto the following sections:
+15 23-25-41. Rodenticides sales restricted.
+16 (a) Effective March 1, 2026, all pesticides registered in the state as a first-generation
+17 anticoagulant rodenticide as defined in § 23-25-4, shall be prohibited from being sold in
+18 “consumer” stores and online retail stores including, but not limited to, drug stores, grocery stores,
+19 hardware stores, club stores and similar retail outlets.
+20 (b) Effective January 1, 2027, all pesticides registered in the state as a second-generation
+21 anticoagulant rodenticide as defined in § 23-25-4, shall be prohibited from being sold in
+22 “consumer” stores and online retail stores including, but not limited to, drug stores, grocery stores,
+23 hardware stores, club stores and similar retail outlets.
+24 (c) This section shall not apply to the sale of a first and/or second-generation anticoagulant
+25 rodenticide by a wholesaler to a business that employs the following: certified private applicator,
+26 commercial applicator, certified commercial applicator or licensed commercial applicator.
+27 23-25-42. Rodenticides use restricted.
+28 (a) Effective January 1, 2028, the use of any pesticides registered in the state as a first or
+29 second-generation anticoagulant rodenticide as defined in § 23-25-4 shall be prohibited.
+30 (b) This section shall not apply to the following:
+31 (1) The use of any second generation anticoagulant rodenticide by a state or municipal
+32 employee for public health activities, the protection of a drinking water supply, to control vectors
+33 for mosquito borne illnesses, the eradication of non-native invasive species of rodents, for control
+34 of an actual rodent infestation that has been deemed a public health issue where it has been
+LC001274/SUB A - Page 6 of 11
+1 documented that all other rodent control alternatives, including nonchemical alternatives, are
+2 inadequate to control the infestation.
+3 (2) The use of any second-generation anticoagulant rodenticide at a medical waste
+4 generator or a facility registered annually and subject to inspection under 21 U.S.C. § 360 et seq.
+5 and compliant with the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. § 136 et
+6 seq.).
+7 (3) The use of any second-generation anticoagulant rodenticide for agricultural activities
+8 conducted in the following locations:
+9 (i) A warehouse used to store foods for human or animal consumption;
+10 (ii) An agricultural food production site including, but not limited to, a slaughterhouse or
+11 cannery;
+12 (iii) A distillery, meadery, brewery, or winery.
+13 SECTION 3. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+14 amended by adding thereto the following chapter:
+15 CHAPTER 25.7
+16 RODENT INTEGRATED PEST MANAGEMENT PILOT PROGRAM ACT
+17 23-25.7-1. Short Title.
+18 This chapter shall be known and may be cited as the “Rodent Integrated Pest Management
+19 Pilot Program Act”.
+20 23-25.7-2. Definitions.
+21 For the purposes of this chapter, the following terms shall have the following meanings:
+22 (1) “Integrated pest management” means a science-based approach to managing rodents
+23 using a variety of methods to prevent and treat rodent concerns including, but not limited to,
+24 addressing sanitation, landscaping concerns, promotion of natural predators, manufactured
+25 alternatives to pesticides and other methods of prevention, reduction, and mitigation including, but
+26 not limited to, rodent contraceptive applications.
+27 (2) “Rodent contraceptive” means an agent for the reduction of reproductive capacity in
+28 rodents that is approved for such use by the United States Environmental Protection Agency.
+29 (3) “Rodent mitigation zones” means the zones designated by municipalities within its
+30 municipalities’ boundaries to be areas in which the pilot program shall be implemented.
+31 (4) “Rodent signs” means the observable indicators used by the designated municipal
+32 departmental agency to determine the presence of rodents, including burrows, rub marks, runways,
+33 tracks, gnaw marks, droppings, and the presence of live rodents.
+34 23-25.7-3. Pilot program.
+LC001274/SUB A - Page 7 of 11
+1 (a) Municipalities are authorized to implement and participate in a voluntary pest
+2 management pilot program pursuant to the provisions of this chapter. A municipality may choose
+3 to participate by designating the municipality’s department agency responsible for the
+4 implementation and services related to rodent extermination or mitigation in consultation with the
+5 department of environmental management. The municipality may establish a pilot program for
+6 integrated pest management and track the efficacy of such program in reducing the rodent
+7 population. Such a program shall involve the following:
+8 (1) The program implementation shall take place in pilot program areas, to be designated
+9 by the municipal department assigned to identify rodent mitigation areas;
+10 (2) The designated municipal department shall designate at least one pilot program
+11 comparison area with similar zones, building types and landscapes to the pilot program rodent
+12 mitigation areas, and shall make reasonable efforts to implement rodent mitigation efforts, other
+13 than the implementation of the integrated pest management mitigation application, across the pilot
+14 program comparison area or areas to allow for a controlled comparison;
+15 (3) For not less than three (3) months immediately before the deployment of the integrated
+16 pest management application in the designated rodent mitigation areas, the designated municipal
+17 department shall perform monthly inspections of the pilot program areas and shall document all
+18 rodent signs observed in each pilot program mitigation area and pilot program comparison area,
+19 disaggregated by type of rodent sign;
+20 (4) Following at least three (3) months of inspections, as required in subsection (3) of this
+21 section, the designated municipal department shall deploy an integrated pest management
+22 application in the pilot program mitigation areas;
+23 (5) For not less than six (6) months immediately after the deployment of the integrated pest
+24 management application, the designated municipal department shall perform monthly inspections
+25 of the pilot program mitigation areas and shall document all rodent signs observed in each pilot
+26 program mitigation area and pilot program comparison area, disaggregated by type of rodent sign;
+27 and
+28 (6) The designated municipal department shall track all interventions in all pilot program
+29 mitigation areas, including the integrated pest management application, any change in sanitation
+30 procedures, and any other rodent mitigation interventions, including the dates and locations of such
+31 interventions, during the periods designated by subsections (3), (4) and (5) of this section.
+32 (b) A municipality that conducted an integrated pest management program prior to the
+33 effective date of this chapter may qualify for funds available through the rules and regulations
+34 established in § 23-25.7-4 provided the municipality files a report containing the requested data
+LC001274/SUB A - Page 8 of 11
+1 outlined in subsection (d) of this section and the findings of the municipal program are accepted by
+2 the department of environmental management to further the intent of this chapter.
+3 (c) Implementation. The pilot program established pursuant to subsection (a) of this section
+4 shall commence no later than July 1, 2026. The duration of such program shall be no less than
+5 twelve (12) months unless the designated municipal department terminates or suspends the program
+6 on an earlier date;
+7 (d) Report. No later than three (3) months after the termination of the pilot program
+8 established pursuant to this section, the director of the designated municipal department shall
+9 submit to the mayor or city or town administrator a report regarding the outcomes of such pilot
+10 program, the existing pilot program areas, identified rodent mitigation areas and control areas and
+11 inspections of such areas during the period of such program. Such report shall include, but need
+12 not be limited to, the following information:
+13 (1) The direct costs associated with the implementation of such program;
+14 (2) Any challenges experienced by the designated municipal department during the
+15 implementation of such program; and
+16 (3) A table in which each separate row references a unique pilot program mitigation area
+17 and pilot program comparison area. Each such row shall include the following information, as well
+18 as any additional information the director of the designated municipal department deems
+19 appropriate, set forth in separate columns:
+20 (i) A unique identification code for the area;
+21 (ii) Whether the area is a pilot program mitigation area or pilot comparison area;
+22 (iii) The location of such area; and
+23 (iv) A description of the building classification or zone designation in such area.
+24 (4) A table on all rodent inspections in which each separate row references a unique
+25 inspection in all pilot program rodent mitigation areas and pilot program comparison areas. Each
+26 such row shall include the following information, as well as any additional information the director
+27 of the designated municipal department deems appropriate, set forth in separate columns:
+28 (i) The location of such area;
+29 (ii) The date of such inspection;
+30 (iii) The tally of all rodent signs, disaggregated by type of rodent sign; and
+31 (iv) A description of the mitigation activity implemented in the area, including integrated
+32 pest management applications, change in sanitation procedure and/or other rodent mitigation
+33 applications
+34 (5) Upon completion of the report and approval from the municipality’s mayor or
+LC001274/SUB A - Page 9 of 11
+1 administrator the report shall be submitted to the department of environmental management.
+2 23-25.7-4. Integrated pest management fund.
+3 (a) There is hereby established the integrated pest management fund to be administered by
+4 the department of environmental management as set forth in this chapter.
+5 (b) In addition to any funds appropriated by the general assembly, the department of
+6 environmental management shall seek grant and philanthropic funding resources to supplement the
+7 additional costs incurred by municipalities that voluntarily establish and participate in the
+8 implementation of a municipal integrated pest management pilot program. The department may
+9 seek assistance from independent third-party entities in identifying, applying and securing funds to
+10 assist in the implementation of the pilot programs.
+11 (c) Funds collected shall be deposited into the integrated pest management fund a restricted
+12 receipt account and distributed in accordance with rules and regulations promulgated by the
+13 department of environmental management.
+14 23-25.7-5. Rules and regulations.
+15 The department of environmental management shall promulgate rules and regulations to
+16 implement the provisions of this chapter.
+17 23-25.7-6. Sunset.
+18 Unless extended by the general assembly the provisions of this chapter shall sunset and
+19 expire on October 1, 2028.
+20 SECTION 4. Section 1 of this act shall take effect upon passage and sections 2 and 3 shall
+21 take effect on January 1, 2026.
+========
+LC001274/SUB A
+========
+LC001274/SUB A - Page 10 of 11
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PESTICIDE CONTROL
+***
+1 This act would create rodent integrated pest management pilot programs for municipalities
+2 that choose to participate. Reports would be approved by the municipality's mayor or administrator
+3 and would be submitted to the department of environmental management.
+4 Section 1 of this act would take effect upon passage and sections 2 and 3 would take effect
+5 on January 1, 2026.
+========
+LC001274/SUB A
+========
+LC001274/SUB A - Page 11 of 11
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 A ( m ( s s b ( p p b a p ( f r v p p C p ( h ( p (]
+[DELETED:  ( l ( a ( f ( o s ( ( “ m t o f s h f s s b s d f s ( a ( ( 1 ( a ( ( ( ( “ m a n t ( i a n s a ( p u ( p r t 1]
+[DELETED:  ( ( ( p ( i ( t c a a l ( a i a d ( p ( ( ( d a a r ( s m ( c c e (]
+[DELETED:  r p i ( ( ( ( ( ( ( ( ( “ m a w c i b t d a t p a ( g ( ( ( m l ( ( o ( o ( p ( p a t s m]
+[DELETED:  i d ( p h s ( 2 c ( a w r t s u i e o a f s c o m o p ( u p ( u r ( a ( p ( r ( “ g a r m a p p t c ( ( ( ( ( a]
+[DELETED:  d s t a h r a r t p u a w ( “ t d s m o s o a p a b a a c o l a w i r f t a ( t a ( ( c S a 2 ( a r a d i § 2 s b p f b s i “ h ( a r a d i § 2 s b p f b s i “ h ( r c 2 ( s ( ( e f o a a r t h b d a p h w i h]
+[DELETED:  d t a o r c a i n a a i ( T u o a s a r a a m w g a s ( c ( ( c ( S a C R 2 T P 2 F ( u a s l c p o n p m a n ( r ( m ( d t 2]
+[DELETED:  ( M a a t i a p i a v p m t p b d t m d a r f t i d i p m a t t e o s p i r t r p ( b ( T d m d s d a l o p p c m t p ( p d r d ( s t d m d s d a i p m a ( m o p a ( m p i ( e e]
+[DELETED:  o t ( s t o ( R N l ( m t o e s p i n ( ( A c e b t d m d d t i ( a a a a i t d o t d m d d a ( ( ( ( ( i s o ( ( ( ( p m a c i s p a o r m a ( U c o t r a a f t m m o]
+[DELETED:  a 2 ( t ( e a c i b m t v e a p i t i s a ( r a a d i a w r a r p b t d 2 T i 2 U e S t]
+[DELETED:  T t a S o]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0651 SUBSTITUTE A
+========
+LC001274/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PESTICIDE CONTROL
+Introduced By: Senators Murray, DiMario, Lauria, Sosnowski, Valverde, Kallman, Urso,
+Ujifusa, and Mack
+Date Introduced: March 07, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-25-4 of the General Laws in Chapter 23-25 entitled "Pesticide
+2 Control" is hereby amended to read as follows:
+3 23-25-4. Definitions.
+4 As used in this chapter:
+5 (1) “Active ingredient” means any ingredient that will prevent, destroy, repel, control, or
+6 mitigate pests, or that will act as a plant regulator, defoliant, or desiccant.
+7 (2) “Adulterated” applies to any pesticide if its strength or purity falls below the professed
+8 standards of quality as expressed on its labeling under which it is sold, or if any substance has been
+9 substituted wholly or in part for the pesticide, or if any valuable constituent of the pesticide has
+10 been wholly or in part abstracted.
+11 (3) “Agricultural commodity” means any plant, or part of plant, or animal, or animal
+12 product, produced by a person (including farmers, ranchers, vineyardists, plant propagators,
+13 Christmas tree growers, aquaculturists, floriculturists, orchardists, foresters, or other comparable
+14 persons) primarily for sale, consumption, propagation, or other use by humans or animals.
+15 (4) “Animal” means all vertebrate and invertebrate species, including, but not limited to,
+16 humans and other mammals, birds, fish, and shellfish.
+17 (5) “Beneficial insects” means those insects that, during their life cycle, are effective
+18 pollinators of plants, are parasites or predators of pests, or are otherwise beneficial.
+19 (6) “Board” means the pesticide advisory board as provided for under § 23-25.2-3.
+
+1 (7) “Defoliant” means any substance or mixture of substances intended for causing the
+2 leaves or foliage to drop from a plant with or without causing abscission.
+3 (8) “Desiccant” means any substance or mixture of substances intended for artificially
+4 accelerating the drying of plant tissue.
+5 (9) “Device” means any instrument or contrivance (other than a firearm) that is intended
+6 for trapping, destroying, repelling, or mitigating any pest or any other form of plant or animal life
+7 (other than humans and other than bacteria, virus, or other micro-organism on or in living humans
+8 or other living animals) but not including equipment used for the application of pesticides when
+9 sold separately from it.
+10 (10) “Director” means the director of environmental management.
+11 (11) “Distribute” means to offer for sale, hold for sale, sell, barter, ship, deliver for
+12 shipment, or receive and (having so received) deliver or offer to deliver pesticides in this state.
+13 (12) “Environment” includes water, air, land, and all plants and humans and other living
+14 animals in it, and the interrelationships that exist among these.
+15 (13) “EPA” means the United States Environmental Protection Agency.
+16 (14) “FIFRA” means the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. §
+17 136 et seq., and other legislation supplementary to it and amendatory of it.
+18 (15) “First generation anticoagulant rodenticide” means any pesticide product that contains
+19 any of the following active ingredients:
+20 (i) Chlorophacinone;
+21 (ii) Diphacinone; or
+22 (iii) Warfarin.
+23 (15)(16) “Fungi” means all nonchlorophyll-bearing thallophytes (that is, all
+24 nonchlorophyll-bearing plants of a lower order than mosses and liverworts) as, for example, rusts,
+25 smuts, mildews, molds, yeasts, and bacteria, except those in or on living humans or other living
+26 animals, and except those in or on processed food, beverages, or pharmaceuticals.
+27 (16)(17) “Highly toxic pesticide” means any pesticide determined to be a highly toxic
+28 pesticide under the authority of § 25(c)(2) of FIFRA, 7 U.S.C. § 136w(c)(2), or by the director
+29 under § 23-25-9(a)(2).
+30 (17)(18) “Imminent hazard” means a situation that exists when the continued use of a
+31 pesticide during the time required for cancellation proceedings pursuant to § 23-25-8 would likely
+32 result in unreasonable adverse effects on the environment or will involve unreasonable hazard to
+33 the survival of a species declared endangered by the secretary of the interior under 16 U.S.C. §
+34 1531 et seq.
+LC001274/SUB A - Page 2 of 11
+
+1 (18)(19) “Inert ingredient” means an ingredient that is not an active ingredient.
+2 (19)(20) “Ingredient statement” means:
+3 (i) A statement of the name and percentage of each active ingredient together with the total
+4 percentage of the inert ingredients in the pesticide; and
+5 (ii) When the pesticide contains arsenic in any form, the ingredient statement shall also
+6 include percentages of total and water soluble arsenic, each calculated as elemental arsenic.
+7 (20)(21) “Insect” means any of the numerous small invertebrate animals generally having
+8 the body more or less obviously segmented, for the most part belonging to the class insecta,
+9 comprising six (6) legged, usually winged forms, as for example, moths, beetles, bugs, bees, flies,
+10 and their immature stages, and to other allied classes of anthropods whose members are wingless
+11 and usually have more than six (6) legs, as for example, spiders, mites, ticks, centipedes, and wood
+12 lice.
+13 (21)(22) “Integrated Pest Management (IPM)” refers to a method of pest control that uses
+14 a systems approach to reduce pest damage to tolerable levels through a variety of techniques,
+15 including natural predators and parasites, genetically resistant hosts, environmental modifications
+16 and, when necessary and appropriate, chemical pesticides. IPM strategies rely upon nonchemical
+17 defenses first and chemical pesticides second.
+18 (22)(23) “Label” means the written, printed, or graphic matter on, or attached to, the
+19 pesticide or device or any of its containers or wrappers.
+20 (23)(24) “Labeling” means the label and all other written, printed, or graphic matter:
+21 (i) Accompanying the pesticide or device at any time; or
+22 (ii) To which reference is made on the label or in literature accompanying the pesticide or
+23 device, except to current official publications of EPA, the United States Departments of Agriculture
+24 and Interior, and the department of health and human services; state experiment stations; state
+25 agricultural colleges; and other federal or state institutions or agencies authorized by law to conduct
+26 research in the field of pesticides.
+27 (24)(25) “Land” means all land and water areas, including airspace, all plants, animals,
+28 structures, buildings, contrivances, and machinery appurtenant to it or situated on it, fixed or
+29 mobile, including any used for transportation.
+30 (25)(26) “Nematode” means invertebrate animals of the phylum Nemathelminthes and
+31 class Nematoda, that is, unsegmented round worms with elongated, fusiform, or sac-like bodies
+32 covered with cuticle, and inhabiting soil, water, plants, or plant parts; may also be called nemas or
+33 eelworms.
+34 (26)(27) “Neonicotinoids” means any of a class of systemic water soluble insecticides
+LC001274/SUB A - Page 3 of 11
+
+1 related to nicotine that affect the central nervous system of insects by selectively binding to the
+2 postsynaptic nicotinic receptors of insects thereby causing paralysis and death. Neonicotinoids
+3 include, but are not limited to:
+4 (i) Imidacloprid;
+5 (ii) Acetamiprid;
+6 (iii) Clothianidin;
+7 (iv) Nitenpyram;
+8 (v) Nithiazine;
+9 (vi) Thiacloprid;
+10 (vii) Thiamethoxam; and
+11 (viii) Dinotefuran.
+12 (27)(28) “Permit” means a written certificate, issued by the director, authorizing the
+13 purchase, possession, and/or use of certain pesticides or pesticide uses defined in subsections (36)
+14 and (37) of this section.
+15 (28)(29) “Person” means any individual, partnership, association, fiduciary, corporation,
+16 governmental entity, or any organized group of persons whether incorporated or not.
+17 (29)(30) “Pest” means:
+18 (i) Any insect, rodent, nematode, fungus, or weed; and
+19 (ii) Any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other
+20 micro-organism (except viruses, bacteria, or other micro-organisms on or in living humans or other
+21 living animals) which the director declares to be a pest under § 23-25-9(a)(1).
+22 (30)(31) “Pesticide” means:
+23 (i) Any substance or mixture of substances intended for preventing, destroying, repelling,
+24 or mitigating any pest; and
+25 (ii) Any substance or mixture of substances intended for use as a plant regulator, defoliant,
+26 or desiccant.
+27 (31)(32) “Pesticide dealer” means any person who distributes within the state any pesticide
+28 product classified for restricted use by EPA or limited use by the director.
+29 (32)(33) “Plant regulator” means any substance or mixture of substances intended, through
+30 physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for
+31 altering the behavior of plants or the produce of these but shall not include substances to the extent
+32 that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and
+33 soil amendments. Also, the term “plant regulator” is not required to include any of those nutrient
+34 mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products,
+LC001274/SUB A - Page 4 of 11
+
+1 intended for improvement, maintenance, survival, health, and propagation of plants, are not for pest
+2 destruction and are nontoxic and nonpoisonous in the undiluted packaged concentration.
+3 (33)(34)(i) “Private applicator” means any person who uses or supervises the use of any
+4 pesticide for purposes of producing any agricultural commodity on land owned or rented by him or
+5 her or his or her employer or (if applied without compensation other than trading of personal
+6 services between producers of agricultural commodities) on land of another person.
+7 (ii) “Certified private applicator” means any private applicator who is certified under § 23-
+8 25-14 as authorized to purchase, acquire, apply, or supervise the application of any pesticide
+9 classified for restricted use by EPA or limited use by the director.
+10 (iii) “Commercial applicator” means any person (whether or not that person is a private
+11 applicator with respect to some uses), including employees of any federal, state, county or
+12 municipal agency, department, office, division, section, bureau, board, or commission, who applies
+13 or supervises the application of any pesticide for any purpose or on any property other than as
+14 provided by the definition of “private applicator”.
+15 (iv) “Certified commercial applicator” means any commercial applicator who is certified
+16 under § 23-25-13 as authorized to purchase, acquire, apply, or supervise the application of a
+17 pesticide classified for restricted use by EPA or limited use by the director.
+18 (v) “Licensed commercial applicator” means any commercial applicator who is licensed
+19 under § 23-25-12 as authorized to use or supervise the use of any pesticide not classified for
+20 restricted use by EPA or limited use by the director on land not owned or rented by him or her.
+21 (34)(35) “Protect health and the environment” means protection against any unreasonable
+22 adverse effects on the environment.
+23 (35)(36) “Registrant” means a person who has registered any pesticide pursuant to the
+24 provisions of this chapter.
+25 (36)(37) “Restricted use pesticide” means a pesticide or pesticide use that is classified for
+26 restricted use by the administrator of EPA, or under § 23-25-6(h).
+27 (38) “Second generation anticoagulant rodenticide” means any pesticide product that
+28 contains any of the following active ingredients:
+29 (i) Brodifacoum;
+30 (ii) Bromadiolone;
+31 (iii) Difenacoum;
+32 (iv) Difethialone.
+33 (37)(39) “State limited use pesticide” means any pesticide or pesticide use that, when used
+34 as directed or in accordance with a widespread and commonly recognized practice, the director
+LC001274/SUB A - Page 5 of 11
+
+1 determines, subsequent to a hearing, requires additional restrictions to prevent unreasonable
+2 adverse effects on the environment including humans, land, beneficial insects, animals, crops, and
+3 wildlife, other than pests.
+4 (38)(40) “Under the direct supervision” means on-site supervision of any pesticide
+5 application by an appropriately certified or licensed applicator who is responsible for the
+6 application and is capable of dealing with emergency situations which might occur.
+7 (39)(41) “Unreasonable adverse effects on the environment” means any unreasonable risk
+8 to humans or the environment, taking into account the economic, social, and environmental costs
+9 and benefits of the use of any pesticide.
+10 (40)(42) “Weed” means any plant that grows where not wanted.
+11 (41)(43) “Wildlife” means all living things that are neither human nor, as defined in this
+12 chapter, pests, including but not limited to mammals, birds, and aquatic life.
+13 SECTION 2. Chapter 23-25 of the General Laws entitled "Pesticide Control" is hereby
+14 amended by adding thereto the following sections:
+15 23-25-41. Rodenticides sales restricted.
+16 (a) Effective March 1, 2026, all pesticides registered in the state as a first-generation
+17 anticoagulant rodenticide as defined in § 23-25-4, shall be prohibited from being sold in
+18 “consumer” stores and online retail stores including, but not limited to, drug stores, grocery stores,
+19 hardware stores, club stores and similar retail outlets.
+20 (b) Effective January 1, 2027, all pesticides registered in the state as a second-generation
+21 anticoagulant rodenticide as defined in § 23-25-4, shall be prohibited from being sold in
+22 “consumer” stores and online retail stores including, but not limited to, drug stores, grocery stores,
+23 hardware stores, club stores and similar retail outlets.
+24 (c) This section shall not apply to the sale of a first and/or second-generation anticoagulant
+25 rodenticide by a wholesaler to a business that employs the following: certified private applicator,
+26 commercial applicator, certified commercial applicator or licensed commercial applicator.
+27 23-25-42. Rodenticides use restricted.
+28 (a) Effective January 1, 2028, the use of any pesticides registered in the state as a first or
+29 second-generation anticoagulant rodenticide as defined in § 23-25-4 shall be prohibited.
+30 (b) This section shall not apply to the following:
+31 (1) The use of any second generation anticoagulant rodenticide by a state or municipal
+32 employee for public health activities, the protection of a drinking water supply, to control vectors
+33 for mosquito borne illnesses, the eradication of non-native invasive species of rodents, for control
+34 of an actual rodent infestation that has been deemed a public health issue where it has been
+LC001274/SUB A - Page 6 of 11
+
+1 documented that all other rodent control alternatives, including nonchemical alternatives, are
+2 inadequate to control the infestation.
+3 (2) The use of any second-generation anticoagulant rodenticide at a medical waste
+4 generator or a facility registered annually and subject to inspection under 21 U.S.C. § 360 et seq.
+5 and compliant with the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. § 136 et
+6 seq.).
+7 (3) The use of any second-generation anticoagulant rodenticide for agricultural activities
+8 conducted in the following locations:
+9 (i) A warehouse used to store foods for human or animal consumption;
+10 (ii) An agricultural food production site including, but not limited to, a slaughterhouse or
+11 cannery;
+12 (iii) A distillery, meadery, brewery, or winery.
+13 SECTION 3. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+14 amended by adding thereto the following chapter:
+15 CHAPTER 25.7
+16 RODENT INTEGRATED PEST MANAGEMENT PILOT PROGRAM ACT
+17 23-25.7-1. Short Title.
+18 This chapter shall be known and may be cited as the “Rodent Integrated Pest Management
+19 Pilot Program Act”.
+20 23-25.7-2. Definitions.
+21 For the purposes of this chapter, the following terms shall have the following meanings:
+22 (1) “Integrated pest management” means a science-based approach to managing rodents
+23 using a variety of methods to prevent and treat rodent concerns including, but not limited to,
+24 addressing sanitation, landscaping concerns, promotion of natural predators, manufactured
+25 alternatives to pesticides and other methods of prevention, reduction, and mitigation including, but
+26 not limited to, rodent contraceptive applications.
+27 (2) “Rodent contraceptive” means an agent for the reduction of reproductive capacity in
+28 rodents that is approved for such use by the United States Environmental Protection Agency.
+29 (3) “Rodent mitigation zones” means the zones designated by municipalities within its
+30 municipalities’ boundaries to be areas in which the pilot program shall be implemented.
+31 (4) “Rodent signs” means the observable indicators used by the designated municipal
+32 departmental agency to determine the presence of rodents, including burrows, rub marks, runways,
+33 tracks, gnaw marks, droppings, and the presence of live rodents.
+34 23-25.7-3. Pilot program.
+LC001274/SUB A - Page 7 of 11
+
+1 (a) Municipalities are authorized to implement and participate in a voluntary pest
+2 management pilot program pursuant to the provisions of this chapter. A municipality may choose
+3 to participate by designating the municipality’s department agency responsible for the
+4 implementation and services related to rodent extermination or mitigation in consultation with the
+5 department of environmental management. The municipality may establish a pilot program for
+6 integrated pest management and track the efficacy of such program in reducing the rodent
+7 population. Such a program shall involve the following:
+8 (1) The program implementation shall take place in pilot program areas, to be designated
+9 by the municipal department assigned to identify rodent mitigation areas;
+10 (2) The designated municipal department shall designate at least one pilot program
+11 comparison area with similar zones, building types and landscapes to the pilot program rodent
+12 mitigation areas, and shall make reasonable efforts to implement rodent mitigation efforts, other
+13 than the implementation of the integrated pest management mitigation application, across the pilot
+14 program comparison area or areas to allow for a controlled comparison;
+15 (3) For not less than three (3) months immediately before the deployment of the integrated
+16 pest management application in the designated rodent mitigation areas, the designated municipal
+17 department shall perform monthly inspections of the pilot program areas and shall document all
+18 rodent signs observed in each pilot program mitigation area and pilot program comparison area,
+19 disaggregated by type of rodent sign;
+20 (4) Following at least three (3) months of inspections, as required in subsection (3) of this
+21 section, the designated municipal department shall deploy an integrated pest management
+22 application in the pilot program mitigation areas;
+23 (5) For not less than six (6) months immediately after the deployment of the integrated pest
+24 management application, the designated municipal department shall perform monthly inspections
+25 of the pilot program mitigation areas and shall document all rodent signs observed in each pilot
+26 program mitigation area and pilot program comparison area, disaggregated by type of rodent sign;
+27 and
+28 (6) The designated municipal department shall track all interventions in all pilot program
+29 mitigation areas, including the integrated pest management application, any change in sanitation
+30 procedures, and any other rodent mitigation interventions, including the dates and locations of such
+31 interventions, during the periods designated by subsections (3), (4) and (5) of this section.
+32 (b) A municipality that conducted an integrated pest management program prior to the
+33 effective date of this chapter may qualify for funds available through the rules and regulations
+34 established in § 23-25.7-4 provided the municipality files a report containing the requested data
+LC001274/SUB A - Page 8 of 11
+
+1 outlined in subsection (d) of this section and the findings of the municipal program are accepted by
+2 the department of environmental management to further the intent of this chapter.
+3 (c) Implementation. The pilot program established pursuant to subsection (a) of this section
+4 shall commence no later than July 1, 2026. The duration of such program shall be no less than
+5 twelve (12) months unless the designated municipal department terminates or suspends the program
+6 on an earlier date;
+7 (d) Report. No later than three (3) months after the termination of the pilot program
+8 established pursuant to this section, the director of the designated municipal department shall
+9 submit to the mayor or city or town administrator a report regarding the outcomes of such pilot
+10 program, the existing pilot program areas, identified rodent mitigation areas and control areas and
+11 inspections of such areas during the period of such program. Such report shall include, but need
+12 not be limited to, the following information:
+13 (1) The direct costs associated with the implementation of such program;
+14 (2) Any challenges experienced by the designated municipal department during the
+15 implementation of such program; and
+16 (3) A table in which each separate row references a unique pilot program mitigation area
+17 and pilot program comparison area. Each such row shall include the following information, as well
+18 as any additional information the director of the designated municipal department deems
+19 appropriate, set forth in separate columns:
+20 (i) A unique identification code for the area;
+21 (ii) Whether the area is a pilot program mitigation area or pilot comparison area;
+22 (iii) The location of such area; and
+23 (iv) A description of the building classification or zone designation in such area.
+24 (4) A table on all rodent inspections in which each separate row references a unique
+25 inspection in all pilot program rodent mitigation areas and pilot program comparison areas. Each
+26 such row shall include the following information, as well as any additional information the director
+27 of the designated municipal department deems appropriate, set forth in separate columns:
+28 (i) The location of such area;
+29 (ii) The date of such inspection;
+30 (iii) The tally of all rodent signs, disaggregated by type of rodent sign; and
+31 (iv) A description of the mitigation activity implemented in the area, including integrated
+32 pest management applications, change in sanitation procedure and/or other rodent mitigation
+33 applications
+34 (5) Upon completion of the report and approval from the municipality’s mayor or
+LC001274/SUB A - Page 9 of 11
+
+1 administrator the report shall be submitted to the department of environmental management.
+2 23-25.7-4. Integrated pest management fund.
+3 (a) There is hereby established the integrated pest management fund to be administered by
+4 the department of environmental management as set forth in this chapter.
+5 (b) In addition to any funds appropriated by the general assembly, the department of
+6 environmental management shall seek grant and philanthropic funding resources to supplement the
+7 additional costs incurred by municipalities that voluntarily establish and participate in the
+8 implementation of a municipal integrated pest management pilot program. The department may
+9 seek assistance from independent third-party entities in identifying, applying and securing funds to
+10 assist in the implementation of the pilot programs.
+11 (c) Funds collected shall be deposited into the integrated pest management fund a restricted
+12 receipt account and distributed in accordance with rules and regulations promulgated by the
+13 department of environmental management.
+14 23-25.7-5. Rules and regulations.
+15 The department of environmental management shall promulgate rules and regulations to
+16 implement the provisions of this chapter.
+17 23-25.7-6. Sunset.
+18 Unless extended by the general assembly the provisions of this chapter shall sunset and
+19 expire on October 1, 2028.
+20 SECTION 4. Section 1 of this act shall take effect upon passage and sections 2 and 3 shall
+21 take effect on January 1, 2026.
+========
+LC001274/SUB A
+========
+LC001274/SUB A - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PESTICIDE CONTROL
+***
+1 This act would create rodent integrated pest management pilot programs for municipalities
+2 that choose to participate. Reports would be approved by the municipality's mayor or administrator
+3 and would be submitted to the department of environmental management.
+4 Section 1 of this act would take effect upon passage and sections 2 and 3 would take effect
+5 on January 1, 2026.
+========
+LC001274/SUB A
+========
+LC001274/SUB A - Page 11 of 11
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 A ( m ( s s b ( p p b a p ( f r v p p C p ( h ( p (]
+[DELETED:  ( l ( a ( f ( o s ( ( “ m t o f s h f s s b s d f s ( a ( ( 1 ( a ( ( ( ( “ m a n t ( i a n s a ( p u ( p r t 1]
+[DELETED:  ( ( ( p ( i ( t c a a l ( a i a d ( p ( ( ( d a a r ( s m ( c c e (]
+[DELETED:  r p i ( ( ( ( ( ( ( ( ( “ m a w c i b t d a t p a ( g ( ( ( m l ( ( o ( o ( p ( p a t s m]
+[DELETED:  i d ( p h s ( 2 c ( a w r t s u i e o a f s c o m o p ( u p ( u r ( a ( p ( r ( “ g a r m a p p t c ( ( ( ( ( a]
+[DELETED:  d s t a h r a r t p u a w ( “ t d s m o s o a p a b a a c o l a w i r f t a ( t a ( ( c S a 2 ( a r a d i § 2 s b p f b s i “ h ( a r a d i § 2 s b p f b s i “ h ( r c 2 ( s ( ( e f o a a r t h b d a p h w i h]
+[DELETED:  d t a o r c a i n a a i ( T u o a s a r a a m w g a s ( c ( ( c ( S a C R 2 T P 2 F ( u a s l c p o n p m a n ( r ( m ( d t 2]
+[DELETED:  ( M a a t i a p i a v p m t p b d t m d a r f t i d i p m a t t e o s p i r t r p ( b ( T d m d s d a l o p p c m t p ( p d r d ( s t d m d s d a i p m a ( m o p a ( m p i ( e e]
+[DELETED:  o t ( s t o ( R N l ( m t o e s p i n ( ( A c e b t d m d d t i ( a a a a i t d o t d m d d a ( ( ( ( ( i s o ( ( ( ( p m a c i s p a o r m a ( U c o t r a a f t m m o]
+[DELETED:  a 2 ( t ( e a c i b m t v e a p i t i s a ( r a a d i a w r a r p b t d 2 T i 2 U e S t]
+[DELETED:  T t a S o]
