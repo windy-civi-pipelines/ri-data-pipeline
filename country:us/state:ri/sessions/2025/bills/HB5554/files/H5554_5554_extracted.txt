@@ -1,0 +1,277 @@
+Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Official Title: RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+Number of Sections: 1
+Source: versions - 5554
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5554
+========
+LC001580
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+INTERCHANGE FEES
+Introduced By: Representatives McEntee, Voas, Cortvriend, Dawson, Shallcross Smith,
+Caldwell, Spears, Phillips, Lima, and Cotter
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 26.2
+4 INTERCHANGE FEES
+5 6-26.2-1. Definitions.
+6 (a) As used in this chapter. the following words and terms shall have the following
+7 meanings:
+8 (1) "Acquirer bank" means a member of a payment card network that contracts with a
+9 merchant for the settlement of electronic payment transactions. An acquirer bank may contract
+10 directly with merchants or indirectly through a processor to process electronic payment
+11 transactions.
+12 (2) "Authorization" means the process through which a merchant requests approval for an
+13 electronic payment transaction from the issuer.
+14 (3) "Clearance" means the process of transmitting final transaction data from a merchant
+15 to an issuer for posting to the cardholder's account and the calculation of fees and charges, including
+16 interchange fees, that apply to the issuer and the merchant.
+17 (4) "Credit card" means a card, plate, coupon book, or other credit device existing for the
+18 purpose of obtaining money, property, labor, or services on credit.
+1 (5) "Debit card" means a card or other payment code or device issued or approved for use
+2 through a payment card network to debit an asset account, regardless of the purpose for which the
+3 account is established, whether authorization is based on a signature, a personal identification
+4 number, or other means. "Debit card" includes a general use prepaid card, as defined in 15 U.S.C.
+5 § 16931-I. "Debit card" does not include paper checks.
+6 (6) "Electronic payment transaction" means a transaction in which a person uses a debit
+7 card, a credit card, or other payment code or device issued or approved through a payment card
+8 network to debit a deposit account or use a line of credit, whether authorization is based on a
+9 signature, a personal identification number or other means.
+10 (7) "Gratuity" means a voluntary monetary contribution to an employee from a guest,
+11 patron, or customer in connection with services rendered.
+12 (8) "Interchange fee" means a fee established, charged, or received by a payment card
+13 network for the purpose of compensating the issuer for its involvement in an electronic payment
+14 transaction.
+15 (9) "Issuer" means a person issuing a debit card or credit card or the issuer's agent.
+16 (10) "Merchant" means a person that collects and remits a tax.
+17 (11) "Payment card network" means an entity that:
+18 (i) Directly or through licensed members, processors, or agents, provides the proprietary
+19 services, infrastructure, and software to route information and data for the purpose of conducting
+20 electronic payment transaction authorization clearance and settlement; and
+21 (ii) A merchant uses to accept as a form of payment a brand of debit card, credit card, or
+22 other device that may be used to carry out electronic payment transactions.
+23 (12) "Person" means any individual, firm, public or private corporation, government,
+24 partnership, association, or any other organization or entity.
+25 (13) "Processor" means an entity that facilitates, services, processes, or manages the debit
+26 or credit authorization, billing, payment procedures, or settlement with respect to any electronic
+27 payment transaction.
+28 (14) "Settlement" means the process of transmitting sales information to the issuing bank
+29 for collection and reimbursement of funds to the merchant and calculating and reporting the net
+30 transaction amount to the issuer and merchant for an electronic payment transaction that is cleared.
+31 (15) "Tax" means any sales, use, occupancy, or excise tax imposed by the state or a political
+32 subdivision thereof.
+33 (16) "Tax and gratuity documentation" means documentation sufficient or data sufficient
+34 for the payment card network to determine the total amount of the electronic payment transaction
+LC001580 - Page 2 of 5
+1 and the tax or gratuity amount of the transaction. It may be related to a single electronic payment
+2 transaction or multiple electronic payment transactions aggregated over a period of time to include,
+3 but are not limited to, invoices, receipts, journals, ledgers, and tax returns filed with the department
+4 of revenue or local taxing authority.
+5 6-26.2-2. Interchange fees on taxes and gratuities prohibited.
+6 (a) An issuer, a payment card network, an acquirer bank, or a processor shall not receive
+7 or charge a merchant any interchange fee on the tax amount or gratuity of an electronic payment
+8 transaction if a merchant informs the acquirer bank or its designee of the tax or gratuity amount as
+9 part of the authorization or settlement process for the electronic payment transaction. The merchant
+10 shall transmit the tax or gratuity amount data as part of the authorization or settlement process to
+11 avoid being charged interchange fees on the tax or gratuity amount of an electronic payment
+12 transaction.
+13 (b) A merchant that does not transmit the tax or gratuity amount data in accordance with
+14 this section may submit tax and gratuity documentation for the electronic payment transaction to
+15 the acquirer bank or its designee no later than one hundred eighty (180) days after the date of the
+16 electronic payment transaction, and, within thirty (30) days after the merchant submits the
+17 necessary tax and gratuity documentation, the issuer or a payment card network shall credit to the
+18 merchant the amount of interchange fees charged on the tax or gratuity amount of the electronic
+19 payment transaction.
+20 (c) This section shall not create liability for a payment card network regarding the accuracy
+21 of the tax or gratuity data reported by the merchant.
+22 (d) It shall be unlawful for an issuer, a payment card network, an acquirer bank, or a
+23 processor to alter or manipulate the computation and imposition of interchange fees by increasing
+24 the rate or amount of the fees applicable to or imposed upon the portion of a credit or debit card
+25 transaction not attributable to taxes or gratuities to circumvent the provisions of this section.
+26 6-26.2-3. Penalties.
+27 An issuer, a payment card network, an acquirer bank, a processor, or other designated entity
+28 that has received the tax or amount data and violates the provisions of this chapter shall be subject
+29 to a civil penalty of one thousand dollars ($1,000) per electronic payment transaction conducted in
+30 violation of this chapter, and the issuer or payment card network shall refund the merchant the
+31 interchange fee calculated on the tax or gratuity amount relative to the electronic payment
+32 transaction.
+33 6-26.2-4. Severability.
+34 If any of the provisions of this chapter are held invalid, the remainder shall not be affected
+LC001580 - Page 3 of 5
+1 as a result, nor shall the application of the provision held invalid to persons or circumstances other
+2 than those as to which it is held invalid be affected as a result.
+3 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001580
+========
+LC001580 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTERCHANGE FEES
+***
+1 This act would prohibit the charging of interchange fees on taxes and gratuities.
+2 This act would take effect on January 1, 2026.
+========
+LC001580
+========
+LC001580 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S R C I 6 ( A u i t c t f w a t s h t f m ( m d w m o i t a p t p e p t ( e ( t i ( p]
+[DELETED:  ( t a n § ( c n s ( p ( n t ( ( ( ( s e ( o ( " m a i f p o p c g p ( o p ( f t ( s ( f]
+[DELETED:  a t b o 6 ( o t p s a t ( t t e p t a w t ( d a t m s t n m p ( o ( p t t 6 A t t v i f c o t t o g a r t t e p t 6 I]
+[DELETED:  a t S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5554
+========
+LC001580
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTERCHANGE FEES
+Introduced By: Representatives McEntee, Voas, Cortvriend, Dawson, Shallcross Smith,
+Caldwell, Spears, Phillips, Lima, and Cotter
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 26.2
+4 INTERCHANGE FEES
+5 6-26.2-1. Definitions.
+6 (a) As used in this chapter. the following words and terms shall have the following
+7 meanings:
+8 (1) "Acquirer bank" means a member of a payment card network that contracts with a
+9 merchant for the settlement of electronic payment transactions. An acquirer bank may contract
+10 directly with merchants or indirectly through a processor to process electronic payment
+11 transactions.
+12 (2) "Authorization" means the process through which a merchant requests approval for an
+13 electronic payment transaction from the issuer.
+14 (3) "Clearance" means the process of transmitting final transaction data from a merchant
+15 to an issuer for posting to the cardholder's account and the calculation of fees and charges, including
+16 interchange fees, that apply to the issuer and the merchant.
+17 (4) "Credit card" means a card, plate, coupon book, or other credit device existing for the
+18 purpose of obtaining money, property, labor, or services on credit.
+
+1 (5) "Debit card" means a card or other payment code or device issued or approved for use
+2 through a payment card network to debit an asset account, regardless of the purpose for which the
+3 account is established, whether authorization is based on a signature, a personal identification
+4 number, or other means. "Debit card" includes a general use prepaid card, as defined in 15 U.S.C.
+5 § 16931-I. "Debit card" does not include paper checks.
+6 (6) "Electronic payment transaction" means a transaction in which a person uses a debit
+7 card, a credit card, or other payment code or device issued or approved through a payment card
+8 network to debit a deposit account or use a line of credit, whether authorization is based on a
+9 signature, a personal identification number or other means.
+10 (7) "Gratuity" means a voluntary monetary contribution to an employee from a guest,
+11 patron, or customer in connection with services rendered.
+12 (8) "Interchange fee" means a fee established, charged, or received by a payment card
+13 network for the purpose of compensating the issuer for its involvement in an electronic payment
+14 transaction.
+15 (9) "Issuer" means a person issuing a debit card or credit card or the issuer's agent.
+16 (10) "Merchant" means a person that collects and remits a tax.
+17 (11) "Payment card network" means an entity that:
+18 (i) Directly or through licensed members, processors, or agents, provides the proprietary
+19 services, infrastructure, and software to route information and data for the purpose of conducting
+20 electronic payment transaction authorization clearance and settlement; and
+21 (ii) A merchant uses to accept as a form of payment a brand of debit card, credit card, or
+22 other device that may be used to carry out electronic payment transactions.
+23 (12) "Person" means any individual, firm, public or private corporation, government,
+24 partnership, association, or any other organization or entity.
+25 (13) "Processor" means an entity that facilitates, services, processes, or manages the debit
+26 or credit authorization, billing, payment procedures, or settlement with respect to any electronic
+27 payment transaction.
+28 (14) "Settlement" means the process of transmitting sales information to the issuing bank
+29 for collection and reimbursement of funds to the merchant and calculating and reporting the net
+30 transaction amount to the issuer and merchant for an electronic payment transaction that is cleared.
+31 (15) "Tax" means any sales, use, occupancy, or excise tax imposed by the state or a political
+32 subdivision thereof.
+33 (16) "Tax and gratuity documentation" means documentation sufficient or data sufficient
+34 for the payment card network to determine the total amount of the electronic payment transaction
+LC001580 - Page 2 of 5
+
+1 and the tax or gratuity amount of the transaction. It may be related to a single electronic payment
+2 transaction or multiple electronic payment transactions aggregated over a period of time to include,
+3 but are not limited to, invoices, receipts, journals, ledgers, and tax returns filed with the department
+4 of revenue or local taxing authority.
+5 6-26.2-2. Interchange fees on taxes and gratuities prohibited.
+6 (a) An issuer, a payment card network, an acquirer bank, or a processor shall not receive
+7 or charge a merchant any interchange fee on the tax amount or gratuity of an electronic payment
+8 transaction if a merchant informs the acquirer bank or its designee of the tax or gratuity amount as
+9 part of the authorization or settlement process for the electronic payment transaction. The merchant
+10 shall transmit the tax or gratuity amount data as part of the authorization or settlement process to
+11 avoid being charged interchange fees on the tax or gratuity amount of an electronic payment
+12 transaction.
+13 (b) A merchant that does not transmit the tax or gratuity amount data in accordance with
+14 this section may submit tax and gratuity documentation for the electronic payment transaction to
+15 the acquirer bank or its designee no later than one hundred eighty (180) days after the date of the
+16 electronic payment transaction, and, within thirty (30) days after the merchant submits the
+17 necessary tax and gratuity documentation, the issuer or a payment card network shall credit to the
+18 merchant the amount of interchange fees charged on the tax or gratuity amount of the electronic
+19 payment transaction.
+20 (c) This section shall not create liability for a payment card network regarding the accuracy
+21 of the tax or gratuity data reported by the merchant.
+22 (d) It shall be unlawful for an issuer, a payment card network, an acquirer bank, or a
+23 processor to alter or manipulate the computation and imposition of interchange fees by increasing
+24 the rate or amount of the fees applicable to or imposed upon the portion of a credit or debit card
+25 transaction not attributable to taxes or gratuities to circumvent the provisions of this section.
+26 6-26.2-3. Penalties.
+27 An issuer, a payment card network, an acquirer bank, a processor, or other designated entity
+28 that has received the tax or amount data and violates the provisions of this chapter shall be subject
+29 to a civil penalty of one thousand dollars ($1,000) per electronic payment transaction conducted in
+30 violation of this chapter, and the issuer or payment card network shall refund the merchant the
+31 interchange fee calculated on the tax or gratuity amount relative to the electronic payment
+32 transaction.
+33 6-26.2-4. Severability.
+34 If any of the provisions of this chapter are held invalid, the remainder shall not be affected
+LC001580 - Page 3 of 5
+
+1 as a result, nor shall the application of the provision held invalid to persons or circumstances other
+2 than those as to which it is held invalid be affected as a result.
+3 SECTION 2. This act shall take effect on January 1, 2026.
+========
+LC001580
+========
+LC001580 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+INTERCHANGE FEES
+***
+1 This act would prohibit the charging of interchange fees on taxes and gratuities.
+2 This act would take effect on January 1, 2026.
+========
+LC001580
+========
+LC001580 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S R C I 6 ( A u i t c t f w a t s h t f m ( m d w m o i t a p t p e p t ( e ( t i ( p]
+[DELETED:  ( t a n § ( c n s ( p ( n t ( ( ( ( s e ( o ( " m a i f p o p c g p ( o p ( f t ( s ( f]
+[DELETED:  a t b o 6 ( o t p s a t ( t t e p t a w t ( d a t m s t n m p ( o ( p t t 6 A t t v i f c o t t o g a r t t e p t 6 I]
+[DELETED:  a t S]
+[DELETED:  T T]

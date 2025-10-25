@@ -1,0 +1,283 @@
+Title: RELATING TO TAXATION -- TAX CREDIT FOR FOOD DONATION
+Official Title: RELATING TO TAXATION -- TAX CREDIT FOR FOOD DONATION
+Number of Sections: 1
+Source: versions - 5404
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5404
+========
+LC001256
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives McEntee, O'Brien, Fogarty, Spears, Tanzi, Morales,
+Caldwell, Craven, Cortvriend, and Casimiro
+Date Introduced: February 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 33.7
+4 TAX CREDIT FOR FOOD DONATION
+5 44-33.7-1. Definitions.
+6 As used in this chapter:
+7 (1) "Apparently wholesome food" means food that is fit for human consumption at the time
+8 it was donated as long as it meets all safety and safety-related standards required by federal, state,
+9 and local laws regardless of compliance with any laws, rules or ordinances regulating the packaging
+10 or labeling of food which are not linked to food safety. "Apparently wholesome food" as stipulated
+11 in the Bill Emerson Good Samaritan Food Donation Act is defined as "food that meets all quality
+12 and labeling standards imposed by federal, state, and local laws and regulations, even though the
+13 food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other
+14 conditions." "Apparently wholesome food" does not include canned goods that are leaking,
+15 swollen, dented on a seam, or no longer airtight.
+16 (2) "Donate" means to give without requiring anything of monetary value from the
+17 recipient, except that the term shall include giving food, notwithstanding that the donor receives or
+18 charges a good samaritan reduced price.
+19 (3) "Division" means the division of taxation.
+1 (4) "Good samaritan reduced price" means a price that is an amount not greater than the
+2 cost of handling, administering, harvesting, processing, packaging, transporting, and distributing
+3 the apparently wholesome food.
+4 (5) "Nonprofit organization" means a nonprofit organization that is exempt from federal
+5 taxation pursuant to § 501(c)(3) of the Federal Internal Revenue Code, 26 U.S.C. § 501(c)(3) that:
+6 (i) Operates for religious, charitable, or educational purposes;
+7 (ii) Does not provide net earnings to, or operate in any other manner, that inures to the
+8 benefit of, any officer, employee, or shareholder of the entity;
+9 (6) "Qualified taxpayer" means an individual, corporation, partnership, organization,
+10 association, or governmental entity, including a producer, retail grocer, wholesaler, hotel, motel,
+11 manufacturer, restaurant, caterer, farmer, school food authority, institute of higher education,
+12 nonprofit food distributor, or hospital.
+13 44-33.7-2. Credit for food donation.
+14 (a) For taxable years beginning on or after January 1, 2026, any qualified taxpayer that
+15 donates apparently wholesome food shall be allowed a credit to be computed as provided in this
+16 chapter against a tax imposed by chapters 11, 14, 17, and 30 of this title, for the taxable year of the
+17 donation. The qualified taxpayer shall be allowed a credit in an amount equal to seventy-five (75%)
+18 percent of the fair market value of such apparently wholesome food. This credit shall not exceed
+19 five thousand dollars ($5,000) per tax year.
+20 (b) In the case of a qualified taxpayer who transports any apparently wholesome food
+21 donated in accordance with subsection (a) of this section for taxable years beginning on or after
+22 January 1, 2026, there shall be allowed a credit to be computed as provided in this chapter against
+23 a tax imposed by chapters 11, 14, 17, and 30 of this title, for the taxable year of the donation. The
+24 qualified taxpayer shall be allowed a credit in an amount equal to fifty (50%) percent of the
+25 transportation costs (or any portion thereof) paid or incurred by the qualified taxpayer with respect
+26 to the conveyance of a donated food, including the coordination or arrangement of transportation
+27 services, in connection with the transportation of that qualified donated food item. This credit shall
+28 not exceed five thousand dollars ($5,000) per tax year. This credit shall only be allowed if the
+29 qualified taxpayer does not receive anything of monetary value, including receipt of a good
+30 samaritan reduced price.
+31 (c) Credits shall be allowed under this section only if:
+32 (1) The use of the donated food by the donee nonprofit organization is related to providing
+33 food to the needy; and
+34 (2) The donated food, if sold by the donee nonprofit organization, is provided to or sold to
+LC001256 - Page 2 of 5
+1 the needy or other nonprofit organizations that intend to use the food to provide food to the needy
+2 at no cost or at a good samaritan reduced price.
+3 (d) Upon receipt of the donated food, the nonprofit organization shall provide a certificate
+4 to the qualified taxpayer, which shall contain the name of the qualified taxpayer, the name and
+5 address of the donee nonprofit organization, the date of the donation, the type and quantity of
+6 donated food, and, as provided by the qualified taxpayer, the fair market value of the donated food.
+7 The certificate shall also include a statement by the donee nonprofit organization that its use and
+8 disposition of the donated food complies with the requirements under subsection (c) of this section.
+9 (e) For every taxable year for which a qualified taxpayer seeks a tax credit under this
+10 chapter, the person shall apply to the division in accordance with the forms, instructions, dates, and
+11 procedures prescribed by the division.
+12 44-33.7-3. Limit on tax credit.
+13 (a) The amount of the credit claimed under § 44-33.7-2(a) and (b) shall not exceed the total
+14 amount of tax imposed upon the qualified taxpayer for the taxable year. Any credit not usable for
+15 the taxable year for which the credit was first allowed may be carried over for credit against the
+16 income taxes of the qualified taxpayer in the next five (5) succeeding taxable years or until the total
+17 amount of the tax credit has been taken, whichever is sooner.
+18 (b) Credits granted to a partnership, limited liability company, or electing small business
+19 corporation (S corporation) shall be allocated to the individual partners, members, or shareholders,
+20 respectively, in proportion to their ownership or interest in such business entities.
+21 (c) Any tax credits claimed shall not reduce a corporation's tax liability below the state
+22 corporate minimum tax.
+23 (d) This chapter amends § 44-30-2.6 to add the tax credit for food donation as an allowable
+24 credit against personal income tax.
+25 44-33.7-4. Promulgation of rules and regulations.
+26 The division shall be authorized to develop guidelines, rules or regulations implementing
+27 the provisions of this chapter. The guidelines, rules and regulations shall include procedures for the
+28 allocation of tax credits among qualified taxpayers.
+29 44-33.7-5. Reporting requirements.
+30 Using information available to the division, the division shall report to the general
+31 assembly, annually, through the division of taxation’s testimony at the May revenue estimating
+32 conference, regarding the use of the credit authorized under this chapter. The report shall include,
+33 at a minimum, the credits generated in the taxable year, the credits claimed in the taxable year, and
+34 the number of qualified taxpayer claimed credits.
+LC001256 - Page 3 of 5
+1 SECTION 2. Chapter 44-30 of the General Laws entitled "Personal Income Tax" is hereby
+2 amended by adding thereto the following section:
+3 44-30-28. Food donation tax credit.
+4 Pursuant to the provisions of chapter 33.7 of title 44, an entity or individual shall be entitled
+5 to an income tax credit for the donation of food up to five thousand dollars ($5,000) per year.
+6 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001256
+========
+LC001256 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- TAX CREDIT FOR FOOD DONATION
+***
+1 This act would provide a tax credit for food donations by qualified taxpayers to nonprofit
+2 organizations up to five thousand dollars ($5,000) per year.
+3 This act would take effect on January 1, 2026.
+========
+LC001256
+========
+LC001256 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND B R M O F S T M S a C T 4 A ( i a o i a f c " w f d n i c g t a l s ( " m t g w r a o m v f t r c (]
+[DELETED:  ( c t ( t ( ( b ( " t m a i c p o a m r c f s f a i o h e n 4 ( d c d p f ( d J a q t t s n q t d n r a o m v i r o a g s ( ( f (]
+[DELETED:  t a ( t a d T d ( c p 4 ( a t i a ( c r ( c ( c 4 T t a 4 U i a t t d t d s r t t g a c a t]
+[DELETED:  S a 4 P t S]
+[DELETED:  T o T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5404
+========
+LC001256
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- TAX CREDIT FOR FOOD DONATION
+Introduced By: Representatives McEntee, O'Brien, Fogarty, Spears, Tanzi, Morales,
+Caldwell, Craven, Cortvriend, and Casimiro
+Date Introduced: February 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 33.7
+4 TAX CREDIT FOR FOOD DONATION
+5 44-33.7-1. Definitions.
+6 As used in this chapter:
+7 (1) "Apparently wholesome food" means food that is fit for human consumption at the time
+8 it was donated as long as it meets all safety and safety-related standards required by federal, state,
+9 and local laws regardless of compliance with any laws, rules or ordinances regulating the packaging
+10 or labeling of food which are not linked to food safety. "Apparently wholesome food" as stipulated
+11 in the Bill Emerson Good Samaritan Food Donation Act is defined as "food that meets all quality
+12 and labeling standards imposed by federal, state, and local laws and regulations, even though the
+13 food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other
+14 conditions." "Apparently wholesome food" does not include canned goods that are leaking,
+15 swollen, dented on a seam, or no longer airtight.
+16 (2) "Donate" means to give without requiring anything of monetary value from the
+17 recipient, except that the term shall include giving food, notwithstanding that the donor receives or
+18 charges a good samaritan reduced price.
+19 (3) "Division" means the division of taxation.
+
+1 (4) "Good samaritan reduced price" means a price that is an amount not greater than the
+2 cost of handling, administering, harvesting, processing, packaging, transporting, and distributing
+3 the apparently wholesome food.
+4 (5) "Nonprofit organization" means a nonprofit organization that is exempt from federal
+5 taxation pursuant to § 501(c)(3) of the Federal Internal Revenue Code, 26 U.S.C. § 501(c)(3) that:
+6 (i) Operates for religious, charitable, or educational purposes;
+7 (ii) Does not provide net earnings to, or operate in any other manner, that inures to the
+8 benefit of, any officer, employee, or shareholder of the entity;
+9 (6) "Qualified taxpayer" means an individual, corporation, partnership, organization,
+10 association, or governmental entity, including a producer, retail grocer, wholesaler, hotel, motel,
+11 manufacturer, restaurant, caterer, farmer, school food authority, institute of higher education,
+12 nonprofit food distributor, or hospital.
+13 44-33.7-2. Credit for food donation.
+14 (a) For taxable years beginning on or after January 1, 2026, any qualified taxpayer that
+15 donates apparently wholesome food shall be allowed a credit to be computed as provided in this
+16 chapter against a tax imposed by chapters 11, 14, 17, and 30 of this title, for the taxable year of the
+17 donation. The qualified taxpayer shall be allowed a credit in an amount equal to seventy-five (75%)
+18 percent of the fair market value of such apparently wholesome food. This credit shall not exceed
+19 five thousand dollars ($5,000) per tax year.
+20 (b) In the case of a qualified taxpayer who transports any apparently wholesome food
+21 donated in accordance with subsection (a) of this section for taxable years beginning on or after
+22 January 1, 2026, there shall be allowed a credit to be computed as provided in this chapter against
+23 a tax imposed by chapters 11, 14, 17, and 30 of this title, for the taxable year of the donation. The
+24 qualified taxpayer shall be allowed a credit in an amount equal to fifty (50%) percent of the
+25 transportation costs (or any portion thereof) paid or incurred by the qualified taxpayer with respect
+26 to the conveyance of a donated food, including the coordination or arrangement of transportation
+27 services, in connection with the transportation of that qualified donated food item. This credit shall
+28 not exceed five thousand dollars ($5,000) per tax year. This credit shall only be allowed if the
+29 qualified taxpayer does not receive anything of monetary value, including receipt of a good
+30 samaritan reduced price.
+31 (c) Credits shall be allowed under this section only if:
+32 (1) The use of the donated food by the donee nonprofit organization is related to providing
+33 food to the needy; and
+34 (2) The donated food, if sold by the donee nonprofit organization, is provided to or sold to
+LC001256 - Page 2 of 5
+
+1 the needy or other nonprofit organizations that intend to use the food to provide food to the needy
+2 at no cost or at a good samaritan reduced price.
+3 (d) Upon receipt of the donated food, the nonprofit organization shall provide a certificate
+4 to the qualified taxpayer, which shall contain the name of the qualified taxpayer, the name and
+5 address of the donee nonprofit organization, the date of the donation, the type and quantity of
+6 donated food, and, as provided by the qualified taxpayer, the fair market value of the donated food.
+7 The certificate shall also include a statement by the donee nonprofit organization that its use and
+8 disposition of the donated food complies with the requirements under subsection (c) of this section.
+9 (e) For every taxable year for which a qualified taxpayer seeks a tax credit under this
+10 chapter, the person shall apply to the division in accordance with the forms, instructions, dates, and
+11 procedures prescribed by the division.
+12 44-33.7-3. Limit on tax credit.
+13 (a) The amount of the credit claimed under § 44-33.7-2(a) and (b) shall not exceed the total
+14 amount of tax imposed upon the qualified taxpayer for the taxable year. Any credit not usable for
+15 the taxable year for which the credit was first allowed may be carried over for credit against the
+16 income taxes of the qualified taxpayer in the next five (5) succeeding taxable years or until the total
+17 amount of the tax credit has been taken, whichever is sooner.
+18 (b) Credits granted to a partnership, limited liability company, or electing small business
+19 corporation (S corporation) shall be allocated to the individual partners, members, or shareholders,
+20 respectively, in proportion to their ownership or interest in such business entities.
+21 (c) Any tax credits claimed shall not reduce a corporation's tax liability below the state
+22 corporate minimum tax.
+23 (d) This chapter amends § 44-30-2.6 to add the tax credit for food donation as an allowable
+24 credit against personal income tax.
+25 44-33.7-4. Promulgation of rules and regulations.
+26 The division shall be authorized to develop guidelines, rules or regulations implementing
+27 the provisions of this chapter. The guidelines, rules and regulations shall include procedures for the
+28 allocation of tax credits among qualified taxpayers.
+29 44-33.7-5. Reporting requirements.
+30 Using information available to the division, the division shall report to the general
+31 assembly, annually, through the division of taxation’s testimony at the May revenue estimating
+32 conference, regarding the use of the credit authorized under this chapter. The report shall include,
+33 at a minimum, the credits generated in the taxable year, the credits claimed in the taxable year, and
+34 the number of qualified taxpayer claimed credits.
+LC001256 - Page 3 of 5
+
+1 SECTION 2. Chapter 44-30 of the General Laws entitled "Personal Income Tax" is hereby
+2 amended by adding thereto the following section:
+3 44-30-28. Food donation tax credit.
+4 Pursuant to the provisions of chapter 33.7 of title 44, an entity or individual shall be entitled
+5 to an income tax credit for the donation of food up to five thousand dollars ($5,000) per year.
+6 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC001256
+========
+LC001256 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- TAX CREDIT FOR FOOD DONATION
+***
+1 This act would provide a tax credit for food donations by qualified taxpayers to nonprofit
+2 organizations up to five thousand dollars ($5,000) per year.
+3 This act would take effect on January 1, 2026.
+========
+LC001256
+========
+LC001256 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND B R M O F S T M S a C T 4 A ( i a o i a f c " w f d n i c g t a l s ( " m t g w r a o m v f t r c (]
+[DELETED:  ( c t ( t ( ( b ( " t m a i c p o a m r c f s f a i o h e n 4 ( d c d p f ( d J a q t t s n q t d n r a o m v i r o a g s ( ( f (]
+[DELETED:  t a ( t a d T d ( c p 4 ( a t i a ( c r ( c ( c 4 T t a 4 U i a t t d t d s r t t g a c a t]
+[DELETED:  S a 4 P t S]
+[DELETED:  T o T]

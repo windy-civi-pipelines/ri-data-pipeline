@@ -1,0 +1,824 @@
+Title: RELATING TO AGRICULTURE AND FORESTRY -- OLD GROWTH FOREST
+Official Title: RELATING TO AGRICULTURE AND FORESTRY -- OLD GROWTH FOREST
+Number of Sections: 1
+Source: versions - 5294
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5294
+========
+LC001096
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+PROTECTION ACT
+Introduced By: Representatives Shanley, Bennett, and Phillips
+Date Introduced: February 05, 2025
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 (1) Current Rhode Island laws do not provide protection for forestland apart from existing
+3 wetland protection laws.
+4 (2) Rhode Island is the only state in New England that has no state-owned forests protected
+5 in their natural state.
+6 (3) The world is facing a biodiversity crisis where populations of native species are
+7 declining at an alarming rate and many species are facing extinction. Native species in Rhode Island
+8 are at risk of becoming regionally extinct due to habitat destruction.
+9 (4) Old growth forests are significant ecosystems where native trees, plants, and animals
+10 live.
+11 (5) There are certain animals, insects, birds, and plants that only live in old growth forests.
+12 (6) Old growth forests are important carbon sinks which store more carbon than an average
+13 Rhode Island forest, and, if cut, would release its stored carbon into the atmosphere contributing to
+14 Climate Change.
+15 (7) Old growth forests are extremely rare, and once cut, may not come back for one hundred
+16 (100) years or more.
+17 (8) According to the 2020 forest action plan prepared jointly by the Rhode Island
+18 department of environmental management and the United States forest service, only one percent
+1 (1%) of Rhode Island’s forests are over one hundred (100) years old.
+2 (9) Clearcutting, and other forms of destructive logging, increases the presence and spread
+3 of invasive plants, which can outcompete native plants and harbor ticks.
+4 (10) Natural heritage areas on state-owned land have been logged.
+5 (11) Clearcutting of forests creates carbon emissions which does not comply with the goals
+6 of chapter 6.2 of title 42 ("2021 act on climate").
+7 (12) Clearcutting and most other types of logging of natural forests increase the occurrence
+8 of destructive brush fire by promoting dry, flammable logging debris, small trees, and underbrush
+9 including grassy weeds.
+10 (13) Wildfires were at their lowest point when the state was dominated by old growth
+11 forests due to old growth forests being more resistant to wildfires. Wildfires increased in the 19th
+12 and early 20th centuries after the primeval old growth forests were clear cut.
+13 (14) According to the United States Department of the Interior, nationally, almost nine (9)
+14 out of ten (10) wildfires are caused by humans.
+15 (15) In 2007, the Rhode Island natural heritage program was discontinued.
+16 (16) Not one natural area preserve has been designated since the passage of chapter 122 of
+17 title 42 ("natural areas protection act of 1993").
+18 (17) According to the 2023 report, “Wildlands in New England,” based on research
+19 conducted by Harvard Forest, Highstead Foundation, Northeast Wilderness Trust, and Wildlands,
+20 Woodlands, Farmlands and Communities, Rhode Island is the only state in New England with no
+21 protected Wildlands on public land.
+22 (18) The natural area preserves qualify as wildlands.
+23 (19) It is a matter of public benefit that old growth forests be untouched and left in their
+24 natural state.
+25 SECTION 2. Title 2 of the General Laws entitled "AGRICULTURE AND FORESTRY"
+26 is hereby amended by adding thereto the following chapter:
+27 CHAPTER 28
+28 OLD GROWTH FOREST PROTECTION ACT
+29 2-28-1. Short title.
+30 This chapter shall be known and may be cited as the “Old Growth Forest Protection Act”.
+31 2-28-2. Definitions.
+32 As used in this chapter, the following terms have the following meanings:
+33 (1) “Buffer area” means an area on land owned by the state or its cities and towns
+34 immediately adjacent to an old growth forest or natural area preserve that is of sufficient size and
+LC001096 - Page 2 of 12
+1 configuration for each old growth forest or natural area preserve to protect the area from
+2 ecologically harmful human activity or alteration.
+3 (2) “Clearcutting” means an even-age extractive logging operation that removes most or
+4 all of the trees over a considerable portion of a stand at one time.
+5 (3) “Council” means the state planning council in the division of statewide planning of the
+6 State of Rhode Island.
+7 (4) “Even-age extractive logging operation” means an extractive logging activity that:
+8 (i) Creates a clearing or opening that exceeds one-fifth (1/5) acre;
+9 (ii) Creates a stand in which the majority of trees are within ten (10) years of the same age;
+10 (iii) Within a period of thirty (30) years, cuts or removes more than the lesser of the growth
+11 of the basal area of all tree species (not including a tree of a non-native invasive tree species) in a
+12 stand; or twenty percent (20%) of the basal area of a stand; and
+13 (iv) Includes the application of clearcutting, high grading, seed-tree cutting, shelterwood
+14 cutting, or any other logging method in a manner inconsistent with selection management.
+15 (5) “Extractive logging” means the felling or removal of any trees from a forest for any
+16 purpose.
+17 (6) “Forest” means any area of land over one acre in size with a concentration of trees and
+18 related vegetation which has the capacity for self-perpetuation.
+19 (7) "Forestry vehicle" means every vehicle which is designed for and used for forest
+20 product operations purposes involving the harvesting, production, maintaining, and sale of forest
+21 products originating in the state, and used by the owner of the vehicle or family member(s) or
+22 employee(s) or designees of the owner, in the conduct of the owner's forestry product operations,
+23 which use shall include the delivery of forest products produced by the forester.
+24 (8) “Natural area preserve” means a natural area preserve as defined in § 42-122-3.
+25 (9) “Natural heritage areas” means the mapped rare natural communities and locales where
+26 rare or endangered species listed in the Rhode Island natural heritage data carry out important
+27 lifecycle activities to include, but not limited to, breeding, hibernating, and feeding, with eligibility
+28 questions to be resolved by the coordinator of the natural heritage program. Such determination
+29 shall constitute a "contested case" as defined in § 42-35-1.
+30 (10) “Old growth forest” means a contiguous forest at least five (5) acres in size that
+31 exhibits at least six (6) of the following characteristics with eligibility questions to be resolved by
+32 the coordinator of the natural heritage program. Such determination shall constitute a "contested
+33 case" as defined in § 42-35-1:
+34 (i) Contains an ecologically significant number of trees over one hundred (100) years old
+LC001096 - Page 3 of 12
+1 as of July 1, 2025;
+2 (ii) Shows no evidence of significant human disturbance that originated on the site within
+3 the past one hundred (100) years;
+4 (iii) Has an abundance of late successional tree species, with at least a majority of canopy
+5 trees that exceed half their maximum biological age including numerous large diameter trees;
+6 (iv) Consists of complex structural diversity of old, young, and middle-aged trees at
+7 different canopy levels;
+8 (v) Contains large standing dead trees called "snags", live trees with cavities, dead, broken,
+9 or decaying parts or canopy gaps due to natural disturbance;
+10 (vi) Has coarse woody debris along the forest floor consisting of abundant dead wood in
+11 various sizes and stages of decay;
+12 (vii) Has an abundance of lichen and moss on trees, and decaying logs on the ground;
+13 (viii) Has the presence of balding bark on the older trees;
+14 (ix) Has the presence of stag-headed shaped tree crowns among the older trees in the forest;
+15 (x) Has the presence of an ecologically significant natural community or diversity of native
+16 tree species; or
+17 (xi) Has the capacity for self-perpetuation.
+18 (11) “Prescribed burning” means the intended controlled application of fire by the
+19 department of environmental management, fire departments, or any other agency of the state.
+20 (12) “Rare forest ecosystem” means any contiguous forest over one acre in size that
+21 contains a high level of native biodiversity, old growth forest characteristics, or any characteristics
+22 that makes the forest ecologically distinct as determined by the natural heritage program.
+23 (13) “Wildlands” means tracts of any size and current condition, permanently protected
+24 from development and extractive logging, in which management is explicitly intended to allow
+25 natural processes to prevail with free will and minimal human interference.
+26 2-28-3. Prohibitions.
+27 (a) Extractive logging conducted in old growth forests on state-owned land, or any land
+28 owned by the cities and towns of Rhode Island, is strictly prohibited, except as provided in § 2-28-
+29 4.
+30 (b) Extractive logging conducted in a natural area preserve is strictly prohibited, except as
+31 provided in § 2-28-4.
+32 (c) Clearcutting conducted in any forest on state-owned land is strictly prohibited.
+33 2-28-4. Exception for hazard trees and invasive trees.
+34 (a) Felling of individual trees bordering trails that constitute a safety hazard as determined
+LC001096 - Page 4 of 12
+1 by the natural heritage program, established pursuant to the provisions of § 42-467-2, may be
+2 permitted in old growth forests and natural area preserves on state-owned land, or any land owned
+3 by the cities and towns of Rhode Island, subject to the approval of the natural heritage program,
+4 and such trees shall remain in the forest and left where they fell, or a short distance from the trail
+5 to avoid constituting an obstruction or hazard.
+6 (b) Felling of invasive trees that are non-native to the state and threatening to native
+7 ecosystems as determined by the natural heritage program may be permitted in old growth forests
+8 and natural area preserves on state-owned land, or any land owned by the cities and towns of Rhode
+9 Island, subject to the approval of the natural heritage program.
+10 (c) No forestry vehicle shall be used to fell any trees in old growth forests and natural area
+11 preserves on state-owned land, or any land owned by the cities and towns of Rhode Island.
+12 2-28-5. Requirements.
+13 (a) All state and municipal owned forests over one acre in size prior to scheduled extractive
+14 logging operations and prescribed burning operations shall undergo an inventory conducted by the
+15 natural heritage program, pursuant to the provisions of chapter 167 of title 42, to determine if the
+16 forest meets the criteria to be designated as an old growth forest, natural heritage area, or rare forest
+17 ecosystem, as defined in § 2-28-2. The natural heritage program shall be notified of the extractive
+18 logging operation and prescribed burning operation no less than three (3) months in advance. All
+19 documents pertaining to the extractive logging operation or prescribed burning operation shall be
+20 turned over to the natural heritage program at the same time as the initial notice. A report of the
+21 inventory prepared by the natural heritage program with the data collected shall be submitted to the
+22 council and made easily available to the public at least four (4) weeks before any extractive logging
+23 or prescribed burning takes place on state-owned land and land owned by the cities and towns of
+24 Rhode Island. All extractive logging operations on state-owned land in forests over one acre in size
+25 are subject to the approval of the council which upon consultation with the natural heritage program
+26 shall determine whether the extractive logging operation involves clearcutting, or any other
+27 ecologically destructive logging practice, or creates a fire hazard. No extractive logging operation
+28 or prescribed burning operation shall take place until after the natural heritage program’s report
+29 and after the council’s approval. There shall be a visual record of all extractive logging operations
+30 on state-owned land, as well as felling of hazard trees and invasive trees in old growth forests on
+31 state-owned land and land owned by the cities and towns of Rhode Island, and in the natural area
+32 preserves, containing images and video of the trees intended to be felled and nearby trees before
+33 and after the extractive logging operation and the felling of hazard trees and invasive trees takes
+34 place. The visual record shall be the responsibility of the natural heritage program.
+LC001096 - Page 5 of 12
+1 (b) All extractive logging operations and prescribed burning operations of forests over one
+2 acre in size on state-owned land shall only take place after a public hearing and upon notice. The
+3 notice shall set forth the substance of the proposed action and describe, with or without legal
+4 description, the area affected and shall set forth the time and place of the hearing and shall be
+5 published at least twice a week for three (3) successive weeks before the hearing in a newspaper
+6 published in the county where the property is located and in a newspaper with statewide
+7 distribution. No action shall be taken by the state prior to the expiration of sixty (60) days after the
+8 notice is published. During the sixty (60) day period, any scheduled extractive logging operation
+9 or prescribed burning operation may be appealed by any resident of this state in a suit brought
+10 against the department of environmental management in the superior court in the county of
+11 Providence. In any action, the court shall vacate the extractive logging operation or prescribed
+12 burning operation if it finds the operation violates state or federal law. During the pendency of an
+13 appeal the state shall take no action pursuant to the scheduled extractive logging operation or
+14 prescribed burning operation.
+15 (c) Whenever any land is acquired by the state, or any of its cities and towns, an inventory
+16 shall be conducted by the natural heritage program to determine if the forest meets the criteria to
+17 be designated as an old growth forest, natural heritage area, or rare forest ecosystem, as defined in
+18 § 2-28-2. No extractive logging or prescribed burning shall take place in any acquired land by the
+19 state before the natural heritage program completes its inventory.
+20 (d) The natural heritage program, established pursuant to the provisions of § 42-167-2,
+21 shall conduct an inventory of the forests on state-owned land and land owned by the cities and
+22 towns to determine the extent and condition of old growth forest stands, natural heritage areas, and
+23 rare forest ecosystems. The preliminary identification of old growth forest stands, natural heritage
+24 areas, and rare forest ecosystems shall include an estimate of necessary buffer areas, including an
+25 explanation of the rationale for the estimated size and shape of the buffer areas. The maps shall use
+26 GIS type mapping software with data of species, land features, soil, water, invasives, and other
+27 relevant ecological data in the map files. The maps and data shall be made available to the public
+28 on a state website. All old growth forests, natural heritage areas, and rare forest ecosystems on
+29 state-owned land identified in this inventory shall be considered for designation as natural area
+30 preserves.
+31 2-28-6. Preservation and protected funding.
+32 Protecting the remaining areas of old growth forests, as defined in § 2-28-2, shall be a
+33 priority for the State of Rhode Island and annual application to the general assembly by the division
+34 of statewide planning for appropriations to fund the natural heritage program, established pursuant
+LC001096 - Page 6 of 12
+1 to § 42-167-2, shall be made to carry out the provisions of this chapter.
+2 2-28-7. Penalties.
+3 (a) Any person, firm, or corporation violating the provisions of §§ 2-28-3, 2-28-4, or 2-
+4 28-5, shall be subject to a civil penalty of not less than five thousand dollars ($5,000) and not more
+5 than twenty-five thousand dollars ($25,000) for each offence.
+6 (b) It is the duty of the associate director for planning to conduct the hearing brought by
+7 the coordinator of the natural heritage program under the provisions of this chapter, chapter 122 of
+8 title 42 ("natural areas protection act of 1993"), and chapter 167 of title 42 ("natural heritage
+9 program").
+10 SECTION 3. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+11 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+12 CHAPTER 167
+13 NATURAL HERITAGE PROGRAM
+14 42-167-1. Short title.
+15 This chapter shall be known and may be cited as the “Natural Heritage Program”.
+16 42-167-2. Natural heritage program.
+17 (a) There is hereby established within the division of statewide planning a natural heritage
+18 program.
+19 (b) The natural heritage program shall consist of a coordinator who shall be appointed by
+20 the associate director for planning, and support personnel appointed by the coordinator. The
+21 coordinator is required to have an advanced degree in one or more of the following: conservation
+22 biology, botany, zoology, or forest ecology. In addition, the coordinator should have experience in
+23 planning or managing natural forest ecosystems for the purpose of preservation through passive
+24 management. The coordinator and employees of the natural heritage program shall not have been
+25 previously employed in any capacity by the timber industry including advertising, legal, or
+26 lobbying.
+27 (c) The natural heritage program shall have the following powers and duties:
+28 (1) To find, monitor, and protect native biodiversity, old growth forests, rare forest
+29 ecosystems, and rare and endangered natural species in the State of Rhode Island;
+30 (2) To inventory old growth forests, rare forest ecosystems, rare and endangered natural
+31 species, and areas with unique native biodiversity as set forth in § 2-28-5;
+32 (3) To designate the natural area preserves as defined in § 42-122-3;
+33 (4) To maintain the natural heritage database;
+34 (5) To create a biodiversity protection plan;
+LC001096 - Page 7 of 12
+1 (6) To create a rare and endangered species list;
+2 (7) To create a list of invasive species in Rhode Island;
+3 (8) To conduct such hearings, examinations, and investigations as may be necessary and
+4 appropriate to the conduct of its operations and the fulfillment of its responsibilities;
+5 (9) To obtain access to public records and apply for the process of subpoena, if necessary,
+6 to produce books, papers, records, and other data;
+7 (10) Accept on behalf of the state, gifts, grants, or loans of funds, personal or real property,
+8 or services from any source, public or private, and comply, subject to the provisions of this chapter,
+9 with the terms and conditions thereof;
+10 (11) Accept, from a federal agency, loans or grants for use in carrying out its purposes and
+11 enter into agreement with the agency respecting any such loans or grants;
+12 (12) To retain by contract or employ counsel, auditors, engineers, appraisers, private
+13 consultants and advisors, or other personnel needed to provide necessary services;
+14 (13) To create forest management plans in coordination with municipalities for the natural
+15 area preserves on land owned by the cities and towns;
+16 (14) To create forest management plans in coordination with private landowners for the
+17 natural area preserves on land owned by private landowners;
+18 (15) To formulate policies and plans and to adopt regulations necessary to implement
+19 protections for native biodiversity, old growth forests, rare forest ecosystems, and rare and
+20 endangered natural species, and to carry out the provisions of this chapter;
+21 (16) To make any studies of conditions, activities, or problems of the state’s natural area
+22 preserves needed to carry out the natural heritage program’s responsibilities; and
+23 (17) To develop educational materials and to carry out educational programs for the public
+24 about the native biodiversity in Rhode Island’s old growth forests and natural areas, and the state’s
+25 natural history.
+26 (d) The natural heritage program as set forth in this chapter shall be a separate entity from
+27 the natural heritage preservation program as set forth in chapter 17.5 of title 42 ("natural heritage
+28 preservation program"). Nothing contained in chapter 17.5 of title 42 shall be applicable to or
+29 restrict the natural heritage program as set forth in this chapter.
+30 SECTION 4. Sections 42-122-3, 42-122-4, 42-122-5, 42-122-6 and 42-122-7 of the
+31 General Laws in Chapter 42-122 entitled "Natural Areas Protection Act of 1993" are hereby
+32 amended to read as follows:
+33 42-122-3. Definitions.
+34 As used in this chapter:
+LC001096 - Page 8 of 12
+1 (1) “Director Coordinator” means the director coordinator of the department of
+2 environmental management natural heritage program of the state State of Rhode Island.
+3 (2) “Council” means the state planning council in the division of statewide planning of the
+4 State of Rhode Island.
+5 (2)(3) “Natural area preserve” means areas of most environmentally sensitive or
+6 ecologically valuable land and/or water containing habitat suitable for plant or animal life or
+7 geological features of biological, scientific, educational, geological, paleontological, or scenic
+8 value worthy of preservation in its natural condition which has been approved by the director
+9 coordinator with the consent of the council.
+10 42-122-4. System of natural area preserves.
+11 The director coordinator shall establish a system of natural area preserves and shall have
+12 the responsibility as set forth in this chapter for selection of all natural area preserves within the
+13 system, and shall ensure that these preserves are maintained in as natural and wild a state as is
+14 consistent with educational, scientific, biological, geological, paleontological, and scenic purposes.
+15 The director coordinator shall ensure the use of natural area preserves for research and other
+16 purposes consistent with the intent of this chapter. The director coordinator may adopt regulations
+17 for establishing and managing the natural area preserve system including, but not limited to,
+18 procedures for the adoption and revision of a management plan for each designated natural area
+19 preserve.
+20 42-122-5. Procedure for designation of non-state owned land as a natural area
+21 preserve.
+22 (a) The director coordinator may approve non-state owned land as a natural area preserve
+23 only upon the recommendation of the natural heritage preservation commission (established under
+24 § 42-17.5-4) and director with the consent of the council only after a public hearing and upon notice.
+25 The notice required under this section shall set forth a description of the proposed action, including
+26 a description of the land to be offered, and the time and place of the hearing. The notice shall
+27 conform to the requirements of § 42-35-1 et seq.
+28 (b) The natural heritage preservation commission program shall review requests from
+29 municipalities, private land conservation environmental organizations, and private landowners
+30 desiring designation of a parcel of land as a natural area preserve, and make recommendations to
+31 the director. Any request must include the written consent of the private landowner before any
+32 review shall commence. In making recommendations, it shall be guided by the natural heritage
+33 program and other additional relevant sources of information about critical environmental
+34 resources. The natural heritage preservation commission program personnel may also, on its own
+LC001096 - Page 9 of 12
+1 initiative, make recommendations requests for designation of areas to the director coordinator.
+2 (c) To be designated a natural area preserve the property owner must voluntarily grant to
+3 the state of Rhode Island a conservation easement, which shall include the reasons for the
+4 designation, and prepare a management plan for the preserve that defines the methods by which the
+5 educational, scientific, biological, geological, paleontological, and/or scenic purposes of the
+6 designation shall be carried out. The conservation easement shall be recorded in the land evidence
+7 records in the city or town where the parcel is located.
+8 (d) In areas under the jurisdiction of the coastal resources management council (CRMC),
+9 the director coordinator shall coordinate with the CRMC areas to be proposed for inclusion within
+10 the program.
+11 42-122-6. Procedures for designation of state-owned land as a natural area preserve.
+12 (a) A request for designation of state-owned land as a natural area preserve shall be made
+13 to the director coordinator, that request specifying the area to be designated, the reasons for the
+14 designation, the proposed management strategy necessary to protect the critical environmental
+15 resources within the area, and the changes that would be required in current management practices.
+16 The request for designation may be made by the director of any state agency for any parcel of land
+17 under the agency’s control. The coordinator shall review requests from environmental
+18 organizations and private individuals desiring designation of a parcel of state-owned land as a
+19 natural area preserve. The natural heritage program coordinator may also, on their own initiative,
+20 make designations of areas with the consent of the council.
+21 (b) The director coordinator may approve the designation of state-owned land as a preserve
+22 with the consent of the council only after consultation with the managing agency, and after a public
+23 hearing. Notice requirements for the public hearing shall be the same as required under § 42-122-
+24 5(a). Before a preserve is designated, a management plan must be approved by the director
+25 coordinator and adopted by the department managing the preserve.
+26 42-122-7. Designation as a natural area preserve.
+27 An area designated as a natural area preserve is declared to be put to its highest, best, and
+28 most important use for public benefit and no interest in this preserve owned by the state shall be
+29 alienated or put to any use other than as a natural area preserve, except upon a finding by the director
+30 in consultation with the natural heritage preservation commission, that the qualifying features of
+31 the land have been destroyed or irretrievably damaged and that the public purposes of the
+32 designation have been utterly frustrated.
+33 Any finding the director is required to make under this section shall be made only after a
+34 public hearing and upon notice. The notice required by this section shall set forth the substance of
+LC001096 - Page 10 of 12
+1 the proposed action and describe, with or without legal description, the area affected and shall set
+2 forth the time and place of the hearing and shall be published at least twice (2) a week for three (3)
+3 successive weeks before the hearing in a newspaper published in the county where the property is
+4 located and in a newspaper with statewide distribution. No finding, which the director is required
+5 to make, shall be effective until the finding has been published. No action shall be taken by the
+6 state pursuant to the finding prior to the expiration of sixty (60) days after the finding becomes
+7 effective. During the sixty-day (60) period, any finding may be appealed by any resident of this
+8 state in a suit brought against the director in the superior court for the judicial district of Providence.
+9 In any action, the court shall vacate the finding if it finds the director acted arbitrarily or illegally
+10 in making the finding. During the pendency of an appeal the state shall take no action pursuant to
+11 the findings of the director.
+12 SECTION 5. Chapter 42-122 of the General Laws entitled "Natural Areas Protection Act
+13 of 1993" is hereby amended by adding thereto the following section:
+14 42-122-8. Administration of natural area preserves.
+15 All natural area preserves, except areas under the jurisdiction of the coastal resources
+16 management council (CRMC) pursuant to § 42-122-5, shall be administered by the division of
+17 statewide planning.
+18 SECTION 6. This act shall take effect upon passage.
+========
+LC001096
+========
+LC001096 - Page 11 of 12
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- OLD GROWTH FOREST
+PROTECTION ACT
+***
+1 This act would create the old growth forest protection act to provide protection for state-
+2 owned forestland in their natural state. This act would prohibit extractive logging in old growth
+3 forests on state-owned land or land owned by a municipality, or a natural area preserve. This act
+4 would further prohibit clearcutting in any forest on state-owned land. The act would further create
+5 the natural heritage program within the division of statewide planning.
+6 This act would take effect upon passage.
+========
+LC001096
+========
+LC001096 - Page 12 of 12
+[DELETED: TATE  OF  RHODE  ISLAND S ( w ( i ( T w i f a b c w p o n s a d a ( l ( ( R C ( ( ( A t t 2 f a p p j b t R I d]
+[DELETED:  ( ( o ( ( o ( o i ( f9 a ( o ( ( t ( A t t 2 r “ i N E b o r c W p ( ( n S i C O 2 T 2 A ( “ a m a a o l o b t s o i c a t i]
+[DELETED:  c f e o g f o n a p t p t a f e ( a ( S ( ( ( ( o s ( c ( p ( r ( v p p e w ( ( r l q s ( e t c (]
+[DELETED:  a ( t ( t ( C o c s d o o y a m t a d ( o ( v ( ( ( ( t ( ( “ b m t i c a o f b t d ( “ f e m a c f o o a i s t c t ( f n 2 ( o 4 ( p ( 2 (]
+[DELETED:  b p b a t ( e a I ( p 2 ( l n f e l d t i c o R a s d w t e l o i c o a o e o a o s p a p]
+[DELETED:  ( a n d p p i t c w t p i l a i a n w s d n o a t d o e m i t s c i t c o P b a p ( s b § s ( s t r a e G r o s p 2 P p o]
+[DELETED:  t 2 ( 2 t ( t t p S 3 T 4 o t G L e " A A G C N 4 T 4 ( p ( t a d f p a s p a b t c T c b p m p e i a c b t t i i a l o l ( ( T f m a p n b o g f r f e ( s ( ( (]
+[DELETED:  ( ( ( a ( t ( o w ( e ( T r b c o e c a e a p c ( a ( n ( p f n b o g f r f e a r a e ( p ( a n ( t p r S 4 S 4 4 4 4 a 4 o t G L C e P A o 1 a h a 4 A]
+[DELETED:  ( “ C m t d c o t d o e ( S ( “ a p m a o m e s o e g o b s g o s v c 4 T t s c T p f e a m t n a p s i b n l p p 4 P f d o n o l a a n a p ( o § T a c ( p m p l c e o a p l d t r p a o a r s o i a c e r]
+[DELETED:  i ( t s o R I a c e w s i t r f t d e s b g p a s p o t d r ( t t 4 ( t d r T u t a c T c s r r f e o n m ( w h 5 B a p i d a m p m b a b t d c 4 A m a i t l h b d o i d a t t p p o t d A p]
+[DELETED:  t f s l t s e s I i t S o 4 A m s S]
+[DELETED:  T o f w t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5294
+========
+LC001096
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- OLD GROWTH FOREST
+PROTECTION ACT
+Introduced By: Representatives Shanley, Bennett, and Phillips
+Date Introduced: February 05, 2025
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 (1) Current Rhode Island laws do not provide protection for forestland apart from existing
+3 wetland protection laws.
+4 (2) Rhode Island is the only state in New England that has no state-owned forests protected
+5 in their natural state.
+6 (3) The world is facing a biodiversity crisis where populations of native species are
+7 declining at an alarming rate and many species are facing extinction. Native species in Rhode Island
+8 are at risk of becoming regionally extinct due to habitat destruction.
+9 (4) Old growth forests are significant ecosystems where native trees, plants, and animals
+10 live.
+11 (5) There are certain animals, insects, birds, and plants that only live in old growth forests.
+12 (6) Old growth forests are important carbon sinks which store more carbon than an average
+13 Rhode Island forest, and, if cut, would release its stored carbon into the atmosphere contributing to
+14 Climate Change.
+15 (7) Old growth forests are extremely rare, and once cut, may not come back for one hundred
+16 (100) years or more.
+17 (8) According to the 2020 forest action plan prepared jointly by the Rhode Island
+18 department of environmental management and the United States forest service, only one percent
+
+1 (1%) of Rhode Island’s forests are over one hundred (100) years old.
+2 (9) Clearcutting, and other forms of destructive logging, increases the presence and spread
+3 of invasive plants, which can outcompete native plants and harbor ticks.
+4 (10) Natural heritage areas on state-owned land have been logged.
+5 (11) Clearcutting of forests creates carbon emissions which does not comply with the goals
+6 of chapter 6.2 of title 42 ("2021 act on climate").
+7 (12) Clearcutting and most other types of logging of natural forests increase the occurrence
+8 of destructive brush fire by promoting dry, flammable logging debris, small trees, and underbrush
+9 including grassy weeds.
+10 (13) Wildfires were at their lowest point when the state was dominated by old growth
+11 forests due to old growth forests being more resistant to wildfires. Wildfires increased in the 19th
+12 and early 20th centuries after the primeval old growth forests were clear cut.
+13 (14) According to the United States Department of the Interior, nationally, almost nine (9)
+14 out of ten (10) wildfires are caused by humans.
+15 (15) In 2007, the Rhode Island natural heritage program was discontinued.
+16 (16) Not one natural area preserve has been designated since the passage of chapter 122 of
+17 title 42 ("natural areas protection act of 1993").
+18 (17) According to the 2023 report, “Wildlands in New England,” based on research
+19 conducted by Harvard Forest, Highstead Foundation, Northeast Wilderness Trust, and Wildlands,
+20 Woodlands, Farmlands and Communities, Rhode Island is the only state in New England with no
+21 protected Wildlands on public land.
+22 (18) The natural area preserves qualify as wildlands.
+23 (19) It is a matter of public benefit that old growth forests be untouched and left in their
+24 natural state.
+25 SECTION 2. Title 2 of the General Laws entitled "AGRICULTURE AND FORESTRY"
+26 is hereby amended by adding thereto the following chapter:
+27 CHAPTER 28
+28 OLD GROWTH FOREST PROTECTION ACT
+29 2-28-1. Short title.
+30 This chapter shall be known and may be cited as the “Old Growth Forest Protection Act”.
+31 2-28-2. Definitions.
+32 As used in this chapter, the following terms have the following meanings:
+33 (1) “Buffer area” means an area on land owned by the state or its cities and towns
+34 immediately adjacent to an old growth forest or natural area preserve that is of sufficient size and
+LC001096 - Page 2 of 12
+
+1 configuration for each old growth forest or natural area preserve to protect the area from
+2 ecologically harmful human activity or alteration.
+3 (2) “Clearcutting” means an even-age extractive logging operation that removes most or
+4 all of the trees over a considerable portion of a stand at one time.
+5 (3) “Council” means the state planning council in the division of statewide planning of the
+6 State of Rhode Island.
+7 (4) “Even-age extractive logging operation” means an extractive logging activity that:
+8 (i) Creates a clearing or opening that exceeds one-fifth (1/5) acre;
+9 (ii) Creates a stand in which the majority of trees are within ten (10) years of the same age;
+10 (iii) Within a period of thirty (30) years, cuts or removes more than the lesser of the growth
+11 of the basal area of all tree species (not including a tree of a non-native invasive tree species) in a
+12 stand; or twenty percent (20%) of the basal area of a stand; and
+13 (iv) Includes the application of clearcutting, high grading, seed-tree cutting, shelterwood
+14 cutting, or any other logging method in a manner inconsistent with selection management.
+15 (5) “Extractive logging” means the felling or removal of any trees from a forest for any
+16 purpose.
+17 (6) “Forest” means any area of land over one acre in size with a concentration of trees and
+18 related vegetation which has the capacity for self-perpetuation.
+19 (7) "Forestry vehicle" means every vehicle which is designed for and used for forest
+20 product operations purposes involving the harvesting, production, maintaining, and sale of forest
+21 products originating in the state, and used by the owner of the vehicle or family member(s) or
+22 employee(s) or designees of the owner, in the conduct of the owner's forestry product operations,
+23 which use shall include the delivery of forest products produced by the forester.
+24 (8) “Natural area preserve” means a natural area preserve as defined in § 42-122-3.
+25 (9) “Natural heritage areas” means the mapped rare natural communities and locales where
+26 rare or endangered species listed in the Rhode Island natural heritage data carry out important
+27 lifecycle activities to include, but not limited to, breeding, hibernating, and feeding, with eligibility
+28 questions to be resolved by the coordinator of the natural heritage program. Such determination
+29 shall constitute a "contested case" as defined in § 42-35-1.
+30 (10) “Old growth forest” means a contiguous forest at least five (5) acres in size that
+31 exhibits at least six (6) of the following characteristics with eligibility questions to be resolved by
+32 the coordinator of the natural heritage program. Such determination shall constitute a "contested
+33 case" as defined in § 42-35-1:
+34 (i) Contains an ecologically significant number of trees over one hundred (100) years old
+LC001096 - Page 3 of 12
+
+1 as of July 1, 2025;
+2 (ii) Shows no evidence of significant human disturbance that originated on the site within
+3 the past one hundred (100) years;
+4 (iii) Has an abundance of late successional tree species, with at least a majority of canopy
+5 trees that exceed half their maximum biological age including numerous large diameter trees;
+6 (iv) Consists of complex structural diversity of old, young, and middle-aged trees at
+7 different canopy levels;
+8 (v) Contains large standing dead trees called "snags", live trees with cavities, dead, broken,
+9 or decaying parts or canopy gaps due to natural disturbance;
+10 (vi) Has coarse woody debris along the forest floor consisting of abundant dead wood in
+11 various sizes and stages of decay;
+12 (vii) Has an abundance of lichen and moss on trees, and decaying logs on the ground;
+13 (viii) Has the presence of balding bark on the older trees;
+14 (ix) Has the presence of stag-headed shaped tree crowns among the older trees in the forest;
+15 (x) Has the presence of an ecologically significant natural community or diversity of native
+16 tree species; or
+17 (xi) Has the capacity for self-perpetuation.
+18 (11) “Prescribed burning” means the intended controlled application of fire by the
+19 department of environmental management, fire departments, or any other agency of the state.
+20 (12) “Rare forest ecosystem” means any contiguous forest over one acre in size that
+21 contains a high level of native biodiversity, old growth forest characteristics, or any characteristics
+22 that makes the forest ecologically distinct as determined by the natural heritage program.
+23 (13) “Wildlands” means tracts of any size and current condition, permanently protected
+24 from development and extractive logging, in which management is explicitly intended to allow
+25 natural processes to prevail with free will and minimal human interference.
+26 2-28-3. Prohibitions.
+27 (a) Extractive logging conducted in old growth forests on state-owned land, or any land
+28 owned by the cities and towns of Rhode Island, is strictly prohibited, except as provided in § 2-28-
+29 4.
+30 (b) Extractive logging conducted in a natural area preserve is strictly prohibited, except as
+31 provided in § 2-28-4.
+32 (c) Clearcutting conducted in any forest on state-owned land is strictly prohibited.
+33 2-28-4. Exception for hazard trees and invasive trees.
+34 (a) Felling of individual trees bordering trails that constitute a safety hazard as determined
+LC001096 - Page 4 of 12
+
+1 by the natural heritage program, established pursuant to the provisions of § 42-467-2, may be
+2 permitted in old growth forests and natural area preserves on state-owned land, or any land owned
+3 by the cities and towns of Rhode Island, subject to the approval of the natural heritage program,
+4 and such trees shall remain in the forest and left where they fell, or a short distance from the trail
+5 to avoid constituting an obstruction or hazard.
+6 (b) Felling of invasive trees that are non-native to the state and threatening to native
+7 ecosystems as determined by the natural heritage program may be permitted in old growth forests
+8 and natural area preserves on state-owned land, or any land owned by the cities and towns of Rhode
+9 Island, subject to the approval of the natural heritage program.
+10 (c) No forestry vehicle shall be used to fell any trees in old growth forests and natural area
+11 preserves on state-owned land, or any land owned by the cities and towns of Rhode Island.
+12 2-28-5. Requirements.
+13 (a) All state and municipal owned forests over one acre in size prior to scheduled extractive
+14 logging operations and prescribed burning operations shall undergo an inventory conducted by the
+15 natural heritage program, pursuant to the provisions of chapter 167 of title 42, to determine if the
+16 forest meets the criteria to be designated as an old growth forest, natural heritage area, or rare forest
+17 ecosystem, as defined in § 2-28-2. The natural heritage program shall be notified of the extractive
+18 logging operation and prescribed burning operation no less than three (3) months in advance. All
+19 documents pertaining to the extractive logging operation or prescribed burning operation shall be
+20 turned over to the natural heritage program at the same time as the initial notice. A report of the
+21 inventory prepared by the natural heritage program with the data collected shall be submitted to the
+22 council and made easily available to the public at least four (4) weeks before any extractive logging
+23 or prescribed burning takes place on state-owned land and land owned by the cities and towns of
+24 Rhode Island. All extractive logging operations on state-owned land in forests over one acre in size
+25 are subject to the approval of the council which upon consultation with the natural heritage program
+26 shall determine whether the extractive logging operation involves clearcutting, or any other
+27 ecologically destructive logging practice, or creates a fire hazard. No extractive logging operation
+28 or prescribed burning operation shall take place until after the natural heritage program’s report
+29 and after the council’s approval. There shall be a visual record of all extractive logging operations
+30 on state-owned land, as well as felling of hazard trees and invasive trees in old growth forests on
+31 state-owned land and land owned by the cities and towns of Rhode Island, and in the natural area
+32 preserves, containing images and video of the trees intended to be felled and nearby trees before
+33 and after the extractive logging operation and the felling of hazard trees and invasive trees takes
+34 place. The visual record shall be the responsibility of the natural heritage program.
+LC001096 - Page 5 of 12
+
+1 (b) All extractive logging operations and prescribed burning operations of forests over one
+2 acre in size on state-owned land shall only take place after a public hearing and upon notice. The
+3 notice shall set forth the substance of the proposed action and describe, with or without legal
+4 description, the area affected and shall set forth the time and place of the hearing and shall be
+5 published at least twice a week for three (3) successive weeks before the hearing in a newspaper
+6 published in the county where the property is located and in a newspaper with statewide
+7 distribution. No action shall be taken by the state prior to the expiration of sixty (60) days after the
+8 notice is published. During the sixty (60) day period, any scheduled extractive logging operation
+9 or prescribed burning operation may be appealed by any resident of this state in a suit brought
+10 against the department of environmental management in the superior court in the county of
+11 Providence. In any action, the court shall vacate the extractive logging operation or prescribed
+12 burning operation if it finds the operation violates state or federal law. During the pendency of an
+13 appeal the state shall take no action pursuant to the scheduled extractive logging operation or
+14 prescribed burning operation.
+15 (c) Whenever any land is acquired by the state, or any of its cities and towns, an inventory
+16 shall be conducted by the natural heritage program to determine if the forest meets the criteria to
+17 be designated as an old growth forest, natural heritage area, or rare forest ecosystem, as defined in
+18 § 2-28-2. No extractive logging or prescribed burning shall take place in any acquired land by the
+19 state before the natural heritage program completes its inventory.
+20 (d) The natural heritage program, established pursuant to the provisions of § 42-167-2,
+21 shall conduct an inventory of the forests on state-owned land and land owned by the cities and
+22 towns to determine the extent and condition of old growth forest stands, natural heritage areas, and
+23 rare forest ecosystems. The preliminary identification of old growth forest stands, natural heritage
+24 areas, and rare forest ecosystems shall include an estimate of necessary buffer areas, including an
+25 explanation of the rationale for the estimated size and shape of the buffer areas. The maps shall use
+26 GIS type mapping software with data of species, land features, soil, water, invasives, and other
+27 relevant ecological data in the map files. The maps and data shall be made available to the public
+28 on a state website. All old growth forests, natural heritage areas, and rare forest ecosystems on
+29 state-owned land identified in this inventory shall be considered for designation as natural area
+30 preserves.
+31 2-28-6. Preservation and protected funding.
+32 Protecting the remaining areas of old growth forests, as defined in § 2-28-2, shall be a
+33 priority for the State of Rhode Island and annual application to the general assembly by the division
+34 of statewide planning for appropriations to fund the natural heritage program, established pursuant
+LC001096 - Page 6 of 12
+
+1 to § 42-167-2, shall be made to carry out the provisions of this chapter.
+2 2-28-7. Penalties.
+3 (a) Any person, firm, or corporation violating the provisions of §§ 2-28-3, 2-28-4, or 2-
+4 28-5, shall be subject to a civil penalty of not less than five thousand dollars ($5,000) and not more
+5 than twenty-five thousand dollars ($25,000) for each offence.
+6 (b) It is the duty of the associate director for planning to conduct the hearing brought by
+7 the coordinator of the natural heritage program under the provisions of this chapter, chapter 122 of
+8 title 42 ("natural areas protection act of 1993"), and chapter 167 of title 42 ("natural heritage
+9 program").
+10 SECTION 3. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+11 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+12 CHAPTER 167
+13 NATURAL HERITAGE PROGRAM
+14 42-167-1. Short title.
+15 This chapter shall be known and may be cited as the “Natural Heritage Program”.
+16 42-167-2. Natural heritage program.
+17 (a) There is hereby established within the division of statewide planning a natural heritage
+18 program.
+19 (b) The natural heritage program shall consist of a coordinator who shall be appointed by
+20 the associate director for planning, and support personnel appointed by the coordinator. The
+21 coordinator is required to have an advanced degree in one or more of the following: conservation
+22 biology, botany, zoology, or forest ecology. In addition, the coordinator should have experience in
+23 planning or managing natural forest ecosystems for the purpose of preservation through passive
+24 management. The coordinator and employees of the natural heritage program shall not have been
+25 previously employed in any capacity by the timber industry including advertising, legal, or
+26 lobbying.
+27 (c) The natural heritage program shall have the following powers and duties:
+28 (1) To find, monitor, and protect native biodiversity, old growth forests, rare forest
+29 ecosystems, and rare and endangered natural species in the State of Rhode Island;
+30 (2) To inventory old growth forests, rare forest ecosystems, rare and endangered natural
+31 species, and areas with unique native biodiversity as set forth in § 2-28-5;
+32 (3) To designate the natural area preserves as defined in § 42-122-3;
+33 (4) To maintain the natural heritage database;
+34 (5) To create a biodiversity protection plan;
+LC001096 - Page 7 of 12
+
+1 (6) To create a rare and endangered species list;
+2 (7) To create a list of invasive species in Rhode Island;
+3 (8) To conduct such hearings, examinations, and investigations as may be necessary and
+4 appropriate to the conduct of its operations and the fulfillment of its responsibilities;
+5 (9) To obtain access to public records and apply for the process of subpoena, if necessary,
+6 to produce books, papers, records, and other data;
+7 (10) Accept on behalf of the state, gifts, grants, or loans of funds, personal or real property,
+8 or services from any source, public or private, and comply, subject to the provisions of this chapter,
+9 with the terms and conditions thereof;
+10 (11) Accept, from a federal agency, loans or grants for use in carrying out its purposes and
+11 enter into agreement with the agency respecting any such loans or grants;
+12 (12) To retain by contract or employ counsel, auditors, engineers, appraisers, private
+13 consultants and advisors, or other personnel needed to provide necessary services;
+14 (13) To create forest management plans in coordination with municipalities for the natural
+15 area preserves on land owned by the cities and towns;
+16 (14) To create forest management plans in coordination with private landowners for the
+17 natural area preserves on land owned by private landowners;
+18 (15) To formulate policies and plans and to adopt regulations necessary to implement
+19 protections for native biodiversity, old growth forests, rare forest ecosystems, and rare and
+20 endangered natural species, and to carry out the provisions of this chapter;
+21 (16) To make any studies of conditions, activities, or problems of the state’s natural area
+22 preserves needed to carry out the natural heritage program’s responsibilities; and
+23 (17) To develop educational materials and to carry out educational programs for the public
+24 about the native biodiversity in Rhode Island’s old growth forests and natural areas, and the state’s
+25 natural history.
+26 (d) The natural heritage program as set forth in this chapter shall be a separate entity from
+27 the natural heritage preservation program as set forth in chapter 17.5 of title 42 ("natural heritage
+28 preservation program"). Nothing contained in chapter 17.5 of title 42 shall be applicable to or
+29 restrict the natural heritage program as set forth in this chapter.
+30 SECTION 4. Sections 42-122-3, 42-122-4, 42-122-5, 42-122-6 and 42-122-7 of the
+31 General Laws in Chapter 42-122 entitled "Natural Areas Protection Act of 1993" are hereby
+32 amended to read as follows:
+33 42-122-3. Definitions.
+34 As used in this chapter:
+LC001096 - Page 8 of 12
+
+1 (1) “Director Coordinator” means the director coordinator of the department of
+2 environmental management natural heritage program of the state State of Rhode Island.
+3 (2) “Council” means the state planning council in the division of statewide planning of the
+4 State of Rhode Island.
+5 (2)(3) “Natural area preserve” means areas of most environmentally sensitive or
+6 ecologically valuable land and/or water containing habitat suitable for plant or animal life or
+7 geological features of biological, scientific, educational, geological, paleontological, or scenic
+8 value worthy of preservation in its natural condition which has been approved by the director
+9 coordinator with the consent of the council.
+10 42-122-4. System of natural area preserves.
+11 The director coordinator shall establish a system of natural area preserves and shall have
+12 the responsibility as set forth in this chapter for selection of all natural area preserves within the
+13 system, and shall ensure that these preserves are maintained in as natural and wild a state as is
+14 consistent with educational, scientific, biological, geological, paleontological, and scenic purposes.
+15 The director coordinator shall ensure the use of natural area preserves for research and other
+16 purposes consistent with the intent of this chapter. The director coordinator may adopt regulations
+17 for establishing and managing the natural area preserve system including, but not limited to,
+18 procedures for the adoption and revision of a management plan for each designated natural area
+19 preserve.
+20 42-122-5. Procedure for designation of non-state owned land as a natural area
+21 preserve.
+22 (a) The director coordinator may approve non-state owned land as a natural area preserve
+23 only upon the recommendation of the natural heritage preservation commission (established under
+24 § 42-17.5-4) and director with the consent of the council only after a public hearing and upon notice.
+25 The notice required under this section shall set forth a description of the proposed action, including
+26 a description of the land to be offered, and the time and place of the hearing. The notice shall
+27 conform to the requirements of § 42-35-1 et seq.
+28 (b) The natural heritage preservation commission program shall review requests from
+29 municipalities, private land conservation environmental organizations, and private landowners
+30 desiring designation of a parcel of land as a natural area preserve, and make recommendations to
+31 the director. Any request must include the written consent of the private landowner before any
+32 review shall commence. In making recommendations, it shall be guided by the natural heritage
+33 program and other additional relevant sources of information about critical environmental
+34 resources. The natural heritage preservation commission program personnel may also, on its own
+LC001096 - Page 9 of 12
+
+1 initiative, make recommendations requests for designation of areas to the director coordinator.
+2 (c) To be designated a natural area preserve the property owner must voluntarily grant to
+3 the state of Rhode Island a conservation easement, which shall include the reasons for the
+4 designation, and prepare a management plan for the preserve that defines the methods by which the
+5 educational, scientific, biological, geological, paleontological, and/or scenic purposes of the
+6 designation shall be carried out. The conservation easement shall be recorded in the land evidence
+7 records in the city or town where the parcel is located.
+8 (d) In areas under the jurisdiction of the coastal resources management council (CRMC),
+9 the director coordinator shall coordinate with the CRMC areas to be proposed for inclusion within
+10 the program.
+11 42-122-6. Procedures for designation of state-owned land as a natural area preserve.
+12 (a) A request for designation of state-owned land as a natural area preserve shall be made
+13 to the director coordinator, that request specifying the area to be designated, the reasons for the
+14 designation, the proposed management strategy necessary to protect the critical environmental
+15 resources within the area, and the changes that would be required in current management practices.
+16 The request for designation may be made by the director of any state agency for any parcel of land
+17 under the agency’s control. The coordinator shall review requests from environmental
+18 organizations and private individuals desiring designation of a parcel of state-owned land as a
+19 natural area preserve. The natural heritage program coordinator may also, on their own initiative,
+20 make designations of areas with the consent of the council.
+21 (b) The director coordinator may approve the designation of state-owned land as a preserve
+22 with the consent of the council only after consultation with the managing agency, and after a public
+23 hearing. Notice requirements for the public hearing shall be the same as required under § 42-122-
+24 5(a). Before a preserve is designated, a management plan must be approved by the director
+25 coordinator and adopted by the department managing the preserve.
+26 42-122-7. Designation as a natural area preserve.
+27 An area designated as a natural area preserve is declared to be put to its highest, best, and
+28 most important use for public benefit and no interest in this preserve owned by the state shall be
+29 alienated or put to any use other than as a natural area preserve, except upon a finding by the director
+30 in consultation with the natural heritage preservation commission, that the qualifying features of
+31 the land have been destroyed or irretrievably damaged and that the public purposes of the
+32 designation have been utterly frustrated.
+33 Any finding the director is required to make under this section shall be made only after a
+34 public hearing and upon notice. The notice required by this section shall set forth the substance of
+LC001096 - Page 10 of 12
+
+1 the proposed action and describe, with or without legal description, the area affected and shall set
+2 forth the time and place of the hearing and shall be published at least twice (2) a week for three (3)
+3 successive weeks before the hearing in a newspaper published in the county where the property is
+4 located and in a newspaper with statewide distribution. No finding, which the director is required
+5 to make, shall be effective until the finding has been published. No action shall be taken by the
+6 state pursuant to the finding prior to the expiration of sixty (60) days after the finding becomes
+7 effective. During the sixty-day (60) period, any finding may be appealed by any resident of this
+8 state in a suit brought against the director in the superior court for the judicial district of Providence.
+9 In any action, the court shall vacate the finding if it finds the director acted arbitrarily or illegally
+10 in making the finding. During the pendency of an appeal the state shall take no action pursuant to
+11 the findings of the director.
+12 SECTION 5. Chapter 42-122 of the General Laws entitled "Natural Areas Protection Act
+13 of 1993" is hereby amended by adding thereto the following section:
+14 42-122-8. Administration of natural area preserves.
+15 All natural area preserves, except areas under the jurisdiction of the coastal resources
+16 management council (CRMC) pursuant to § 42-122-5, shall be administered by the division of
+17 statewide planning.
+18 SECTION 6. This act shall take effect upon passage.
+========
+LC001096
+========
+LC001096 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- OLD GROWTH FOREST
+PROTECTION ACT
+***
+1 This act would create the old growth forest protection act to provide protection for state-
+2 owned forestland in their natural state. This act would prohibit extractive logging in old growth
+3 forests on state-owned land or land owned by a municipality, or a natural area preserve. This act
+4 would further prohibit clearcutting in any forest on state-owned land. The act would further create
+5 the natural heritage program within the division of statewide planning.
+6 This act would take effect upon passage.
+========
+LC001096
+========
+LC001096 - Page 12 of 12
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( w ( i ( T w i f a b c w p o n s a d a ( l ( ( R C ( ( ( A t t 2 f a p p j b t R I d]
+[DELETED:  ( ( o ( ( o ( o i ( f9 a ( o ( ( t ( A t t 2 r “ i N E b o r c W p ( ( n S i C O 2 T 2 A ( “ a m a a o l o b t s o i c a t i]
+[DELETED:  c f e o g f o n a p t p t a f e ( a ( S ( ( ( ( o s ( c ( p ( r ( v p p e w ( ( r l q s ( e t c (]
+[DELETED:  a ( t ( t ( C o c s d o o y a m t a d ( o ( v ( ( ( ( t ( ( “ b m t i c a o f b t d ( “ f e m a c f o o a i s t c t ( f n 2 ( o 4 ( p ( 2 (]
+[DELETED:  b p b a t ( e a I ( p 2 ( l n f e l d t i c o R a s d w t e l o i c o a o e o a o s p a p]
+[DELETED:  ( a n d p p i t c w t p i l a i a n w s d n o a t d o e m i t s c i t c o P b a p ( s b § s ( s t r a e G r o s p 2 P p o]
+[DELETED:  t 2 ( 2 t ( t t p S 3 T 4 o t G L e " A A G C N 4 T 4 ( p ( t a d f p a s p a b t c T c b p m p e i a c b t t i i a l o l ( ( T f m a p n b o g f r f e ( s ( ( (]
+[DELETED:  ( ( ( a ( t ( o w ( e ( T r b c o e c a e a p c ( a ( n ( p f n b o g f r f e a r a e ( p ( a n ( t p r S 4 S 4 4 4 4 a 4 o t G L C e P A o 1 a h a 4 A]
+[DELETED:  ( “ C m t d c o t d o e ( S ( “ a p m a o m e s o e g o b s g o s v c 4 T t s c T p f e a m t n a p s i b n l p p 4 P f d o n o l a a n a p ( o § T a c ( p m p l c e o a p l d t r p a o a r s o i a c e r]
+[DELETED:  i ( t s o R I a c e w s i t r f t d e s b g p a s p o t d r ( t t 4 ( t d r T u t a c T c s r r f e o n m ( w h 5 B a p i d a m p m b a b t d c 4 A m a i t l h b d o i d a t t p p o t d A p]
+[DELETED:  t f s l t s e s I i t S o 4 A m s S]
+[DELETED:  T o f w t T]

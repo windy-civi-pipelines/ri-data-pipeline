@@ -1,0 +1,903 @@
+Title: RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND LIFE SCIENCE HUB
+Official Title: RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND LIFE SCIENCE HUB
+Number of Sections: 1
+Source: versions - 1039  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 1039 SUBSTITUTE A
+========
+LC002860/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ACT
+Introduced By: Senators DiPalma, Felag, Gallo, Tikoian, and Ciccone
+Date Introduced: May 09, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-99-3, 23-99-4, 23-99-5 and 23-99-6 of the General Laws in
+2 Chapter 23-99 entitled "The Rhode Island Life Science Hub Act" are hereby amended to read as
+3 follows:
+4 23-99-3. Definitions.
+5 As used in this chapter, the following words shall have the following meanings:
+6 (1) “Affiliate” means any person or company who or that directly or indirectly controls or
+7 is controlled by or is under direct or indirect common control of another company or person
+8 including, but not limited to, any company that is merged or consolidated, or that purchases all or
+9 substantially all of the assets of another company.
+10 (2) “Board” means the board of directors of the hub.
+11 (3) “Certification proposal” means a written proposal submitted by a life science company
+12 for approval as a certified life sciences company.
+13 (4) “Certified life sciences company” means a life science company that has been certified
+14 by the board as being eligible to receive grants and incentives from the investment fund.
+15 (5) “Commerce corporation” means the Rhode Island commerce corporation, established
+16 pursuant to § 42-64-1 et seq.
+17 (6) “Company” means a business corporation, partnership, firm, unincorporated
+18 association, or other entity engaged or proposing to engage in economic activity within the state,
+1 and any affiliate thereof.
+2 (7) “Hub” means the Rhode Island life science hub established by § 23-99-4.
+3 (8) “Investment fund” means the hub investment fund established by § 23-99-6.
+4 (9) “Life science” means and shall include, but not be limited to, the science of: medical
+5 devices, biomedical technology, medical therapeutic therapies, biogenetics, biomedical
+6 engineering, biopharmaceuticals, genomics, biomanufacturing, cell and gene therapies, health
+7 software and artificial intelligence, genomics, diagnostics, digital health, marine science,
+8 agricultural science, veterinary science and related fields the broader life sciences to foster the
+9 development of cutting-edge medical breakthroughs.
+10 (10) “Life science company” means a company engaged in life science research,
+11 development, manufacturing, incubation, or commercialization in Rhode Island, and any affiliate
+12 thereof.
+13 (11) “Life sciences industry” means the fields of medical devices, biomedical technology,
+14 medical therapeutic therapies, biogenetics, biomedical engineering, biopharmaceuticals, genomics,
+15 biomanufacturing, diagnostics, digital health, and related fields.
+16 (12)(11) “Person” means a natural person, company, or other legal entity.
+17 (12) "Revenue" means receipts, fees, rentals or other payments or income received or to be
+18 received by the hub in the exercise of its corporate powers under this chapter including, but not
+19 limited to, income on account of the leasing, mortgaging, sale or other disposition of property or
+20 proceeds of a loan made by the hub, and amounts in reserves or held in other funds or accounts
+21 established in connection with the issuance of bonds or notes and the proceeds of any investments
+22 thereof, proceeds of foreclosure and other fees, charges or other income received or receivable by
+23 the hub.
+24 (13) “State” means the state of Rhode Island.
+25 (14) "State public body" means the state, or any city or town or any other subdivision or
+26 public body of the state or of any city or town.
+27 (14)(15) “Venture” means, without limitation, any contractual arrangement with any
+28 person whereby the corporation obtains rights from or in an invention or product or proceeds
+29 therefrom, or rights to obtain from any person any and all forms of equity instruments including,
+30 but not limited to, common and preferred stock, warrants, options, convertible debentures, and
+31 similar types of instruments exercisable or convertible into capital stock, in exchange for the
+32 granting of financial aid to such person.
+33 23-99-4. Rhode Island life science hub established.
+34 (a) There is hereby constituted as an independent public a public corporation for the
+LC002860/SUB A - Page 2 of 13
+1 purposes set forth in this chapter with a separate legal existence from the state to be known as the
+2 Rhode Island life science hub hereinafter to be referred to as the “hub”. The exercise by the hub of
+3 the powers conferred by this chapter shall be considered to be the performance of an essential
+4 governmental function and the hub shall be considered a "constituted authority" and an
+5 "instrumentality" of the state acting on behalf of the state for federal tax purposes.
+6 (b) The hub shall be governed and its corporate powers exercised by a board of directors
+7 consisting of fifteen (15) sixteen (16) directors: seven (7) fifteen (15) of whom shall be appointed
+8 by the governor, and one of whom shall be the person the board hires from time to time as president
+9 and chief executive officer of the hub. The president and chief executive officer of the hub shall
+10 serve ex officio and, except as otherwise provided in § 23-99-4(k), shall not be a voting member of
+11 the board of directors. The fifteen (15) directors appointed by the governor shall consist of seven
+12 (7) public directors and eight (8) institutional directors. The seven (7) public directors shall have
+13 the following qualifications: one of whom shall be a senior executive with extensive background
+14 in the banking, grant making, and or fundraising fields, or his or her designee; one of whom shall
+15 be a member of a life science trade association, or his or her designee,; one of whom shall be the
+16 president or a senior executive of a Rhode Island based life science company, or his or her
+17 designee,; two (2) of whom shall be senior executives of Rhode Island based life science companies
+18 specializing in biomanufacturing, or his or her designees,; one of whom shall be a representative
+19 of organized labor, or his or her designee,; and one of whom shall be a member of the public who
+20 shall be a certified public accountant and a member of the Rhode Island society of certified public
+21 accountants, or his or her designee.; The eight (8) institutional directors shall have the following
+22 qualifications: one of whom shall be the secretary of commerce, ex officio; three (3) of whom shall
+23 be the president of Rhode Island college, ex officio, or his or her designee, the president of the
+24 university of Rhode Island, ex officio, or his or her designee, and the president of Brown university,
+25 ex officio, or his or her designee; one of whom shall be the dean of the Warren Alpert Medical
+26 School of Brown university, ex officio, or his or her designee; one of whom shall be the president
+27 and chief executive officer of the Lifespan Corporation Brown university health, ex officio, or his
+28 or her designee; one of whom shall be the president and chief executive officer of Care New
+29 England Health System, ex officio, or his or her designee; and one of whom shall be an ex officio
+30 director who shall also be the director of economic development for the city of Providence, ex
+31 officio, or his or her designee. To the extent that an institution takes on a new legal name, the
+32 institutional director shall continue to serve as an institutional director without the need for
+33 reappointment. To the extent that an institution merges, converts, consolidates with, or sells or
+34 transfers all or substantially all of its assets to another company and such company retains its
+LC002860/SUB A - Page 3 of 13
+1 primary operations in the state, the chief executive officer of such company shall be qualified for
+2 appointment as an institutional director in accordance with this section.
+3 (c) The chair of the board shall be appointed by the governor, with the advice and consent
+4 of the senate, and shall be an individual who served in the capacity as a senior executive with
+5 extensive background in the banking, grant making, and or fundraising fields. The vice-chair of the
+6 board shall be the secretary of commerce. All directors, including ex officio directors, shall be
+7 voting members of the board of directors, except for the director serving as president and chief
+8 executive officer of the hub, who shall not be a voting member of the board. Eight (8) voting
+9 directors shall constitute a quorum, and any action to be taken by the board under the provisions of
+10 this chapter may be authorized by resolution approved by a majority of the directors present and
+11 entitled to vote at any regular or special meeting at which a quorum is present. No votes on the
+12 certification of any life science company nor on the allocation or award of any investment fund
+13 resources to any certified life science company shall be taken unless the chair is present and voting.
+14 A vacancy in the membership of the board of directors shall not impair the right of a quorum to
+15 exercise all of the rights and perform all of the duties of the board. Pursuant to § 42-46-5(b)(6),
+16 board directors are authorized to participate remotely using videoconferencing technology in open
+17 public meetings of the board; provided, however, that:
+18 (1) The remote director(s) and all persons present at the meeting location are clearly audible
+19 and visible to each other;
+20 (2) A quorum of the body is participating, either in person or by the use of remote
+21 videoconferencing technology;
+22 (3) A member of the board voting director who participates in a meeting of the board
+23 remotely shall be considered present for purposes of a quorum and voting;
+24 (4) If videoconferencing is used to conduct a meeting, the public notice for the meeting
+25 shall inform the public that videoconferencing will be used and include instructions on how the
+26 public can access the virtual meeting; and
+27 (5) The board shall adopt rules defining the requirements of remote participation including
+28 its use for executive session, and the conditions by which a director is authorized to participate
+29 remotely.
+30 (d) Each board member public director shall serve a an initial term of four (4) years. At the
+31 expiration of the initial terms of public directors in January 2028, the governor shall appoint two
+32 (2) directors for a term of four (4) years, two (2) directors for a term of three (3) years, two (2)
+33 directors for a term of two (2) years, and one director for a term of one year. Thereafter, the
+34 governor shall appoint a new public director or directors to succeed the public director or directors
+LC002860/SUB A - Page 4 of 13
+1 whose terms then next expire, to serve a term of four (4) years. The president and chief executive
+2 officer shall have a board term coextensive with such person's employment contract with the hub.
+3 In the event that the chair of the board position becomes vacant for any reason, or the chair is not
+4 able to perform the duties of that position for any reason, the vice chair shall serve as the interim
+5 chair until the chair is able to resume the chair’s duties; provided, however, in the event that the
+6 chair is not able to resume the chair’s duties in that position, the governor shall appoint a new chair
+7 and, in making this appointment, the governor shall give due consideration to appointing an
+8 individual from a list of six (6) candidates, three (3) of whom shall be provided to the governor by
+9 the speaker of the house and three (3) of whom shall be provided to the governor by the president
+10 of the senate. Any person appointed to fill a vacancy in the office of an appointed a public director
+11 of the board shall be appointed in a like manner and shall serve for the unexpired term of such
+12 public director. Any director shall be eligible for reappointment.
+13 (e) The public director of the board who is a member of the public and who is a certified
+14 public accountant and a member of the Rhode Island society of certified public accountants shall
+15 serve as treasurer and shall be charged with keeping the funds, books of account, and accounting
+16 records of the hub. No grants, tax credits, loans or other financings, or incentives shall be issued by
+17 the hub to any certified life science company without the approval of the board and the signature
+18 of the treasurer. The board shall annually elect a secretary who shall keep a record of the
+19 proceedings of the board and shall be custodian of all books, documents, and papers.
+20 (f) Board directors, other than the director who serves as the president and chief executive
+21 officer of the hub, shall serve without compensation, but each director shall be entitled to
+22 reimbursement for actual, reasonable, and necessary expenses while engaged in the performance
+23 of official duties. Board directors, officers, and employees shall not be liable to the state, the hub,
+24 or to any other person as a result of their activities except for malfeasance in office or intentional
+25 violations of law.
+26 (g) The board shall establish an application review committee consisting of not less than
+27 three (3) directors of the board, which shall review certification proposals submitted by life sciences
+28 companies that shall be supported by independently verifiable information, and the board shall
+29 make a record of findings based on the certification proposal, documents submitted therewith, and
+30 any additional evidence that the life science company meets all criteria that the hub may prescribe.
+31 (h) Certified life science companies shall be eligible to receive funding from the hub, upon
+32 a majority vote of the board, for the following benefits which shall be awarded by the board on a
+33 competitive basis:
+34 (1) Grants, loans, or other investments;
+LC002860/SUB A - Page 5 of 13
+1 (2) Assistance from the hub in obtaining federal, state, and nonprofit monies; or
+2 (3) Assistance from the hub in facilitating clinical trials.
+3 (i) Notwithstanding any other provisions of law in relation to their tenure of office, the
+4 governor may remove any board director, including institutional directors, for the neglect of any
+5 duty required by law, incompetence, unprofessional conduct, or willful misconduct. If an
+6 institutional director is so removed, such institutional director's designee shall serve on the board
+7 in his or her place for the remainder of his or her term.
+8 (j) Each director shall make full disclosure, in accordance with §§ 36-14-1 — 36-14-7, of
+9 any financial interest, if any, in any matter before the board. Such interest must be disclosed in
+10 advance to the directors of the board, recorded in the minutes of the board, and the director having
+11 such an interest shall recuse themselves and shall not participate in any decision of the board
+12 relating to such interest.
+13 (k) With the advice and consent of the senate, the board shall have the power to hire a
+14 president, who shall also serve as the chief executive officer of the hub and who shall be a non-
+15 voting member of the board of directors, but who shall be entitled to vote as a member of any
+16 advisory committee to which the president/chief executive officer is appointed. The board also shall
+17 have the power to establish compensation and conditions of employment for the president and chief
+18 executive officer; provided, further, the board shall have the power to hire other employees and
+19 establish compensation and conditions of employment for such employees.
+20 (l) The commerce corporation shall provide operating quarters for the hub for, at a
+21 minimum, the first year of the hub’s operation.
+22 (m) In addition to the application review committee, the board may establish one or more
+23 advisory committees, each consisting of not less than three (3) and not more than seven (7)
+24 directors, which may also include persons who are not directors, which committees shall support
+25 the board on science, technology and other matters. Such advisory committees shall keep records
+26 of their findings and recommendations.
+27 (n) The hub shall continue as long as it shall have bonds outstanding and until its existence
+28 is terminated by law. Upon the termination of the existence of the hub, all right, title and interest in
+29 and to all of its assets and all of its obligations, duties, covenants, agreements and obligations shall
+30 vest in and be possessed, performed and assumed by the state and no part of the earnings of the hub
+31 shall inure to the benefit of any private person.
+32 23-99-5. Hub powers.
+33 The hub shall have the following powers and all powers necessary to carry out and
+34 effectuate its purposes, including, without limitation, all powers necessary for the performance of
+LC002860/SUB A - Page 6 of 13
+1 the following:
+2 (1) To have perpetual succession as a public corporate body and agency of the state and to
+3 adopt bylaws, rules, regulations, and procedures for its governance and conduct of its business;
+4 (2) To act as the central entity and coordinating organization of life sciences initiatives on
+5 behalf of the state and to work in collaboration with governmental entities, persons, companies,
+6 state public bodies, centers, hubs, academic institutions, healthcare systems and facilities to
+7 promote life sciences such initiatives;
+8 (3) To engage accountants, architects, attorneys, engineers, planners, real estate experts,
+9 and other consultants as may be necessary in its judgment to carry out the purposes of this chapter;
+10 (4) To obtain insurance coverage including, but not limited to, director and officer
+11 insurance for board directors, officers, and employees in order to indemnify said persons against
+12 the claims of others;
+13 (5) To administer the investment fund in accordance with § 23-99-6, and such other funds
+14 and accounts as the hub may establish from time to time, for the purposes of making appropriations,
+15 allocations, investments, grants, research and other funding, or loans;
+16 (6) To apply for and accept revenues including, but not limited to, contributions of any
+17 source of money, property, labor, or any other things of value, and to invest, disburse, appropriate,
+18 grant, loan, or allocate any funds to the purposes of this chapter including, but not limited to, for
+19 the purpose of investing in any life science initiative;
+20 (7) To create access to capital, funding, and business attraction, retention and support
+21 programs and to enter into all contracts and agreements necessary or convenient thereto;
+22 (8) To enter into venture agreements with persons, upon such terms and on such conditions
+23 as are consistent with the purposes of this chapter, for the advancement of financial aid to such
+24 persons for the research, development, and application of specific technologies, products,
+25 procedures, services, and techniques, to be developed and produced in this state, and to condition
+26 such agreements upon contractual assurances that the benefits of increasing or maintaining
+27 employment and tax revenues shall remain in this state and shall accrue to it;
+28 (9) To enter into contracts and agreements, whether governmental or proprietary, to further
+29 scientific research in the state, aid in the promotion of the health of residents, foster life sciences
+30 jobs in the life sciences, and promote overall economic growth in the field of life sciences industry
+31 and to carry out the purposes of this chapter, and all such contracts and agreements of the hub
+32 entered into under the authority of this chapter are authorized to have a term not to exceed twenty
+33 (20) years; and
+34 (10) To borrow money and to issue and refund bonds, notes, and any other obligations, and
+LC002860/SUB A - Page 7 of 13
+1 apply the proceeds thereof for any of its corporate purposes as provided in this chapter, which
+2 bonds, notes, or other obligations may be issued at fixed or variable rates, with a maximum maturity
+3 of thirty (30) years and which bonds, notes and obligations of the hub, shall be subject to the
+4 provisions of chapter 18 of title 35 (“Rhode Island public corporation debt management”). to the
+5 extent that such bonds, notes, or other obligations finance "essential public facilities" or are secured
+6 by a "financing lease" or "guarantee" of the state, as such terms are defined in the Rhode Island
+7 public corporation debt management act;
+8 (11) In connection with the issuance of bonds and notes, to enter into indentures, trust
+9 agreements, credit facilities, liquidity facilities or other agreements providing for:
+10 (i) A mortgage, pledge or assignment of, or security interest in, any property of the hub,
+11 including, but not limited to, hub revenues, funds and accounts; and
+12 (ii) Any additional covenants and provisions, including, without limiting the generality of
+13 the foregoing, provisions defining defaults and providing for remedies in the event thereof, that are
+14 deemed desirable or necessary by the hub for the security of the holders of the bonds and notes;
+15 (12) To have a seal, which may be altered at pleasure and to use the seal by causing it, or
+16 a facsimile of the seal, to be impressed or affixed, or in any other manner reproduced;
+17 (13) To sue and be sued, to prosecute and defend actions relating to its properties and
+18 affairs, and to be liable in tort in the same manner as a private person; provided, however, that the
+19 hub is not authorized to become a debtor under the United States Bankruptcy Code or receivership
+20 laws of the state;
+21 (14) To acquire real and personal property, or any interest in real or personal property, by
+22 gift, purchase, transfer, foreclosure, lease, or otherwise including rights or easements; to hold, sell,
+23 assign, lease, encumber, mortgage, grant or otherwise dispose of any real or personal property, or
+24 any interest therein, or mortgage any interest owned by it or under its control, custody or in its
+25 possession; to improve, maintain, equip and furnish such real or personal property or such interest;
+26 to release, relinquish or forgive, any right, title, claim, lien, interest, easement or demand however
+27 acquired, including any equity or right of redemption in property foreclosed by it; to take
+28 assignments of leases and rentals, proceed with foreclosure actions, or take any other actions in
+29 furtherance of, or necessary or convenient to the performance of its corporate powers and purposes;
+30 (15) To invest any funds held in reserves or sinking funds, or the hub investment fund, or
+31 any funds not required for immediate disbursement, in such investments as the state investment
+32 commission is authorized to invest pursuant to chapter 10 of title 35;
+33 (16) To appear on its own behalf before boards, commissions, departments or other
+34 agencies of municipal, state or federal government;
+LC002860/SUB A - Page 8 of 13
+1 (17) To establish and collect such rents, fees and charges as the hub without further
+2 appropriation shall determine to be reasonable; and to receive and apply revenues from rents, fees
+3 and charges to the purposes of the hub or allotment by the state or any political subdivision thereof;
+4 (18) To prepare, publish and distribute such studies, reports and bulletins and other material
+5 as the hub deems appropriate;
+6 (19) To lease or sell any property to, or purchase any property from, a state public body.
+7 Any lease by the hub to a state public body may be for a period, upon terms and conditions, with
+8 or without an option to purchase, that the hub may determine. In connection with any such lease,
+9 sale or purchase:
+10 (i) The provisions of any charter, other laws, general, special, or local, ordinances or of any
+11 rule or regulation of any state public body, restricting or regulating in any manner the power of any
+12 state public body to lease (as lessee or lessor) or sell property, real, personal, or mixed, shall not
+13 apply to leases and sales made with the hub pursuant to this chapter; and
+14 (ii) Any municipality, notwithstanding any contrary provision of any charter, other laws or
+15 ordinances, general, special or local, or of any rule or regulations of the state or any municipality,
+16 is authorized and empowered to lease, lend, pledge, grant, or convey to the hub, at its request, upon
+17 terms and conditions that the chief executive officer of the municipality, if any, or where no chief
+18 executive officer exists, the city or town council of the municipality, may deem reasonable and fair
+19 and without the necessity for any advertisement, order of court, or other action or formality, any
+20 real property or personal property which may be necessary or convenient to the effectuation of the
+21 authorized purpose of the hub, including public roads and other real property already devoted to
+22 public use; and, subject to what has been stated, the municipality consents to the use of all lands
+23 owned by the municipality which are deemed by the hub to be necessary or convenient for its
+24 purposes;
+25 (20) To organize and operate venture capital funds to provide capital to early-stage life
+26 science companies in the state in exchange for equity and pro rate distributions of net profits, which
+27 venture capital funds may be structured as general partnerships and/or limited partnerships with the
+28 hub as a general and/or limited partner, and limited liability companies, with the hub as a member
+29 or manger; provided that, no state funds appropriated to the hub, and no net profits received on
+30 such state funds, may be paid to any for-profit company or person investing in such venture capital
+31 funds;
+32 (21) To contract for the acquisition of any of its properties by the federal government; and
+33 to contract with any state, federal, or municipal agencies for the performance of any services
+34 essential or convenient to its purposes under this chapter;
+LC002860/SUB A - Page 9 of 13
+1 (22) To create, empower or otherwise establish one or more nonprofit corporations for the
+2 purpose of receiving charitable contributions for the benefit of the hub supporting the hub's
+3 corporate purposes and lessening the burdens of government, and whose organizational documents
+4 shall:
+5 (i) Include a conflict of interest policy; and
+6 (ii) Provide that, upon termination of such nonprofit corporation's existence, all right, title
+7 and interest in and to all such nonprofit corporation's assets shall vest in the hub, in another
+8 nonprofit corporation, or in the state; and
+9 (23) To take any actions necessary or convenient to the exercise of any power or the
+10 discharge of any duty provided for by this act.
+11 23-99-6. Hub investment fund.
+12 (a) There shall be established and placed within the hub, a fund or funds to be known as
+13 the Rhode Island life science investment fund, hereinafter referred to as the “fund”, to be held by
+14 the hub to finance the operations and initiatives of the hub. The investment fund shall be credited
+15 any appropriations, bond proceeds, federal grants, or loans, or other such additional funds as are
+16 subject to the direction and control of the hub, which may properly be applied in furtherance of the
+17 objectives of the hub.
+18 (b) The investment fund shall be held and applied by the hub to make qualified investments,
+19 grants, research and other funding, and or loans designed to advance public purposes for the field
+20 of life science industry in the state and shall use the fund for such purposes.
+21 (c) The state shall not be liable for the payment of the principal of, or interest on, any bonds
+22 or notes of the hub, or for the performance of any pledge, mortgage, obligation, or agreement of
+23 any kind whatsoever that may be undertaken by the hub, and none of the bonds or notes of the hub
+24 nor any of its agreements or obligations shall be construed to constitute an indebtedness of the state.
+25 Payments related to any transaction involving, or investment by, the hub shall be payable solely
+26 from the fund assets, property or revenues of the hub.
+27 (d) All monies received by the hub pursuant to the authority of this chapter, whether as
+28 proceeds from the sale of bonds or as revenues, are deemed to be trust funds to be held and applied
+29 solely as provided in this chapter. Any officer with whom, or any bank or trust company with
+30 which, the monies are deposited, shall act as trustee of the monies and shall hold and apply the
+31 monies for the purposes of this chapter, subject to regulations as this chapter and the resolution
+32 authorizing the bonds of any issue or the trust agreement securing the bonds may provide.
+33 (d)(e) The board shall promulgate rules, regulations, or guidelines necessary to carry out
+34 the provisions of this section.
+LC002860/SUB A - Page 10 of 13
+1 SECTION 2. Chapter 23-99 of the General Laws entitled "The Rhode Island Life Science
+2 Hub Act" is hereby amended by adding thereto the following sections:
+3 23-99-10. Exemption from taxation.
+4 (a) The exercise of the powers granted by this chapter shall be, in all respects, for the benefit
+5 of the people of this state, the increase of their commerce, welfare, and prosperity and for the
+6 improvement of their health and living conditions and will constitute the performance of an
+7 essential governmental function and the hub shall not be required to pay any taxes or assessments
+8 upon or in respect of any property or monies of the hub, levied by any municipality or political
+9 subdivision of the state;
+10 (b) The hub shall not be required to pay state taxes of any kind, and the hub, its property
+11 and monies and, except for estate, inheritance, and gift taxes, any bonds or notes issued under the
+12 provisions of this chapter and the income (including gain from sale or exchange) from these shall
+13 at all times be free from taxation of every kind by the state and by the municipalities and all political
+14 subdivisions of the state. The hub shall not be required to pay any transfer tax of any kind on
+15 account of instruments recorded by it or on its behalf.
+16 23-99-11. Agreement of the state.
+17 The state does pledge to and agree with the holders of any bonds or notes issued under this
+18 chapter that the state will not limit or alter the rights vested in the Rhode Island life science hub to
+19 fulfill the terms of any agreements made with the holders until the bonds or notes, together with
+20 the interest on these bonds and notes, with interest on any unpaid installments of interest, and all
+21 costs and expenses in connection with any action or proceeding by or on behalf of the holders, are
+22 fully met and discharged. The hub is authorized to include this pledge and agreement of the state
+23 in any agreement with the holders of the bonds or notes.
+24 23-99-12. Bonds eligible for investment.
+25 The notes and bonds of the hub shall be legal investments in which all public officers and
+26 public bodies of this state, its political subdivisions, all municipalities and municipal subdivisions,
+27 all insurance companies and associations and other persons carrying on an insurance business, all
+28 banks, bankers, banking institutions including savings and loan associations, building and loan
+29 associations, trust companies, savings banks and savings associations, investment companies and
+30 other persons carrying on a banking business, all administrators, guardians, executors, trustees, and
+31 other fiduciaries, and all other persons who are now or may hereafter be authorized to invest in
+32 bonds or in other obligations of the state, may properly and legally invest funds, including capital,
+33 in their control or belonging to them. The notes and bonds are also made securities which may
+34 properly and legally be deposited with and received by all public officers and bodies of the state or
+LC002860/SUB A - Page 11 of 13
+1 any agency or political subdivision of the state and all municipalities and public corporations for
+2 any purpose for which the deposit of bonds or other obligations of the state is now or may hereafter
+3 be authorized by law.
+4 23-99-13. Lien status -- Recording.
+5 Notwithstanding any provision of any other law, including the uniform commercial code:
+6 (1) Any pledge or assignment of revenues of any kind, funds, property, or assets made
+7 pursuant to the provisions of this chapter by the hub shall be valid and binding against all parties
+8 having claims of any kind in tort, contract, or otherwise, whether or not the parties have notice
+9 thereof, and shall be deemed continuously perfected from the time it is made.
+10 (2) The revenues, funds, property, or assets, rights therein and thereto and proceeds so
+11 pledged and then held or thereafter acquired or received by the hub shall immediately be subject to
+12 the lien of such pledge without any physical delivery or segregation thereof or further act;
+13 (3) No filing of any kind with respect to a pledge or assignment need be made under the
+14 uniform commercial code, as amended, or otherwise; and
+15 (4) For the purposes of this section, the word "pledge" shall be construed to include the
+16 grant of a security interest under the uniform commercial code.
+17 SECTION 3. This act shall take effect upon passage and shall apply retroactively to
+18 September 1, 2023.
+========
+LC002860/SUB A
+========
+LC002860/SUB A - Page 12 of 13
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND LIFE SCIENCE HUB
+ACT
+***
+1 This act would make technical amendments to the Rhode Island life science hub regarding
+2 the terms of the directors, advisory committees, powers, disposition of hub assets upon termination,
+3 and tax status as a governmental unit which is a separate legal entity from the state. The
+4 amendments would make the hub, its property, and its bonds exempt from federal, state and local
+5 taxes and would authorize the hub to form venture capital funds and nonprofits to accept donations
+6 for the hub's purposes. The amendments would make the president and CEO an ex officio member
+7 of the board of directors.
+8 This act would take effect upon passage and would apply retroactively to September 1,
+9 2023.
+========
+LC002860/SUB A
+========
+LC002860/SUB A - Page 13 of 13
+[DELETED: TATE  OF  RHODE  ISLAND S C f 2 A ( i i s ( ( f ( b ( p ( “ m a b c p f u a]
+[DELETED:  a ( ( ( d b t m t t b b e b g b c a g t h s a a i g d d h m s a d ( “ s c m a c e i l s r d t ( m b ( ( r l p e t t ( ( p ( “ m w l a c a w a p t b s g 2 ( h c a i p a p c f]
+[DELETED:  p R t g f a t h s b c a " a a a " ( c b a s t ( t i b p o a s e o a R I b l s c o h o h d s o s a q b u e S a o E d o i d s c t s a a i d w t n f r t]
+[DELETED:  p a ( o e b v e d t e c r A e b p ( a ( A q o t b i p e i p o b t u o r v ( r ( s p ( i r ( e ( d g]
+[DELETED:  w o I a c c a i m t a t g s g d c t a a i t o o p ( p s r t o t t T b s a e a s w s k a r o t p ( o o t h s s w c b e d s b e t r o o v ( t c m a ( a c (]
+[DELETED:  ( ( ( g d r b l i u c o w m I a i i ( a a s r ( p v a h e e ( T c c s p o q f t h f a a m ( a c e c o n l t t ( a n m t s ( d t o ( i a v s 2 T h s h t f p a a p n t c o a e]
+[DELETED:  t ( a ( b s p b c h a i h s a f t p ( a ( T o i c i b n l t d a o i t ( a a ( s g t ( p ( a p f t r d a a o s t p p s a u c a t t b o i o m e ( s j a e ( (]
+[DELETED:  a b o p e b p ( a ( i ( t d ( a ( a h l ( g a a p t a i a e o r o r i p f b i t t a f ( a c ( T a o i o b b b c d o o a]
+[DELETED:  ( e a s r a c a t h w f a a ( a ( A o s ( r s a ( o i t e a r a p o p ( s v h o s f ( t e]
+[DELETED:  ( p o r c c f t b o t h s t h c s ( ( a n ( d 2 ( t t a s o ( g o ( o a n P f ( p s w m a ( t]
+[DELETED:  S H 2 ( o i o t h a l c a w c t p o a e u s ( a p a s a 2 T c f t c f i 2 T p a b a o o b i p]
+[DELETED:  a a b 2 N ( p h t ( p t ( u ( g S 3 T a s t e u p a s a r t S]
+[DELETED:  T t a t s a a g u w i a s l e f t s T a t f o T 2]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 1039 SUBSTITUTE A
+========
+LC002860/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND LIFE SCIENCE HUB
+ACT
+Introduced By: Senators DiPalma, Felag, Gallo, Tikoian, and Ciccone
+Date Introduced: May 09, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-99-3, 23-99-4, 23-99-5 and 23-99-6 of the General Laws in
+2 Chapter 23-99 entitled "The Rhode Island Life Science Hub Act" are hereby amended to read as
+3 follows:
+4 23-99-3. Definitions.
+5 As used in this chapter, the following words shall have the following meanings:
+6 (1) “Affiliate” means any person or company who or that directly or indirectly controls or
+7 is controlled by or is under direct or indirect common control of another company or person
+8 including, but not limited to, any company that is merged or consolidated, or that purchases all or
+9 substantially all of the assets of another company.
+10 (2) “Board” means the board of directors of the hub.
+11 (3) “Certification proposal” means a written proposal submitted by a life science company
+12 for approval as a certified life sciences company.
+13 (4) “Certified life sciences company” means a life science company that has been certified
+14 by the board as being eligible to receive grants and incentives from the investment fund.
+15 (5) “Commerce corporation” means the Rhode Island commerce corporation, established
+16 pursuant to § 42-64-1 et seq.
+17 (6) “Company” means a business corporation, partnership, firm, unincorporated
+18 association, or other entity engaged or proposing to engage in economic activity within the state,
+
+1 and any affiliate thereof.
+2 (7) “Hub” means the Rhode Island life science hub established by § 23-99-4.
+3 (8) “Investment fund” means the hub investment fund established by § 23-99-6.
+4 (9) “Life science” means and shall include, but not be limited to, the science of: medical
+5 devices, biomedical technology, medical therapeutic therapies, biogenetics, biomedical
+6 engineering, biopharmaceuticals, genomics, biomanufacturing, cell and gene therapies, health
+7 software and artificial intelligence, genomics, diagnostics, digital health, marine science,
+8 agricultural science, veterinary science and related fields the broader life sciences to foster the
+9 development of cutting-edge medical breakthroughs.
+10 (10) “Life science company” means a company engaged in life science research,
+11 development, manufacturing, incubation, or commercialization in Rhode Island, and any affiliate
+12 thereof.
+13 (11) “Life sciences industry” means the fields of medical devices, biomedical technology,
+14 medical therapeutic therapies, biogenetics, biomedical engineering, biopharmaceuticals, genomics,
+15 biomanufacturing, diagnostics, digital health, and related fields.
+16 (12)(11) “Person” means a natural person, company, or other legal entity.
+17 (12) "Revenue" means receipts, fees, rentals or other payments or income received or to be
+18 received by the hub in the exercise of its corporate powers under this chapter including, but not
+19 limited to, income on account of the leasing, mortgaging, sale or other disposition of property or
+20 proceeds of a loan made by the hub, and amounts in reserves or held in other funds or accounts
+21 established in connection with the issuance of bonds or notes and the proceeds of any investments
+22 thereof, proceeds of foreclosure and other fees, charges or other income received or receivable by
+23 the hub.
+24 (13) “State” means the state of Rhode Island.
+25 (14) "State public body" means the state, or any city or town or any other subdivision or
+26 public body of the state or of any city or town.
+27 (14)(15) “Venture” means, without limitation, any contractual arrangement with any
+28 person whereby the corporation obtains rights from or in an invention or product or proceeds
+29 therefrom, or rights to obtain from any person any and all forms of equity instruments including,
+30 but not limited to, common and preferred stock, warrants, options, convertible debentures, and
+31 similar types of instruments exercisable or convertible into capital stock, in exchange for the
+32 granting of financial aid to such person.
+33 23-99-4. Rhode Island life science hub established.
+34 (a) There is hereby constituted as an independent public a public corporation for the
+LC002860/SUB A - Page 2 of 13
+
+1 purposes set forth in this chapter with a separate legal existence from the state to be known as the
+2 Rhode Island life science hub hereinafter to be referred to as the “hub”. The exercise by the hub of
+3 the powers conferred by this chapter shall be considered to be the performance of an essential
+4 governmental function and the hub shall be considered a "constituted authority" and an
+5 "instrumentality" of the state acting on behalf of the state for federal tax purposes.
+6 (b) The hub shall be governed and its corporate powers exercised by a board of directors
+7 consisting of fifteen (15) sixteen (16) directors: seven (7) fifteen (15) of whom shall be appointed
+8 by the governor, and one of whom shall be the person the board hires from time to time as president
+9 and chief executive officer of the hub. The president and chief executive officer of the hub shall
+10 serve ex officio and, except as otherwise provided in § 23-99-4(k), shall not be a voting member of
+11 the board of directors. The fifteen (15) directors appointed by the governor shall consist of seven
+12 (7) public directors and eight (8) institutional directors. The seven (7) public directors shall have
+13 the following qualifications: one of whom shall be a senior executive with extensive background
+14 in the banking, grant making, and or fundraising fields, or his or her designee; one of whom shall
+15 be a member of a life science trade association, or his or her designee,; one of whom shall be the
+16 president or a senior executive of a Rhode Island based life science company, or his or her
+17 designee,; two (2) of whom shall be senior executives of Rhode Island based life science companies
+18 specializing in biomanufacturing, or his or her designees,; one of whom shall be a representative
+19 of organized labor, or his or her designee,; and one of whom shall be a member of the public who
+20 shall be a certified public accountant and a member of the Rhode Island society of certified public
+21 accountants, or his or her designee.; The eight (8) institutional directors shall have the following
+22 qualifications: one of whom shall be the secretary of commerce, ex officio; three (3) of whom shall
+23 be the president of Rhode Island college, ex officio, or his or her designee, the president of the
+24 university of Rhode Island, ex officio, or his or her designee, and the president of Brown university,
+25 ex officio, or his or her designee; one of whom shall be the dean of the Warren Alpert Medical
+26 School of Brown university, ex officio, or his or her designee; one of whom shall be the president
+27 and chief executive officer of the Lifespan Corporation Brown university health, ex officio, or his
+28 or her designee; one of whom shall be the president and chief executive officer of Care New
+29 England Health System, ex officio, or his or her designee; and one of whom shall be an ex officio
+30 director who shall also be the director of economic development for the city of Providence, ex
+31 officio, or his or her designee. To the extent that an institution takes on a new legal name, the
+32 institutional director shall continue to serve as an institutional director without the need for
+33 reappointment. To the extent that an institution merges, converts, consolidates with, or sells or
+34 transfers all or substantially all of its assets to another company and such company retains its
+LC002860/SUB A - Page 3 of 13
+
+1 primary operations in the state, the chief executive officer of such company shall be qualified for
+2 appointment as an institutional director in accordance with this section.
+3 (c) The chair of the board shall be appointed by the governor, with the advice and consent
+4 of the senate, and shall be an individual who served in the capacity as a senior executive with
+5 extensive background in the banking, grant making, and or fundraising fields. The vice-chair of the
+6 board shall be the secretary of commerce. All directors, including ex officio directors, shall be
+7 voting members of the board of directors, except for the director serving as president and chief
+8 executive officer of the hub, who shall not be a voting member of the board. Eight (8) voting
+9 directors shall constitute a quorum, and any action to be taken by the board under the provisions of
+10 this chapter may be authorized by resolution approved by a majority of the directors present and
+11 entitled to vote at any regular or special meeting at which a quorum is present. No votes on the
+12 certification of any life science company nor on the allocation or award of any investment fund
+13 resources to any certified life science company shall be taken unless the chair is present and voting.
+14 A vacancy in the membership of the board of directors shall not impair the right of a quorum to
+15 exercise all of the rights and perform all of the duties of the board. Pursuant to § 42-46-5(b)(6),
+16 board directors are authorized to participate remotely using videoconferencing technology in open
+17 public meetings of the board; provided, however, that:
+18 (1) The remote director(s) and all persons present at the meeting location are clearly audible
+19 and visible to each other;
+20 (2) A quorum of the body is participating, either in person or by the use of remote
+21 videoconferencing technology;
+22 (3) A member of the board voting director who participates in a meeting of the board
+23 remotely shall be considered present for purposes of a quorum and voting;
+24 (4) If videoconferencing is used to conduct a meeting, the public notice for the meeting
+25 shall inform the public that videoconferencing will be used and include instructions on how the
+26 public can access the virtual meeting; and
+27 (5) The board shall adopt rules defining the requirements of remote participation including
+28 its use for executive session, and the conditions by which a director is authorized to participate
+29 remotely.
+30 (d) Each board member public director shall serve a an initial term of four (4) years. At the
+31 expiration of the initial terms of public directors in January 2028, the governor shall appoint two
+32 (2) directors for a term of four (4) years, two (2) directors for a term of three (3) years, two (2)
+33 directors for a term of two (2) years, and one director for a term of one year. Thereafter, the
+34 governor shall appoint a new public director or directors to succeed the public director or directors
+LC002860/SUB A - Page 4 of 13
+
+1 whose terms then next expire, to serve a term of four (4) years. The president and chief executive
+2 officer shall have a board term coextensive with such person's employment contract with the hub.
+3 In the event that the chair of the board position becomes vacant for any reason, or the chair is not
+4 able to perform the duties of that position for any reason, the vice chair shall serve as the interim
+5 chair until the chair is able to resume the chair’s duties; provided, however, in the event that the
+6 chair is not able to resume the chair’s duties in that position, the governor shall appoint a new chair
+7 and, in making this appointment, the governor shall give due consideration to appointing an
+8 individual from a list of six (6) candidates, three (3) of whom shall be provided to the governor by
+9 the speaker of the house and three (3) of whom shall be provided to the governor by the president
+10 of the senate. Any person appointed to fill a vacancy in the office of an appointed a public director
+11 of the board shall be appointed in a like manner and shall serve for the unexpired term of such
+12 public director. Any director shall be eligible for reappointment.
+13 (e) The public director of the board who is a member of the public and who is a certified
+14 public accountant and a member of the Rhode Island society of certified public accountants shall
+15 serve as treasurer and shall be charged with keeping the funds, books of account, and accounting
+16 records of the hub. No grants, tax credits, loans or other financings, or incentives shall be issued by
+17 the hub to any certified life science company without the approval of the board and the signature
+18 of the treasurer. The board shall annually elect a secretary who shall keep a record of the
+19 proceedings of the board and shall be custodian of all books, documents, and papers.
+20 (f) Board directors, other than the director who serves as the president and chief executive
+21 officer of the hub, shall serve without compensation, but each director shall be entitled to
+22 reimbursement for actual, reasonable, and necessary expenses while engaged in the performance
+23 of official duties. Board directors, officers, and employees shall not be liable to the state, the hub,
+24 or to any other person as a result of their activities except for malfeasance in office or intentional
+25 violations of law.
+26 (g) The board shall establish an application review committee consisting of not less than
+27 three (3) directors of the board, which shall review certification proposals submitted by life sciences
+28 companies that shall be supported by independently verifiable information, and the board shall
+29 make a record of findings based on the certification proposal, documents submitted therewith, and
+30 any additional evidence that the life science company meets all criteria that the hub may prescribe.
+31 (h) Certified life science companies shall be eligible to receive funding from the hub, upon
+32 a majority vote of the board, for the following benefits which shall be awarded by the board on a
+33 competitive basis:
+34 (1) Grants, loans, or other investments;
+LC002860/SUB A - Page 5 of 13
+
+1 (2) Assistance from the hub in obtaining federal, state, and nonprofit monies; or
+2 (3) Assistance from the hub in facilitating clinical trials.
+3 (i) Notwithstanding any other provisions of law in relation to their tenure of office, the
+4 governor may remove any board director, including institutional directors, for the neglect of any
+5 duty required by law, incompetence, unprofessional conduct, or willful misconduct. If an
+6 institutional director is so removed, such institutional director's designee shall serve on the board
+7 in his or her place for the remainder of his or her term.
+8 (j) Each director shall make full disclosure, in accordance with §§ 36-14-1 — 36-14-7, of
+9 any financial interest, if any, in any matter before the board. Such interest must be disclosed in
+10 advance to the directors of the board, recorded in the minutes of the board, and the director having
+11 such an interest shall recuse themselves and shall not participate in any decision of the board
+12 relating to such interest.
+13 (k) With the advice and consent of the senate, the board shall have the power to hire a
+14 president, who shall also serve as the chief executive officer of the hub and who shall be a non-
+15 voting member of the board of directors, but who shall be entitled to vote as a member of any
+16 advisory committee to which the president/chief executive officer is appointed. The board also shall
+17 have the power to establish compensation and conditions of employment for the president and chief
+18 executive officer; provided, further, the board shall have the power to hire other employees and
+19 establish compensation and conditions of employment for such employees.
+20 (l) The commerce corporation shall provide operating quarters for the hub for, at a
+21 minimum, the first year of the hub’s operation.
+22 (m) In addition to the application review committee, the board may establish one or more
+23 advisory committees, each consisting of not less than three (3) and not more than seven (7)
+24 directors, which may also include persons who are not directors, which committees shall support
+25 the board on science, technology and other matters. Such advisory committees shall keep records
+26 of their findings and recommendations.
+27 (n) The hub shall continue as long as it shall have bonds outstanding and until its existence
+28 is terminated by law. Upon the termination of the existence of the hub, all right, title and interest in
+29 and to all of its assets and all of its obligations, duties, covenants, agreements and obligations shall
+30 vest in and be possessed, performed and assumed by the state and no part of the earnings of the hub
+31 shall inure to the benefit of any private person.
+32 23-99-5. Hub powers.
+33 The hub shall have the following powers and all powers necessary to carry out and
+34 effectuate its purposes, including, without limitation, all powers necessary for the performance of
+LC002860/SUB A - Page 6 of 13
+
+1 the following:
+2 (1) To have perpetual succession as a public corporate body and agency of the state and to
+3 adopt bylaws, rules, regulations, and procedures for its governance and conduct of its business;
+4 (2) To act as the central entity and coordinating organization of life sciences initiatives on
+5 behalf of the state and to work in collaboration with governmental entities, persons, companies,
+6 state public bodies, centers, hubs, academic institutions, healthcare systems and facilities to
+7 promote life sciences such initiatives;
+8 (3) To engage accountants, architects, attorneys, engineers, planners, real estate experts,
+9 and other consultants as may be necessary in its judgment to carry out the purposes of this chapter;
+10 (4) To obtain insurance coverage including, but not limited to, director and officer
+11 insurance for board directors, officers, and employees in order to indemnify said persons against
+12 the claims of others;
+13 (5) To administer the investment fund in accordance with § 23-99-6, and such other funds
+14 and accounts as the hub may establish from time to time, for the purposes of making appropriations,
+15 allocations, investments, grants, research and other funding, or loans;
+16 (6) To apply for and accept revenues including, but not limited to, contributions of any
+17 source of money, property, labor, or any other things of value, and to invest, disburse, appropriate,
+18 grant, loan, or allocate any funds to the purposes of this chapter including, but not limited to, for
+19 the purpose of investing in any life science initiative;
+20 (7) To create access to capital, funding, and business attraction, retention and support
+21 programs and to enter into all contracts and agreements necessary or convenient thereto;
+22 (8) To enter into venture agreements with persons, upon such terms and on such conditions
+23 as are consistent with the purposes of this chapter, for the advancement of financial aid to such
+24 persons for the research, development, and application of specific technologies, products,
+25 procedures, services, and techniques, to be developed and produced in this state, and to condition
+26 such agreements upon contractual assurances that the benefits of increasing or maintaining
+27 employment and tax revenues shall remain in this state and shall accrue to it;
+28 (9) To enter into contracts and agreements, whether governmental or proprietary, to further
+29 scientific research in the state, aid in the promotion of the health of residents, foster life sciences
+30 jobs in the life sciences, and promote overall economic growth in the field of life sciences industry
+31 and to carry out the purposes of this chapter, and all such contracts and agreements of the hub
+32 entered into under the authority of this chapter are authorized to have a term not to exceed twenty
+33 (20) years; and
+34 (10) To borrow money and to issue and refund bonds, notes, and any other obligations, and
+LC002860/SUB A - Page 7 of 13
+
+1 apply the proceeds thereof for any of its corporate purposes as provided in this chapter, which
+2 bonds, notes, or other obligations may be issued at fixed or variable rates, with a maximum maturity
+3 of thirty (30) years and which bonds, notes and obligations of the hub, shall be subject to the
+4 provisions of chapter 18 of title 35 (“Rhode Island public corporation debt management”). to the
+5 extent that such bonds, notes, or other obligations finance "essential public facilities" or are secured
+6 by a "financing lease" or "guarantee" of the state, as such terms are defined in the Rhode Island
+7 public corporation debt management act;
+8 (11) In connection with the issuance of bonds and notes, to enter into indentures, trust
+9 agreements, credit facilities, liquidity facilities or other agreements providing for:
+10 (i) A mortgage, pledge or assignment of, or security interest in, any property of the hub,
+11 including, but not limited to, hub revenues, funds and accounts; and
+12 (ii) Any additional covenants and provisions, including, without limiting the generality of
+13 the foregoing, provisions defining defaults and providing for remedies in the event thereof, that are
+14 deemed desirable or necessary by the hub for the security of the holders of the bonds and notes;
+15 (12) To have a seal, which may be altered at pleasure and to use the seal by causing it, or
+16 a facsimile of the seal, to be impressed or affixed, or in any other manner reproduced;
+17 (13) To sue and be sued, to prosecute and defend actions relating to its properties and
+18 affairs, and to be liable in tort in the same manner as a private person; provided, however, that the
+19 hub is not authorized to become a debtor under the United States Bankruptcy Code or receivership
+20 laws of the state;
+21 (14) To acquire real and personal property, or any interest in real or personal property, by
+22 gift, purchase, transfer, foreclosure, lease, or otherwise including rights or easements; to hold, sell,
+23 assign, lease, encumber, mortgage, grant or otherwise dispose of any real or personal property, or
+24 any interest therein, or mortgage any interest owned by it or under its control, custody or in its
+25 possession; to improve, maintain, equip and furnish such real or personal property or such interest;
+26 to release, relinquish or forgive, any right, title, claim, lien, interest, easement or demand however
+27 acquired, including any equity or right of redemption in property foreclosed by it; to take
+28 assignments of leases and rentals, proceed with foreclosure actions, or take any other actions in
+29 furtherance of, or necessary or convenient to the performance of its corporate powers and purposes;
+30 (15) To invest any funds held in reserves or sinking funds, or the hub investment fund, or
+31 any funds not required for immediate disbursement, in such investments as the state investment
+32 commission is authorized to invest pursuant to chapter 10 of title 35;
+33 (16) To appear on its own behalf before boards, commissions, departments or other
+34 agencies of municipal, state or federal government;
+LC002860/SUB A - Page 8 of 13
+
+1 (17) To establish and collect such rents, fees and charges as the hub without further
+2 appropriation shall determine to be reasonable; and to receive and apply revenues from rents, fees
+3 and charges to the purposes of the hub or allotment by the state or any political subdivision thereof;
+4 (18) To prepare, publish and distribute such studies, reports and bulletins and other material
+5 as the hub deems appropriate;
+6 (19) To lease or sell any property to, or purchase any property from, a state public body.
+7 Any lease by the hub to a state public body may be for a period, upon terms and conditions, with
+8 or without an option to purchase, that the hub may determine. In connection with any such lease,
+9 sale or purchase:
+10 (i) The provisions of any charter, other laws, general, special, or local, ordinances or of any
+11 rule or regulation of any state public body, restricting or regulating in any manner the power of any
+12 state public body to lease (as lessee or lessor) or sell property, real, personal, or mixed, shall not
+13 apply to leases and sales made with the hub pursuant to this chapter; and
+14 (ii) Any municipality, notwithstanding any contrary provision of any charter, other laws or
+15 ordinances, general, special or local, or of any rule or regulations of the state or any municipality,
+16 is authorized and empowered to lease, lend, pledge, grant, or convey to the hub, at its request, upon
+17 terms and conditions that the chief executive officer of the municipality, if any, or where no chief
+18 executive officer exists, the city or town council of the municipality, may deem reasonable and fair
+19 and without the necessity for any advertisement, order of court, or other action or formality, any
+20 real property or personal property which may be necessary or convenient to the effectuation of the
+21 authorized purpose of the hub, including public roads and other real property already devoted to
+22 public use; and, subject to what has been stated, the municipality consents to the use of all lands
+23 owned by the municipality which are deemed by the hub to be necessary or convenient for its
+24 purposes;
+25 (20) To organize and operate venture capital funds to provide capital to early-stage life
+26 science companies in the state in exchange for equity and pro rate distributions of net profits, which
+27 venture capital funds may be structured as general partnerships and/or limited partnerships with the
+28 hub as a general and/or limited partner, and limited liability companies, with the hub as a member
+29 or manger; provided that, no state funds appropriated to the hub, and no net profits received on
+30 such state funds, may be paid to any for-profit company or person investing in such venture capital
+31 funds;
+32 (21) To contract for the acquisition of any of its properties by the federal government; and
+33 to contract with any state, federal, or municipal agencies for the performance of any services
+34 essential or convenient to its purposes under this chapter;
+LC002860/SUB A - Page 9 of 13
+
+1 (22) To create, empower or otherwise establish one or more nonprofit corporations for the
+2 purpose of receiving charitable contributions for the benefit of the hub supporting the hub's
+3 corporate purposes and lessening the burdens of government, and whose organizational documents
+4 shall:
+5 (i) Include a conflict of interest policy; and
+6 (ii) Provide that, upon termination of such nonprofit corporation's existence, all right, title
+7 and interest in and to all such nonprofit corporation's assets shall vest in the hub, in another
+8 nonprofit corporation, or in the state; and
+9 (23) To take any actions necessary or convenient to the exercise of any power or the
+10 discharge of any duty provided for by this act.
+11 23-99-6. Hub investment fund.
+12 (a) There shall be established and placed within the hub, a fund or funds to be known as
+13 the Rhode Island life science investment fund, hereinafter referred to as the “fund”, to be held by
+14 the hub to finance the operations and initiatives of the hub. The investment fund shall be credited
+15 any appropriations, bond proceeds, federal grants, or loans, or other such additional funds as are
+16 subject to the direction and control of the hub, which may properly be applied in furtherance of the
+17 objectives of the hub.
+18 (b) The investment fund shall be held and applied by the hub to make qualified investments,
+19 grants, research and other funding, and or loans designed to advance public purposes for the field
+20 of life science industry in the state and shall use the fund for such purposes.
+21 (c) The state shall not be liable for the payment of the principal of, or interest on, any bonds
+22 or notes of the hub, or for the performance of any pledge, mortgage, obligation, or agreement of
+23 any kind whatsoever that may be undertaken by the hub, and none of the bonds or notes of the hub
+24 nor any of its agreements or obligations shall be construed to constitute an indebtedness of the state.
+25 Payments related to any transaction involving, or investment by, the hub shall be payable solely
+26 from the fund assets, property or revenues of the hub.
+27 (d) All monies received by the hub pursuant to the authority of this chapter, whether as
+28 proceeds from the sale of bonds or as revenues, are deemed to be trust funds to be held and applied
+29 solely as provided in this chapter. Any officer with whom, or any bank or trust company with
+30 which, the monies are deposited, shall act as trustee of the monies and shall hold and apply the
+31 monies for the purposes of this chapter, subject to regulations as this chapter and the resolution
+32 authorizing the bonds of any issue or the trust agreement securing the bonds may provide.
+33 (d)(e) The board shall promulgate rules, regulations, or guidelines necessary to carry out
+34 the provisions of this section.
+LC002860/SUB A - Page 10 of 13
+
+1 SECTION 2. Chapter 23-99 of the General Laws entitled "The Rhode Island Life Science
+2 Hub Act" is hereby amended by adding thereto the following sections:
+3 23-99-10. Exemption from taxation.
+4 (a) The exercise of the powers granted by this chapter shall be, in all respects, for the benefit
+5 of the people of this state, the increase of their commerce, welfare, and prosperity and for the
+6 improvement of their health and living conditions and will constitute the performance of an
+7 essential governmental function and the hub shall not be required to pay any taxes or assessments
+8 upon or in respect of any property or monies of the hub, levied by any municipality or political
+9 subdivision of the state;
+10 (b) The hub shall not be required to pay state taxes of any kind, and the hub, its property
+11 and monies and, except for estate, inheritance, and gift taxes, any bonds or notes issued under the
+12 provisions of this chapter and the income (including gain from sale or exchange) from these shall
+13 at all times be free from taxation of every kind by the state and by the municipalities and all political
+14 subdivisions of the state. The hub shall not be required to pay any transfer tax of any kind on
+15 account of instruments recorded by it or on its behalf.
+16 23-99-11. Agreement of the state.
+17 The state does pledge to and agree with the holders of any bonds or notes issued under this
+18 chapter that the state will not limit or alter the rights vested in the Rhode Island life science hub to
+19 fulfill the terms of any agreements made with the holders until the bonds or notes, together with
+20 the interest on these bonds and notes, with interest on any unpaid installments of interest, and all
+21 costs and expenses in connection with any action or proceeding by or on behalf of the holders, are
+22 fully met and discharged. The hub is authorized to include this pledge and agreement of the state
+23 in any agreement with the holders of the bonds or notes.
+24 23-99-12. Bonds eligible for investment.
+25 The notes and bonds of the hub shall be legal investments in which all public officers and
+26 public bodies of this state, its political subdivisions, all municipalities and municipal subdivisions,
+27 all insurance companies and associations and other persons carrying on an insurance business, all
+28 banks, bankers, banking institutions including savings and loan associations, building and loan
+29 associations, trust companies, savings banks and savings associations, investment companies and
+30 other persons carrying on a banking business, all administrators, guardians, executors, trustees, and
+31 other fiduciaries, and all other persons who are now or may hereafter be authorized to invest in
+32 bonds or in other obligations of the state, may properly and legally invest funds, including capital,
+33 in their control or belonging to them. The notes and bonds are also made securities which may
+34 properly and legally be deposited with and received by all public officers and bodies of the state or
+LC002860/SUB A - Page 11 of 13
+
+1 any agency or political subdivision of the state and all municipalities and public corporations for
+2 any purpose for which the deposit of bonds or other obligations of the state is now or may hereafter
+3 be authorized by law.
+4 23-99-13. Lien status -- Recording.
+5 Notwithstanding any provision of any other law, including the uniform commercial code:
+6 (1) Any pledge or assignment of revenues of any kind, funds, property, or assets made
+7 pursuant to the provisions of this chapter by the hub shall be valid and binding against all parties
+8 having claims of any kind in tort, contract, or otherwise, whether or not the parties have notice
+9 thereof, and shall be deemed continuously perfected from the time it is made.
+10 (2) The revenues, funds, property, or assets, rights therein and thereto and proceeds so
+11 pledged and then held or thereafter acquired or received by the hub shall immediately be subject to
+12 the lien of such pledge without any physical delivery or segregation thereof or further act;
+13 (3) No filing of any kind with respect to a pledge or assignment need be made under the
+14 uniform commercial code, as amended, or otherwise; and
+15 (4) For the purposes of this section, the word "pledge" shall be construed to include the
+16 grant of a security interest under the uniform commercial code.
+17 SECTION 3. This act shall take effect upon passage and shall apply retroactively to
+18 September 1, 2023.
+========
+LC002860/SUB A
+========
+LC002860/SUB A - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND LIFE SCIENCE HUB
+ACT
+***
+1 This act would make technical amendments to the Rhode Island life science hub regarding
+2 the terms of the directors, advisory committees, powers, disposition of hub assets upon termination,
+3 and tax status as a governmental unit which is a separate legal entity from the state. The
+4 amendments would make the hub, its property, and its bonds exempt from federal, state and local
+5 taxes and would authorize the hub to form venture capital funds and nonprofits to accept donations
+6 for the hub's purposes. The amendments would make the president and CEO an ex officio member
+7 of the board of directors.
+8 This act would take effect upon passage and would apply retroactively to September 1,
+9 2023.
+========
+LC002860/SUB A
+========
+LC002860/SUB A - Page 13 of 13
+
+[DELETED: TATE  OF  RHODE  ISLAND S C f 2 A ( i i s ( ( f ( b ( p ( “ m a b c p f u a]
+[DELETED:  a ( ( ( d b t m t t b b e b g b c a g t h s a a i g d d h m s a d ( “ s c m a c e i l s r d t ( m b ( ( r l p e t t ( ( p ( “ m w l a c a w a p t b s g 2 ( h c a i p a p c f]
+[DELETED:  p R t g f a t h s b c a " a a a " ( c b a s t ( t i b p o a s e o a R I b l s c o h o h d s o s a q b u e S a o E d o i d s c t s a a i d w t n f r t]
+[DELETED:  p a ( o e b v e d t e c r A e b p ( a ( A q o t b i p e i p o b t u o r v ( r ( s p ( i r ( e ( d g]
+[DELETED:  w o I a c c a i m t a t g s g d c t a a i t o o p ( p s r t o t t T b s a e a s w s k a r o t p ( o o t h s s w c b e d s b e t r o o v ( t c m a ( a c (]
+[DELETED:  ( ( ( g d r b l i u c o w m I a i i ( a a s r ( p v a h e e ( T c c s p o q f t h f a a m ( a c e c o n l t t ( a n m t s ( d t o ( i a v s 2 T h s h t f p a a p n t c o a e]
+[DELETED:  t ( a ( b s p b c h a i h s a f t p ( a ( T o i c i b n l t d a o i t ( a a ( s g t ( p ( a p f t r d a a o s t p p s a u c a t t b o i o m e ( s j a e ( (]
+[DELETED:  a b o p e b p ( a ( i ( t d ( a ( a h l ( g a a p t a i a e o r o r i p f b i t t a f ( a c ( T a o i o b b b c d o o a]
+[DELETED:  ( e a s r a c a t h w f a a ( a ( A o s ( r s a ( o i t e a r a p o p ( s v h o s f ( t e]
+[DELETED:  ( p o r c c f t b o t h s t h c s ( ( a n ( d 2 ( t t a s o ( g o ( o a n P f ( p s w m a ( t]
+[DELETED:  S H 2 ( o i o t h a l c a w c t p o a e u s ( a p a s a 2 T c f t c f i 2 T p a b a o o b i p]
+[DELETED:  a a b 2 N ( p h t ( p t ( u ( g S 3 T a s t e u p a s a r t S]
+[DELETED:  T t a t s a a g u w i a s l e f t s T a t f o T 2]

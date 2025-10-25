@@ -1,0 +1,794 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- COMPOSTING AND ORGANIC
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- COMPOSTING AND ORGANIC
+Number of Sections: 1
+Source: versions - 5195
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5195
+========
+LC000424
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+WASTE DIVERSION
+Introduced By: Representatives Cortvriend, Carson, Boylan, Dawson, Speakman, Kislak,
+Handy, Bennett, and McGaw
+Date Introduced: January 24, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings.
+2 The general assembly finds and declares that:
+3 (1) Approximately one third of the material disposed of at the RI resource recovery central
+4 landfill is compostable;
+5 (2) The central landfill is estimated to be full by 2043;
+6 (3) Rhode Island has one of the lowest municipal landfill tipping fees in New England;
+7 (4) The general public is increasingly interested in diverting their food scraps;
+8 (5) Compost added to soil increases soil organic matter, in turn improving soil’s ability to
+9 sequester carbon, and reduces the need for synthetic nitrogen fertilizer, which can lead to reduced
+10 emissions associated with the production and use of nitrogen fertilizer;
+11 (6) Healthy agricultural soils sequester carbon and play a vital role in protecting our
+12 waterways and the climate, and ensuring crop yields and farm profitability;
+13 (7) Composting reduces greenhouse gas emissions, builds healthy soils, manages water
+14 runoff and quality, and builds local economies;
+15 (8) Enforcing a “Polluter Pays” principle via a surcharge on materials disposed is an
+16 effective way to encourage waste diversion and raise funds to support development and expansion
+17 of waste diversion programs and infrastructure;
+18 (9) Several other states have instituted disposal surcharges to fund waste diversion and
+1 litter abatement, including New Jersey, Pennsylvania, Indiana, Iowa, Minnesota, North Carolina,
+2 Ohio and Wisconsin; of these, Pennsylvania, Minnesota, and Wisconsin also fund other
+3 environmental programs from disposal surcharges;
+4 (10) Whole or pulverized shell has high value as a raw material and does not degrade, and
+5 therefore, should not be disposed of in a landfill, but recycled or recovered from trash and reused;
+6 (11) Reducing wasted food and increasing composting is in line with the goals of Rhode
+7 Island’s 2021 Act on Climate.
+8 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+9 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+10 CHAPTER 6.3
+11 COMPOSTING AND ORGANIC WASTE DIVERSION
+12 42-6.3-1. Short title.
+13 This chapter shall be known and may be cited as the "Composting and Organic Waste
+14 Diversion."
+15 42-6.3-2. Purpose.
+16 (a) Establishing the compost fund as a special, nonlapsing fund; requiring interest earnings
+17 of the compost fund to be credited to the compost fund established pursuant to § 42-6.3-5.
+18 (b) Establishing the competitive composting and waste diversion grant fund ("CG fund")
+19 as a special, nonlapsing fund; requiring interest earnings of the competitive composting and waste
+20 diversion grant fund to be credited to the competitive composting and waste diversion grant fund.
+21 (c) Establishing the municipal waste diversion grant fund ("MG fund") as a special,
+22 nonlapsing fund, requiring interest earnings of the municipal waste diversion grant fund to be
+23 credited to the municipal waste diversion grant fund.
+24 (d) Establishing a solid waste disposal surcharge pursuant to the provisions of § 42-6-3-4,
+25 to be collected and transferred, on a quarterly basis, to the office of the general treasurer, by Rhode
+26 Island resource recovery corporation established pursuant to § 23-19-6, or other refuse disposal
+27 system in the state.
+28 (e) Requiring the office of the general treasurer, on an annual basis, to transfer solid waste
+29 disposal surcharge revenue to the compost fund, and specifying that solid waste disposal surcharge
+30 revenue in and originating from the compost fund may not revert to the general fund of the state.
+31 42-6.3-3. Definitions.
+32 As used in this chapter:
+33 (1) "Compost" means a stable organic product produced by a controlled aerobic
+34 decomposition process that can be used as a soil additive, fertilizer, growth media or other
+LC000424 - Page 2 of 12
+1 beneficial use.
+2 (2) "Composting" means the controlled aerobic biological decomposition of organic waste
+3 material resulting in compost.
+4 (3) "Composting facility" means buildings, grounds (such as a composting pad) and
+5 equipment dedicated to the manufacture of compost, and also includes stormwater control systems.
+6 (4) "Payor" means all entities required to pay the surcharge and can include any of the
+7 following:
+8 (i) Any individual or entity (e.g. municipally contracted waste haulers and privately
+9 contracted waste haulers) disposing of waste at a municipal drop-off site or transfer station; and
+10 (ii) Any individual or entity (e.g. municipally contracted waste haulers and privately
+11 contracted waste haulers) disposing of waste at the central landfill run by Rhode Island resource
+12 recovery corporation pursuant to the provisions of chapter 19 of title 23.
+13 (5) "Refuse disposal system" includes:
+14 (i) A solid waste transfer station;
+15 (ii) A landfill and/or landfill system; and
+16 (iii) Any other facility accepting mixed solid waste.
+17 (6) "Recycling" means any process in which recyclable materials are collected, separated,
+18 or processed and returned to the marketplace in the form of raw materials or products.
+19 (7) "Solid waste" means any discarded material destined for landfill disposal or other final
+20 disposal at a refuse disposal system. Solid waste does not include segregated or source-separated
+21 materials that are rescued, reused, recycled, or composted.
+22 42-6.3-4. Solid waste disposal surcharge.
+23 (a) There is hereby established a solid waste disposal surcharge to be paid by each payor
+24 and collected by the owner or operator of each refuse disposal facility in the state.
+25 (b)(1) The solid waste disposal surcharge shall be two dollars ($2.00) per ton of solid waste
+26 processed by a refuse disposal system.
+27 (2) On or before January 1, 2031, and every five (5) years thereafter, the department of
+28 environmental management shall adjust the solid waste disposal surcharge to the greater of:
+29 (i) The changes in the consumer price index for the New England region; or
+30 (ii) Twenty (20%) percent.
+31 (c) The surcharge may only be assessed once on a load of solid waste destined for final
+32 disposal.
+33 (1) If the surcharge is assessed on a load of solid waste before its final disposal destination
+34 (e.g. at a municipal drop off site or transfer station), that assessed value shall be accounted for and
+LC000424 - Page 3 of 12
+1 then collected once it reaches the final destination.
+2 (2) Every solid waste hauler or collector is authorized to collect rates, fees, or surcharges
+3 from solid waste generators serviced by the solid waste hauler or collector only up to the amount
+4 sufficient to recover the surcharge collected by the owner or operator of a refuse disposal system.
+5 (d)(1) The office of the general treasurer shall receive the solid waste disposal surcharge
+6 assessed under this section and deposit the revenue into the compost fund.
+7 (i) Beginning January 1, 2026, on a quarterly basis, Rhode Island resource recovery
+8 corporation or the owner/operator of other refuse disposal systems in the state shall complete and
+9 submit, under oath, a return and transfer the solid waste disposal surcharge to the office of the
+10 general treasurer.
+11 (ii) The return shall include information on the number of tons of solid waste accepted for
+12 disposal, transfer, or collection, as appropriate, during the reporting period.
+13 42-6.3-5. Compost fund.
+14 (a) The compost fund is hereby established under the jurisdiction of the department of
+15 environmental management.
+16 (b) The purpose of the compost fund is to provide funding to the department of
+17 environmental management to award grants to assist with the costs of developing, implementing,
+18 or expanding equipment, infrastructure, and education relating to:
+19 (1) Reducing the amount of solid waste generated in the state;
+20 (2) Surplus food rescue;
+21 (3) Shell recovery and waste shell diversion;
+22 (4) Compost production and compost use; and
+23 (5) Minimizing illegal dumping.
+24 (c) The office of the general treasurer shall administer the fund.
+25 (d)(1) The compost fund is a special, nonlapsing fund.
+26 (2) The office of the general treasurer shall hold the compost fund separately, and the
+27 department of environmental management shall account for expenditures and disbursements from
+28 the compost fund.
+29 (3) The compost fund shall be administered by the office of the general treasurer in
+30 accordance with the same laws and fiscal procedures as the general funds of the state.
+31 (4) Interest earnings of the compost fund shall be credited to the compost fund.
+32 (e) The compost fund consists of:
+33 (1) The solid waste disposal surcharge revenue deposited into the compost fund;
+34 (2) Money appropriated in the state budget to the compost fund;
+LC000424 - Page 4 of 12
+1 (3) Interest earnings;
+2 (4) Sums recovered by any action brought to recover funds owed pursuant to the provisions
+3 of this chapter or any penalties and recovery pursuant to § 25-18.9-10; and
+4 (5) Any other money from any other source accepted for the benefit of the compost fund.
+5 (f)(1) The compost fund may be used only to:
+6 (i) Provide the funding necessary to award grants under both the competitive composting
+7 and waste diversion grant fund and municipal waste diversion grant fund; and
+8 (ii) Cover the reasonable administrative costs of the compost fund and the grant programs.
+9 (2) Up to five percent (5%) of the estimated annual solid waste surcharge revenue may be
+10 used to cover reasonable administrative costs.
+11 (3) On an annual basis, after covering reasonable administrative costs, the department of
+12 environmental management shall use:
+13 (i) Fifty percent (50%) of the money in the compost fund for the competitive composting
+14 and waste diversion grant fund pursuant to the provisions of § 42-6.3-6; and
+15 (ii) Fifty percent (50%) of the money in the fund for the municipal waste diversion grant
+16 fund pursuant to the provisions of § 42-6.3-7.
+17 42-6.3-6. Competitive composting and waste diversion grant fund.
+18 (a) There is hereby established a competitive composting and waste diversion grant fund
+19 ("CG fund").
+20 (b) The purpose of the CG fund is to award grants to eligible entities to assist with the costs
+21 of developing and implementing compost production, compost use, and waste diversion efforts.
+22 (c) The director of the department of environmental management shall administer the
+23 expenditures and disbursements of the CG fund.
+24 (d)(1) The CG fund is a special, nonlapsing fund.
+25 (2) The office of the general treasurer shall hold the CG fund separately, and the department
+26 of environmental management shall account for the expenditures and disbursements of the CG
+27 fund.
+28 (e) The CG fund consists of:
+29 (1) The solid waste disposal surcharge revenue transferred to the CG fund;
+30 (2) Money appropriated in the state budget to the CG fund;
+31 (3) Interest earnings; and
+32 (4) Any other money from any other source accepted for the benefit of the CG fund.
+33 (f) The CG fund may be used only to award grants to eligible entities to assist with:
+34 (1) The costs of developing and implementing compost production and compost use
+LC000424 - Page 5 of 12
+1 projects, including the costs of:
+2 (i) Purchasing compost and equipment for compost application;
+3 (ii) Equipment and infrastructure in support of compost processing and production;
+4 (iii) Composting materials generated on-site or off-site, including animal manure generated
+5 on-site and food scraps generated off-site;
+6 (iv) Compost management training under a program offered by the University of Rhode
+7 Island Cooperative Extension, the U.S. Composting Council, or other appropriate entity;
+8 (v) Compost testing equipment or submitting compost samples for testing to a laboratory
+9 with appropriate expertise;
+10 (vi) Quantifying the benefits of compost application to soil health and carbon sequestration;
+11 (vii) Studying impacts of compost application on nutrient and water quality management
+12 to inform relevant regulations;
+13 (viii) Researching and developing new compost treatments or products that will benefit or
+14 inform compost use;
+15 (ix) Consulting with a nutrient management specialist or other consultant; and
+16 (x) Registering compost for sale within the state and/or with the U.S. Composting
+17 Council’s Seal of Testing Assurance Program.
+18 (2) The costs of developing and implementing activities that advance food waste
+19 prevention, food rescue and recovery, or composting, as well as minimize illegal dumping in the
+20 state, including the costs of:
+21 (i) Encouraging source-separation of uncontaminated materials;
+22 (ii) Providing education and technical assistance to public and private entities, including
+23 small haulers, to:
+24 (A) Advance food waste prevention, recovery, or composting; and
+25 (B) Minimize illegal dumping;
+26 (iii) Collecting and composting source-separated compostable materials;
+27 (iv) Enabling restaurants, multifamily housing property managers, small haulers, and other
+28 small businesses to develop, maintain, or expand programs and procure necessary equipment for
+29 waste diversion and to minimize illegal dumping; and
+30 (v) Developing, maintaining, or expanding measures that address and minimize illegal
+31 dumping, including measures relating to:
+32 (A) Community and river clean-ups and campaigns;
+33 (B) Training and resources for small haulers;
+34 (C) Drop-off recycling receptacles;
+LC000424 - Page 6 of 12
+1 (D) Resource recycling centers that accept a wide range of materials; and
+2 (E) Alternatives to single-use plastics and other single-use products.
+3 (g) The department of environmental management shall ensure that grants awarded under
+4 this subsection are awarded equitably among:
+5 (1) Activities relating to food waste prevention, food rescue and recovery, composting, and
+6 minimizing illegal dumping; and
+7 (2) Projects that present a diverse and distributed infrastructure in which small- and
+8 medium-sized projects are well represented; and
+9 (3) Projects that support the entry, growth, and/or sustainability of low-income, socially
+10 disadvantaged, beginning, small, women, and veteran organizations and businesses.
+11 (h) Interest earnings of the CG fund shall be credited to the CG fund.
+12 (i) An eligible entity may apply for a grant from the CG fund.
+13 (1) "Eligible entity" means:
+14 (i) A conservation district;
+15 (ii) A local education agency;
+16 (iii) An institution of higher education;
+17 (iv) A nonprofit organization;
+18 (v) A farmer, including a small farmer, urban farmer, aquaculture farmer, or a rancher; or
+19 (vi) A business that is:
+20 (A) Operating in the state in good standing; and
+21 (B) Intended to operate at a profit and return a profit to its owners; or
+22 (vii) A consortium of any of the entities identified in subsections (i)(1)(i) through (i)(1)(vii)
+23 of this subsection.
+24 (j) The department of environmental management shall establish grant application and
+25 reporting procedures.
+26 (i) The grant application procedures shall include:
+27 (A) A process for facilitating participation of eligible entities with limited resources;
+28 (B) A simple common application format;
+29 (C) A process for authorizing eligible entities to use the entity's standard annual report and
+30 "letter of interest" to meet application requirements;
+31 (D) A process for submitting applications in writing and through video and audio formats;
+32 and
+33 (E) Translation services for applicants to overcome language barriers in the application
+34 process.
+LC000424 - Page 7 of 12
+1 (ii) The grant reporting procedures shall include:
+2 (A) A process for facilitating participation of eligible entities with limited resources;
+3 (B) A simple common reporting format; and
+4 (C) A process for authorizing eligible entities to use the entity’s standard annual report to
+5 meet reporting requirements.
+6 (2) The grant reports shall include:
+7 (i) A description of all grant-funded activities;
+8 (ii) If applicable, amount of compost generated and/or utilized;
+9 (iii) If applicable, amount and types of materials diverted from disposal; and
+10 (iv) If applicable, any discernible impacts on:
+11 (A) Soil health;
+12 (B) Community resilience and sustainability;
+13 (C) Job creation and other economic benefits;
+14 (D) Waste prevention and diversion;
+15 (E) Illegal dumping.
+16 (k) In awarding grants under this section, the department of environmental management
+17 shall give priority for projects that meet one or more of the following:
+18 (1) For which an applicant clearly describes the project and goals, including a description
+19 of how the project will support compost production or compost use, advance food waste prevention,
+20 food rescue and recovery, or composting, as well as minimize illegal dumping in the state;
+21 (2) For which an applicant clearly describes how the project will provide direct,
+22 meaningful, and assured benefits to the community and address important community needs;
+23 (3) That divert organic waste from refuse disposal facilities to instead be composted
+24 locally, and where the resulting compost is returned to soil within the state to support food
+25 production;
+26 (4) That are based on a distributed infrastructure strategy that incorporate small- or
+27 medium-sized activities to include, but not limited to, home or on-site composting programs;
+28 (5) That involve the construction, renovation, or expansion of sites to increase in-state
+29 infrastructure for food waste prevention, food rescue and recovery, or composting in the state;
+30 (6) That minimize negative impacts and maximize benefits to the local community,
+31 including jobs created for the community, job training, or support for hiring and leadership
+32 development practices that are inclusive and provide living wages;
+33 (7) That incorporate components of food waste prevention, food rescue and recovery, or
+34 composting of any debris collected as part of illegal dumping clean up and mitigation projects;
+LC000424 - Page 8 of 12
+1 (8) For which an applicant demonstrates knowledge of best practices in the field and how
+2 to incorporate those best practices in the project;
+3 (9) That are led by low-income, socially disadvantaged, beginning, small, women, or
+4 veteran entities, organizations, and businesses.
+5 (10) That serve a low-income or socially disadvantaged community; and
+6 (11) That engage small or diverse farming operations.
+7 42-6.3-7. Municipal waste diversion grant fund.
+8 (a) There is hereby established a municipal waste diversion grant fund ("MG fund").
+9 (b) The MG fund shall consist of:
+10 (1) The solid waste disposal surcharge revenue transferred to the MG fund;
+11 (2) Money appropriated in the state budget to the fund; and
+12 (3) Any other money from any other source accepted for the benefit of the fund.
+13 (c) The office of the general treasurer shall administer the MG fund.
+14 (d)(1) The MG fund is a special, nonlapsing fund.
+15 (2) The office of the general treasurer shall hold the MG fund separately, and the
+16 department of environmental management shall account for the expenditures and disbursements of
+17 the MG fund.
+18 (e) The solid waste disposal surcharge revenue transferred to the MG fund may not revert
+19 to the general fund of the state.
+20 42-6.3-8. Municipal waste diversion grants.
+21 (a) In accordance with the state budget, the municipal waste diversion grant fund shall be
+22 used only to provide public grants to municipalities to be used by the municipalities for developing
+23 and implementing activities that advance food waste prevention, food rescue and recovery, or
+24 composting, as well as minimize illegal dumping in the state, including for:
+25 (1) Developing, maintaining, or expanding local food waste prevention, food rescue and
+26 recovery, or composting, as well as infrastructure that minimizes illegal dumping;
+27 (2) Encouraging source-separation of uncontaminated materials;
+28 (3) Providing education and technical assistance to public and private entities, including
+29 small haulers, to advance food waste prevention, food rescue and recovery, or composting, as well
+30 as minimize illegal dumping;
+31 (4) Collecting and composting source-separated compostable materials; and
+32 (5) Developing, maintaining, or expanding measures that address and minimize illegal
+33 dumping, including measures relating to:
+34 (i) Community and river clean-ups and campaigns;
+LC000424 - Page 9 of 12
+1 (ii) Training and resources for small haulers;
+2 (iii) Drop-off recycling receptacles;
+3 (iv) Solid waste recovery;
+4 (v) Resource recovery and/or recycling centers that accept a wide range of materials; and
+5 (vi) Alternatives to single-use plastics and other single-use products.
+6 (b) A municipality may apply for a grant under this section if the municipality has:
+7 (1) Created a separate account in its general fund to deposit the grant money; and
+8 (2) Established accounting procedures to ensure that grant money in the separate account
+9 is spent only in accordance with this section.
+10 (c) Municipal grants shall be distributed proportionally to eligible municipalities based on
+11 population.
+12 (d)(1) A municipality that is awarded a grant under this section shall submit a report at the
+13 end of each fiscal year on:
+14 (i) The activities undertaken under the grant to increase the municipality's proportion of
+15 waste diversion, including the specific activities relating to food waste prevention, food rescue and
+16 recovery, or composting;
+17 (ii) The activities undertaken under the grant to minimize illegal dumping; and
+18 (iii) The gains achieved in waste diversion practices and in addressing illegal dumping.
+19 (2) The report required under this section:
+20 (i) May be submitted electronically to the department of environmental management; and
+21 (ii) Shall be posted on the municipality's website.
+22 42-6.3-9. Reporting requirements.
+23 (a) On or before December 1, 2026 and annually thereafter, the department of
+24 environmental management, shall report to the general assembly on the grants awarded under the
+25 municipal waste diversion grant program and the competitive composting and waste diversion grant
+26 fund program.
+27 (2) The report shall include:
+28 (i) The number and types of grants awarded; and
+29 (ii) The impact of grant awards on:
+30 (1) Job creation and other benefits to the state;
+31 (2) Waste prevention and diversion; and
+32 (3) The quantity of compost utilized by farmers.
+33 (b) Beginning with the report due January 1, 2031, and every five (5) years thereafter, the
+34 department of environmental management shall include in the report an analysis on whether and to
+LC000424 - Page 10 of 12
+1 what extent an adjustment to the solid waste disposal surcharge provided pursuant to § 42-6.3-4 is
+2 recommended to further the purposes of this chapter.
+3 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC000424
+========
+LC000424 - Page 11 of 12
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- COMPOSTING AND ORGANIC
+WASTE DIVERSION
+***
+1 This act would establish the compost fund to provide funding to the department of
+2 environmental management to award grants to assist with the costs of developing, implementing,
+3 expanding equipment, infrastructure, and education relating to reducing the amount of solid waste
+4 generated in the state. The office of the general treasurer would administer the fund.
+5 This act would take effect on January 1, 2026.
+========
+LC000424
+========
+LC000424 - Page 12 of 12
+[DELETED: TATE  OF  RHODE  ISLAND S T ( l ( ( ( ( s e ( H a a a v i o w ( r ( e o (]
+[DELETED:  l O a W o t P M a W a f o e ( t ( I S 2 T 4 o t G L e " A A G C C 4 T D 4 ( o ( a d ( E t m w d g f ( f a a s n c ( t I s ( d r 4 A ( " m a s o p p b a c a d p t c b u a a s a f g m o o]
+[DELETED:  b ( m ( " f m b g ( a a c p a e ( f ( A i o e ( m c w h a p c ( A i o e ( m c w h a p c r ( ( ( ( ( o ( d m 4 ( a ( p ( e ( ( ( d ( (]
+[DELETED:  t ( f s ( a ( B J 1 2 o a q b R I r r c s g ( d 4 ( e ( T p o t c f i t p f t t d o e o ( ( ( ( ( ( ( ( d t ( T c f s b a b t o o t g t i a ( ( ( (]
+[DELETED:  ( ( o ( ( ( a ( ( u ( e ( a ( f 4 ( ( ( o ( e ( ( o f ( ( ( ( ( ( ( T c o d a i c p a c u]
+[DELETED:  p ( ( ( o ( I ( w ( ( t ( i ( ( R c f s w t s a w t U C C ( T c o d a i a t a f w p s ( ( s ( ( ( ( s w ( d ( ( (]
+[DELETED:  ( ( ( t ( m ( P t p a d a d i i w s a m ( d ( ( ( ( ( ( ( ( ( ( ( ( o ( r ( ( ( ( " ( a ( p]
+[DELETED:  ( ( ( ( m ( ( ( ( ( ( ( ( ( ( ( s ( o f ( F w a a c d h t p w p d m ( T d o w f r d f t i b c l a w t r c i r t s w t s t s f p ( T a b o a d i s t i s o m ( i ( T m n i a m b t t l c i j c f t c j t o s f h a l d ( c]
+[DELETED:  ( t ( a b l s d b s w o v ( ( 4 ( ( ( ( ( ( ( ( T o o t g t s h t M f s a t d t ( t 4 ( u a c ( r ( ( s a ( ( d (]
+[DELETED:  ( ( ( ( ( ( ( ( i ( p ( e ( w r ( ( ( ( ( 4 ( O o b D 1 2 a a t t d o e m f ( ( ( ( ( ( ( d]
+[DELETED:  w r S]
+[DELETED:  T a w e t c f t p f t t d o e e g T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5195
+========
+LC000424
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- COMPOSTING AND ORGANIC
+WASTE DIVERSION
+Introduced By: Representatives Cortvriend, Carson, Boylan, Dawson, Speakman, Kislak,
+Handy, Bennett, and McGaw
+Date Introduced: January 24, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings.
+2 The general assembly finds and declares that:
+3 (1) Approximately one third of the material disposed of at the RI resource recovery central
+4 landfill is compostable;
+5 (2) The central landfill is estimated to be full by 2043;
+6 (3) Rhode Island has one of the lowest municipal landfill tipping fees in New England;
+7 (4) The general public is increasingly interested in diverting their food scraps;
+8 (5) Compost added to soil increases soil organic matter, in turn improving soil’s ability to
+9 sequester carbon, and reduces the need for synthetic nitrogen fertilizer, which can lead to reduced
+10 emissions associated with the production and use of nitrogen fertilizer;
+11 (6) Healthy agricultural soils sequester carbon and play a vital role in protecting our
+12 waterways and the climate, and ensuring crop yields and farm profitability;
+13 (7) Composting reduces greenhouse gas emissions, builds healthy soils, manages water
+14 runoff and quality, and builds local economies;
+15 (8) Enforcing a “Polluter Pays” principle via a surcharge on materials disposed is an
+16 effective way to encourage waste diversion and raise funds to support development and expansion
+17 of waste diversion programs and infrastructure;
+18 (9) Several other states have instituted disposal surcharges to fund waste diversion and
+
+1 litter abatement, including New Jersey, Pennsylvania, Indiana, Iowa, Minnesota, North Carolina,
+2 Ohio and Wisconsin; of these, Pennsylvania, Minnesota, and Wisconsin also fund other
+3 environmental programs from disposal surcharges;
+4 (10) Whole or pulverized shell has high value as a raw material and does not degrade, and
+5 therefore, should not be disposed of in a landfill, but recycled or recovered from trash and reused;
+6 (11) Reducing wasted food and increasing composting is in line with the goals of Rhode
+7 Island’s 2021 Act on Climate.
+8 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+9 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+10 CHAPTER 6.3
+11 COMPOSTING AND ORGANIC WASTE DIVERSION
+12 42-6.3-1. Short title.
+13 This chapter shall be known and may be cited as the "Composting and Organic Waste
+14 Diversion."
+15 42-6.3-2. Purpose.
+16 (a) Establishing the compost fund as a special, nonlapsing fund; requiring interest earnings
+17 of the compost fund to be credited to the compost fund established pursuant to § 42-6.3-5.
+18 (b) Establishing the competitive composting and waste diversion grant fund ("CG fund")
+19 as a special, nonlapsing fund; requiring interest earnings of the competitive composting and waste
+20 diversion grant fund to be credited to the competitive composting and waste diversion grant fund.
+21 (c) Establishing the municipal waste diversion grant fund ("MG fund") as a special,
+22 nonlapsing fund, requiring interest earnings of the municipal waste diversion grant fund to be
+23 credited to the municipal waste diversion grant fund.
+24 (d) Establishing a solid waste disposal surcharge pursuant to the provisions of § 42-6-3-4,
+25 to be collected and transferred, on a quarterly basis, to the office of the general treasurer, by Rhode
+26 Island resource recovery corporation established pursuant to § 23-19-6, or other refuse disposal
+27 system in the state.
+28 (e) Requiring the office of the general treasurer, on an annual basis, to transfer solid waste
+29 disposal surcharge revenue to the compost fund, and specifying that solid waste disposal surcharge
+30 revenue in and originating from the compost fund may not revert to the general fund of the state.
+31 42-6.3-3. Definitions.
+32 As used in this chapter:
+33 (1) "Compost" means a stable organic product produced by a controlled aerobic
+34 decomposition process that can be used as a soil additive, fertilizer, growth media or other
+LC000424 - Page 2 of 12
+
+1 beneficial use.
+2 (2) "Composting" means the controlled aerobic biological decomposition of organic waste
+3 material resulting in compost.
+4 (3) "Composting facility" means buildings, grounds (such as a composting pad) and
+5 equipment dedicated to the manufacture of compost, and also includes stormwater control systems.
+6 (4) "Payor" means all entities required to pay the surcharge and can include any of the
+7 following:
+8 (i) Any individual or entity (e.g. municipally contracted waste haulers and privately
+9 contracted waste haulers) disposing of waste at a municipal drop-off site or transfer station; and
+10 (ii) Any individual or entity (e.g. municipally contracted waste haulers and privately
+11 contracted waste haulers) disposing of waste at the central landfill run by Rhode Island resource
+12 recovery corporation pursuant to the provisions of chapter 19 of title 23.
+13 (5) "Refuse disposal system" includes:
+14 (i) A solid waste transfer station;
+15 (ii) A landfill and/or landfill system; and
+16 (iii) Any other facility accepting mixed solid waste.
+17 (6) "Recycling" means any process in which recyclable materials are collected, separated,
+18 or processed and returned to the marketplace in the form of raw materials or products.
+19 (7) "Solid waste" means any discarded material destined for landfill disposal or other final
+20 disposal at a refuse disposal system. Solid waste does not include segregated or source-separated
+21 materials that are rescued, reused, recycled, or composted.
+22 42-6.3-4. Solid waste disposal surcharge.
+23 (a) There is hereby established a solid waste disposal surcharge to be paid by each payor
+24 and collected by the owner or operator of each refuse disposal facility in the state.
+25 (b)(1) The solid waste disposal surcharge shall be two dollars ($2.00) per ton of solid waste
+26 processed by a refuse disposal system.
+27 (2) On or before January 1, 2031, and every five (5) years thereafter, the department of
+28 environmental management shall adjust the solid waste disposal surcharge to the greater of:
+29 (i) The changes in the consumer price index for the New England region; or
+30 (ii) Twenty (20%) percent.
+31 (c) The surcharge may only be assessed once on a load of solid waste destined for final
+32 disposal.
+33 (1) If the surcharge is assessed on a load of solid waste before its final disposal destination
+34 (e.g. at a municipal drop off site or transfer station), that assessed value shall be accounted for and
+LC000424 - Page 3 of 12
+
+1 then collected once it reaches the final destination.
+2 (2) Every solid waste hauler or collector is authorized to collect rates, fees, or surcharges
+3 from solid waste generators serviced by the solid waste hauler or collector only up to the amount
+4 sufficient to recover the surcharge collected by the owner or operator of a refuse disposal system.
+5 (d)(1) The office of the general treasurer shall receive the solid waste disposal surcharge
+6 assessed under this section and deposit the revenue into the compost fund.
+7 (i) Beginning January 1, 2026, on a quarterly basis, Rhode Island resource recovery
+8 corporation or the owner/operator of other refuse disposal systems in the state shall complete and
+9 submit, under oath, a return and transfer the solid waste disposal surcharge to the office of the
+10 general treasurer.
+11 (ii) The return shall include information on the number of tons of solid waste accepted for
+12 disposal, transfer, or collection, as appropriate, during the reporting period.
+13 42-6.3-5. Compost fund.
+14 (a) The compost fund is hereby established under the jurisdiction of the department of
+15 environmental management.
+16 (b) The purpose of the compost fund is to provide funding to the department of
+17 environmental management to award grants to assist with the costs of developing, implementing,
+18 or expanding equipment, infrastructure, and education relating to:
+19 (1) Reducing the amount of solid waste generated in the state;
+20 (2) Surplus food rescue;
+21 (3) Shell recovery and waste shell diversion;
+22 (4) Compost production and compost use; and
+23 (5) Minimizing illegal dumping.
+24 (c) The office of the general treasurer shall administer the fund.
+25 (d)(1) The compost fund is a special, nonlapsing fund.
+26 (2) The office of the general treasurer shall hold the compost fund separately, and the
+27 department of environmental management shall account for expenditures and disbursements from
+28 the compost fund.
+29 (3) The compost fund shall be administered by the office of the general treasurer in
+30 accordance with the same laws and fiscal procedures as the general funds of the state.
+31 (4) Interest earnings of the compost fund shall be credited to the compost fund.
+32 (e) The compost fund consists of:
+33 (1) The solid waste disposal surcharge revenue deposited into the compost fund;
+34 (2) Money appropriated in the state budget to the compost fund;
+LC000424 - Page 4 of 12
+
+1 (3) Interest earnings;
+2 (4) Sums recovered by any action brought to recover funds owed pursuant to the provisions
+3 of this chapter or any penalties and recovery pursuant to § 25-18.9-10; and
+4 (5) Any other money from any other source accepted for the benefit of the compost fund.
+5 (f)(1) The compost fund may be used only to:
+6 (i) Provide the funding necessary to award grants under both the competitive composting
+7 and waste diversion grant fund and municipal waste diversion grant fund; and
+8 (ii) Cover the reasonable administrative costs of the compost fund and the grant programs.
+9 (2) Up to five percent (5%) of the estimated annual solid waste surcharge revenue may be
+10 used to cover reasonable administrative costs.
+11 (3) On an annual basis, after covering reasonable administrative costs, the department of
+12 environmental management shall use:
+13 (i) Fifty percent (50%) of the money in the compost fund for the competitive composting
+14 and waste diversion grant fund pursuant to the provisions of § 42-6.3-6; and
+15 (ii) Fifty percent (50%) of the money in the fund for the municipal waste diversion grant
+16 fund pursuant to the provisions of § 42-6.3-7.
+17 42-6.3-6. Competitive composting and waste diversion grant fund.
+18 (a) There is hereby established a competitive composting and waste diversion grant fund
+19 ("CG fund").
+20 (b) The purpose of the CG fund is to award grants to eligible entities to assist with the costs
+21 of developing and implementing compost production, compost use, and waste diversion efforts.
+22 (c) The director of the department of environmental management shall administer the
+23 expenditures and disbursements of the CG fund.
+24 (d)(1) The CG fund is a special, nonlapsing fund.
+25 (2) The office of the general treasurer shall hold the CG fund separately, and the department
+26 of environmental management shall account for the expenditures and disbursements of the CG
+27 fund.
+28 (e) The CG fund consists of:
+29 (1) The solid waste disposal surcharge revenue transferred to the CG fund;
+30 (2) Money appropriated in the state budget to the CG fund;
+31 (3) Interest earnings; and
+32 (4) Any other money from any other source accepted for the benefit of the CG fund.
+33 (f) The CG fund may be used only to award grants to eligible entities to assist with:
+34 (1) The costs of developing and implementing compost production and compost use
+LC000424 - Page 5 of 12
+
+1 projects, including the costs of:
+2 (i) Purchasing compost and equipment for compost application;
+3 (ii) Equipment and infrastructure in support of compost processing and production;
+4 (iii) Composting materials generated on-site or off-site, including animal manure generated
+5 on-site and food scraps generated off-site;
+6 (iv) Compost management training under a program offered by the University of Rhode
+7 Island Cooperative Extension, the U.S. Composting Council, or other appropriate entity;
+8 (v) Compost testing equipment or submitting compost samples for testing to a laboratory
+9 with appropriate expertise;
+10 (vi) Quantifying the benefits of compost application to soil health and carbon sequestration;
+11 (vii) Studying impacts of compost application on nutrient and water quality management
+12 to inform relevant regulations;
+13 (viii) Researching and developing new compost treatments or products that will benefit or
+14 inform compost use;
+15 (ix) Consulting with a nutrient management specialist or other consultant; and
+16 (x) Registering compost for sale within the state and/or with the U.S. Composting
+17 Council’s Seal of Testing Assurance Program.
+18 (2) The costs of developing and implementing activities that advance food waste
+19 prevention, food rescue and recovery, or composting, as well as minimize illegal dumping in the
+20 state, including the costs of:
+21 (i) Encouraging source-separation of uncontaminated materials;
+22 (ii) Providing education and technical assistance to public and private entities, including
+23 small haulers, to:
+24 (A) Advance food waste prevention, recovery, or composting; and
+25 (B) Minimize illegal dumping;
+26 (iii) Collecting and composting source-separated compostable materials;
+27 (iv) Enabling restaurants, multifamily housing property managers, small haulers, and other
+28 small businesses to develop, maintain, or expand programs and procure necessary equipment for
+29 waste diversion and to minimize illegal dumping; and
+30 (v) Developing, maintaining, or expanding measures that address and minimize illegal
+31 dumping, including measures relating to:
+32 (A) Community and river clean-ups and campaigns;
+33 (B) Training and resources for small haulers;
+34 (C) Drop-off recycling receptacles;
+LC000424 - Page 6 of 12
+
+1 (D) Resource recycling centers that accept a wide range of materials; and
+2 (E) Alternatives to single-use plastics and other single-use products.
+3 (g) The department of environmental management shall ensure that grants awarded under
+4 this subsection are awarded equitably among:
+5 (1) Activities relating to food waste prevention, food rescue and recovery, composting, and
+6 minimizing illegal dumping; and
+7 (2) Projects that present a diverse and distributed infrastructure in which small- and
+8 medium-sized projects are well represented; and
+9 (3) Projects that support the entry, growth, and/or sustainability of low-income, socially
+10 disadvantaged, beginning, small, women, and veteran organizations and businesses.
+11 (h) Interest earnings of the CG fund shall be credited to the CG fund.
+12 (i) An eligible entity may apply for a grant from the CG fund.
+13 (1) "Eligible entity" means:
+14 (i) A conservation district;
+15 (ii) A local education agency;
+16 (iii) An institution of higher education;
+17 (iv) A nonprofit organization;
+18 (v) A farmer, including a small farmer, urban farmer, aquaculture farmer, or a rancher; or
+19 (vi) A business that is:
+20 (A) Operating in the state in good standing; and
+21 (B) Intended to operate at a profit and return a profit to its owners; or
+22 (vii) A consortium of any of the entities identified in subsections (i)(1)(i) through (i)(1)(vii)
+23 of this subsection.
+24 (j) The department of environmental management shall establish grant application and
+25 reporting procedures.
+26 (i) The grant application procedures shall include:
+27 (A) A process for facilitating participation of eligible entities with limited resources;
+28 (B) A simple common application format;
+29 (C) A process for authorizing eligible entities to use the entity's standard annual report and
+30 "letter of interest" to meet application requirements;
+31 (D) A process for submitting applications in writing and through video and audio formats;
+32 and
+33 (E) Translation services for applicants to overcome language barriers in the application
+34 process.
+LC000424 - Page 7 of 12
+
+1 (ii) The grant reporting procedures shall include:
+2 (A) A process for facilitating participation of eligible entities with limited resources;
+3 (B) A simple common reporting format; and
+4 (C) A process for authorizing eligible entities to use the entity’s standard annual report to
+5 meet reporting requirements.
+6 (2) The grant reports shall include:
+7 (i) A description of all grant-funded activities;
+8 (ii) If applicable, amount of compost generated and/or utilized;
+9 (iii) If applicable, amount and types of materials diverted from disposal; and
+10 (iv) If applicable, any discernible impacts on:
+11 (A) Soil health;
+12 (B) Community resilience and sustainability;
+13 (C) Job creation and other economic benefits;
+14 (D) Waste prevention and diversion;
+15 (E) Illegal dumping.
+16 (k) In awarding grants under this section, the department of environmental management
+17 shall give priority for projects that meet one or more of the following:
+18 (1) For which an applicant clearly describes the project and goals, including a description
+19 of how the project will support compost production or compost use, advance food waste prevention,
+20 food rescue and recovery, or composting, as well as minimize illegal dumping in the state;
+21 (2) For which an applicant clearly describes how the project will provide direct,
+22 meaningful, and assured benefits to the community and address important community needs;
+23 (3) That divert organic waste from refuse disposal facilities to instead be composted
+24 locally, and where the resulting compost is returned to soil within the state to support food
+25 production;
+26 (4) That are based on a distributed infrastructure strategy that incorporate small- or
+27 medium-sized activities to include, but not limited to, home or on-site composting programs;
+28 (5) That involve the construction, renovation, or expansion of sites to increase in-state
+29 infrastructure for food waste prevention, food rescue and recovery, or composting in the state;
+30 (6) That minimize negative impacts and maximize benefits to the local community,
+31 including jobs created for the community, job training, or support for hiring and leadership
+32 development practices that are inclusive and provide living wages;
+33 (7) That incorporate components of food waste prevention, food rescue and recovery, or
+34 composting of any debris collected as part of illegal dumping clean up and mitigation projects;
+LC000424 - Page 8 of 12
+
+1 (8) For which an applicant demonstrates knowledge of best practices in the field and how
+2 to incorporate those best practices in the project;
+3 (9) That are led by low-income, socially disadvantaged, beginning, small, women, or
+4 veteran entities, organizations, and businesses.
+5 (10) That serve a low-income or socially disadvantaged community; and
+6 (11) That engage small or diverse farming operations.
+7 42-6.3-7. Municipal waste diversion grant fund.
+8 (a) There is hereby established a municipal waste diversion grant fund ("MG fund").
+9 (b) The MG fund shall consist of:
+10 (1) The solid waste disposal surcharge revenue transferred to the MG fund;
+11 (2) Money appropriated in the state budget to the fund; and
+12 (3) Any other money from any other source accepted for the benefit of the fund.
+13 (c) The office of the general treasurer shall administer the MG fund.
+14 (d)(1) The MG fund is a special, nonlapsing fund.
+15 (2) The office of the general treasurer shall hold the MG fund separately, and the
+16 department of environmental management shall account for the expenditures and disbursements of
+17 the MG fund.
+18 (e) The solid waste disposal surcharge revenue transferred to the MG fund may not revert
+19 to the general fund of the state.
+20 42-6.3-8. Municipal waste diversion grants.
+21 (a) In accordance with the state budget, the municipal waste diversion grant fund shall be
+22 used only to provide public grants to municipalities to be used by the municipalities for developing
+23 and implementing activities that advance food waste prevention, food rescue and recovery, or
+24 composting, as well as minimize illegal dumping in the state, including for:
+25 (1) Developing, maintaining, or expanding local food waste prevention, food rescue and
+26 recovery, or composting, as well as infrastructure that minimizes illegal dumping;
+27 (2) Encouraging source-separation of uncontaminated materials;
+28 (3) Providing education and technical assistance to public and private entities, including
+29 small haulers, to advance food waste prevention, food rescue and recovery, or composting, as well
+30 as minimize illegal dumping;
+31 (4) Collecting and composting source-separated compostable materials; and
+32 (5) Developing, maintaining, or expanding measures that address and minimize illegal
+33 dumping, including measures relating to:
+34 (i) Community and river clean-ups and campaigns;
+LC000424 - Page 9 of 12
+
+1 (ii) Training and resources for small haulers;
+2 (iii) Drop-off recycling receptacles;
+3 (iv) Solid waste recovery;
+4 (v) Resource recovery and/or recycling centers that accept a wide range of materials; and
+5 (vi) Alternatives to single-use plastics and other single-use products.
+6 (b) A municipality may apply for a grant under this section if the municipality has:
+7 (1) Created a separate account in its general fund to deposit the grant money; and
+8 (2) Established accounting procedures to ensure that grant money in the separate account
+9 is spent only in accordance with this section.
+10 (c) Municipal grants shall be distributed proportionally to eligible municipalities based on
+11 population.
+12 (d)(1) A municipality that is awarded a grant under this section shall submit a report at the
+13 end of each fiscal year on:
+14 (i) The activities undertaken under the grant to increase the municipality's proportion of
+15 waste diversion, including the specific activities relating to food waste prevention, food rescue and
+16 recovery, or composting;
+17 (ii) The activities undertaken under the grant to minimize illegal dumping; and
+18 (iii) The gains achieved in waste diversion practices and in addressing illegal dumping.
+19 (2) The report required under this section:
+20 (i) May be submitted electronically to the department of environmental management; and
+21 (ii) Shall be posted on the municipality's website.
+22 42-6.3-9. Reporting requirements.
+23 (a) On or before December 1, 2026 and annually thereafter, the department of
+24 environmental management, shall report to the general assembly on the grants awarded under the
+25 municipal waste diversion grant program and the competitive composting and waste diversion grant
+26 fund program.
+27 (2) The report shall include:
+28 (i) The number and types of grants awarded; and
+29 (ii) The impact of grant awards on:
+30 (1) Job creation and other benefits to the state;
+31 (2) Waste prevention and diversion; and
+32 (3) The quantity of compost utilized by farmers.
+33 (b) Beginning with the report due January 1, 2031, and every five (5) years thereafter, the
+34 department of environmental management shall include in the report an analysis on whether and to
+LC000424 - Page 10 of 12
+
+1 what extent an adjustment to the solid waste disposal surcharge provided pursuant to § 42-6.3-4 is
+2 recommended to further the purposes of this chapter.
+3 SECTION 3. This act shall take effect on January 1, 2026.
+========
+LC000424
+========
+LC000424 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- COMPOSTING AND ORGANIC
+WASTE DIVERSION
+***
+1 This act would establish the compost fund to provide funding to the department of
+2 environmental management to award grants to assist with the costs of developing, implementing,
+3 expanding equipment, infrastructure, and education relating to reducing the amount of solid waste
+4 generated in the state. The office of the general treasurer would administer the fund.
+5 This act would take effect on January 1, 2026.
+========
+LC000424
+========
+LC000424 - Page 12 of 12
+
+[DELETED: TATE  OF  RHODE  ISLAND S T ( l ( ( ( ( s e ( H a a a v i o w ( r ( e o (]
+[DELETED:  l O a W o t P M a W a f o e ( t ( I S 2 T 4 o t G L e " A A G C C 4 T D 4 ( o ( a d ( E t m w d g f ( f a a s n c ( t I s ( d r 4 A ( " m a s o p p b a c a d p t c b u a a s a f g m o o]
+[DELETED:  b ( m ( " f m b g ( a a c p a e ( f ( A i o e ( m c w h a p c ( A i o e ( m c w h a p c r ( ( ( ( ( o ( d m 4 ( a ( p ( e ( ( ( d ( (]
+[DELETED:  t ( f s ( a ( B J 1 2 o a q b R I r r c s g ( d 4 ( e ( T p o t c f i t p f t t d o e o ( ( ( ( ( ( ( ( d t ( T c f s b a b t o o t g t i a ( ( ( (]
+[DELETED:  ( ( o ( ( ( a ( ( u ( e ( a ( f 4 ( ( ( o ( e ( ( o f ( ( ( ( ( ( ( T c o d a i c p a c u]
+[DELETED:  p ( ( ( o ( I ( w ( ( t ( i ( ( R c f s w t s a w t U C C ( T c o d a i a t a f w p s ( ( s ( ( ( ( s w ( d ( ( (]
+[DELETED:  ( ( ( t ( m ( P t p a d a d i i w s a m ( d ( ( ( ( ( ( ( ( ( ( ( ( o ( r ( ( ( ( " ( a ( p]
+[DELETED:  ( ( ( ( m ( ( ( ( ( ( ( ( ( ( ( s ( o f ( F w a a c d h t p w p d m ( T d o w f r d f t i b c l a w t r c i r t s w t s t s f p ( T a b o a d i s t i s o m ( i ( T m n i a m b t t l c i j c f t c j t o s f h a l d ( c]
+[DELETED:  ( t ( a b l s d b s w o v ( ( 4 ( ( ( ( ( ( ( ( T o o t g t s h t M f s a t d t ( t 4 ( u a c ( r ( ( s a ( ( d (]
+[DELETED:  ( ( ( ( ( ( ( ( i ( p ( e ( w r ( ( ( ( ( 4 ( O o b D 1 2 a a t t d o e m f ( ( ( ( ( ( ( d]
+[DELETED:  w r S]
+[DELETED:  T a w e t c f t p f t t d o e e g T]

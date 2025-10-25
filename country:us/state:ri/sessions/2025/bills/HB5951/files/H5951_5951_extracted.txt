@@ -1,0 +1,467 @@
+Title: RELATING TO MOTOR AND OTHER VEHICLES -- AUTOMATED SAFETY ZONE
+Official Title: RELATING TO MOTOR AND OTHER VEHICLES -- AUTOMATED SAFETY ZONE
+Number of Sections: 1
+Source: versions - 5951
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5951
+========
+LC002049
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SPEED ENFORCEMENT ACT OF 2025
+Introduced By: Representative Scott Slater
+Date Introduced: February 28, 2025
+Referred To: House Municipal Government & Housing
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 14.1
+4 AUTOMATED SAFETY ZONE SPEED ENFORCEMENT ACT OF 2025
+5 31-14.1-1. Short title.
+6 This chapter shall be known and may be cited as the "Automated Safety Zone Speed
+7 Enforcement Act of 2025".
+8 31-14.1-2. Purpose.
+9 This chapter enables municipalities to implement, subject to state and local approval,
+10 automated speed enforcement systems to designated safety zones outside of school zones, as
+11 defined in chapter 41.3 of title 31, in order to improve public safety and reduce traffic violations.
+12 31-14.1-3. Definitions.
+13 As used in this chapter:
+14 (1) "Automated safety zone speed enforcement system" means a device with sensors that
+15 works with speed measurement tools to record images of vehicles violating posted speed limits,
+16 including a system using one or more vehicle detectors in combination with photography to identify
+17 and provide a photographic image of vehicles which are exceeding the posted speed limit, or the
+18 speed limit designated by state law or regulation, for a given zone, and that may be in a fixed or
+1 mobile configuration.
+2 (2) "Safety zone" means one or more of the following located within a municipality:
+3 (i) High-traffic corridors or areas identified by traffic studies commissioned and by a
+4 municipality or the department of transportation;
+5 (ii) Pedestrian utilized areas, including without limitation, those near parks, playgrounds,
+6 transit hubs, or hospitals;
+7 (iii) Other areas with demonstrated safety concerns, as identified by a municipality or the
+8 state.
+9 31-14.1-4. Automated safety zone speed enforcement system authorized.
+10 Municipalities are hereby authorized to operate automated safety zone speed enforcement
+11 systems, provided that no speed enforcement system shall be operated in the state unless:
+12 (1) The system has been approved and certified for use by the director of the department
+13 of transportation;
+14 (2) A traffic study has been conducted by or on behalf of the municipality, and submitted
+15 to the director of the department of transportation for review and approval; and
+16 (3) The municipality has demonstrated, to the satisfaction of the director of the department
+17 of transportation, safety concerns in the proposed safety zone, including but not limited to, high
+18 collision rates, excessive speeding, or significant pedestrian activity as identified in the traffic
+19 study, and alignment with the municipality’s traffic safety objectives, as approved by the
+20 municipality’s police department.
+21 31-14.1-5. Public Notice and Signage.
+22 Municipalities must provide at least thirty (30) days' public notice before activating any
+23 automated safety zone speed enforcement system, including:
+24 (1) Announcements via local media outlets;
+25 (2) Clear signage no less than five hundred feet (500') before the enforcement area,
+26 indicating the presence of automated speed enforcement monitoring.
+27 31-14.1-6. Automated safety zone speed enforcement system operational
+28 requirements and certification.
+29 (a) No automated safety zone speed enforcement system shall be used in the state unless
+30 the system has been approved and certified for use by the director of the department of
+31 transportation. The director of the department of transportation, in cooperation with the state police,
+32 shall require that any automated safety zone speed enforcement system approved and certified for
+33 use meets the following requirements:
+34 (1) All automated safety zone speed enforcement systems operated under this chapter shall
+LC002049 - Page 2 of 7
+1 record the speed of vehicles within plus or minus one mile per hour of the actual speed.
+2 (2) All automated safety zone speed enforcement systems operated under this chapter shall
+3 record at least two (2) photographic images of the vehicle exceeding the speed limit, one of which
+4 shall include the license plate attached to the rear of the vehicle.
+5 (3) All automated safety zone speed enforcement systems operated under this chapter shall,
+6 at the time of violation, imprint upon the photographic images of vehicles exceeding the speed
+7 limit:
+8 (i) The date and time of the violation; and
+9 (ii) The identity of the street, and location upon that street, including the direction of travel
+10 and lane of travel; this requirement may be met with code designations; and
+11 (iii) The posted or lawfully designated speed limit for the street being monitored; and
+12 (iv) The monitored speed of the vehicle identified in the photographic images as exceeding
+13 the posted or lawfully designated safety zone speed limit; and
+14 (v) The consecutive event number of each photograph taken.
+15 (4) At least one hundred feet (100′) prior to entering a safety zone area where an automated
+16 safety zone speed enforcement system is being operated, and on each approach to that area, four
+17 (4) signs, each measuring three feet (3′) in height by four feet (4′) in width, shall be erected in
+18 locations where the view is unobstructed, warning motorists that they will be entering an area
+19 monitored by an automated safety zone enforcement system and that violators of speed limitations
+20 may be prosecuted.
+21 (b) In the event a fixed or mobile automated safety zone speed enforcement system is to be
+22 installed or used by any person other than the department of transportation or state police personnel
+23 on a state-maintained street, roadway or highway, the director of transportation shall approve
+24 installation or use of the system.
+25 31-14.1-7. Maintenance of system.
+26 The state department of transportation and municipalities may enter into an agreement with
+27 a private corporation or other entity to provide automated safety zone speed enforcement system
+28 equipment services and to maintain the system. A contract between a government agency and a
+29 manufacturer or supplier of an automated safety zone speed enforcement system shall be based on
+30 the value of such equipment and related support services and shall not be based on a percentage of
+31 the revenue generated by the automated safety zone speed enforcement system.
+32 31-14.1-8. Citation precedent.
+33 In the event a law enforcement officer stops and issues a citation to the driver of a vehicle
+34 for a speeding violation, which violation is also captured by an automated safety zone speed
+LC002049 - Page 3 of 7
+1 enforcement system, the citation issued to the driver by the law enforcement officer shall have and
+2 take precedence, and the automated safety zone speed enforcement system citation shall be
+3 dismissed.
+4 31-14.1-9. Hearings.
+5 Evidence from an automated safety zone speed enforcement system approved by the
+6 director of the department of transportation shall be considered substantive evidence in the
+7 prosecution of all civil traffic violations. Evidence from an automated safety zone speed
+8 enforcement system approved by the director of the department of transportation shall be admitted
+9 without further authentication and such evidence may be deemed sufficient to sustain a civil traffic
+10 violation. In addition to any other defenses as set forth herein, any defenses cognizable at law, with
+11 the exception of that available under § 31-41.1-7, shall be available to the individual who receives
+12 the citation commencing a prosecution under this chapter.
+13 31-14.1-10. Driver/registered owner liability.
+14 (a) The registered owner of the motor vehicle shall be primarily responsible in all
+15 prosecutions brought pursuant to the provisions of this chapter, except as otherwise provided in this
+16 section.
+17 (b) In all prosecutions of civil safety zone violations based on evidence obtained from an
+18 automated safety zone speed enforcement system, the registered owner of a vehicle which has been
+19 operated in violation of a civil traffic violation, may be liable for such violation. The registered
+20 owner of the vehicle may assume liability for the violation by paying the fine, or by defending the
+21 violation pursuant to the remedies available under the law.
+22 (c) The lessee of a leased vehicle shall be considered the owner of a motor vehicle for
+23 purposes of this section.
+24 31-14.1-11. Use of evidence in criminal and civil cases.
+25 Nothing in this chapter shall prohibit the use of evidence produced by an automated safety
+26 zone speed enforcement system in a criminal or civil proceeding; provided, that the admissibility
+27 of such evidence shall follow applicable laws and rules of procedure and rules of evidence which
+28 apply in criminal and civil proceedings.
+29 31-14.1-12. Nature of violations.
+30 Notwithstanding any other provision of law:
+31 (1) No violation for which a civil penalty is imposed under this chapter shall be considered
+32 a moving violation; nor shall it be included on the driving record of the person on whom the liability
+33 is imposed; nor shall it be used for insurance rating purposes in providing motor vehicle insurance
+34 coverage.
+LC002049 - Page 4 of 7
+1 (2) Impositions of a penalty pursuant to this chapter shall not be deemed a criminal
+2 conviction of an owner or operator.
+3 (3) The defense available under § 31-41.1-7 (application for dismissal based on good
+4 driving record) shall not be available for any violation imposed under this chapter.
+5 31-14.1-13. Security of records.
+6 (a) The recorded images produced by an automated safety zone speed enforcement system
+7 shall not be deemed "public records" subject to disclosure pursuant to § 38-2-2.
+8 (b) All recorded images that do not identify a violation shall be destroyed within ninety
+9 (90) days of the date the image was recorded, unless otherwise ordered by a court of competent
+10 jurisdiction.
+11 (c) All recorded images that identify a violation shall be destroyed within one year after
+12 the violation is resolved by administrative payment, trial, or other final disposition, unless
+13 otherwise ordered by a court of competent jurisdiction.
+14 (d) The privacy of records produced pursuant to this chapter shall be maintained; provided
+15 that aggregate data not containing personal identifying information may be released.
+16 31-14.1-14. Reports.
+17 The agency or municipality authorizing the installation of automated safety zone speed
+18 enforcement system shall prepare an annual report to be furnished to the director of the department
+19 of transportation, containing data on:
+20 (1) The number of citations issued at each particular safety zone;
+21 (2) The number of those violations paid by mail and online;
+22 (3) The number of those violations found after trial or hearing;
+23 (4) The number of violations dismissed after trial or hearing;
+24 (5) The number of accidents at each safety zone;
+25 (6) A description as to the type of accident;
+26 (7) An indication regarding whether there were any injuries involved in any accident
+27 reported;
+28 (8) The cost to maintain the automated safety zone speed enforcement system; and
+29 (9) The amount of revenue obtained from the automated safety zone speed enforcement
+30 system.
+31 31-14.1-15. Penalties.
+32 (a) Every person found to have violated the provisions of this chapter shall be fined fifty
+33 dollars ($50.00) for each offense; provided, however that for a period of thirty (30) days following
+34 the installation of any new automated safety zone speed enforcement system, a violation recorded
+LC002049 - Page 5 of 7
+1 by the system shall only be enforced by the issuance of a warning.
+2 (b) A violation of this chapter shall not be considered a moving violation for purposes of
+3 the motorist’s driving record.
+4 (c) Every three (3) years from the date of the motorist’s first offense under this chapter, the
+5 court shall expunge any automated safety zone speed enforcement violations during the preceding
+6 three-year (3) period.
+7 31-14.1-16. Suspension for failure to pay fine.
+8 (a) In the event a person has failed to pay fines or costs imposed for a violation of any
+9 provision of this chapter within the time period established by the municipality or has failed to
+10 make satisfactory arrangements with the municipality for payment of such fines or costs, the
+11 division of motor vehicles shall, upon certification of the foregoing from the municipal police
+12 department of the city or town where the violation occurred and notice to the person, suspend the
+13 license of a person to operate a motor vehicle.
+14 (b) Prior to suspension, a person shall be entitled to request a review with the municipality
+15 regarding his or her ability to pay by submitting a request to the municipal police department, which
+16 shall evaluate the request and may establish a payment plan or alternative arrangements consistent
+17 with the municipality’s policies.
+18 (c) The suspension shall remain in effect until all fines or costs are paid to the municipality
+19 or satisfactory arrangements have been made with the municipality for payment.
+20 31-14.1-17. Not applicable to school zones.
+21 This chapter does not apply to automated school zone speed enforcement systems, which
+22 are governed by chapter 41.3 of title 31 (the Automated School-Zone-Speed-Enforcement System
+23 Act of 2016).
+24 SECTION 2. This act shall take effect upon passage.
+========
+LC002049
+========
+LC002049 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- AUTOMATED SAFETY ZONE
+SPEED ENFORCEMENT ACT OF 2025
+***
+1 This act would enable cities and towns to expand the use of automated speed enforcement
+2 systems in Rhode Island to designated safety zones, excluding school zones.
+3 This act would take effect upon passage.
+========
+LC002049
+========
+LC002049 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND S i C A 3 T E 3 T c m t i s a a s e s t d s z o o s z a d 3 A ( w i a s]
+[DELETED:  m ( ( m ( t ( s 3 M s ( o ( t ( o c s a a w t m t s o a a b t m 3 M a ( ( C s n l t f h f ( b t e a i 3 A s z s e s o r ( t s h b a a c f u b t d o t d o t s u (]
+[DELETED:  r ( r s ( a l ( ( a ( ( t ( ( s ( l m m ( i o i 3 T a e m t t 3 I f]
+[DELETED:  e t p a t a s z s e s c s b d 3 E f a a s z s e s a b t d o t d o t s b c s e i t p o a c t v E f a a s z s e w v t t 3 ( T r o o t m v s b p r i a p s ( a o o v ( p 3 N z o a 3 N ( a i c]
+[DELETED:  ( I o a p p t t c s n b d a c c ( d 3 ( s ( ( j ( t v i r b a p t o o f d u o ( t 3 T e o ( ( ( ( ( ( ( r ( ( s 3 ( d t]
+[DELETED:  b ( t ( c t 3 ( p m d d l ( r s w ( o 3 T a A S]
+[DELETED:  T s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5951
+========
+LC002049
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- AUTOMATED SAFETY ZONE
+SPEED ENFORCEMENT ACT OF 2025
+Introduced By: Representative Scott Slater
+Date Introduced: February 28, 2025
+Referred To: House Municipal Government & Housing
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 14.1
+4 AUTOMATED SAFETY ZONE SPEED ENFORCEMENT ACT OF 2025
+5 31-14.1-1. Short title.
+6 This chapter shall be known and may be cited as the "Automated Safety Zone Speed
+7 Enforcement Act of 2025".
+8 31-14.1-2. Purpose.
+9 This chapter enables municipalities to implement, subject to state and local approval,
+10 automated speed enforcement systems to designated safety zones outside of school zones, as
+11 defined in chapter 41.3 of title 31, in order to improve public safety and reduce traffic violations.
+12 31-14.1-3. Definitions.
+13 As used in this chapter:
+14 (1) "Automated safety zone speed enforcement system" means a device with sensors that
+15 works with speed measurement tools to record images of vehicles violating posted speed limits,
+16 including a system using one or more vehicle detectors in combination with photography to identify
+17 and provide a photographic image of vehicles which are exceeding the posted speed limit, or the
+18 speed limit designated by state law or regulation, for a given zone, and that may be in a fixed or
+
+1 mobile configuration.
+2 (2) "Safety zone" means one or more of the following located within a municipality:
+3 (i) High-traffic corridors or areas identified by traffic studies commissioned and by a
+4 municipality or the department of transportation;
+5 (ii) Pedestrian utilized areas, including without limitation, those near parks, playgrounds,
+6 transit hubs, or hospitals;
+7 (iii) Other areas with demonstrated safety concerns, as identified by a municipality or the
+8 state.
+9 31-14.1-4. Automated safety zone speed enforcement system authorized.
+10 Municipalities are hereby authorized to operate automated safety zone speed enforcement
+11 systems, provided that no speed enforcement system shall be operated in the state unless:
+12 (1) The system has been approved and certified for use by the director of the department
+13 of transportation;
+14 (2) A traffic study has been conducted by or on behalf of the municipality, and submitted
+15 to the director of the department of transportation for review and approval; and
+16 (3) The municipality has demonstrated, to the satisfaction of the director of the department
+17 of transportation, safety concerns in the proposed safety zone, including but not limited to, high
+18 collision rates, excessive speeding, or significant pedestrian activity as identified in the traffic
+19 study, and alignment with the municipality’s traffic safety objectives, as approved by the
+20 municipality’s police department.
+21 31-14.1-5. Public Notice and Signage.
+22 Municipalities must provide at least thirty (30) days' public notice before activating any
+23 automated safety zone speed enforcement system, including:
+24 (1) Announcements via local media outlets;
+25 (2) Clear signage no less than five hundred feet (500') before the enforcement area,
+26 indicating the presence of automated speed enforcement monitoring.
+27 31-14.1-6. Automated safety zone speed enforcement system operational
+28 requirements and certification.
+29 (a) No automated safety zone speed enforcement system shall be used in the state unless
+30 the system has been approved and certified for use by the director of the department of
+31 transportation. The director of the department of transportation, in cooperation with the state police,
+32 shall require that any automated safety zone speed enforcement system approved and certified for
+33 use meets the following requirements:
+34 (1) All automated safety zone speed enforcement systems operated under this chapter shall
+LC002049 - Page 2 of 7
+
+1 record the speed of vehicles within plus or minus one mile per hour of the actual speed.
+2 (2) All automated safety zone speed enforcement systems operated under this chapter shall
+3 record at least two (2) photographic images of the vehicle exceeding the speed limit, one of which
+4 shall include the license plate attached to the rear of the vehicle.
+5 (3) All automated safety zone speed enforcement systems operated under this chapter shall,
+6 at the time of violation, imprint upon the photographic images of vehicles exceeding the speed
+7 limit:
+8 (i) The date and time of the violation; and
+9 (ii) The identity of the street, and location upon that street, including the direction of travel
+10 and lane of travel; this requirement may be met with code designations; and
+11 (iii) The posted or lawfully designated speed limit for the street being monitored; and
+12 (iv) The monitored speed of the vehicle identified in the photographic images as exceeding
+13 the posted or lawfully designated safety zone speed limit; and
+14 (v) The consecutive event number of each photograph taken.
+15 (4) At least one hundred feet (100′) prior to entering a safety zone area where an automated
+16 safety zone speed enforcement system is being operated, and on each approach to that area, four
+17 (4) signs, each measuring three feet (3′) in height by four feet (4′) in width, shall be erected in
+18 locations where the view is unobstructed, warning motorists that they will be entering an area
+19 monitored by an automated safety zone enforcement system and that violators of speed limitations
+20 may be prosecuted.
+21 (b) In the event a fixed or mobile automated safety zone speed enforcement system is to be
+22 installed or used by any person other than the department of transportation or state police personnel
+23 on a state-maintained street, roadway or highway, the director of transportation shall approve
+24 installation or use of the system.
+25 31-14.1-7. Maintenance of system.
+26 The state department of transportation and municipalities may enter into an agreement with
+27 a private corporation or other entity to provide automated safety zone speed enforcement system
+28 equipment services and to maintain the system. A contract between a government agency and a
+29 manufacturer or supplier of an automated safety zone speed enforcement system shall be based on
+30 the value of such equipment and related support services and shall not be based on a percentage of
+31 the revenue generated by the automated safety zone speed enforcement system.
+32 31-14.1-8. Citation precedent.
+33 In the event a law enforcement officer stops and issues a citation to the driver of a vehicle
+34 for a speeding violation, which violation is also captured by an automated safety zone speed
+LC002049 - Page 3 of 7
+
+1 enforcement system, the citation issued to the driver by the law enforcement officer shall have and
+2 take precedence, and the automated safety zone speed enforcement system citation shall be
+3 dismissed.
+4 31-14.1-9. Hearings.
+5 Evidence from an automated safety zone speed enforcement system approved by the
+6 director of the department of transportation shall be considered substantive evidence in the
+7 prosecution of all civil traffic violations. Evidence from an automated safety zone speed
+8 enforcement system approved by the director of the department of transportation shall be admitted
+9 without further authentication and such evidence may be deemed sufficient to sustain a civil traffic
+10 violation. In addition to any other defenses as set forth herein, any defenses cognizable at law, with
+11 the exception of that available under § 31-41.1-7, shall be available to the individual who receives
+12 the citation commencing a prosecution under this chapter.
+13 31-14.1-10. Driver/registered owner liability.
+14 (a) The registered owner of the motor vehicle shall be primarily responsible in all
+15 prosecutions brought pursuant to the provisions of this chapter, except as otherwise provided in this
+16 section.
+17 (b) In all prosecutions of civil safety zone violations based on evidence obtained from an
+18 automated safety zone speed enforcement system, the registered owner of a vehicle which has been
+19 operated in violation of a civil traffic violation, may be liable for such violation. The registered
+20 owner of the vehicle may assume liability for the violation by paying the fine, or by defending the
+21 violation pursuant to the remedies available under the law.
+22 (c) The lessee of a leased vehicle shall be considered the owner of a motor vehicle for
+23 purposes of this section.
+24 31-14.1-11. Use of evidence in criminal and civil cases.
+25 Nothing in this chapter shall prohibit the use of evidence produced by an automated safety
+26 zone speed enforcement system in a criminal or civil proceeding; provided, that the admissibility
+27 of such evidence shall follow applicable laws and rules of procedure and rules of evidence which
+28 apply in criminal and civil proceedings.
+29 31-14.1-12. Nature of violations.
+30 Notwithstanding any other provision of law:
+31 (1) No violation for which a civil penalty is imposed under this chapter shall be considered
+32 a moving violation; nor shall it be included on the driving record of the person on whom the liability
+33 is imposed; nor shall it be used for insurance rating purposes in providing motor vehicle insurance
+34 coverage.
+LC002049 - Page 4 of 7
+
+1 (2) Impositions of a penalty pursuant to this chapter shall not be deemed a criminal
+2 conviction of an owner or operator.
+3 (3) The defense available under § 31-41.1-7 (application for dismissal based on good
+4 driving record) shall not be available for any violation imposed under this chapter.
+5 31-14.1-13. Security of records.
+6 (a) The recorded images produced by an automated safety zone speed enforcement system
+7 shall not be deemed "public records" subject to disclosure pursuant to § 38-2-2.
+8 (b) All recorded images that do not identify a violation shall be destroyed within ninety
+9 (90) days of the date the image was recorded, unless otherwise ordered by a court of competent
+10 jurisdiction.
+11 (c) All recorded images that identify a violation shall be destroyed within one year after
+12 the violation is resolved by administrative payment, trial, or other final disposition, unless
+13 otherwise ordered by a court of competent jurisdiction.
+14 (d) The privacy of records produced pursuant to this chapter shall be maintained; provided
+15 that aggregate data not containing personal identifying information may be released.
+16 31-14.1-14. Reports.
+17 The agency or municipality authorizing the installation of automated safety zone speed
+18 enforcement system shall prepare an annual report to be furnished to the director of the department
+19 of transportation, containing data on:
+20 (1) The number of citations issued at each particular safety zone;
+21 (2) The number of those violations paid by mail and online;
+22 (3) The number of those violations found after trial or hearing;
+23 (4) The number of violations dismissed after trial or hearing;
+24 (5) The number of accidents at each safety zone;
+25 (6) A description as to the type of accident;
+26 (7) An indication regarding whether there were any injuries involved in any accident
+27 reported;
+28 (8) The cost to maintain the automated safety zone speed enforcement system; and
+29 (9) The amount of revenue obtained from the automated safety zone speed enforcement
+30 system.
+31 31-14.1-15. Penalties.
+32 (a) Every person found to have violated the provisions of this chapter shall be fined fifty
+33 dollars ($50.00) for each offense; provided, however that for a period of thirty (30) days following
+34 the installation of any new automated safety zone speed enforcement system, a violation recorded
+LC002049 - Page 5 of 7
+
+1 by the system shall only be enforced by the issuance of a warning.
+2 (b) A violation of this chapter shall not be considered a moving violation for purposes of
+3 the motorist’s driving record.
+4 (c) Every three (3) years from the date of the motorist’s first offense under this chapter, the
+5 court shall expunge any automated safety zone speed enforcement violations during the preceding
+6 three-year (3) period.
+7 31-14.1-16. Suspension for failure to pay fine.
+8 (a) In the event a person has failed to pay fines or costs imposed for a violation of any
+9 provision of this chapter within the time period established by the municipality or has failed to
+10 make satisfactory arrangements with the municipality for payment of such fines or costs, the
+11 division of motor vehicles shall, upon certification of the foregoing from the municipal police
+12 department of the city or town where the violation occurred and notice to the person, suspend the
+13 license of a person to operate a motor vehicle.
+14 (b) Prior to suspension, a person shall be entitled to request a review with the municipality
+15 regarding his or her ability to pay by submitting a request to the municipal police department, which
+16 shall evaluate the request and may establish a payment plan or alternative arrangements consistent
+17 with the municipality’s policies.
+18 (c) The suspension shall remain in effect until all fines or costs are paid to the municipality
+19 or satisfactory arrangements have been made with the municipality for payment.
+20 31-14.1-17. Not applicable to school zones.
+21 This chapter does not apply to automated school zone speed enforcement systems, which
+22 are governed by chapter 41.3 of title 31 (the Automated School-Zone-Speed-Enforcement System
+23 Act of 2016).
+24 SECTION 2. This act shall take effect upon passage.
+========
+LC002049
+========
+LC002049 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- AUTOMATED SAFETY ZONE
+SPEED ENFORCEMENT ACT OF 2025
+***
+1 This act would enable cities and towns to expand the use of automated speed enforcement
+2 systems in Rhode Island to designated safety zones, excluding school zones.
+3 This act would take effect upon passage.
+========
+LC002049
+========
+LC002049 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND S i C A 3 T E 3 T c m t i s a a s e s t d s z o o s z a d 3 A ( w i a s]
+[DELETED:  m ( ( m ( t ( s 3 M s ( o ( t ( o c s a a w t m t s o a a b t m 3 M a ( ( C s n l t f h f ( b t e a i 3 A s z s e s o r ( t s h b a a c f u b t d o t d o t s u (]
+[DELETED:  r ( r s ( a l ( ( a ( ( t ( ( s ( l m m ( i o i 3 T a e m t t 3 I f]
+[DELETED:  e t p a t a s z s e s c s b d 3 E f a a s z s e s a b t d o t d o t s b c s e i t p o a c t v E f a a s z s e w v t t 3 ( T r o o t m v s b p r i a p s ( a o o v ( p 3 N z o a 3 N ( a i c]
+[DELETED:  ( I o a p p t t c s n b d a c c ( d 3 ( s ( ( j ( t v i r b a p t o o f d u o ( t 3 T e o ( ( ( ( ( ( ( r ( ( s 3 ( d t]
+[DELETED:  b ( t ( c t 3 ( p m d d l ( r s w ( o 3 T a A S]
+[DELETED:  T s T]

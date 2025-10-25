@@ -1,0 +1,725 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+Number of Sections: 1
+Source: versions - 38
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0038
+========
+LC000341
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators de la Cruz, Rogers, Ciccone, Paolino, and E Morgan
+Date Introduced: January 23, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 9.4
+4 INSPECTOR GENERAL
+5 42-9.4-1. Purpose.
+6 The office of inspector general shall be an independent administrative agency charged with
+7 preventing and detecting fraud, waste, abuse and mismanagement in the expenditure of public
+8 funds, whether federal, state, or local, and relating to any and all state programs and operations as
+9 well as the procurement of any supplies, services, or construction, by agencies, bureaus, divisions,
+10 sections, departments, offices, commissions, institutions and activities of the State of Rhode Island,
+11 including those districts, authorities, or political subdivisions created by the general assembly, the
+12 governor, and any court, including any city or town within the State of Rhode Island. Investigations
+13 may include the expenditures by nongovernmental agencies of federal, state and local public funds.
+14 42-9.4-2. Definitions.
+15 As used in this chapter, unless the context requires otherwise, the following terms shall
+16 have the following meanings:
+17 (1) "Construction" means the process of building, altering, repairing, improving, or
+18 demolishing any public structure or building, or other improvements of any kind to any public
+19 property.
+1 (2) "Contract" means all types of agreements, including grants and orders, for the purchase
+2 or disposal of supplies, services, construction, or any other item. It includes:
+3 (i) Awards;
+4 (ii) Contracts of a fixed-price, cost, cost-plus-a-fixed-fee, or incentive type;
+5 (iii) Contracts providing for the issuance of job or task orders;
+6 (iv) Leases;
+7 (v) Letter contracts;
+8 (vi) Purchase orders; and
+9 (vii) Construction management contracts.
+10 It also includes supplemental agreements with respect to any of the foregoing agreements.
+11 (3) "Contractor" means any person, corporation, partnership, business, union, committee,
+12 or other organization entity or group of individuals performing any tasks, or duties defined under a
+13 written or oral contract with and for the State of Rhode Island or the joint committee on legislative
+14 services.
+15 (4) "Procurement" means the purchasing, buying, renting, leasing, or otherwise obtaining
+16 any supplies, services, or construction. It also includes all functions that pertain to the obtaining of
+17 any supply, service, or construction item, including a description of requirements, selection and
+18 solicitation of sources, preparation, and award of contract, and all phases of contract administration.
+19 (5) "Public funds" means state, federal or local funds, either appropriated, non-appropriated
+20 or given under right of grant.
+21 (6) "Services" means the rendering by a contractor of its time and effort rather than the
+22 furnishing of a specific end product, other than reports which are merely incidental to the required
+23 performance of services.
+24 (7) "Supplies" means all property, including, but not limited to, leases of real property,
+25 printing, and insurance, except land or permanent interest in land.
+26 42-9.4-3. Establishment of office -- Appointment and removal of inspector general.
+27 (a) There is hereby established an office of inspector general, (hereinafter referred to as the
+28 "office"). There shall be in the office an inspector general, who shall be the administrative head of
+29 the office and who shall be appointed by a majority vote of the governor, the attorney general, the
+30 general treasurer, the lieutenant governor, secretary of state, the speaker and the minority leader of
+31 the house of representatives and the president and minority leader of the senate for a five (5) year
+32 term to begin July 1 and end June 30, five (5) years later. The appointee shall serve one term only.
+33 The person so appointed shall be selected without regard to political affiliation and with a
+34 demonstrated ability in more than one of the following areas: accounting, auditing, financial
+LC000341 - Page 2 of 11
+1 analysis, law, management analysis, public administration, investigation and criminal justice
+2 administration.
+3 (b) The selection process of a qualified inspector general shall include at least one public
+4 forum. If an inspector general is not selected within one month of a new inspector general term, the
+5 governor shall appoint an inspector general. The inspector general shall have at least five (5) years
+6 experience in accounting, criminal justice, or a closely related profession and a bachelor’s degree
+7 from an accredited college or university with a major in accounting, criminal justice, or a closely
+8 related field of study.
+9 (c) No inspector general shall hold, or be a candidate for, any other elective or appointed
+10 public office while an inspector general and for one year prior. No inspector general shall hold a
+11 position in any political party or political committee, or participate in any political campaign of any
+12 candidate for public office while an inspector general.
+13 (d) In case of a vacancy in the position of inspector general, their successor shall be
+14 appointed in the manner described in subsections (a) and (b) of this section, and shall serve from
+15 their date of appointment until the fifth June 30 following their appointment. If this vacancy is not
+16 filled within one month, then the governor shall appoint an inspector general.
+17 (e) The person so appointed may be removed from office for cause by a two-thirds (2/3)
+18 vote of the governor, the attorney general, the general treasurer, the lieutenant governor, secretary
+19 of state, the speaker and the minority leader of the house of representatives and the president and
+20 minority leader of the senate. Cause may include substantial neglect of duty, gross misconduct or
+21 conviction of a crime, whether or not it is work related. The reasons for removal of the inspector
+22 general shall be stated in writing and shall include the basis for such removal. The writing shall be
+23 a public document. The inspector general shall have ten (10) days to submit a written appeal, which
+24 shall be a public document. If no appeal is made, the inspector general shall be dismissed from
+25 office. If an appeal is taken, a vote shall be taken in the senate and two-thirds (2/3) vote of the
+26 senate shall be required to dismiss the inspector general.
+27 42-9.4-4. Employees -- Appointment and removal, salaries, qualifications.
+28 (a) The inspector general may appoint and remove such employees as deemed necessary
+29 to perform the duties of the office, including, but not limited to, assistant inspectors general, chief
+30 and deputy counsels, clerks, paralegals, accountants, auditors, financial management analysts and
+31 investigators. The inspector general may determine their salaries and duties; provided, however,
+32 that the total amount of all such salaries shall not exceed the sum appropriated therefor by the
+33 general assembly.
+34 (b) The inspector general shall file an annual personnel report not later than the first
+LC000341 - Page 3 of 11
+1 Wednesday in February with the senate and house finance committees, containing the job
+2 classifications, duties and salary of each officer and employee within the office, together with
+3 personnel regulations applicable to said officers and employees. The inspector general shall file
+4 amendments to such report with the senate and house finance committees, whenever any change
+5 becomes effective.
+6 (c) No officer or employee of the office of inspector general shall hold, or be a candidate
+7 for, any elective public office, while an officer or employee, or for one year thereafter, nor shall
+8 they hold a position in any political party or political committee, or participate in any political
+9 campaign of any candidate for public office, while an officer or employee.
+10 42-9.4-5. Inspector general -- Salary and budget.
+11 The general assembly shall annually set the salary of the inspector general and shall
+12 appropriate sufficient funds for the total budget for the office.
+13 42-9.4-6. Rules and regulations.
+14 The office shall, pursuant to the provisions of chapter 35 of title 42, ("administrative
+15 procedures"), promulgate rules and regulations, which shall govern its operation.
+16 42-9.4-7. Duties.
+17 (a) The inspector general shall supervise, coordinate and/or conduct audits, criminal, civil
+18 and administrative investigations and inspections or oversight reviews, when necessary, relating to
+19 programs and operations listed in § 42-9.4-1. The inspector general shall review laws and
+20 regulations relating to programs and operations listed in § 42-9.4-1 and shall determine if public
+21 bodies listed in § 42-9.4-1 are in compliance, and shall make recommendations concerning the
+22 effect of such laws or regulations on the prevention and detection of fraud, waste and abuse. The
+23 inspector general may recommend policies that will assist in the prevention or detection of fraud,
+24 waste and abuse and mismanagement. The person in charge of, or the governing body of any public
+25 body listed in § 42-9.4-1, may request the assistance of the inspector general with respect to
+26 implementation of any reviews, audits, and/or investigations as deemed appropriate, and implement
+27 suggested policy or procedure changes. In such events the inspector general may assign personnel
+28 to conduct, supervise, or coordinate such activity, as deemed necessary and appropriate to perform
+29 their duties in a diligent and prudent manner. The inspector general may recommend policies for
+30 the conduct, supervision or coordination of relationships, between state and municipal agencies and
+31 other state and local governmental agencies, as well as federal governmental agencies and
+32 nongovernmental entities, with respect to all matters relating to the prevention and detection of
+33 fraud, waste, abuse and mismanagement in or relating to any and all programs and activities of the
+34 State of Rhode Island as set forth in § 42-9.4-1.
+LC000341 - Page 4 of 11
+1 (b) The inspector general shall establish and maintain an information system to receive
+2 communications from the general public, relating to the duties of the office to guarantee the
+3 anonymity of the individual supplying the information, consisting of the transmission by email,
+4 regular mail or other electronic system, that does not involve the use of a telephone line.
+5 42-9.4-8. Inspection of records and papers –Investigations – Subpoenas.
+6 Inspection of records and papers –Investigations – Subpoenas.
+7 (a) The inspector general, in carrying out the duties outlined in this chapter, shall have
+8 access to all records, reports, audits, reviews, papers, books, documents, recommendations,
+9 correspondence, including information relative to the purchase of services or anticipated purchase
+10 of services from any contractor by any public body set forth in § 42-9.4-1, and any other data and
+11 material that is maintained by or available to any public body, regardless of the media in which it
+12 is maintained which is, in any way, related to the programs and operations with respect to the State
+13 of Rhode Island, including any local town, municipality or city.
+14 (b) The inspector general may request information, cooperation and assistance from any
+15 state or local governmental agency, as may be necessary for carrying out their duties and
+16 responsibilities. Upon receipt of such request, each person in charge of, or the governing body of
+17 any public body set forth in § 42-9.4-1, shall furnish to the inspector general or their authorized
+18 agent or representative such information, cooperation and assistance, including information relative
+19 to the purchase of services or anticipated purchase of services from any contractor by any public
+20 body within ten (10) business days of receipt of the inspector general’s request. If the request for
+21 the information requested cannot be complied with, within ten (10) business days, the senior official
+22 of the governmental agency shall notify the inspector general before the expiration of the ten (10)
+23 business days as to the reason that the request cannot be complied with within the time frame of
+24 this section, and shall provide a specific date for expected compliance.
+25 (c) The inspector general may initiate and conduct investigations, audits and compliance
+26 reviews, and shall prepare detailed reports relating to findings and conclusions concerning the
+27 administration of the programs and operations of the applicable public bodies listed in § 42-9.4-1,
+28 as are in the judgment of the inspector general necessary and may conduct an examination of any
+29 public documents, and any information with respect to whether internal quality controls are in place
+30 and operating.
+31 (d) The inspector general shall have direct and prompt access to the head of any public
+32 body set forth in § 42-9.4-1 when necessary for any purpose pertaining to the performance of their
+33 duties and responsibilities under this chapter.
+34 (e) The inspector general may request the production, on a voluntary basis, of testimony or
+LC000341 - Page 5 of 11
+1 documents from any individual, firm or nongovernmental entity which relate to actions or matters
+2 that pertain to state or municipal governmental agencies, as dictated by their duties and
+3 responsibilities.
+4 (f)(1) The inspector general may issue a subpoena for the production of all records, reports,
+5 audits, reviews, papers, books, documents, recommendations, correspondence and any other data
+6 and material relevant to any matter under audit or investigation, pursuant to the provisions of this
+7 chapter, no matter in which media the information is maintained.
+8 (2) A subpoena may be issued only when a person, corporation or other entity under
+9 investigation or being audited refuses to voluntarily comply with a request from the inspector
+10 general.
+11 (3) The subpoena shall be served in the same manner as a subpoena for the production of
+12 documents in civil cases issued on behalf of the State of Rhode Island, and all provisions of law
+13 relative to the subpoena shall apply to a subpoena issued pursuant to this chapter. Any justice of
+14 the superior court may, upon application by the inspector general, issue an order to compel the
+15 production of records, reports, audits, reviews, papers, books, documents, recommendations,
+16 correspondence, and any other data and material as aforesaid in the same manner and to the same
+17 extent as before said superior court. Any failure to obey the order may be punished by the superior
+18 court as a contempt of court.
+19 (4) Any subpoena issued pursuant to this section shall not be made public by the inspector
+20 general or any officer or employee of that office, nor shall any documents or records provided
+21 pursuant to this section be made public until such time as it is necessary for the inspector general
+22 to do so in the performance of their official duties. The production of documents or records pursuant
+23 to subpoena, shall be governed by the same provisions with reference to secrecy, which govern the
+24 proceedings of a grand jury. Disclosure of such production, attendance, and testimony may be made
+25 to such members of the staff of the office of the inspector general as is deemed necessary in the
+26 performance of the inspector general's duties and responsibilities under this chapter, and such
+27 members of the staff may be present at the production of records.
+28 42-9.4-9. Subpoena for witness testimony and for release of material evidence.
+29 (a) Whenever the inspector general has reason to believe that a person has information or
+30 evidence in their possession, with respect to any matter which is within the inspector general’s
+31 jurisdiction to investigate, a subpoena may issue for the attendance and testimony, under oath, of
+32 any person as designated, or the surrender of identified items of evidence; provided, however, that
+33 the subpoena may be issued by the inspector general only in the performance of official duties
+34 relating to the detection of fraud, waste, abuse and mismanagement. The subpoena for testimony
+LC000341 - Page 6 of 11
+1 or specific items identified, as needed in support of an investigation shall include: the name and
+2 address of the prospective witness or specific items identified, as needed for the investigation and
+3 the reasons for requesting a subpoena for testimony or production of items deemed necessary to
+4 support the investigation.
+5 (b) The inspector general or any other person duly authorized by law shall serve a
+6 subpoena. Once the subpoena is served, the serving officer shall annotate the time and date served,
+7 the person served and the location of service.
+8 (c) A witness required by subpoena to attend and testify under oath and/or produce books
+9 and records or other items as demanded, shall be given not less than forty-eight (48) hours notice
+10 of the time and place for the taking of testimony or delivery of subpoenaed items, unless such notice
+11 shall unduly interfere with the conduct of the investigation.
+12 (d) The witness, at the time of service of a subpoena, shall be notified of the matter under
+13 investigation concerning which the witness will be required to testify. A subject of an investigation
+14 is a person whose conduct is within the scope of the investigation and is suspected of committing
+15 or being party to an offense under investigation. The failure to furnish the witness with any notice
+16 or information required to be given by this section, shall cause the issued subpoena to be invalid.
+17 (e) A person subpoenaed to testify under oath shall appear and testify under oath at the
+18 time and place designated by the subpoena. In addition, the witness shall be notified that they have
+19 a right to consult with and to have an attorney present at the time the testimony is taken, and that
+20 they have a constitutional right not to furnish or produce evidence that may tend to incriminate the
+21 person.
+22 (f) The terms of any such subpoena shall be reasonable and focused on specific testimony
+23 or evidence sought and shall directly relate to the matters under investigation. A subpoena issued
+24 that is broad in nature is not considered valid. No subpoena shall be issued for purposes of
+25 harassment or for any illegitimate or improper purpose. All constitutional and statutory rights and
+26 privileges which exist with respect to any subpoena issued by the inspector general, including the
+27 privilege against self-incrimination, shall have the same force and effect with any and all existing
+28 laws and constitutional rights.
+29 (g) A subpoenaed person may object to the subpoena served upon them in advance of the
+30 return date of the subpoena, by a motion to quash filed in the superior court of the State of Rhode
+31 Island. The filing of a motion to quash shall stay all pending subpoenas until further order of the
+32 superior court. Any justice of the superior court may, upon application by the inspector general,
+33 issue an order to compel the attendance of witnesses subpoenaed, and the giving of testimony under
+34 oath in furtherance of any audit or investigation under this chapter, in the same manner and to the
+LC000341 - Page 7 of 11
+1 same extent as before the superior court. Failure to obey any order of the court with respect to a
+2 subpoena may be punished by the court as contempt.
+3 (h) Any subpoena issued pursuant to this section, shall not be made public by the inspector
+4 general or any persons subject to their direction or by any member of the inspector general's office
+5 designated to hear testimony under this section, and the same provisions with reference to secrecy,
+6 which govern grand jury proceedings, shall govern testimony given. Whoever violates the
+7 provisions of this subsection shall be punished by imprisonment for not more than six (6) months
+8 or by a fine of not more than one thousand dollars ($1,000). Disclosure of such testimony may be
+9 made to such members of the staff of the office of inspector general, as is deemed necessary by the
+10 inspector general to assist in the performance of the office's duties and responsibilities and such
+11 members of the staff may be present at the taking of such testimony.
+12 42-9.4-10. Compact – Investigation.
+13 (a) The inspector general shall accept and may investigate or audit complaints or
+14 information from any individual concerning the possible existence of any activity constituting
+15 fraud, waste, abuse and mismanagement, relating to programs and operations as set forth in § 42-
+16 9.4-1.
+17 (b) The inspector general shall not, after receipt of a complaint or information from an
+18 employee, contractor or private citizen who requests confidentiality, disclose the identity of that
+19 individual without the written consent of said individual, unless the inspector general determines
+20 such disclosure is necessary and unavoidable during the course of an investigation. In such event,
+21 the individual shall be notified immediately of the disclosure. The inspector general shall set up an
+22 anonymous hotline for reporting possible wrongdoings.
+23 (c) Employees are protected under chapter 50 of title 28, ("The Rhode Island
+24 Whistleblower's Protection Act").
+25 42-9.4-11. Reports to the attorney general or United States Attorney.
+26 (a) In carrying out their duties and responsibilities, the inspector general shall report to the
+27 attorney general, the United States Attorney or both, whenever the inspector general has reasonable
+28 grounds to believe there has been a violation of federal or state criminal law. The attorney general
+29 shall institute appropriate proceedings in the furtherance of completing an investigation and, if
+30 warranted, refer a matter for criminal prosecution.
+31 (b) The inspector general shall refer audit or investigative findings to the state ethics
+32 commission, or to any other federal, state or local agency, which has an interest in said findings.
+33 (c) Any referrals made under this section shall not be made public.
+34 42-9.4-12. Coordination with other state agencies.
+LC000341 - Page 8 of 11
+1 The inspector general may coordinate with other state agencies that are responsible for
+2 investigating, auditing, reviewing or evaluating the management of state agencies for the purpose
+3 of sharing information and avoiding duplication of effort.
+4 42-9.4-13. Civil actions.
+5 The inspector general shall have the authority to institute a civil recovery action, if
+6 authorized by the attorney general. In any case where the inspector general has discovered
+7 fraudulent acts and believes that civil recovery proceedings may be appropriate, the matter shall be
+8 referred to the attorney general. The attorney general may institute whatever proceedings deemed
+9 appropriate, may refer the matter to another state or local agency, may authorize the initiation of
+10 appropriate civil proceedings by the inspector general, may retain the matter for further
+11 investigation, or may remand the matter to the inspector general for further investigation.
+12 42-9.4-14. Annual and interim reports.
+13 (a) The office of inspector general shall, no later than April 1 of each year, prepare a report
+14 summarizing the activities of the office for the prior calendar year. The office may also prepare
+15 interim reports. These reports shall be forwarded to the governor, lieutenant governor, attorney
+16 general, secretary of state, general treasurer and the general assembly, and shall be made available
+17 to the public.
+18 (b) The report shall include, but not be limited to:
+19 (1) A description of significant problems in the areas of fraud, waste and abuse within
+20 programs and operations subject to the jurisdiction of the office;
+21 (2) A description of the recommendations for corrective action made by the office during
+22 the reporting period with respect to significant deficiencies in the areas of fraud, waste and abuse;
+23 (3) The identification of each significant recommendation described in previous annual
+24 reports on which corrective action has not been completed;
+25 (4) A summary of matters referred to prosecuting authorities and the prosecutions and
+26 convictions which have resulted;
+27 (5) A summary of any matters concerning the recovery of monies, as a result of a civil suit
+28 by the office or a referral to another agency for the purposes of such suit; and
+29 (6) A list of all audit reports completed by the office during the reporting period and a
+30 statement of recommendations of amendments to this chapter or the rules, regulations or procedures
+31 governing the office of inspector general, which would improve the effectiveness or the operation
+32 of the office.
+33 (c) The head or governing body of each public body may, within sixty (60) days of receipt,
+34 comment upon any references to the public body contained within the report. The comment, if any,
+LC000341 - Page 9 of 11
+1 shall be forwarded to the governor, the attorney general, the general assembly and the office of
+2 inspector general.
+3 (d) The report of the inspector general shall be made public on the day of filing; provided,
+4 that the report shall not list the names of individuals or corporations, nor describe them with
+5 sufficient particularity as to readily identify them to the general public in those cases in which no
+6 official disposition has been made by the office of inspector general, the department of the attorney
+7 general or the local office of the United States Attorney.
+8 SECTION 2. This act shall take effect upon passage.
+========
+LC000341
+========
+LC000341 - Page 10 of 11
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+***
+1 This act would establish the office of inspector general as an independent administrative
+2 agency charged with the responsibility to investigate, detect, and prevent fraud, waste, abuse, and
+3 mismanagement in the expenditure of public funds.
+4 This act would take effect upon passage.
+========
+LC000341
+========
+LC000341 - Page 11 of 11
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C I 4 T p f w s i g m 4 A h ( " m t p o b a r i o d p]
+[DELETED:  ( o ( ( ( ( ( ( ( I ( o w s ( a a s ( o ( f p ( p 4 ( " t g t t T p s a s b s w r t p a a w a d a i m t o o t f a a a f]
+[DELETED:  a l m a p a i a c j a ( f g e f r ( p p c ( a t f ( v o m c g a s o s 4 ( t a i t g (]
+[DELETED:  W i F w t s a h f c c t j c p a b ( f t c 4 T g a s a s t s o t i g a s a 4 T p 4 ( a p a o l i § 4 T i g s r l a r b e i w b i s t t t o s a l g a a w a f g a a n f S]
+[DELETED:  ( c t t t d o t g a r 4 I ( a t a r r a r p b d r c o m i o ( s o l g a a m b n f c o t d a r a a t b t o b t ( r a a p a ( b d (]
+[DELETED:  d t p t s o m g a a d b t d a r ( a a c ( i g ( d r t p o r r a r p b d r c e c ( g p t t p t p m 4 ( e j a t r]
+[DELETED:  o a t s ( T i g o a o p d a b l s s a s t ( a o s ( i i o o ( t a t p ( o t i b i n i n c v N s s b i f p o h p p l ( r I s i o]
+[DELETED:  s s ( g d w g g j p s g t g W v t p o m i m 4 ( T i g s a a m i o a c o i f 9 ( e i s t a ( E a p u c 5 o t 2 ( R I W 4 ( a g s w ( c ( 4]
+[DELETED:  T i o 4 T i g s h t a t i a c r a i a b t a g I a c w t i g h d f r a a c p b t i g m r t m f f i 4 ( s i g t ( ( p ( t ( r ( c ( b ( s g o ( c]
+[DELETED:  s i ( t s o g S]
+[DELETED:  T a m T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0038
+========
+LC000341
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+Introduced By: Senators de la Cruz, Rogers, Ciccone, Paolino, and E Morgan
+Date Introduced: January 23, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 9.4
+4 INSPECTOR GENERAL
+5 42-9.4-1. Purpose.
+6 The office of inspector general shall be an independent administrative agency charged with
+7 preventing and detecting fraud, waste, abuse and mismanagement in the expenditure of public
+8 funds, whether federal, state, or local, and relating to any and all state programs and operations as
+9 well as the procurement of any supplies, services, or construction, by agencies, bureaus, divisions,
+10 sections, departments, offices, commissions, institutions and activities of the State of Rhode Island,
+11 including those districts, authorities, or political subdivisions created by the general assembly, the
+12 governor, and any court, including any city or town within the State of Rhode Island. Investigations
+13 may include the expenditures by nongovernmental agencies of federal, state and local public funds.
+14 42-9.4-2. Definitions.
+15 As used in this chapter, unless the context requires otherwise, the following terms shall
+16 have the following meanings:
+17 (1) "Construction" means the process of building, altering, repairing, improving, or
+18 demolishing any public structure or building, or other improvements of any kind to any public
+19 property.
+
+1 (2) "Contract" means all types of agreements, including grants and orders, for the purchase
+2 or disposal of supplies, services, construction, or any other item. It includes:
+3 (i) Awards;
+4 (ii) Contracts of a fixed-price, cost, cost-plus-a-fixed-fee, or incentive type;
+5 (iii) Contracts providing for the issuance of job or task orders;
+6 (iv) Leases;
+7 (v) Letter contracts;
+8 (vi) Purchase orders; and
+9 (vii) Construction management contracts.
+10 It also includes supplemental agreements with respect to any of the foregoing agreements.
+11 (3) "Contractor" means any person, corporation, partnership, business, union, committee,
+12 or other organization entity or group of individuals performing any tasks, or duties defined under a
+13 written or oral contract with and for the State of Rhode Island or the joint committee on legislative
+14 services.
+15 (4) "Procurement" means the purchasing, buying, renting, leasing, or otherwise obtaining
+16 any supplies, services, or construction. It also includes all functions that pertain to the obtaining of
+17 any supply, service, or construction item, including a description of requirements, selection and
+18 solicitation of sources, preparation, and award of contract, and all phases of contract administration.
+19 (5) "Public funds" means state, federal or local funds, either appropriated, non-appropriated
+20 or given under right of grant.
+21 (6) "Services" means the rendering by a contractor of its time and effort rather than the
+22 furnishing of a specific end product, other than reports which are merely incidental to the required
+23 performance of services.
+24 (7) "Supplies" means all property, including, but not limited to, leases of real property,
+25 printing, and insurance, except land or permanent interest in land.
+26 42-9.4-3. Establishment of office -- Appointment and removal of inspector general.
+27 (a) There is hereby established an office of inspector general, (hereinafter referred to as the
+28 "office"). There shall be in the office an inspector general, who shall be the administrative head of
+29 the office and who shall be appointed by a majority vote of the governor, the attorney general, the
+30 general treasurer, the lieutenant governor, secretary of state, the speaker and the minority leader of
+31 the house of representatives and the president and minority leader of the senate for a five (5) year
+32 term to begin July 1 and end June 30, five (5) years later. The appointee shall serve one term only.
+33 The person so appointed shall be selected without regard to political affiliation and with a
+34 demonstrated ability in more than one of the following areas: accounting, auditing, financial
+LC000341 - Page 2 of 11
+
+1 analysis, law, management analysis, public administration, investigation and criminal justice
+2 administration.
+3 (b) The selection process of a qualified inspector general shall include at least one public
+4 forum. If an inspector general is not selected within one month of a new inspector general term, the
+5 governor shall appoint an inspector general. The inspector general shall have at least five (5) years
+6 experience in accounting, criminal justice, or a closely related profession and a bachelor’s degree
+7 from an accredited college or university with a major in accounting, criminal justice, or a closely
+8 related field of study.
+9 (c) No inspector general shall hold, or be a candidate for, any other elective or appointed
+10 public office while an inspector general and for one year prior. No inspector general shall hold a
+11 position in any political party or political committee, or participate in any political campaign of any
+12 candidate for public office while an inspector general.
+13 (d) In case of a vacancy in the position of inspector general, their successor shall be
+14 appointed in the manner described in subsections (a) and (b) of this section, and shall serve from
+15 their date of appointment until the fifth June 30 following their appointment. If this vacancy is not
+16 filled within one month, then the governor shall appoint an inspector general.
+17 (e) The person so appointed may be removed from office for cause by a two-thirds (2/3)
+18 vote of the governor, the attorney general, the general treasurer, the lieutenant governor, secretary
+19 of state, the speaker and the minority leader of the house of representatives and the president and
+20 minority leader of the senate. Cause may include substantial neglect of duty, gross misconduct or
+21 conviction of a crime, whether or not it is work related. The reasons for removal of the inspector
+22 general shall be stated in writing and shall include the basis for such removal. The writing shall be
+23 a public document. The inspector general shall have ten (10) days to submit a written appeal, which
+24 shall be a public document. If no appeal is made, the inspector general shall be dismissed from
+25 office. If an appeal is taken, a vote shall be taken in the senate and two-thirds (2/3) vote of the
+26 senate shall be required to dismiss the inspector general.
+27 42-9.4-4. Employees -- Appointment and removal, salaries, qualifications.
+28 (a) The inspector general may appoint and remove such employees as deemed necessary
+29 to perform the duties of the office, including, but not limited to, assistant inspectors general, chief
+30 and deputy counsels, clerks, paralegals, accountants, auditors, financial management analysts and
+31 investigators. The inspector general may determine their salaries and duties; provided, however,
+32 that the total amount of all such salaries shall not exceed the sum appropriated therefor by the
+33 general assembly.
+34 (b) The inspector general shall file an annual personnel report not later than the first
+LC000341 - Page 3 of 11
+
+1 Wednesday in February with the senate and house finance committees, containing the job
+2 classifications, duties and salary of each officer and employee within the office, together with
+3 personnel regulations applicable to said officers and employees. The inspector general shall file
+4 amendments to such report with the senate and house finance committees, whenever any change
+5 becomes effective.
+6 (c) No officer or employee of the office of inspector general shall hold, or be a candidate
+7 for, any elective public office, while an officer or employee, or for one year thereafter, nor shall
+8 they hold a position in any political party or political committee, or participate in any political
+9 campaign of any candidate for public office, while an officer or employee.
+10 42-9.4-5. Inspector general -- Salary and budget.
+11 The general assembly shall annually set the salary of the inspector general and shall
+12 appropriate sufficient funds for the total budget for the office.
+13 42-9.4-6. Rules and regulations.
+14 The office shall, pursuant to the provisions of chapter 35 of title 42, ("administrative
+15 procedures"), promulgate rules and regulations, which shall govern its operation.
+16 42-9.4-7. Duties.
+17 (a) The inspector general shall supervise, coordinate and/or conduct audits, criminal, civil
+18 and administrative investigations and inspections or oversight reviews, when necessary, relating to
+19 programs and operations listed in § 42-9.4-1. The inspector general shall review laws and
+20 regulations relating to programs and operations listed in § 42-9.4-1 and shall determine if public
+21 bodies listed in § 42-9.4-1 are in compliance, and shall make recommendations concerning the
+22 effect of such laws or regulations on the prevention and detection of fraud, waste and abuse. The
+23 inspector general may recommend policies that will assist in the prevention or detection of fraud,
+24 waste and abuse and mismanagement. The person in charge of, or the governing body of any public
+25 body listed in § 42-9.4-1, may request the assistance of the inspector general with respect to
+26 implementation of any reviews, audits, and/or investigations as deemed appropriate, and implement
+27 suggested policy or procedure changes. In such events the inspector general may assign personnel
+28 to conduct, supervise, or coordinate such activity, as deemed necessary and appropriate to perform
+29 their duties in a diligent and prudent manner. The inspector general may recommend policies for
+30 the conduct, supervision or coordination of relationships, between state and municipal agencies and
+31 other state and local governmental agencies, as well as federal governmental agencies and
+32 nongovernmental entities, with respect to all matters relating to the prevention and detection of
+33 fraud, waste, abuse and mismanagement in or relating to any and all programs and activities of the
+34 State of Rhode Island as set forth in § 42-9.4-1.
+LC000341 - Page 4 of 11
+
+1 (b) The inspector general shall establish and maintain an information system to receive
+2 communications from the general public, relating to the duties of the office to guarantee the
+3 anonymity of the individual supplying the information, consisting of the transmission by email,
+4 regular mail or other electronic system, that does not involve the use of a telephone line.
+5 42-9.4-8. Inspection of records and papers –Investigations – Subpoenas.
+6 Inspection of records and papers –Investigations – Subpoenas.
+7 (a) The inspector general, in carrying out the duties outlined in this chapter, shall have
+8 access to all records, reports, audits, reviews, papers, books, documents, recommendations,
+9 correspondence, including information relative to the purchase of services or anticipated purchase
+10 of services from any contractor by any public body set forth in § 42-9.4-1, and any other data and
+11 material that is maintained by or available to any public body, regardless of the media in which it
+12 is maintained which is, in any way, related to the programs and operations with respect to the State
+13 of Rhode Island, including any local town, municipality or city.
+14 (b) The inspector general may request information, cooperation and assistance from any
+15 state or local governmental agency, as may be necessary for carrying out their duties and
+16 responsibilities. Upon receipt of such request, each person in charge of, or the governing body of
+17 any public body set forth in § 42-9.4-1, shall furnish to the inspector general or their authorized
+18 agent or representative such information, cooperation and assistance, including information relative
+19 to the purchase of services or anticipated purchase of services from any contractor by any public
+20 body within ten (10) business days of receipt of the inspector general’s request. If the request for
+21 the information requested cannot be complied with, within ten (10) business days, the senior official
+22 of the governmental agency shall notify the inspector general before the expiration of the ten (10)
+23 business days as to the reason that the request cannot be complied with within the time frame of
+24 this section, and shall provide a specific date for expected compliance.
+25 (c) The inspector general may initiate and conduct investigations, audits and compliance
+26 reviews, and shall prepare detailed reports relating to findings and conclusions concerning the
+27 administration of the programs and operations of the applicable public bodies listed in § 42-9.4-1,
+28 as are in the judgment of the inspector general necessary and may conduct an examination of any
+29 public documents, and any information with respect to whether internal quality controls are in place
+30 and operating.
+31 (d) The inspector general shall have direct and prompt access to the head of any public
+32 body set forth in § 42-9.4-1 when necessary for any purpose pertaining to the performance of their
+33 duties and responsibilities under this chapter.
+34 (e) The inspector general may request the production, on a voluntary basis, of testimony or
+LC000341 - Page 5 of 11
+
+1 documents from any individual, firm or nongovernmental entity which relate to actions or matters
+2 that pertain to state or municipal governmental agencies, as dictated by their duties and
+3 responsibilities.
+4 (f)(1) The inspector general may issue a subpoena for the production of all records, reports,
+5 audits, reviews, papers, books, documents, recommendations, correspondence and any other data
+6 and material relevant to any matter under audit or investigation, pursuant to the provisions of this
+7 chapter, no matter in which media the information is maintained.
+8 (2) A subpoena may be issued only when a person, corporation or other entity under
+9 investigation or being audited refuses to voluntarily comply with a request from the inspector
+10 general.
+11 (3) The subpoena shall be served in the same manner as a subpoena for the production of
+12 documents in civil cases issued on behalf of the State of Rhode Island, and all provisions of law
+13 relative to the subpoena shall apply to a subpoena issued pursuant to this chapter. Any justice of
+14 the superior court may, upon application by the inspector general, issue an order to compel the
+15 production of records, reports, audits, reviews, papers, books, documents, recommendations,
+16 correspondence, and any other data and material as aforesaid in the same manner and to the same
+17 extent as before said superior court. Any failure to obey the order may be punished by the superior
+18 court as a contempt of court.
+19 (4) Any subpoena issued pursuant to this section shall not be made public by the inspector
+20 general or any officer or employee of that office, nor shall any documents or records provided
+21 pursuant to this section be made public until such time as it is necessary for the inspector general
+22 to do so in the performance of their official duties. The production of documents or records pursuant
+23 to subpoena, shall be governed by the same provisions with reference to secrecy, which govern the
+24 proceedings of a grand jury. Disclosure of such production, attendance, and testimony may be made
+25 to such members of the staff of the office of the inspector general as is deemed necessary in the
+26 performance of the inspector general's duties and responsibilities under this chapter, and such
+27 members of the staff may be present at the production of records.
+28 42-9.4-9. Subpoena for witness testimony and for release of material evidence.
+29 (a) Whenever the inspector general has reason to believe that a person has information or
+30 evidence in their possession, with respect to any matter which is within the inspector general’s
+31 jurisdiction to investigate, a subpoena may issue for the attendance and testimony, under oath, of
+32 any person as designated, or the surrender of identified items of evidence; provided, however, that
+33 the subpoena may be issued by the inspector general only in the performance of official duties
+34 relating to the detection of fraud, waste, abuse and mismanagement. The subpoena for testimony
+LC000341 - Page 6 of 11
+
+1 or specific items identified, as needed in support of an investigation shall include: the name and
+2 address of the prospective witness or specific items identified, as needed for the investigation and
+3 the reasons for requesting a subpoena for testimony or production of items deemed necessary to
+4 support the investigation.
+5 (b) The inspector general or any other person duly authorized by law shall serve a
+6 subpoena. Once the subpoena is served, the serving officer shall annotate the time and date served,
+7 the person served and the location of service.
+8 (c) A witness required by subpoena to attend and testify under oath and/or produce books
+9 and records or other items as demanded, shall be given not less than forty-eight (48) hours notice
+10 of the time and place for the taking of testimony or delivery of subpoenaed items, unless such notice
+11 shall unduly interfere with the conduct of the investigation.
+12 (d) The witness, at the time of service of a subpoena, shall be notified of the matter under
+13 investigation concerning which the witness will be required to testify. A subject of an investigation
+14 is a person whose conduct is within the scope of the investigation and is suspected of committing
+15 or being party to an offense under investigation. The failure to furnish the witness with any notice
+16 or information required to be given by this section, shall cause the issued subpoena to be invalid.
+17 (e) A person subpoenaed to testify under oath shall appear and testify under oath at the
+18 time and place designated by the subpoena. In addition, the witness shall be notified that they have
+19 a right to consult with and to have an attorney present at the time the testimony is taken, and that
+20 they have a constitutional right not to furnish or produce evidence that may tend to incriminate the
+21 person.
+22 (f) The terms of any such subpoena shall be reasonable and focused on specific testimony
+23 or evidence sought and shall directly relate to the matters under investigation. A subpoena issued
+24 that is broad in nature is not considered valid. No subpoena shall be issued for purposes of
+25 harassment or for any illegitimate or improper purpose. All constitutional and statutory rights and
+26 privileges which exist with respect to any subpoena issued by the inspector general, including the
+27 privilege against self-incrimination, shall have the same force and effect with any and all existing
+28 laws and constitutional rights.
+29 (g) A subpoenaed person may object to the subpoena served upon them in advance of the
+30 return date of the subpoena, by a motion to quash filed in the superior court of the State of Rhode
+31 Island. The filing of a motion to quash shall stay all pending subpoenas until further order of the
+32 superior court. Any justice of the superior court may, upon application by the inspector general,
+33 issue an order to compel the attendance of witnesses subpoenaed, and the giving of testimony under
+34 oath in furtherance of any audit or investigation under this chapter, in the same manner and to the
+LC000341 - Page 7 of 11
+
+1 same extent as before the superior court. Failure to obey any order of the court with respect to a
+2 subpoena may be punished by the court as contempt.
+3 (h) Any subpoena issued pursuant to this section, shall not be made public by the inspector
+4 general or any persons subject to their direction or by any member of the inspector general's office
+5 designated to hear testimony under this section, and the same provisions with reference to secrecy,
+6 which govern grand jury proceedings, shall govern testimony given. Whoever violates the
+7 provisions of this subsection shall be punished by imprisonment for not more than six (6) months
+8 or by a fine of not more than one thousand dollars ($1,000). Disclosure of such testimony may be
+9 made to such members of the staff of the office of inspector general, as is deemed necessary by the
+10 inspector general to assist in the performance of the office's duties and responsibilities and such
+11 members of the staff may be present at the taking of such testimony.
+12 42-9.4-10. Compact – Investigation.
+13 (a) The inspector general shall accept and may investigate or audit complaints or
+14 information from any individual concerning the possible existence of any activity constituting
+15 fraud, waste, abuse and mismanagement, relating to programs and operations as set forth in § 42-
+16 9.4-1.
+17 (b) The inspector general shall not, after receipt of a complaint or information from an
+18 employee, contractor or private citizen who requests confidentiality, disclose the identity of that
+19 individual without the written consent of said individual, unless the inspector general determines
+20 such disclosure is necessary and unavoidable during the course of an investigation. In such event,
+21 the individual shall be notified immediately of the disclosure. The inspector general shall set up an
+22 anonymous hotline for reporting possible wrongdoings.
+23 (c) Employees are protected under chapter 50 of title 28, ("The Rhode Island
+24 Whistleblower's Protection Act").
+25 42-9.4-11. Reports to the attorney general or United States Attorney.
+26 (a) In carrying out their duties and responsibilities, the inspector general shall report to the
+27 attorney general, the United States Attorney or both, whenever the inspector general has reasonable
+28 grounds to believe there has been a violation of federal or state criminal law. The attorney general
+29 shall institute appropriate proceedings in the furtherance of completing an investigation and, if
+30 warranted, refer a matter for criminal prosecution.
+31 (b) The inspector general shall refer audit or investigative findings to the state ethics
+32 commission, or to any other federal, state or local agency, which has an interest in said findings.
+33 (c) Any referrals made under this section shall not be made public.
+34 42-9.4-12. Coordination with other state agencies.
+LC000341 - Page 8 of 11
+
+1 The inspector general may coordinate with other state agencies that are responsible for
+2 investigating, auditing, reviewing or evaluating the management of state agencies for the purpose
+3 of sharing information and avoiding duplication of effort.
+4 42-9.4-13. Civil actions.
+5 The inspector general shall have the authority to institute a civil recovery action, if
+6 authorized by the attorney general. In any case where the inspector general has discovered
+7 fraudulent acts and believes that civil recovery proceedings may be appropriate, the matter shall be
+8 referred to the attorney general. The attorney general may institute whatever proceedings deemed
+9 appropriate, may refer the matter to another state or local agency, may authorize the initiation of
+10 appropriate civil proceedings by the inspector general, may retain the matter for further
+11 investigation, or may remand the matter to the inspector general for further investigation.
+12 42-9.4-14. Annual and interim reports.
+13 (a) The office of inspector general shall, no later than April 1 of each year, prepare a report
+14 summarizing the activities of the office for the prior calendar year. The office may also prepare
+15 interim reports. These reports shall be forwarded to the governor, lieutenant governor, attorney
+16 general, secretary of state, general treasurer and the general assembly, and shall be made available
+17 to the public.
+18 (b) The report shall include, but not be limited to:
+19 (1) A description of significant problems in the areas of fraud, waste and abuse within
+20 programs and operations subject to the jurisdiction of the office;
+21 (2) A description of the recommendations for corrective action made by the office during
+22 the reporting period with respect to significant deficiencies in the areas of fraud, waste and abuse;
+23 (3) The identification of each significant recommendation described in previous annual
+24 reports on which corrective action has not been completed;
+25 (4) A summary of matters referred to prosecuting authorities and the prosecutions and
+26 convictions which have resulted;
+27 (5) A summary of any matters concerning the recovery of monies, as a result of a civil suit
+28 by the office or a referral to another agency for the purposes of such suit; and
+29 (6) A list of all audit reports completed by the office during the reporting period and a
+30 statement of recommendations of amendments to this chapter or the rules, regulations or procedures
+31 governing the office of inspector general, which would improve the effectiveness or the operation
+32 of the office.
+33 (c) The head or governing body of each public body may, within sixty (60) days of receipt,
+34 comment upon any references to the public body contained within the report. The comment, if any,
+LC000341 - Page 9 of 11
+
+1 shall be forwarded to the governor, the attorney general, the general assembly and the office of
+2 inspector general.
+3 (d) The report of the inspector general shall be made public on the day of filing; provided,
+4 that the report shall not list the names of individuals or corporations, nor describe them with
+5 sufficient particularity as to readily identify them to the general public in those cases in which no
+6 official disposition has been made by the office of inspector general, the department of the attorney
+7 general or the local office of the United States Attorney.
+8 SECTION 2. This act shall take effect upon passage.
+========
+LC000341
+========
+LC000341 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+***
+1 This act would establish the office of inspector general as an independent administrative
+2 agency charged with the responsibility to investigate, detect, and prevent fraud, waste, abuse, and
+3 mismanagement in the expenditure of public funds.
+4 This act would take effect upon passage.
+========
+LC000341
+========
+LC000341 - Page 11 of 11
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 T 4 o t G L e " A A G C I 4 T p f w s i g m 4 A h ( " m t p o b a r i o d p]
+[DELETED:  ( o ( ( ( ( ( ( ( I ( o w s ( a a s ( o ( f p ( p 4 ( " t g t t T p s a s b s w r t p a a w a d a i m t o o t f a a a f]
+[DELETED:  a l m a p a i a c j a ( f g e f r ( p p c ( a t f ( v o m c g a s o s 4 ( t a i t g (]
+[DELETED:  W i F w t s a h f c c t j c p a b ( f t c 4 T g a s a s t s o t i g a s a 4 T p 4 ( a p a o l i § 4 T i g s r l a r b e i w b i s t t t o s a l g a a w a f g a a n f S]
+[DELETED:  ( c t t t d o t g a r 4 I ( a t a r r a r p b d r c o m i o ( s o l g a a m b n f c o t d a r a a t b t o b t ( r a a p a ( b d (]
+[DELETED:  d t p t s o m g a a d b t d a r ( a a c ( i g ( d r t p o r r a r p b d r c e c ( g p t t p t p m 4 ( e j a t r]
+[DELETED:  o a t s ( T i g o a o p d a b l s s a s t ( a o s ( i i o o ( t a t p ( o t i b i n i n c v N s s b i f p o h p p l ( r I s i o]
+[DELETED:  s s ( g d w g g j p s g t g W v t p o m i m 4 ( T i g s a a m i o a c o i f 9 ( e i s t a ( E a p u c 5 o t 2 ( R I W 4 ( a g s w ( c ( 4]
+[DELETED:  T i o 4 T i g s h t a t i a c r a i a b t a g I a c w t i g h d f r a a c p b t i g m r t m f f i 4 ( s i g t ( ( p ( t ( r ( c ( b ( s g o ( c]
+[DELETED:  s i ( t s o g S]
+[DELETED:  T a m T]

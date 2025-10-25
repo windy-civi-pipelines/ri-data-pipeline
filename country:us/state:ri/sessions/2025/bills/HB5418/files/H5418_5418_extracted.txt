@@ -1,0 +1,753 @@
+Title: RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+Official Title: RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+Number of Sections: 1
+Source: versions - 5418
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5418
+========
+LC001085
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+AVAILABILITY ACT
+Introduced By: Representatives Nardone, Santucci, Paplauskas, Quattrocchi, Hull,
+Cortvriend, and Place
+Date Introduced: February 12, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-50-3 of the General Laws in Chapter 27-50 entitled "Small
+2 Employer Health Insurance Availability Act" is hereby amended to read as follows:
+3 27-50-3. Definitions.
+4 (a) “Actuarial certification” means a written statement signed by a member of the American
+5 Academy of Actuaries or other individual acceptable to the director that a small employer carrier
+6 is in compliance with the provisions of § 27-50-5, based upon the person’s examination and
+7 including a review of the appropriate records and the actuarial assumptions and methods used by
+8 the small employer carrier in establishing premium rates for applicable health benefit plans.
+9 (b) “Adjusted community rating” means a method used to develop a carrier’s premium that
+10 spreads financial risk across the carrier’s entire small group population in accordance with the
+11 requirements in § 27-50-5.
+12 (c) “Affiliate” or “affiliated” means any entity or person who directly or indirectly through
+13 one or more intermediaries controls or is controlled by, or is under common control with, a specified
+14 entity or person.
+15 (d) “Affiliation period” means a period of time that must expire before health insurance
+16 coverage provided by a carrier becomes effective, and during which the carrier is not required to
+17 provide benefits.
+18 (e) “Bona fide association” means, with respect to health benefit plans offered in this state,
+1 an association that:
+2 (1) Has been actively in existence for at least five (5) years;
+3 (2) Has been formed and maintained in good faith for purposes other than obtaining
+4 insurance;
+5 (3) Does not condition membership in the association on any health status-related factor
+6 relating to an individual (including an employee of an employer or a dependent of an employee);
+7 (4) Makes health insurance coverage offered through the association available to all
+8 members regardless of any health status-related factor relating to those members (or individuals
+9 eligible for coverage through a member);
+10 (5) Does not make health insurance coverage offered through the association available
+11 other than in connection with a member of the association;
+12 (6) Is composed of persons having a common interest or calling;
+13 (7) Has a constitution and bylaws; and
+14 (8) Meets any additional requirements that the director may prescribe by regulation.
+15 (f) “Carrier” or “small employer carrier” means all entities licensed, or required to be
+16 licensed, in this state that offer health benefit plans covering eligible employees of one or more
+17 small employers pursuant to this chapter. For the purposes of this chapter, carrier includes an
+18 insurance company, a nonprofit hospital or medical service corporation, a fraternal benefit society,
+19 a health maintenance organization as defined in chapter 41 of this title or as defined in chapter 62
+20 of title 42, or any other entity subject to state insurance regulation that provides medical care as
+21 defined in subsection (y) that is paid or financed for a small employer by such entity on the basis
+22 of a periodic premium, paid directly or through an association, trust, or other intermediary, and
+23 issued, renewed, or delivered within or without Rhode Island to a small employer pursuant to the
+24 laws of this or any other jurisdiction, including a certificate issued to an eligible employee that
+25 evidences coverage under a policy or contract issued to a trust or association.
+26 (g) “Church plan” has the meaning given this term under section 3(33) of the Employee
+27 Retirement Income Security Act of 1974, 29 U.S.C. § 1002(33).
+28 (h) “Control” is defined in the same manner as in chapter 35 of this title.
+29 (i)(1) “Creditable coverage” means, with respect to an individual, health benefits or
+30 coverage provided under any of the following:
+31 (i) A group health plan;
+32 (ii) A health benefit plan;
+33 (iii) Part A or part B of Title XVIII of the Social Security Act, 42 U.S.C. § 1395c et seq.,
+34 or 42 U.S.C. § 1395j et seq. (Medicare);
+LC001085 - Page 2 of 11
+1 (iv) Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq. (Medicaid), other than
+2 coverage consisting solely of benefits under 42 U.S.C. § 1396s (the program for distribution of
+3 pediatric vaccines);
+4 (v) 10 U.S.C. § 1071 et seq. (medical and dental care for members and certain former
+5 members of the uniformed services, and for their dependents) (Civilian Health and Medical
+6 Program of the Uniformed Services) (CHAMPUS). For purposes of 10 U.S.C. § 1071 et seq.,
+7 “uniformed services” means the armed forces and the commissioned corps of the National Oceanic
+8 and Atmospheric Administration and of the Public Health Service;
+9 (vi) A medical care program of the Indian Health Service or of a tribal organization;
+10 (vii) A state health benefits risk pool;
+11 (viii) A health plan offered under 5 U.S.C. § 8901 et seq. (Federal Employees Health
+12 Benefits Program (FEHBP));
+13 (ix) A public health plan which for purposes of this chapter, means a plan established or
+14 maintained by a state, county, or other political subdivision of a state that provides health insurance
+15 coverage to individuals enrolled in the plan; or
+16 (x) A health benefit plan under section 5(e) of the Peace Corps Act (22 U.S.C. § 2504(e)).
+17 (2) A period of creditable coverage shall not be counted, with respect to enrollment of an
+18 individual under a group health plan, if, after the period and before the enrollment date, the
+19 individual experiences a significant break in coverage.
+20 (j) “Dependent” means a spouse, child under the age twenty-six (26) years, and an
+21 unmarried child of any age who is financially dependent upon the parent and is medically
+22 determined to have a physical or mental impairment that can be expected to result in death or that
+23 has lasted or can be expected to last for a continuous period of not less than twelve (12) months.
+24 (k) “Director” means the director of the department of business regulation.
+25 (l) [Deleted by P.L. 2006, ch. 258, § 2, and P.L. 2006, ch. 296, § 2.]
+26 (m) “Eligible employee” means an employee who works on a full-time basis with a normal
+27 work week of thirty (30) or more hours, except that at the employer’s sole discretion, the term shall
+28 also include an employee who works on a full-time basis with a normal work week of anywhere
+29 between at least seventeen and one-half (17.5) and thirty (30) hours, so long as this eligibility
+30 criterion is applied uniformly among all of the employer’s employees and without regard to any
+31 health status-related factor. The term includes a self-employed individual, a sole proprietor, a
+32 partner of a partnership, and may include an independent contractor, if the self-employed
+33 individual, sole proprietor, partner, or independent contractor is included as an employee under a
+34 health benefit plan of a small employer, but does not include an employee who works on a
+LC001085 - Page 3 of 11
+1 temporary or substitute basis or who works less than seventeen and one-half (17.5) hours per week.
+2 Any retiree under contract with any independently incorporated fire district is also included in the
+3 definition of eligible employee, as well as any former employee of an employer who retired before
+4 normal retirement age, as defined by 42 U.S.C. § 18002(a)(2)(C), while the employer participates
+5 in the early retiree reinsurance program defined by that chapter. Persons covered under a health
+6 benefit plan pursuant to the Consolidated Omnibus Budget Reconciliation Act of 1986 shall not be
+7 considered “eligible employees” for purposes of minimum participation requirements pursuant to
+8 § 27-50-7(d)(9).
+9 (n) “Enrollment date” means the first day of coverage or, if there is a waiting period, the
+10 first day of the waiting period, whichever is earlier.
+11 (o) “Established geographic service area” means a geographic area, as approved by the
+12 director and based on the carrier’s certificate of authority to transact insurance in this state, within
+13 which the carrier is authorized to provide coverage.
+14 (p) “Family composition” means the:
+15 (1) Enrollee;
+16 (2) Enrollee, spouse, and children;
+17 (3) Enrollee and spouse; or
+18 (4) Enrollee and children.
+19 (q) “Genetic information” means information about genes, gene products, and inherited
+20 characteristics that may derive from the individual or a family member. This includes information
+21 regarding carrier status and information derived from laboratory tests that identify mutations in
+22 specific genes or chromosomes, physical medical examinations, family histories, and direct
+23 analysis of genes or chromosomes.
+24 (r) “Governmental plan” has the meaning given the term under section 3(32) of the
+25 Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(32), and any federal
+26 governmental plan.
+27 (s)(1) “Group health plan” means an employee welfare benefit plan as defined in section
+28 3(1) of the Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(1), to the extent
+29 that the plan provides medical care, as defined in subsection (y) of this section, and including items
+30 and services paid for as medical care to employees or their dependents as defined under the terms
+31 of the plan directly or through insurance, reimbursement, or otherwise.
+32 (2) For purposes of this chapter:
+33 (i) Any plan, fund, or program that would not be, but for Public Health Service Act Section
+34 2721(e), 42 U.S.C. § 300gg(e), as added by Pub. L. No. 104-191, an employee welfare benefit plan
+LC001085 - Page 4 of 11
+1 and that is established or maintained by a partnership, to the extent that the plan, fund, or program
+2 provides medical care, including items and services paid for as medical care, to present or former
+3 partners in the partnership, or to their dependents, as defined under the terms of the plan, fund, or
+4 program, directly or through insurance, reimbursement or otherwise, shall be treated, subject to
+5 subsection (s)(2)(ii) of this section, as an employee welfare benefit plan that is a group health plan;
+6 (ii) In the case of a group health plan, the term “employer” also includes the partnership in
+7 relation to any partner; and
+8 (iii) In the case of a group health plan, the term “participant” also includes an individual
+9 who is, or may become, eligible to receive a benefit under the plan, or the individual’s beneficiary
+10 who is, or may become, eligible to receive a benefit under the plan, if:
+11 (A) In connection with a group health plan maintained by a partnership, the individual is a
+12 partner in relation to the partnership; or
+13 (B) In connection with a group health plan maintained by a self-employed individual, under
+14 which one or more employees are participants, the individual is the self-employed individual.
+15 (t)(1) “Health benefit plan” means any hospital or medical policy or certificate, major
+16 medical expense insurance, hospital or medical service corporation subscriber contract, or health
+17 maintenance organization subscriber contract. Health benefit plan includes short-term and
+18 catastrophic health insurance policies, and a policy that pays on a cost-incurred basis, except as
+19 otherwise specifically exempted in this definition.
+20 (2) “Health benefit plan” does not include one or more, or any combination of, the
+21 following:
+22 (i) Coverage only for accident or disability income insurance, or any combination of those;
+23 (ii) Coverage issued as a supplement to liability insurance;
+24 (iii) Liability insurance, including general liability insurance and automobile liability
+25 insurance;
+26 (iv) Workers’ compensation or similar insurance;
+27 (v) Automobile medical payment insurance;
+28 (vi) Credit-only insurance;
+29 (vii) Coverage for on-site medical clinics; and
+30 (viii) Other similar insurance coverage, specified in federal regulations issued pursuant to
+31 Pub. L. No. 104-191, under which benefits for medical care are secondary or incidental to other
+32 insurance benefits.
+33 (3) “Health benefit plan” does not include the following benefits if they are provided under
+34 a separate policy, certificate, or contract of insurance or are otherwise not an integral part of the
+LC001085 - Page 5 of 11
+1 plan:
+2 (i) Limited scope dental or vision benefits;
+3 (ii) Benefits for long-term care, nursing home care, home health care, community-based
+4 care, or any combination of those; or
+5 (iii) Other similar, limited benefits specified in federal regulations issued pursuant to Pub.
+6 L. No. 104-191.
+7 (4) “Health benefit plan” does not include the following benefits if the benefits are provided
+8 under a separate policy, certificate, or contract of insurance, there is no coordination between the
+9 provision of the benefits and any exclusion of benefits under any group health plan maintained by
+10 the same plan sponsor, and the benefits are paid with respect to an event without regard to whether
+11 benefits are provided with respect to such an event under any group health plan maintained by the
+12 same plan sponsor:
+13 (i) Coverage only for a specified disease or illness; or
+14 (ii) Hospital indemnity or other fixed indemnity insurance.
+15 (5) “Health benefit plan” does not include the following if offered as a separate policy,
+16 certificate, or contract of insurance:
+17 (i) Medicare supplemental health insurance as defined under section 1882(g)(1) of the
+18 Social Security Act, 42 U.S.C. § 1395ss(g)(1);
+19 (ii) Coverage supplemental to the coverage provided under 10 U.S.C. § 1071 et seq.; or
+20 (iii) Similar supplemental coverage provided to coverage under a group health plan.
+21 (6) A carrier offering policies or certificates of specified disease, hospital confinement
+22 indemnity, or limited benefit health insurance shall comply with the following:
+23 (i) The carrier files on or before March 1 of each year a certification with the director that
+24 contains the statement and information described in subsection (t)(6)(ii) of this section;
+25 (ii) The certification required in subsection (t)(6)(i) of this section shall contain the
+26 following:
+27 (A) A statement from the carrier certifying that policies or certificates described in this
+28 subsection (t)(6) are being offered and marketed as supplemental health insurance and not as a
+29 substitute for hospital or medical expense insurance or major medical expense insurance; and
+30 (B) A summary description of each policy or certificate described in this subsection (t)(6),
+31 including the average annual premium rates (or range of premium rates in cases where premiums
+32 vary by age or other factors) charged for those policies and certificates in this state; and
+33 (iii) In the case of a policy or certificate that is described in this subsection (t)(6) and that
+34 is offered for the first time in this state on or after July 13, 2000, the carrier shall file with the
+LC001085 - Page 6 of 11
+1 director the information and statement required in subsection (t)(6)(ii) of this section at least thirty
+2 (30) days prior to the date the policy or certificate is issued or delivered in this state.
+3 (u) “Health maintenance organization” or “HMO” means a health maintenance
+4 organization licensed under chapter 41 of this title.
+5 (v) “Health status-related factor” means any of the following factors:
+6 (1) Health status;
+7 (2) Medical condition, including both physical and mental illnesses;
+8 (3) Claims experience;
+9 (4) Receipt of health care;
+10 (5) Medical history;
+11 (6) Genetic information;
+12 (7) Evidence of insurability, including conditions arising out of acts of domestic violence;
+13 or
+14 (8) Disability.
+15 (w)(1) “Late enrollee” means an eligible employee or dependent who requests enrollment
+16 in a health benefit plan of a small employer following the initial enrollment period during which
+17 the individual is entitled to enroll under the terms of the health benefit plan, provided that the initial
+18 enrollment period is a period of at least thirty (30) days.
+19 (2) “Late enrollee” does not mean an eligible employee or dependent:
+20 (i) Who meets each of the following provisions:
+21 (A) The individual was covered under creditable coverage at the time of the initial
+22 enrollment;
+23 (B) The individual lost creditable coverage as a result of cessation of employer
+24 contribution, termination of employment or eligibility, reduction in the number of hours of
+25 employment, involuntary termination of creditable coverage, or death of a spouse, divorce, or legal
+26 separation, or the individual and/or dependents are determined to be eligible for RIteCare under
+27 chapter 5.1 of title 40 [repealed] or chapter 12.3 of title 42 or for RIteShare under chapter 8.4 of
+28 title 40; and
+29 (C) The individual requests enrollment within thirty (30) days after termination of the
+30 creditable coverage or the change in conditions that gave rise to the termination of coverage;
+31 (ii) If, where provided for in contract or where otherwise provided in state law, the
+32 individual enrolls during the specified bona fide open enrollment period;
+33 (iii) If the individual is employed by an employer which offers multiple health benefit plans
+34 and the individual elects a different plan during an open enrollment period;
+LC001085 - Page 7 of 11
+1 (iv) If a court has ordered coverage be provided for a spouse or minor or dependent child
+2 under a covered employee’s health benefit plan and a request for enrollment is made within thirty
+3 (30) days after issuance of the court order;
+4 (v) If the individual changes status from not being an eligible employee to becoming an
+5 eligible employee and requests enrollment within thirty (30) days after the change in status;
+6 (vi) If the individual had coverage under a COBRA continuation provision and the
+7 coverage under that provision has been exhausted; or
+8 (vii) Who meets the requirements for special enrollment pursuant to § 27-50-7 or § 27-50-
+9 8.
+10 (x) “Limited benefit health insurance” means that form of coverage that pays stated
+11 predetermined amounts for specific services or treatments or pays a stated predetermined amount
+12 per day or confinement for one or more named conditions, named diseases, or accidental injury.
+13 (y) “Medical care” means amounts paid for:
+14 (1) The diagnosis, care, mitigation, treatment, or prevention of disease, or amounts paid for
+15 the purpose of affecting any structure or function of the body;
+16 (2) Transportation primarily for and essential to medical care referred to in subsection
+17 (y)(1) of this section; and
+18 (3) Insurance covering medical care referred to in subsections (y)(1) and (y)(2) of this
+19 section.
+20 (z) “Network plan” means a health benefit plan issued by a carrier under which the
+21 financing and delivery of medical care, including items and services paid for as medical care, are
+22 provided, in whole or in part, through a defined set of providers under contract with the carrier.
+23 (aa) “Person” means an individual, a corporation, a partnership, an association, a joint
+24 venture, a joint stock company, a trust, an unincorporated organization, any similar entity, or any
+25 combination of the foregoing.
+26 (bb) “Plan sponsor” has the meaning given this term under section 3(16)(B) of the
+27 Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(16)(B).
+28 (cc)(1) “Preexisting condition” means a condition, regardless of the cause of the condition,
+29 for which medical advice, diagnosis, care, or treatment was recommended or received during the
+30 six (6) months immediately preceding the enrollment date of the coverage.
+31 (2) “Preexisting condition” does not mean a condition for which medical advice, diagnosis,
+32 care, or treatment was recommended or received for the first time while the covered person held
+33 creditable coverage and that was a covered benefit under the health benefit plan, provided that the
+34 prior creditable coverage was continuous to a date not more than ninety (90) days prior to the
+LC001085 - Page 8 of 11
+1 enrollment date of the new coverage.
+2 (3) Genetic information shall not be treated as a condition under subsection (cc)(1) of this
+3 section for which a preexisting condition exclusion may be imposed in the absence of a diagnosis
+4 of the condition related to the information.
+5 (dd) “Premium” means all moneys paid by a small employer and eligible employees as a
+6 condition of receiving coverage from a small employer carrier, including any fees or other
+7 contributions associated with the health benefit plan.
+8 (ee) “Producer” means any insurance producer licensed under chapter 2.4 of this title.
+9 (ff) “Rating period” means the calendar period for which premium rates established by a
+10 small employer carrier are assumed to be in effect.
+11 (gg) “Restricted network provision” means any provision of a health benefit plan that
+12 conditions the payment of benefits, in whole or in part, on the use of healthcare providers that have
+13 entered into a contractual arrangement with the carrier pursuant to provide healthcare services to
+14 covered individuals.
+15 (hh) “Risk adjustment mechanism” means the mechanism established pursuant to § 27-
+16 50-16.
+17 (ii) “Self-employed individual” means an individual or sole proprietor who derives a
+18 substantial portion of his or her income from a trade or business through which the individual or
+19 sole proprietor has attempted to earn taxable income and for which he or she has filed the
+20 appropriate Internal Revenue Service Form 1040, Schedule C or F, for the previous taxable year.
+21 (jj) “Significant break in coverage” means a period of ninety (90) consecutive days during
+22 all of which the individual does not have any creditable coverage, except that neither a waiting
+23 period nor an affiliation period is taken into account in determining a significant break in coverage.
+24 (kk) “Small employer” means, except for its use in § 27-50-7, any person, firm,
+25 corporation, partnership, association, political subdivision, or self-employed individual who or that
+26 is actively engaged in business including, but not limited to, a business or a corporation organized
+27 under the Rhode Island Nonprofit Corporation Act, chapter 6 of title 7, or a similar act of another
+28 state that, on at least fifty percent (50%) of its working days during the preceding calendar quarter,
+29 employed no more than fifty (50) one hundred (100) eligible employees, with a normal work week
+30 of thirty (30) or more hours, the majority of whom were employed within this state, and is not
+31 formed primarily for purposes of buying health insurance and in which a bona fide employer-
+32 employee relationship exists. In determining the number of eligible employees, companies that are
+33 affiliated companies, or that are eligible to file a combined tax return for purposes of taxation by
+34 this state, shall be considered one employer. Subsequent to the issuance of a health benefit plan to
+LC001085 - Page 9 of 11
+1 a small employer and for the purpose of determining continued eligibility, the size of a small
+2 employer shall be determined annually. Except as otherwise specifically provided, provisions of
+3 this chapter that apply to a small employer shall continue to apply at least until the plan anniversary
+4 following the date the small employer no longer meets the requirements of this definition. The term
+5 small employer includes a self-employed individual.
+6 (ll) “Waiting period” means, with respect to a group health plan and an individual who is
+7 a potential enrollee in the plan, the period that must pass with respect to the individual before the
+8 individual is eligible to be covered for benefits under the terms of the plan. For purposes of
+9 calculating periods of creditable coverage pursuant to subsection (i)(2) of this section, a waiting
+10 period shall not be considered a gap in coverage.
+11 (mm) “Wellness health benefit plan” means a plan developed pursuant to § 27-50-10.
+12 (nn) “Health insurance commissioner” or “commissioner” means that individual appointed
+13 pursuant to § 42-14.5-1 and afforded those powers and duties as set forth in §§ 42-14.5-2 and 42-
+14 14.5-3.
+15 (oo) “Low-wage firm” means those with average wages that fall within the bottom quartile
+16 of all Rhode Island employers.
+17 (pp) “Wellness health benefit plan” means the health benefit plan offered by each small
+18 employer carrier pursuant to § 27-50-7.
+19 (qq) “Commissioner” means the health insurance commissioner.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC001085
+========
+LC001085 - Page 10 of 11
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+***
+1 This act would amend the definition of "small employer" for purposes of the small
+2 employer health insurance availability act to mean a business employing less than one hundred
+3 (100) employees rather than fifty (50) employees.
+4 This act would take effect upon passage.
+========
+LC001085
+========
+LC001085 - Page 11 of 11
+[DELETED: TATE  OF  RHODE  ISLAND B R N S P Q H S 1 S 2 o t G L i C 2 e " E 2 ( A i 2 b i t ( s r 2 ( o e ( c p (]
+[DELETED:  a ( ( H b f a m i g f f p o t o i ( r ( M h i c o t t a a t a m e ( o ( ( ( ( l s i a o d o i l e ( R ( ( “ c m w r t a i h b o c ( ( ( 1 o 1]
+[DELETED:  ( 1 c 1 p ( 1 m o t u s a f t d ( H a M P 1 “ a ( ( ( 8 B ( m c ( 2 ( i u a g p i a t p a b t e d i ( “ m a s c u t a t ( y a a u c o a a w i f d u t p a i m d h ( ( 2 2 ( w a b c h p o a p a m i a i c i t s i h b p o a s e b d n i a e w w o a]
+[DELETED:  t A d n i b c § 2 ( f ( d w ( ( ( ( ( ( c r s g o c p m e f h a d a ( “ p h t m g t t u s 3 o t E R I S A o 1 2 U § 1 a a f g ( 3 1 t a o ( ( 2]
+[DELETED:  a p p p s ( r ( w w ( p ( w ( m m o s c H b p i s a c o ( “ b p d n i o o m o a c o t f ( ( ( L i i g l i a a l i ( ( ( ( ( P i ( a]
+[DELETED:  p ( ( c ( L ( u p t b s ( ( ( c ( S 1 ( 1 ( ( i ( c ( T c r i s ( o t s s c t f ( s s ( i v ( i]
+[DELETED:  d ( ( “ m o o “ m a h m o ( ( ( ( ( ( ( ( o ( ( i t e ( ( ( T i w c u c c a t t o t i e ( T i l c c a a r o c o e c t o e o e r i t n o h o e s c t ( c ( I w p f i c o w o p i s l t i ( a]
+[DELETED:  ( u ( ( e ( I t i h c u a C c p a t c ( 2 8 ( “ b h i m t f o c t p s p p ( ( t ( ( ( s ( “ p m a h b p i b a c u w t f p ( v c ( “ s h t m g t t u s 3 o t E 1 ( f s ( c c p]
+[DELETED:  e ( s o ( c o r c f a s e c i a f o o c ( ( s ( c e c ( 2 5 ( “ i m a i o s p w d a s s p h a t e t i a f w h o s h f t a ( a p ( “ e m e f i u i § 2 a p f c i u s e o f e a t]
+[DELETED:  a e t f s ( a i c p ( 2 ( p 4 4 1 ( o ( e 2 ( S]
+[DELETED:  T a w a t d o " e f p o t s e ( T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5418
+========
+LC001085
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+Introduced By: Representatives Nardone, Santucci, Paplauskas, Quattrocchi, Hull,
+Cortvriend, and Place
+Date Introduced: February 12, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-50-3 of the General Laws in Chapter 27-50 entitled "Small
+2 Employer Health Insurance Availability Act" is hereby amended to read as follows:
+3 27-50-3. Definitions.
+4 (a) “Actuarial certification” means a written statement signed by a member of the American
+5 Academy of Actuaries or other individual acceptable to the director that a small employer carrier
+6 is in compliance with the provisions of § 27-50-5, based upon the person’s examination and
+7 including a review of the appropriate records and the actuarial assumptions and methods used by
+8 the small employer carrier in establishing premium rates for applicable health benefit plans.
+9 (b) “Adjusted community rating” means a method used to develop a carrier’s premium that
+10 spreads financial risk across the carrier’s entire small group population in accordance with the
+11 requirements in § 27-50-5.
+12 (c) “Affiliate” or “affiliated” means any entity or person who directly or indirectly through
+13 one or more intermediaries controls or is controlled by, or is under common control with, a specified
+14 entity or person.
+15 (d) “Affiliation period” means a period of time that must expire before health insurance
+16 coverage provided by a carrier becomes effective, and during which the carrier is not required to
+17 provide benefits.
+18 (e) “Bona fide association” means, with respect to health benefit plans offered in this state,
+
+1 an association that:
+2 (1) Has been actively in existence for at least five (5) years;
+3 (2) Has been formed and maintained in good faith for purposes other than obtaining
+4 insurance;
+5 (3) Does not condition membership in the association on any health status-related factor
+6 relating to an individual (including an employee of an employer or a dependent of an employee);
+7 (4) Makes health insurance coverage offered through the association available to all
+8 members regardless of any health status-related factor relating to those members (or individuals
+9 eligible for coverage through a member);
+10 (5) Does not make health insurance coverage offered through the association available
+11 other than in connection with a member of the association;
+12 (6) Is composed of persons having a common interest or calling;
+13 (7) Has a constitution and bylaws; and
+14 (8) Meets any additional requirements that the director may prescribe by regulation.
+15 (f) “Carrier” or “small employer carrier” means all entities licensed, or required to be
+16 licensed, in this state that offer health benefit plans covering eligible employees of one or more
+17 small employers pursuant to this chapter. For the purposes of this chapter, carrier includes an
+18 insurance company, a nonprofit hospital or medical service corporation, a fraternal benefit society,
+19 a health maintenance organization as defined in chapter 41 of this title or as defined in chapter 62
+20 of title 42, or any other entity subject to state insurance regulation that provides medical care as
+21 defined in subsection (y) that is paid or financed for a small employer by such entity on the basis
+22 of a periodic premium, paid directly or through an association, trust, or other intermediary, and
+23 issued, renewed, or delivered within or without Rhode Island to a small employer pursuant to the
+24 laws of this or any other jurisdiction, including a certificate issued to an eligible employee that
+25 evidences coverage under a policy or contract issued to a trust or association.
+26 (g) “Church plan” has the meaning given this term under section 3(33) of the Employee
+27 Retirement Income Security Act of 1974, 29 U.S.C. § 1002(33).
+28 (h) “Control” is defined in the same manner as in chapter 35 of this title.
+29 (i)(1) “Creditable coverage” means, with respect to an individual, health benefits or
+30 coverage provided under any of the following:
+31 (i) A group health plan;
+32 (ii) A health benefit plan;
+33 (iii) Part A or part B of Title XVIII of the Social Security Act, 42 U.S.C. § 1395c et seq.,
+34 or 42 U.S.C. § 1395j et seq. (Medicare);
+LC001085 - Page 2 of 11
+
+1 (iv) Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq. (Medicaid), other than
+2 coverage consisting solely of benefits under 42 U.S.C. § 1396s (the program for distribution of
+3 pediatric vaccines);
+4 (v) 10 U.S.C. § 1071 et seq. (medical and dental care for members and certain former
+5 members of the uniformed services, and for their dependents) (Civilian Health and Medical
+6 Program of the Uniformed Services) (CHAMPUS). For purposes of 10 U.S.C. § 1071 et seq.,
+7 “uniformed services” means the armed forces and the commissioned corps of the National Oceanic
+8 and Atmospheric Administration and of the Public Health Service;
+9 (vi) A medical care program of the Indian Health Service or of a tribal organization;
+10 (vii) A state health benefits risk pool;
+11 (viii) A health plan offered under 5 U.S.C. § 8901 et seq. (Federal Employees Health
+12 Benefits Program (FEHBP));
+13 (ix) A public health plan which for purposes of this chapter, means a plan established or
+14 maintained by a state, county, or other political subdivision of a state that provides health insurance
+15 coverage to individuals enrolled in the plan; or
+16 (x) A health benefit plan under section 5(e) of the Peace Corps Act (22 U.S.C. § 2504(e)).
+17 (2) A period of creditable coverage shall not be counted, with respect to enrollment of an
+18 individual under a group health plan, if, after the period and before the enrollment date, the
+19 individual experiences a significant break in coverage.
+20 (j) “Dependent” means a spouse, child under the age twenty-six (26) years, and an
+21 unmarried child of any age who is financially dependent upon the parent and is medically
+22 determined to have a physical or mental impairment that can be expected to result in death or that
+23 has lasted or can be expected to last for a continuous period of not less than twelve (12) months.
+24 (k) “Director” means the director of the department of business regulation.
+25 (l) [Deleted by P.L. 2006, ch. 258, § 2, and P.L. 2006, ch. 296, § 2.]
+26 (m) “Eligible employee” means an employee who works on a full-time basis with a normal
+27 work week of thirty (30) or more hours, except that at the employer’s sole discretion, the term shall
+28 also include an employee who works on a full-time basis with a normal work week of anywhere
+29 between at least seventeen and one-half (17.5) and thirty (30) hours, so long as this eligibility
+30 criterion is applied uniformly among all of the employer’s employees and without regard to any
+31 health status-related factor. The term includes a self-employed individual, a sole proprietor, a
+32 partner of a partnership, and may include an independent contractor, if the self-employed
+33 individual, sole proprietor, partner, or independent contractor is included as an employee under a
+34 health benefit plan of a small employer, but does not include an employee who works on a
+LC001085 - Page 3 of 11
+
+1 temporary or substitute basis or who works less than seventeen and one-half (17.5) hours per week.
+2 Any retiree under contract with any independently incorporated fire district is also included in the
+3 definition of eligible employee, as well as any former employee of an employer who retired before
+4 normal retirement age, as defined by 42 U.S.C. § 18002(a)(2)(C), while the employer participates
+5 in the early retiree reinsurance program defined by that chapter. Persons covered under a health
+6 benefit plan pursuant to the Consolidated Omnibus Budget Reconciliation Act of 1986 shall not be
+7 considered “eligible employees” for purposes of minimum participation requirements pursuant to
+8 § 27-50-7(d)(9).
+9 (n) “Enrollment date” means the first day of coverage or, if there is a waiting period, the
+10 first day of the waiting period, whichever is earlier.
+11 (o) “Established geographic service area” means a geographic area, as approved by the
+12 director and based on the carrier’s certificate of authority to transact insurance in this state, within
+13 which the carrier is authorized to provide coverage.
+14 (p) “Family composition” means the:
+15 (1) Enrollee;
+16 (2) Enrollee, spouse, and children;
+17 (3) Enrollee and spouse; or
+18 (4) Enrollee and children.
+19 (q) “Genetic information” means information about genes, gene products, and inherited
+20 characteristics that may derive from the individual or a family member. This includes information
+21 regarding carrier status and information derived from laboratory tests that identify mutations in
+22 specific genes or chromosomes, physical medical examinations, family histories, and direct
+23 analysis of genes or chromosomes.
+24 (r) “Governmental plan” has the meaning given the term under section 3(32) of the
+25 Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(32), and any federal
+26 governmental plan.
+27 (s)(1) “Group health plan” means an employee welfare benefit plan as defined in section
+28 3(1) of the Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(1), to the extent
+29 that the plan provides medical care, as defined in subsection (y) of this section, and including items
+30 and services paid for as medical care to employees or their dependents as defined under the terms
+31 of the plan directly or through insurance, reimbursement, or otherwise.
+32 (2) For purposes of this chapter:
+33 (i) Any plan, fund, or program that would not be, but for Public Health Service Act Section
+34 2721(e), 42 U.S.C. § 300gg(e), as added by Pub. L. No. 104-191, an employee welfare benefit plan
+LC001085 - Page 4 of 11
+
+1 and that is established or maintained by a partnership, to the extent that the plan, fund, or program
+2 provides medical care, including items and services paid for as medical care, to present or former
+3 partners in the partnership, or to their dependents, as defined under the terms of the plan, fund, or
+4 program, directly or through insurance, reimbursement or otherwise, shall be treated, subject to
+5 subsection (s)(2)(ii) of this section, as an employee welfare benefit plan that is a group health plan;
+6 (ii) In the case of a group health plan, the term “employer” also includes the partnership in
+7 relation to any partner; and
+8 (iii) In the case of a group health plan, the term “participant” also includes an individual
+9 who is, or may become, eligible to receive a benefit under the plan, or the individual’s beneficiary
+10 who is, or may become, eligible to receive a benefit under the plan, if:
+11 (A) In connection with a group health plan maintained by a partnership, the individual is a
+12 partner in relation to the partnership; or
+13 (B) In connection with a group health plan maintained by a self-employed individual, under
+14 which one or more employees are participants, the individual is the self-employed individual.
+15 (t)(1) “Health benefit plan” means any hospital or medical policy or certificate, major
+16 medical expense insurance, hospital or medical service corporation subscriber contract, or health
+17 maintenance organization subscriber contract. Health benefit plan includes short-term and
+18 catastrophic health insurance policies, and a policy that pays on a cost-incurred basis, except as
+19 otherwise specifically exempted in this definition.
+20 (2) “Health benefit plan” does not include one or more, or any combination of, the
+21 following:
+22 (i) Coverage only for accident or disability income insurance, or any combination of those;
+23 (ii) Coverage issued as a supplement to liability insurance;
+24 (iii) Liability insurance, including general liability insurance and automobile liability
+25 insurance;
+26 (iv) Workers’ compensation or similar insurance;
+27 (v) Automobile medical payment insurance;
+28 (vi) Credit-only insurance;
+29 (vii) Coverage for on-site medical clinics; and
+30 (viii) Other similar insurance coverage, specified in federal regulations issued pursuant to
+31 Pub. L. No. 104-191, under which benefits for medical care are secondary or incidental to other
+32 insurance benefits.
+33 (3) “Health benefit plan” does not include the following benefits if they are provided under
+34 a separate policy, certificate, or contract of insurance or are otherwise not an integral part of the
+LC001085 - Page 5 of 11
+
+1 plan:
+2 (i) Limited scope dental or vision benefits;
+3 (ii) Benefits for long-term care, nursing home care, home health care, community-based
+4 care, or any combination of those; or
+5 (iii) Other similar, limited benefits specified in federal regulations issued pursuant to Pub.
+6 L. No. 104-191.
+7 (4) “Health benefit plan” does not include the following benefits if the benefits are provided
+8 under a separate policy, certificate, or contract of insurance, there is no coordination between the
+9 provision of the benefits and any exclusion of benefits under any group health plan maintained by
+10 the same plan sponsor, and the benefits are paid with respect to an event without regard to whether
+11 benefits are provided with respect to such an event under any group health plan maintained by the
+12 same plan sponsor:
+13 (i) Coverage only for a specified disease or illness; or
+14 (ii) Hospital indemnity or other fixed indemnity insurance.
+15 (5) “Health benefit plan” does not include the following if offered as a separate policy,
+16 certificate, or contract of insurance:
+17 (i) Medicare supplemental health insurance as defined under section 1882(g)(1) of the
+18 Social Security Act, 42 U.S.C. § 1395ss(g)(1);
+19 (ii) Coverage supplemental to the coverage provided under 10 U.S.C. § 1071 et seq.; or
+20 (iii) Similar supplemental coverage provided to coverage under a group health plan.
+21 (6) A carrier offering policies or certificates of specified disease, hospital confinement
+22 indemnity, or limited benefit health insurance shall comply with the following:
+23 (i) The carrier files on or before March 1 of each year a certification with the director that
+24 contains the statement and information described in subsection (t)(6)(ii) of this section;
+25 (ii) The certification required in subsection (t)(6)(i) of this section shall contain the
+26 following:
+27 (A) A statement from the carrier certifying that policies or certificates described in this
+28 subsection (t)(6) are being offered and marketed as supplemental health insurance and not as a
+29 substitute for hospital or medical expense insurance or major medical expense insurance; and
+30 (B) A summary description of each policy or certificate described in this subsection (t)(6),
+31 including the average annual premium rates (or range of premium rates in cases where premiums
+32 vary by age or other factors) charged for those policies and certificates in this state; and
+33 (iii) In the case of a policy or certificate that is described in this subsection (t)(6) and that
+34 is offered for the first time in this state on or after July 13, 2000, the carrier shall file with the
+LC001085 - Page 6 of 11
+
+1 director the information and statement required in subsection (t)(6)(ii) of this section at least thirty
+2 (30) days prior to the date the policy or certificate is issued or delivered in this state.
+3 (u) “Health maintenance organization” or “HMO” means a health maintenance
+4 organization licensed under chapter 41 of this title.
+5 (v) “Health status-related factor” means any of the following factors:
+6 (1) Health status;
+7 (2) Medical condition, including both physical and mental illnesses;
+8 (3) Claims experience;
+9 (4) Receipt of health care;
+10 (5) Medical history;
+11 (6) Genetic information;
+12 (7) Evidence of insurability, including conditions arising out of acts of domestic violence;
+13 or
+14 (8) Disability.
+15 (w)(1) “Late enrollee” means an eligible employee or dependent who requests enrollment
+16 in a health benefit plan of a small employer following the initial enrollment period during which
+17 the individual is entitled to enroll under the terms of the health benefit plan, provided that the initial
+18 enrollment period is a period of at least thirty (30) days.
+19 (2) “Late enrollee” does not mean an eligible employee or dependent:
+20 (i) Who meets each of the following provisions:
+21 (A) The individual was covered under creditable coverage at the time of the initial
+22 enrollment;
+23 (B) The individual lost creditable coverage as a result of cessation of employer
+24 contribution, termination of employment or eligibility, reduction in the number of hours of
+25 employment, involuntary termination of creditable coverage, or death of a spouse, divorce, or legal
+26 separation, or the individual and/or dependents are determined to be eligible for RIteCare under
+27 chapter 5.1 of title 40 [repealed] or chapter 12.3 of title 42 or for RIteShare under chapter 8.4 of
+28 title 40; and
+29 (C) The individual requests enrollment within thirty (30) days after termination of the
+30 creditable coverage or the change in conditions that gave rise to the termination of coverage;
+31 (ii) If, where provided for in contract or where otherwise provided in state law, the
+32 individual enrolls during the specified bona fide open enrollment period;
+33 (iii) If the individual is employed by an employer which offers multiple health benefit plans
+34 and the individual elects a different plan during an open enrollment period;
+LC001085 - Page 7 of 11
+
+1 (iv) If a court has ordered coverage be provided for a spouse or minor or dependent child
+2 under a covered employee’s health benefit plan and a request for enrollment is made within thirty
+3 (30) days after issuance of the court order;
+4 (v) If the individual changes status from not being an eligible employee to becoming an
+5 eligible employee and requests enrollment within thirty (30) days after the change in status;
+6 (vi) If the individual had coverage under a COBRA continuation provision and the
+7 coverage under that provision has been exhausted; or
+8 (vii) Who meets the requirements for special enrollment pursuant to § 27-50-7 or § 27-50-
+9 8.
+10 (x) “Limited benefit health insurance” means that form of coverage that pays stated
+11 predetermined amounts for specific services or treatments or pays a stated predetermined amount
+12 per day or confinement for one or more named conditions, named diseases, or accidental injury.
+13 (y) “Medical care” means amounts paid for:
+14 (1) The diagnosis, care, mitigation, treatment, or prevention of disease, or amounts paid for
+15 the purpose of affecting any structure or function of the body;
+16 (2) Transportation primarily for and essential to medical care referred to in subsection
+17 (y)(1) of this section; and
+18 (3) Insurance covering medical care referred to in subsections (y)(1) and (y)(2) of this
+19 section.
+20 (z) “Network plan” means a health benefit plan issued by a carrier under which the
+21 financing and delivery of medical care, including items and services paid for as medical care, are
+22 provided, in whole or in part, through a defined set of providers under contract with the carrier.
+23 (aa) “Person” means an individual, a corporation, a partnership, an association, a joint
+24 venture, a joint stock company, a trust, an unincorporated organization, any similar entity, or any
+25 combination of the foregoing.
+26 (bb) “Plan sponsor” has the meaning given this term under section 3(16)(B) of the
+27 Employee Retirement Income Security Act of 1974, 29 U.S.C. § 1002(16)(B).
+28 (cc)(1) “Preexisting condition” means a condition, regardless of the cause of the condition,
+29 for which medical advice, diagnosis, care, or treatment was recommended or received during the
+30 six (6) months immediately preceding the enrollment date of the coverage.
+31 (2) “Preexisting condition” does not mean a condition for which medical advice, diagnosis,
+32 care, or treatment was recommended or received for the first time while the covered person held
+33 creditable coverage and that was a covered benefit under the health benefit plan, provided that the
+34 prior creditable coverage was continuous to a date not more than ninety (90) days prior to the
+LC001085 - Page 8 of 11
+
+1 enrollment date of the new coverage.
+2 (3) Genetic information shall not be treated as a condition under subsection (cc)(1) of this
+3 section for which a preexisting condition exclusion may be imposed in the absence of a diagnosis
+4 of the condition related to the information.
+5 (dd) “Premium” means all moneys paid by a small employer and eligible employees as a
+6 condition of receiving coverage from a small employer carrier, including any fees or other
+7 contributions associated with the health benefit plan.
+8 (ee) “Producer” means any insurance producer licensed under chapter 2.4 of this title.
+9 (ff) “Rating period” means the calendar period for which premium rates established by a
+10 small employer carrier are assumed to be in effect.
+11 (gg) “Restricted network provision” means any provision of a health benefit plan that
+12 conditions the payment of benefits, in whole or in part, on the use of healthcare providers that have
+13 entered into a contractual arrangement with the carrier pursuant to provide healthcare services to
+14 covered individuals.
+15 (hh) “Risk adjustment mechanism” means the mechanism established pursuant to § 27-
+16 50-16.
+17 (ii) “Self-employed individual” means an individual or sole proprietor who derives a
+18 substantial portion of his or her income from a trade or business through which the individual or
+19 sole proprietor has attempted to earn taxable income and for which he or she has filed the
+20 appropriate Internal Revenue Service Form 1040, Schedule C or F, for the previous taxable year.
+21 (jj) “Significant break in coverage” means a period of ninety (90) consecutive days during
+22 all of which the individual does not have any creditable coverage, except that neither a waiting
+23 period nor an affiliation period is taken into account in determining a significant break in coverage.
+24 (kk) “Small employer” means, except for its use in § 27-50-7, any person, firm,
+25 corporation, partnership, association, political subdivision, or self-employed individual who or that
+26 is actively engaged in business including, but not limited to, a business or a corporation organized
+27 under the Rhode Island Nonprofit Corporation Act, chapter 6 of title 7, or a similar act of another
+28 state that, on at least fifty percent (50%) of its working days during the preceding calendar quarter,
+29 employed no more than fifty (50) one hundred (100) eligible employees, with a normal work week
+30 of thirty (30) or more hours, the majority of whom were employed within this state, and is not
+31 formed primarily for purposes of buying health insurance and in which a bona fide employer-
+32 employee relationship exists. In determining the number of eligible employees, companies that are
+33 affiliated companies, or that are eligible to file a combined tax return for purposes of taxation by
+34 this state, shall be considered one employer. Subsequent to the issuance of a health benefit plan to
+LC001085 - Page 9 of 11
+
+1 a small employer and for the purpose of determining continued eligibility, the size of a small
+2 employer shall be determined annually. Except as otherwise specifically provided, provisions of
+3 this chapter that apply to a small employer shall continue to apply at least until the plan anniversary
+4 following the date the small employer no longer meets the requirements of this definition. The term
+5 small employer includes a self-employed individual.
+6 (ll) “Waiting period” means, with respect to a group health plan and an individual who is
+7 a potential enrollee in the plan, the period that must pass with respect to the individual before the
+8 individual is eligible to be covered for benefits under the terms of the plan. For purposes of
+9 calculating periods of creditable coverage pursuant to subsection (i)(2) of this section, a waiting
+10 period shall not be considered a gap in coverage.
+11 (mm) “Wellness health benefit plan” means a plan developed pursuant to § 27-50-10.
+12 (nn) “Health insurance commissioner” or “commissioner” means that individual appointed
+13 pursuant to § 42-14.5-1 and afforded those powers and duties as set forth in §§ 42-14.5-2 and 42-
+14 14.5-3.
+15 (oo) “Low-wage firm” means those with average wages that fall within the bottom quartile
+16 of all Rhode Island employers.
+17 (pp) “Wellness health benefit plan” means the health benefit plan offered by each small
+18 employer carrier pursuant to § 27-50-7.
+19 (qq) “Commissioner” means the health insurance commissioner.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC001085
+========
+LC001085 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+***
+1 This act would amend the definition of "small employer" for purposes of the small
+2 employer health insurance availability act to mean a business employing less than one hundred
+3 (100) employees rather than fifty (50) employees.
+4 This act would take effect upon passage.
+========
+LC001085
+========
+LC001085 - Page 11 of 11
+
+[DELETED: TATE  OF  RHODE  ISLAND B R N S P Q H S 1 S 2 o t G L i C 2 e " E 2 ( A i 2 b i t ( s r 2 ( o e ( c p (]
+[DELETED:  a ( ( H b f a m i g f f p o t o i ( r ( M h i c o t t a a t a m e ( o ( ( ( ( l s i a o d o i l e ( R ( ( “ c m w r t a i h b o c ( ( ( 1 o 1]
+[DELETED:  ( 1 c 1 p ( 1 m o t u s a f t d ( H a M P 1 “ a ( ( ( 8 B ( m c ( 2 ( i u a g p i a t p a b t e d i ( “ m a s c u t a t ( y a a u c o a a w i f d u t p a i m d h ( ( 2 2 ( w a b c h p o a p a m i a i c i t s i h b p o a s e b d n i a e w w o a]
+[DELETED:  t A d n i b c § 2 ( f ( d w ( ( ( ( ( ( c r s g o c p m e f h a d a ( “ p h t m g t t u s 3 o t E R I S A o 1 2 U § 1 a a f g ( 3 1 t a o ( ( 2]
+[DELETED:  a p p p s ( r ( w w ( p ( w ( m m o s c H b p i s a c o ( “ b p d n i o o m o a c o t f ( ( ( L i i g l i a a l i ( ( ( ( ( P i ( a]
+[DELETED:  p ( ( c ( L ( u p t b s ( ( ( c ( S 1 ( 1 ( ( i ( c ( T c r i s ( o t s s c t f ( s s ( i v ( i]
+[DELETED:  d ( ( “ m o o “ m a h m o ( ( ( ( ( ( ( ( o ( ( i t e ( ( ( T i w c u c c a t t o t i e ( T i l c c a a r o c o e c t o e o e r i t n o h o e s c t ( c ( I w p f i c o w o p i s l t i ( a]
+[DELETED:  ( u ( ( e ( I t i h c u a C c p a t c ( 2 8 ( “ b h i m t f o c t p s p p ( ( t ( ( ( s ( “ p m a h b p i b a c u w t f p ( v c ( “ s h t m g t t u s 3 o t E 1 ( f s ( c c p]
+[DELETED:  e ( s o ( c o r c f a s e c i a f o o c ( ( s ( c e c ( 2 5 ( “ i m a i o s p w d a s s p h a t e t i a f w h o s h f t a ( a p ( “ e m e f i u i § 2 a p f c i u s e o f e a t]
+[DELETED:  a e t f s ( a i c p ( 2 ( p 4 4 1 ( o ( e 2 ( S]
+[DELETED:  T a w a t d o " e f p o t s e ( T]

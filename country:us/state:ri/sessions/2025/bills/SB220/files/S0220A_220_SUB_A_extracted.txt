@@ -1,0 +1,469 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+Number of Sections: 1
+Source: versions - 220  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0220 SUBSTITUTE A
+========
+LC000977/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+FUNDING PLAN ACT
+Introduced By: Senators DiMario, DiPalma, Sosnowski, Gallo, Lawson, Bissaillon,
+Mack, Thompson, Murray, and Acosta
+Date Introduced: February 10, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-7.4-3 of the General Laws in Chapter 42-7.4 entitled "The
+2 Healthcare Services Funding Plan Act" is hereby amended to read as follows:
+3 42-7.4-3. Imposition of healthcare services funding contribution. [As enacted in 2014.]
+4 (a) Each insurer is required to pay the healthcare services funding contribution for each
+5 contribution enrollee of the insurer at the time the contribution is calculated and paid, at the rate set
+6 forth in this section.
+7 (1) Beginning January 1, 2016 July 1, 2025, the secretary shall set the healthcare services
+8 funding contribution each fiscal year in an amount equal to: (i) The child immunization funding
+9 requirement described in § 23-1-46; plus (ii) The adult immunization funding requirement
+10 described in § 23-1-46; plus (iii) The children’s health services funding requirement described in §
+11 42-12-29; plus (iv) The psychiatry resource network funding requirement described in § 23-1-46.2
+12 and all as divided by; (iv)(v) The number of contribution enrollees of all insurers.
+13 (2) The contribution set forth herein shall be in addition to any other fees or assessments
+14 upon the insurer allowable by law.
+15 (b) The contribution shall be paid by the insurer; provided, however, a person providing
+16 health benefits coverage on a self-insurance basis that uses the services of a third-party
+17 administrator shall not be required to make a contribution for a contribution enrollee where the
+18 contribution on that enrollee has been or will be made by the third-party administrator.
+1 (c) The secretary shall create a process to facilitate the transition to the healthcare services
+2 funding contribution method that: (i) assures adequate funding beginning July 1, 2016, (ii) reflects
+3 that funding via the healthcare services funding contribution method initially will be for only a
+4 portion of the state’s fiscal year, and (iii) avoids duplicate liability for any insurer that made a
+5 payment under the premium assessment method in effect prior to January 1, 2016, for a period for
+6 which it would also be liable for a contribution under the healthcare services funding contribution
+7 method as described in this chapter.
+8 SECTION 2. Chapter 23-1 of the General Laws entitled "Department of Health" is hereby
+9 amended by adding thereto the following section:
+10 23-1-46.2. Psychiatry resource network account.
+11 (a) There is created within the general fund a restricted receipt account to be known as the
+12 "PRN account." All money in the account shall be utilized by the department of health to effectuate
+13 coverage for the following services: Existing Rhode Island lines including the PediPRN and
+14 MomsPRN information lines which are available to providers or residents in the state, and which
+15 are funded pursuant to regulation adopted by the director of the department of health. Amounts
+16 collected pursuant to § 42-7.4-3(a)(1)(iv) shall be collected by the department of health and
+17 deposited in the "PRN account." The funds shall be used solely for the purposes of the "PRN
+18 account," and no other.
+19 (b) Each year's psychiatry resource network funding requirement in § 42-7.4-3(a)(1)(iv)
+20 shall be the amount projected by the department of health in subsection (a) of this section less any
+21 projected carryover of excess funds from prior assessments, grants, or other funding and approved
+22 by the PRN advisory committee.
+23 (c) The department of health shall establish a PRN advisory committee, as determined by
+24 the director of the department of health, that shall include, but not be limited to, representatives
+25 from the department of health; the office of the health insurance commissioner; the executive office
+26 of health and human services; the department of behavioral healthcare, developmental disabilities,
+27 and hospitals; insurers; and other representatives as indicated.
+28 (d) The department of health shall submit to the general assembly an annual report on the
+29 program and costs related to the program, on or before February 1 of each year. The department
+30 shall make available to each insurer required to make a contribution pursuant to § 42-7.4-3, upon
+31 its request, detailed information regarding the programs described in subsection (a) of this section
+32 and the costs related to those programs
+33 (e) The "PRN account" shall be exempt from the indirect costs recovery provisions of §
+34 35-4-27.
+LC000977/SUB A - Page 2 of 7
+1 SECTION 3. Section 35-4-27 of the General Laws in Chapter 35-4 entitled "State Funds"
+2 is hereby amended to read as follows:
+3 35-4-27. Indirect cost recoveries on restricted receipt accounts. [Effective January 1,
+4 2025.]
+5 Indirect cost recoveries of ten percent (10%) of cash receipts shall be transferred from all
+6 restricted receipt accounts, to be recorded as general revenues in the general fund. However, there
+7 shall be no transfer from cash receipts with restrictions received exclusively: (1) From contributions
+8 from nonprofit charitable organizations; (2) From the assessment of indirect cost-recovery rates on
+9 federal grant funds; or (3) Through transfers from state agencies to the department of administration
+10 for the payment of debt service. These indirect cost recoveries shall be applied to all accounts,
+11 unless prohibited by federal law or regulation, court order, or court settlement. The following
+12 restricted receipt accounts shall not be subject to the provisions of this section:
+13 Executive Office of Health and Human Services
+14 Organ Transplant Fund
+15 HIV Care Grant Drug Rebates
+16 Health System Transformation Project
+17 Rhode Island Statewide Opioid Abatement Account
+18 HCBS Support-ARPA
+19 HCBS Admin Support-ARPA
+20 Department of Human Services
+21 Veterans’ home — Restricted account
+22 Veterans’ home — Resident benefits
+23 Pharmaceutical Rebates Account
+24 Demand Side Management Grants
+25 Veteran’s Cemetery Memorial Fund
+26 Donations — New Veterans’ Home Construction
+27 Commodity Supplemental Food Program-Claims
+28 Department of Health
+29 Pandemic medications and equipment account
+30 Miscellaneous Donations/Grants from Non-Profits
+31 State Loan Repayment Match
+32 Healthcare Information Technology
+33 Healthcare services funding accounts for the psychiatry resource network (PRN)
+34 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+LC000977/SUB A - Page 3 of 7
+1 Eleanor Slater non-Medicaid third-party payor account
+2 Hospital Medicare Part D Receipts
+3 RICLAS Group Home Operations
+4 Group Home Facility Improvement Fund
+5 Commission on the Deaf and Hard of Hearing
+6 Emergency and public communication access account
+7 Department of Environmental Management
+8 National heritage revolving fund
+9 Environmental response fund II
+10 Underground storage tanks registration fees
+11 De Coppet Estate Fund
+12 Rhode Island Historical Preservation and Heritage Commission
+13 Historic preservation revolving loan fund
+14 Historic Preservation loan fund — Interest revenue
+15 Department of Public Safety
+16 E-911 Uniform Emergency Telephone System
+17 Forfeited property — Retained
+18 Forfeitures — Federal
+19 Forfeited property — Gambling
+20 Donation — Polygraph and Law Enforcement Training
+21 Rhode Island State Firefighter’s League Training Account
+22 Fire Academy Training Fees Account
+23 Attorney General
+24 Forfeiture of property
+25 Federal forfeitures
+26 Attorney General multi-state account
+27 Forfeited property — Gambling
+28 Department of Administration
+29 OER Reconciliation Funding
+30 Health Insurance Market Integrity Fund
+31 RI Health Benefits Exchange
+32 Information Technology restricted receipt account
+33 Restore and replacement — Insurance coverage
+34 Convention Center Authority rental payments
+LC000977/SUB A - Page 4 of 7
+1 Investment Receipts — TANS
+2 OPEB System Restricted Receipt Account
+3 Car Rental Tax/Surcharge-Warwick Share
+4 Grants Management Administration
+5 RGGI-Executive Climate Change Coordinating Council Projects
+6 Electric Vehicle Charging Stations Operating and Maintenance Account
+7 Department of Housing
+8 Housing Resources and Homelessness Restricted Receipt Account
+9 Housing Production Fund
+10 Low-Income Housing Tax Credit Fund
+11 Department of Revenue
+12 DMV Modernization Project
+13 Jobs Tax Credit Redemption Fund
+14 Legislature
+15 Audit of federal assisted programs
+16 Department of Children, Youth and Families
+17 Children’s Trust Accounts — SSI
+18 Military Staff
+19 RI Military Family Relief Fund
+20 RI National Guard Counterdrug Program
+21 Treasury
+22 Admin. Expenses — State Retirement System
+23 Retirement — Treasury Investment Options
+24 Defined Contribution — Administration - RR
+25 Violent Crimes Compensation — Refunds
+26 Treasury Research Fellowship
+27 Business Regulation
+28 Banking Division Reimbursement Account
+29 Office of the Health Insurance Commissioner Reimbursement Account
+30 Securities Division Reimbursement Account
+31 Commercial Licensing and Racing and Athletics Division Reimbursement Account
+32 Insurance Division Reimbursement Account
+33 Historic Preservation Tax Credit Account
+34 Marijuana Trust Fund
+LC000977/SUB A - Page 5 of 7
+1 Social Equity Assistance Fund
+2 Judiciary
+3 Arbitration Fund Restricted Receipt Account
+4 Third-Party Grants
+5 RI Judiciary Technology Surcharge Account
+6 Department of Elementary and Secondary Education
+7 Statewide Student Transportation Services Account
+8 School for the Deaf Fee-for-Service Account
+9 School for the Deaf — School Breakfast and Lunch Program
+10 Davies Career and Technical School Local Education Aid Account
+11 Davies — National School Breakfast & Lunch Program
+12 School Construction Services
+13 Office of the Postsecondary Commissioner
+14 Higher Education and Industry Center
+15 IGT STEM Scholarships
+16 Department of Labor and Training
+17 Job Development Fund
+18 Contractor Training Restricted Receipt Account
+19 Rhode Island Council on the Arts
+20 Governors’ Portrait Donation Fund
+21 Statewide records management system account
+22 SECTION 4. This act shall take effect on July 1, 2025.
+========
+LC000977/SUB A
+========
+LC000977/SUB A - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+FUNDING PLAN ACT
+***
+1 This act would amend Rhode Island’s existing healthcare services funding plan act by
+2 adding an account relating to a new psychiatry resource network to fund Rhode Island’s present
+3 PediPRN and MomsPRN, as well as similar programs which may be added by regulation in the
+4 future. It would also add an assessment to those previously authorized by the healthcare services
+5 funding plan act for purposes of funding this new account.
+6 This act would take effect on July 1, 2025.
+========
+LC000977/SUB A
+========
+LC000977/SUB A - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND B S D D S G L B S 1 S 4 o t G L i C 4 e " H 4 ( c f ( f r d i § 2 p ( T a i f r d 4 a ( u ( h b c o a s b t u t s o a t a c]
+[DELETED:  ( f t p p w m S a 2 ( " c f t f s E R I l i t P a M a c p t § 4 s b c b t d o h a d a ( s p b ( t f o a ( p s i a ( 3]
+[DELETED:  S i 3 2 I r s f f f u r E O H H R H H D V V P D V D C D P M S H H D]
+[DELETED:  E H R G C E D N E U D R H H D E F F F D R F A F F A F D O H R I R C]
+[DELETED:  I O C G R E D H H L D D J L A D C M R R T A R D V T B B O S C I H M]
+[DELETED:  S J A T R D S S S D D S O H I D J C R G S S]
+[DELETED:  T a P f f T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0220 SUBSTITUTE A
+========
+LC000977/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+FUNDING PLAN ACT
+Introduced By: Senators DiMario, DiPalma, Sosnowski, Gallo, Lawson, Bissaillon,
+Mack, Thompson, Murray, and Acosta
+Date Introduced: February 10, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-7.4-3 of the General Laws in Chapter 42-7.4 entitled "The
+2 Healthcare Services Funding Plan Act" is hereby amended to read as follows:
+3 42-7.4-3. Imposition of healthcare services funding contribution. [As enacted in 2014.]
+4 (a) Each insurer is required to pay the healthcare services funding contribution for each
+5 contribution enrollee of the insurer at the time the contribution is calculated and paid, at the rate set
+6 forth in this section.
+7 (1) Beginning January 1, 2016 July 1, 2025, the secretary shall set the healthcare services
+8 funding contribution each fiscal year in an amount equal to: (i) The child immunization funding
+9 requirement described in § 23-1-46; plus (ii) The adult immunization funding requirement
+10 described in § 23-1-46; plus (iii) The children’s health services funding requirement described in §
+11 42-12-29; plus (iv) The psychiatry resource network funding requirement described in § 23-1-46.2
+12 and all as divided by; (iv)(v) The number of contribution enrollees of all insurers.
+13 (2) The contribution set forth herein shall be in addition to any other fees or assessments
+14 upon the insurer allowable by law.
+15 (b) The contribution shall be paid by the insurer; provided, however, a person providing
+16 health benefits coverage on a self-insurance basis that uses the services of a third-party
+17 administrator shall not be required to make a contribution for a contribution enrollee where the
+18 contribution on that enrollee has been or will be made by the third-party administrator.
+
+1 (c) The secretary shall create a process to facilitate the transition to the healthcare services
+2 funding contribution method that: (i) assures adequate funding beginning July 1, 2016, (ii) reflects
+3 that funding via the healthcare services funding contribution method initially will be for only a
+4 portion of the state’s fiscal year, and (iii) avoids duplicate liability for any insurer that made a
+5 payment under the premium assessment method in effect prior to January 1, 2016, for a period for
+6 which it would also be liable for a contribution under the healthcare services funding contribution
+7 method as described in this chapter.
+8 SECTION 2. Chapter 23-1 of the General Laws entitled "Department of Health" is hereby
+9 amended by adding thereto the following section:
+10 23-1-46.2. Psychiatry resource network account.
+11 (a) There is created within the general fund a restricted receipt account to be known as the
+12 "PRN account." All money in the account shall be utilized by the department of health to effectuate
+13 coverage for the following services: Existing Rhode Island lines including the PediPRN and
+14 MomsPRN information lines which are available to providers or residents in the state, and which
+15 are funded pursuant to regulation adopted by the director of the department of health. Amounts
+16 collected pursuant to § 42-7.4-3(a)(1)(iv) shall be collected by the department of health and
+17 deposited in the "PRN account." The funds shall be used solely for the purposes of the "PRN
+18 account," and no other.
+19 (b) Each year's psychiatry resource network funding requirement in § 42-7.4-3(a)(1)(iv)
+20 shall be the amount projected by the department of health in subsection (a) of this section less any
+21 projected carryover of excess funds from prior assessments, grants, or other funding and approved
+22 by the PRN advisory committee.
+23 (c) The department of health shall establish a PRN advisory committee, as determined by
+24 the director of the department of health, that shall include, but not be limited to, representatives
+25 from the department of health; the office of the health insurance commissioner; the executive office
+26 of health and human services; the department of behavioral healthcare, developmental disabilities,
+27 and hospitals; insurers; and other representatives as indicated.
+28 (d) The department of health shall submit to the general assembly an annual report on the
+29 program and costs related to the program, on or before February 1 of each year. The department
+30 shall make available to each insurer required to make a contribution pursuant to § 42-7.4-3, upon
+31 its request, detailed information regarding the programs described in subsection (a) of this section
+32 and the costs related to those programs
+33 (e) The "PRN account" shall be exempt from the indirect costs recovery provisions of §
+34 35-4-27.
+LC000977/SUB A - Page 2 of 7
+
+1 SECTION 3. Section 35-4-27 of the General Laws in Chapter 35-4 entitled "State Funds"
+2 is hereby amended to read as follows:
+3 35-4-27. Indirect cost recoveries on restricted receipt accounts. [Effective January 1,
+4 2025.]
+5 Indirect cost recoveries of ten percent (10%) of cash receipts shall be transferred from all
+6 restricted receipt accounts, to be recorded as general revenues in the general fund. However, there
+7 shall be no transfer from cash receipts with restrictions received exclusively: (1) From contributions
+8 from nonprofit charitable organizations; (2) From the assessment of indirect cost-recovery rates on
+9 federal grant funds; or (3) Through transfers from state agencies to the department of administration
+10 for the payment of debt service. These indirect cost recoveries shall be applied to all accounts,
+11 unless prohibited by federal law or regulation, court order, or court settlement. The following
+12 restricted receipt accounts shall not be subject to the provisions of this section:
+13 Executive Office of Health and Human Services
+14 Organ Transplant Fund
+15 HIV Care Grant Drug Rebates
+16 Health System Transformation Project
+17 Rhode Island Statewide Opioid Abatement Account
+18 HCBS Support-ARPA
+19 HCBS Admin Support-ARPA
+20 Department of Human Services
+21 Veterans’ home — Restricted account
+22 Veterans’ home — Resident benefits
+23 Pharmaceutical Rebates Account
+24 Demand Side Management Grants
+25 Veteran’s Cemetery Memorial Fund
+26 Donations — New Veterans’ Home Construction
+27 Commodity Supplemental Food Program-Claims
+28 Department of Health
+29 Pandemic medications and equipment account
+30 Miscellaneous Donations/Grants from Non-Profits
+31 State Loan Repayment Match
+32 Healthcare Information Technology
+33 Healthcare services funding accounts for the psychiatry resource network (PRN)
+34 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+LC000977/SUB A - Page 3 of 7
+
+1 Eleanor Slater non-Medicaid third-party payor account
+2 Hospital Medicare Part D Receipts
+3 RICLAS Group Home Operations
+4 Group Home Facility Improvement Fund
+5 Commission on the Deaf and Hard of Hearing
+6 Emergency and public communication access account
+7 Department of Environmental Management
+8 National heritage revolving fund
+9 Environmental response fund II
+10 Underground storage tanks registration fees
+11 De Coppet Estate Fund
+12 Rhode Island Historical Preservation and Heritage Commission
+13 Historic preservation revolving loan fund
+14 Historic Preservation loan fund — Interest revenue
+15 Department of Public Safety
+16 E-911 Uniform Emergency Telephone System
+17 Forfeited property — Retained
+18 Forfeitures — Federal
+19 Forfeited property — Gambling
+20 Donation — Polygraph and Law Enforcement Training
+21 Rhode Island State Firefighter’s League Training Account
+22 Fire Academy Training Fees Account
+23 Attorney General
+24 Forfeiture of property
+25 Federal forfeitures
+26 Attorney General multi-state account
+27 Forfeited property — Gambling
+28 Department of Administration
+29 OER Reconciliation Funding
+30 Health Insurance Market Integrity Fund
+31 RI Health Benefits Exchange
+32 Information Technology restricted receipt account
+33 Restore and replacement — Insurance coverage
+34 Convention Center Authority rental payments
+LC000977/SUB A - Page 4 of 7
+
+1 Investment Receipts — TANS
+2 OPEB System Restricted Receipt Account
+3 Car Rental Tax/Surcharge-Warwick Share
+4 Grants Management Administration
+5 RGGI-Executive Climate Change Coordinating Council Projects
+6 Electric Vehicle Charging Stations Operating and Maintenance Account
+7 Department of Housing
+8 Housing Resources and Homelessness Restricted Receipt Account
+9 Housing Production Fund
+10 Low-Income Housing Tax Credit Fund
+11 Department of Revenue
+12 DMV Modernization Project
+13 Jobs Tax Credit Redemption Fund
+14 Legislature
+15 Audit of federal assisted programs
+16 Department of Children, Youth and Families
+17 Children’s Trust Accounts — SSI
+18 Military Staff
+19 RI Military Family Relief Fund
+20 RI National Guard Counterdrug Program
+21 Treasury
+22 Admin. Expenses — State Retirement System
+23 Retirement — Treasury Investment Options
+24 Defined Contribution — Administration - RR
+25 Violent Crimes Compensation — Refunds
+26 Treasury Research Fellowship
+27 Business Regulation
+28 Banking Division Reimbursement Account
+29 Office of the Health Insurance Commissioner Reimbursement Account
+30 Securities Division Reimbursement Account
+31 Commercial Licensing and Racing and Athletics Division Reimbursement Account
+32 Insurance Division Reimbursement Account
+33 Historic Preservation Tax Credit Account
+34 Marijuana Trust Fund
+LC000977/SUB A - Page 5 of 7
+
+1 Social Equity Assistance Fund
+2 Judiciary
+3 Arbitration Fund Restricted Receipt Account
+4 Third-Party Grants
+5 RI Judiciary Technology Surcharge Account
+6 Department of Elementary and Secondary Education
+7 Statewide Student Transportation Services Account
+8 School for the Deaf Fee-for-Service Account
+9 School for the Deaf — School Breakfast and Lunch Program
+10 Davies Career and Technical School Local Education Aid Account
+11 Davies — National School Breakfast & Lunch Program
+12 School Construction Services
+13 Office of the Postsecondary Commissioner
+14 Higher Education and Industry Center
+15 IGT STEM Scholarships
+16 Department of Labor and Training
+17 Job Development Fund
+18 Contractor Training Restricted Receipt Account
+19 Rhode Island Council on the Arts
+20 Governors’ Portrait Donation Fund
+21 Statewide records management system account
+22 SECTION 4. This act shall take effect on July 1, 2025.
+========
+LC000977/SUB A
+========
+LC000977/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+FUNDING PLAN ACT
+***
+1 This act would amend Rhode Island’s existing healthcare services funding plan act by
+2 adding an account relating to a new psychiatry resource network to fund Rhode Island’s present
+3 PediPRN and MomsPRN, as well as similar programs which may be added by regulation in the
+4 future. It would also add an assessment to those previously authorized by the healthcare services
+5 funding plan act for purposes of funding this new account.
+6 This act would take effect on July 1, 2025.
+========
+LC000977/SUB A
+========
+LC000977/SUB A - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND B S D D S G L B S 1 S 4 o t G L i C 4 e " H 4 ( c f ( f r d i § 2 p ( T a i f r d 4 a ( u ( h b c o a s b t u t s o a t a c]
+[DELETED:  ( f t p p w m S a 2 ( " c f t f s E R I l i t P a M a c p t § 4 s b c b t d o h a d a ( s p b ( t f o a ( p s i a ( 3]
+[DELETED:  S i 3 2 I r s f f f u r E O H H R H H D V V P D V D C D P M S H H D]
+[DELETED:  E H R G C E D N E U D R H H D E F F F D R F A F F A F D O H R I R C]
+[DELETED:  I O C G R E D H H L D D J L A D C M R R T A R D V T B B O S C I H M]
+[DELETED:  S J A T R D S S S D D S O H I D J C R G S S]
+[DELETED:  T a P f f T]

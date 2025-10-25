@@ -1,0 +1,283 @@
+Title: RELATING TO HEALTH AND SAFETY -- MICROPLASTICS REDUCTION ACT
+Official Title: RELATING TO HEALTH AND SAFETY -- MICROPLASTICS REDUCTION ACT
+Number of Sections: 1
+Source: versions - 406
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0406
+========
+LC001453
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Vargas, Lawson, Mack, Euer, Gu, DiPalma, and Sosnowski
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly hereby makes the following findings of fact:
+2 (1) Microplastic pollution is a growing water quality concern for inland and coastal
+3 waterbodies throughout the state, and globally;
+4 (2) The Organization for Economic Cooperation and Development estimates that, left
+5 unchecked, plastic production is expected to triple by 2060;
+6 (3) Research from the University of Rhode Island finds there is now roughly one thousand
+7 (1,000) tons of microplastic in the bottom sediment in Narragansett Bay, with the amount of
+8 microplastic entering the Bay increasing in recent years;
+9 (4) Microplastics are known to enter the body by way of direct contact, ingestion through
+10 food and tap water, and inhalation;
+11 (5) More information is needed to identify the sources of microplastics in the environment.
+12 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+13 amended by adding thereto the following chapter:
+14 CHAPTER 19.19
+15 MICROPLASTICS REDUCTION ACT
+16 23-19.19-1. Short title.
+17 This chapter shall be known and may be cited as the "Microplastics Reduction Act".
+18 23-19.19-2. Definitions.
+19 As used in this chapter, the following words shall have the following meanings:
+1 (1) “Department” means the department of environmental management.
+2 (2) "Intentionally added synthetic polymer microparticles" means synthetic polymer
+3 microplastics that a manufacturer has added to a product to confer a sought-after characteristic, in
+4 mixtures in a concentration equal to or greater than one one-hundredth percent (0.01%) by weight.
+5 (3) "Manufacturer" means the person that manufactures a product or whose brand name is
+6 affixed to the product. In the case of a product imported into the United States, "manufacturer"
+7 includes the importer or first domestic distributor of the product if the person that manufactured or
+8 assembled the product or whose brand name is affixed to the product does not have a presence in
+9 the United States.
+10 (4) "Microplastics" means synthetic polymer microparticles that have been added to a
+11 product or is an intentional or unintentional breakdown product of a consumer or industrial product
+12 or process.
+13 (5) "Particle" means a minute piece of matter, other than single molecules, with defined
+14 physical boundaries.
+15 (6) "Plastic" means a polymer that is solid or semi-solid; the term "plastic" excludes
+16 polymers that are the result of a polymerization process that has taken place in nature,
+17 independently of the process through which they have been extracted, which are not chemically
+18 modified substances.
+19 (7) "Product" means an item manufactured, assembled, packaged or otherwise prepared for
+20 sale to consumers, including its product components, sold or distributed for personal, residential,
+21 commercial or industrial use, including for use in making other products. Product does not mean
+22 used products offered for sale or resale.
+23 (8) "Solid" means a substance or mixture other than a liquid or gas.
+24 (9) "Synthetic polymer microparticles" means polymers that are solid and which fulfill both
+25 of the following conditions:
+26 (i) Are contained in particles and constitute at least one percent (1%) by weight of those
+27 particles; or build a continuous surface coating on particles;
+28 (ii) At least one percent (1%) by weight of the particles fulfill either of the following
+29 conditions:
+30 (A) All dimensions of the particles are equal to or less than five millimeters (5mm);
+31 (B) The length of the particles is equal to or less than fifteen millimeters (15mm) and the
+32 particle's length is greater than three (3) times the diameter;
+33 (iii) "Synthetic polymer microparticles" does not include:
+34 (A) Polymers that are the result of a polymerization process that has taken place in nature
+LC001453 - Page 2 of 5
+1 and not as a result of human intervention, independently of the process through which they have
+2 been extracted, which are not chemically modified substances.
+3 23-19.19-3. Elimination of microplastics.
+4 (a) Beginning January 1, 2029, a manufacturer shall not sell, offer for sale or distribute into
+5 the commerce of this state any product containing intentionally added synthetic polymer
+6 microparticles.
+7 (b) The requirements in subsection (a) of this section shall not apply to products that are
+8 preempted from regulation by federal law.
+9 23-19.19-4. Microplastics testing plan and strategy plan.
+10 (a) The department shall, in consultation with the department of health, develop a
+11 microplastics testing plan to determine if or when to regularly test water, soil and other
+12 environmental media as appropriate for the presence of microplastics, including, but not limited to,
+13 microplastics that have been shed from vehicle tires.
+14 (1) The microplastics testing plan shall describe analytical methods available that are
+15 consistent with the best available science.
+16 (2) The microplastics testing plan shall be made public no later than July 1, 2028. The
+17 department shall update the microplastics testing plan every twenty-four (24) months following the
+18 initial publication.
+19 (b) No later than January 1, 2029, the department shall, in consultation with the department
+20 of health, adopt and publish a statewide microplastics strategy plan that shall include, but not be
+21 limited to, the following:
+22 (1) The characterization of ambient concentrations of microplastics in environmental
+23 media and an assessment of the environmental and health impacts associated with microplastic
+24 contamination using the best available preexisting scientific research;
+25 (2) An investigation of the sources and relative importance of pathways associated with the
+26 environmental impacts of microplastics determined to be significant pursuant subsection (b)(1) of
+27 this section;
+28 (3) A summary of existing scientific research on approaches for reducing the introduction
+29 of microplastics into environmental media from significant pathways of exposure, with an emphasis
+30 on the sizes, shapes, and types of microplastics that are associated with significant environmental
+31 impacts; and
+32 (4) Recommendations for policy changes, including statutory changes, or additional
+33 research that may be needed to reduce or eliminate the presence of microplastics in environmental
+34 media.
+LC001453 - Page 3 of 5
+1 (c) In developing and implementing the statewide microplastics strategy plan, the
+2 department may utilize existing information and leverage ongoing efforts, where possible.
+3 (d) The department shall update the microplastics strategy plan every twenty-four (24)
+4 months following the initial publication.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC001453
+========
+LC001453 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- MICROPLASTICS REDUCTION ACT
+***
+1 This act would prohibit a manufacturer from selling, offering for sale, or distributing into
+2 commerce any product containing synthetic polymer micro particles, beginning January 1, 2029,
+3 would call for the adoption of microplastics testing plan of water, soil, and other environmental
+4 media for the presence of microplastics, and would adopt a statewide microplastics strategy plan.
+5 This act would take effect upon passage.
+========
+LC001453
+========
+LC001453 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S ( M p i a g w q c f i a c w ( u ( ( m ( f ( S a C M 2 T 2 A]
+[DELETED:  ( ( " a s p m m s p m m ( a i a t ( p o ( p ( m a p t o s t " e p t a t r o a p p t h t p i n i m ( s c u ( ( o ( p ( c ( ( p ( (]
+[DELETED:  a b 2 ( t c o t s a p c i a s p m ( p 2 ( T d s i c w t d o h d a m t p t d i o w t r t w s a o e m ( m p s d a m a c ( d i ( o l ( T c o a c o m i e m c ( e t ( o o i ( R f p c i s c o a r m]
+[DELETED:  ( I d a i t s m s p t d ( m S]
+[DELETED:  T c w m T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0406
+========
+LC001453
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- MICROPLASTICS REDUCTION ACT
+Introduced By: Senators Vargas, Lawson, Mack, Euer, Gu, DiPalma, and Sosnowski
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly hereby makes the following findings of fact:
+2 (1) Microplastic pollution is a growing water quality concern for inland and coastal
+3 waterbodies throughout the state, and globally;
+4 (2) The Organization for Economic Cooperation and Development estimates that, left
+5 unchecked, plastic production is expected to triple by 2060;
+6 (3) Research from the University of Rhode Island finds there is now roughly one thousand
+7 (1,000) tons of microplastic in the bottom sediment in Narragansett Bay, with the amount of
+8 microplastic entering the Bay increasing in recent years;
+9 (4) Microplastics are known to enter the body by way of direct contact, ingestion through
+10 food and tap water, and inhalation;
+11 (5) More information is needed to identify the sources of microplastics in the environment.
+12 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+13 amended by adding thereto the following chapter:
+14 CHAPTER 19.19
+15 MICROPLASTICS REDUCTION ACT
+16 23-19.19-1. Short title.
+17 This chapter shall be known and may be cited as the "Microplastics Reduction Act".
+18 23-19.19-2. Definitions.
+19 As used in this chapter, the following words shall have the following meanings:
+
+1 (1) “Department” means the department of environmental management.
+2 (2) "Intentionally added synthetic polymer microparticles" means synthetic polymer
+3 microplastics that a manufacturer has added to a product to confer a sought-after characteristic, in
+4 mixtures in a concentration equal to or greater than one one-hundredth percent (0.01%) by weight.
+5 (3) "Manufacturer" means the person that manufactures a product or whose brand name is
+6 affixed to the product. In the case of a product imported into the United States, "manufacturer"
+7 includes the importer or first domestic distributor of the product if the person that manufactured or
+8 assembled the product or whose brand name is affixed to the product does not have a presence in
+9 the United States.
+10 (4) "Microplastics" means synthetic polymer microparticles that have been added to a
+11 product or is an intentional or unintentional breakdown product of a consumer or industrial product
+12 or process.
+13 (5) "Particle" means a minute piece of matter, other than single molecules, with defined
+14 physical boundaries.
+15 (6) "Plastic" means a polymer that is solid or semi-solid; the term "plastic" excludes
+16 polymers that are the result of a polymerization process that has taken place in nature,
+17 independently of the process through which they have been extracted, which are not chemically
+18 modified substances.
+19 (7) "Product" means an item manufactured, assembled, packaged or otherwise prepared for
+20 sale to consumers, including its product components, sold or distributed for personal, residential,
+21 commercial or industrial use, including for use in making other products. Product does not mean
+22 used products offered for sale or resale.
+23 (8) "Solid" means a substance or mixture other than a liquid or gas.
+24 (9) "Synthetic polymer microparticles" means polymers that are solid and which fulfill both
+25 of the following conditions:
+26 (i) Are contained in particles and constitute at least one percent (1%) by weight of those
+27 particles; or build a continuous surface coating on particles;
+28 (ii) At least one percent (1%) by weight of the particles fulfill either of the following
+29 conditions:
+30 (A) All dimensions of the particles are equal to or less than five millimeters (5mm);
+31 (B) The length of the particles is equal to or less than fifteen millimeters (15mm) and the
+32 particle's length is greater than three (3) times the diameter;
+33 (iii) "Synthetic polymer microparticles" does not include:
+34 (A) Polymers that are the result of a polymerization process that has taken place in nature
+LC001453 - Page 2 of 5
+
+1 and not as a result of human intervention, independently of the process through which they have
+2 been extracted, which are not chemically modified substances.
+3 23-19.19-3. Elimination of microplastics.
+4 (a) Beginning January 1, 2029, a manufacturer shall not sell, offer for sale or distribute into
+5 the commerce of this state any product containing intentionally added synthetic polymer
+6 microparticles.
+7 (b) The requirements in subsection (a) of this section shall not apply to products that are
+8 preempted from regulation by federal law.
+9 23-19.19-4. Microplastics testing plan and strategy plan.
+10 (a) The department shall, in consultation with the department of health, develop a
+11 microplastics testing plan to determine if or when to regularly test water, soil and other
+12 environmental media as appropriate for the presence of microplastics, including, but not limited to,
+13 microplastics that have been shed from vehicle tires.
+14 (1) The microplastics testing plan shall describe analytical methods available that are
+15 consistent with the best available science.
+16 (2) The microplastics testing plan shall be made public no later than July 1, 2028. The
+17 department shall update the microplastics testing plan every twenty-four (24) months following the
+18 initial publication.
+19 (b) No later than January 1, 2029, the department shall, in consultation with the department
+20 of health, adopt and publish a statewide microplastics strategy plan that shall include, but not be
+21 limited to, the following:
+22 (1) The characterization of ambient concentrations of microplastics in environmental
+23 media and an assessment of the environmental and health impacts associated with microplastic
+24 contamination using the best available preexisting scientific research;
+25 (2) An investigation of the sources and relative importance of pathways associated with the
+26 environmental impacts of microplastics determined to be significant pursuant subsection (b)(1) of
+27 this section;
+28 (3) A summary of existing scientific research on approaches for reducing the introduction
+29 of microplastics into environmental media from significant pathways of exposure, with an emphasis
+30 on the sizes, shapes, and types of microplastics that are associated with significant environmental
+31 impacts; and
+32 (4) Recommendations for policy changes, including statutory changes, or additional
+33 research that may be needed to reduce or eliminate the presence of microplastics in environmental
+34 media.
+LC001453 - Page 3 of 5
+
+1 (c) In developing and implementing the statewide microplastics strategy plan, the
+2 department may utilize existing information and leverage ongoing efforts, where possible.
+3 (d) The department shall update the microplastics strategy plan every twenty-four (24)
+4 months following the initial publication.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC001453
+========
+LC001453 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- MICROPLASTICS REDUCTION ACT
+***
+1 This act would prohibit a manufacturer from selling, offering for sale, or distributing into
+2 commerce any product containing synthetic polymer micro particles, beginning January 1, 2029,
+3 would call for the adoption of microplastics testing plan of water, soil, and other environmental
+4 media for the presence of microplastics, and would adopt a statewide microplastics strategy plan.
+5 This act would take effect upon passage.
+========
+LC001453
+========
+LC001453 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( M p i a g w q c f i a c w ( u ( ( m ( f ( S a C M 2 T 2 A]
+[DELETED:  ( ( " a s p m m s p m m ( a i a t ( p o ( p ( m a p t o s t " e p t a t r o a p p t h t p i n i m ( s c u ( ( o ( p ( c ( ( p ( (]
+[DELETED:  a b 2 ( t c o t s a p c i a s p m ( p 2 ( T d s i c w t d o h d a m t p t d i o w t r t w s a o e m ( m p s d a m a c ( d i ( o l ( T c o a c o m i e m c ( e t ( o o i ( R f p c i s c o a r m]
+[DELETED:  ( I d a i t s m s p t d ( m S]
+[DELETED:  T c w m T]

@@ -1,0 +1,479 @@
+Title: RELATING TO HEALTH AND SAFETY -- BED BUGS IN RESIDENTIAL PREMISES ACT
+Official Title: RELATING TO HEALTH AND SAFETY -- BED BUGS IN RESIDENTIAL PREMISES ACT
+Number of Sections: 1
+Source: versions - 200
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0200
+========
+LC000801
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Mack, Bissaillon, Kallman, and Gu
+Date Introduced: February 07, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 104
+4 BED BUGS IN RESIDENTIAL PREMISES
+5 23-104-1. Short title..
+6 This chapter shall be known and may be cited as the "Bed Bugs in Residential Premises
+7 Act."
+8 23-104-2. Definitions.
+9 As used in this chapter:
+10 (1) "Bed bug" means the common bed bug, or cimex lectularius.
+11 (2) "Certified commercial applicator" has the meaning as set forth in § 23- 25-4.
+12 (3) "Commercial applicator" has the meaning as set forth in § 23- 25-4.
+13 (4) "Contiguous dwelling unit" means a dwelling unit that is contiguous with another
+14 dwelling unit, both of which units are owned, managed, leased, or subleased by the same landlord.
+15 (5) "Dwelling unit" means a structure or the part of a structure that is used as a home,
+16 residence, or sleeping place by a tenant.
+17 (6) "Electronic notice" means notice by e-mail or an electronic portal or management
+18 communications system that is available to both a landlord and a tenant.
+19 (7) "Landlord" means the owner, manager, lessor, or sublessor of a residential premises.
+1 (8) "Licensed commercial applicator" has the meaning as set forth in § 23-25-4.
+2 (9) "Pest control agent" means a certified commercial operator, licensed commercial
+3 applicator, or commercial applicator.
+4 (10) "Tenant" has the same meaning as set forth in § 34-18-11.
+5 23-104-3. Bed bugs -- Notification to Landlord -- landlord duties.
+6 (a) A tenant shall promptly notify the tenant's landlord via written or electronic notice when
+7 the tenant knows or reasonably suspects that the tenant's dwelling unit contains bed bugs. A tenant
+8 who gives a landlord electronic notice of a condition shall send such notice only to the e-mail
+9 address, telephone number, or electronic portal specified by the landlord in the rental agreement
+10 for communications. In the absence of such a provision in the rental agreement, the tenant shall
+11 communicate with the landlord in a manner that the landlord has previously used to communicate
+12 with the tenant. The tenant shall retain sufficient proof of the delivery of the electronic notice.
+13 (b) Not more than ninety-six (96) hours after receiving notice of the presence of bed bugs
+14 or the possible presence of bed bugs, a landlord, after providing notice to the tenant as described in
+15 § 23-104-5(a):
+16 (1) Shall obtain an inspection of the dwelling unit by a pest control agent; and
+17 (2) May enter the dwelling unit or any contiguous dwelling unit for the purpose of allowing
+18 the inspection as provided in § 23-104-4.
+19 (c) If the inspection of a dwelling unit confirms the presence of bed bugs, the landlord shall
+20 also cause to be performed an inspection of all contiguous dwelling units as promptly as is
+21 reasonably practical.
+22 23-104-4. Bed bugs -- Inspections -- Treatments -- Cost.
+23 (a) If a landlord obtains an inspection for bed bugs, the landlord shall provide written notice
+24 to the tenant within two (2) business days after the inspection indicating whether the dwelling unit
+25 contains bed bugs.
+26 (b) If a pest control agent conducting an inspection determines that neither the dwelling
+27 unit nor any contiguous dwelling unit contains bed bugs, the notice provided by the landlord
+28 pursuant to subsection (a) of this section shall inform the tenant that if the tenant remains concerned
+29 that the dwelling unit contains bed bugs, the tenant may contact the local health department to
+30 report such concerns.
+31 (c) If a pest control agent conducting an inspection determines that a dwelling unit or any
+32 contiguous dwelling unit contains bed bugs in any stage of the life cycle, the pest control agent
+33 shall provide a report of the determination to the landlord within twenty-four (24) hours. Not later
+34 than five (5) business days after the date of the inspection, the landlord shall commence reasonable
+LC000801 - Page 2 of 7
+1 measures, as determined by the pest control agent, to effectively treat the bed bug presence,
+2 including retaining the services of a pest control agent to treat the dwelling unit and any contiguous
+3 dwelling unit.
+4 (d) Except as otherwise provided in this chapter, a landlord is responsible for all costs
+5 associated with an inspection for, and treatment of, bed bugs. Nothing in this section prohibits a
+6 tenant from contacting any agency at any time concerning the presence of bed bugs.
+7 23-104-5. Bed bugs -- Access to dwelling unit and personal belongings -- Notice costs.
+8 (a)(1) If a landlord or pest control agent must enter a dwelling unit for the purpose of
+9 conducting an inspection for, or treating the presence of, bed bugs, the landlord shall provide the
+10 tenant reasonable written or electronic notice of such fact at least forty-eight (48) hours before the
+11 landlord or pest control agent attempts to enter the dwelling unit; except that a rental agreement
+12 may provide for a different minimum time for the notice. A tenant who receives such notice shall
+13 not unreasonably deny the landlord or pest control agent access to the dwelling unit.
+14 (2) A tenant may waive the notice requirement described in subsection (a)(1) of this
+15 section.
+16 (b) A pest control agent who is inspecting a dwelling unit for bed bugs may conduct an
+17 initial visual and manual inspection of a tenant's bedding and upholstered furniture. The pest control
+18 agent may inspect items other than bedding and upholstered furniture when the pest control agent
+19 determines that such an inspection is necessary and reasonable.
+20 (c) If a pest control agent finds bed bugs in a dwelling unit or in any contiguous dwelling
+21 unit, the qualified inspector may have such additional access to the tenant's personal belongings as
+22 the qualified inspector determines is necessary and reasonable.
+23 (d) A tenant shall comply with reasonable measures to permit the inspection for, and the
+24 treatment of, the presence of bed bugs as determined by the pest control agent, and the tenant is
+25 responsible for all costs associated with preparing the tenant's dwelling unit for inspection and
+26 treatment. A tenant who knowingly and unreasonably fails to comply with the inspection and
+27 treatment requirements provided in this chapter is liable for the cost of any bed bug treatments of
+28 the dwelling unit and contiguous dwelling units if the need for such treatments arises from the
+29 tenant's noncompliance.
+30 (e) If any furniture, clothing, equipment, or personal property belonging to a tenant is found
+31 to contain bed bugs, the qualified inspector shall advise the tenant that the furniture, clothing,
+32 equipment, or personal property should not be removed from the dwelling unit until a pest control
+33 agent determines that a bed bug treatment has been completed; except that, if the determination that
+34 any furniture, clothing, equipment, or personal property contains bed bugs is made by a pest control
+LC000801 - Page 3 of 7
+1 agent then the qualified inspector shall advise the tenant regarding the removal of the furniture,
+2 clothing, equipment, or personal property. The tenant shall not dispose of personal property that
+3 was determined to contain bed bugs in any common area where such disposal may risk the
+4 infestation of other dwelling units.
+5 (f)(1) Nothing in this section requires a landlord to provide a tenant with alternative lodging
+6 or to pay to replace a tenant's personal property.
+7 (2) Nothing in this section preempts or restricts the application of any state or federal law
+8 concerning reasonable accommodations for persons with disabilities.
+9 23-104-6. Bed bugs -- Renting of dwelling units with bed bugs prohibited.
+10 A landlord shall not offer for rent a dwelling unit that the landlord knows or reasonably
+11 suspects to contain bed bugs. Upon request from a prospective tenant, a landlord shall disclose to
+12 the prospective tenant whether, to the landlord's knowledge, the dwelling unit that the landlord is
+13 offering for rent contained bed bugs within the previous eight (8) months. Upon request from a
+14 tenant or a prospective tenant, a landlord shall disclose the last date, if any, on which a dwelling
+15 unit being rented or offered for rent was inspected for, and found to be free of, bed bugs.
+16 23-104-7. Remedies -- Liability.
+17 (a) A landlord who fails to comply with this chapter is liable to the tenant for the tenant's
+18 actual damages.
+19 (b) A landlord may apply to a court of competent jurisdiction to obtain injunctive relief
+20 against a tenant who:
+21 (1) Refuses to provide reasonable access to a dwelling unit; or
+22 (2) Fails to comply with a reasonable request for inspection or treatment of a dwelling unit.
+23 (c) If a court finds that a tenant has unreasonably failed to comply with one or more
+24 requirements set forth in this chapter, the court may issue an order to carry out the provisions of
+25 this chapter including:
+26 (1) Granting the landlord access to the dwelling unit for the purposes set forth in this
+27 chapter;
+28 (2) Granting the landlord the right to engage in bed bug inspection and treatment measures
+29 in the dwelling unit; and
+30 (3) Requiring the tenant to comply with specific bed bug inspection and treatment measures
+31 or assessing the tenant with costs and damages related to the tenant's noncompliance.
+32 (d) Any court order granting a landlord access to a dwelling unit shall be served upon the
+33 tenant at least twenty-four (24) hours before a landlord or pest control agent enters the dwelling
+34 unit.
+LC000801 - Page 4 of 7
+1 (e)(1) The remedies in this section are in addition to any other remedies available at law or
+2 in equity to any person.
+3 (2) This section does not limit or restrict the authority of any state or local housing or health
+4 code enforcement agency.
+5 23-104-8. Bed bug exemption.
+6 Any owner or occupant of a dwelling, dwelling unit or structure in compliance with the
+7 provisions of this chapter shall be exempt from the provision of § 45-24.3-6 with respect to any
+8 condition concerning the infestation of bed bugs.
+9 SECTION 2. Section 45-24.3-6 of the General Laws in Chapter 45-24.3 entitled "Housing
+10 Maintenance and Occupancy Code" is hereby amended to read as follows:
+11 45-24.3-6. Responsibilities of owners and occupants.
+12 (a) No owner or operator or other person shall occupy, or let to another person, any vacant
+13 dwelling, dwelling unit, or structure unless it and the premises are clean, sanitary, fit for human
+14 occupancy, and comply with this chapter and all applicable legal requirements of the state and the
+15 corporate unit.
+16 (b) Every owner of a multiple dwelling is responsible for maintaining, in a clean and
+17 sanitary condition, the shared or public areas of the dwelling and premises. Occupants of two (2)
+18 and three (3) family dwellings shall share the maintenance of clean and sanitary conditions within
+19 the shared or public areas of the dwelling and premises.
+20 (c) Every occupant of a dwelling, dwelling unit, or structure shall maintain in a clean
+21 sanitary condition that part or those parts of the dwelling, dwelling unit, or structure and premises
+22 that the occupant occupies and controls.
+23 (d) Every occupant of a dwelling, dwelling unit, or structure shall dispose of all his or her
+24 rubbish in a clean, sanitary, and safe manner.
+25 (e) Every occupant of a dwelling, dwelling unit, or structure shall dispose of all his or her
+26 garbage and any other organic waste which might provide food for insects and/or rodents in a clean,
+27 sanitary, and safe manner, and if a container is used for storage pending collection it shall be rodent
+28 proof, insect proof, and watertight.
+29 (f) Every owner or operator of a dwelling containing four (4) or more dwelling units shall
+30 supply facilities or containers for the sanitary and safe storage and/or disposal of rubbish and
+31 garbage. In the case of single, two (2) or three (3) family dwellings and structures it is the
+32 responsibility of the occupant to furnish those facilities or refuse containers.
+33 (g) The owner of a dwelling, dwelling unit, or structure is responsible for providing and
+34 hanging all screens and double or storm doors and windows where used for ventilation whenever
+LC000801 - Page 5 of 7
+1 they are required under the provisions of this chapter or any rule or regulation adopted pursuant to
+2 this chapter, except where there is a written agreement between the owner and occupant. In the
+3 absence of an agreement, maintenance or replacement of screens, and storm doors and windows,
+4 once installed in any one season, become the responsibility of the occupant.
+5 (h) The owner of a dwelling or dwelling unit is responsible for the providing and hanging
+6 of shades or other devices on every window of every room used for sleeping and for every room
+7 equipped with a flush water closet or bathtub, affording privacy to persons within those rooms.
+8 Once installed in any one rental by the owner, replacements become the responsibility of the
+9 occupant.
+10 (i) Every occupant of a dwelling containing a single dwelling unit and every occupant of a
+11 structure is responsible for the extermination of any insects, rodents, or other pests therein or on
+12 the premises. Every occupant of a dwelling unit, in a dwelling containing more than one dwelling
+13 unit, is responsible for this extermination whenever his or her dwelling is the only one infected.
+14 Notwithstanding the foregoing provisions of this subsection, whenever infestation is caused by a
+15 failure of the owner to maintain a dwelling in a rodent-proof or reasonably insect-proof condition,
+16 extermination is the responsibility of the owner. Whenever infestation exists in two (2) or more of
+17 the dwelling units in any dwelling, or in the shared or public parts of any dwelling containing two
+18 (2) or more dwelling units, extermination is the responsibility of the owner.
+19 (j) Every occupant of a dwelling unit or structure shall keep all supplied plumbing fixtures
+20 and facilities in a clean and sanitary condition, and is responsible for the exercise of reasonable
+21 care in their proper use and operation.
+22 (k) No owner or occupant of a dwelling, dwelling unit, or structure shall accumulate or
+23 permit the accumulation of rubbish, boxes, lumber, scrap metal, or any other materials in a manner
+24 that may provide a rodent harborage in or about any dwelling, dwelling unit, or structure. Stored
+25 materials shall be stacked neatly in piles elevated at least eighteen inches (18") above the ground
+26 or floor. The provisions of this subsection do not apply to firewood or kindling wood stored in or
+27 about any dwelling, dwelling unit, or structure by the owner or occupant of that property; provided,
+28 that the wood is stored for use within the dwelling, dwelling unit or structure, unless prohibited by
+29 town or city ordinance.
+30 (l) Every owner or occupant of a dwelling, dwelling unit, or structure shall comply with
+31 the provisions of chapter 104 of title 23 relating to bed bugs in residential premises.
+32 SECTION 3. This act shall take effect upon passage.
+========
+LC000801
+========
+LC000801 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BED BUGS IN RESIDENTIAL PREMISES ACT
+***
+1 This act would spell out the responsibilities of both the landlord and tenant with respect to
+2 the inspection and treatment of bed bugs in residential premises.
+3 This act would take effect upon passage.
+========
+LC000801
+========
+LC000801 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND S a C B 2 T A 2 A ( ( ( ( d ( r ( c (]
+[DELETED:  ( ( " c a m a c c o l c a ( 2 ( t w a f c w ( o § ( ( t ( a c t b p a i o a c d u a p a i r 2 ( t c ( u p t r ( c s t]
+[DELETED:  m a d b t p c a e t t b b p i d ( a t 2 ( c t l m n ( A t m w t n d i s ( o t s ( i a d ( u t ( t r t t t t ( t e a a]
+[DELETED:  a c w d t c b b i a c a w s d m r t i ( o ( c 2 A s t o t u 2 ( a ( a ( ( ( r t ( c ( i ( o ( t u]
+[DELETED:  ( i ( c 2 A p c S M 4 ( d o c ( s a t ( s t ( r ( g s p ( s g I t c o s t ( o t ( f d a s i i t r ( h]
+[DELETED:  t t a o ( o e O o ( s t u N f e t ( ( a c ( p t m o a t t ( t S]
+[DELETED:  T t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0200
+========
+LC000801
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BED BUGS IN RESIDENTIAL PREMISES ACT
+Introduced By: Senators Mack, Bissaillon, Kallman, and Gu
+Date Introduced: February 07, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 104
+4 BED BUGS IN RESIDENTIAL PREMISES
+5 23-104-1. Short title..
+6 This chapter shall be known and may be cited as the "Bed Bugs in Residential Premises
+7 Act."
+8 23-104-2. Definitions.
+9 As used in this chapter:
+10 (1) "Bed bug" means the common bed bug, or cimex lectularius.
+11 (2) "Certified commercial applicator" has the meaning as set forth in § 23- 25-4.
+12 (3) "Commercial applicator" has the meaning as set forth in § 23- 25-4.
+13 (4) "Contiguous dwelling unit" means a dwelling unit that is contiguous with another
+14 dwelling unit, both of which units are owned, managed, leased, or subleased by the same landlord.
+15 (5) "Dwelling unit" means a structure or the part of a structure that is used as a home,
+16 residence, or sleeping place by a tenant.
+17 (6) "Electronic notice" means notice by e-mail or an electronic portal or management
+18 communications system that is available to both a landlord and a tenant.
+19 (7) "Landlord" means the owner, manager, lessor, or sublessor of a residential premises.
+
+1 (8) "Licensed commercial applicator" has the meaning as set forth in § 23-25-4.
+2 (9) "Pest control agent" means a certified commercial operator, licensed commercial
+3 applicator, or commercial applicator.
+4 (10) "Tenant" has the same meaning as set forth in § 34-18-11.
+5 23-104-3. Bed bugs -- Notification to Landlord -- landlord duties.
+6 (a) A tenant shall promptly notify the tenant's landlord via written or electronic notice when
+7 the tenant knows or reasonably suspects that the tenant's dwelling unit contains bed bugs. A tenant
+8 who gives a landlord electronic notice of a condition shall send such notice only to the e-mail
+9 address, telephone number, or electronic portal specified by the landlord in the rental agreement
+10 for communications. In the absence of such a provision in the rental agreement, the tenant shall
+11 communicate with the landlord in a manner that the landlord has previously used to communicate
+12 with the tenant. The tenant shall retain sufficient proof of the delivery of the electronic notice.
+13 (b) Not more than ninety-six (96) hours after receiving notice of the presence of bed bugs
+14 or the possible presence of bed bugs, a landlord, after providing notice to the tenant as described in
+15 § 23-104-5(a):
+16 (1) Shall obtain an inspection of the dwelling unit by a pest control agent; and
+17 (2) May enter the dwelling unit or any contiguous dwelling unit for the purpose of allowing
+18 the inspection as provided in § 23-104-4.
+19 (c) If the inspection of a dwelling unit confirms the presence of bed bugs, the landlord shall
+20 also cause to be performed an inspection of all contiguous dwelling units as promptly as is
+21 reasonably practical.
+22 23-104-4. Bed bugs -- Inspections -- Treatments -- Cost.
+23 (a) If a landlord obtains an inspection for bed bugs, the landlord shall provide written notice
+24 to the tenant within two (2) business days after the inspection indicating whether the dwelling unit
+25 contains bed bugs.
+26 (b) If a pest control agent conducting an inspection determines that neither the dwelling
+27 unit nor any contiguous dwelling unit contains bed bugs, the notice provided by the landlord
+28 pursuant to subsection (a) of this section shall inform the tenant that if the tenant remains concerned
+29 that the dwelling unit contains bed bugs, the tenant may contact the local health department to
+30 report such concerns.
+31 (c) If a pest control agent conducting an inspection determines that a dwelling unit or any
+32 contiguous dwelling unit contains bed bugs in any stage of the life cycle, the pest control agent
+33 shall provide a report of the determination to the landlord within twenty-four (24) hours. Not later
+34 than five (5) business days after the date of the inspection, the landlord shall commence reasonable
+LC000801 - Page 2 of 7
+
+1 measures, as determined by the pest control agent, to effectively treat the bed bug presence,
+2 including retaining the services of a pest control agent to treat the dwelling unit and any contiguous
+3 dwelling unit.
+4 (d) Except as otherwise provided in this chapter, a landlord is responsible for all costs
+5 associated with an inspection for, and treatment of, bed bugs. Nothing in this section prohibits a
+6 tenant from contacting any agency at any time concerning the presence of bed bugs.
+7 23-104-5. Bed bugs -- Access to dwelling unit and personal belongings -- Notice costs.
+8 (a)(1) If a landlord or pest control agent must enter a dwelling unit for the purpose of
+9 conducting an inspection for, or treating the presence of, bed bugs, the landlord shall provide the
+10 tenant reasonable written or electronic notice of such fact at least forty-eight (48) hours before the
+11 landlord or pest control agent attempts to enter the dwelling unit; except that a rental agreement
+12 may provide for a different minimum time for the notice. A tenant who receives such notice shall
+13 not unreasonably deny the landlord or pest control agent access to the dwelling unit.
+14 (2) A tenant may waive the notice requirement described in subsection (a)(1) of this
+15 section.
+16 (b) A pest control agent who is inspecting a dwelling unit for bed bugs may conduct an
+17 initial visual and manual inspection of a tenant's bedding and upholstered furniture. The pest control
+18 agent may inspect items other than bedding and upholstered furniture when the pest control agent
+19 determines that such an inspection is necessary and reasonable.
+20 (c) If a pest control agent finds bed bugs in a dwelling unit or in any contiguous dwelling
+21 unit, the qualified inspector may have such additional access to the tenant's personal belongings as
+22 the qualified inspector determines is necessary and reasonable.
+23 (d) A tenant shall comply with reasonable measures to permit the inspection for, and the
+24 treatment of, the presence of bed bugs as determined by the pest control agent, and the tenant is
+25 responsible for all costs associated with preparing the tenant's dwelling unit for inspection and
+26 treatment. A tenant who knowingly and unreasonably fails to comply with the inspection and
+27 treatment requirements provided in this chapter is liable for the cost of any bed bug treatments of
+28 the dwelling unit and contiguous dwelling units if the need for such treatments arises from the
+29 tenant's noncompliance.
+30 (e) If any furniture, clothing, equipment, or personal property belonging to a tenant is found
+31 to contain bed bugs, the qualified inspector shall advise the tenant that the furniture, clothing,
+32 equipment, or personal property should not be removed from the dwelling unit until a pest control
+33 agent determines that a bed bug treatment has been completed; except that, if the determination that
+34 any furniture, clothing, equipment, or personal property contains bed bugs is made by a pest control
+LC000801 - Page 3 of 7
+
+1 agent then the qualified inspector shall advise the tenant regarding the removal of the furniture,
+2 clothing, equipment, or personal property. The tenant shall not dispose of personal property that
+3 was determined to contain bed bugs in any common area where such disposal may risk the
+4 infestation of other dwelling units.
+5 (f)(1) Nothing in this section requires a landlord to provide a tenant with alternative lodging
+6 or to pay to replace a tenant's personal property.
+7 (2) Nothing in this section preempts or restricts the application of any state or federal law
+8 concerning reasonable accommodations for persons with disabilities.
+9 23-104-6. Bed bugs -- Renting of dwelling units with bed bugs prohibited.
+10 A landlord shall not offer for rent a dwelling unit that the landlord knows or reasonably
+11 suspects to contain bed bugs. Upon request from a prospective tenant, a landlord shall disclose to
+12 the prospective tenant whether, to the landlord's knowledge, the dwelling unit that the landlord is
+13 offering for rent contained bed bugs within the previous eight (8) months. Upon request from a
+14 tenant or a prospective tenant, a landlord shall disclose the last date, if any, on which a dwelling
+15 unit being rented or offered for rent was inspected for, and found to be free of, bed bugs.
+16 23-104-7. Remedies -- Liability.
+17 (a) A landlord who fails to comply with this chapter is liable to the tenant for the tenant's
+18 actual damages.
+19 (b) A landlord may apply to a court of competent jurisdiction to obtain injunctive relief
+20 against a tenant who:
+21 (1) Refuses to provide reasonable access to a dwelling unit; or
+22 (2) Fails to comply with a reasonable request for inspection or treatment of a dwelling unit.
+23 (c) If a court finds that a tenant has unreasonably failed to comply with one or more
+24 requirements set forth in this chapter, the court may issue an order to carry out the provisions of
+25 this chapter including:
+26 (1) Granting the landlord access to the dwelling unit for the purposes set forth in this
+27 chapter;
+28 (2) Granting the landlord the right to engage in bed bug inspection and treatment measures
+29 in the dwelling unit; and
+30 (3) Requiring the tenant to comply with specific bed bug inspection and treatment measures
+31 or assessing the tenant with costs and damages related to the tenant's noncompliance.
+32 (d) Any court order granting a landlord access to a dwelling unit shall be served upon the
+33 tenant at least twenty-four (24) hours before a landlord or pest control agent enters the dwelling
+34 unit.
+LC000801 - Page 4 of 7
+
+1 (e)(1) The remedies in this section are in addition to any other remedies available at law or
+2 in equity to any person.
+3 (2) This section does not limit or restrict the authority of any state or local housing or health
+4 code enforcement agency.
+5 23-104-8. Bed bug exemption.
+6 Any owner or occupant of a dwelling, dwelling unit or structure in compliance with the
+7 provisions of this chapter shall be exempt from the provision of § 45-24.3-6 with respect to any
+8 condition concerning the infestation of bed bugs.
+9 SECTION 2. Section 45-24.3-6 of the General Laws in Chapter 45-24.3 entitled "Housing
+10 Maintenance and Occupancy Code" is hereby amended to read as follows:
+11 45-24.3-6. Responsibilities of owners and occupants.
+12 (a) No owner or operator or other person shall occupy, or let to another person, any vacant
+13 dwelling, dwelling unit, or structure unless it and the premises are clean, sanitary, fit for human
+14 occupancy, and comply with this chapter and all applicable legal requirements of the state and the
+15 corporate unit.
+16 (b) Every owner of a multiple dwelling is responsible for maintaining, in a clean and
+17 sanitary condition, the shared or public areas of the dwelling and premises. Occupants of two (2)
+18 and three (3) family dwellings shall share the maintenance of clean and sanitary conditions within
+19 the shared or public areas of the dwelling and premises.
+20 (c) Every occupant of a dwelling, dwelling unit, or structure shall maintain in a clean
+21 sanitary condition that part or those parts of the dwelling, dwelling unit, or structure and premises
+22 that the occupant occupies and controls.
+23 (d) Every occupant of a dwelling, dwelling unit, or structure shall dispose of all his or her
+24 rubbish in a clean, sanitary, and safe manner.
+25 (e) Every occupant of a dwelling, dwelling unit, or structure shall dispose of all his or her
+26 garbage and any other organic waste which might provide food for insects and/or rodents in a clean,
+27 sanitary, and safe manner, and if a container is used for storage pending collection it shall be rodent
+28 proof, insect proof, and watertight.
+29 (f) Every owner or operator of a dwelling containing four (4) or more dwelling units shall
+30 supply facilities or containers for the sanitary and safe storage and/or disposal of rubbish and
+31 garbage. In the case of single, two (2) or three (3) family dwellings and structures it is the
+32 responsibility of the occupant to furnish those facilities or refuse containers.
+33 (g) The owner of a dwelling, dwelling unit, or structure is responsible for providing and
+34 hanging all screens and double or storm doors and windows where used for ventilation whenever
+LC000801 - Page 5 of 7
+
+1 they are required under the provisions of this chapter or any rule or regulation adopted pursuant to
+2 this chapter, except where there is a written agreement between the owner and occupant. In the
+3 absence of an agreement, maintenance or replacement of screens, and storm doors and windows,
+4 once installed in any one season, become the responsibility of the occupant.
+5 (h) The owner of a dwelling or dwelling unit is responsible for the providing and hanging
+6 of shades or other devices on every window of every room used for sleeping and for every room
+7 equipped with a flush water closet or bathtub, affording privacy to persons within those rooms.
+8 Once installed in any one rental by the owner, replacements become the responsibility of the
+9 occupant.
+10 (i) Every occupant of a dwelling containing a single dwelling unit and every occupant of a
+11 structure is responsible for the extermination of any insects, rodents, or other pests therein or on
+12 the premises. Every occupant of a dwelling unit, in a dwelling containing more than one dwelling
+13 unit, is responsible for this extermination whenever his or her dwelling is the only one infected.
+14 Notwithstanding the foregoing provisions of this subsection, whenever infestation is caused by a
+15 failure of the owner to maintain a dwelling in a rodent-proof or reasonably insect-proof condition,
+16 extermination is the responsibility of the owner. Whenever infestation exists in two (2) or more of
+17 the dwelling units in any dwelling, or in the shared or public parts of any dwelling containing two
+18 (2) or more dwelling units, extermination is the responsibility of the owner.
+19 (j) Every occupant of a dwelling unit or structure shall keep all supplied plumbing fixtures
+20 and facilities in a clean and sanitary condition, and is responsible for the exercise of reasonable
+21 care in their proper use and operation.
+22 (k) No owner or occupant of a dwelling, dwelling unit, or structure shall accumulate or
+23 permit the accumulation of rubbish, boxes, lumber, scrap metal, or any other materials in a manner
+24 that may provide a rodent harborage in or about any dwelling, dwelling unit, or structure. Stored
+25 materials shall be stacked neatly in piles elevated at least eighteen inches (18") above the ground
+26 or floor. The provisions of this subsection do not apply to firewood or kindling wood stored in or
+27 about any dwelling, dwelling unit, or structure by the owner or occupant of that property; provided,
+28 that the wood is stored for use within the dwelling, dwelling unit or structure, unless prohibited by
+29 town or city ordinance.
+30 (l) Every owner or occupant of a dwelling, dwelling unit, or structure shall comply with
+31 the provisions of chapter 104 of title 23 relating to bed bugs in residential premises.
+32 SECTION 3. This act shall take effect upon passage.
+========
+LC000801
+========
+LC000801 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BED BUGS IN RESIDENTIAL PREMISES ACT
+***
+1 This act would spell out the responsibilities of both the landlord and tenant with respect to
+2 the inspection and treatment of bed bugs in residential premises.
+3 This act would take effect upon passage.
+========
+LC000801
+========
+LC000801 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C B 2 T A 2 A ( ( ( ( d ( r ( c (]
+[DELETED:  ( ( " c a m a c c o l c a ( 2 ( t w a f c w ( o § ( ( t ( a c t b p a i o a c d u a p a i r 2 ( t c ( u p t r ( c s t]
+[DELETED:  m a d b t p c a e t t b b p i d ( a t 2 ( c t l m n ( A t m w t n d i s ( o t s ( i a d ( u t ( t r t t t t ( t e a a]
+[DELETED:  a c w d t c b b i a c a w s d m r t i ( o ( c 2 A s t o t u 2 ( a ( a ( ( ( r t ( c ( i ( o ( t u]
+[DELETED:  ( i ( c 2 A p c S M 4 ( d o c ( s a t ( s t ( r ( g s p ( s g I t c o s t ( o t ( f d a s i i t r ( h]
+[DELETED:  t t a o ( o e O o ( s t u N f e t ( ( a c ( p t m o a t t ( t S]
+[DELETED:  T t T]

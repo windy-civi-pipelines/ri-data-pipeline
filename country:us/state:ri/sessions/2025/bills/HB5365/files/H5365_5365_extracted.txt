@@ -1,0 +1,133 @@
+Title: RELATING TO FIDUCIARIES -- APPLICATION OF LAWS TO TRUSTS
+Official Title: RELATING TO FIDUCIARIES -- APPLICATION OF LAWS TO TRUSTS
+Number of Sections: 1
+Source: versions - 5365
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5365
+========
+LC001312
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Craven, Caldwell, and McEntee
+Date Introduced: February 07, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 18-1 of the General Laws entitled "Application of Laws to Trusts"
+2 is hereby amended by adding thereto the following section:
+3 18-1-5. Confidential communications.
+4 (a) A communication between an attorney and a client acting as a trustee or other fiduciary,
+5 is privileged and protected from disclosure to the same extent as if the client was acting in the
+6 client's individual capacity and not acting as a trustee or other fiduciary.
+7 (b) The privilege is not waived by:
+8 (1) A fiduciary relationship between the trustee or other fiduciary, and a beneficiary of the
+9 trust; or
+10 (2) The use of trust property to compensate the attorney for legal services rendered to the
+11 trustee or other fiduciary.
+12 (c) If an attorney's client is a trustee or other fiduciary, then the attorney's client is only the
+13 person acting as trustee or other fiduciary. A successor trustee or other fiduciary is not the attorney's
+14 client solely by reason of succeeding the person with whom the attorney had an attorney-client
+15 relationship.
+16 (d) A trustee or other fiduciary, and their successor may agree to share privileged
+17 communications relating to some or all matters involving the trust. The disclosure of privileged
+18 communications under the agreement does not waive the disclosing party's privilege. Unless the
+19 agreement provides otherwise, privileged communications disclosed under the agreement shall not
+1 be disclosed to a third party without the disclosing party's consent or a court order.
+2 (e) This section shall not impair or abridge the law governing exceptions to the attorney-
+3 client privilege relative to claimants through the same deceased.
+4 SECTION 2. This act shall take effect upon passage.
+========
+LC001312
+========
+LC001312 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FIDUCIARIES -- APPLICATION OF LAWS TO TRUSTS
+***
+1 This act would provide that a communication between an attorney and client acting as a
+2 trustee or other fiduciary, is privileged and protected from disclosure to the same extent as if the
+3 client was acting in his, her, or its individual capacity.
+4 This act would take effect upon passage.
+========
+LC001312
+========
+LC001312 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S i 1 ( i c ( ( t ( t ( p c r ( A t o o f a t s m a t s p c c a]
+[DELETED:  b ( c S]
+[DELETED:  T t c T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5365
+========
+LC001312
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FIDUCIARIES -- APPLICATION OF LAWS TO TRUSTS
+Introduced By: Representatives Craven, Caldwell, and McEntee
+Date Introduced: February 07, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 18-1 of the General Laws entitled "Application of Laws to Trusts"
+2 is hereby amended by adding thereto the following section:
+3 18-1-5. Confidential communications.
+4 (a) A communication between an attorney and a client acting as a trustee or other fiduciary,
+5 is privileged and protected from disclosure to the same extent as if the client was acting in the
+6 client's individual capacity and not acting as a trustee or other fiduciary.
+7 (b) The privilege is not waived by:
+8 (1) A fiduciary relationship between the trustee or other fiduciary, and a beneficiary of the
+9 trust; or
+10 (2) The use of trust property to compensate the attorney for legal services rendered to the
+11 trustee or other fiduciary.
+12 (c) If an attorney's client is a trustee or other fiduciary, then the attorney's client is only the
+13 person acting as trustee or other fiduciary. A successor trustee or other fiduciary is not the attorney's
+14 client solely by reason of succeeding the person with whom the attorney had an attorney-client
+15 relationship.
+16 (d) A trustee or other fiduciary, and their successor may agree to share privileged
+17 communications relating to some or all matters involving the trust. The disclosure of privileged
+18 communications under the agreement does not waive the disclosing party's privilege. Unless the
+19 agreement provides otherwise, privileged communications disclosed under the agreement shall not
+
+1 be disclosed to a third party without the disclosing party's consent or a court order.
+2 (e) This section shall not impair or abridge the law governing exceptions to the attorney-
+3 client privilege relative to claimants through the same deceased.
+4 SECTION 2. This act shall take effect upon passage.
+========
+LC001312
+========
+LC001312 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FIDUCIARIES -- APPLICATION OF LAWS TO TRUSTS
+***
+1 This act would provide that a communication between an attorney and client acting as a
+2 trustee or other fiduciary, is privileged and protected from disclosure to the same extent as if the
+3 client was acting in his, her, or its individual capacity.
+4 This act would take effect upon passage.
+========
+LC001312
+========
+LC001312 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S i 1 ( i c ( ( t ( t ( p c r ( A t o o f a t s m a t s p c c a]
+[DELETED:  b ( c S]
+[DELETED:  T t c T]

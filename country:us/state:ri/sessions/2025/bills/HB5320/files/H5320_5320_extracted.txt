@@ -1,0 +1,155 @@
+Title: RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+Official Title: RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+Number of Sections: 1
+Source: versions - 5320
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5320
+========
+LC000814
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+DRUGS
+Introduced By: Representatives Casey, Potter, Donovan, Speakman, McGaw, Kazarian,
+Dawson, Chippendale, Serpa, and Cortvriend
+Date Introduced: February 05, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 40-21 of the General Laws entitled "Medical Assistance —
+2 Prescription Drugs" is hereby amended by adding thereto the following section:
+3 40-21-4. Prohibition of prior authorization or step therapy protocol.
+4 (a) The Rhode Island medical assistance program, as defined by this chapter, and any
+5 contract between the Rhode Island medical assistance program, as defined under chapter 8 of title
+6 40, and a managed care organization shall not require prior authorization or a step therapy protocol
+7 for the prescription of a nonpreferred medication classified as an anticonvulsant or antipsychotic
+8 on their drug formulary.
+9 (b) If the secretary of health and human services determines that authorization from a
+10 federal agency is necessary for the implementation of this section, the executive office of health
+11 and human services is authorized to seek such state plan amendment and may delay implementing
+12 the provisions until the authorization is granted.
+13 (c) The Rhode Island medical assistance program, as defined under chapter 8 of title 40,
+14 shall require, through amending current and future medical assistance managed care contracts, that
+15 the managed care organizations meet the provisions of this section.
+16 (d) The provisions of subsection (a) of this section do not affect clinical prior authorization
+17 edits to prescriptions of medications classified as an anticonvulsant or antipsychotic.
+18 (e) This section does not prevent the Rhode Island medical assistance program, as defined
+1 under chapter 8 of title 40, and any contract between the Rhode Island medical assistance program
+2 and a managed care organization from denying an exception for a medication that has been removed
+3 from the market due to safety concerns from the federal Food and Drug Administration.
+4 (f) For the purposes of this section, "step therapy protocol" means a protocol that
+5 establishes a specific sequence in which prescription medications for a specified medical condition
+6 are medically necessary for a particular enrollee and are covered under a pharmacy or medical
+7 benefit by a carrier, including self-administered and physician-administered drugs.
+8 SECTION 2. This act shall take effect upon passage and applies to all healthcare policies,
+9 contracts, plans, and certificates executed, delivered, issued for delivery, continued or renewed in
+10 this state on or after January 1, 2026.
+========
+LC000814
+========
+LC000814 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+DRUGS
+***
+1 This act would define step therapy protocol and prohibit the Rhode Island medical
+2 assistance program, and any contract between the Rhode Island medical assistance program and a
+3 managed care organization from requiring prior authorization or a step therapy protocol for the
+4 prescription of a nonpreferred medication classified as an anticonvulsant or antipsychotic.
+5 This act would take effect upon passage and would apply to all policies, contracts, and
+6 plans executed, delivered, issued for delivery, continued or renewed in this state on or after January
+7 1, 2026.
+========
+LC000814
+========
+LC000814 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S 1 C 4 o t G L e " A — P 4 ( c 4 f o ( f a t ( s t ( e (]
+[DELETED:  u a f ( F t p o t s " t p m a p t e a b S c t]
+[DELETED:  T a w d s t p a p t R I m a m p T p 1]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5320
+========
+LC000814
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+DRUGS
+Introduced By: Representatives Casey, Potter, Donovan, Speakman, McGaw, Kazarian,
+Dawson, Chippendale, Serpa, and Cortvriend
+Date Introduced: February 05, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 40-21 of the General Laws entitled "Medical Assistance —
+2 Prescription Drugs" is hereby amended by adding thereto the following section:
+3 40-21-4. Prohibition of prior authorization or step therapy protocol.
+4 (a) The Rhode Island medical assistance program, as defined by this chapter, and any
+5 contract between the Rhode Island medical assistance program, as defined under chapter 8 of title
+6 40, and a managed care organization shall not require prior authorization or a step therapy protocol
+7 for the prescription of a nonpreferred medication classified as an anticonvulsant or antipsychotic
+8 on their drug formulary.
+9 (b) If the secretary of health and human services determines that authorization from a
+10 federal agency is necessary for the implementation of this section, the executive office of health
+11 and human services is authorized to seek such state plan amendment and may delay implementing
+12 the provisions until the authorization is granted.
+13 (c) The Rhode Island medical assistance program, as defined under chapter 8 of title 40,
+14 shall require, through amending current and future medical assistance managed care contracts, that
+15 the managed care organizations meet the provisions of this section.
+16 (d) The provisions of subsection (a) of this section do not affect clinical prior authorization
+17 edits to prescriptions of medications classified as an anticonvulsant or antipsychotic.
+18 (e) This section does not prevent the Rhode Island medical assistance program, as defined
+
+1 under chapter 8 of title 40, and any contract between the Rhode Island medical assistance program
+2 and a managed care organization from denying an exception for a medication that has been removed
+3 from the market due to safety concerns from the federal Food and Drug Administration.
+4 (f) For the purposes of this section, "step therapy protocol" means a protocol that
+5 establishes a specific sequence in which prescription medications for a specified medical condition
+6 are medically necessary for a particular enrollee and are covered under a pharmacy or medical
+7 benefit by a carrier, including self-administered and physician-administered drugs.
+8 SECTION 2. This act shall take effect upon passage and applies to all healthcare policies,
+9 contracts, plans, and certificates executed, delivered, issued for delivery, continued or renewed in
+10 this state on or after January 1, 2026.
+========
+LC000814
+========
+LC000814 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+DRUGS
+***
+1 This act would define step therapy protocol and prohibit the Rhode Island medical
+2 assistance program, and any contract between the Rhode Island medical assistance program and a
+3 managed care organization from requiring prior authorization or a step therapy protocol for the
+4 prescription of a nonpreferred medication classified as an anticonvulsant or antipsychotic.
+5 This act would take effect upon passage and would apply to all policies, contracts, and
+6 plans executed, delivered, issued for delivery, continued or renewed in this state on or after January
+7 1, 2026.
+========
+LC000814
+========
+LC000814 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 C 4 o t G L e " A — P 4 ( c 4 f o ( f a t ( s t ( e (]
+[DELETED:  u a f ( F t p o t s " t p m a p t e a b S c t]
+[DELETED:  T a w d s t p a p t R I m a m p T p 1]

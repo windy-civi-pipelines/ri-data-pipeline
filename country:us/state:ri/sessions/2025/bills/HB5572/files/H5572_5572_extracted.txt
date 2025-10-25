@@ -1,0 +1,488 @@
+Title: RELATING TO INSURANCE -- UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+Official Title: RELATING TO INSURANCE -- UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+Number of Sections: 1
+Source: versions - 5572
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5572
+========
+LC001979
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Cotter, Ajello, and Potter
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-9.1-4 of the General Laws in Chapter 27-9.1 entitled "Unfair
+2 Claims Settlement Practices Act" is hereby amended to read as follows:
+3 27-9.1-4. “Unfair claims practices” defined. [Effective January 1, 2025.]
+4 (a) Any of the following acts by an insurer, if committed in violation of § 27-9.1-3,
+5 constitutes an unfair claims practice:
+6 (1) Misrepresenting to claimants and insured relevant facts or policy provisions relating to
+7 coverage at issue;
+8 (2) Failing to acknowledge and act with reasonable promptness upon pertinent
+9 communications with respect to claims arising under its policies;
+10 (3) Failing to adopt and implement reasonable standards for the prompt investigation and
+11 settlement of claims arising under its policies;
+12 (4) Not attempting in good faith to effectuate prompt, fair, and equitable settlement of
+13 claims submitted in which liability has become reasonably clear;
+14 (5) Compelling insured, beneficiaries, or claimants to institute suits to recover amounts due
+15 under its policies by offering substantially less than the amounts ultimately recovered in suits
+16 brought by them;
+17 (6) Refusing to pay claims without conducting a reasonable investigation;
+18 (7) Failing to affirm or deny coverage of claims within a reasonable time after having
+19 completed its investigation related to the claim or claims;
+1 (8) Attempting to settle or settling claims for less than the amount that a reasonable person
+2 would believe the insured or beneficiary was entitled by reference to written or printed advertising
+3 material accompanying or made part of an application;
+4 (9) Attempting to settle or settling claims on the basis of an application that was materially
+5 altered without notice to, or knowledge or consent of, the insured;
+6 (10) Making claims payments to an insured or beneficiary without indicating the coverage
+7 under which each payment is being made;
+8 (11) Unreasonably delaying the investigation or payment of claims by requiring both a
+9 formal proof of loss form and subsequent verification that would result in duplication of
+10 information and verification appearing in the formal proof of loss form;
+11 (12) Failing in the case of claims denials or offers of compromise settlement to promptly
+12 provide a reasonable and accurate explanation of the basis of those actions;
+13 (13) Failing to provide forms necessary to present claims within ten (10) calendar days of
+14 a request with reasonable explanations regarding their use;
+15 (14) Failing to adopt and implement reasonable standards to assure that the repairs of a
+16 repairer owned by or required to be used by the insurer are performed in a workmanlike manner;
+17 (15) Misleading a claimant as to the applicable statute of limitations;
+18 (16) Failing to respond to a claim within thirty (30) days, unless the insured shall agree to
+19 a longer period;
+20 (17) Engaging in any act or practice of intimidation, coercion, threat, or misrepresentation
+21 of consumers rights, for or against any insured person, claimant, or entity to use a particular rental
+22 car company for motor vehicle replacement services or products; provided, however, nothing shall
+23 prohibit any insurance company, agent, or adjuster from providing to such insured person, claimant,
+24 or entity the names of a rental car company with which arrangements have been made with respect
+25 to motor vehicle replacement services; provided, that the rental car company is licensed pursuant
+26 to § 31-5-33;
+27 (18) Refusing to honor a “direction to pay” executed by:
+28 (i) An insured, claimant, indicating that the insured or claimant wishes to have the
+29 insurance company directly pay the insured’s or claimant’s motor vehicle replacement vehicle
+30 rental benefit to the rental car company of the consumer’s choice; provided, that the rental car
+31 company is licensed pursuant to § 31-5-33. Nothing in this section shall be construed to prevent
+32 the insurance company’s ability to question or challenge the amount charged, in accordance with
+33 its policy provisions, and the requirements of the department of business regulation; provided that,
+34 the insurance company promptly notifies the rental car company in writing of the reason. The
+LC001979 - Page 2 of 8
+1 written notification shall be made at or before the time that the insurance company submits payment
+2 to the rental car company;
+3 (ii) An insured or claimant, indicating that the insured or claimant wishes to have the
+4 insurance company directly pay the insured’s or claimant’s motor vehicle repair benefit, as a single
+5 party payment exclusively to the auto body shop of the consumer’s choice; provided that, the auto
+6 body shop is licensed pursuant to § 5-38-4;
+7 (19) Refusing to honor a “direction to pay” executed by an insured, claimant, indicating
+8 that the insured or claimant wishes to have the insurance company directly pay the insured’s
+9 property damage benefit to the restoration company of the consumer’s choice; provided, however,
+10 that the amount of the claim to be paid directly to the restoration company shall be no greater than
+11 five thousand dollars ($5,000), and that the restoration company is licensed pursuant to § 5-65-3.
+12 Nothing in this section shall be construed to:
+13 (i) Prevent the insurance company’s ability to question or challenge whether the services
+14 billed for are covered by the policy, related to an occurrence covered by the policy, or the amount
+15 charged, in accordance with its policy provisions, and the requirements of the department of
+16 business regulation; or
+17 (ii) Adversely affect the right of any mortgagee or other person with an interest in the policy
+18 unless such mortgagee or other person has also executed the “direction to pay”;
+19 (20) Modifying any published manual, i.e., Motor’s Auto Repair Manual, Mitchells, or any
+20 automated appraisal system, relating to auto body repair without prior agreement between the
+21 parties;
+22 (21) Failing to use a manual or system in its entirety in the appraisal of a motor vehicle;
+23 (22) Refusing to compensate an auto body shop for its documented charges as identified,
+24 and based on, the most current version of automotive industry-recognized software programs or
+25 systems for paint, body, and refinishing materials, utilized in auto body repair, including, but not
+26 limited to, programs such as Mitchell's RMC, PMC Logic, Paint, Micromix, or other paint
+27 manufacturer's programs. An insurer shall not discount documented charges by failing to use a
+28 system in its entirety, including an automotive industry standard markup;
+29 (23) Refusing to acknowledge and compensate an auto body repairer for documented
+30 procedures identified as required or recommended by the original equipment manufacturer, or paint
+31 manufacturer, upon the initial request from the auto body shop, such as, but not limited to, post
+32 collision procedures and components that should not be reused or reinstalled, when included in the
+33 repairer’s appraisal, or when requested by the repairer (i.e., components that cannot be
+34 reused/reinstalled: requiring clips, retainers, hardware, and materials);
+LC001979 - Page 3 of 8
+1 (24) Failing to comply with the requirements of § 31-47-12.1;
+2 (25) Failure to have an appraisal performed by a licensed appraiser where the motor vehicle
+3 has sustained damage estimated to exceed two thousand five hundred dollars ($2,500). The licensed
+4 appraiser referred to herein must be unaffiliated with the repair facility repairing the subject motor
+5 vehicle; must perform a physical inspection of the damaged motor vehicle; and may not perform
+6 an appraisal based upon pictures of the damaged motor vehicle;
+7 (26) Failure of an insurer’s assigned appraiser, or representative, to promptly schedule an
+8 appointment for an appraisal of a damaged vehicle with the auto body repair shop, at an agreed
+9 upon date and time, between normal business hours;
+10 (27) Failure to perform an initial appraisal within three (3) business days after a request is
+11 received from an auto body repair shop, provided the damaged motor vehicle is on the premises of
+12 the repair shop when the request is made, and failure to perform a supplemental appraisal inspection
+13 of a vehicle within four (4) business days after a request is received from an auto body repair shop.
+14 If the insurer’s appraiser fails to inspect the damaged motor vehicle within the allotted number of
+15 business days for an initial appraisal or a supplemental appraisal, the insurer shall forfeit its right
+16 to inspect the damaged vehicle prior to repairs, and negotiations shall be limited to labor and the
+17 price of parts and shall not, unless objective evidence to the contrary is provided by the insurer,
+18 involve disputes as to the existence of damage or the chosen manner of repair. The time limitations
+19 set forth in this subsection may be extended by mutual agreement between the auto body repair
+20 shop and the insurer;
+21 (28) Refusing to extend the rental vehicle coverage requirements of an insured or claimant
+22 proportionally to claim delays caused by the insurer;
+23 (29) Designating a motor vehicle a total loss if the cost to rebuild or reconstruct the motor
+24 vehicle to its pre-accident condition is less than seventy-five percent (75%) of the “fair market
+25 value” of the motor vehicle immediately preceding the time it was damaged:
+26 (i) For the purposes of this subdivision, “fair market value” means the retail value of a
+27 motor vehicle as set forth in a current edition of a nationally recognized compilation of retail values
+28 commonly used by the automotive industry to establish values of motor vehicles or as established
+29 in subsection (vi) of this section;
+30 (ii) Nothing herein shall be construed to require a vehicle be deemed a total loss if the total
+31 cost to rebuild or reconstruct the motor vehicle to its pre-accident condition is greater than seventy-
+32 five percent (75%) of the fair market value of the motor vehicle immediately preceding the time it
+33 was damaged;
+34 (iii) Nothing herein shall prohibit an insurance company from agreeing to deem a vehicle
+LC001979 - Page 4 of 8
+1 a total loss at the vehicle owner’s request and with the vehicle owner’s express written authorization
+2 if the cost to rebuild or reconstruct the motor vehicle to its pre-accident condition is less than
+3 seventy-five percent (75%) of the “fair market value” of the motor vehicle immediately preceding
+4 the time it was damaged;
+5 (iv) If condition adjustments are made to the retail value of a motor vehicle designated a
+6 total loss, all such adjustments must be in accordance with the standards set forth in the current
+7 edition of a nationally recognized compilation of retail values, commonly used by the automotive
+8 industry, used by the insurer to determine the retail value of the vehicle; and all such adjustments,
+9 including prior damage deductions, must be itemized, fair, and reasonable; and
+10 (v) When a vehicle is deemed a total loss, if the insurer is not retaining the salvage, the
+11 insurer must notify the owner of the vehicle in writing of the requirements of obtaining both a
+12 salvage title and a reconstructed title from the department of motor vehicles pursuant to chapter 1
+13 of title 31, and must obtain, in writing, the owner’s consent and acknowledgement that the insurer
+14 is not retaining the salvage and include a statement of the owner’s obligation and potential costs to
+15 dispose of or otherwise retain the salvage; and
+16 (vi) A “consumer accessible fair market value” is a vehicle valuation figure that meets the
+17 following requirements:
+18 (A) Publicly available or accessible via electronic or print published means by consumers;
+19 (B) Commonly used by the automotive industry and car-buying public;
+20 (C) VIN-specific; and
+21 (D) One whose results reflect a vehicle’s unique and widely available characteristics,
+22 including, but not limited to, trim and options, prior damage, prior service and prior ownership
+23 event information;
+24 (30) Negotiating, or effecting the settlement of, a claim for loss or damage covered by an
+25 insurance contract with an unlicensed public adjuster acting on behalf of an insured. Nothing
+26 contained in this section shall be construed to preclude an insurer from dealing with any individual
+27 or entity that is not required to be licensed under chapter 10 of title 27;
+28 (31) Refusing to pay an auto body repair shop for documented necessary sublet services
+29 paid out to vendors or incurred by the auto body repair shop, for specialty or unique services
+30 performed in the overall repair process, including costs and labor incurred to research, coordinate,
+31 administrate, or facilitate the necessary sublet service, and an automotive industry standard markup.
+32 Examples of sublet services include, but are not limited to, towing, transportation, suspension,
+33 alignments, electronic calibrations, diagnostic work, mechanical work, and paid charges to release
+34 a vehicle;
+LC001979 - Page 5 of 8
+1 (32) Failure of any domestic, foreign, or alien insurers to comply with the requirements of
+2 this section; when settling claims on Rhode Island registered vehicles repaired in Rhode Island,
+3 regardless of the state where the insurance policy was issued or originates; and
+4 (33)(i) When a claim is settled, or partially settled, where the named insured is represented
+5 by a public adjuster licensed pursuant to § 27-10-5, failing to obey a direction to pay letter directing
+6 the insurer to issue a check or checks payable to the public adjuster for the public adjuster’s fee,
+7 but not more than ten percent (10%) of the total amount of the settlement, and a separate check
+8 payable to the named insured or any loss payee or mortgagee, or both, whichever is appropriate,
+9 for the balance; provided that, the direction to pay letter is signed or electronically signed and dated
+10 or electronically dated by the named insured and contains the following information:
+11 (A) Name of insured(s);
+12 (B) The claim number (if obtained);
+13 (C) The date or approximate date of the loss;
+14 (D) The public adjuster’s name;
+15 (E) The name of the insurer;
+16 (F) The public adjuster’s fee; and
+17 (G) The addresses to which each check shall be sent.
+18 (ii) Nothing in this subsection shall be construed to:
+19 (A) Prevent the insurance company’s ability to question or challenge whether the services
+20 billed for are covered by the policy, related to an occurrence covered by the policy, or the amount
+21 charged, in accordance with its policy provisions, and the requirements of the department of
+22 business regulation; or
+23 (B) Adversely affect the right of any mortgagee or other person with an interest in the
+24 policy unless such mortgagee or other person has also executed the “direction to pay”.
+25 (b)(1) Nothing contained in subsections (a)(20), (a)(21), and (a)(22) of this section shall be
+26 construed to interfere with an auto body repair facility’s contract with an insurance company.
+27 (2) If an insurance company and auto body repair facility have contracted under a direct
+28 repair program or any similar program thereto, the provisions of subsections (a)(20), (a)(21), and
+29 (a)(22) of this section shall not apply.
+30 (3) If the insured or claimant elects to have the vehicle repaired at a shop of the insured’s
+31 or claimant’s choice, the insurer shall not limit or discount the reasonable repair costs based upon
+32 the charges that would have been incurred had the vehicle been repaired by the insurer’s chosen
+33 shop(s).
+LC001979 - Page 6 of 8
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001979
+========
+LC001979 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+***
+1 This act would define a “consumer accessible fair market value” for a vehicle valuation
+2 figure.
+3 This act would take effect upon passage.
+========
+LC001979
+========
+LC001979 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 ( A o f b a c v o § 2 c ( c ( F t a a a w r p u p c ( s ( c ( u b ( ( c]
+[DELETED:  ( w m ( a ( u ( f p o l f a s v t w r i d o i ( p ( a ( r ( ( a ( o c p o t t ( ( A i c i t t i o c w t h t i r c t i t]
+[DELETED:  w t ( i p b ( t p t f N ( b c i a w i p p a t o d o b ( u ( a p ( ( a s l t p s a M R P L P M o o p m s ( p m c r a o w r b t r ( c t c b r]
+[DELETED:  ( ( h a v a ( a u ( r t o I b t p i s s ( p ( v v ( m c i ( c f w (]
+[DELETED:  a i s t ( t e i i ( i s o i d ( f ( ( ( ( i e ( i c o ( p p a E a a]
+[DELETED:  ( t r ( b t b p f o ( ( ( ( ( ( ( ( ( b c i a w i p p a t o d o b ( p ( c ( r ( ( o t s ]
+[DELETED:  S]
+[DELETED:  T f T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5572
+========
+LC001979
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+Introduced By: Representatives Cotter, Ajello, and Potter
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-9.1-4 of the General Laws in Chapter 27-9.1 entitled "Unfair
+2 Claims Settlement Practices Act" is hereby amended to read as follows:
+3 27-9.1-4. “Unfair claims practices” defined. [Effective January 1, 2025.]
+4 (a) Any of the following acts by an insurer, if committed in violation of § 27-9.1-3,
+5 constitutes an unfair claims practice:
+6 (1) Misrepresenting to claimants and insured relevant facts or policy provisions relating to
+7 coverage at issue;
+8 (2) Failing to acknowledge and act with reasonable promptness upon pertinent
+9 communications with respect to claims arising under its policies;
+10 (3) Failing to adopt and implement reasonable standards for the prompt investigation and
+11 settlement of claims arising under its policies;
+12 (4) Not attempting in good faith to effectuate prompt, fair, and equitable settlement of
+13 claims submitted in which liability has become reasonably clear;
+14 (5) Compelling insured, beneficiaries, or claimants to institute suits to recover amounts due
+15 under its policies by offering substantially less than the amounts ultimately recovered in suits
+16 brought by them;
+17 (6) Refusing to pay claims without conducting a reasonable investigation;
+18 (7) Failing to affirm or deny coverage of claims within a reasonable time after having
+19 completed its investigation related to the claim or claims;
+
+1 (8) Attempting to settle or settling claims for less than the amount that a reasonable person
+2 would believe the insured or beneficiary was entitled by reference to written or printed advertising
+3 material accompanying or made part of an application;
+4 (9) Attempting to settle or settling claims on the basis of an application that was materially
+5 altered without notice to, or knowledge or consent of, the insured;
+6 (10) Making claims payments to an insured or beneficiary without indicating the coverage
+7 under which each payment is being made;
+8 (11) Unreasonably delaying the investigation or payment of claims by requiring both a
+9 formal proof of loss form and subsequent verification that would result in duplication of
+10 information and verification appearing in the formal proof of loss form;
+11 (12) Failing in the case of claims denials or offers of compromise settlement to promptly
+12 provide a reasonable and accurate explanation of the basis of those actions;
+13 (13) Failing to provide forms necessary to present claims within ten (10) calendar days of
+14 a request with reasonable explanations regarding their use;
+15 (14) Failing to adopt and implement reasonable standards to assure that the repairs of a
+16 repairer owned by or required to be used by the insurer are performed in a workmanlike manner;
+17 (15) Misleading a claimant as to the applicable statute of limitations;
+18 (16) Failing to respond to a claim within thirty (30) days, unless the insured shall agree to
+19 a longer period;
+20 (17) Engaging in any act or practice of intimidation, coercion, threat, or misrepresentation
+21 of consumers rights, for or against any insured person, claimant, or entity to use a particular rental
+22 car company for motor vehicle replacement services or products; provided, however, nothing shall
+23 prohibit any insurance company, agent, or adjuster from providing to such insured person, claimant,
+24 or entity the names of a rental car company with which arrangements have been made with respect
+25 to motor vehicle replacement services; provided, that the rental car company is licensed pursuant
+26 to § 31-5-33;
+27 (18) Refusing to honor a “direction to pay” executed by:
+28 (i) An insured, claimant, indicating that the insured or claimant wishes to have the
+29 insurance company directly pay the insured’s or claimant’s motor vehicle replacement vehicle
+30 rental benefit to the rental car company of the consumer’s choice; provided, that the rental car
+31 company is licensed pursuant to § 31-5-33. Nothing in this section shall be construed to prevent
+32 the insurance company’s ability to question or challenge the amount charged, in accordance with
+33 its policy provisions, and the requirements of the department of business regulation; provided that,
+34 the insurance company promptly notifies the rental car company in writing of the reason. The
+LC001979 - Page 2 of 8
+
+1 written notification shall be made at or before the time that the insurance company submits payment
+2 to the rental car company;
+3 (ii) An insured or claimant, indicating that the insured or claimant wishes to have the
+4 insurance company directly pay the insured’s or claimant’s motor vehicle repair benefit, as a single
+5 party payment exclusively to the auto body shop of the consumer’s choice; provided that, the auto
+6 body shop is licensed pursuant to § 5-38-4;
+7 (19) Refusing to honor a “direction to pay” executed by an insured, claimant, indicating
+8 that the insured or claimant wishes to have the insurance company directly pay the insured’s
+9 property damage benefit to the restoration company of the consumer’s choice; provided, however,
+10 that the amount of the claim to be paid directly to the restoration company shall be no greater than
+11 five thousand dollars ($5,000), and that the restoration company is licensed pursuant to § 5-65-3.
+12 Nothing in this section shall be construed to:
+13 (i) Prevent the insurance company’s ability to question or challenge whether the services
+14 billed for are covered by the policy, related to an occurrence covered by the policy, or the amount
+15 charged, in accordance with its policy provisions, and the requirements of the department of
+16 business regulation; or
+17 (ii) Adversely affect the right of any mortgagee or other person with an interest in the policy
+18 unless such mortgagee or other person has also executed the “direction to pay”;
+19 (20) Modifying any published manual, i.e., Motor’s Auto Repair Manual, Mitchells, or any
+20 automated appraisal system, relating to auto body repair without prior agreement between the
+21 parties;
+22 (21) Failing to use a manual or system in its entirety in the appraisal of a motor vehicle;
+23 (22) Refusing to compensate an auto body shop for its documented charges as identified,
+24 and based on, the most current version of automotive industry-recognized software programs or
+25 systems for paint, body, and refinishing materials, utilized in auto body repair, including, but not
+26 limited to, programs such as Mitchell's RMC, PMC Logic, Paint, Micromix, or other paint
+27 manufacturer's programs. An insurer shall not discount documented charges by failing to use a
+28 system in its entirety, including an automotive industry standard markup;
+29 (23) Refusing to acknowledge and compensate an auto body repairer for documented
+30 procedures identified as required or recommended by the original equipment manufacturer, or paint
+31 manufacturer, upon the initial request from the auto body shop, such as, but not limited to, post
+32 collision procedures and components that should not be reused or reinstalled, when included in the
+33 repairer’s appraisal, or when requested by the repairer (i.e., components that cannot be
+34 reused/reinstalled: requiring clips, retainers, hardware, and materials);
+LC001979 - Page 3 of 8
+
+1 (24) Failing to comply with the requirements of § 31-47-12.1;
+2 (25) Failure to have an appraisal performed by a licensed appraiser where the motor vehicle
+3 has sustained damage estimated to exceed two thousand five hundred dollars ($2,500). The licensed
+4 appraiser referred to herein must be unaffiliated with the repair facility repairing the subject motor
+5 vehicle; must perform a physical inspection of the damaged motor vehicle; and may not perform
+6 an appraisal based upon pictures of the damaged motor vehicle;
+7 (26) Failure of an insurer’s assigned appraiser, or representative, to promptly schedule an
+8 appointment for an appraisal of a damaged vehicle with the auto body repair shop, at an agreed
+9 upon date and time, between normal business hours;
+10 (27) Failure to perform an initial appraisal within three (3) business days after a request is
+11 received from an auto body repair shop, provided the damaged motor vehicle is on the premises of
+12 the repair shop when the request is made, and failure to perform a supplemental appraisal inspection
+13 of a vehicle within four (4) business days after a request is received from an auto body repair shop.
+14 If the insurer’s appraiser fails to inspect the damaged motor vehicle within the allotted number of
+15 business days for an initial appraisal or a supplemental appraisal, the insurer shall forfeit its right
+16 to inspect the damaged vehicle prior to repairs, and negotiations shall be limited to labor and the
+17 price of parts and shall not, unless objective evidence to the contrary is provided by the insurer,
+18 involve disputes as to the existence of damage or the chosen manner of repair. The time limitations
+19 set forth in this subsection may be extended by mutual agreement between the auto body repair
+20 shop and the insurer;
+21 (28) Refusing to extend the rental vehicle coverage requirements of an insured or claimant
+22 proportionally to claim delays caused by the insurer;
+23 (29) Designating a motor vehicle a total loss if the cost to rebuild or reconstruct the motor
+24 vehicle to its pre-accident condition is less than seventy-five percent (75%) of the “fair market
+25 value” of the motor vehicle immediately preceding the time it was damaged:
+26 (i) For the purposes of this subdivision, “fair market value” means the retail value of a
+27 motor vehicle as set forth in a current edition of a nationally recognized compilation of retail values
+28 commonly used by the automotive industry to establish values of motor vehicles or as established
+29 in subsection (vi) of this section;
+30 (ii) Nothing herein shall be construed to require a vehicle be deemed a total loss if the total
+31 cost to rebuild or reconstruct the motor vehicle to its pre-accident condition is greater than seventy-
+32 five percent (75%) of the fair market value of the motor vehicle immediately preceding the time it
+33 was damaged;
+34 (iii) Nothing herein shall prohibit an insurance company from agreeing to deem a vehicle
+LC001979 - Page 4 of 8
+
+1 a total loss at the vehicle owner’s request and with the vehicle owner’s express written authorization
+2 if the cost to rebuild or reconstruct the motor vehicle to its pre-accident condition is less than
+3 seventy-five percent (75%) of the “fair market value” of the motor vehicle immediately preceding
+4 the time it was damaged;
+5 (iv) If condition adjustments are made to the retail value of a motor vehicle designated a
+6 total loss, all such adjustments must be in accordance with the standards set forth in the current
+7 edition of a nationally recognized compilation of retail values, commonly used by the automotive
+8 industry, used by the insurer to determine the retail value of the vehicle; and all such adjustments,
+9 including prior damage deductions, must be itemized, fair, and reasonable; and
+10 (v) When a vehicle is deemed a total loss, if the insurer is not retaining the salvage, the
+11 insurer must notify the owner of the vehicle in writing of the requirements of obtaining both a
+12 salvage title and a reconstructed title from the department of motor vehicles pursuant to chapter 1
+13 of title 31, and must obtain, in writing, the owner’s consent and acknowledgement that the insurer
+14 is not retaining the salvage and include a statement of the owner’s obligation and potential costs to
+15 dispose of or otherwise retain the salvage; and
+16 (vi) A “consumer accessible fair market value” is a vehicle valuation figure that meets the
+17 following requirements:
+18 (A) Publicly available or accessible via electronic or print published means by consumers;
+19 (B) Commonly used by the automotive industry and car-buying public;
+20 (C) VIN-specific; and
+21 (D) One whose results reflect a vehicle’s unique and widely available characteristics,
+22 including, but not limited to, trim and options, prior damage, prior service and prior ownership
+23 event information;
+24 (30) Negotiating, or effecting the settlement of, a claim for loss or damage covered by an
+25 insurance contract with an unlicensed public adjuster acting on behalf of an insured. Nothing
+26 contained in this section shall be construed to preclude an insurer from dealing with any individual
+27 or entity that is not required to be licensed under chapter 10 of title 27;
+28 (31) Refusing to pay an auto body repair shop for documented necessary sublet services
+29 paid out to vendors or incurred by the auto body repair shop, for specialty or unique services
+30 performed in the overall repair process, including costs and labor incurred to research, coordinate,
+31 administrate, or facilitate the necessary sublet service, and an automotive industry standard markup.
+32 Examples of sublet services include, but are not limited to, towing, transportation, suspension,
+33 alignments, electronic calibrations, diagnostic work, mechanical work, and paid charges to release
+34 a vehicle;
+LC001979 - Page 5 of 8
+
+1 (32) Failure of any domestic, foreign, or alien insurers to comply with the requirements of
+2 this section; when settling claims on Rhode Island registered vehicles repaired in Rhode Island,
+3 regardless of the state where the insurance policy was issued or originates; and
+4 (33)(i) When a claim is settled, or partially settled, where the named insured is represented
+5 by a public adjuster licensed pursuant to § 27-10-5, failing to obey a direction to pay letter directing
+6 the insurer to issue a check or checks payable to the public adjuster for the public adjuster’s fee,
+7 but not more than ten percent (10%) of the total amount of the settlement, and a separate check
+8 payable to the named insured or any loss payee or mortgagee, or both, whichever is appropriate,
+9 for the balance; provided that, the direction to pay letter is signed or electronically signed and dated
+10 or electronically dated by the named insured and contains the following information:
+11 (A) Name of insured(s);
+12 (B) The claim number (if obtained);
+13 (C) The date or approximate date of the loss;
+14 (D) The public adjuster’s name;
+15 (E) The name of the insurer;
+16 (F) The public adjuster’s fee; and
+17 (G) The addresses to which each check shall be sent.
+18 (ii) Nothing in this subsection shall be construed to:
+19 (A) Prevent the insurance company’s ability to question or challenge whether the services
+20 billed for are covered by the policy, related to an occurrence covered by the policy, or the amount
+21 charged, in accordance with its policy provisions, and the requirements of the department of
+22 business regulation; or
+23 (B) Adversely affect the right of any mortgagee or other person with an interest in the
+24 policy unless such mortgagee or other person has also executed the “direction to pay”.
+25 (b)(1) Nothing contained in subsections (a)(20), (a)(21), and (a)(22) of this section shall be
+26 construed to interfere with an auto body repair facility’s contract with an insurance company.
+27 (2) If an insurance company and auto body repair facility have contracted under a direct
+28 repair program or any similar program thereto, the provisions of subsections (a)(20), (a)(21), and
+29 (a)(22) of this section shall not apply.
+30 (3) If the insured or claimant elects to have the vehicle repaired at a shop of the insured’s
+31 or claimant’s choice, the insurer shall not limit or discount the reasonable repair costs based upon
+32 the charges that would have been incurred had the vehicle been repaired by the insurer’s chosen
+33 shop(s).
+LC001979 - Page 6 of 8
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001979
+========
+LC001979 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- UNFAIR CLAIMS SETTLEMENT PRACTICES ACT
+***
+1 This act would define a “consumer accessible fair market value” for a vehicle valuation
+2 figure.
+3 This act would take effect upon passage.
+========
+LC001979
+========
+LC001979 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 2 ( A o f b a c v o § 2 c ( c ( F t a a a w r p u p c ( s ( c ( u b ( ( c]
+[DELETED:  ( w m ( a ( u ( f p o l f a s v t w r i d o i ( p ( a ( r ( ( a ( o c p o t t ( ( A i c i t t i o c w t h t i r c t i t]
+[DELETED:  w t ( i p b ( t p t f N ( b c i a w i p p a t o d o b ( u ( a p ( ( a s l t p s a M R P L P M o o p m s ( p m c r a o w r b t r ( c t c b r]
+[DELETED:  ( ( h a v a ( a u ( r t o I b t p i s s ( p ( v v ( m c i ( c f w (]
+[DELETED:  a i s t ( t e i i ( i s o i d ( f ( ( ( ( i e ( i c o ( p p a E a a]
+[DELETED:  ( t r ( b t b p f o ( ( ( ( ( ( ( ( ( b c i a w i p p a t o d o b ( p ( c ( r ( ( o t s ]
+[DELETED:  S]
+[DELETED:  T f T]

@@ -1,0 +1,175 @@
+Title: Introduced By: Senators de la Cruz, Ciccone, Burke, Rogers, and Tikoian
+Official Title: Introduced By: Senators de la Cruz, Ciccone, Burke, Rogers, and Tikoian
+Number of Sections: 1
+Source: versions - 101
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0101
+========
+LC000336
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+Date Introduced: January 31, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-11-2 of the General Laws in Chapter 44-11 entitled "Business
+2 Corporation Tax" is hereby amended to read as follows:
+3 44-11-2. Imposition of tax.
+4 (a) Each corporation shall annually pay to the state a tax equal to nine percent (9%) of net
+5 income, as defined in § 44-11-11, qualified in § 44-11-12, and apportioned to this state as provided
+6 in §§ 44-11-13 — 44-11-15, for the taxable year. For tax years beginning on or after January 1,
+7 2015, each corporation shall annually pay to the state a tax equal to seven percent (7.0%) of net
+8 income, as defined in § 44-11-13 — 44-11-15, for the taxable year.
+9 (b) A corporation shall pay the amount of any tax as computed in accordance with
+10 subsection (a) after deducting from “net income,” as used in this section, fifty percent (50%) of the
+11 excess of capital gains over capital losses realized during the taxable year, if for the taxable year:
+12 (1) The corporation is engaged in buying, selling, dealing in, or holding securities on its
+13 own behalf and not as a broker, underwriter, or distributor;
+14 (2) Its gross receipts derived from these activities during the taxable year amounted to at
+15 least ninety percent (90%) of its total gross receipts derived from all of its activities during the year.
+16 “Gross receipts” means all receipts, whether in the form of money, credits, or other valuable
+17 consideration, received during the taxable year in connection with the conduct of the taxpayer’s
+18 activities.
+19 (c) A corporation shall not pay the amount of the tax computed on the basis of its net
+1 income under subsection (a), but shall annually pay to the state a tax equal to ten cents ($.10) for
+2 each one hundred dollars ($100) of gross income for the taxable year or a tax of one hundred dollars
+3 ($100), whichever tax shall be the greater, if for the taxable year the corporation is either a “personal
+4 holding company” registered under the federal Investment Company Act of 1940, 15 U.S.C. § 80a-
+5 1 et seq., “regulated investment company,” or a “real estate investment trust” as defined in the
+6 federal income tax law applicable to the taxable year. “Gross income” means gross income as
+7 defined in the federal income tax law applicable to the taxable year, plus:
+8 (1) Any interest not included in the federal gross income; minus
+9 (2) Interest on obligations of the United States or its possessions, and other interest exempt
+10 from taxation by this state; and minus
+11 (3) Fifty percent (50%) of the excess of capital gains over capital losses realized during the
+12 taxable year.
+13 (d)(1) A small business corporation having an election in effect under subchapter S, 26
+14 U.S.C. § 1361 et seq., shall not be subject to the Rhode Island income tax on corporations, except
+15 that the corporation shall be subject to the provisions of subsection (a), to the extent of the income
+16 that is subjected to federal tax under subchapter S. Effective for tax years beginning on or after
+17 January 1, 2015, a small business corporation having an election in effect under subchapter S, 26
+18 U.S.C. § 1361 et seq., shall be subject to the minimum tax under § 44-11-2(e).
+19 (2) The shareholders of the corporation who are residents of Rhode Island shall include in
+20 their income their proportionate share of the corporation’s federal taxable income.
+21 (3) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+22 (4) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+23 (e) Minimum tax. The tax imposed upon any corporation under this section, including a
+24 small business corporation having an election in effect under subchapter S, 26 U.S.C. § 1361 et
+25 seq., shall not be less than four hundred fifty dollars ($450). For tax years beginning on or after
+26 January 1, 2017, the tax imposed shall not be less than four hundred dollars ($400).
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC000336
+========
+LC000336 - Page 2 of 3
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+***
+1 This act would repeal the corporation minimum tax.
+2 This act would take effect upon passage.
+========
+LC000336
+========
+LC000336 - Page 3 of 3
+[DELETED: TATE  OF  RHODE  ISLAND S C 4 ( i i 2 i ( A c s p t a o a t a c i a w s e ( o ( l “ v c a (]
+[DELETED:  i e ( h 1 f d ( ( f ( t ( U t t J U ( t ( ( ( s s J S]
+[DELETED:  T T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0101
+========
+LC000336
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+Introduced By: Senators de la Cruz, Ciccone, Burke, Rogers, and Tikoian
+Date Introduced: January 31, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-11-2 of the General Laws in Chapter 44-11 entitled "Business
+2 Corporation Tax" is hereby amended to read as follows:
+3 44-11-2. Imposition of tax.
+4 (a) Each corporation shall annually pay to the state a tax equal to nine percent (9%) of net
+5 income, as defined in § 44-11-11, qualified in § 44-11-12, and apportioned to this state as provided
+6 in §§ 44-11-13 — 44-11-15, for the taxable year. For tax years beginning on or after January 1,
+7 2015, each corporation shall annually pay to the state a tax equal to seven percent (7.0%) of net
+8 income, as defined in § 44-11-13 — 44-11-15, for the taxable year.
+9 (b) A corporation shall pay the amount of any tax as computed in accordance with
+10 subsection (a) after deducting from “net income,” as used in this section, fifty percent (50%) of the
+11 excess of capital gains over capital losses realized during the taxable year, if for the taxable year:
+12 (1) The corporation is engaged in buying, selling, dealing in, or holding securities on its
+13 own behalf and not as a broker, underwriter, or distributor;
+14 (2) Its gross receipts derived from these activities during the taxable year amounted to at
+15 least ninety percent (90%) of its total gross receipts derived from all of its activities during the year.
+16 “Gross receipts” means all receipts, whether in the form of money, credits, or other valuable
+17 consideration, received during the taxable year in connection with the conduct of the taxpayer’s
+18 activities.
+19 (c) A corporation shall not pay the amount of the tax computed on the basis of its net
+
+1 income under subsection (a), but shall annually pay to the state a tax equal to ten cents ($.10) for
+2 each one hundred dollars ($100) of gross income for the taxable year or a tax of one hundred dollars
+3 ($100), whichever tax shall be the greater, if for the taxable year the corporation is either a “personal
+4 holding company” registered under the federal Investment Company Act of 1940, 15 U.S.C. § 80a-
+5 1 et seq., “regulated investment company,” or a “real estate investment trust” as defined in the
+6 federal income tax law applicable to the taxable year. “Gross income” means gross income as
+7 defined in the federal income tax law applicable to the taxable year, plus:
+8 (1) Any interest not included in the federal gross income; minus
+9 (2) Interest on obligations of the United States or its possessions, and other interest exempt
+10 from taxation by this state; and minus
+11 (3) Fifty percent (50%) of the excess of capital gains over capital losses realized during the
+12 taxable year.
+13 (d)(1) A small business corporation having an election in effect under subchapter S, 26
+14 U.S.C. § 1361 et seq., shall not be subject to the Rhode Island income tax on corporations, except
+15 that the corporation shall be subject to the provisions of subsection (a), to the extent of the income
+16 that is subjected to federal tax under subchapter S. Effective for tax years beginning on or after
+17 January 1, 2015, a small business corporation having an election in effect under subchapter S, 26
+18 U.S.C. § 1361 et seq., shall be subject to the minimum tax under § 44-11-2(e).
+19 (2) The shareholders of the corporation who are residents of Rhode Island shall include in
+20 their income their proportionate share of the corporation’s federal taxable income.
+21 (3) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+22 (4) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+23 (e) Minimum tax. The tax imposed upon any corporation under this section, including a
+24 small business corporation having an election in effect under subchapter S, 26 U.S.C. § 1361 et
+25 seq., shall not be less than four hundred fifty dollars ($450). For tax years beginning on or after
+26 January 1, 2017, the tax imposed shall not be less than four hundred dollars ($400).
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC000336
+========
+LC000336 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+***
+1 This act would repeal the corporation minimum tax.
+2 This act would take effect upon passage.
+========
+LC000336
+========
+LC000336 - Page 3 of 3
+
+[DELETED: TATE  OF  RHODE  ISLAND S C 4 ( i i 2 i ( A c s p t a o a t a c i a w s e ( o ( l “ v c a (]
+[DELETED:  i e ( h 1 f d ( ( f ( t ( U t t J U ( t ( ( ( s s J S]
+[DELETED:  T T]

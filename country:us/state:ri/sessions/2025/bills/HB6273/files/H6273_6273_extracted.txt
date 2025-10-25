@@ -1,0 +1,1031 @@
+Title: RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+Official Title: RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+Number of Sections: 1
+Source: versions - 6273
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6273
+========
+LC002771
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Serpa, and Fellela
+Date Introduced: April 25, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 38-2-1, 38-2-2, 38-2-3, 38-2-3.2, 38-2-3.16, 38-2-4, 38-2-7, 38-2-9,
+2 38-2-14 and 38-2-15 of the General Laws in Chapter 38-2 entitled "Access to Public Records" are
+3 hereby amended to read as follows:
+4 38-2-1. Purpose.
+5 The public’s right to access to public records and the individual’s right to dignity and
+6 privacy are both recognized to be principles of the utmost importance in a free society. The purpose
+7 of this chapter is to facilitate public access to public records. It is also the intent of this chapter to
+8 protect from disclosure information about particular individuals maintained in the files of public
+9 bodies when disclosure would constitute an unwarranted invasion of personal privacy as specified
+10 by the exemptions contained in this chapter.
+11 38-2-2. Definitions.
+12 As used in this chapter:
+13 (1) “Agency” or “public body” means any executive, legislative, judicial, regulatory, or
+14 administrative body of the state, or any political subdivision thereof; including, but not limited to:
+15 any department, division, agency, commission, board, office, bureau, authority; any school, fire, or
+16 water district, or other agency of Rhode Island state or local government that exercises
+17 governmental functions; any authority as defined in § 42-35-1(b); or any other public or private
+18 agency, person, partnership, corporation, or business entity acting on behalf of and/or in place of
+19 any public agency, and shall also include the police department of any private educational
+1 institution of higher learning employing any special police officers pursuant to § 12-2.1-1 or peace
+2 officers as defined in § 12-7-21.
+3 (2) “Chief administrative officer” means the highest authority of the public body.
+4 (3) “Public business” means any matter over which the public body has supervision,
+5 control, jurisdiction, or advisory power.
+6 (4) “Public record” or “public records” shall mean all documents, papers, letters, maps,
+7 books, tapes, photographs, films, sound recordings, magnetic or other tapes, electronic data
+8 processing records, computer stored data (including electronic mail messages, except specifically
+9 for any electronic mail messages of or to elected officials with or relating to those they represent
+10 and correspondence of or to elected officials in their official capacities as otherwise exempt under
+11 this chapter), or other material regardless of physical form or characteristics made or received
+12 pursuant to law or ordinance or in connection with the transaction of official business by any
+13 agency. For the purposes of this chapter, and subject to the provisions of § 38-2-3(b), the following
+14 records shall not be deemed public:
+15 (A)(I)(a)(i) All records relating to a client/attorney relationship and to a doctor/patient
+16 relationship, including all medical records and information protected by state or federal healthcare
+17 confidentiality laws relating to an individual in any files.
+18 (ii) All records protected by the attorney-client privilege or attorney work product
+19 privilege.
+20 (b) Personnel and other personal individually identifiable records otherwise deemed
+21 confidential by federal or state law or by federal law or regulation, or the disclosure of which would
+22 constitute a clearly unwarranted invasion of personal privacy pursuant to 5 U.S.C. § 552 et seq.;
+23 provided, however, with respect to employees, and employees of contractors and subcontractors
+24 working on public works projects that are required to be listed as certified payrolls, the name, gross
+25 salary, salary range, total cost of paid fringe benefits, gross amount received in overtime, and any
+26 other remuneration in addition to salary, job title, job description, dates of employment and
+27 positions held with the state, municipality, or public works contractor or subcontractor on public
+28 works projects, employment contract, work location, and/or project, business telephone number,
+29 the city or town of residence, and date of termination shall be public. For the purposes of this section
+30 “remuneration” shall include any payments received by an employee as a result of termination, or
+31 otherwise leaving employment, including, but not limited to, payments for accrued sick and/or
+32 vacation time, severance pay, or compensation paid pursuant to a contract buy-out provision. For
+33 purposes of this section, the city or town residence shall not be deemed public for peace officers,
+34 as defined in § 12-7-21, and shall not be released. For purposes of this section, "employee" means
+LC002771 - Page 2 of 15
+1 those individuals currently employed by a public body and those previously employed by a public
+2 body.
+3 (II) Notwithstanding the provisions of this section, or any other provision of the general
+4 laws to the contrary, the pension records of all persons who are either current or retired members
+5 of any public retirement systems, as well as all persons who become members of those retirement
+6 systems after June 17, 1991, shall be open for public inspection. “Pension records” as used in this
+7 section, shall include all records containing information concerning pension and retirement benefits
+8 of current and retired members of the retirement systems and future members of said systems,
+9 including all records concerning retirement credits purchased and the ability of any member of the
+10 retirement system to purchase retirement credits, but excluding all information regarding the
+11 medical condition of any person and all information identifying the member’s designated
+12 beneficiary or beneficiaries unless and until the member’s designated beneficiary or beneficiaries
+13 have received or are receiving pension and/or retirement benefits through the retirement system.
+14 (B) Trade secrets and commercial or financial information obtained from a person, firm,
+15 or corporation that is of a privileged or confidential nature.
+16 (C) Child custody and adoption records, records of illegitimate births, and records of
+17 juvenile proceedings before the family court.
+18 (D) All records maintained by law enforcement agencies for criminal law enforcement and
+19 all records relating to the detection and investigation of crime, including those maintained on any
+20 individual or compiled in the course of a criminal investigation by any law enforcement agency.
+21 Provided, however, such records shall not be deemed public only to the extent that the disclosure
+22 of the records or information (a) Could reasonably be expected to interfere with investigations of
+23 criminal activity or with enforcement proceedings; (b) Would deprive a person of a right to a fair
+24 trial or an impartial adjudication; (c) Could reasonably be expected to constitute an unwarranted
+25 invasion of personal privacy; (d) Could reasonably be expected to disclose the identity of a
+26 confidential source, including a state, local, or foreign agency or authority, or any private institution
+27 that furnished information on a confidential basis, or the information furnished by a confidential
+28 source; (e) Would disclose techniques and procedures for law enforcement investigations or
+29 prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions; or
+30 (f) Could reasonably be expected to endanger the life or physical safety of any individual. Records
+31 relating to management and direction of a law enforcement agency and records or reports reflecting
+32 and describing the initial arrest of an adult and the charge or charges brought against an adult shall
+33 be public. A police report of an incident that does not lead to an arrest shall not be deemed
+34 presumptively exempt from disclosure.
+LC002771 - Page 3 of 15
+1 (I) Notwithstanding any other provision of law, any final reports of investigations
+2 conducted by internal affair units or their equivalent, regardless of how or by whom the
+3 investigation was initiated, shall be public records; provided, however, names, addresses and other
+4 personal identifiers may be redacted from the reports to the extent their disclosure would constitute
+5 a clearly unwarranted invasion of personal privacy. The name and underlying activity of any law
+6 enforcement officer who has been found to have engaged in misconduct that has required
+7 prosecutorial disclosure to a criminal defendant shall be public. Provided, however, no personally
+8 identifiable information shall be released to the extent its release would be in conflict with chapter
+9 28.6 or title 42 (the "law enforcement officers' bill of rights").
+10 (II) All police body-worn camera recordings shall be subject to this chapter; provided,
+11 however, any recordings of incidents involving police use of force in which an investigation is
+12 ongoing shall be made available within thirty (30) days of a request in full or redacted form.
+13 Notwithstanding the foregoing, a law enforcement agency may petition the superior court for a
+14 twenty (20) day extension if it can demonstrate that release within the thirty (30) day period would
+15 substantially interfere with completion of its investigation.
+16 (E) Any records that would not be available by law or rule of court to an opposing party in
+17 litigation.
+18 (F) Scientific and technological secrets and the security plans of military and law
+19 enforcement agencies, the disclosure of which would endanger the public welfare and security.
+20 (G) Any records that disclose the identity of the contributor of a bona fide and lawful
+21 charitable contribution to the public body whenever public anonymity has been requested of the
+22 public body with respect to the contribution by the contributor.
+23 (H) Reports and statements of strategy or negotiation involving labor negotiations or
+24 collective bargaining.
+25 (I) Reports and statements of strategy or negotiation with respect to the investment or
+26 borrowing of public funds, until such time as those transactions are entered into.
+27 (J) Any minutes of a meeting of a public body that are not required to be disclosed pursuant
+28 to chapter 46 of title 42.
+29 (K) Preliminary drafts, notes, impressions, memoranda, working papers, and work
+30 products, including those involving research at state institutions of higher education on commercial,
+31 scientific, artistic, technical, or scholarly issues, whether in electronic or other format; provided,
+32 however, any documents submitted at a public meeting of a public body shall be deemed public.
+33 (L) Test questions, scoring keys, and other examination data used to administer a licensing
+34 examination, examination for employment or promotion, or academic examinations; provided,
+LC002771 - Page 4 of 15
+1 however, that a person shall have the right to review the results of his or her examination.
+2 (M) Correspondence of or to elected officials with or relating to those they represent and
+3 correspondence of or to elected officials in their official capacities that has no demonstrable
+4 connection to the exercise of official acts or duties.
+5 (N) The contents of real estate appraisals, engineering, or feasibility estimates and
+6 evaluations made for or by an agency relative to the acquisition of property or to prospective public
+7 supply and construction contracts, until such time as all of the property has been acquired or all
+8 proceedings or transactions have been terminated or abandoned; provided the law of eminent
+9 domain shall not be affected by this provision.
+10 (O) All tax returns.
+11 (P) All investigatory records of public bodies, with the exception of law enforcement
+12 agencies, pertaining to possible violations of statute, rule, or regulation other than records of final
+13 actions taken, provided that all records prior to formal notification of violations or noncompliance
+14 shall not be deemed to be public, except that, upon good cause shown, such records may be released
+15 upon the completion of formal notification.
+16 (Q) Records of individual test scores on professional certification and licensing
+17 examinations; provided, however, that a person shall have the right to review the results of his or
+18 her examination.
+19 (R) Requests for advisory opinions until such time as the public body issues its opinion.
+20 (S) Records, reports, opinions, information, and statements required to be kept confidential
+21 by federal law or regulation or state law or rule of court; provided that, the public body shall provide
+22 a citation to the law, regulation or rule relied upon in withholding any records under this exception.
+23 (T) Judicial bodies are included in the definition only in respect to their administrative
+24 function provided that records kept pursuant to the provisions of chapter 16 of title 8 are exempt
+25 from the operation of this chapter.
+26 (U) Library records that, by themselves or when examined with other public records, would
+27 reveal the identity of the library user requesting, checking out, or using any library materials.
+28 (V) Printouts from TELE — TEXT devices used by people who are deaf or hard of hearing
+29 or speech impaired.
+30 (W) All records received by the insurance division of the department of business regulation
+31 from other states, either directly or through the National Association of Insurance Commissioners,
+32 if those records are accorded confidential treatment in that state. Nothing contained in this title or
+33 any other provision of law shall prevent or be construed as prohibiting the commissioner of
+34 insurance from disclosing otherwise confidential information to the insurance department of this
+LC002771 - Page 5 of 15
+1 or any other state or country, at any time, so long as the agency or office receiving the records
+2 agrees in writing to hold it confidential in a manner consistent with the laws of this state.
+3 (X) Credit card account numbers in the possession of state or local government are
+4 confidential and shall not be deemed public records.
+5 (Y) Any documentary material, answers to written interrogatories, or oral testimony
+6 provided under any subpoena issued under § 9-1.1-6. Notwithstanding this provision and absent a
+7 court order to the contrary, a subpoena issued by a governmental entity to a public body or a public
+8 official regarding official business shall be public record.
+9 (Z) Any individually identifiable evaluations of public school employees made pursuant to
+10 state or federal law or regulation.
+11 (AA) All documents prepared by school districts intended to be used by school districts in
+12 protecting the safety of their students from potential and actual threats.
+13 (BB) The list of teachers terminated for good and just cause maintained by the department
+14 of education pursuant to § 16-13-9.
+15 38-2-3. Right to inspect and copy records — Duty to maintain minutes of meetings —
+16 Procedures for access.
+17 (a) Except as provided in § 38-2-2(4), all records maintained or kept on file by stored by
+18 or for any public body, whether or not those records are required by any law or by any rule or
+19 regulation, and regardless of physical location, shall be public records and every person or entity
+20 shall have the right to inspect and/or copy those records at such reasonable time as may be
+21 determined by the custodian thereof.
+22 (b) Any reasonably segregable portion of a public record excluded by § 38-2-2(4),
+23 including the reasonably segregable portion of any record deemed confidential pursuant to any
+24 other state law, shall be available for public inspection after the deletion of the information which
+25 is the basis of the exclusion. If an entire document or record is deemed non-public, the public body
+26 shall state in writing that no portion of the document or record contains reasonable segregable
+27 information that is releasable. In withholding any document or any portion of a document, the
+28 public body shall identify the amount of information withheld and the exemption under which it
+29 was withheld, and in the case of redactions, the exemption under which any redaction is made shall
+30 be indicated on the released portion of the record or shall be clearly delineated in a privilege log
+31 that reasonably apprises the requester of the specific basis for the redaction of any particular
+32 document.
+33 (c) All documents to be discussed at an open meeting of a public body shall be posted or
+34 linked with the electronic filing of the agenda submitted to the secretary of state pursuant to § 42-
+LC002771 - Page 6 of 15
+1 46-6(f). Notwithstanding the provisions of § 38-2-2(4), any documents reviewed, considered, or
+2 submitted at a public meeting of a public body shall be deemed public and shall also be made
+3 available upon request to any member of the public present at the meeting.
+4 (c)(d) Each public body shall make, keep, and maintain written or recorded minutes of all
+5 meetings.
+6 (d)(e) Each public body shall establish written procedures regarding access to public
+7 records but shall not require written requests for public information available pursuant to § 42-35-
+8 2 or for other documents prepared for or readily available to the public, including any documents
+9 reviewed, considered, or submitted at a public meeting of a public body.
+10 These procedures must include, but need not be limited to, the identification of a designated
+11 public records officer or unit, how to make a public records request, and where a public record
+12 request should be made, and a copy of these procedures shall be posted on the public body’s website
+13 if such a website is maintained and shall be made otherwise readily available to the public. The
+14 unavailability of a designated public records officer shall not be deemed good cause for failure to
+15 timely comply with a request to inspect and/or copy public records pursuant to subsection (e). A
+16 link to the public body's procedures shall be prominently displayed on the home page of its website,
+17 including a link to the appropriate webpage if the public body requires that requests be submitted
+18 to another public body of the state or municipality. A written request for public records need not
+19 be made on a form established by a public body if the request is otherwise readily identifiable as a
+20 request for public records. The procedures shall allow requests for public records to be submitted
+21 in person, by regular and electronic mail, and, at the public body's discretion, by fax or online
+22 portal.
+23 (f) A requester's failure to follow the written procedures established by a public body shall
+24 not, by itself, serve as a basis to fail to comply with a request for public records.
+25 (g) If a request for records is sent to a public body other than through the designated public
+26 records officer or unit, the recipient of the request shall be responsible for forwarding it to the
+27 designated officer or unit. In such circumstances, the public body shall have an additional five (5)
+28 days to respond to the request, notwithstanding the provisions of § 38-2-7, but shall not be found
+29 in violation of this chapter for responding beyond this timeframe if the public body has acted in
+30 good faith in responding.
+31 (e)(h) A public body receiving a request shall permit the inspection or copying within ten
+32 (10) business days after receiving a request. If the inspection or copying is not permitted within ten
+33 (10) business days, the public body shall forthwith explain in writing the need for additional time
+34 to comply with the request. Any such explanation must be particularized to the specific request
+LC002771 - Page 7 of 15
+1 made. In such cases the public body may have up to an additional twenty (20) business days to
+2 comply with the request if it can demonstrate with specificity that the voluminous nature of the
+3 request, the number of requests for records pending (in which case the number of pending requests
+4 shall be cited in the response), or the difficulty in searching for and retrieving or copying the
+5 requested records, is such that additional time is necessary to avoid imposing an undue burden on
+6 the public body. The response times established by this subsection, §§ 38-2-3.2(a), and 38-2-
+7 2(4)(D)(II) may be further extended only with the explicit written consent of the requester.
+8 (i) The unavailability of a designated public records officer shall not be deemed good cause
+9 for failure to timely comply with a request to inspect and/or copy public records pursuant to
+10 subsection (h) of this section.
+11 (f)(j) If a public record is in active use or in storage and, therefore, not available at the time
+12 a person or entity requests access, the custodian shall so inform the person or entity and make an
+13 appointment for the person or entity to examine such records as expeditiously as they may be made
+14 available.
+15 (g)(k) Any person or entity requesting copies of public records may elect to obtain them in
+16 any and all media in which the public agency is capable of providing them. Any public body which
+17 maintains its records in a computer storage system shall provide any data properly identified in a
+18 printout or other reasonable format, as requested, including a format allowing the documents to be
+19 searchable electronically where feasible.
+20 (h)(l) Nothing in this section shall be construed as requiring a public body to reorganize,
+21 consolidate, or compile data not maintained by the public body in the form requested at the time
+22 the request to inspect the public records was made except to the extent that such records are in an
+23 electronic format and the public body would not be unduly burdened in providing such data.
+24 (i)(m) Nothing in this section is intended to affect the public record status of information
+25 merely because it is stored in a computer.
+26 (j)(n) No public records shall be withheld based on the purpose for which the records are
+27 sought, nor shall a public body require, as a condition of fulfilling a public records request, that a
+28 person or entity provide a reason for the request or provide personally identifiable information
+29 about him/herself.
+30 (k)(o) At the election of the person or entity requesting the public records, the public body
+31 shall provide copies of the public records electronically, by facsimile, or by mail in accordance
+32 with the requesting person or entity’s choice, unless complying with that preference would be
+33 unduly burdensome due to the volume of records requested or the costs that would be incurred. The
+34 person requesting delivery shall be responsible for the actual cost of delivery, if any.
+LC002771 - Page 8 of 15
+1 (p) Any provision in a contractual or other agreement entered into by a public body with a
+2 third party that purports to keep records confidential that are otherwise public under this chapter
+3 shall be deemed null and void; nor shall a public body delegate to a private party the determination
+4 as to what information provided by that party is exempt from disclosure under this chapter.
+5 38-2-3.2. Arrest logs.
+6 (a) Notwithstanding the provisions of § 38-2-3(e), the following information reflecting an
+7 initial arrest of an adult and charge or charges shall be made available within forty-eight (48) hours
+8 after receipt of a request unless a request is made on a weekend or holiday, in which event the
+9 information shall be made available within seventy-two (72) hours, to the extent such information
+10 is known by the public body:
+11 (1) Full name of the arrested adult;
+12 (2) Home address of the arrested adult, unless doing so would identify a crime victim;
+13 (3) Year of birth of the arrested adult;
+14 (4) Charge or charges;
+15 (5) Date of the arrest;
+16 (6) Time of the arrest;
+17 (7) Gender of the arrested adult;
+18 (8) Race of the arrested adult; and
+19 (9) Name of the arresting officer, unless doing so would identify an undercover officer.
+20 (b) The provisions of this section shall apply to arrests made within five (5) thirty (30) days
+21 prior to the request, and the attorney general shall prepare a uniform log form for public bodies to
+22 use to facilitate compliance with this section.
+23 38-2-3.16. Compliance by agencies and public bodies.
+24 Not later than January 1, 2013, and annually thereafter, the chief administrator of each
+25 agency and each public body shall state in writing to the attorney general that all officers and
+26 employees who have the authority to grant or deny persons or entities access to records under this
+27 chapter have been provided orientation and training regarding this chapter. The attorney general
+28 may, in accordance with the provisions of chapter 35 of title 42, promulgate rules and regulations
+29 necessary to implement the requirements of this section, and shall annually, and not later than
+30 March 1, post online a list of those public bodies that have provided the statement required by this
+31 section, and those public bodies that, having submitted a statement in any previous year, have failed
+32 to do so for the current year.
+33 38-2-4. Cost.
+34 (a) Subject to the provisions of § 38-2-3, a public body must allow copies to be made or
+LC002771 - Page 9 of 15
+1 provide copies of public records. The cost per copied page of written documents provided to the
+2 public shall not exceed fifteen cents ($.15) five cents ($.05) per page for documents copyable on
+3 common business or legal size paper. A public body may not charge more than the reasonable
+4 actual cost for providing electronic records or retrieving records from storage where the public
+5 body is assessed a retrieval fee.
+6 (b) A reasonable charge may be made for the search or retrieval of documents. Hourly costs
+7 for a search and retrieval shall not exceed fifteen dollars ($15.00) per hour and no costs shall be
+8 charged for the first hour two (2) hours of a search or retrieval or for the first two (2) hours used
+9 for the redaction of documents. No charge shall be imposed for the denial of a request for records.
+10 For the purposes of this subsection, multiple requests from any person or entity to the same public
+11 body within a thirty (30) day time period shall be considered one request.
+12 (c) Copies of documents shall be provided and the search and retrieval of documents
+13 accomplished within a reasonable time after a request. A public body upon request, shall provide
+14 an estimate of the costs of a request for documents prior to providing copies.
+15 (d) Upon request, the public body shall provide a detailed itemization of the costs charged
+16 for search and retrieval.
+17 (e) A public body, the attorney general, and the court may shall reduce or waive the fees
+18 for costs charged for search or retrieval if it determines that the requester demonstrates that the
+19 information requested is in the public interest because it is likely to contribute significantly to public
+20 understanding of the operations or activities of the government and affirms that the request is not
+21 primarily in the commercial interest of the requester. Any requester denied a reduction or waiver
+22 of fees, or seeking to contest the amount of a reduction, by a public body or the attorney general
+23 may file suit pursuant to the provisions of § 38-2-9. The matter shall be reviewed de novo by the
+24 court.
+25 38-2-7. Denial of access.
+26 (a) Any denial of the right to inspect or copy records, in whole or in part provided for under
+27 this chapter shall be made to the person or entity requesting the right in writing giving the specific
+28 reasons for the denial within ten (10) business days of the request and indicating the procedures for
+29 appealing the denial. Except for good cause shown, any reason not specifically set forth in the
+30 denial shall be deemed waived by the public body.
+31 (b) Failure to comply with a request to inspect or copy the public record within the ten (10)
+32 business day period shall be deemed to be a denial. Except that for good cause shown, this limit
+33 may be extended in accordance with the provisions of § 38-2-3(e) 38-2-3(h). All copying and search
+34 and retrieval fees shall be waived if a public body fails to produce requested records in a timely
+LC002771 - Page 10 of 15
+1 manner; provided, however, that the production of records shall not be deemed untimely if the
+2 public body is awaiting receipt of payment for costs properly charged under § 38-2-4.
+3 (c) A public body that receives a request to inspect or copy records that do not exist or are
+4 not within its custody or control shall, in responding to the request in accordance with this chapter,
+5 state that it does not have or maintain the requested records.
+6 38-2-9. Jurisdiction of superior court.
+7 (a) Jurisdiction to hear and determine civil actions brought under this chapter is hereby
+8 vested in the superior court.
+9 (b) The court may examine any record which is the subject of a suit in camera to determine
+10 whether the record or any part thereof may be withheld from public inspection under the terms of
+11 this chapter.
+12 (c) Actions brought under this chapter may be advanced on the calendar upon motion of
+13 any party, or sua sponte by the court made in accordance with the rules of civil procedure of the
+14 superior court.
+15 (d) The court shall impose a civil fine not exceeding two thousand dollars ($2,000) four
+16 thousand dollars ($4,000) against a public body or official found to have committed a knowing and
+17 willful violation of this chapter, and a civil fine not to exceed one thousand dollars ($1,000) two
+18 thousand dollars ($2,000) against a public body found to have recklessly violated this chapter and
+19 shall award reasonable attorney fees and costs to the prevailing plaintiff. In the instance of a court
+20 having found a knowing and willful violation, the court may also, taking into consideration any
+21 delays in the prosecution and appeal of a request denial, impose a fine of up to one hundred dollars
+22 ($100) per day for each day that records were improperly withheld, and may further award
+23 compensatory and punitive damages. The court shall further order a public body found to have
+24 wrongfully denied access to public records to provide the records at no cost to the prevailing party;
+25 provided, further, that in the event that the court, having found in favor of the defendant, finds
+26 further that the plaintiff’s case lacked a grounding in fact or in existing law or in good faith
+27 argument for the extension, modification, or reversal of existing law, the court may award
+28 attorney’s fees and costs to the prevailing defendant. A judgment in the plaintiff’s favor shall not
+29 be a prerequisite to obtaining an award of attorney’s fees and/or costs if the court determines that
+30 the defendant’s case lacked grounding in fact or in existing law or a good faith argument for
+31 extension, modification or reversal of existing law.
+32 (e) Any civil fines imposed under this section shall be placed in a restricted receipt account
+33 of the state and shall be used to provide grants to municipalities to support information technology
+34 capabilities that will increase the public's online access to public records.
+LC002771 - Page 11 of 15
+1 38-2-14. Information relating to settlement of legal claims.
+2 Settlement agreements of any legal claims against or by a governmental entity shall be
+3 deemed public records.
+4 38-2-15. Reported violations.
+5 Every year the attorney general shall prepare a report summarizing all the complaints
+6 received pursuant to this chapter, which shall be submitted to the legislature and which shall include
+7 information as to how many complaints were found to be meritorious and the action taken by the
+8 attorney general in response to those complaints. The attorney general shall publish on a keyword
+9 searchable website the full text of all findings and decisions issued by the attorney general in
+10 response to those complaints, all advisory opinions issued under this chapter, and the annual reports
+11 issued pursuant to this section.
+12 SECTION 2. Chapter 38-2 of the General Laws entitled "Access to Public Records" is
+13 hereby amended by adding thereto the following section:
+14 38-2-17. Vexatious requests.
+15 (a) If a person makes a request to view or copy a public record that is part of a series of
+16 contemporaneous requests filed with the intent to disrupt government operations, the chief
+17 administrative officer of the public body may petition the superior court for an order to relieve the
+18 custodian of the records from fulfilling the request.
+19 (b) A chief administrative officer shall not petition a court for relief unless the officer or
+20 the custodian of the records has provided in writing to the person making the request the specific
+21 reasons that the request is considered an attempt to disrupt government operations in violation of
+22 this section, and the person has continued to engage in such conduct after the notification. Reliance
+23 solely on the number of requests filed or the number of records sought shall not be a basis for
+24 deeming the request an intent to disrupt government operations.
+25 (c) After a petition is filed and while the case is pending, the records custodian shall
+26 continue to comply with the request, but if the chief administrative officer prevails, the person
+27 making the requests shall reimburse the custodian for the reasonable costs incurred in producing
+28 the records during the pendency of the case, in accordance with § 38-2-4.
+29 (d) A court may, upon finding by clear and convincing evidence that a records request was
+30 made with the intent to disrupt government operations, issue an order authorizing the custodian of
+31 the records to ignore the request that is the subject of the complaint.
+32 (e) Upon a second finding that a person has filed a request with the intent to disrupt
+33 government operations, a court may provide additional appropriate relief including, but not limited
+34 to, an order that the custodian of the records need not comply with future requests from the person
+LC002771 - Page 12 of 15
+1 for a specified period of time, but not to exceed one year.
+2 (f) If a complaint brought under this section is dismissed by the court or the chief
+3 administrative officer without a requisite finding of an attempt to disrupt government operations,
+4 the requester of the records shall be entitled to an award of reasonable attorneys’ fees and costs. If
+5 the court determines that the complaint lacked grounding in fact or law, the requester shall in
+6 addition be entitled to an award of damages not to exceed five thousand dollars ($5,000).
+7 38-2-18. Traffic accident and improvement data.
+8 Notwithstanding any other provision of this chapter or state law, any records that, under 23
+9 U.S.C. § 407, are not discoverable or admissible in court proceedings or allowed to be considered
+10 for other purposes in damages actions shall nonetheless be deemed public records; provided,
+11 however, the records may not be used for purposes prohibited by that federal statute. When making
+12 the records public, whether in response to a request pursuant to this chapter or otherwise, a public
+13 body may provide written notice of the aforementioned restrictions on their use.
+14 38-2-19. Preferred license plates.
+15 Notwithstanding any other provisions of this chapter or state law, and to the extent not
+16 prohibited by the Driver's Privacy Protection Act of 1994, 18 U.S.C. § 2721 et seq., the names of
+17 any individuals who obtain a preferred license plate shall be a public record available upon request.
+18 A "preferred license plate" means a license plate of one to four (4) digits, or a combination of one
+19 to two (2) letters and one to three (3) digits, whose issuance is approved by, or subject to the
+20 approval of, the office of the governor.
+21 SECTION 3. Section 39-21.1-17 of the General Laws in Chapter 39-21.1 entitled "911
+22 Emergency Telephone Number Act" is hereby amended to read as follows:
+23 39-21.1-17. Confidentiality of calls.
+24 (a) All telephone calls and telephone call transmissions, including electronic text message,
+25 photos or videos, received pursuant to this chapter and all tapes containing records of telephone
+26 calls shall remain confidential and used only for the purpose of handling emergency calls and for
+27 public safety purposes as may be needed for law enforcement, fire, medical, rescue or other
+28 emergency services. The calls shall not be released to any other parties without the written consent
+29 of the caller whose voice is recorded, or upon order of the court.
+30 (b) Notwithstanding subsection (a) of this section, calls shall be released to third parties:
+31 (1) Upon good cause shown;
+32 (2) Upon order of the court; or
+33 (3) Upon request, to:
+34 (i) The individual placing the call;
+LC002771 - Page 13 of 15
+1 (ii) Any individual who is heard on the call communicating information to or for the
+2 emergency responder or operator; and
+3 (iii) The subject(s) of the call who required emergency services or, if they are incapacitated
+4 or deceased, their next of kin.
+5 SECTION 4. This act shall take effect upon passage.
+========
+LC002771
+========
+LC002771 - Page 14 of 15
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+***
+1 This act would make numerous changes to the access to public records act, including
+2 clarifying various provisions, increasing the sanctions for knowing and willful violations of the
+3 law, and making certain traffic accident data and preferred license plate information public.
+4 Additionally, this act would include a police report of an incident that does not lead to an arrest as
+5 accessible to public records request. Any final reports of investigations conducted by internal
+6 affairs would be accessible to public records request. All police worn body camera footage would
+7 be accessible to public records request and would be made available within thirty (30) days. Arrest
+8 logs made within thirty (30) days of arrest, changed from five (5) days previously, would be
+9 accessible to public records request. A civil fine for public officials who knowingly violate this
+10 chapter would increase from two thousand dollars ($2,000) to four thousand dollars ($4,000), and
+11 if a public official recklessly violates this chapter a fine of two thousand dollars ($2,000) this is a
+12 change from one thousand dollars ($1,000) previously. There would also be relief in the case of a
+13 person filing frivolous request with the intent to disrupt government operations.
+14 This act would take effect upon passage.
+========
+LC002771
+========
+LC002771 - Page 15 of 15
+[DELETED: TATE  OF  RHODE  ISLAND S 3 h 3 T p o p b b 3 A ( a a w d o o a o R I s o l g t e g a a p a a s a i t p d o a p e]
+[DELETED:  i o ( ( “ b m a m o w t p b h s c ( b t p f s r m o o t e d p f a t p a r ( r c ( A r p b t a p o a w p p ( P a o p i i r o d c c p w s o r i a t s j t j d d o e a p w t “ o v p a]
+[DELETED:  t b ( l o s s o i r s t p r c b e a i r t m c o a p a a i i t m d b h ( o ( j ( a i P o c t i o p p ( C r b e t d t i o a c t s ( W d t a p f l e i o p ( r a b p]
+[DELETED:  ( N a o p o l a f r o i c b i a u o t e r o h o b w t i p a e o w h b f t h e i m t h r p i 2 ( h o N t s ( l ( S a t s a t s p o m a l e ( c p ( R a s o s o n i l n o c ( b ( t ( P d n i m w p a w p s h ( e]
+[DELETED:  h ( c o o t e o i t o c t h n d c ( T c o r e a e o f e a e s p d ( ( a a s u ( R o i t s o p c a l e h ( ( b a ( f f ( r ( o ( f i a o p o l s p o b c a p t c o i]
+[DELETED:  o a ( C c a n i t p o s o l g a c ( A d m a t w i o o t p c o ( s ( p ( o 3 P ( 3 o r s h t r t i a c t r a s r t a m b d ( A r s p o a p r e b § 3 i o i s i p w b t d ( l]
+[DELETED:  4 s a ( m ( E p b s e w p r a t p r 4 2 r T p r i u t l i t b r i p ( n ( r d d i g ( ( ( t]
+[DELETED:  m c r s r t 2 ( f s ( a a a ( a m p s ( c t e ( m ( s p a ( s w u p]
+[DELETED:  ( t s a 3 ( i a i i ( ( ( ( ( ( ( ( ( ( p u 3 N a e c m n M s t 3 (]
+[DELETED:  p p c a b ( f c f F b ( a a ( f ( f i u p o m c 3 ( t r a d ( b m a]
+[DELETED:  m p ( n s 3 ( v ( w t ( a s ( t w t s h d ( p d f e d t r w i w a m f a c w p f a f t e m o r o e l t c m a a b t e ( o c]
+[DELETED:  3 S d 3 E r i a s r i S h 3 ( c r f w t i t d g o t c a c ( t r t s d ( c m t ( m t ( g t]
+[DELETED:  f ( I a c b u t s i d b t c o t c a t t a 3 N U f o p i d a s n d p p h t b 3 N p a A t a S E 3 ( p c p s p a b n f f m r o o e o ( ( ( ( (]
+[DELETED:  ( e ( o S]
+[DELETED:  T c l a m c t a d a p l p i p A a a b l a c i c p T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6273
+========
+LC002771
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+Introduced By: Representatives Serpa, and Fellela
+Date Introduced: April 25, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 38-2-1, 38-2-2, 38-2-3, 38-2-3.2, 38-2-3.16, 38-2-4, 38-2-7, 38-2-9,
+2 38-2-14 and 38-2-15 of the General Laws in Chapter 38-2 entitled "Access to Public Records" are
+3 hereby amended to read as follows:
+4 38-2-1. Purpose.
+5 The public’s right to access to public records and the individual’s right to dignity and
+6 privacy are both recognized to be principles of the utmost importance in a free society. The purpose
+7 of this chapter is to facilitate public access to public records. It is also the intent of this chapter to
+8 protect from disclosure information about particular individuals maintained in the files of public
+9 bodies when disclosure would constitute an unwarranted invasion of personal privacy as specified
+10 by the exemptions contained in this chapter.
+11 38-2-2. Definitions.
+12 As used in this chapter:
+13 (1) “Agency” or “public body” means any executive, legislative, judicial, regulatory, or
+14 administrative body of the state, or any political subdivision thereof; including, but not limited to:
+15 any department, division, agency, commission, board, office, bureau, authority; any school, fire, or
+16 water district, or other agency of Rhode Island state or local government that exercises
+17 governmental functions; any authority as defined in § 42-35-1(b); or any other public or private
+18 agency, person, partnership, corporation, or business entity acting on behalf of and/or in place of
+19 any public agency, and shall also include the police department of any private educational
+
+1 institution of higher learning employing any special police officers pursuant to § 12-2.1-1 or peace
+2 officers as defined in § 12-7-21.
+3 (2) “Chief administrative officer” means the highest authority of the public body.
+4 (3) “Public business” means any matter over which the public body has supervision,
+5 control, jurisdiction, or advisory power.
+6 (4) “Public record” or “public records” shall mean all documents, papers, letters, maps,
+7 books, tapes, photographs, films, sound recordings, magnetic or other tapes, electronic data
+8 processing records, computer stored data (including electronic mail messages, except specifically
+9 for any electronic mail messages of or to elected officials with or relating to those they represent
+10 and correspondence of or to elected officials in their official capacities as otherwise exempt under
+11 this chapter), or other material regardless of physical form or characteristics made or received
+12 pursuant to law or ordinance or in connection with the transaction of official business by any
+13 agency. For the purposes of this chapter, and subject to the provisions of § 38-2-3(b), the following
+14 records shall not be deemed public:
+15 (A)(I)(a)(i) All records relating to a client/attorney relationship and to a doctor/patient
+16 relationship, including all medical records and information protected by state or federal healthcare
+17 confidentiality laws relating to an individual in any files.
+18 (ii) All records protected by the attorney-client privilege or attorney work product
+19 privilege.
+20 (b) Personnel and other personal individually identifiable records otherwise deemed
+21 confidential by federal or state law or by federal law or regulation, or the disclosure of which would
+22 constitute a clearly unwarranted invasion of personal privacy pursuant to 5 U.S.C. § 552 et seq.;
+23 provided, however, with respect to employees, and employees of contractors and subcontractors
+24 working on public works projects that are required to be listed as certified payrolls, the name, gross
+25 salary, salary range, total cost of paid fringe benefits, gross amount received in overtime, and any
+26 other remuneration in addition to salary, job title, job description, dates of employment and
+27 positions held with the state, municipality, or public works contractor or subcontractor on public
+28 works projects, employment contract, work location, and/or project, business telephone number,
+29 the city or town of residence, and date of termination shall be public. For the purposes of this section
+30 “remuneration” shall include any payments received by an employee as a result of termination, or
+31 otherwise leaving employment, including, but not limited to, payments for accrued sick and/or
+32 vacation time, severance pay, or compensation paid pursuant to a contract buy-out provision. For
+33 purposes of this section, the city or town residence shall not be deemed public for peace officers,
+34 as defined in § 12-7-21, and shall not be released. For purposes of this section, "employee" means
+LC002771 - Page 2 of 15
+
+1 those individuals currently employed by a public body and those previously employed by a public
+2 body.
+3 (II) Notwithstanding the provisions of this section, or any other provision of the general
+4 laws to the contrary, the pension records of all persons who are either current or retired members
+5 of any public retirement systems, as well as all persons who become members of those retirement
+6 systems after June 17, 1991, shall be open for public inspection. “Pension records” as used in this
+7 section, shall include all records containing information concerning pension and retirement benefits
+8 of current and retired members of the retirement systems and future members of said systems,
+9 including all records concerning retirement credits purchased and the ability of any member of the
+10 retirement system to purchase retirement credits, but excluding all information regarding the
+11 medical condition of any person and all information identifying the member’s designated
+12 beneficiary or beneficiaries unless and until the member’s designated beneficiary or beneficiaries
+13 have received or are receiving pension and/or retirement benefits through the retirement system.
+14 (B) Trade secrets and commercial or financial information obtained from a person, firm,
+15 or corporation that is of a privileged or confidential nature.
+16 (C) Child custody and adoption records, records of illegitimate births, and records of
+17 juvenile proceedings before the family court.
+18 (D) All records maintained by law enforcement agencies for criminal law enforcement and
+19 all records relating to the detection and investigation of crime, including those maintained on any
+20 individual or compiled in the course of a criminal investigation by any law enforcement agency.
+21 Provided, however, such records shall not be deemed public only to the extent that the disclosure
+22 of the records or information (a) Could reasonably be expected to interfere with investigations of
+23 criminal activity or with enforcement proceedings; (b) Would deprive a person of a right to a fair
+24 trial or an impartial adjudication; (c) Could reasonably be expected to constitute an unwarranted
+25 invasion of personal privacy; (d) Could reasonably be expected to disclose the identity of a
+26 confidential source, including a state, local, or foreign agency or authority, or any private institution
+27 that furnished information on a confidential basis, or the information furnished by a confidential
+28 source; (e) Would disclose techniques and procedures for law enforcement investigations or
+29 prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions; or
+30 (f) Could reasonably be expected to endanger the life or physical safety of any individual. Records
+31 relating to management and direction of a law enforcement agency and records or reports reflecting
+32 and describing the initial arrest of an adult and the charge or charges brought against an adult shall
+33 be public. A police report of an incident that does not lead to an arrest shall not be deemed
+34 presumptively exempt from disclosure.
+LC002771 - Page 3 of 15
+
+1 (I) Notwithstanding any other provision of law, any final reports of investigations
+2 conducted by internal affair units or their equivalent, regardless of how or by whom the
+3 investigation was initiated, shall be public records; provided, however, names, addresses and other
+4 personal identifiers may be redacted from the reports to the extent their disclosure would constitute
+5 a clearly unwarranted invasion of personal privacy. The name and underlying activity of any law
+6 enforcement officer who has been found to have engaged in misconduct that has required
+7 prosecutorial disclosure to a criminal defendant shall be public. Provided, however, no personally
+8 identifiable information shall be released to the extent its release would be in conflict with chapter
+9 28.6 or title 42 (the "law enforcement officers' bill of rights").
+10 (II) All police body-worn camera recordings shall be subject to this chapter; provided,
+11 however, any recordings of incidents involving police use of force in which an investigation is
+12 ongoing shall be made available within thirty (30) days of a request in full or redacted form.
+13 Notwithstanding the foregoing, a law enforcement agency may petition the superior court for a
+14 twenty (20) day extension if it can demonstrate that release within the thirty (30) day period would
+15 substantially interfere with completion of its investigation.
+16 (E) Any records that would not be available by law or rule of court to an opposing party in
+17 litigation.
+18 (F) Scientific and technological secrets and the security plans of military and law
+19 enforcement agencies, the disclosure of which would endanger the public welfare and security.
+20 (G) Any records that disclose the identity of the contributor of a bona fide and lawful
+21 charitable contribution to the public body whenever public anonymity has been requested of the
+22 public body with respect to the contribution by the contributor.
+23 (H) Reports and statements of strategy or negotiation involving labor negotiations or
+24 collective bargaining.
+25 (I) Reports and statements of strategy or negotiation with respect to the investment or
+26 borrowing of public funds, until such time as those transactions are entered into.
+27 (J) Any minutes of a meeting of a public body that are not required to be disclosed pursuant
+28 to chapter 46 of title 42.
+29 (K) Preliminary drafts, notes, impressions, memoranda, working papers, and work
+30 products, including those involving research at state institutions of higher education on commercial,
+31 scientific, artistic, technical, or scholarly issues, whether in electronic or other format; provided,
+32 however, any documents submitted at a public meeting of a public body shall be deemed public.
+33 (L) Test questions, scoring keys, and other examination data used to administer a licensing
+34 examination, examination for employment or promotion, or academic examinations; provided,
+LC002771 - Page 4 of 15
+
+1 however, that a person shall have the right to review the results of his or her examination.
+2 (M) Correspondence of or to elected officials with or relating to those they represent and
+3 correspondence of or to elected officials in their official capacities that has no demonstrable
+4 connection to the exercise of official acts or duties.
+5 (N) The contents of real estate appraisals, engineering, or feasibility estimates and
+6 evaluations made for or by an agency relative to the acquisition of property or to prospective public
+7 supply and construction contracts, until such time as all of the property has been acquired or all
+8 proceedings or transactions have been terminated or abandoned; provided the law of eminent
+9 domain shall not be affected by this provision.
+10 (O) All tax returns.
+11 (P) All investigatory records of public bodies, with the exception of law enforcement
+12 agencies, pertaining to possible violations of statute, rule, or regulation other than records of final
+13 actions taken, provided that all records prior to formal notification of violations or noncompliance
+14 shall not be deemed to be public, except that, upon good cause shown, such records may be released
+15 upon the completion of formal notification.
+16 (Q) Records of individual test scores on professional certification and licensing
+17 examinations; provided, however, that a person shall have the right to review the results of his or
+18 her examination.
+19 (R) Requests for advisory opinions until such time as the public body issues its opinion.
+20 (S) Records, reports, opinions, information, and statements required to be kept confidential
+21 by federal law or regulation or state law or rule of court; provided that, the public body shall provide
+22 a citation to the law, regulation or rule relied upon in withholding any records under this exception.
+23 (T) Judicial bodies are included in the definition only in respect to their administrative
+24 function provided that records kept pursuant to the provisions of chapter 16 of title 8 are exempt
+25 from the operation of this chapter.
+26 (U) Library records that, by themselves or when examined with other public records, would
+27 reveal the identity of the library user requesting, checking out, or using any library materials.
+28 (V) Printouts from TELE — TEXT devices used by people who are deaf or hard of hearing
+29 or speech impaired.
+30 (W) All records received by the insurance division of the department of business regulation
+31 from other states, either directly or through the National Association of Insurance Commissioners,
+32 if those records are accorded confidential treatment in that state. Nothing contained in this title or
+33 any other provision of law shall prevent or be construed as prohibiting the commissioner of
+34 insurance from disclosing otherwise confidential information to the insurance department of this
+LC002771 - Page 5 of 15
+
+1 or any other state or country, at any time, so long as the agency or office receiving the records
+2 agrees in writing to hold it confidential in a manner consistent with the laws of this state.
+3 (X) Credit card account numbers in the possession of state or local government are
+4 confidential and shall not be deemed public records.
+5 (Y) Any documentary material, answers to written interrogatories, or oral testimony
+6 provided under any subpoena issued under § 9-1.1-6. Notwithstanding this provision and absent a
+7 court order to the contrary, a subpoena issued by a governmental entity to a public body or a public
+8 official regarding official business shall be public record.
+9 (Z) Any individually identifiable evaluations of public school employees made pursuant to
+10 state or federal law or regulation.
+11 (AA) All documents prepared by school districts intended to be used by school districts in
+12 protecting the safety of their students from potential and actual threats.
+13 (BB) The list of teachers terminated for good and just cause maintained by the department
+14 of education pursuant to § 16-13-9.
+15 38-2-3. Right to inspect and copy records — Duty to maintain minutes of meetings —
+16 Procedures for access.
+17 (a) Except as provided in § 38-2-2(4), all records maintained or kept on file by stored by
+18 or for any public body, whether or not those records are required by any law or by any rule or
+19 regulation, and regardless of physical location, shall be public records and every person or entity
+20 shall have the right to inspect and/or copy those records at such reasonable time as may be
+21 determined by the custodian thereof.
+22 (b) Any reasonably segregable portion of a public record excluded by § 38-2-2(4),
+23 including the reasonably segregable portion of any record deemed confidential pursuant to any
+24 other state law, shall be available for public inspection after the deletion of the information which
+25 is the basis of the exclusion. If an entire document or record is deemed non-public, the public body
+26 shall state in writing that no portion of the document or record contains reasonable segregable
+27 information that is releasable. In withholding any document or any portion of a document, the
+28 public body shall identify the amount of information withheld and the exemption under which it
+29 was withheld, and in the case of redactions, the exemption under which any redaction is made shall
+30 be indicated on the released portion of the record or shall be clearly delineated in a privilege log
+31 that reasonably apprises the requester of the specific basis for the redaction of any particular
+32 document.
+33 (c) All documents to be discussed at an open meeting of a public body shall be posted or
+34 linked with the electronic filing of the agenda submitted to the secretary of state pursuant to § 42-
+LC002771 - Page 6 of 15
+
+1 46-6(f). Notwithstanding the provisions of § 38-2-2(4), any documents reviewed, considered, or
+2 submitted at a public meeting of a public body shall be deemed public and shall also be made
+3 available upon request to any member of the public present at the meeting.
+4 (c)(d) Each public body shall make, keep, and maintain written or recorded minutes of all
+5 meetings.
+6 (d)(e) Each public body shall establish written procedures regarding access to public
+7 records but shall not require written requests for public information available pursuant to § 42-35-
+8 2 or for other documents prepared for or readily available to the public, including any documents
+9 reviewed, considered, or submitted at a public meeting of a public body.
+10 These procedures must include, but need not be limited to, the identification of a designated
+11 public records officer or unit, how to make a public records request, and where a public record
+12 request should be made, and a copy of these procedures shall be posted on the public body’s website
+13 if such a website is maintained and shall be made otherwise readily available to the public. The
+14 unavailability of a designated public records officer shall not be deemed good cause for failure to
+15 timely comply with a request to inspect and/or copy public records pursuant to subsection (e). A
+16 link to the public body's procedures shall be prominently displayed on the home page of its website,
+17 including a link to the appropriate webpage if the public body requires that requests be submitted
+18 to another public body of the state or municipality. A written request for public records need not
+19 be made on a form established by a public body if the request is otherwise readily identifiable as a
+20 request for public records. The procedures shall allow requests for public records to be submitted
+21 in person, by regular and electronic mail, and, at the public body's discretion, by fax or online
+22 portal.
+23 (f) A requester's failure to follow the written procedures established by a public body shall
+24 not, by itself, serve as a basis to fail to comply with a request for public records.
+25 (g) If a request for records is sent to a public body other than through the designated public
+26 records officer or unit, the recipient of the request shall be responsible for forwarding it to the
+27 designated officer or unit. In such circumstances, the public body shall have an additional five (5)
+28 days to respond to the request, notwithstanding the provisions of § 38-2-7, but shall not be found
+29 in violation of this chapter for responding beyond this timeframe if the public body has acted in
+30 good faith in responding.
+31 (e)(h) A public body receiving a request shall permit the inspection or copying within ten
+32 (10) business days after receiving a request. If the inspection or copying is not permitted within ten
+33 (10) business days, the public body shall forthwith explain in writing the need for additional time
+34 to comply with the request. Any such explanation must be particularized to the specific request
+LC002771 - Page 7 of 15
+
+1 made. In such cases the public body may have up to an additional twenty (20) business days to
+2 comply with the request if it can demonstrate with specificity that the voluminous nature of the
+3 request, the number of requests for records pending (in which case the number of pending requests
+4 shall be cited in the response), or the difficulty in searching for and retrieving or copying the
+5 requested records, is such that additional time is necessary to avoid imposing an undue burden on
+6 the public body. The response times established by this subsection, §§ 38-2-3.2(a), and 38-2-
+7 2(4)(D)(II) may be further extended only with the explicit written consent of the requester.
+8 (i) The unavailability of a designated public records officer shall not be deemed good cause
+9 for failure to timely comply with a request to inspect and/or copy public records pursuant to
+10 subsection (h) of this section.
+11 (f)(j) If a public record is in active use or in storage and, therefore, not available at the time
+12 a person or entity requests access, the custodian shall so inform the person or entity and make an
+13 appointment for the person or entity to examine such records as expeditiously as they may be made
+14 available.
+15 (g)(k) Any person or entity requesting copies of public records may elect to obtain them in
+16 any and all media in which the public agency is capable of providing them. Any public body which
+17 maintains its records in a computer storage system shall provide any data properly identified in a
+18 printout or other reasonable format, as requested, including a format allowing the documents to be
+19 searchable electronically where feasible.
+20 (h)(l) Nothing in this section shall be construed as requiring a public body to reorganize,
+21 consolidate, or compile data not maintained by the public body in the form requested at the time
+22 the request to inspect the public records was made except to the extent that such records are in an
+23 electronic format and the public body would not be unduly burdened in providing such data.
+24 (i)(m) Nothing in this section is intended to affect the public record status of information
+25 merely because it is stored in a computer.
+26 (j)(n) No public records shall be withheld based on the purpose for which the records are
+27 sought, nor shall a public body require, as a condition of fulfilling a public records request, that a
+28 person or entity provide a reason for the request or provide personally identifiable information
+29 about him/herself.
+30 (k)(o) At the election of the person or entity requesting the public records, the public body
+31 shall provide copies of the public records electronically, by facsimile, or by mail in accordance
+32 with the requesting person or entity’s choice, unless complying with that preference would be
+33 unduly burdensome due to the volume of records requested or the costs that would be incurred. The
+34 person requesting delivery shall be responsible for the actual cost of delivery, if any.
+LC002771 - Page 8 of 15
+
+1 (p) Any provision in a contractual or other agreement entered into by a public body with a
+2 third party that purports to keep records confidential that are otherwise public under this chapter
+3 shall be deemed null and void; nor shall a public body delegate to a private party the determination
+4 as to what information provided by that party is exempt from disclosure under this chapter.
+5 38-2-3.2. Arrest logs.
+6 (a) Notwithstanding the provisions of § 38-2-3(e), the following information reflecting an
+7 initial arrest of an adult and charge or charges shall be made available within forty-eight (48) hours
+8 after receipt of a request unless a request is made on a weekend or holiday, in which event the
+9 information shall be made available within seventy-two (72) hours, to the extent such information
+10 is known by the public body:
+11 (1) Full name of the arrested adult;
+12 (2) Home address of the arrested adult, unless doing so would identify a crime victim;
+13 (3) Year of birth of the arrested adult;
+14 (4) Charge or charges;
+15 (5) Date of the arrest;
+16 (6) Time of the arrest;
+17 (7) Gender of the arrested adult;
+18 (8) Race of the arrested adult; and
+19 (9) Name of the arresting officer, unless doing so would identify an undercover officer.
+20 (b) The provisions of this section shall apply to arrests made within five (5) thirty (30) days
+21 prior to the request, and the attorney general shall prepare a uniform log form for public bodies to
+22 use to facilitate compliance with this section.
+23 38-2-3.16. Compliance by agencies and public bodies.
+24 Not later than January 1, 2013, and annually thereafter, the chief administrator of each
+25 agency and each public body shall state in writing to the attorney general that all officers and
+26 employees who have the authority to grant or deny persons or entities access to records under this
+27 chapter have been provided orientation and training regarding this chapter. The attorney general
+28 may, in accordance with the provisions of chapter 35 of title 42, promulgate rules and regulations
+29 necessary to implement the requirements of this section, and shall annually, and not later than
+30 March 1, post online a list of those public bodies that have provided the statement required by this
+31 section, and those public bodies that, having submitted a statement in any previous year, have failed
+32 to do so for the current year.
+33 38-2-4. Cost.
+34 (a) Subject to the provisions of § 38-2-3, a public body must allow copies to be made or
+LC002771 - Page 9 of 15
+
+1 provide copies of public records. The cost per copied page of written documents provided to the
+2 public shall not exceed fifteen cents ($.15) five cents ($.05) per page for documents copyable on
+3 common business or legal size paper. A public body may not charge more than the reasonable
+4 actual cost for providing electronic records or retrieving records from storage where the public
+5 body is assessed a retrieval fee.
+6 (b) A reasonable charge may be made for the search or retrieval of documents. Hourly costs
+7 for a search and retrieval shall not exceed fifteen dollars ($15.00) per hour and no costs shall be
+8 charged for the first hour two (2) hours of a search or retrieval or for the first two (2) hours used
+9 for the redaction of documents. No charge shall be imposed for the denial of a request for records.
+10 For the purposes of this subsection, multiple requests from any person or entity to the same public
+11 body within a thirty (30) day time period shall be considered one request.
+12 (c) Copies of documents shall be provided and the search and retrieval of documents
+13 accomplished within a reasonable time after a request. A public body upon request, shall provide
+14 an estimate of the costs of a request for documents prior to providing copies.
+15 (d) Upon request, the public body shall provide a detailed itemization of the costs charged
+16 for search and retrieval.
+17 (e) A public body, the attorney general, and the court may shall reduce or waive the fees
+18 for costs charged for search or retrieval if it determines that the requester demonstrates that the
+19 information requested is in the public interest because it is likely to contribute significantly to public
+20 understanding of the operations or activities of the government and affirms that the request is not
+21 primarily in the commercial interest of the requester. Any requester denied a reduction or waiver
+22 of fees, or seeking to contest the amount of a reduction, by a public body or the attorney general
+23 may file suit pursuant to the provisions of § 38-2-9. The matter shall be reviewed de novo by the
+24 court.
+25 38-2-7. Denial of access.
+26 (a) Any denial of the right to inspect or copy records, in whole or in part provided for under
+27 this chapter shall be made to the person or entity requesting the right in writing giving the specific
+28 reasons for the denial within ten (10) business days of the request and indicating the procedures for
+29 appealing the denial. Except for good cause shown, any reason not specifically set forth in the
+30 denial shall be deemed waived by the public body.
+31 (b) Failure to comply with a request to inspect or copy the public record within the ten (10)
+32 business day period shall be deemed to be a denial. Except that for good cause shown, this limit
+33 may be extended in accordance with the provisions of § 38-2-3(e) 38-2-3(h). All copying and search
+34 and retrieval fees shall be waived if a public body fails to produce requested records in a timely
+LC002771 - Page 10 of 15
+
+1 manner; provided, however, that the production of records shall not be deemed untimely if the
+2 public body is awaiting receipt of payment for costs properly charged under § 38-2-4.
+3 (c) A public body that receives a request to inspect or copy records that do not exist or are
+4 not within its custody or control shall, in responding to the request in accordance with this chapter,
+5 state that it does not have or maintain the requested records.
+6 38-2-9. Jurisdiction of superior court.
+7 (a) Jurisdiction to hear and determine civil actions brought under this chapter is hereby
+8 vested in the superior court.
+9 (b) The court may examine any record which is the subject of a suit in camera to determine
+10 whether the record or any part thereof may be withheld from public inspection under the terms of
+11 this chapter.
+12 (c) Actions brought under this chapter may be advanced on the calendar upon motion of
+13 any party, or sua sponte by the court made in accordance with the rules of civil procedure of the
+14 superior court.
+15 (d) The court shall impose a civil fine not exceeding two thousand dollars ($2,000) four
+16 thousand dollars ($4,000) against a public body or official found to have committed a knowing and
+17 willful violation of this chapter, and a civil fine not to exceed one thousand dollars ($1,000) two
+18 thousand dollars ($2,000) against a public body found to have recklessly violated this chapter and
+19 shall award reasonable attorney fees and costs to the prevailing plaintiff. In the instance of a court
+20 having found a knowing and willful violation, the court may also, taking into consideration any
+21 delays in the prosecution and appeal of a request denial, impose a fine of up to one hundred dollars
+22 ($100) per day for each day that records were improperly withheld, and may further award
+23 compensatory and punitive damages. The court shall further order a public body found to have
+24 wrongfully denied access to public records to provide the records at no cost to the prevailing party;
+25 provided, further, that in the event that the court, having found in favor of the defendant, finds
+26 further that the plaintiff’s case lacked a grounding in fact or in existing law or in good faith
+27 argument for the extension, modification, or reversal of existing law, the court may award
+28 attorney’s fees and costs to the prevailing defendant. A judgment in the plaintiff’s favor shall not
+29 be a prerequisite to obtaining an award of attorney’s fees and/or costs if the court determines that
+30 the defendant’s case lacked grounding in fact or in existing law or a good faith argument for
+31 extension, modification or reversal of existing law.
+32 (e) Any civil fines imposed under this section shall be placed in a restricted receipt account
+33 of the state and shall be used to provide grants to municipalities to support information technology
+34 capabilities that will increase the public's online access to public records.
+LC002771 - Page 11 of 15
+
+1 38-2-14. Information relating to settlement of legal claims.
+2 Settlement agreements of any legal claims against or by a governmental entity shall be
+3 deemed public records.
+4 38-2-15. Reported violations.
+5 Every year the attorney general shall prepare a report summarizing all the complaints
+6 received pursuant to this chapter, which shall be submitted to the legislature and which shall include
+7 information as to how many complaints were found to be meritorious and the action taken by the
+8 attorney general in response to those complaints. The attorney general shall publish on a keyword
+9 searchable website the full text of all findings and decisions issued by the attorney general in
+10 response to those complaints, all advisory opinions issued under this chapter, and the annual reports
+11 issued pursuant to this section.
+12 SECTION 2. Chapter 38-2 of the General Laws entitled "Access to Public Records" is
+13 hereby amended by adding thereto the following section:
+14 38-2-17. Vexatious requests.
+15 (a) If a person makes a request to view or copy a public record that is part of a series of
+16 contemporaneous requests filed with the intent to disrupt government operations, the chief
+17 administrative officer of the public body may petition the superior court for an order to relieve the
+18 custodian of the records from fulfilling the request.
+19 (b) A chief administrative officer shall not petition a court for relief unless the officer or
+20 the custodian of the records has provided in writing to the person making the request the specific
+21 reasons that the request is considered an attempt to disrupt government operations in violation of
+22 this section, and the person has continued to engage in such conduct after the notification. Reliance
+23 solely on the number of requests filed or the number of records sought shall not be a basis for
+24 deeming the request an intent to disrupt government operations.
+25 (c) After a petition is filed and while the case is pending, the records custodian shall
+26 continue to comply with the request, but if the chief administrative officer prevails, the person
+27 making the requests shall reimburse the custodian for the reasonable costs incurred in producing
+28 the records during the pendency of the case, in accordance with § 38-2-4.
+29 (d) A court may, upon finding by clear and convincing evidence that a records request was
+30 made with the intent to disrupt government operations, issue an order authorizing the custodian of
+31 the records to ignore the request that is the subject of the complaint.
+32 (e) Upon a second finding that a person has filed a request with the intent to disrupt
+33 government operations, a court may provide additional appropriate relief including, but not limited
+34 to, an order that the custodian of the records need not comply with future requests from the person
+LC002771 - Page 12 of 15
+
+1 for a specified period of time, but not to exceed one year.
+2 (f) If a complaint brought under this section is dismissed by the court or the chief
+3 administrative officer without a requisite finding of an attempt to disrupt government operations,
+4 the requester of the records shall be entitled to an award of reasonable attorneys’ fees and costs. If
+5 the court determines that the complaint lacked grounding in fact or law, the requester shall in
+6 addition be entitled to an award of damages not to exceed five thousand dollars ($5,000).
+7 38-2-18. Traffic accident and improvement data.
+8 Notwithstanding any other provision of this chapter or state law, any records that, under 23
+9 U.S.C. § 407, are not discoverable or admissible in court proceedings or allowed to be considered
+10 for other purposes in damages actions shall nonetheless be deemed public records; provided,
+11 however, the records may not be used for purposes prohibited by that federal statute. When making
+12 the records public, whether in response to a request pursuant to this chapter or otherwise, a public
+13 body may provide written notice of the aforementioned restrictions on their use.
+14 38-2-19. Preferred license plates.
+15 Notwithstanding any other provisions of this chapter or state law, and to the extent not
+16 prohibited by the Driver's Privacy Protection Act of 1994, 18 U.S.C. § 2721 et seq., the names of
+17 any individuals who obtain a preferred license plate shall be a public record available upon request.
+18 A "preferred license plate" means a license plate of one to four (4) digits, or a combination of one
+19 to two (2) letters and one to three (3) digits, whose issuance is approved by, or subject to the
+20 approval of, the office of the governor.
+21 SECTION 3. Section 39-21.1-17 of the General Laws in Chapter 39-21.1 entitled "911
+22 Emergency Telephone Number Act" is hereby amended to read as follows:
+23 39-21.1-17. Confidentiality of calls.
+24 (a) All telephone calls and telephone call transmissions, including electronic text message,
+25 photos or videos, received pursuant to this chapter and all tapes containing records of telephone
+26 calls shall remain confidential and used only for the purpose of handling emergency calls and for
+27 public safety purposes as may be needed for law enforcement, fire, medical, rescue or other
+28 emergency services. The calls shall not be released to any other parties without the written consent
+29 of the caller whose voice is recorded, or upon order of the court.
+30 (b) Notwithstanding subsection (a) of this section, calls shall be released to third parties:
+31 (1) Upon good cause shown;
+32 (2) Upon order of the court; or
+33 (3) Upon request, to:
+34 (i) The individual placing the call;
+LC002771 - Page 13 of 15
+
+1 (ii) Any individual who is heard on the call communicating information to or for the
+2 emergency responder or operator; and
+3 (iii) The subject(s) of the call who required emergency services or, if they are incapacitated
+4 or deceased, their next of kin.
+5 SECTION 4. This act shall take effect upon passage.
+========
+LC002771
+========
+LC002771 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+***
+1 This act would make numerous changes to the access to public records act, including
+2 clarifying various provisions, increasing the sanctions for knowing and willful violations of the
+3 law, and making certain traffic accident data and preferred license plate information public.
+4 Additionally, this act would include a police report of an incident that does not lead to an arrest as
+5 accessible to public records request. Any final reports of investigations conducted by internal
+6 affairs would be accessible to public records request. All police worn body camera footage would
+7 be accessible to public records request and would be made available within thirty (30) days. Arrest
+8 logs made within thirty (30) days of arrest, changed from five (5) days previously, would be
+9 accessible to public records request. A civil fine for public officials who knowingly violate this
+10 chapter would increase from two thousand dollars ($2,000) to four thousand dollars ($4,000), and
+11 if a public official recklessly violates this chapter a fine of two thousand dollars ($2,000) this is a
+12 change from one thousand dollars ($1,000) previously. There would also be relief in the case of a
+13 person filing frivolous request with the intent to disrupt government operations.
+14 This act would take effect upon passage.
+========
+LC002771
+========
+LC002771 - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S 3 h 3 T p o p b b 3 A ( a a w d o o a o R I s o l g t e g a a p a a s a i t p d o a p e]
+[DELETED:  i o ( ( “ b m a m o w t p b h s c ( b t p f s r m o o t e d p f a t p a r ( r c ( A r p b t a p o a w p p ( P a o p i i r o d c c p w s o r i a t s j t j d d o e a p w t “ o v p a]
+[DELETED:  t b ( l o s s o i r s t p r c b e a i r t m c o a p a a i i t m d b h ( o ( j ( a i P o c t i o p p ( C r b e t d t i o a c t s ( W d t a p f l e i o p ( r a b p]
+[DELETED:  ( N a o p o l a f r o i c b i a u o t e r o h o b w t i p a e o w h b f t h e i m t h r p i 2 ( h o N t s ( l ( S a t s a t s p o m a l e ( c p ( R a s o s o n i l n o c ( b ( t ( P d n i m w p a w p s h ( e]
+[DELETED:  h ( c o o t e o i t o c t h n d c ( T c o r e a e o f e a e s p d ( ( a a s u ( R o i t s o p c a l e h ( ( b a ( f f ( r ( o ( f i a o p o l s p o b c a p t c o i]
+[DELETED:  o a ( C c a n i t p o s o l g a c ( A d m a t w i o o t p c o ( s ( p ( o 3 P ( 3 o r s h t r t i a c t r a s r t a m b d ( A r s p o a p r e b § 3 i o i s i p w b t d ( l]
+[DELETED:  4 s a ( m ( E p b s e w p r a t p r 4 2 r T p r i u t l i t b r i p ( n ( r d d i g ( ( ( t]
+[DELETED:  m c r s r t 2 ( f s ( a a a ( a m p s ( c t e ( m ( s p a ( s w u p]
+[DELETED:  ( t s a 3 ( i a i i ( ( ( ( ( ( ( ( ( ( p u 3 N a e c m n M s t 3 (]
+[DELETED:  p p c a b ( f c f F b ( a a ( f ( f i u p o m c 3 ( t r a d ( b m a]
+[DELETED:  m p ( n s 3 ( v ( w t ( a s ( t w t s h d ( p d f e d t r w i w a m f a c w p f a f t e m o r o e l t c m a a b t e ( o c]
+[DELETED:  3 S d 3 E r i a s r i S h 3 ( c r f w t i t d g o t c a c ( t r t s d ( c m t ( m t ( g t]
+[DELETED:  f ( I a c b u t s i d b t c o t c a t t a 3 N U f o p i d a s n d p p h t b 3 N p a A t a S E 3 ( p c p s p a b n f f m r o o e o ( ( ( ( (]
+[DELETED:  ( e ( o S]
+[DELETED:  T c l a m c t a d a p l p i p A a a b l a c i c p T]

@@ -1,0 +1,252 @@
+Title: RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+Official Title: RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+Number of Sections: 1
+Source: versions - 5401
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5401
+========
+LC000563
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+COMPUTATION
+Introduced By: Representatives Place, Fascia, Paplauskas, Santucci, Roberts, and
+Quattrocchi
+Date Introduced: February 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-18-7.3 of the General Laws in Chapter 44-18 entitled "Sales and
+2 Use Taxes — Liability and Computation" is hereby amended to read as follows:
+3 44-18-7.3. Services defined.
+4 (a) “Services” means all activities engaged in for other persons for a fee, retainer,
+5 commission, or other monetary charge, which activities involve the performance of a service in this
+6 state as distinguished from selling property.
+7 (b) The following businesses and services performed in this state, along with the applicable
+8 2017 North American Industrial Classification System (NAICS) codes, are included in the
+9 definition of services:
+10 (1) Taxicab and limousine services including but not limited to:
+11 (i) Taxicab services including taxi dispatchers (485310); and
+12 (ii) Limousine services (485320).
+13 (2) Other road transportation service including but not limited to:
+14 (i) Charter bus service (485510);
+15 (ii) “Transportation network companies” (TNC) defined as an entity that uses a digital
+16 network to connect transportation network company riders to transportation network operators who
+17 provide prearranged rides. Any TNC operating in this state is a retailer as provided in § 44-18-15
+18 and is required to file a business application and registration form and obtain a permit to make sales
+1 at retail with the tax administrator, to charge, collect, and remit Rhode Island sales and use tax; and
+2 (iii) All other transit and ground passenger transportation (485999).
+3 (3) Pet care services (812910) except veterinary and testing laboratories services.
+4 (4)(i) “Room reseller” or “reseller” means any person, except a tour operator as defined in
+5 § 42-63.1-2, having any right, permission, license, or other authority from or through a hotel as
+6 defined in § 42-63.1-2, to reserve, or arrange the transfer of occupancy of, accommodations the
+7 reservation or transfer of which is subject to this chapter, such that the occupant pays all or a portion
+8 of the rental and other fees to the room reseller or reseller. Room reseller or reseller shall include,
+9 but not be limited to, sellers of travel packages as defined in this section. Notwithstanding the
+10 provisions of any other law, where said reservation or transfer of occupancy is done using a room
+11 reseller or reseller, the application of the sales and use tax under §§ 44-18-18 and 44-18-20, and
+12 the hotel tax under § 44-18-36.1 shall be as follows: The room reseller or reseller is required to
+13 register with, and shall collect and pay to, the tax administrator the sales and use and hotel taxes,
+14 with said taxes being calculated upon the amount of rental and other fees paid by the occupant to
+15 the room reseller or reseller, less the amount of any rental and other fees paid by the room reseller
+16 or reseller to the hotel. The hotel shall collect and pay to the tax administrator said taxes upon the
+17 amount of rental and other fees paid to the hotel by the room reseller or reseller and/or the occupant.
+18 No assessment shall be made by the tax administrator against a hotel because of an incorrect
+19 remittance of the taxes under this chapter by a room reseller or reseller. No assessment shall be
+20 made by the tax administrator against a room reseller or reseller because of an incorrect remittance
+21 of the taxes under this chapter by a hotel. If the hotel has paid the taxes imposed under this chapter,
+22 the occupant and/or room reseller or reseller, as applicable, shall reimburse the hotel for said taxes.
+23 If the room reseller or reseller has paid said taxes, the occupant shall reimburse the room reseller
+24 or reseller for said taxes. Each hotel and room reseller or reseller shall add and collect, from the
+25 occupant or the room reseller or the reseller, the full amount of the taxes imposed on the rental and
+26 other fees. When added to the rental and other fees, the taxes shall be a debt owed by the occupant
+27 to the hotel or room reseller or reseller, as applicable, and shall be recoverable at law in the same
+28 manner as other debts. The amount of the taxes collected by the hotel and/or room reseller or
+29 reseller from the occupant under this chapter shall be stated and charged separately from the rental
+30 and other fees, and shall be shown separately on all records thereof, whether made at the time the
+31 transfer of occupancy occurs, or on any evidence of the transfer issued or used by the hotel or the
+32 room reseller or the reseller. A room reseller or reseller shall not be required to disclose to the
+33 occupant the amount of tax charged by the hotel; provided, however, the room reseller or reseller
+34 shall represent to the occupant that the separately stated taxes charged by the room reseller or
+LC000563 - Page 2 of 4
+1 reseller include taxes charged by the hotel. No person shall operate a hotel in this state, or act as a
+2 room reseller or reseller for any hotel in the state, unless the tax administrator has issued a permit
+3 pursuant to § 44-19-1.
+4 (ii) “Travel package” means a room, or rooms, bundled with one or more other, separate
+5 components of travel such as air transportation, car rental, or similar items, which travel package
+6 is charged to the customer or occupant for a single, retail price. When the room occupancy is
+7 bundled for a single consideration, with other property, services, amusement charges, or any other
+8 items, the separate sale of which would not otherwise be subject to tax under this chapter, the entire
+9 single consideration shall be treated as the rental or other fees for room occupancy subject to tax
+10 under this chapter; provided, however, that where the amount of the rental, or other fees for room
+11 occupancy is stated separately from the price of such other property, services, amusement charges,
+12 or other items, on any sales slip, invoice, receipt, or other statement given the occupant, and such
+13 rental and other fees are determined by the tax administrator to be reasonable in relation to the
+14 value of such other property, services, amusement charges, or other items, only such separately
+15 stated rental and other fees will be subject to tax under this chapter. The value of the transfer of any
+16 room, or rooms, bundled as part of a travel package may be determined by the tax administrator
+17 from the room reseller’s and/or reseller’s and/or hotel’s books and records that are kept in the
+18 regular course of business.
+19 (5) Investigation, Guard, and Armored Car Services (561611, 561612 & 561613).
+20 (c) All services as defined herein are required to file a business application and registration
+21 form and obtain a permit to make sales at retail with the tax administrator, to charge, collect, and
+22 remit Rhode Island sales and use tax.
+23 (d) The tax administrator is authorized to promulgate rules and regulations in accordance
+24 with the provisions of chapter 35 of title 42 to carry out the provisions, policies, and purposes of
+25 this chapter.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC000563
+========
+LC000563 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would repeal pet care services from the services subject to sales tax as defined by
+2 §§ 44-18-7(19) and 44-18-7.3(b)(3).
+3 This act would take effect upon passage.
+========
+LC000563
+========
+LC000563 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND B R P F P S R a S U 4 ( “ m a a e i f o p f a f r c s ( 2 N A I C S ( c a i i t d ( ( ( ( ( ( n p a]
+[DELETED:  a ( ( ( § d r o b p r t r w t o a N r m o t I o o o t m r a t r o s]
+[DELETED:  r r p ( c i b i s u o o r v s r f r ( ( f r ( w t S]
+[DELETED:  T § T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5401
+========
+LC000563
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+Introduced By: Representatives Place, Fascia, Paplauskas, Santucci, Roberts, and
+Quattrocchi
+Date Introduced: February 07, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-18-7.3 of the General Laws in Chapter 44-18 entitled "Sales and
+2 Use Taxes — Liability and Computation" is hereby amended to read as follows:
+3 44-18-7.3. Services defined.
+4 (a) “Services” means all activities engaged in for other persons for a fee, retainer,
+5 commission, or other monetary charge, which activities involve the performance of a service in this
+6 state as distinguished from selling property.
+7 (b) The following businesses and services performed in this state, along with the applicable
+8 2017 North American Industrial Classification System (NAICS) codes, are included in the
+9 definition of services:
+10 (1) Taxicab and limousine services including but not limited to:
+11 (i) Taxicab services including taxi dispatchers (485310); and
+12 (ii) Limousine services (485320).
+13 (2) Other road transportation service including but not limited to:
+14 (i) Charter bus service (485510);
+15 (ii) “Transportation network companies” (TNC) defined as an entity that uses a digital
+16 network to connect transportation network company riders to transportation network operators who
+17 provide prearranged rides. Any TNC operating in this state is a retailer as provided in § 44-18-15
+18 and is required to file a business application and registration form and obtain a permit to make sales
+
+1 at retail with the tax administrator, to charge, collect, and remit Rhode Island sales and use tax; and
+2 (iii) All other transit and ground passenger transportation (485999).
+3 (3) Pet care services (812910) except veterinary and testing laboratories services.
+4 (4)(i) “Room reseller” or “reseller” means any person, except a tour operator as defined in
+5 § 42-63.1-2, having any right, permission, license, or other authority from or through a hotel as
+6 defined in § 42-63.1-2, to reserve, or arrange the transfer of occupancy of, accommodations the
+7 reservation or transfer of which is subject to this chapter, such that the occupant pays all or a portion
+8 of the rental and other fees to the room reseller or reseller. Room reseller or reseller shall include,
+9 but not be limited to, sellers of travel packages as defined in this section. Notwithstanding the
+10 provisions of any other law, where said reservation or transfer of occupancy is done using a room
+11 reseller or reseller, the application of the sales and use tax under §§ 44-18-18 and 44-18-20, and
+12 the hotel tax under § 44-18-36.1 shall be as follows: The room reseller or reseller is required to
+13 register with, and shall collect and pay to, the tax administrator the sales and use and hotel taxes,
+14 with said taxes being calculated upon the amount of rental and other fees paid by the occupant to
+15 the room reseller or reseller, less the amount of any rental and other fees paid by the room reseller
+16 or reseller to the hotel. The hotel shall collect and pay to the tax administrator said taxes upon the
+17 amount of rental and other fees paid to the hotel by the room reseller or reseller and/or the occupant.
+18 No assessment shall be made by the tax administrator against a hotel because of an incorrect
+19 remittance of the taxes under this chapter by a room reseller or reseller. No assessment shall be
+20 made by the tax administrator against a room reseller or reseller because of an incorrect remittance
+21 of the taxes under this chapter by a hotel. If the hotel has paid the taxes imposed under this chapter,
+22 the occupant and/or room reseller or reseller, as applicable, shall reimburse the hotel for said taxes.
+23 If the room reseller or reseller has paid said taxes, the occupant shall reimburse the room reseller
+24 or reseller for said taxes. Each hotel and room reseller or reseller shall add and collect, from the
+25 occupant or the room reseller or the reseller, the full amount of the taxes imposed on the rental and
+26 other fees. When added to the rental and other fees, the taxes shall be a debt owed by the occupant
+27 to the hotel or room reseller or reseller, as applicable, and shall be recoverable at law in the same
+28 manner as other debts. The amount of the taxes collected by the hotel and/or room reseller or
+29 reseller from the occupant under this chapter shall be stated and charged separately from the rental
+30 and other fees, and shall be shown separately on all records thereof, whether made at the time the
+31 transfer of occupancy occurs, or on any evidence of the transfer issued or used by the hotel or the
+32 room reseller or the reseller. A room reseller or reseller shall not be required to disclose to the
+33 occupant the amount of tax charged by the hotel; provided, however, the room reseller or reseller
+34 shall represent to the occupant that the separately stated taxes charged by the room reseller or
+LC000563 - Page 2 of 4
+
+1 reseller include taxes charged by the hotel. No person shall operate a hotel in this state, or act as a
+2 room reseller or reseller for any hotel in the state, unless the tax administrator has issued a permit
+3 pursuant to § 44-19-1.
+4 (ii) “Travel package” means a room, or rooms, bundled with one or more other, separate
+5 components of travel such as air transportation, car rental, or similar items, which travel package
+6 is charged to the customer or occupant for a single, retail price. When the room occupancy is
+7 bundled for a single consideration, with other property, services, amusement charges, or any other
+8 items, the separate sale of which would not otherwise be subject to tax under this chapter, the entire
+9 single consideration shall be treated as the rental or other fees for room occupancy subject to tax
+10 under this chapter; provided, however, that where the amount of the rental, or other fees for room
+11 occupancy is stated separately from the price of such other property, services, amusement charges,
+12 or other items, on any sales slip, invoice, receipt, or other statement given the occupant, and such
+13 rental and other fees are determined by the tax administrator to be reasonable in relation to the
+14 value of such other property, services, amusement charges, or other items, only such separately
+15 stated rental and other fees will be subject to tax under this chapter. The value of the transfer of any
+16 room, or rooms, bundled as part of a travel package may be determined by the tax administrator
+17 from the room reseller’s and/or reseller’s and/or hotel’s books and records that are kept in the
+18 regular course of business.
+19 (5) Investigation, Guard, and Armored Car Services (561611, 561612 & 561613).
+20 (c) All services as defined herein are required to file a business application and registration
+21 form and obtain a permit to make sales at retail with the tax administrator, to charge, collect, and
+22 remit Rhode Island sales and use tax.
+23 (d) The tax administrator is authorized to promulgate rules and regulations in accordance
+24 with the provisions of chapter 35 of title 42 to carry out the provisions, policies, and purposes of
+25 this chapter.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC000563
+========
+LC000563 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would repeal pet care services from the services subject to sales tax as defined by
+2 §§ 44-18-7(19) and 44-18-7.3(b)(3).
+3 This act would take effect upon passage.
+========
+LC000563
+========
+LC000563 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND B R P F P S R a S U 4 ( “ m a a e i f o p f a f r c s ( 2 N A I C S ( c a i i t d ( ( ( ( ( ( n p a]
+[DELETED:  a ( ( ( § d r o b p r t r w t o a N r m o t I o o o t m r a t r o s]
+[DELETED:  r r p ( c i b i s u o o r v s r f r ( ( f r ( w t S]
+[DELETED:  T § T]

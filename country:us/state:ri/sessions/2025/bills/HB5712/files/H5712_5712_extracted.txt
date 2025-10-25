@@ -1,0 +1,491 @@
+Title: RELATING TO ELECTIONS -- RHODE ISLAND FUSION VOTING ACT
+Official Title: RELATING TO ELECTIONS -- RHODE ISLAND FUSION VOTING ACT
+Number of Sections: 1
+Source: versions - 5712
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5712
+========
+LC002019
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Edwards, Kislak, Ajello, Potter, Alzate, Morales,
+Kazarian, McGaw, Handy, and Shanley
+Date Introduced: February 26, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 17 of the General Laws entitled "ELECTIONS" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 30
+4 RHODE ISLAND FUSION VOTING ACT
+5 17-30-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Fusion Voting Act."
+7 17-30-2. Cross-endorsement permitted.
+8 (a) A candidate for public office may be nominated by more than one political party for the
+9 same office, in the same election; provided that:
+10 (1) The candidate meets all qualifications for the office sought;
+11 (2) The candidate accepts each nomination in writing, as provided in this chapter; and
+12 (3) The candidate complies with all other applicable provisions of this title.
+13 (b) No provision of law shall be construed to prohibit a candidate from appearing on the
+14 ballot, as the nominee of two (2) or more political parties for the same office.
+15 17-30-3. Nomination by political party.
+16 (a) A political party may nominate as its candidate for any office, a person who has also
+17 been nominated by another political party for the same office; provided that:
+18 (1) The nomination complies with the party's rules and procedures; and
+19 (2) The candidate files a written acceptance of such nomination, as provided in this chapter.
+1 (b) No political party shall be required to nominate the same candidate, as any other
+2 political party.
+3 17-30-4. Acceptance of multiple nominations.
+4 (a) A person who is nominated by more than one political party, for the same office shall,
+5 within ten (10) days after receiving written notice of each such nomination, file, in-person or
+6 electronically, with the appropriate authority, a certificate signed and acknowledged by the
+7 candidate, indicating acceptance or declination of each nomination.
+8 (b) If a candidate fails to file an acceptance of a nomination from a political party other
+9 than the party in which the candidate is enrolled, the nomination shall be null and void.
+10 (c) A person who has been nominated by one or more political parties may not seek
+11 nomination by the petition process as an independent candidate for the same office.
+12 17-30-5. Form and preparation of ballots.
+13 (a) The names of all candidates nominated by any party or independent body for an office
+14 shall appear in the row or column, containing generally the names of candidates nominated by such
+15 party or independent body for other offices.
+16 (b) When the same person has been nominated for an office by more than one party, the
+17 person's name shall appear in each row or column containing generally the names of candidates for
+18 other offices nominated by any such party.
+19 (c) When a candidate appears on the ballot, as the nominee of more than one political party,
+20 a voter may vote for that candidate on any one of the party lines on which the candidate's name
+21 appears. All votes cast for that candidate, regardless of which party line they appear on, shall be
+22 counted and combined as votes for that candidate.
+23 (d) The ballot shall be designed to allow voters who vote for a candidate nominated by
+24 multiple parties, to vote for that candidate, under the party line of their choice.
+25 (e) All ballots designed for fusion voting shall:
+26 (1) Comply with the Help America Vote Act (HAVA) accessibility requirements;
+27 (2) Include clear instructions for voters explaining fusion voting; and
+28 (3) Be designed to ensure voters cannot inadvertently vote for the same candidate multiple
+29 times.
+30 (f) The secretary of state, in consultation with the state board of elections, shall develop a
+31 uniform ballot design, that accommodates fusion voting while maintaining clarity and usability.
+32 17-30-6. Counting and canvassing of votes.
+33 (a) Votes cast for a candidate who has been nominated by more than one political party
+34 shall be counted separately by political party, as in the normal course of tallying election results.
+LC002019 - Page 2 of 7
+1 (b) After the separate tallying, the votes for such candidate shall be combined, and the
+2 combined total shall be the final vote count for that candidate.
+3 (b) Both the separate party-line vote totals and the combined total shall be recorded and
+4 reported in the official election results.
+5 (d) For purposes of determining whether a party qualifies as a "political party" as defined
+6 in § 17-1-2(9), votes cast on that party's line shall be counted toward that party's total, regardless
+7 of whether the candidate also appeared on other party lines.
+8 (e) In the event of a recount, votes shall be recounted by party line, before being combined.
+9 (f) Official certification of election results shall include both:
+10 (1) The total votes received by each candidate; and
+11 (2) A breakdown of votes received by each candidate on each party line.
+12 17-30-7. Severability.
+13 If any provision of this chapter or its application to any person or circumstance is held
+14 invalid, the remainder of the chapter or the application of the provision to other persons or
+15 circumstances shall not be affected.
+16 SECTION 2. Chapter 17-19 of the General Laws entitled "Conduct of Election and Voting
+17 Equipment, and Supplies" is hereby amended by adding thereto the following section:
+18 17-19-55. Fusion voting.
+19 The voting equipment shall be programmed to allow a candidate's name to appear on the
+20 ballot multiple times as the nominee of more than one political party, for the same office when
+21 permitted by law. The voting equipment shall be programmed to:
+22 (1) Display each candidate's name once for each party nominating that candidate;
+23 (2) Allow voters to select a candidate on any party line;
+24 (3) Prevent a voter from voting more than once for the same candidate; and
+25 (4) Tally votes for each candidate by party line and in total.
+26 SECTION 3. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+27 Provisions" is hereby amended to read as follows:
+28 17-1-2. Definitions.
+29 For the purposes this title, except as may otherwise be required by the context:
+30 (1) “Election” means the filling of any public office or the determination of any public
+31 question by vote of the electorate, and includes without limitation any state, town, or city office or
+32 question, and any political party primary election for the nomination of any candidate for public
+33 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+34 fire, water, or sewer district;
+LC002019 - Page 3 of 7
+1 (2) “General election” means an election held on the first Tuesday next after the first
+2 Monday in November in even numbered years for the election of members of the general assembly
+3 and/or for the election of general officers, and/or for the election of presidential electors for
+4 president/vice-president of the United States;
+5 (3) “General officer” means an officer designated as a general officer by chapter 2 of this
+6 title;
+7 (4) “Independent candidate” means a candidate who has no affiliation with any political
+8 party;
+9 (5) “Local board” means a town or city board of canvassers, board of canvassers and
+10 registration, canvassing authority, or any other local board, commission, or officer empowered by
+11 law to have custody of the permanent registration records;
+12 (6) “Local election” means any election limited to the electorate of any city or town, or any
+13 part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting at
+14 which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+15 town, but it shall not include a financial town meeting;
+16 (7) “Party member” means any person who is a member of a designated political party
+17 pursuant to § 17-9.1-23;
+18 (8) “Party voter” means any qualified voter who is eligible to vote at the primary election
+19 of a political party;
+20 (9) “Political party” or “party” means: (i) any political organization which, at the next
+21 preceding general election for the election of general officers, nominated a candidate for governor,
+22 and whose candidate for governor at the election polled at least five percent (5%) one percent (1%)
+23 of the entire vote cast in the state for governor, or (ii) any political organization which at the next
+24 preceding general election for the election of a president of the United States nominated a candidate
+25 for president and whose candidate for president at the election polled at least five percent (5%) one
+26 percent (1%) of the entire vote cast in the state for president, or (iii) any political organization
+27 which, on petition forms provided to the chairperson of the organization by the state board of
+28 elections, obtains the signatures and addresses of that number of registered qualified voters equal
+29 to five percent (5%) one percent (1%) of the entire vote cast in the state for governor or president
+30 in the immediately preceding general election. All the signatures must be obtained no earlier than
+31 January 1 of the year in which the political organization desires to place a candidate or candidates
+32 on any ballot as a “party” candidate. If the political organization wishes to select its nominees in a
+33 primary election, the petitions, bearing the requisite number of valid signatures, shall be presented
+34 to the appropriate local boards of canvassers no later than June 1 of the same year. If the petitions
+LC002019 - Page 4 of 7
+1 are validated by the local boards as containing the requisite number of valid signatures, the political
+2 organization shall be deemed to be a political party for all elections held during the year and may
+3 select its nominees in a primary election. If the political organization does not wish to select its
+4 nominees in a primary election, then the petitions need not be returned to local boards of canvassers
+5 until August 1 of the same year. An organization qualifying as a political party through the petition
+6 process shall qualify as a political party only during the year in which signatures are obtained unless
+7 the candidates for governor or president of the United States of the party at a general election held
+8 in the year, shall receive five percent (5%) one percent (1%) of the vote as provided in this
+9 subdivision for either governor or president of the United States. If the candidates do not receive
+10 five percent (5%) one percent (1%) of the vote, the organization shall no longer qualify as a political
+11 party unless and until it shall, in a subsequent year, once again qualify by the submission of
+12 petitions;
+13 (10) “Polling place” means the room in which any election or elective meeting is
+14 conducted;
+15 (11) “Primary election” means any election to select the candidates of a political party;
+16 (12) “Proposition” or “public question” means any question put to a referendum of the
+17 electorate of the entire state or any part of it;
+18 (13) “Qualified voter” means any person who is eligible to vote under the requirements of
+19 age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+20 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+21 as a voter pursuant to law;
+22 (14) “Special election” means any election other than a local election or primary election
+23 which is not held on a general election day;
+24 (15) “State board” means the state board of elections constituted pursuant to this title;
+25 (16) “State election” means any election at which any presidential electors, senator or
+26 representatives in congress, general officers of the state, or members of the general assembly are to
+27 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+28 electors of the state;
+29 (17) “State officer” means the governor, lieutenant governor, secretary of state, attorney
+30 general, general treasurer, state senator, and state representative;
+31 (18) “Vacancy in office” means the condition resulting from any failure to elect or appoint
+32 an eligible and qualified person to public office, or the failure of any person duly elected or
+33 appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+34 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+LC002019 - Page 5 of 7
+1 resignation, or removal;
+2 (19) “Voting list” means the complete list of all voters prepared from the information
+3 contained in the original permanent registration records in the possession of the local board of
+4 canvassers;
+5 (20) “Warden” includes “moderator” and vice versa;
+6 (21) Words importing the masculine gender shall include the feminine gender.
+7 SECTION 4. Section 17-14-1.1 of the General Laws in Chapter 17-14 entitled "Nomination
+8 of Party and Independent Candidates" is hereby amended to read as follows:
+9 17-14-1.1. Party affiliation.
+10 (a) Whenever any person seeks elective office, that person shall not have been a member
+11 of a political party other than the declared political party within ninety (90) days of the filing of
+12 their declaration of candidacy, except for a special election for federal office, or for an election for
+13 federal office regularly scheduled for a time other than the biennial general statewide election, that
+14 person shall not have been a member of a political party other than the declared political party
+15 within thirty (30) days of the filing of their declaration of candidacy.
+16 (b) Any person who is a member of a party may seek to be a candidate for nomination for
+17 the same office by more than one party; provided that, the person:
+18 (1) Is a registered voter in the appropriate district or municipality;
+19 (2) Is affiliated with at least one of the parties from which nomination is sought; and
+20 (3) Files a written acceptance of the additional party nomination(s), as provided in chapter
+21 30 of this title.
+22 SECTION 5. Chapter 17-7 of the General Laws entitled "State Board of Elections" is
+23 hereby amended by adding thereto the following section:
+24 17-7-10. Implementation timeline for fusion voting.
+25 In order to implement fusion voting pursuant to chapter 30 of title 17, the state board of
+26 elections shall:
+27 (1) In accordance with chapter 35 of title 42, develop and adopt rules and regulations
+28 implementing the provisions of chapter 30 of title 17, effective January 1, 2028;
+29 (2) Provide regular training to local boards of canvassers on fusion voting procedures; and
+30 (3) Conduct a public education campaign explaining fusion voting to voters beginning no
+31 later than November 1, 2027.
+32 SECTION 6. This act shall take effect on January 1, 2028.
+========
+LC002019
+========
+LC002019 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND FUSION VOTING ACT
+***
+1 This act would establish fusion voting in Rhode Island, allowing candidates to appear on
+2 ballots as nominees of multiple political parties, for the same office. The act would create
+3 comprehensive procedures for: (1) Cross-endorsement nominations and candidate acceptance; (2)
+4 Ballot design requirements with accessibility standards; (3) Vote tabulation that preserves separate
+5 party-line totals, while combining votes for final results; (4) Implementation requirements for
+6 voting equipment. The act also would reduce the threshold for political party qualification, from
+7 five percent (5%) to one percent (1%) of votes in statewide elections.
+8 This act would take effect on January 1, 2028.
+========
+LC002019
+========
+LC002019 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND B R E K A P A M S a C R 1 T 1 ( s ( ( ( ( b 1 ( b ( (]
+[DELETED:  ( p p 1 ( w e w t a a a c s a a b t c ( t ( n 1 ( s p ( p o ( a a c ( m ( ( ( ( t ( u 1 ( s]
+[DELETED:  ( c ( r ( i o ( ( ( ( 1 I i t r o t c o t a o t p t o p o c S E 1 T b p ( ( ( ( S 3 S 1 o t G L i C 1 e " P 1 F ( q q o f]
+[DELETED:  ( M a f t e o g o a f t e o p e f p ( t ( p ( r l ( p w t ( p ( o ( p a o p f p w e t i J o p t]
+[DELETED:  a o s n u p t i s f p p ( “ p m t r i w a e o e m i c ( ( e ( a v a ( w ( ( r b e ( g ( a a e]
+[DELETED:  r ( c c ( ( S o 1 ( o t f p w ( t ( ( ( 3 S h 1 I e ( i ( ( l S]
+[DELETED:  T b a n o m p p f t s o T a w c c B p v f T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5712
+========
+LC002019
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND FUSION VOTING ACT
+Introduced By: Representatives Edwards, Kislak, Ajello, Potter, Alzate, Morales,
+Kazarian, McGaw, Handy, and Shanley
+Date Introduced: February 26, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 17 of the General Laws entitled "ELECTIONS" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 30
+4 RHODE ISLAND FUSION VOTING ACT
+5 17-30-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Fusion Voting Act."
+7 17-30-2. Cross-endorsement permitted.
+8 (a) A candidate for public office may be nominated by more than one political party for the
+9 same office, in the same election; provided that:
+10 (1) The candidate meets all qualifications for the office sought;
+11 (2) The candidate accepts each nomination in writing, as provided in this chapter; and
+12 (3) The candidate complies with all other applicable provisions of this title.
+13 (b) No provision of law shall be construed to prohibit a candidate from appearing on the
+14 ballot, as the nominee of two (2) or more political parties for the same office.
+15 17-30-3. Nomination by political party.
+16 (a) A political party may nominate as its candidate for any office, a person who has also
+17 been nominated by another political party for the same office; provided that:
+18 (1) The nomination complies with the party's rules and procedures; and
+19 (2) The candidate files a written acceptance of such nomination, as provided in this chapter.
+
+1 (b) No political party shall be required to nominate the same candidate, as any other
+2 political party.
+3 17-30-4. Acceptance of multiple nominations.
+4 (a) A person who is nominated by more than one political party, for the same office shall,
+5 within ten (10) days after receiving written notice of each such nomination, file, in-person or
+6 electronically, with the appropriate authority, a certificate signed and acknowledged by the
+7 candidate, indicating acceptance or declination of each nomination.
+8 (b) If a candidate fails to file an acceptance of a nomination from a political party other
+9 than the party in which the candidate is enrolled, the nomination shall be null and void.
+10 (c) A person who has been nominated by one or more political parties may not seek
+11 nomination by the petition process as an independent candidate for the same office.
+12 17-30-5. Form and preparation of ballots.
+13 (a) The names of all candidates nominated by any party or independent body for an office
+14 shall appear in the row or column, containing generally the names of candidates nominated by such
+15 party or independent body for other offices.
+16 (b) When the same person has been nominated for an office by more than one party, the
+17 person's name shall appear in each row or column containing generally the names of candidates for
+18 other offices nominated by any such party.
+19 (c) When a candidate appears on the ballot, as the nominee of more than one political party,
+20 a voter may vote for that candidate on any one of the party lines on which the candidate's name
+21 appears. All votes cast for that candidate, regardless of which party line they appear on, shall be
+22 counted and combined as votes for that candidate.
+23 (d) The ballot shall be designed to allow voters who vote for a candidate nominated by
+24 multiple parties, to vote for that candidate, under the party line of their choice.
+25 (e) All ballots designed for fusion voting shall:
+26 (1) Comply with the Help America Vote Act (HAVA) accessibility requirements;
+27 (2) Include clear instructions for voters explaining fusion voting; and
+28 (3) Be designed to ensure voters cannot inadvertently vote for the same candidate multiple
+29 times.
+30 (f) The secretary of state, in consultation with the state board of elections, shall develop a
+31 uniform ballot design, that accommodates fusion voting while maintaining clarity and usability.
+32 17-30-6. Counting and canvassing of votes.
+33 (a) Votes cast for a candidate who has been nominated by more than one political party
+34 shall be counted separately by political party, as in the normal course of tallying election results.
+LC002019 - Page 2 of 7
+
+1 (b) After the separate tallying, the votes for such candidate shall be combined, and the
+2 combined total shall be the final vote count for that candidate.
+3 (b) Both the separate party-line vote totals and the combined total shall be recorded and
+4 reported in the official election results.
+5 (d) For purposes of determining whether a party qualifies as a "political party" as defined
+6 in § 17-1-2(9), votes cast on that party's line shall be counted toward that party's total, regardless
+7 of whether the candidate also appeared on other party lines.
+8 (e) In the event of a recount, votes shall be recounted by party line, before being combined.
+9 (f) Official certification of election results shall include both:
+10 (1) The total votes received by each candidate; and
+11 (2) A breakdown of votes received by each candidate on each party line.
+12 17-30-7. Severability.
+13 If any provision of this chapter or its application to any person or circumstance is held
+14 invalid, the remainder of the chapter or the application of the provision to other persons or
+15 circumstances shall not be affected.
+16 SECTION 2. Chapter 17-19 of the General Laws entitled "Conduct of Election and Voting
+17 Equipment, and Supplies" is hereby amended by adding thereto the following section:
+18 17-19-55. Fusion voting.
+19 The voting equipment shall be programmed to allow a candidate's name to appear on the
+20 ballot multiple times as the nominee of more than one political party, for the same office when
+21 permitted by law. The voting equipment shall be programmed to:
+22 (1) Display each candidate's name once for each party nominating that candidate;
+23 (2) Allow voters to select a candidate on any party line;
+24 (3) Prevent a voter from voting more than once for the same candidate; and
+25 (4) Tally votes for each candidate by party line and in total.
+26 SECTION 3. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+27 Provisions" is hereby amended to read as follows:
+28 17-1-2. Definitions.
+29 For the purposes this title, except as may otherwise be required by the context:
+30 (1) “Election” means the filling of any public office or the determination of any public
+31 question by vote of the electorate, and includes without limitation any state, town, or city office or
+32 question, and any political party primary election for the nomination of any candidate for public
+33 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+34 fire, water, or sewer district;
+LC002019 - Page 3 of 7
+
+1 (2) “General election” means an election held on the first Tuesday next after the first
+2 Monday in November in even numbered years for the election of members of the general assembly
+3 and/or for the election of general officers, and/or for the election of presidential electors for
+4 president/vice-president of the United States;
+5 (3) “General officer” means an officer designated as a general officer by chapter 2 of this
+6 title;
+7 (4) “Independent candidate” means a candidate who has no affiliation with any political
+8 party;
+9 (5) “Local board” means a town or city board of canvassers, board of canvassers and
+10 registration, canvassing authority, or any other local board, commission, or officer empowered by
+11 law to have custody of the permanent registration records;
+12 (6) “Local election” means any election limited to the electorate of any city or town, or any
+13 part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting at
+14 which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+15 town, but it shall not include a financial town meeting;
+16 (7) “Party member” means any person who is a member of a designated political party
+17 pursuant to § 17-9.1-23;
+18 (8) “Party voter” means any qualified voter who is eligible to vote at the primary election
+19 of a political party;
+20 (9) “Political party” or “party” means: (i) any political organization which, at the next
+21 preceding general election for the election of general officers, nominated a candidate for governor,
+22 and whose candidate for governor at the election polled at least five percent (5%) one percent (1%)
+23 of the entire vote cast in the state for governor, or (ii) any political organization which at the next
+24 preceding general election for the election of a president of the United States nominated a candidate
+25 for president and whose candidate for president at the election polled at least five percent (5%) one
+26 percent (1%) of the entire vote cast in the state for president, or (iii) any political organization
+27 which, on petition forms provided to the chairperson of the organization by the state board of
+28 elections, obtains the signatures and addresses of that number of registered qualified voters equal
+29 to five percent (5%) one percent (1%) of the entire vote cast in the state for governor or president
+30 in the immediately preceding general election. All the signatures must be obtained no earlier than
+31 January 1 of the year in which the political organization desires to place a candidate or candidates
+32 on any ballot as a “party” candidate. If the political organization wishes to select its nominees in a
+33 primary election, the petitions, bearing the requisite number of valid signatures, shall be presented
+34 to the appropriate local boards of canvassers no later than June 1 of the same year. If the petitions
+LC002019 - Page 4 of 7
+
+1 are validated by the local boards as containing the requisite number of valid signatures, the political
+2 organization shall be deemed to be a political party for all elections held during the year and may
+3 select its nominees in a primary election. If the political organization does not wish to select its
+4 nominees in a primary election, then the petitions need not be returned to local boards of canvassers
+5 until August 1 of the same year. An organization qualifying as a political party through the petition
+6 process shall qualify as a political party only during the year in which signatures are obtained unless
+7 the candidates for governor or president of the United States of the party at a general election held
+8 in the year, shall receive five percent (5%) one percent (1%) of the vote as provided in this
+9 subdivision for either governor or president of the United States. If the candidates do not receive
+10 five percent (5%) one percent (1%) of the vote, the organization shall no longer qualify as a political
+11 party unless and until it shall, in a subsequent year, once again qualify by the submission of
+12 petitions;
+13 (10) “Polling place” means the room in which any election or elective meeting is
+14 conducted;
+15 (11) “Primary election” means any election to select the candidates of a political party;
+16 (12) “Proposition” or “public question” means any question put to a referendum of the
+17 electorate of the entire state or any part of it;
+18 (13) “Qualified voter” means any person who is eligible to vote under the requirements of
+19 age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+20 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+21 as a voter pursuant to law;
+22 (14) “Special election” means any election other than a local election or primary election
+23 which is not held on a general election day;
+24 (15) “State board” means the state board of elections constituted pursuant to this title;
+25 (16) “State election” means any election at which any presidential electors, senator or
+26 representatives in congress, general officers of the state, or members of the general assembly are to
+27 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+28 electors of the state;
+29 (17) “State officer” means the governor, lieutenant governor, secretary of state, attorney
+30 general, general treasurer, state senator, and state representative;
+31 (18) “Vacancy in office” means the condition resulting from any failure to elect or appoint
+32 an eligible and qualified person to public office, or the failure of any person duly elected or
+33 appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+34 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+LC002019 - Page 5 of 7
+
+1 resignation, or removal;
+2 (19) “Voting list” means the complete list of all voters prepared from the information
+3 contained in the original permanent registration records in the possession of the local board of
+4 canvassers;
+5 (20) “Warden” includes “moderator” and vice versa;
+6 (21) Words importing the masculine gender shall include the feminine gender.
+7 SECTION 4. Section 17-14-1.1 of the General Laws in Chapter 17-14 entitled "Nomination
+8 of Party and Independent Candidates" is hereby amended to read as follows:
+9 17-14-1.1. Party affiliation.
+10 (a) Whenever any person seeks elective office, that person shall not have been a member
+11 of a political party other than the declared political party within ninety (90) days of the filing of
+12 their declaration of candidacy, except for a special election for federal office, or for an election for
+13 federal office regularly scheduled for a time other than the biennial general statewide election, that
+14 person shall not have been a member of a political party other than the declared political party
+15 within thirty (30) days of the filing of their declaration of candidacy.
+16 (b) Any person who is a member of a party may seek to be a candidate for nomination for
+17 the same office by more than one party; provided that, the person:
+18 (1) Is a registered voter in the appropriate district or municipality;
+19 (2) Is affiliated with at least one of the parties from which nomination is sought; and
+20 (3) Files a written acceptance of the additional party nomination(s), as provided in chapter
+21 30 of this title.
+22 SECTION 5. Chapter 17-7 of the General Laws entitled "State Board of Elections" is
+23 hereby amended by adding thereto the following section:
+24 17-7-10. Implementation timeline for fusion voting.
+25 In order to implement fusion voting pursuant to chapter 30 of title 17, the state board of
+26 elections shall:
+27 (1) In accordance with chapter 35 of title 42, develop and adopt rules and regulations
+28 implementing the provisions of chapter 30 of title 17, effective January 1, 2028;
+29 (2) Provide regular training to local boards of canvassers on fusion voting procedures; and
+30 (3) Conduct a public education campaign explaining fusion voting to voters beginning no
+31 later than November 1, 2027.
+32 SECTION 6. This act shall take effect on January 1, 2028.
+========
+LC002019
+========
+LC002019 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND FUSION VOTING ACT
+***
+1 This act would establish fusion voting in Rhode Island, allowing candidates to appear on
+2 ballots as nominees of multiple political parties, for the same office. The act would create
+3 comprehensive procedures for: (1) Cross-endorsement nominations and candidate acceptance; (2)
+4 Ballot design requirements with accessibility standards; (3) Vote tabulation that preserves separate
+5 party-line totals, while combining votes for final results; (4) Implementation requirements for
+6 voting equipment. The act also would reduce the threshold for political party qualification, from
+7 five percent (5%) to one percent (1%) of votes in statewide elections.
+8 This act would take effect on January 1, 2028.
+========
+LC002019
+========
+LC002019 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND B R E K A P A M S a C R 1 T 1 ( s ( ( ( ( b 1 ( b ( (]
+[DELETED:  ( p p 1 ( w e w t a a a c s a a b t c ( t ( n 1 ( s p ( p o ( a a c ( m ( ( ( ( t ( u 1 ( s]
+[DELETED:  ( c ( r ( i o ( ( ( ( 1 I i t r o t c o t a o t p t o p o c S E 1 T b p ( ( ( ( S 3 S 1 o t G L i C 1 e " P 1 F ( q q o f]
+[DELETED:  ( M a f t e o g o a f t e o p e f p ( t ( p ( r l ( p w t ( p ( o ( p a o p f p w e t i J o p t]
+[DELETED:  a o s n u p t i s f p p ( “ p m t r i w a e o e m i c ( ( e ( a v a ( w ( ( r b e ( g ( a a e]
+[DELETED:  r ( c c ( ( S o 1 ( o t f p w ( t ( ( ( 3 S h 1 I e ( i ( ( l S]
+[DELETED:  T b a n o m p p f t s o T a w c c B p v f T]

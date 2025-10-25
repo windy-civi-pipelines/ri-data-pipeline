@@ -1,0 +1,441 @@
+Title: RELATING TO PROPERTY -- COMMUNITY OPPORTUNITY TO PURCHASE ACT
+Official Title: RELATING TO PROPERTY -- COMMUNITY OPPORTUNITY TO PURCHASE ACT
+Number of Sections: 1
+Source: versions - 202
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0202
+========
+LC000182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Kallman, DiMario, Lauria, Mack, Quezada, Vargas, Gallo, and
+Acosta
+Date Introduced: February 07, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly hereby finds that:
+2 (1) The state faces a severe and continuing housing crisis. Many state residents are unable
+3 to obtain or retain affordable housing.
+4 (2) This crisis has profoundly negative effects on the state. It causes dislocation, which
+5 frays the social ties that bind our neighborhoods and communities together. It forces vulnerable
+6 residents to leave their home, the state, for new communities where they are strangers. And it
+7 contributes to homelessness, which is itself a severe and continuing crisis in the state.
+8 (3) The state's housing crisis is caused, in large part, by a shortage of affordable rental
+9 housing. The creation and preservation of such housing is therefore of paramount public concern.
+10 (4) One obstacle to the creation and preservation of affordable rental housing is rapid
+11 turnover in the state's real estate market. Nonprofit organizations seeking to create and preserve
+12 affordable housing may be willing and able to pay market prices to purchase residential buildings
+13 for sale, but nevertheless find themselves unable to purchase such buildings before they leave the
+14 market. Nonprofit organizations serving the broader public interest must often move more
+15 deliberately and borrow purchase money from non-traditional lenders in such real estate
+16 transactions than private entities concerned solely with profit.
+17 (5) The purpose of this chapter (which may be referred to as the "community opportunity
+18 to purchase act") is to enhance nonprofit organizations' ability to purchase multi-family residential
+19 buildings, at market prices, within a reasonable period of time and to thereby promote the creation
+1 and preservation of affordable rental housing.
+2 SECTION 2. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+3 adding thereto the following chapter:
+4 CHAPTER 18.3
+5 COMMUNITY OPPORTUNITY TO PURCHASE ACT
+6 34-18.3-1. Definitions.
+7 As used in this chapter:
+8 (1) "Area median income" means the unadjusted area median income published by the U.S.
+9 Department of Housing and Urban Development for the geographic area that includes the state.
+10 (2) "Fee interest" means ownership of real property in fee simple absolute.
+11 (3) "Multi-family residential building" or "building" means any privately-owned real
+12 property in the state improved with five (5) or more residential rental units (whether or not the
+13 property also includes non-residential uses).
+14 (4) "Notice of special restrictions" means an agreement executed by a qualified nonprofit
+15 and recorded against a multi-family residential building purchased by such qualified nonprofit
+16 substantially in the form published by Rhode Island housing.
+17 (5) "Purchase of a multi-family residential building," or "purchase," means to acquire any
+18 interest that is transferred pursuant to the sale of a multi-family residential building.
+19 (6) "Purchaser" means the individual, individuals, entity, or entities engaged or seeking to
+20 engage, in the purchase of a multi-family residential building.
+21 (7) "Qualified nonprofit housing development corporation" means a nonprofit corporation,
+22 which has been approved under 26 U.S.C. § 501(c)(3) as a § 501(c)(3) corporation with the Internal
+23 Revenue Service, and which is organized and operated with one of its principal purposes being to
+24 provide housing for low- and moderate-income persons or a public housing authority.
+25 (8) "Rhode Island housing" means the Rhode Island housing and mortgage finance
+26 corporation ("RIHMFC") created pursuant to chapter 55 of title 42.
+27 (9) "Sale of a multi-family residential building," or "sale," means any of the following:
+28 (i) The transfer, in exchange for money or any other thing of economic value, of a present
+29 interest in the multi-family residential building, including beneficial use, where the value of the
+30 present interest is the fee interest in the multi-family residential building, or substantially equal to
+31 the value of that fee interest;
+32 (ii) If an interest in the multi-family residential building is held by a trust, the transfer, in
+33 exchange for money or any other thing of economic value, of a beneficial interest in the trust, where
+34 the value of the beneficial interest in the trust is substantially equal to the value of the fee interest
+LC000182 - Page 2 of 7
+1 of the multi-family residential building; or
+2 (iii) If an interest substantially equal to the value of the fee interest of the multi-family
+3 residential building is held by any kind of corporate entity or partnership (including, but not limited
+4 to, a corporation, limited liability company, general partnership, limited partnership, or limited
+5 liability partnership), and if that interest is substantially equal in value to the total value of assets
+6 held by the corporate entity or partnership, the transfer in exchange for money or any other thing
+7 of economic value, of a controlling interest in the corporate entity or partnership. For purposes of
+8 this section, in any instance in which multiple entities (whether those entities are natural persons,
+9 trusts, corporate entities, partnerships, or any other kind of entity, or any combination of different
+10 kinds of entities) hold interests in a multi-family residential building, the transfer of multiple
+11 interests by or in those entities shall be considered the transfer of a single interest, if the transfers
+12 are made in connection with substantially the same transaction or set of transactions.
+13 (iv) "Sale of a multi-family residential building," or "sale," does not include any of the
+14 following:
+15 (A) Any transfer made under a mortgage, deed of trust, or deed in lieu of foreclosure;
+16 (B) Any transfer made in connection with any bankruptcy proceeding (including, but not
+17 limited to, any transfer made by a bankruptcy trustee);
+18 (C) Any transfer of an interest in real property held by the federal government, by the state
+19 government, or by any special district created by state law (including, but not limited to, any
+20 transfer of any such interest held because of a taxpayer's nonpayment of tax);
+21 (D) Any transfer by devise or intestacy, or any other transfer made in connection with a
+22 bona fide effort to pass an interest in real property to one's devisees or heirs (including, but not
+23 limited to, such transfers made in connection with a living trust);
+24 (E) Any transfer between or among spouses, domestic partners, siblings (including, but not
+25 limited to, half-siblings, step-siblings, and adoptive siblings), parents (including, but not limited to,
+26 step-parents and adoptive parents) or guardians and their children, grandparents and their
+27 grandchildren, aunts or uncles and their nieces or nephews, great-aunts or great-uncles and their
+28 grand-nieces or grand-nephews, or first or second cousins, or any combination thereof; or
+29 (F) Any transfer of an interest in a multi-family residential building which is already
+30 income restricted and shall remain income restricted upon transfer.
+31 (10) "Sell," "sale," or "sold" means a transaction for the transfer of real estate from a seller
+32 to a buyer, including, but not limited to, exchanges of real estate between the seller and buyer and
+33 transactions involving the creation of a sales agreement.
+34 (11) "Seller" means the individual, individuals, entity, or entities engaged, or seeking to
+LC000182 - Page 3 of 7
+1 engage, in the sale of a multi-family residential building.
+2 34-18.3-2. Qualified nonprofits.
+3 (a) Annual selection of qualified nonprofits. Rhode Island housing shall establish a process
+4 which allows interested qualified nonprofits to submit for consideration, on an annual basis, their
+5 credentials for participation in this program. Nonprofit organizations shall meet the following
+6 criteria:
+7 (1) The organization is a bona fide nonprofit as evidenced by the fact that it is exempt from
+8 federal income tax under 26 USC § 501(c)(3);
+9 (2) The organization has demonstrated a commitment to the provision of affordable
+10 housing for low- and moderate-income residents, and to preventing the displacement of such
+11 residents;
+12 (3) The organization has demonstrated a commitment to community engagement as
+13 evidenced by relationships with neighborhood-based organizations or tenant counseling
+14 organizations;
+15 (4) The organization has demonstrated the capacity (including, but not limited to, the legal
+16 and financial capacity) to effectively acquire and manage residential real property at multiple
+17 locations in the state; and
+18 (5) A public housing authority having jurisdiction in a municipality in the State of Rhode
+19 Island.
+20 (b) Nonprofit organizations that Rhode Island housing certifies as having met these criteria
+21 shall be known as "qualified nonprofits." An organization's certification as a qualified nonprofit
+22 shall be valid for three (3) years. Rhode Island housing shall solicit new applications for qualified
+23 nonprofit status at least once each calendar year, at which time existing qualified nonprofits shall
+24 be eligible to apply for renewed certification as qualified nonprofits. In the absence of new
+25 information raising doubts about whether the organization qualifies as a qualified nonprofit, an
+26 existing qualified nonprofit's application for renewed certification as a qualified nonprofit shall be
+27 routinely and swiftly granted.
+28 34-18.3-3. Existence and publication of qualified nonprofits list.
+29 Rhode Island housing shall publish on its website, and make available upon request, a list
+30 of qualified nonprofits. In addition to such other information as Rhode Island housing may include,
+31 this list shall include contact information for each qualified nonprofit. This contact information
+32 shall include, but need not be limited to, a mailing address, an email address that the qualified
+33 nonprofit monitors regularly, and a telephone number.
+34 34-18.3-4. Priority for Rhode Island nonprofits.
+LC000182 - Page 4 of 7
+1 Qualified Rhode Island nonprofits shall be given priority over qualified out-of-state non-
+2 profits.
+3 34-18.3-5. General provisions - First right to purchase conferred.
+4 (a) This chapter shall be construed to confer upon each qualified nonprofit a first right to
+5 purchase any multi-family residential building which was constructed more than twenty (20) years
+6 prior for sale in the state. This first right to purchase shall consist only of a right of first offer.
+7 (1) Qualified nonprofits shall have the right of first offer for a period of not more than sixty
+8 (60) days; or
+9 (2) If the qualified nonprofit elects to extend the right of first offer to a ninety (90) day
+10 period, it shall make a payment equal to one-half of one percent (0.5%) of the asking price of the
+11 multi-family residential building, which shall be fully creditable should the nonprofit proceed with
+12 purchase, and non-refundable if they do not.
+13 (b) Any person or entity holding property subject to this chapter shall be limited to an
+14 asking price no more than twenty percent (20%) above fair market value as determined by a
+15 licensed appraiser or realtor.
+16 (c) Upon receiving an offer from a qualified nonprofit, the seller shall have no more than
+17 ten (10) days to respond to the offer.
+18 (d) Confidential information protected. Any information obtained from a seller by a
+19 qualified nonprofit under this chapter including, but not limited to, disclosures made and terms and
+20 conditions of an offer of sale made shall be kept confidential to the maximum extent permitted by
+21 law, except that a qualified nonprofits may, if otherwise permitted by law, share such information
+22 with other qualified nonprofits to facilitate qualified nonprofit exercise of the rights conferred by
+23 this chapter. Nothing in this chapter permits or requires the disclosure of information where such
+24 disclosure is otherwise prohibited by law.
+25 34-18.3-6. State owned buildings.
+26 When any state-owned property, either land or buildings, is to be sold, the department of
+27 housing shall be given the right of first offer lasting sixty (60) days to enter into an agreement to
+28 purchase it at the appraised value. The municipality where the property is located shall be given
+29 the right of second offer (lasting another sixty (60) days) to purchase, before the property goes on
+30 the open market.
+31 34-18.3-7. Preexisting rights unaffected.
+32 This chapter shall not be construed to impair any contract, or affect any property interest
+33 held by anyone other than the seller of a multi-family residential building (including, but not limited
+34 to, any interest held under a mortgage, deed of trust, or other security interest; any option to
+LC000182 - Page 5 of 7
+1 purchase: or any right of first offer or right of first refusal), in existence before the effective date of
+2 this chapter.
+3 34-18.3-8. Enforcement - Seller declaration and certification.
+4 (a) Every seller of a multi-family residential building in any city or town shall, within
+5 fifteen (15) days of the sale of that building, submit to Rhode Island housing a signed declaration,
+6 under penalty of perjury, affirming that the sale of that building substantially complied with the
+7 requirements of this chapter. Each such declaration shall include the address of the relevant building
+8 and Rhode Island housing shall publish all such addresses on its website at least once per week.
+9 (b) Failure to file the declaration required by this section shall be an infraction punishable
+10 by a fine not to exceed five thousand dollars ($5,000).
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC000182
+========
+LC000182 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- COMMUNITY OPPORTUNITY TO PURCHASE ACT
+***
+1 This act would grant a right of first offer to qualified nonprofits for the purchase of certain
+2 multi-family residential properties at market prices, within a reasonable period of time to promote
+3 the creation and preservation of affordable rental housing.
+4 This act would take effect upon passage.
+========
+LC000182
+========
+LC000182 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND S ( t ( f r c ( h ( t a f m N o s t b p i m o m m d a b p m f n l i s r e t ( t b]
+[DELETED:  a S a C C 3 A ( D ( ( " r b o " m a p r p p ( a s ( i ( e ( w R p ( " I h m t R I h a m f c ( ( i p t ( e t]
+[DELETED:  o ( r t l h o t t k i a ( f ( ( l ( g t ( b l ( l s a a p o g a t c g a t g g ( i ( t t (]
+[DELETED:  e 3 ( w c c ( f ( T o h d a c t t p o a h f a m r t t d o s r ( T o h d a c t c e a e b r w n o o t c o ( a l ( I ( s s n b e t a f r c a q n I t a o n i e r 3 R o t s n 3]
+[DELETED:  Q p 3 ( p p ( ( ( p m p ( a l ( t ( C i p A i o f a s b a q c l w t d 3 W h p t t 3 T h t]
+[DELETED:  p t 3 ( f u r a ( b S]
+[DELETED:  T m t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0202
+========
+LC000182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- COMMUNITY OPPORTUNITY TO PURCHASE ACT
+Introduced By: Senators Kallman, DiMario, Lauria, Mack, Quezada, Vargas, Gallo, and
+Acosta
+Date Introduced: February 07, 2025
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly hereby finds that:
+2 (1) The state faces a severe and continuing housing crisis. Many state residents are unable
+3 to obtain or retain affordable housing.
+4 (2) This crisis has profoundly negative effects on the state. It causes dislocation, which
+5 frays the social ties that bind our neighborhoods and communities together. It forces vulnerable
+6 residents to leave their home, the state, for new communities where they are strangers. And it
+7 contributes to homelessness, which is itself a severe and continuing crisis in the state.
+8 (3) The state's housing crisis is caused, in large part, by a shortage of affordable rental
+9 housing. The creation and preservation of such housing is therefore of paramount public concern.
+10 (4) One obstacle to the creation and preservation of affordable rental housing is rapid
+11 turnover in the state's real estate market. Nonprofit organizations seeking to create and preserve
+12 affordable housing may be willing and able to pay market prices to purchase residential buildings
+13 for sale, but nevertheless find themselves unable to purchase such buildings before they leave the
+14 market. Nonprofit organizations serving the broader public interest must often move more
+15 deliberately and borrow purchase money from non-traditional lenders in such real estate
+16 transactions than private entities concerned solely with profit.
+17 (5) The purpose of this chapter (which may be referred to as the "community opportunity
+18 to purchase act") is to enhance nonprofit organizations' ability to purchase multi-family residential
+19 buildings, at market prices, within a reasonable period of time and to thereby promote the creation
+
+1 and preservation of affordable rental housing.
+2 SECTION 2. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+3 adding thereto the following chapter:
+4 CHAPTER 18.3
+5 COMMUNITY OPPORTUNITY TO PURCHASE ACT
+6 34-18.3-1. Definitions.
+7 As used in this chapter:
+8 (1) "Area median income" means the unadjusted area median income published by the U.S.
+9 Department of Housing and Urban Development for the geographic area that includes the state.
+10 (2) "Fee interest" means ownership of real property in fee simple absolute.
+11 (3) "Multi-family residential building" or "building" means any privately-owned real
+12 property in the state improved with five (5) or more residential rental units (whether or not the
+13 property also includes non-residential uses).
+14 (4) "Notice of special restrictions" means an agreement executed by a qualified nonprofit
+15 and recorded against a multi-family residential building purchased by such qualified nonprofit
+16 substantially in the form published by Rhode Island housing.
+17 (5) "Purchase of a multi-family residential building," or "purchase," means to acquire any
+18 interest that is transferred pursuant to the sale of a multi-family residential building.
+19 (6) "Purchaser" means the individual, individuals, entity, or entities engaged or seeking to
+20 engage, in the purchase of a multi-family residential building.
+21 (7) "Qualified nonprofit housing development corporation" means a nonprofit corporation,
+22 which has been approved under 26 U.S.C. § 501(c)(3) as a § 501(c)(3) corporation with the Internal
+23 Revenue Service, and which is organized and operated with one of its principal purposes being to
+24 provide housing for low- and moderate-income persons or a public housing authority.
+25 (8) "Rhode Island housing" means the Rhode Island housing and mortgage finance
+26 corporation ("RIHMFC") created pursuant to chapter 55 of title 42.
+27 (9) "Sale of a multi-family residential building," or "sale," means any of the following:
+28 (i) The transfer, in exchange for money or any other thing of economic value, of a present
+29 interest in the multi-family residential building, including beneficial use, where the value of the
+30 present interest is the fee interest in the multi-family residential building, or substantially equal to
+31 the value of that fee interest;
+32 (ii) If an interest in the multi-family residential building is held by a trust, the transfer, in
+33 exchange for money or any other thing of economic value, of a beneficial interest in the trust, where
+34 the value of the beneficial interest in the trust is substantially equal to the value of the fee interest
+LC000182 - Page 2 of 7
+
+1 of the multi-family residential building; or
+2 (iii) If an interest substantially equal to the value of the fee interest of the multi-family
+3 residential building is held by any kind of corporate entity or partnership (including, but not limited
+4 to, a corporation, limited liability company, general partnership, limited partnership, or limited
+5 liability partnership), and if that interest is substantially equal in value to the total value of assets
+6 held by the corporate entity or partnership, the transfer in exchange for money or any other thing
+7 of economic value, of a controlling interest in the corporate entity or partnership. For purposes of
+8 this section, in any instance in which multiple entities (whether those entities are natural persons,
+9 trusts, corporate entities, partnerships, or any other kind of entity, or any combination of different
+10 kinds of entities) hold interests in a multi-family residential building, the transfer of multiple
+11 interests by or in those entities shall be considered the transfer of a single interest, if the transfers
+12 are made in connection with substantially the same transaction or set of transactions.
+13 (iv) "Sale of a multi-family residential building," or "sale," does not include any of the
+14 following:
+15 (A) Any transfer made under a mortgage, deed of trust, or deed in lieu of foreclosure;
+16 (B) Any transfer made in connection with any bankruptcy proceeding (including, but not
+17 limited to, any transfer made by a bankruptcy trustee);
+18 (C) Any transfer of an interest in real property held by the federal government, by the state
+19 government, or by any special district created by state law (including, but not limited to, any
+20 transfer of any such interest held because of a taxpayer's nonpayment of tax);
+21 (D) Any transfer by devise or intestacy, or any other transfer made in connection with a
+22 bona fide effort to pass an interest in real property to one's devisees or heirs (including, but not
+23 limited to, such transfers made in connection with a living trust);
+24 (E) Any transfer between or among spouses, domestic partners, siblings (including, but not
+25 limited to, half-siblings, step-siblings, and adoptive siblings), parents (including, but not limited to,
+26 step-parents and adoptive parents) or guardians and their children, grandparents and their
+27 grandchildren, aunts or uncles and their nieces or nephews, great-aunts or great-uncles and their
+28 grand-nieces or grand-nephews, or first or second cousins, or any combination thereof; or
+29 (F) Any transfer of an interest in a multi-family residential building which is already
+30 income restricted and shall remain income restricted upon transfer.
+31 (10) "Sell," "sale," or "sold" means a transaction for the transfer of real estate from a seller
+32 to a buyer, including, but not limited to, exchanges of real estate between the seller and buyer and
+33 transactions involving the creation of a sales agreement.
+34 (11) "Seller" means the individual, individuals, entity, or entities engaged, or seeking to
+LC000182 - Page 3 of 7
+
+1 engage, in the sale of a multi-family residential building.
+2 34-18.3-2. Qualified nonprofits.
+3 (a) Annual selection of qualified nonprofits. Rhode Island housing shall establish a process
+4 which allows interested qualified nonprofits to submit for consideration, on an annual basis, their
+5 credentials for participation in this program. Nonprofit organizations shall meet the following
+6 criteria:
+7 (1) The organization is a bona fide nonprofit as evidenced by the fact that it is exempt from
+8 federal income tax under 26 USC § 501(c)(3);
+9 (2) The organization has demonstrated a commitment to the provision of affordable
+10 housing for low- and moderate-income residents, and to preventing the displacement of such
+11 residents;
+12 (3) The organization has demonstrated a commitment to community engagement as
+13 evidenced by relationships with neighborhood-based organizations or tenant counseling
+14 organizations;
+15 (4) The organization has demonstrated the capacity (including, but not limited to, the legal
+16 and financial capacity) to effectively acquire and manage residential real property at multiple
+17 locations in the state; and
+18 (5) A public housing authority having jurisdiction in a municipality in the State of Rhode
+19 Island.
+20 (b) Nonprofit organizations that Rhode Island housing certifies as having met these criteria
+21 shall be known as "qualified nonprofits." An organization's certification as a qualified nonprofit
+22 shall be valid for three (3) years. Rhode Island housing shall solicit new applications for qualified
+23 nonprofit status at least once each calendar year, at which time existing qualified nonprofits shall
+24 be eligible to apply for renewed certification as qualified nonprofits. In the absence of new
+25 information raising doubts about whether the organization qualifies as a qualified nonprofit, an
+26 existing qualified nonprofit's application for renewed certification as a qualified nonprofit shall be
+27 routinely and swiftly granted.
+28 34-18.3-3. Existence and publication of qualified nonprofits list.
+29 Rhode Island housing shall publish on its website, and make available upon request, a list
+30 of qualified nonprofits. In addition to such other information as Rhode Island housing may include,
+31 this list shall include contact information for each qualified nonprofit. This contact information
+32 shall include, but need not be limited to, a mailing address, an email address that the qualified
+33 nonprofit monitors regularly, and a telephone number.
+34 34-18.3-4. Priority for Rhode Island nonprofits.
+LC000182 - Page 4 of 7
+
+1 Qualified Rhode Island nonprofits shall be given priority over qualified out-of-state non-
+2 profits.
+3 34-18.3-5. General provisions - First right to purchase conferred.
+4 (a) This chapter shall be construed to confer upon each qualified nonprofit a first right to
+5 purchase any multi-family residential building which was constructed more than twenty (20) years
+6 prior for sale in the state. This first right to purchase shall consist only of a right of first offer.
+7 (1) Qualified nonprofits shall have the right of first offer for a period of not more than sixty
+8 (60) days; or
+9 (2) If the qualified nonprofit elects to extend the right of first offer to a ninety (90) day
+10 period, it shall make a payment equal to one-half of one percent (0.5%) of the asking price of the
+11 multi-family residential building, which shall be fully creditable should the nonprofit proceed with
+12 purchase, and non-refundable if they do not.
+13 (b) Any person or entity holding property subject to this chapter shall be limited to an
+14 asking price no more than twenty percent (20%) above fair market value as determined by a
+15 licensed appraiser or realtor.
+16 (c) Upon receiving an offer from a qualified nonprofit, the seller shall have no more than
+17 ten (10) days to respond to the offer.
+18 (d) Confidential information protected. Any information obtained from a seller by a
+19 qualified nonprofit under this chapter including, but not limited to, disclosures made and terms and
+20 conditions of an offer of sale made shall be kept confidential to the maximum extent permitted by
+21 law, except that a qualified nonprofits may, if otherwise permitted by law, share such information
+22 with other qualified nonprofits to facilitate qualified nonprofit exercise of the rights conferred by
+23 this chapter. Nothing in this chapter permits or requires the disclosure of information where such
+24 disclosure is otherwise prohibited by law.
+25 34-18.3-6. State owned buildings.
+26 When any state-owned property, either land or buildings, is to be sold, the department of
+27 housing shall be given the right of first offer lasting sixty (60) days to enter into an agreement to
+28 purchase it at the appraised value. The municipality where the property is located shall be given
+29 the right of second offer (lasting another sixty (60) days) to purchase, before the property goes on
+30 the open market.
+31 34-18.3-7. Preexisting rights unaffected.
+32 This chapter shall not be construed to impair any contract, or affect any property interest
+33 held by anyone other than the seller of a multi-family residential building (including, but not limited
+34 to, any interest held under a mortgage, deed of trust, or other security interest; any option to
+LC000182 - Page 5 of 7
+
+1 purchase: or any right of first offer or right of first refusal), in existence before the effective date of
+2 this chapter.
+3 34-18.3-8. Enforcement - Seller declaration and certification.
+4 (a) Every seller of a multi-family residential building in any city or town shall, within
+5 fifteen (15) days of the sale of that building, submit to Rhode Island housing a signed declaration,
+6 under penalty of perjury, affirming that the sale of that building substantially complied with the
+7 requirements of this chapter. Each such declaration shall include the address of the relevant building
+8 and Rhode Island housing shall publish all such addresses on its website at least once per week.
+9 (b) Failure to file the declaration required by this section shall be an infraction punishable
+10 by a fine not to exceed five thousand dollars ($5,000).
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC000182
+========
+LC000182 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- COMMUNITY OPPORTUNITY TO PURCHASE ACT
+***
+1 This act would grant a right of first offer to qualified nonprofits for the purchase of certain
+2 multi-family residential properties at market prices, within a reasonable period of time to promote
+3 the creation and preservation of affordable rental housing.
+4 This act would take effect upon passage.
+========
+LC000182
+========
+LC000182 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND S ( t ( f r c ( h ( t a f m N o s t b p i m o m m d a b p m f n l i s r e t ( t b]
+[DELETED:  a S a C C 3 A ( D ( ( " r b o " m a p r p p ( a s ( i ( e ( w R p ( " I h m t R I h a m f c ( ( i p t ( e t]
+[DELETED:  o ( r t l h o t t k i a ( f ( ( l ( g t ( b l ( l s a a p o g a t c g a t g g ( i ( t t (]
+[DELETED:  e 3 ( w c c ( f ( T o h d a c t t p o a h f a m r t t d o s r ( T o h d a c t c e a e b r w n o o t c o ( a l ( I ( s s n b e t a f r c a q n I t a o n i e r 3 R o t s n 3]
+[DELETED:  Q p 3 ( p p ( ( ( p m p ( a l ( t ( C i p A i o f a s b a q c l w t d 3 W h p t t 3 T h t]
+[DELETED:  p t 3 ( f u r a ( b S]
+[DELETED:  T m t T]

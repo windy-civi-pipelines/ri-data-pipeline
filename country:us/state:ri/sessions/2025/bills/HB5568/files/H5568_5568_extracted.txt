@@ -1,0 +1,305 @@
+Title: RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+Official Title: RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+Number of Sections: 1
+Source: versions - 5568
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5568
+========
+LC002100
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+AVAILABILITY ACT
+Introduced By: Representative Patricia A. Serpa
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-50-5 of the General Laws in Chapter 27-50 entitled "Small
+2 Employer Health Insurance Availability Act" is hereby amended to read as follows:
+3 27-50-5. Restrictions relating to premium rates.
+4 (a) Premium rates for health benefit plans subject to this chapter are subject to the following
+5 provisions:
+6 (1) Subject to subsection (a)(2) of this section, a small employer carrier shall develop its
+7 rates based on an adjusted community rate and may only vary the adjusted community rate for:
+8 (i) Age; and
+9 (ii) [Deleted by P.L. 2021, ch. 88, § 5 and P.L. 2021, ch. 89, § 5.]
+10 (iii) Family composition.
+11 (2) The adjustment for age in subsection (a)(1)(i) of this section may not use age brackets
+12 smaller than five-year (5) increments and these shall begin with age thirty (30) and end with age
+13 sixty-five (65).
+14 (3) The small employer carriers are permitted to develop separate rates for individuals age
+15 sixty-five (65) or older for coverage for which Medicare is the primary payer and coverage for
+16 which Medicare is not the primary payer. Both rates are subject to the requirements of this
+17 subsection (a).
+18 (4) For each health benefit plan offered by a carrier, the highest premium rate for each
+1 family composition type shall not exceed four (4) times the premium rate that could be charged to
+2 a small employer with the lowest premium rate for that family composition.
+3 (5) Premium rates for bona fide associations except for the Rhode Island Builders’
+4 Association whose membership is limited to those who are actively involved in supporting the
+5 construction industry in Rhode Island and members of the greater Providence chamber of
+6 commerce shall comply with the requirements of this section.
+7 (6) For a small employer group renewing its health insurance with the same small employer
+8 carrier that provided it small employer health insurance in the prior year, the adjustment factor for
+9 age for that small employer group will not exceed one hundred twenty percent (120%) of the
+10 adjustment factor for age for that small employer group in the prior rate year.
+11 (b) The premium charged for a health benefit plan may not be adjusted more frequently
+12 than annually except that the rates may be changed to reflect:
+13 (1) Changes to the enrollment of the small employer;
+14 (2) Changes to the family composition of the employee; or
+15 (3) Changes to the health benefit plan requested by the small employer.
+16 (c) Premium rates for health benefit plans shall comply with the requirements of this
+17 section.
+18 (d) Small employer carriers shall apply rating factors consistently with respect to all small
+19 employers. Rating factors shall produce premiums for identical groups that differ only by the
+20 amounts attributable to plan design and do not reflect differences due to the nature of the groups
+21 assumed to select particular health benefit plans. Two groups that are otherwise identical, but which
+22 have different prior year rate factors, may, however, have rating factors that produce premiums that
+23 differ because of the requirements of subsection (a)(6) of this section. Nothing in this section shall
+24 be construed to prevent a group health plan and a health insurance carrier offering health insurance
+25 coverage from establishing premium discounts or rebates or modifying otherwise applicable
+26 copayments or deductibles in return for adherence to programs of health promotion and disease
+27 prevention, including those included in affordable health benefit plans, provided that the resulting
+28 rates comply with the other requirements of this section, including subsection (a)(4) of this section.
+29 The calculation of premium discounts, rebates, or modifications to otherwise applicable
+30 copayments or deductibles for affordable health benefit plans shall be made in a manner consistent
+31 with accepted actuarial standards and based on actual or reasonably anticipated small employer
+32 claims experience. As used in the preceding sentence, “accepted actuarial standards” includes
+33 actuarially appropriate use of relevant data from outside the claims experience of small employers
+34 covered by affordable health plans, including, but not limited to, experience derived from the large
+LC002100 - Page 2 of 5
+1 group market, as this term is defined in § 27-18.6-2.
+2 (e) For the purposes of this section, a health benefit plan that contains a restricted network
+3 provision shall not be considered similar coverage to a health benefit plan that does not contain
+4 such a provision, provided that the restriction of benefits to network providers results in substantial
+5 differences in claim costs.
+6 (f) The health insurance commissioner may establish regulations to implement the
+7 provisions of this section and to ensure that rating practices used by small employer carriers are
+8 consistent with the purposes of this chapter, including regulations that ensure that differences in
+9 rates charged for health benefit plans by small employer carriers are reasonable and reflect objective
+10 differences in plan design or coverage (not including differences due to the nature of the groups
+11 assumed to select particular health benefit plans or separate claim experience for individual health
+12 benefit plans) and to ensure that small employer groups with one eligible subscriber are notified of
+13 rates for health benefit plans in the individual market.
+14 (g) In connection with the offering for sale of any health benefit plan to a small employer,
+15 a small employer carrier shall make a reasonable disclosure, as part of its solicitation and sales
+16 materials, of all of the following:
+17 (1) The provisions of the health benefit plan concerning the small employer carrier’s right
+18 to change premium rates and the factors, other than claim experience, that affect changes in
+19 premium rates;
+20 (2) The provisions relating to renewability of policies and contracts;
+21 (3) The provisions relating to any preexisting condition provision; and
+22 (4) A listing of and descriptive information, including benefits and premiums, about all
+23 benefit plans for which the small employer is qualified.
+24 (h)(1) Each small employer carrier shall maintain at its principal place of business a
+25 complete and detailed description of its rating practices and renewal underwriting practices,
+26 including information and documentation that demonstrate that its rating methods and practices are
+27 based upon commonly accepted actuarial assumptions and are in accordance with sound actuarial
+28 principles.
+29 (2) Each small employer carrier shall file with the commissioner annually on or before
+30 March 15 an actuarial certification certifying that the carrier is in compliance with this chapter and
+31 that the rating methods of the small employer carrier are actuarially sound. The certification shall
+32 be in a form and manner, and shall contain the information, specified by the commissioner. A copy
+33 of the certification shall be retained by the small employer carrier at its principal place of business.
+34 (3) A small employer carrier shall make the information and documentation described in
+LC002100 - Page 3 of 5
+1 subsection (h)(1) of this section available to the commissioner upon request. Except in cases of
+2 violations of this chapter, the information shall be considered proprietary and trade secret
+3 information and shall not be subject to disclosure by the director to persons outside of the
+4 department except as agreed to by the small employer carrier or as ordered by a court of competent
+5 jurisdiction.
+6 (4) For the wellness health benefit plan described in § 27-50-10, the rates proposed to be
+7 charged and the plan design to be offered by any carrier shall be filed by the carrier at the office of
+8 the commissioner no less than thirty (30) days prior to their proposed date of use. The carrier shall
+9 be required to establish that the rates proposed to be charged and the plan design to be offered are
+10 consistent with the proper conduct of its business and with the interest of the public. The
+11 commissioner may approve, disapprove, or modify the rates and/or approve or disapprove the plan
+12 design proposed to be offered by the carrier. Any disapproval by the commissioner of a plan design
+13 proposed to be offered shall be based upon a determination that the plan design is not consistent
+14 with the criteria established pursuant to § 27-50-10(b).
+15 (i) The requirements of this section apply to all health benefit plans issued or renewed on
+16 or after October 1, 2000.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC002100
+========
+LC002100 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+***
+1 This act would include members of the greater Providence chamber of commerce in the
+2 exclusion of premium rates for the Rhode Island Builders' Association.
+3 This act would take effect upon passage.
+========
+LC002100
+========
+LC002100 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 2 o t G L i C 2 e " E 2 ( p ( r ( ( ( ( s s ( s w M i n t p p B r a s t t r o t s (]
+[DELETED:  f a ( P r f b f a e f t R I B A c i i R I a m o t g P c o c ( c a a ( t ( ( ( ( s ( e a a h d b c f e p d o r o m o a c p r T c w c a c]
+[DELETED:  g ( p s d ( T h i c m e r t i t p c r d a b r ( a m ( t c p r a t f o t c e t a c i p ( ( ( b ( E s e c s m a i p p o b a c a d d o i r p a r u p i b p ( M t b o (]
+[DELETED:  s v o t c t i s b c p a t s i a s n b s t d b t d t p o o t d j ( c t b c w t p c o i b a w t i o t p T c d p w ( o S]
+[DELETED:  T e T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5568
+========
+LC002100
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+Introduced By: Representative Patricia A. Serpa
+Date Introduced: February 26, 2025
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-50-5 of the General Laws in Chapter 27-50 entitled "Small
+2 Employer Health Insurance Availability Act" is hereby amended to read as follows:
+3 27-50-5. Restrictions relating to premium rates.
+4 (a) Premium rates for health benefit plans subject to this chapter are subject to the following
+5 provisions:
+6 (1) Subject to subsection (a)(2) of this section, a small employer carrier shall develop its
+7 rates based on an adjusted community rate and may only vary the adjusted community rate for:
+8 (i) Age; and
+9 (ii) [Deleted by P.L. 2021, ch. 88, § 5 and P.L. 2021, ch. 89, § 5.]
+10 (iii) Family composition.
+11 (2) The adjustment for age in subsection (a)(1)(i) of this section may not use age brackets
+12 smaller than five-year (5) increments and these shall begin with age thirty (30) and end with age
+13 sixty-five (65).
+14 (3) The small employer carriers are permitted to develop separate rates for individuals age
+15 sixty-five (65) or older for coverage for which Medicare is the primary payer and coverage for
+16 which Medicare is not the primary payer. Both rates are subject to the requirements of this
+17 subsection (a).
+18 (4) For each health benefit plan offered by a carrier, the highest premium rate for each
+
+1 family composition type shall not exceed four (4) times the premium rate that could be charged to
+2 a small employer with the lowest premium rate for that family composition.
+3 (5) Premium rates for bona fide associations except for the Rhode Island Builders’
+4 Association whose membership is limited to those who are actively involved in supporting the
+5 construction industry in Rhode Island and members of the greater Providence chamber of
+6 commerce shall comply with the requirements of this section.
+7 (6) For a small employer group renewing its health insurance with the same small employer
+8 carrier that provided it small employer health insurance in the prior year, the adjustment factor for
+9 age for that small employer group will not exceed one hundred twenty percent (120%) of the
+10 adjustment factor for age for that small employer group in the prior rate year.
+11 (b) The premium charged for a health benefit plan may not be adjusted more frequently
+12 than annually except that the rates may be changed to reflect:
+13 (1) Changes to the enrollment of the small employer;
+14 (2) Changes to the family composition of the employee; or
+15 (3) Changes to the health benefit plan requested by the small employer.
+16 (c) Premium rates for health benefit plans shall comply with the requirements of this
+17 section.
+18 (d) Small employer carriers shall apply rating factors consistently with respect to all small
+19 employers. Rating factors shall produce premiums for identical groups that differ only by the
+20 amounts attributable to plan design and do not reflect differences due to the nature of the groups
+21 assumed to select particular health benefit plans. Two groups that are otherwise identical, but which
+22 have different prior year rate factors, may, however, have rating factors that produce premiums that
+23 differ because of the requirements of subsection (a)(6) of this section. Nothing in this section shall
+24 be construed to prevent a group health plan and a health insurance carrier offering health insurance
+25 coverage from establishing premium discounts or rebates or modifying otherwise applicable
+26 copayments or deductibles in return for adherence to programs of health promotion and disease
+27 prevention, including those included in affordable health benefit plans, provided that the resulting
+28 rates comply with the other requirements of this section, including subsection (a)(4) of this section.
+29 The calculation of premium discounts, rebates, or modifications to otherwise applicable
+30 copayments or deductibles for affordable health benefit plans shall be made in a manner consistent
+31 with accepted actuarial standards and based on actual or reasonably anticipated small employer
+32 claims experience. As used in the preceding sentence, “accepted actuarial standards” includes
+33 actuarially appropriate use of relevant data from outside the claims experience of small employers
+34 covered by affordable health plans, including, but not limited to, experience derived from the large
+LC002100 - Page 2 of 5
+
+1 group market, as this term is defined in § 27-18.6-2.
+2 (e) For the purposes of this section, a health benefit plan that contains a restricted network
+3 provision shall not be considered similar coverage to a health benefit plan that does not contain
+4 such a provision, provided that the restriction of benefits to network providers results in substantial
+5 differences in claim costs.
+6 (f) The health insurance commissioner may establish regulations to implement the
+7 provisions of this section and to ensure that rating practices used by small employer carriers are
+8 consistent with the purposes of this chapter, including regulations that ensure that differences in
+9 rates charged for health benefit plans by small employer carriers are reasonable and reflect objective
+10 differences in plan design or coverage (not including differences due to the nature of the groups
+11 assumed to select particular health benefit plans or separate claim experience for individual health
+12 benefit plans) and to ensure that small employer groups with one eligible subscriber are notified of
+13 rates for health benefit plans in the individual market.
+14 (g) In connection with the offering for sale of any health benefit plan to a small employer,
+15 a small employer carrier shall make a reasonable disclosure, as part of its solicitation and sales
+16 materials, of all of the following:
+17 (1) The provisions of the health benefit plan concerning the small employer carrier’s right
+18 to change premium rates and the factors, other than claim experience, that affect changes in
+19 premium rates;
+20 (2) The provisions relating to renewability of policies and contracts;
+21 (3) The provisions relating to any preexisting condition provision; and
+22 (4) A listing of and descriptive information, including benefits and premiums, about all
+23 benefit plans for which the small employer is qualified.
+24 (h)(1) Each small employer carrier shall maintain at its principal place of business a
+25 complete and detailed description of its rating practices and renewal underwriting practices,
+26 including information and documentation that demonstrate that its rating methods and practices are
+27 based upon commonly accepted actuarial assumptions and are in accordance with sound actuarial
+28 principles.
+29 (2) Each small employer carrier shall file with the commissioner annually on or before
+30 March 15 an actuarial certification certifying that the carrier is in compliance with this chapter and
+31 that the rating methods of the small employer carrier are actuarially sound. The certification shall
+32 be in a form and manner, and shall contain the information, specified by the commissioner. A copy
+33 of the certification shall be retained by the small employer carrier at its principal place of business.
+34 (3) A small employer carrier shall make the information and documentation described in
+LC002100 - Page 3 of 5
+
+1 subsection (h)(1) of this section available to the commissioner upon request. Except in cases of
+2 violations of this chapter, the information shall be considered proprietary and trade secret
+3 information and shall not be subject to disclosure by the director to persons outside of the
+4 department except as agreed to by the small employer carrier or as ordered by a court of competent
+5 jurisdiction.
+6 (4) For the wellness health benefit plan described in § 27-50-10, the rates proposed to be
+7 charged and the plan design to be offered by any carrier shall be filed by the carrier at the office of
+8 the commissioner no less than thirty (30) days prior to their proposed date of use. The carrier shall
+9 be required to establish that the rates proposed to be charged and the plan design to be offered are
+10 consistent with the proper conduct of its business and with the interest of the public. The
+11 commissioner may approve, disapprove, or modify the rates and/or approve or disapprove the plan
+12 design proposed to be offered by the carrier. Any disapproval by the commissioner of a plan design
+13 proposed to be offered shall be based upon a determination that the plan design is not consistent
+14 with the criteria established pursuant to § 27-50-10(b).
+15 (i) The requirements of this section apply to all health benefit plans issued or renewed on
+16 or after October 1, 2000.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC002100
+========
+LC002100 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- SMALL EMPLOYER HEALTH INSURANCE
+AVAILABILITY ACT
+***
+1 This act would include members of the greater Providence chamber of commerce in the
+2 exclusion of premium rates for the Rhode Island Builders' Association.
+3 This act would take effect upon passage.
+========
+LC002100
+========
+LC002100 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 2 o t G L i C 2 e " E 2 ( p ( r ( ( ( ( s s ( s w M i n t p p B r a s t t r o t s (]
+[DELETED:  f a ( P r f b f a e f t R I B A c i i R I a m o t g P c o c ( c a a ( t ( ( ( ( s ( e a a h d b c f e p d o r o m o a c p r T c w c a c]
+[DELETED:  g ( p s d ( T h i c m e r t i t p c r d a b r ( a m ( t c p r a t f o t c e t a c i p ( ( ( b ( E s e c s m a i p p o b a c a d d o i r p a r u p i b p ( M t b o (]
+[DELETED:  s v o t c t i s b c p a t s i a s n b s t d b t d t p o o t d j ( c t b c w t p c o i b a w t i o t p T c d p w ( o S]
+[DELETED:  T e T]

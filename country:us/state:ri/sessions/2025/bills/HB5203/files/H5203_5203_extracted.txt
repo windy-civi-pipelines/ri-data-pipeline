@@ -1,0 +1,800 @@
+Title: Introduced By: Representatives Cortvriend, Boylan, Dawson, Bennett, McGaw, Carson,
+Official Title: Introduced By: Representatives Cortvriend, Boylan, Dawson, Bennett, McGaw, Carson,
+Number of Sections: 1
+Source: versions - 5203
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5203
+========
+LC000220
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- SCHOOL FUNDS AND PROPERTY
+Handy, Finkelman, McNamara, and Spears
+Date Introduced: January 24, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-9 of the General Laws entitled "School Funds and Property" is
+2 hereby amended by adding thereto the following section:
+3 16-9-11. New school construction and renovations.
+4 Not later than June 30, 2026, the department of education and the office of energy resources
+5 are hereby authorized and directed to develop and adopt regulations requiring all school buildings
+6 to meet the latest Northeast Collaborative for High Performance Schools (NE-CHPS) standard of
+7 zero energy capable, as required by 200-RICR-20-05-04.5.1B, and defined in § 16-7-36, by
+8 December 31, 2037.
+9 (1) The regulations shall allow flexibility to the furthest extent possible for local education
+10 agencies to pursue state and federal funding sources that assist in financing energy efficiency or
+11 renewable energy systems without any penalties or reduction in state housing aid provided by the
+12 department of education.
+13 (2) Furthermore, for local education agencies that pursue federal funding for renewable
+14 energy systems, the department’s regulations shall direct and provide further guidance to local
+15 education agencies to build, own, and operate solar panels utilizing federal guidance established in
+16 the Internal Revenue Code, 26 U.S.C. § 6417.
+17 SECTION 2. Sections 16-7-36, 16-7-39, 16-7-40 and 16-7-41.1 of the General Laws in
+18 Chapter 16-7 entitled "Foundation Level School Support [See Title 16 Chapter 97 — The Rhode
+19 Island Board of Education Act]" are hereby amended to read as follows:
+1 16-7-36. Definitions.
+2 The following words and phrases used in §§ 16-7-35 to 16-7-47 and in § 16-9-11 have the
+3 following meanings:
+4 (1) “Adjusted equalized weighted assessed valuation” means the equalized weighted
+5 assessed valuation for a community as determined by the division of property valuation within the
+6 department of revenue in accordance with § 16-7-21; provided, however, that in the case of a
+7 regional school district the commissioner of elementary and secondary education shall apportion
+8 the adjusted equalized weighted assessed valuation of the member cities or towns among the
+9 regional school district and the member cities or towns according to the proportion that the number
+10 of pupils of the regional school district bears to the number of pupils of the member cities or towns.
+11 (2) “Approved project” means a project which has complied with the administrative
+12 regulations governing §§ 16-7-35 through 16-7-47, and which has been authorized to receive state
+13 school housing reimbursement by the commissioner of elementary and secondary education.
+14 (3) “Commissioning agent” means a person or entity who ensures that systems are
+15 designed, installed, functionally tested, and capable of being operated and maintained to perform
+16 in conformity with the design intent of a project.
+17 (4) “Community” means any city, town, or regional school district established pursuant to
+18 law; provided, however, that the member towns of the Chariho regional high school district, created
+19 by P.L. 1958, ch. 55, as amended, shall constitute separate and individual communities for the
+20 purposes of distributing the foundation level school support for school housing for all grades
+21 financed in whole or in part by the towns irrespective of any regionalization.
+22 (5) “Facilities condition index” means the cost to fully repair the building divided by the
+23 cost to replace the building as determined by the school building authority.
+24 (6) “Functional utilization” means the ratio of the student population within a school
+25 facility to the capacity of the school facility to adequately serve students as defined by the school
+26 building authority.
+27 (7) “Maintenance expenditures” means amounts spent for repairs or replacements for the
+28 purpose of keeping a school facility open and safe for use, including repairs, maintenance, and
+29 replacements to a school facility’s heating, lighting, ventilation, security, and other fixtures to keep
+30 the facility or fixtures in effective working condition. Maintenance shall not include contracted or
+31 direct custodial or janitorial services, expenditures for the cleaning of a school facility or its
+32 fixtures, the care and upkeep of grounds, recreational facilities, or parking lots, or the cleaning of
+33 or repairs and replacements to movable furnishings or equipment.
+34 (8) “Owner’s program manager” means owner’s program manager as defined in § 37-2-7.
+LC000220 - Page 2 of 12
+1 (9) “Prime contractor” means the construction contractor who is responsible for the
+2 completion of a project.
+3 (10) “Reference year” means the year next prior to the school year immediately preceding
+4 that in which aid is to be paid.
+5 (11) “Subject to inflation” means the base amount multiplied by the percentage of increase
+6 in the Producer Price Index (PPI) Data for Nonresidential Building Construction (NAICS 236222)
+7 as published by the United States Department of Labor, Bureau of Labor Statistics determined as
+8 of September 30 of the prior calendar year.
+9 (12) "Zero energy capable" means the building:
+10 (i) Meets the latest Northeast Collaborative for High Performance Schools (NE-CHPS)
+11 standard of a zero energy capable school building whereby the actual annual energy delivered other
+12 than as described in subsection (12)(ii) of this section, must be less than or equal to the renewable
+13 energy generated onsite; or
+14 (ii) The actual annual energy delivered must be less than or equal to the sum of:
+15 (A) The renewable energy generated onsite;
+16 (B) The renewable energy generated offsite through a power purchase agreement; and
+17 (C) The value of purchased NE-GIS certificates that meet the standard for a new renewable
+18 energy resources as defined in § 39-26-2.
+19 16-7-39. Computation of school housing-aid ratio.
+20 For each community, the percent of state aid for school housing costs shall be computed in
+21 the following manner:
+22 (1) The adjusted equalized weighted assessed valuation for the district is divided by the
+23 resident average daily membership for the district (grades twelve (12) and below); (2) The adjusted
+24 equalized weighted assessed valuation for the state is divided by the resident average daily
+25 membership for the state (grades twelve (12) and below); (1) is then divided by (2) and the resultant
+26 ratio is multiplied by a factor currently set at sixty-two percent (62%) which represents the
+27 approximate average district share of school support; the resulting product is then subtracted from
+28 one hundred percent (100%) to yield the housing aid share ratio, provided that in no case shall the
+29 ratio be less than thirty percent (30%). Provided, that effective July 1, 2010, and annually at the
+30 start of each fiscal year thereafter, the thirty percent (30%) floor on said housing-aid share shall be
+31 increased by five percent (5%) increments each year until said floor on the housing-aid share ratio
+32 reaches a minimum of not less than forty percent (40%). This provision shall apply only to school
+33 housing projects completed after June 30, 2010, that received approval from the board of regents
+34 prior to June 30, 2012. Provided further, for the fiscal year beginning July 1, 2012, and for
+LC000220 - Page 3 of 12
+1 subsequent fiscal years, the minimum housing aid share shall be thirty-five percent (35%) for all
+2 projects receiving council on elementary and secondary education approval after June 30, 2012.
+3 The resident average daily membership shall be determined in accordance with § 16-7-22(1).
+4 (2) No district shall receive a combined total of more than twenty (20) incentive percentage
+5 points for projects that commence construction by June 30, 2024, and five (5) incentive points for
+6 projects that commence construction thereafter; provided further, these caps shall be in addition to
+7 amounts received under §§ 16-7-40(a)(1) and, 16-7-40(a)(2), 16-7-40(j)(1) and 16-7-40(j)(2)..
+8 Furthermore, a district’s share shall not be decreased by more than half of its regular share
+9 irrespective of the number of incentive points received nor shall a district’s state share increase by
+10 more than half of its regular share, including amounts received under §§ 16-7-40(a)(1) and 16-7-
+11 40(a)(2), irrespective of the number of incentive points received. Provided further that the
+12 aforementioned limit on the state share increasing by more than half of its regular share shall not
+13 apply to projects submitted for reimbursement after July 1, 2023.
+14 16-7-40. Increased school housing ratio.
+15 (a)(1) In the case of regional school districts, the school housing aid ratio shall be increased
+16 by two percent (2%) for each grade so consolidated.
+17 (2) Regional school districts undertaking renovation project(s) shall receive an increased
+18 share ratio of four percent (4%) for those specific project(s) only, in addition to the combined share
+19 ratio calculated in § 16-7-39 and this subsection.
+20 (b) In the case of projects undertaken by districts specifically for the purposes of school
+21 safety and security, the school housing aid share ratio shall be increased by five percent (5%) for
+22 these specific projects only, in the calculation of school housing aid. The increased share ratio shall
+23 continue to be applied for as long as the project(s) receives state housing aid. In order to qualify for
+24 the increased share ratio, seventy-five percent (75%) of the project costs must be specifically
+25 directed to school safety and security measures. The council on elementary and secondary
+26 education shall promulgate rules and regulations for the administration and operation of this
+27 section.
+28 (c) For purposes of addressing health and safety deficiencies as defined by the school
+29 building authority, including the remediation of hazardous materials, the school housing aid ratio
+30 shall be increased by five percent (5%) so long as the construction of the project commences by
+31 June 30, 2024, is completed by June 30, 2029, and a two hundred fifty million dollar ($250,000,000)
+32 general obligation bond is approved on the November 2018 ballot. In order to qualify for the
+33 increased share ratio, twenty-five percent (25%) of the project costs or a minimum of five hundred
+34 thousand dollars ($500,000) must be specifically directed to this purpose.
+LC000220 - Page 4 of 12
+1 (d) For purposes of educational enhancement, including projects devoted to the
+2 enhancement of early childhood education and career and technical education, the school housing
+3 aid ratio shall be increased by five percent (5%) so long as construction of the project commences
+4 by June 30, 2024, is completed by June 30, 2029, and a two hundred fifty million dollar
+5 ($250,000,000) general obligation bond is approved on the November 2018 ballot. In order to
+6 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+7 of five hundred thousand dollars ($500,000) must be specifically directed to these purposes.
+8 (e) For replacement of a facility that has a facilities condition index of sixty-five percent
+9 (65%) or higher, the school housing ratio shall be increased by five percent (5%) so long as
+10 construction of the project commences by June 30, 2024, is completed by June 30, 2029, does not
+11 receive a bonus pursuant to subsection (f) or subsection (g), and a two hundred fifty million dollar
+12 ($250,000,000) general obligation bond is approved on the November 2018 ballot. In order to
+13 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+14 of five hundred thousand dollars ($500,000) must be specifically directed to this purpose.
+15 (f) For any new construction or renovation that increases the functional utilization of any
+16 facility from less than sixty percent (60%) to more than eighty percent (80%), including the
+17 consolidation of school buildings within or across districts, the school housing aid ratio shall be
+18 increased by five percent (5%) so long as construction of the project commences by June 30, 2024,
+19 is completed by June 30, 2029, and a two hundred fifty million dollar ($250,000,000) general
+20 obligation bond is approved on the November 2018 ballot. In order to qualify for the increased
+21 share ratio, twenty-five percent (25%) of the project costs or a minimum of five hundred thousand
+22 dollars ($500,000) must be specifically directed to this purpose.
+23 (g) For any new construction or renovation that decreases the functional utilization of any
+24 facility from more than one hundred twenty percent (120%) to between eighty-five percent (85%)
+25 to one hundred five percent (105%), the school housing ratio shall be increased by five percent
+26 (5%) so long as construction of the project commences by June 30, 2024, is completed by June 30,
+27 2029, and a two hundred fifty million dollar ($250,000,000) general obligation bond is approved
+28 on the November 2018 ballot. In order to qualify for the increased share ratio, twenty-five percent
+29 (25%) of the project costs or a minimum of five hundred thousand dollars ($500,000) must be
+30 specifically directed to this purpose.
+31 (h) For consolidation of two (2) or more school buildings, within or across districts into
+32 one school building, the school housing aid ratio shall be increased by five percent (5%) so long as
+33 construction of the project commences by June 30, 2024, is completed by June 30, 2029, a two
+34 hundred fifty million dollar ($250,000,000) general obligation bond is approved on the November
+LC000220 - Page 5 of 12
+1 2018 ballot, and does not receive a bonus pursuant to subsection (f) or subsection (g). In order to
+2 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+3 of five hundred thousand dollars ($500,000) must be specifically directed to this purpose.
+4 (i) Any regionalized and/or non-regionalized school district receiving an increased share
+5 ratio for a project approved prior to July 1, 2018, shall continue to receive the increased share ratio
+6 for as long as the project receives state housing aid.
+7 (j)(1) In the case of projects undertaken by districts specifically for the purposes of high-
+8 performance school design, the school housing aid share ratio shall be increased by five percent
+9 (5%) for these specific projects only, in the calculation of school housing aid. The increased share
+10 ratio shall continue to be applied for as long as the project(s) receives state housing aid. In order to
+11 qualify for the increased share ratio, seventy-five percent (75%) of the project costs shall be
+12 specifically directed to this purpose. The council on elementary and secondary education shall
+13 promulgate rules and regulations for the administration and operation of this section.
+14 (2) For any new construction or renovation that includes energy efficiency and renewable
+15 energy upgrades for the building to meet the standard of zero energy capable school building
+16 pursuant to § 16-7-36(12), the school housing aid ratio shall be increased by ten percent (10%).
+17 16-7-41.1. Eligibility for reimbursement.
+18 (a) School districts, not municipalities, may apply for and obtain approval for a project
+19 under the necessity of school construction process set forth in the regulations of the council on
+20 elementary and secondary education, provided, however, in the case of a municipality that issues
+21 bonds through the Rhode Island health and educational building corporation to finance or refinance
+22 school facilities for a school district that is not part of the municipality, the municipality may apply
+23 for and obtain approval for a project. Such approval will remain valid until June 30 of the third
+24 fiscal year following the fiscal year in which the council on elementary and secondary education’s
+25 approval is granted. Only those projects undertaken at school facilities under the care and control
+26 of the school committee and located on school property may qualify for reimbursement under §§
+27 16-7-35 — 16-7-47. Facilities with combined school and municipal uses or facilities that are
+28 operated jointly with any other profit or nonprofit agency do not qualify for reimbursement under
+29 §§ 16-7-35 — 16-7-47. Projects completed by June 30 of a fiscal year are eligible for
+30 reimbursement in the following fiscal year. A project for new school housing or additional housing
+31 shall be deemed to be completed when the work has been officially accepted by the school
+32 committee or when the housing is occupied for its intended use by the school committee, whichever
+33 is earlier.
+34 (b) Notwithstanding the provisions of this section, the board of regents shall not grant final
+LC000220 - Page 6 of 12
+1 approval for any project between June 30, 2011, and May 1, 2015, except for projects that are
+2 necessitated by immediate health and safety reasons. In the event that a project is requested during
+3 the moratorium because of immediate health and safety reasons, those proposals shall be reported
+4 to the chairs of the house and senate finance committees.
+5 (c) Any project approval granted prior to the adoption of the school construction
+6 regulations in 2007, and which are currently inactive; and any project approval granted prior to the
+7 adoption of the school construction regulations in 2007 which did not receive voter approval or
+8 which has not been previously financed, are no longer eligible for reimbursement under this
+9 chapter. The department of elementary and secondary education shall develop recommendations
+10 for further cost containment strategies in the school housing aid program.
+11 (d) Beginning July 1, 2015, the council on elementary and secondary education shall
+12 approve new necessity of school construction applications on an annual basis. The department of
+13 elementary and secondary education shall develop an annual application timeline for local
+14 education agencies seeking new necessity of school construction approvals.
+15 (e) Beginning July 1, 2019, no state funding shall be provided for projects in excess of ten
+16 million dollars ($10,000,000) unless the prime contractor for the project has received
+17 prequalification from the school building authority.
+18 (f) Beginning July 1, 2019, the necessity of school construction process set forth in the
+19 regulations of the council on elementary and secondary education shall include a single statewide
+20 process, developed with the consultation of the department of environmental management, that will
+21 ensure community involvement throughout the investigation and remediation of contaminated
+22 building sites for possible reuse as the location of a school. That process will fulfill all provisions
+23 of § 23-19.14-5 related to the investigation of reuse of such sites for schools.
+24 (g) Beginning July 1, 2019, school housing projects exceeding one million five hundred
+25 thousand dollars ($1,500,000) subject to inflation shall include an owner’s program manager and a
+26 commissioning agent. The cost of the program manager and commissioning agent shall be
+27 considered a project cost eligible for aid pursuant to §§ 16-7-41 and 16-105-5.
+28 (h) Temporary housing, or swing space, for students shall be a reimbursable expense so
+29 long as a district can demonstrate that no other viable option to temporarily house students exists
+30 and provided that use of the temporary space is time limited for a period not to exceed twenty-four
+31 (24) months and tied to a specific construction project.
+32 (i) Environmental site remediation, as defined by the school building authority, shall be a
+33 reimbursable expense up to one million dollars ($1,000,000) per project.
+34 (j) If, within thirty (30) years of construction, a newly constructed school is sold to a private
+LC000220 - Page 7 of 12
+1 entity, the state shall receive a portion of the sale proceeds equal to that project’s housing aid
+2 reimbursement rate at the time of project completion.
+3 (k) All projects must comply with § 37-13-6, ensuring that prevailing wage laws are being
+4 followed, and § 37-14.1-6, ensuring that minority business enterprises reach the required minimum
+5 participation, and § 37-13-3.1, ensuring apprenticeship program utilization.
+6 (l) Using reviewable criteria, all projects seeking school housing aid shall complete an
+7 independent, objective, reasoned study on all projects over ten million dollars ($10,000,000) to
+8 determine whether adoption of a project labor agreement on the proposed project or projects will
+9 help achieve the goals of the state purchases act.
+10 SECTION 3. Section 16-105-3 of the General Laws in Chapter 16-105 entitled "School
+11 Building Authority" is hereby amended to read as follows:
+12 16-105-3. Roles and responsibilities.
+13 The school building authority roles and responsibilities shall include:
+14 (1) Management of a system with the goal of ensuring equitable and adequate school
+15 housing for all public school children in the state;
+16 (2) Prevention of the cost of school housing from interfering with the effective operation
+17 of the schools;
+18 (3) Management of school housing aid in accordance with statute;
+19 (4) Reviewing and making recommendations to the council on elementary and secondary
+20 education on necessity of school construction applications for state school housing aid and the
+21 school building authority capital fund, based on the recommendations of the school building
+22 authority advisory board;
+23 (5) Promulgating, managing, and maintaining school construction regulations, standards,
+24 and guidelines applicable to the school housing program, based on the recommendations of the
+25 school building authority advisory board, created in § 16-105-8. Said regulations shall require
+26 conformance with the minority business enterprise requirements set forth in § 37-14.1-6 and with
+27 the latest Northeast Collaborative for High Performance Schools (NE-CHPS) standards or
+28 equivalent, contingent on approval from the council on elementary and secondary education;
+29 (6) Developing a prequalification and review process for prime contractors, architects, and
+30 engineers seeking to bid on projects in excess of ten million dollars ($10,000,000) in total costs
+31 subject to inflation. Notwithstanding any general laws to the contrary, a prequalification shall be
+32 valid for a maximum of two (2) years from the date of issuance. Factors to be considered by the
+33 school building authority in granting a prequalification to prime contractors shall include, but not
+34 be limited to, the contractor’s history of completing complex projects on time and on budget, track
+LC000220 - Page 8 of 12
+1 record of compliance with applicable environmental and safety regulations, evidence that
+2 completed prior projects prioritized the facility’s future maintainability, and compliance with
+3 applicable requirements for the use of women and minority owned subcontractors;
+4 (i) At least annually, a list of prequalified contractors, architects, and engineers shall be
+5 publicly posted with all other program information;
+6 (7) Providing technical assistance and guidance to school districts on the necessity of
+7 school construction application process;
+8 (8) Providing technical advice and assistance, training, and education to cities, towns,
+9 and/or local education agencies and to general contractors, subcontractors, construction or project
+10 managers, designers and others in planning, maintenance, and establishment of school facility
+11 space;
+12 (9) Developing a project priority system, based on the recommendations of the school
+13 building authority advisory board, in accordance with school construction regulations for the school
+14 building authority capital fund, subject to review and, if necessary, to be revised on intervals not to
+15 exceed five (5) years. Project priorities shall include, but not be limited to, the following order of
+16 priorities:
+17 (i) Projects to replace or renovate a building that is structurally unsound or otherwise in a
+18 condition seriously jeopardizing the health and safety of school children where no alternative exists;
+19 (ii) Projects needed to prevent loss of accreditation;
+20 (iii) Projects needed for the replacement, renovation, or modernization of the HVAC
+21 system in any schoolhouse to increase energy conservation and decrease energy-related costs in
+22 said schoolhouse;
+23 (iv) Projects needed to replace or add to obsolete buildings in order to provide for a full
+24 range of programs consistent with state and approved local requirements; and
+25 (v) Projects needed to comply with mandatory, instructional programs;
+26 (10) Maintaining a current list of requested school projects and the priority given them;
+27 (11) Collecting and maintaining readily available data on all the public school facilities in
+28 the state;
+29 (12) Collecting, maintaining, and making publicly available quarterly progress reports of
+30 all ongoing school construction projects that shall include, at a minimum, the costs of the project
+31 and the time schedule of the project;
+32 (13) Recommending policies and procedures designed to reduce borrowing for school
+33 construction programs at both state and local levels;
+34 (14) At least every five (5) years, conducting a needs survey to ascertain the capital
+LC000220 - Page 9 of 12
+1 construction, reconstruction, maintenance, and other capital needs for schools in each district of the
+2 state, including public charter schools. Beginning in 2025, this needs survey shall include progress
+3 towards and recommendations for energy efficiency and renewable energy upgrades to bring all
+4 state school buildings to the definition of a zero energy capable school building pursuant to § 16-
+5 7-36;
+6 (15) Developing a formal enrollment projection model or using projection models already
+7 available;
+8 (16) Encouraging local education agencies to investigate opportunities for the maximum
+9 utilization of space in and around the district;
+10 (17) Collecting and maintaining a clearinghouse of prototypical school plans that may be
+11 consulted by eligible applicants;
+12 (18) Retaining the services of consultants, as necessary, to effectuate the roles and
+13 responsibilities listed within this section;
+14 (19) Hiring an appropriate staff member who shall create and implement a plan to bring all
+15 Rhode Island school buildings in compliance with the standard of a zero energy capable school
+16 building pursuant to § 16-7-36 and who shall provide technical advice and assistance, training, and
+17 education to cities, towns, and/or local education agencies, and to general contractors,
+18 subcontractors, construction or project managers, designers and others on the latest NE-CHPS
+19 standards; and
+20 (19)(20) No district shall receive a combined total of more than twenty (20) incentive
+21 percentage points for projects that commence construction by December 30, 2023, and five (5)
+22 incentive points for projects that commence construction thereafter; provided further, these caps
+23 shall be in addition to amounts received under §§ 16-7-40(a)(1), and 16-7-40(a)(2), 16-7-40(j)(1),
+24 and 16-7-40(j)(2). Furthermore, a district’s share shall not be decreased by more than half of its
+25 regular share irrespective of the number of incentive points received, nor shall a district’s state
+26 share increase by more than half of its regular share, including amounts received under §§ 16-7-
+27 40(a)(1) and 16-7-40(a)(2), irrespective of the number of incentive points received.
+28 Notwithstanding any provision of the general laws to the contrary, the reimbursement or aid
+29 received under this chapter or chapter 38.2 of title 45 shall not exceed one hundred percent (100%)
+30 of the sum of the total project costs plus interest costs. If a two hundred and fifty million dollar
+31 ($250,000,000) general obligation bond is approved on the November 2018 ballot, projects
+32 approved between May 1, 2015, and January 1, 2018, are eligible to receive incentive points (above
+33 and beyond what the project was awarded at the time of approval) pursuant to § 16-7-39 and § 16-
+34 7-40. Provided, however, any project approved during this time period with a project cost in excess
+LC000220 - Page 10 of 12
+1 of one million five hundred thousand dollars ($1,500,000), which does not include an owner’s
+2 program manager and a commissioning agent, shall only be eligible to receive five (5) incentive
+3 points. Incentive points awarded pursuant to the provisions of this subsection shall only be applied
+4 to reimbursements occurring on or after July 1, 2018. Any project approved between May 1, 2015,
+5 and January 1, 2018, that is withdrawn and/or resubmitted for approval shall not be eligible for any
+6 incentive points.
+7 SECTION 4. This act shall take effect upon passage.
+========
+LC000220
+========
+LC000220 - Page 11 of 12
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- SCHOOL FUNDS AND PROPERTY
+***
+1 This act would provide that not later than June 30, 2025, the department of education would
+2 develop and adopt, in consultation with the office of energy resources, regulations requiring all
+3 school buildings to meet the standard of zero energy capable, as defined in § 16-7-36, by December
+4 31, 2037.
+5 This act would take effect upon passage.
+========
+LC000220
+========
+LC000220 - Page 12 of 12
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 N a t z e c a r b 2 a d i § 1 b D ( a r d ( e e t S C I]
+[DELETED:  1 T f ( “ e w a v m t e w a d r t r o ( “ p m a p w h c w t a r s ( “ a m a p o e w e t s a d i ( l b p f ( c ( “ u m r o s p w a s f b ( p r t d o s e f t c o s f o f o (]
+[DELETED:  ( “ c m t c c w i r f t c ( t ( i a o ( ( s t e ( ( ( ( e 1 F t ( r e w a v f t s i d b t r a d m r i m b a f c s a s p ( w r t a o r s i r h p t J 3 2 P f f t f y b J 1 2 a f]
+[DELETED:  s p T ( p p a r u § 1 a 1 1 a 1 F a d s s n b d b m t h o i r s i m 4 i o t n o i p r P f t t a a 1 ( b ( s r ( s t c t d t s s a s m T c o e a s e s p r a r f t a a o o t s ( b s J g i t]
+[DELETED:  ( F p o e e i p d t t e a b J 3 2 i c b J 3 2 a a t h f m d ( q o ( ( c r ( q o ( f f l t s p ( m t e p ( i t c i i o s d ( f t ( 2 o ( s ( o c h]
+[DELETED:  2 q o ( r f ( p ( r q f i r p o t p c s b s p ( e p 1 ( u e b s f f a o 1 o § 1 — 1 P c b J 3 o a f y a e f r s b d t b c w t w h b o a b t s c i (]
+[DELETED:  a n t t ( A p a g p t t a o t s c r a w h n b p f a n l e f r u t c f ( a e a s e s d a a a t f l e ( m d ( u t p c f t p h r p ( r p e c i t o c b o ( t c a T c o t p m a c a s b c ( l a ( ( r (]
+[DELETED:  e r ( f p ( i d h S B 1 T ( h ( o ( ( e s b a c f b o t r o t s b a ( a s c t l N C f H P S ( s o e ( e s v s b]
+[DELETED:  r o c w a e a s r e t c p p p t f f m a c w a ( p ( o s ( a m s ( b b e p ( c ( ( P n f t r r o m o t H s s ( r ( ( ( t ( a a ( c ( A e f ( y c a n s t a c]
+[DELETED:  c s t s 7 ( a ( u ( c ( R t s o c a n t e t r a r ( R b e t c t a l e a a t g c s s ( p i s a r s 4 a 1 i o t n o i p r N a p o t g l t c t o a r o ( g o b i a o t N 2 b p a a 7]
+[DELETED:  o p p t a i S]
+[DELETED:  T d s 3 T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5203
+========
+LC000220
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO EDUCATION -- SCHOOL FUNDS AND PROPERTY
+Introduced By: Representatives Cortvriend, Boylan, Dawson, Bennett, McGaw, Carson,
+Handy, Finkelman, McNamara, and Spears
+Date Introduced: January 24, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-9 of the General Laws entitled "School Funds and Property" is
+2 hereby amended by adding thereto the following section:
+3 16-9-11. New school construction and renovations.
+4 Not later than June 30, 2026, the department of education and the office of energy resources
+5 are hereby authorized and directed to develop and adopt regulations requiring all school buildings
+6 to meet the latest Northeast Collaborative for High Performance Schools (NE-CHPS) standard of
+7 zero energy capable, as required by 200-RICR-20-05-04.5.1B, and defined in § 16-7-36, by
+8 December 31, 2037.
+9 (1) The regulations shall allow flexibility to the furthest extent possible for local education
+10 agencies to pursue state and federal funding sources that assist in financing energy efficiency or
+11 renewable energy systems without any penalties or reduction in state housing aid provided by the
+12 department of education.
+13 (2) Furthermore, for local education agencies that pursue federal funding for renewable
+14 energy systems, the department’s regulations shall direct and provide further guidance to local
+15 education agencies to build, own, and operate solar panels utilizing federal guidance established in
+16 the Internal Revenue Code, 26 U.S.C. § 6417.
+17 SECTION 2. Sections 16-7-36, 16-7-39, 16-7-40 and 16-7-41.1 of the General Laws in
+18 Chapter 16-7 entitled "Foundation Level School Support [See Title 16 Chapter 97 — The Rhode
+19 Island Board of Education Act]" are hereby amended to read as follows:
+
+1 16-7-36. Definitions.
+2 The following words and phrases used in §§ 16-7-35 to 16-7-47 and in § 16-9-11 have the
+3 following meanings:
+4 (1) “Adjusted equalized weighted assessed valuation” means the equalized weighted
+5 assessed valuation for a community as determined by the division of property valuation within the
+6 department of revenue in accordance with § 16-7-21; provided, however, that in the case of a
+7 regional school district the commissioner of elementary and secondary education shall apportion
+8 the adjusted equalized weighted assessed valuation of the member cities or towns among the
+9 regional school district and the member cities or towns according to the proportion that the number
+10 of pupils of the regional school district bears to the number of pupils of the member cities or towns.
+11 (2) “Approved project” means a project which has complied with the administrative
+12 regulations governing §§ 16-7-35 through 16-7-47, and which has been authorized to receive state
+13 school housing reimbursement by the commissioner of elementary and secondary education.
+14 (3) “Commissioning agent” means a person or entity who ensures that systems are
+15 designed, installed, functionally tested, and capable of being operated and maintained to perform
+16 in conformity with the design intent of a project.
+17 (4) “Community” means any city, town, or regional school district established pursuant to
+18 law; provided, however, that the member towns of the Chariho regional high school district, created
+19 by P.L. 1958, ch. 55, as amended, shall constitute separate and individual communities for the
+20 purposes of distributing the foundation level school support for school housing for all grades
+21 financed in whole or in part by the towns irrespective of any regionalization.
+22 (5) “Facilities condition index” means the cost to fully repair the building divided by the
+23 cost to replace the building as determined by the school building authority.
+24 (6) “Functional utilization” means the ratio of the student population within a school
+25 facility to the capacity of the school facility to adequately serve students as defined by the school
+26 building authority.
+27 (7) “Maintenance expenditures” means amounts spent for repairs or replacements for the
+28 purpose of keeping a school facility open and safe for use, including repairs, maintenance, and
+29 replacements to a school facility’s heating, lighting, ventilation, security, and other fixtures to keep
+30 the facility or fixtures in effective working condition. Maintenance shall not include contracted or
+31 direct custodial or janitorial services, expenditures for the cleaning of a school facility or its
+32 fixtures, the care and upkeep of grounds, recreational facilities, or parking lots, or the cleaning of
+33 or repairs and replacements to movable furnishings or equipment.
+34 (8) “Owner’s program manager” means owner’s program manager as defined in § 37-2-7.
+LC000220 - Page 2 of 12
+
+1 (9) “Prime contractor” means the construction contractor who is responsible for the
+2 completion of a project.
+3 (10) “Reference year” means the year next prior to the school year immediately preceding
+4 that in which aid is to be paid.
+5 (11) “Subject to inflation” means the base amount multiplied by the percentage of increase
+6 in the Producer Price Index (PPI) Data for Nonresidential Building Construction (NAICS 236222)
+7 as published by the United States Department of Labor, Bureau of Labor Statistics determined as
+8 of September 30 of the prior calendar year.
+9 (12) "Zero energy capable" means the building:
+10 (i) Meets the latest Northeast Collaborative for High Performance Schools (NE-CHPS)
+11 standard of a zero energy capable school building whereby the actual annual energy delivered other
+12 than as described in subsection (12)(ii) of this section, must be less than or equal to the renewable
+13 energy generated onsite; or
+14 (ii) The actual annual energy delivered must be less than or equal to the sum of:
+15 (A) The renewable energy generated onsite;
+16 (B) The renewable energy generated offsite through a power purchase agreement; and
+17 (C) The value of purchased NE-GIS certificates that meet the standard for a new renewable
+18 energy resources as defined in § 39-26-2.
+19 16-7-39. Computation of school housing-aid ratio.
+20 For each community, the percent of state aid for school housing costs shall be computed in
+21 the following manner:
+22 (1) The adjusted equalized weighted assessed valuation for the district is divided by the
+23 resident average daily membership for the district (grades twelve (12) and below); (2) The adjusted
+24 equalized weighted assessed valuation for the state is divided by the resident average daily
+25 membership for the state (grades twelve (12) and below); (1) is then divided by (2) and the resultant
+26 ratio is multiplied by a factor currently set at sixty-two percent (62%) which represents the
+27 approximate average district share of school support; the resulting product is then subtracted from
+28 one hundred percent (100%) to yield the housing aid share ratio, provided that in no case shall the
+29 ratio be less than thirty percent (30%). Provided, that effective July 1, 2010, and annually at the
+30 start of each fiscal year thereafter, the thirty percent (30%) floor on said housing-aid share shall be
+31 increased by five percent (5%) increments each year until said floor on the housing-aid share ratio
+32 reaches a minimum of not less than forty percent (40%). This provision shall apply only to school
+33 housing projects completed after June 30, 2010, that received approval from the board of regents
+34 prior to June 30, 2012. Provided further, for the fiscal year beginning July 1, 2012, and for
+LC000220 - Page 3 of 12
+
+1 subsequent fiscal years, the minimum housing aid share shall be thirty-five percent (35%) for all
+2 projects receiving council on elementary and secondary education approval after June 30, 2012.
+3 The resident average daily membership shall be determined in accordance with § 16-7-22(1).
+4 (2) No district shall receive a combined total of more than twenty (20) incentive percentage
+5 points for projects that commence construction by June 30, 2024, and five (5) incentive points for
+6 projects that commence construction thereafter; provided further, these caps shall be in addition to
+7 amounts received under §§ 16-7-40(a)(1) and, 16-7-40(a)(2), 16-7-40(j)(1) and 16-7-40(j)(2)..
+8 Furthermore, a district’s share shall not be decreased by more than half of its regular share
+9 irrespective of the number of incentive points received nor shall a district’s state share increase by
+10 more than half of its regular share, including amounts received under §§ 16-7-40(a)(1) and 16-7-
+11 40(a)(2), irrespective of the number of incentive points received. Provided further that the
+12 aforementioned limit on the state share increasing by more than half of its regular share shall not
+13 apply to projects submitted for reimbursement after July 1, 2023.
+14 16-7-40. Increased school housing ratio.
+15 (a)(1) In the case of regional school districts, the school housing aid ratio shall be increased
+16 by two percent (2%) for each grade so consolidated.
+17 (2) Regional school districts undertaking renovation project(s) shall receive an increased
+18 share ratio of four percent (4%) for those specific project(s) only, in addition to the combined share
+19 ratio calculated in § 16-7-39 and this subsection.
+20 (b) In the case of projects undertaken by districts specifically for the purposes of school
+21 safety and security, the school housing aid share ratio shall be increased by five percent (5%) for
+22 these specific projects only, in the calculation of school housing aid. The increased share ratio shall
+23 continue to be applied for as long as the project(s) receives state housing aid. In order to qualify for
+24 the increased share ratio, seventy-five percent (75%) of the project costs must be specifically
+25 directed to school safety and security measures. The council on elementary and secondary
+26 education shall promulgate rules and regulations for the administration and operation of this
+27 section.
+28 (c) For purposes of addressing health and safety deficiencies as defined by the school
+29 building authority, including the remediation of hazardous materials, the school housing aid ratio
+30 shall be increased by five percent (5%) so long as the construction of the project commences by
+31 June 30, 2024, is completed by June 30, 2029, and a two hundred fifty million dollar ($250,000,000)
+32 general obligation bond is approved on the November 2018 ballot. In order to qualify for the
+33 increased share ratio, twenty-five percent (25%) of the project costs or a minimum of five hundred
+34 thousand dollars ($500,000) must be specifically directed to this purpose.
+LC000220 - Page 4 of 12
+
+1 (d) For purposes of educational enhancement, including projects devoted to the
+2 enhancement of early childhood education and career and technical education, the school housing
+3 aid ratio shall be increased by five percent (5%) so long as construction of the project commences
+4 by June 30, 2024, is completed by June 30, 2029, and a two hundred fifty million dollar
+5 ($250,000,000) general obligation bond is approved on the November 2018 ballot. In order to
+6 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+7 of five hundred thousand dollars ($500,000) must be specifically directed to these purposes.
+8 (e) For replacement of a facility that has a facilities condition index of sixty-five percent
+9 (65%) or higher, the school housing ratio shall be increased by five percent (5%) so long as
+10 construction of the project commences by June 30, 2024, is completed by June 30, 2029, does not
+11 receive a bonus pursuant to subsection (f) or subsection (g), and a two hundred fifty million dollar
+12 ($250,000,000) general obligation bond is approved on the November 2018 ballot. In order to
+13 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+14 of five hundred thousand dollars ($500,000) must be specifically directed to this purpose.
+15 (f) For any new construction or renovation that increases the functional utilization of any
+16 facility from less than sixty percent (60%) to more than eighty percent (80%), including the
+17 consolidation of school buildings within or across districts, the school housing aid ratio shall be
+18 increased by five percent (5%) so long as construction of the project commences by June 30, 2024,
+19 is completed by June 30, 2029, and a two hundred fifty million dollar ($250,000,000) general
+20 obligation bond is approved on the November 2018 ballot. In order to qualify for the increased
+21 share ratio, twenty-five percent (25%) of the project costs or a minimum of five hundred thousand
+22 dollars ($500,000) must be specifically directed to this purpose.
+23 (g) For any new construction or renovation that decreases the functional utilization of any
+24 facility from more than one hundred twenty percent (120%) to between eighty-five percent (85%)
+25 to one hundred five percent (105%), the school housing ratio shall be increased by five percent
+26 (5%) so long as construction of the project commences by June 30, 2024, is completed by June 30,
+27 2029, and a two hundred fifty million dollar ($250,000,000) general obligation bond is approved
+28 on the November 2018 ballot. In order to qualify for the increased share ratio, twenty-five percent
+29 (25%) of the project costs or a minimum of five hundred thousand dollars ($500,000) must be
+30 specifically directed to this purpose.
+31 (h) For consolidation of two (2) or more school buildings, within or across districts into
+32 one school building, the school housing aid ratio shall be increased by five percent (5%) so long as
+33 construction of the project commences by June 30, 2024, is completed by June 30, 2029, a two
+34 hundred fifty million dollar ($250,000,000) general obligation bond is approved on the November
+LC000220 - Page 5 of 12
+
+1 2018 ballot, and does not receive a bonus pursuant to subsection (f) or subsection (g). In order to
+2 qualify for the increased share ratio, twenty-five percent (25%) of the project costs or a minimum
+3 of five hundred thousand dollars ($500,000) must be specifically directed to this purpose.
+4 (i) Any regionalized and/or non-regionalized school district receiving an increased share
+5 ratio for a project approved prior to July 1, 2018, shall continue to receive the increased share ratio
+6 for as long as the project receives state housing aid.
+7 (j)(1) In the case of projects undertaken by districts specifically for the purposes of high-
+8 performance school design, the school housing aid share ratio shall be increased by five percent
+9 (5%) for these specific projects only, in the calculation of school housing aid. The increased share
+10 ratio shall continue to be applied for as long as the project(s) receives state housing aid. In order to
+11 qualify for the increased share ratio, seventy-five percent (75%) of the project costs shall be
+12 specifically directed to this purpose. The council on elementary and secondary education shall
+13 promulgate rules and regulations for the administration and operation of this section.
+14 (2) For any new construction or renovation that includes energy efficiency and renewable
+15 energy upgrades for the building to meet the standard of zero energy capable school building
+16 pursuant to § 16-7-36(12), the school housing aid ratio shall be increased by ten percent (10%).
+17 16-7-41.1. Eligibility for reimbursement.
+18 (a) School districts, not municipalities, may apply for and obtain approval for a project
+19 under the necessity of school construction process set forth in the regulations of the council on
+20 elementary and secondary education, provided, however, in the case of a municipality that issues
+21 bonds through the Rhode Island health and educational building corporation to finance or refinance
+22 school facilities for a school district that is not part of the municipality, the municipality may apply
+23 for and obtain approval for a project. Such approval will remain valid until June 30 of the third
+24 fiscal year following the fiscal year in which the council on elementary and secondary education’s
+25 approval is granted. Only those projects undertaken at school facilities under the care and control
+26 of the school committee and located on school property may qualify for reimbursement under §§
+27 16-7-35 — 16-7-47. Facilities with combined school and municipal uses or facilities that are
+28 operated jointly with any other profit or nonprofit agency do not qualify for reimbursement under
+29 §§ 16-7-35 — 16-7-47. Projects completed by June 30 of a fiscal year are eligible for
+30 reimbursement in the following fiscal year. A project for new school housing or additional housing
+31 shall be deemed to be completed when the work has been officially accepted by the school
+32 committee or when the housing is occupied for its intended use by the school committee, whichever
+33 is earlier.
+34 (b) Notwithstanding the provisions of this section, the board of regents shall not grant final
+LC000220 - Page 6 of 12
+
+1 approval for any project between June 30, 2011, and May 1, 2015, except for projects that are
+2 necessitated by immediate health and safety reasons. In the event that a project is requested during
+3 the moratorium because of immediate health and safety reasons, those proposals shall be reported
+4 to the chairs of the house and senate finance committees.
+5 (c) Any project approval granted prior to the adoption of the school construction
+6 regulations in 2007, and which are currently inactive; and any project approval granted prior to the
+7 adoption of the school construction regulations in 2007 which did not receive voter approval or
+8 which has not been previously financed, are no longer eligible for reimbursement under this
+9 chapter. The department of elementary and secondary education shall develop recommendations
+10 for further cost containment strategies in the school housing aid program.
+11 (d) Beginning July 1, 2015, the council on elementary and secondary education shall
+12 approve new necessity of school construction applications on an annual basis. The department of
+13 elementary and secondary education shall develop an annual application timeline for local
+14 education agencies seeking new necessity of school construction approvals.
+15 (e) Beginning July 1, 2019, no state funding shall be provided for projects in excess of ten
+16 million dollars ($10,000,000) unless the prime contractor for the project has received
+17 prequalification from the school building authority.
+18 (f) Beginning July 1, 2019, the necessity of school construction process set forth in the
+19 regulations of the council on elementary and secondary education shall include a single statewide
+20 process, developed with the consultation of the department of environmental management, that will
+21 ensure community involvement throughout the investigation and remediation of contaminated
+22 building sites for possible reuse as the location of a school. That process will fulfill all provisions
+23 of § 23-19.14-5 related to the investigation of reuse of such sites for schools.
+24 (g) Beginning July 1, 2019, school housing projects exceeding one million five hundred
+25 thousand dollars ($1,500,000) subject to inflation shall include an owner’s program manager and a
+26 commissioning agent. The cost of the program manager and commissioning agent shall be
+27 considered a project cost eligible for aid pursuant to §§ 16-7-41 and 16-105-5.
+28 (h) Temporary housing, or swing space, for students shall be a reimbursable expense so
+29 long as a district can demonstrate that no other viable option to temporarily house students exists
+30 and provided that use of the temporary space is time limited for a period not to exceed twenty-four
+31 (24) months and tied to a specific construction project.
+32 (i) Environmental site remediation, as defined by the school building authority, shall be a
+33 reimbursable expense up to one million dollars ($1,000,000) per project.
+34 (j) If, within thirty (30) years of construction, a newly constructed school is sold to a private
+LC000220 - Page 7 of 12
+
+1 entity, the state shall receive a portion of the sale proceeds equal to that project’s housing aid
+2 reimbursement rate at the time of project completion.
+3 (k) All projects must comply with § 37-13-6, ensuring that prevailing wage laws are being
+4 followed, and § 37-14.1-6, ensuring that minority business enterprises reach the required minimum
+5 participation, and § 37-13-3.1, ensuring apprenticeship program utilization.
+6 (l) Using reviewable criteria, all projects seeking school housing aid shall complete an
+7 independent, objective, reasoned study on all projects over ten million dollars ($10,000,000) to
+8 determine whether adoption of a project labor agreement on the proposed project or projects will
+9 help achieve the goals of the state purchases act.
+10 SECTION 3. Section 16-105-3 of the General Laws in Chapter 16-105 entitled "School
+11 Building Authority" is hereby amended to read as follows:
+12 16-105-3. Roles and responsibilities.
+13 The school building authority roles and responsibilities shall include:
+14 (1) Management of a system with the goal of ensuring equitable and adequate school
+15 housing for all public school children in the state;
+16 (2) Prevention of the cost of school housing from interfering with the effective operation
+17 of the schools;
+18 (3) Management of school housing aid in accordance with statute;
+19 (4) Reviewing and making recommendations to the council on elementary and secondary
+20 education on necessity of school construction applications for state school housing aid and the
+21 school building authority capital fund, based on the recommendations of the school building
+22 authority advisory board;
+23 (5) Promulgating, managing, and maintaining school construction regulations, standards,
+24 and guidelines applicable to the school housing program, based on the recommendations of the
+25 school building authority advisory board, created in § 16-105-8. Said regulations shall require
+26 conformance with the minority business enterprise requirements set forth in § 37-14.1-6 and with
+27 the latest Northeast Collaborative for High Performance Schools (NE-CHPS) standards or
+28 equivalent, contingent on approval from the council on elementary and secondary education;
+29 (6) Developing a prequalification and review process for prime contractors, architects, and
+30 engineers seeking to bid on projects in excess of ten million dollars ($10,000,000) in total costs
+31 subject to inflation. Notwithstanding any general laws to the contrary, a prequalification shall be
+32 valid for a maximum of two (2) years from the date of issuance. Factors to be considered by the
+33 school building authority in granting a prequalification to prime contractors shall include, but not
+34 be limited to, the contractor’s history of completing complex projects on time and on budget, track
+LC000220 - Page 8 of 12
+
+1 record of compliance with applicable environmental and safety regulations, evidence that
+2 completed prior projects prioritized the facility’s future maintainability, and compliance with
+3 applicable requirements for the use of women and minority owned subcontractors;
+4 (i) At least annually, a list of prequalified contractors, architects, and engineers shall be
+5 publicly posted with all other program information;
+6 (7) Providing technical assistance and guidance to school districts on the necessity of
+7 school construction application process;
+8 (8) Providing technical advice and assistance, training, and education to cities, towns,
+9 and/or local education agencies and to general contractors, subcontractors, construction or project
+10 managers, designers and others in planning, maintenance, and establishment of school facility
+11 space;
+12 (9) Developing a project priority system, based on the recommendations of the school
+13 building authority advisory board, in accordance with school construction regulations for the school
+14 building authority capital fund, subject to review and, if necessary, to be revised on intervals not to
+15 exceed five (5) years. Project priorities shall include, but not be limited to, the following order of
+16 priorities:
+17 (i) Projects to replace or renovate a building that is structurally unsound or otherwise in a
+18 condition seriously jeopardizing the health and safety of school children where no alternative exists;
+19 (ii) Projects needed to prevent loss of accreditation;
+20 (iii) Projects needed for the replacement, renovation, or modernization of the HVAC
+21 system in any schoolhouse to increase energy conservation and decrease energy-related costs in
+22 said schoolhouse;
+23 (iv) Projects needed to replace or add to obsolete buildings in order to provide for a full
+24 range of programs consistent with state and approved local requirements; and
+25 (v) Projects needed to comply with mandatory, instructional programs;
+26 (10) Maintaining a current list of requested school projects and the priority given them;
+27 (11) Collecting and maintaining readily available data on all the public school facilities in
+28 the state;
+29 (12) Collecting, maintaining, and making publicly available quarterly progress reports of
+30 all ongoing school construction projects that shall include, at a minimum, the costs of the project
+31 and the time schedule of the project;
+32 (13) Recommending policies and procedures designed to reduce borrowing for school
+33 construction programs at both state and local levels;
+34 (14) At least every five (5) years, conducting a needs survey to ascertain the capital
+LC000220 - Page 9 of 12
+
+1 construction, reconstruction, maintenance, and other capital needs for schools in each district of the
+2 state, including public charter schools. Beginning in 2025, this needs survey shall include progress
+3 towards and recommendations for energy efficiency and renewable energy upgrades to bring all
+4 state school buildings to the definition of a zero energy capable school building pursuant to § 16-
+5 7-36;
+6 (15) Developing a formal enrollment projection model or using projection models already
+7 available;
+8 (16) Encouraging local education agencies to investigate opportunities for the maximum
+9 utilization of space in and around the district;
+10 (17) Collecting and maintaining a clearinghouse of prototypical school plans that may be
+11 consulted by eligible applicants;
+12 (18) Retaining the services of consultants, as necessary, to effectuate the roles and
+13 responsibilities listed within this section;
+14 (19) Hiring an appropriate staff member who shall create and implement a plan to bring all
+15 Rhode Island school buildings in compliance with the standard of a zero energy capable school
+16 building pursuant to § 16-7-36 and who shall provide technical advice and assistance, training, and
+17 education to cities, towns, and/or local education agencies, and to general contractors,
+18 subcontractors, construction or project managers, designers and others on the latest NE-CHPS
+19 standards; and
+20 (19)(20) No district shall receive a combined total of more than twenty (20) incentive
+21 percentage points for projects that commence construction by December 30, 2023, and five (5)
+22 incentive points for projects that commence construction thereafter; provided further, these caps
+23 shall be in addition to amounts received under §§ 16-7-40(a)(1), and 16-7-40(a)(2), 16-7-40(j)(1),
+24 and 16-7-40(j)(2). Furthermore, a district’s share shall not be decreased by more than half of its
+25 regular share irrespective of the number of incentive points received, nor shall a district’s state
+26 share increase by more than half of its regular share, including amounts received under §§ 16-7-
+27 40(a)(1) and 16-7-40(a)(2), irrespective of the number of incentive points received.
+28 Notwithstanding any provision of the general laws to the contrary, the reimbursement or aid
+29 received under this chapter or chapter 38.2 of title 45 shall not exceed one hundred percent (100%)
+30 of the sum of the total project costs plus interest costs. If a two hundred and fifty million dollar
+31 ($250,000,000) general obligation bond is approved on the November 2018 ballot, projects
+32 approved between May 1, 2015, and January 1, 2018, are eligible to receive incentive points (above
+33 and beyond what the project was awarded at the time of approval) pursuant to § 16-7-39 and § 16-
+34 7-40. Provided, however, any project approved during this time period with a project cost in excess
+LC000220 - Page 10 of 12
+
+1 of one million five hundred thousand dollars ($1,500,000), which does not include an owner’s
+2 program manager and a commissioning agent, shall only be eligible to receive five (5) incentive
+3 points. Incentive points awarded pursuant to the provisions of this subsection shall only be applied
+4 to reimbursements occurring on or after July 1, 2018. Any project approved between May 1, 2015,
+5 and January 1, 2018, that is withdrawn and/or resubmitted for approval shall not be eligible for any
+6 incentive points.
+7 SECTION 4. This act shall take effect upon passage.
+========
+LC000220
+========
+LC000220 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- SCHOOL FUNDS AND PROPERTY
+***
+1 This act would provide that not later than June 30, 2025, the department of education would
+2 develop and adopt, in consultation with the office of energy resources, regulations requiring all
+3 school buildings to meet the standard of zero energy capable, as defined in § 16-7-36, by December
+4 31, 2037.
+5 This act would take effect upon passage.
+========
+LC000220
+========
+LC000220 - Page 12 of 12
+
+[DELETED: TATE  OF  RHODE  ISLAND S h 1 N a t z e c a r b 2 a d i § 1 b D ( a r d ( e e t S C I]
+[DELETED:  1 T f ( “ e w a v m t e w a d r t r o ( “ p m a p w h c w t a r s ( “ a m a p o e w e t s a d i ( l b p f ( c ( “ u m r o s p w a s f b ( p r t d o s e f t c o s f o f o (]
+[DELETED:  ( “ c m t c c w i r f t c ( t ( i a o ( ( s t e ( ( ( ( e 1 F t ( r e w a v f t s i d b t r a d m r i m b a f c s a s p ( w r t a o r s i r h p t J 3 2 P f f t f y b J 1 2 a f]
+[DELETED:  s p T ( p p a r u § 1 a 1 1 a 1 F a d s s n b d b m t h o i r s i m 4 i o t n o i p r P f t t a a 1 ( b ( s r ( s t c t d t s s a s m T c o e a s e s p r a r f t a a o o t s ( b s J g i t]
+[DELETED:  ( F p o e e i p d t t e a b J 3 2 i c b J 3 2 a a t h f m d ( q o ( ( c r ( q o ( f f l t s p ( m t e p ( i t c i i o s d ( f t ( 2 o ( s ( o c h]
+[DELETED:  2 q o ( r f ( p ( r q f i r p o t p c s b s p ( e p 1 ( u e b s f f a o 1 o § 1 — 1 P c b J 3 o a f y a e f r s b d t b c w t w h b o a b t s c i (]
+[DELETED:  a n t t ( A p a g p t t a o t s c r a w h n b p f a n l e f r u t c f ( a e a s e s d a a a t f l e ( m d ( u t p c f t p h r p ( r p e c i t o c b o ( t c a T c o t p m a c a s b c ( l a ( ( r (]
+[DELETED:  e r ( f p ( i d h S B 1 T ( h ( o ( ( e s b a c f b o t r o t s b a ( a s c t l N C f H P S ( s o e ( e s v s b]
+[DELETED:  r o c w a e a s r e t c p p p t f f m a c w a ( p ( o s ( a m s ( b b e p ( c ( ( P n f t r r o m o t H s s ( r ( ( ( t ( a a ( c ( A e f ( y c a n s t a c]
+[DELETED:  c s t s 7 ( a ( u ( c ( R t s o c a n t e t r a r ( R b e t c t a l e a a t g c s s ( p i s a r s 4 a 1 i o t n o i p r N a p o t g l t c t o a r o ( g o b i a o t N 2 b p a a 7]
+[DELETED:  o p p t a i S]
+[DELETED:  T d s 3 T]

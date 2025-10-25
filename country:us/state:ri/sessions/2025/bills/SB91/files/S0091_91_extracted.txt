@@ -1,0 +1,1096 @@
+Title: RELATING TO HEALTH AND SAFETY -- BUILDING DECARBONIZATION ACT OF 2024
+Official Title: RELATING TO HEALTH AND SAFETY -- BUILDING DECARBONIZATION ACT OF 2024
+Number of Sections: 1
+Source: versions - 91
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0091
+========
+LC000179
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Kallman, Sosnowski, DiMario, Euer, Lawson, Britto, Gu, Gallo,
+McKenney, and Valverde
+Date Introduced: January 31, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings and purpose.
+2 The purpose of this chapter is to understand and reduce the greenhouse gas emissions of
+3 buildings in Rhode Island, consistent with an Act on Climate, chapter 6.2-9 of title 42. Of the
+4 building stock in 2050, approximately seventy percent (70%) has already been built, and addressing
+5 these existing buildings is critical to achieving net-zero emissions by 2050. While significant
+6 retrofits to existing buildings will eventually be needed, this chapter establishes a program for the
+7 energy benchmarking of large buildings in Rhode Island and a standard for their energy
+8 performance and requires that the construction or alteration of new buildings be electric-ready.
+9 Further, the intent of the legislature is to ensure that the Executive Climate Change Coordinating
+10 Council (EC4) has dedicated resources sufficient to administer its responsibilities under this chapter
+11 to enable swift and steady progress towards Rhode Island's net-zero mandate.
+12 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+13 amended by adding thereto the following chapter:
+14 CHAPTER 27.5
+15 BUILDING DECARBONIZATION ACT OF 2025
+16 23-27.5-1. Definitions.
+17 As used in this chapter:
+18 (1) "Anonymized and aggregated usage data" means, for a specified time period, an
+19 aggregation of utility usage data for a covered property whereby data from tenant meters and from
+1 owner meters are combined into one collective data point for each utility type, and where any
+2 unique identifiers or other personal information related to tenants are removed. Data for a covered
+3 property may be anonymized and aggregated where there are three (3) or more unique non-
+4 residential accounts or five (5) or more unique residential accounts.
+5 (2) "BPS fund" means the building performance standard fund established in § 23-27.5-
+6 7(g).
+7 (3) "Building improvement tool" means an online tool to help building owners and
+8 operators improve building energy and water efficiency and reduce greenhouse gas emissions
+9 through identifying, tracking, and verifying improvements and their performance, including the
+10 capability to integrate with ENERGY STAR Portfolio Manager.
+11 (4) "Building performance standard" means an objectively verifiable numeric value of a
+12 defined building performance metric that covered properties are required to achieve by specified
+13 dates.
+14 (5) "Commercial building" means a building or multiple buildings on a property of which
+15 not less than fifty percent (50%) of the gross floor area, including hallways or other common space,
+16 but excluding parking, is used for commercial, retail, office, professional, educational or other
+17 nonresidential purposes, or any grouping of commercial buildings designated by the EC4 as an
+18 appropriate reporting unit for the purposes of this section; provided however, that "commercial
+19 building" shall not include a public facility or a building owned or leased by the federal government,
+20 and shall not include a facility in which the majority of energy is consumed for manufacturing, for
+21 the generation of electric power or district thermal energy to be consumed off site, for
+22 communications infrastructure, or for other process loads as determined by the EC4.
+23 (6) "Community impacted by poverty and environmental injustice" means census tracts
+24 that are highlighted as overburdened and underserved in the geospatial Climate and Economic
+25 Justice Screening Tool (CEJST).
+26 (7) "Condominium" means a property that combines separate ownership of individual
+27 units with common ownership of other elements such as common areas.
+28 (8) "Covered property" means any of the following with at least twenty-five thousand
+29 square feet (25,000 sq. ft.) of gross floor area:
+30 (i) A single building;
+31 (ii) One or more buildings held in the condominium form of ownership, and governed by
+32 a single board of managers; or
+33 (iii) Two (2) or more buildings that are served by the same electric or gas meter or are
+34 served by the same heating or cooling system(s), which is not a district energy system. Provided
+LC000179 - Page 2 of 16
+1 that buildings, spaces, or groups of buildings and spaces, that are sub-metered or otherwise subject
+2 to easy determination of the resource consumption attributable to each individual building, space,
+3 or group of buildings or spaces, shall be treated as separate "covered properties" as determined by
+4 the EC4.
+5 (9) "District energy system" means a system serving multiple covered properties and
+6 consisting of non-combusting thermal energy generation, transfer, and distribution equipment
+7 providing thermal energy in the form of heat and/or heat rejection.
+8 (10) "Executive Climate Change Coordinating Council" or "Council" or "EC4" means the
+9 council established by § 42-6.2-1.
+10 (11) "Gross floor area" means the total area of a covered property, measured between the
+11 outside surface of the exterior walls of the covered property building(s). The EC4 shall promulgate
+12 rules and procedures governing the calculation of gross floor area, including areas that shall be
+13 excluded from the calculation.
+14 (12) "Owner" means any of the following:
+15 (i) An individual or entity possessing title to a covered property;
+16 (ii) The board of the owners' association, in the case of a condominium;
+17 (iii) The master association, in the case of a condominium, where the powers of an owners'
+18 association are exercised by or delegated to a master association;
+19 (iv) The board of directors, in the case of a cooperative apartment corporation; or
+20 (v) An agent authorized to act on behalf of any of the above.
+21 (13) "Performance metrics" means each of the objectively verifiable numeric measures of
+22 building performance as established by § 23-27.5-4(d).
+23 (14) "Property type(s)" means a category of covered properties subject to the same interim
+24 and final building performance standards, as defined by the EC4. Covered properties within each
+25 property type shall have shared characteristics that facilitate the implementation and enforcement
+26 of this law. The EC4 may define one or more property types to be identical to ENERGY STAR
+27 property types.
+28 (15) "Public facility" means any public institution, public facility, or any physical asset
+29 owned, including its public real-property site, leased or controlled in whole or in part by this state,
+30 a public agency, a municipality or a political subdivision, that is for public or government use and
+31 that consumes energy.
+32 (16) "Residential building" means a building or multiple buildings on a property of which
+33 not less than fifty percent (50%) of the gross floor area, including hallways and other common
+34 space serving residents, but excluding parking, is used for dwelling purposes, or any grouping of
+LC000179 - Page 3 of 16
+1 residential buildings designated by the EC4 as an appropriate reporting unit for the purposes of this
+2 chapter; provided, however, that "residential building" shall not include a public facility or a
+3 building owned or leased by the federal government.
+4 (17) "Tenant" means any tenant, tenant-stockholder of a cooperative apartment
+5 corporation, or condominium unit owner.
+6 (18) "Utility" means a company, cooperative, association, or government entity that
+7 distributes and sells electricity, natural gas, or district energy for use in buildings.
+8 23-27.5-2. Authority.
+9 The EC4 is hereby granted authority to administer this chapter, which shall include the
+10 authority to issue forms and guidance, promulgate rules and regulations, apply for and receive
+11 federal funds, assess and receive fees, and contract with third parties to effectuate the powers
+12 granted herein.
+13 23-27.5-3. Advisory Boards.
+14 (a) For purposes of this chapter, the green building advisory committee (GBAC)
+15 established by § 37-24-5(g) shall act as an advisory board to the EC4 concerning the
+16 implementation of this chapter including, but not limited to, the establishment of the benchmarking
+17 requirements, technical assistance, owner needs, outreach and education, opportunities for funding
+18 related to the chapter, the implementation of state policies, programs, and statutes related to the
+19 chapter and recommendations for building performance standards.
+20 (b) No later than one hundred and twenty (120) days following the enactment of this
+21 chapter the EC4 shall establish the environmental justice advisory board (EJAB) to advise the EC4
+22 on climate change efforts with respect to potential impacts on, benefits to, and special
+23 considerations for individuals and communities impacted by poverty and environmental injustice.
+24 (1) The EJAB shall be comprised of no fewer than nine (9) and no more than fifteen (15)
+25 individuals who are representatives of communities impacted by poverty and environmental
+26 injustice, representatives of nonprofit and public agencies who work with such individuals or
+27 communities, including providers of affordable housing, small business owners or organizations,
+28 and experts in areas related to racial and social equity, as well as one representative from the Rhode
+29 Island AFL-CIO. The EC4 shall select individuals in consultation with the EC4 advisory board, to
+30 serve on the EJAB following an opportunity for the public to apply in consultation with the EC4
+31 advisory board.
+32 (2) All appointments to the EJAB shall be for a term of three (3) years. Members whose
+33 appointed terms have expired shall be permitted to continue to serve for up to one year until
+34 reappointed or replaced by a new appointee.
+LC000179 - Page 4 of 16
+1 (3) The EC4 shall fairly compensate EJAB members and provide stipends to cover the cost
+2 of childcare and information technology needs as determined by the EJAB and EC4.
+3 (4) The EJAB shall advise the EC4 on the implementation of this chapter with respect to
+4 potential impacts on, benefits to, and special considerations for individuals and communities
+5 impacted by poverty and environmental injustice, and small business owners from such
+6 communities.
+7 (5) The EJAB may develop a plan to allocate funds available in the BPS fund, established
+8 under § 23-27.5-7(g), to improve the performance of covered buildings and ensure that those
+9 investments benefit such communities.
+10 (6) The EJAB may host, in partnership with the GBAC and the EC4, public meetings to
+11 gather input regarding the benchmarking program as well as the design and implementation of the
+12 building performance standards and complementary programs. Equitable engagement shall be a
+13 priority.
+14 23-27.5-4. Building Benchmarking.
+15 (a) There is hereby established an energy use benchmarking program to collect and analyze
+16 such information in support of the statewide greenhouse gas emission reduction mandate provided
+17 in chapter 6.2 of title 42 ("act on climate").
+18 (b) The program shall be conducted to determine whether each building subject to the
+19 program utilizes more or less energy, and emits more or less greenhouse gases, than buildings of
+20 comparable size, occupancies and uses, and to inform a statewide analysis of energy use trends and
+21 opportunities to increase energy efficiency and reduce greenhouse gas emissions.
+22 (c) Information to be collected in the benchmarking program and generally referred to as
+23 "energy use information" shall include at a minimum:
+24 (1) The name, mailing address, email, and telephone number of the owner, and the operator
+25 if different from the owner;
+26 (2) The address of the building and the municipality in which the building is located;
+27 (3) The primary use, any additional uses, and gross floor area of the building;
+28 (4) The building's total energy use in kBTU and total greenhouse gas emissions in pounds
+29 of carbon dioxide equivalent;
+30 (5) The breakdown of the building's energy use by electricity, gas, and other sources, and
+31 any electricity generated by on-site renewable sources; and
+32 (6) An energy performance rating or assessment score.
+33 (d) The EC4 shall issue forms, guidance, or regulations as needed, to implement this section
+34 including provisions related to compliance. The EC4 shall issue provisional guidance for public
+LC000179 - Page 5 of 16
+1 facilities greater than twenty-five thousand square feet (25,000 sq. ft.) by July 1, 2027. The EC4
+2 shall propose forms, guidance, or regulations as needed, for all covered properties by April 1, 2028,
+3 and shall make all efforts to issue final forms, guidance, or regulations as needed, for all covered
+4 properties by July 1, 2026.
+5 (1) The EC4 may designate one or more alternative energy use benchmarking tools.
+6 (2) The EC4 shall define one or more energy performance ratings or scores to aid building
+7 owners, operators, the general public, and the EC4 in understanding the energy of greenhouse gas
+8 emissions performance of the building relative to similar buildings.
+9 (3) The EC4 shall identify the required information which shall include at a minimum, the
+10 energy use information listed in subsection (c) of this section, and at least one of the energy
+11 performance ratings or scores defined by the EC4, as well as necessary administrative information
+12 such as the owner and operator of the building, contact information, and similar items.
+13 (4) The EC4 shall promulgate regulations and procedures governing the calculation of
+14 gross floor area, including areas that shall be excluded from the calculation.
+15 (5) The EC4 shall promulgate regulations and procedures for the submission of required
+16 information and may provide multiple alternatives for the form of submission, such as a paper form
+17 and submission electronically via an online portal, and shall endeavor to streamline the submission
+18 processes as appropriate.
+19 (6) The EC4 shall promulgate regulations and procedures on data verification options for
+20 required information.
+21 (7) The EC4 may consider modeling property types, use details and other definitions
+22 provided in the ENERGY STAR Portfolio Manager glossary.
+23 (e) The EC4 shall provide technical support and guidance to owners and operators of
+24 buildings subject to this section.
+25 (1) The EC4 shall identify one or more building improvement tools as voluntary
+26 complementary software or platforms that in the EC4's judgment can assist building owners and
+27 operators in improving building performance and which may be public or private sector tools.
+28 (2) The EC4 shall provide technical support and assistance on the use of the energy use
+29 benchmarking tool and the building improvement tool, as well as building energy assessment,
+30 improvement, and financial tools.
+31 (3) Technical support and assistance may be provided directly and through contract and the
+32 EC4 may consider a technical assistance hub.
+33 (4) The EC4 may coordinate with the department of environmental management (DEM)
+34 for enforcement of the building performance standards, and the standards and requirements set forth
+LC000179 - Page 6 of 16
+1 herein.
+2 (5) The EC4 may apply for relevant federal funding opportunities in support of this chapter
+3 and may partner with nonprofit organizations and associations to make such an application if
+4 beneficial.
+5 (f) In administering this section, the EC4 may:
+6 (1) Designate subcategories of buildings based on common characteristics such as building
+7 use, and may establish different reporting requirements for subcategories; and
+8 (2) Consider whether tenant-occupied units or spaces are separately metered and may
+9 address such conditions in any forms, instructions, or responses to questions.
+10 (g) The EC4 shall provide to owners instructions regarding tenant energy consumption
+11 data, including best practices for lease provisions and for estimates where obtaining metered data
+12 is not practicable.
+13 (h) Not later than the deadlines provided in subsections (k)(1) through (k)(3) of this section,
+14 beginning in the year indicated, the owner of each covered property shall submit to the EC4 energy
+15 use information for each covered property. Such submission shall include additional required
+16 information, if any, identified by the EC4 and shall be in the form and manner, if any, prescribed
+17 by the EC4. The failure of the EC4 to issue guidance shall not excuse owners of this obligation.
+18 (i) When an owner submits required information accompanied by evidence of data
+19 verification by a third party per regulations issued pursuant to this section, the owner shall have an
+20 additional three (3) months beyond the dates indicated in subsection (k)(2) of this section to report.
+21 (j) Within one hundred eighty (180) days of enactment of this chapter, the EC4 shall host
+22 a workshop to explain the benchmarking requirements contained within this chapter. The EC4 shall
+23 invite representatives from the Rhode Island League of Cities and Towns, the Rhode Island AFL-
+24 CIO, municipal building code officials, municipal planning officials, and other interested parties
+25 identified by the commissioner of the EC4.
+26 (k)(1) For public facilities with gross floor area greater than twenty-five thousand square
+27 feet (25,000 sq ft), the first compliance date is April 1, 2028, for calendar year 2026 energy use
+28 information, and thereafter the annual compliance date is April 1 for the prior calendar year.
+29 (2) For covered properties with gross floor area greater than fifty thousand square feet
+30 (50,000 sq ft), the first compliance date is March 31, 2028, for calendar year 2027 energy use
+31 information, and thereafter the annual compliance date is March 31 for the prior calendar year.
+32 (3) For covered properties with gross floor area greater than twenty-five thousand square
+33 feet (25,000 sq ft), the first compliance date is March 31, 2029, for calendar year 2028 energy use
+34 information, and thereafter the annual compliance date is March 31 for the prior calendar year.
+LC000179 - Page 7 of 16
+1 (l) To the extent permitted by law, an electric distribution company as defined in § 39-1-
+2 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+3 than one hundred thousand (100,000) customers shall make available to owners of covered
+4 properties anonymized and aggregated usage data for owner's covered property for the purpose of
+5 compliance with this chapter. By nature of being aggregated, the intent is to anonymize individual
+6 tenant energy use information, and not disclose this or any other personal information related to
+7 tenant customers or their accounts.
+8 (m) To the extent that gas and electric companies incur new or additional expenses to
+9 collect, aggregate, organize, or provide energy use information under this chapter, prior to filing
+10 for cost recovery, shall first demonstrate good faith efforts to secure federal, state, or other relevant
+11 funding options. Thereafter, such additional expenses shall be eligible for cost recovery through
+12 rates charged to customers under the appropriate cost recovery mechanisms as determined by the
+13 public utilities commission.
+14 (n) Electric and gas distribution utilities shall collaborate with the EC4 to identify best
+15 practices for collecting and managing aggregated whole building data.
+16 (o) The EC4 shall endeavor to ensure that electric and gas distribution companies or other
+17 energy efficiency program administrator provide owners of buildings subject to this section with
+18 up-to-date information about energy efficiency opportunities or actions available to increase energy
+19 efficiency, including incentives in utility-administered or other energy efficiency programs and
+20 changes in energy assessment technology.
+21 23-27.5-5. Municipal implementation of building energy benchmarking
+22 requirements.
+23 (a) The EC4 shall establish procedures, including a process and conditions, for a
+24 municipality to apply to the EC4 for the right to implement, in place of the EC4, the building energy
+25 benchmarking requirements. Such conditions shall include, at a minimum, acceptance of
+26 responsibility to collect the information specified by the EC4 from the covered property owners on
+27 the schedule specified by the EC4, and the provision of benchmarking data to the EC4 annually.
+28 (b) The EC4 shall review any application from a municipality to implement the building
+29 energy benchmarking requirements and the EC4 may deny a request if it is not satisfied that the
+30 conditions in subsection (a) of this section are met. A denial shall include a finding of facts and
+31 final determination that the municipal plan does not meet the requirements of this section.
+32 (c) A municipality that is approved to implement the building energy benchmarking
+33 requirements shall be authorized to assess any fines related to the program as provided in the
+34 approval by the EC4. Funds collected by a municipality shall be retained by the municipality.
+LC000179 - Page 8 of 16
+1 (d) The EC4 shall evaluate any municipal programs established under this subsection at
+2 least once every five (5) years and may withdraw its approval if municipal programs fail to comply
+3 with those conditions.
+4 (e) In the case of a municipality that has initiated a building energy benchmarking
+5 requirement prior to the enactment of this law, the municipality may continue such program in lieu
+6 of the benchmarking requirements to be established by the EC4. In such case, the municipality must
+7 notify the EC4 of such intent within one hundred eighty (180) days of the enactment of this chapter
+8 and must provide benchmarking data to the EC4 annually thereafter.
+9 23-27.5-6. Building performance improvement.
+10 (a) On a regular basis, the EC4 shall evaluate data relevant to understanding the energy use
+11 and greenhouse gas emissions of buildings in Rhode Island, including, but not limited, to the
+12 benchmarking data collected under this chapter. The EC4 shall publish reports summarizing the
+13 data and the status of building emissions in Rhode Island biennially. Beginning no later than August
+14 31, 2029, and annually thereafter, the EC4 shall post benchmarking data for the prior calendar year.
+15 Such posted benchmarking data shall include, at a minimum, for each covered property required to
+16 submit energy use information for the given calendar year, the address of the covered property and
+17 its energy performance rating or assessment score.
+18 (b) No later than August 31, 2029, the EC4 shall publish a report including a summary of
+19 its activities and progress under this chapter and detailing recommended measures, policies and
+20 programs to achieve building emission reductions aligned with Rhode Island's net zero goal. The
+21 EC4 shall issue supplemental reports biennially for a period of twenty (20) years.
+22 (c) Performance metrics shall include site energy use intensity and may also include
+23 greenhouse gas emissions or other metrics relevant to the purpose of this chapter.
+24 (d) No later than June 30, 2030, the EC4 shall select performance metrics and set a building
+25 performance standard for each property type or subcategory.
+26 (e) The EC4 shall set final building performance standards that shall collectively cause the
+27 aggregate greenhouse gas emissions attributable to all covered properties to be reduced in line with
+28 reaching net zero by 2050.
+29 (f) The EC4 shall set interim building performance standards for covered properties that
+30 are applicable at the end of each five (5) year period between adoption and 2050. In doing so the
+31 EC4 may use a straight-line trajectory, from the covered property's baseline performance for each
+32 performance metric to the final building performance standard for that performance metric such
+33 that each calculated performance metric shall improve in equal increments during each five (5) year
+34 period. The EC4 may use other means to calculate interim building performance standards if it
+LC000179 - Page 9 of 16
+1 deems the straight-line trajectory approach ill-suited for a covered property type.
+2 (g) As of June 30, 2035, and at the end of every five (5) year period thereafter, the owner
+3 of a covered property shall demonstrate progress toward each applicable final building performance
+4 standard by achieving the interim building performance standard(s) set by the EC4 for the covered
+5 property.
+6 (h) If the owner of a covered property believes that the owner cannot reasonably meet one
+7 or more of the applicable interim or final building performance standards, then the owner may
+8 propose an alternative building performance action plan to the EC4. If the EC4 approves an
+9 alternative building performance action plan for a covered property, then the owner shall be
+10 responsible only to comply with the provisions of the alternative building performance action plan
+11 until the next compliance date.
+12 (i) The EC4 shall issue forms, guidance and promulgate regulations necessary to implement
+13 this section including requirements for building performance action plans.
+14 (j) In consultation with the EJAB, the EC4 shall provide technical assistance for owners
+15 lacking the financial, operational, or technical capacity to meet interim or final building
+16 performance standards. To the extent possible, such assistance shall include information on
+17 potential loan, grant, and other financing options for owners.
+18 (k) The EC4 shall coordinate with utility companies, energy efficiency program
+19 administrators, the public utilities commission, state agencies, and local governments, as
+20 appropriate, to support the implementation of its recommendations pursuant to this section.
+21 (l) In the case of a municipality that has initiated a building energy performance
+22 requirement prior to the enactment of this law, the municipality may continue such program in lieu
+23 of the requirements to be established by the EC4 under this section. In such case, the municipality
+24 must notify the EC4 of such intent within one hundred eighty (180) days of the enactment of this
+25 chapter and must provide program and performance information to the EC4 annually thereafter.
+26 23-27.5-7. Compliance assurance.
+27 (a) The EC4 shall establish a program to maximize owner compliance with this chapter.
+28 The EC4 shall issue forms, guidance and promulgate regulations as necessary to implement the
+29 compliance program, and shall revise such forms, guidance and regulations from time to time as
+30 needed.
+31 (b) The EC4 may grant an extension, adjustment or exemption to an interim or final
+32 building performance standards for a covered property whose owner submits a request, together
+33 with documentation, in a form and date prescribed by the EC4, if the covered property meets any
+34 of the following criteria:
+LC000179 - Page 10 of 16
+1 (1) A demolition permit was issued, or demolition is planned, that will prevent achievement
+2 of the next interim building performance standard;
+3 (2) The covered building did not have a certificate of occupancy or temporary certificate
+4 of occupancy for all twelve (12) months of the baseline year prior to the interim building
+5 performance standard compliance schedule;
+6 (3) The covered property is in financial hardship, as defined guidance or regulations issued
+7 by the EC4; or
+8 (4) The EC4 determines that strict compliance with the provisions of this law would cause
+9 financial hardship or would not be in the public interest.
+10 Any approved alternative, extension, adjustment or exemption shall apply only to the
+11 specific interim or final building performance standard and shall expire no later than the end of the
+12 relevant five (5) year period.
+13 (c) The EC4 shall establish penalties for violations of this chapter through promulgation of
+14 regulations issued pursuant to this chapter. In doing so, the EC4 shall endeavor to minimize
+15 disproportionate impacts on communities impacted by poverty and environmental injustice. The
+16 EC4 may coordinate with the department of environmental management (DEM) for enforcement
+17 of the building performance standards, and the standards and requirements herein.
+18 (d) Pursuant to each of the benchmarking requirements and the building performance
+19 standards established under this chapter, the EC4 shall establish in regulations the process and
+20 criteria for a building owner to apply for, and for the EC4 to grant or deny:
+21 (1) A deadline extension; and/or
+22 (2) A hardship waiver.
+23 (e) The EC4 shall establish penalties for covered properties for violation of benchmarking
+24 requirements and for violation of building performance standards. Such payment amounts or
+25 formula shall reflect:
+26 (1) The total number of annual benchmarking submissions which a covered property has
+27 failed to achieve;
+28 (2) The total number of interim and final building performance standards which a covered
+29 property has failed to achieve;
+30 (3) The assessed value of the covered property; and
+31 (4) The magnitude of non-compliance under each performance metric.
+32 (f) An owner whose covered property fails to comply with benchmarking requirements or
+33 meet an interim or final building performance standard by the applicable compliance date shall be
+34 required to make a penalty payment. Any owner who does not reside or conduct their business in
+LC000179 - Page 11 of 16
+1 the covered property, but leases the covered property to a tenant or multiple tenants, shall remain
+2 the party responsible for ensuring compliance with this section. Any penalty payments rendered as
+3 a result of non-compliance shall not be passed on to any tenant who may lease the covered property
+4 in order to offset the cost to the owner.
+5 (g) The BPS fund is hereby established as a permanent designated fund managed by the
+6 EC4. The BPS fund shall be used to support the building benchmarking and performance
+7 improvement program established in this law.
+8 (1) All funds collected from payment of penalties assessed shall be deposited into the BPS
+9 fund.
+10 (2) All funds deposited into the BPS fund, and any interest earned on the funds, shall not
+11 revert to the unrestricted fund balance of the general fund at the end of a fiscal year, or at any other
+12 time, but shall be continually available for the uses and purposes set forth in this chapter without
+13 regard to fiscal year limitation.
+14 (3) Additional funds from other sources may also be deposited into the BPS fund.
+15 23-27.5-8. Rules and regulations.
+16 The EC4 shall promulgate rules and regulations to implement and enforce the provisions
+17 of this chapter.
+18 23-27.5-9. Appeals.
+19 An owner aggrieved by this section or compliance orders resulting therefrom may appeal
+20 pursuant to the provisions of chapter 35 of title 42 ("administrative procedures").
+21 SECTION 3. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+22 amended by adding thereto the following sections:
+23 23-27.3-130. Electric-ready new buildings.
+24 The purpose of this section is to require that all new buildings be electric-ready.
+25 23-27.3-130.1. Definitions.
+26 As used in this chapter:
+27 (1) "Addition" means a significant extension or increase in the conditioned space floor area,
+28 number of stories or height of a building or structure.
+29 (2) "Alteration" means any construction, retrofit or renovation to an existing structure other
+30 than repair or addition. "Alteration" includes a change in a building, or a building's electrical, gas,
+31 mechanical or plumbing system that involves a significant extension, addition or change to the
+32 arrangement, type or purpose of the original installation that requires a permit.
+33 (3) "Building energy needs" means all space conditioning including heating and cooling,
+34 water heating including pools and spas, cooking appliances and clothes drying appliances.
+LC000179 - Page 12 of 16
+1 (4) "Electric ready" means a building, project, or portion thereof that contains electrical
+2 systems and designs that provide sufficient capacity for a future retrofit of a mixed-fuel building to
+3 an all-electric building, including sufficient space, drainage, electrical conductors or raceways, bus
+4 bar capacity, and overcurrent protective devices for such retrofit.
+5 (5) "Initial application" means the first site or building permit application for the building
+6 or project.
+7 (6) "Local approval" means a provision has been incorporated by reference into the
+8 municipal code of ordinances by the legislative body of the municipality. Provision may be
+9 included as a general or zoning ordinance or bylaws.
+10 (7) "Mixed-fuel building" means a building that uses a combination of electricity and fossil
+11 fuels to meet building energy needs. "Mixed-fuel building" shall not include buildings that use
+12 geothermal or solar energy to meet heating and/or cooling building energy needs; provided,
+13 however, that they are otherwise all-electric buildings.
+14 (8) "Mixed-use building" means a building used for both residential and commercial
+15 purposes.
+16 (9) "NACC and AGMT" means the North American Contractor Certification and
+17 Architectural Glass and Metal Technicians Contractor Certification.
+18 (10) "Repair" means the reconstruction or renewal of any part of an existing building for
+19 the purpose of its maintenance, or to upgrade or correct damage.
+20 (11) "Renovation" means any major construction or retrofit to existing structure other than
+21 a repair. Renovation includes a change in a building, or a building's electrical, gas, mechanical or
+22 plumbing system that involves a significant extension, addition, or change to the arrangement, type
+23 or purpose of the original installation that requires a permit.
+24 23-27.3-130.2. Requirement for electric-ready construction of new buildings.
+25 No city or town shall issue a permit for the new construction or alteration of any residential,
+26 commercial, or mixed-use building that is not electric-ready if the initial application for such permit
+27 was submitted after January 30, 2026, unless the circumstances set forth in § 23-27.3-130.5 apply.
+28 23-27.3-130.3. Requirement for all-electric ready construction of public buildings.
+29 (a) No permit shall be issued for new public building construction or alteration projects
+30 that are not electric-ready if the initial application for such permit was submitted after December
+31 31, 2025, unless the circumstance set forth in § 23-27.3-130.3 apply.
+32 (b) This subsection is applicable to the new construction or alteration of all buildings
+33 owned by the State of Rhode Island, its political subdivisions including municipalities, any quasi-
+34 public agencies, including buildings owned by the state and managed by other entities.
+LC000179 - Page 13 of 16
+1 (1) The awarding authority of any project under this chapter shall take all necessary actions
+2 to ensure that each contractor and subcontractor involved in new public building construction
+3 projects or alteration projects over five million dollars ($5,000,000) requires all contractors and
+4 subcontractor on the project to have or be affiliated with a non-provisionally approved registered
+5 apprenticeship program conforming to the standards set forth in 29 CFR § 29.5. and also require
+6 that not less than fifteen percent (15%) of the total hours worked by the contractors' and
+7 subcontractors' employees to be completed by apprentices registered in registered apprenticeship
+8 programs as defined herein. The awarding agency may lower the fifteen percent (15%) requirement
+9 only if it determines in writing that compliance is not feasible or that it would be unduly cost
+10 prohibitive to the project.
+11 (2) The awarding authority of any project under this chapter shall conduct an independent,
+12 objective, reasoned study, using reviewable criteria, to determine whether adoption of a project
+13 labor agreement on the proposed project or projects will help achieve the goals of the state
+14 purchases act, for all new public building construction projects or alteration projects over twenty-
+15 five million dollars ($25,000,000).
+16 23-27.3-130.4. Exemptions.
+17 (a) Notwithstanding the provisions of this chapter, a permit for construction of a new
+18 mixed-fuel building may be issued upon a finding by the permitting body that constructing an all-
+19 electric building or project is physically or technically infeasible and that a modification is
+20 warranted. Financial considerations shall not be a sufficient basis to determine physical or technical
+21 infeasibility. Modifications shall only be issued under this exception where the permitting body
+22 finds that:
+23 (1) Sufficient evidence was submitted to substantiate the infeasibility of an all-electric
+24 building or project design. Such evidence shall show that the building either:
+25 (i) Cannot satisfy necessary building code requirements without the usage of gas or oil
+26 piping systems, fixtures and/or infrastructure; or
+27 (ii) If the building is specifically designated for occupancy by commercial or industrial
+28 uses which cannot feasibly operate using commercially available all-electric appliances; or
+29 (iii) If mixed fuel is used to meet building energy needs and said building or group of
+30 buildings are for the sole use as a hospital, medical facility, or laboratory for biological research.
+31 (2) The installation of natural gas or oil piping systems, fixtures and/or infrastructure is
+32 strictly limited to the system and area of the building for which an all-electric building or project
+33 design is infeasible.
+34 (3) The area or service within the project where gas or oil piping systems, fixtures and/or
+LC000179 - Page 14 of 16
+1 infrastructure are installed is all-electric ready.
+2 (4) The project's modified design provides equivalent health, safety, and fire protection to
+3 an all-electric building or project design.
+4 23-27.3-130.5. Rules and regulations.
+5 The state building code commission shall propose guidelines for electric-ready buildings
+6 by September 1, 2025, and shall make all efforts to promulgate final rules by December 1, 2025.
+7 SECTION 4. This act shall take effect upon passage.
+========
+LC000179
+========
+LC000179 - Page 15 of 16
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BUILDING DECARBONIZATION ACT OF 2024
+***
+1 This act would establish the environmental justice advisory board (EJAB) which would
+2 provide advice to the climate change coordinating council ("council") The act establishes an energy
+3 use benchmarking program to determine whether each building subject to the program uses more
+4 or less energy and emits more or less greenhouse gases than other comparable size building. The
+5 council shall promulgate rules and regulation to implement the program. The act also phases in
+6 building performance standards.
+7 This act would take effect upon passage.
+========
+LC000179
+========
+LC000179 - Page 16 of 16
+[DELETED: TATE  OF  RHODE  ISLAND S T b b t r e b o l b i R I a a s f t e p F C t S a C B 2 A ( " a a u d m f a s t p a a]
+[DELETED:  o u p m b a a a w t a t ( o m u n r ( 7 ( " i t m a o t t h b o a o t c ( d d ( n b n a b a t g o e p o d t e t b c o s f c ( t J   u ( s ( ( a ( s]
+[DELETED:  t t o t ( " e s m a s s m c p a c o n t e g t a d e p   c ( o r e ( ( ( ( a ( ( ( b ( a p o p ( o a t ( n s]
+[DELETED:  r c b ( " m a t t o a c a c ( " m a c c a o g e t d 2 T a f p g 2 ( F p o t c t g b a c ( e b § 3 s a a a a b t t E c t i r r c ( c o c c e w r t p i o b t a s c ( i w a r o c i b p a e i c a I s a ( a o r]
+[DELETED:  ( o ( p i o b t a s c f i a c i b p a e i a s b o f s c ( u i ( g b p 2 ( s i ( p c o ( " ( i ( ( ( o ( a ( ( i]
+[DELETED:  f s a p ( ( o e ( e p s ( g ( i a p ( r ( p ( b ( T E s i o o m b i t a v c o ( b i ( E ( f]
+[DELETED:  h ( a b ( ( u ( a ( d i ( b u f p S a i b ( W a o s r i a b e o d v a ( a i C i ( f i ( ( i ( f i]
+[DELETED:  ( 2 t o h t ( c s m a t o o c p c t t ( c f f r p ( p ( e u e c 2 M i o b e b r ( T E s e p i a p a c f a m b r S c s i a a m a o r t ( e c f ( A m t i a t i t b e b r a]
+[DELETED:  ( l w ( I t c o a m t h i a b e b r o n a 2 ( a b d 3 S s i ( i p E ( P m s i s e u i a m a i g ( p ( a r ( a E p t p]
+[DELETED:  d ( o s p ( o p a a b p a t t E I t E a a a b p a p f a c p t t o s b r u ( t ( l t f o o t c t m i o f b p s T t e p s a s i i o p ( T E s c w u c e e p a t p u c s a a l g a a ( I t c o a m t h i a b e p r o m c 2 ( T c n ( g b w o]
+[DELETED:  ( o ( o o f a t ( m o t b y p t t i b p ( b ( f A s r ( r i t c I d s t E s t m d E o ( s c ( ( ( r a f v o b p s S p a o f ( f ( p ( ( ( m r]
+[DELETED:  t t a i ( E T B f s b u t s t b b a p i ( f ( r t r ( 2 T o 2 A p S a 2 T 2 A ( n ( t m a ( w]
+[DELETED:  ( s a b   o ( " a m a p h b i b r i t m c o o b t l b o t m P m b i ( f g o s e t m h a c b e n p h ( " b m a b u f b r a c p ( " a A m t N A C C a A ( t ( a p o 2 N c w 2 ( t 3 ( o p]
+[DELETED:  ( t p s a t n l t f p ( o t t h w b t c a s p o p ( o l a o t p p o p w h a t g o t s p f 2 ( m e b o p i p o t i a t a m i w i f ( b ( p ( u ( b ( s d (]
+[DELETED:  i ( a 2 T b S]
+[DELETED:  T p u o c b T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0091
+========
+LC000179
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BUILDING DECARBONIZATION ACT OF 2024
+Introduced By: Senators Kallman, Sosnowski, DiMario, Euer, Lawson, Britto, Gu, Gallo,
+McKenney, and Valverde
+Date Introduced: January 31, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings and purpose.
+2 The purpose of this chapter is to understand and reduce the greenhouse gas emissions of
+3 buildings in Rhode Island, consistent with an Act on Climate, chapter 6.2-9 of title 42. Of the
+4 building stock in 2050, approximately seventy percent (70%) has already been built, and addressing
+5 these existing buildings is critical to achieving net-zero emissions by 2050. While significant
+6 retrofits to existing buildings will eventually be needed, this chapter establishes a program for the
+7 energy benchmarking of large buildings in Rhode Island and a standard for their energy
+8 performance and requires that the construction or alteration of new buildings be electric-ready.
+9 Further, the intent of the legislature is to ensure that the Executive Climate Change Coordinating
+10 Council (EC4) has dedicated resources sufficient to administer its responsibilities under this chapter
+11 to enable swift and steady progress towards Rhode Island's net-zero mandate.
+12 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+13 amended by adding thereto the following chapter:
+14 CHAPTER 27.5
+15 BUILDING DECARBONIZATION ACT OF 2025
+16 23-27.5-1. Definitions.
+17 As used in this chapter:
+18 (1) "Anonymized and aggregated usage data" means, for a specified time period, an
+19 aggregation of utility usage data for a covered property whereby data from tenant meters and from
+
+1 owner meters are combined into one collective data point for each utility type, and where any
+2 unique identifiers or other personal information related to tenants are removed. Data for a covered
+3 property may be anonymized and aggregated where there are three (3) or more unique non-
+4 residential accounts or five (5) or more unique residential accounts.
+5 (2) "BPS fund" means the building performance standard fund established in § 23-27.5-
+6 7(g).
+7 (3) "Building improvement tool" means an online tool to help building owners and
+8 operators improve building energy and water efficiency and reduce greenhouse gas emissions
+9 through identifying, tracking, and verifying improvements and their performance, including the
+10 capability to integrate with ENERGY STAR Portfolio Manager.
+11 (4) "Building performance standard" means an objectively verifiable numeric value of a
+12 defined building performance metric that covered properties are required to achieve by specified
+13 dates.
+14 (5) "Commercial building" means a building or multiple buildings on a property of which
+15 not less than fifty percent (50%) of the gross floor area, including hallways or other common space,
+16 but excluding parking, is used for commercial, retail, office, professional, educational or other
+17 nonresidential purposes, or any grouping of commercial buildings designated by the EC4 as an
+18 appropriate reporting unit for the purposes of this section; provided however, that "commercial
+19 building" shall not include a public facility or a building owned or leased by the federal government,
+20 and shall not include a facility in which the majority of energy is consumed for manufacturing, for
+21 the generation of electric power or district thermal energy to be consumed off site, for
+22 communications infrastructure, or for other process loads as determined by the EC4.
+23 (6) "Community impacted by poverty and environmental injustice" means census tracts
+24 that are highlighted as overburdened and underserved in the geospatial Climate and Economic
+25 Justice Screening Tool (CEJST).
+26 (7) "Condominium" means a property that combines separate ownership of individual
+27 units with common ownership of other elements such as common areas.
+28 (8) "Covered property" means any of the following with at least twenty-five thousand
+29 square feet (25,000 sq. ft.) of gross floor area:
+30 (i) A single building;
+31 (ii) One or more buildings held in the condominium form of ownership, and governed by
+32 a single board of managers; or
+33 (iii) Two (2) or more buildings that are served by the same electric or gas meter or are
+34 served by the same heating or cooling system(s), which is not a district energy system. Provided
+LC000179 - Page 2 of 16
+
+1 that buildings, spaces, or groups of buildings and spaces, that are sub-metered or otherwise subject
+2 to easy determination of the resource consumption attributable to each individual building, space,
+3 or group of buildings or spaces, shall be treated as separate "covered properties" as determined by
+4 the EC4.
+5 (9) "District energy system" means a system serving multiple covered properties and
+6 consisting of non-combusting thermal energy generation, transfer, and distribution equipment
+7 providing thermal energy in the form of heat and/or heat rejection.
+8 (10) "Executive Climate Change Coordinating Council" or "Council" or "EC4" means the
+9 council established by § 42-6.2-1.
+10 (11) "Gross floor area" means the total area of a covered property, measured between the
+11 outside surface of the exterior walls of the covered property building(s). The EC4 shall promulgate
+12 rules and procedures governing the calculation of gross floor area, including areas that shall be
+13 excluded from the calculation.
+14 (12) "Owner" means any of the following:
+15 (i) An individual or entity possessing title to a covered property;
+16 (ii) The board of the owners' association, in the case of a condominium;
+17 (iii) The master association, in the case of a condominium, where the powers of an owners'
+18 association are exercised by or delegated to a master association;
+19 (iv) The board of directors, in the case of a cooperative apartment corporation; or
+20 (v) An agent authorized to act on behalf of any of the above.
+21 (13) "Performance metrics" means each of the objectively verifiable numeric measures of
+22 building performance as established by § 23-27.5-4(d).
+23 (14) "Property type(s)" means a category of covered properties subject to the same interim
+24 and final building performance standards, as defined by the EC4. Covered properties within each
+25 property type shall have shared characteristics that facilitate the implementation and enforcement
+26 of this law. The EC4 may define one or more property types to be identical to ENERGY STAR
+27 property types.
+28 (15) "Public facility" means any public institution, public facility, or any physical asset
+29 owned, including its public real-property site, leased or controlled in whole or in part by this state,
+30 a public agency, a municipality or a political subdivision, that is for public or government use and
+31 that consumes energy.
+32 (16) "Residential building" means a building or multiple buildings on a property of which
+33 not less than fifty percent (50%) of the gross floor area, including hallways and other common
+34 space serving residents, but excluding parking, is used for dwelling purposes, or any grouping of
+LC000179 - Page 3 of 16
+
+1 residential buildings designated by the EC4 as an appropriate reporting unit for the purposes of this
+2 chapter; provided, however, that "residential building" shall not include a public facility or a
+3 building owned or leased by the federal government.
+4 (17) "Tenant" means any tenant, tenant-stockholder of a cooperative apartment
+5 corporation, or condominium unit owner.
+6 (18) "Utility" means a company, cooperative, association, or government entity that
+7 distributes and sells electricity, natural gas, or district energy for use in buildings.
+8 23-27.5-2. Authority.
+9 The EC4 is hereby granted authority to administer this chapter, which shall include the
+10 authority to issue forms and guidance, promulgate rules and regulations, apply for and receive
+11 federal funds, assess and receive fees, and contract with third parties to effectuate the powers
+12 granted herein.
+13 23-27.5-3. Advisory Boards.
+14 (a) For purposes of this chapter, the green building advisory committee (GBAC)
+15 established by § 37-24-5(g) shall act as an advisory board to the EC4 concerning the
+16 implementation of this chapter including, but not limited to, the establishment of the benchmarking
+17 requirements, technical assistance, owner needs, outreach and education, opportunities for funding
+18 related to the chapter, the implementation of state policies, programs, and statutes related to the
+19 chapter and recommendations for building performance standards.
+20 (b) No later than one hundred and twenty (120) days following the enactment of this
+21 chapter the EC4 shall establish the environmental justice advisory board (EJAB) to advise the EC4
+22 on climate change efforts with respect to potential impacts on, benefits to, and special
+23 considerations for individuals and communities impacted by poverty and environmental injustice.
+24 (1) The EJAB shall be comprised of no fewer than nine (9) and no more than fifteen (15)
+25 individuals who are representatives of communities impacted by poverty and environmental
+26 injustice, representatives of nonprofit and public agencies who work with such individuals or
+27 communities, including providers of affordable housing, small business owners or organizations,
+28 and experts in areas related to racial and social equity, as well as one representative from the Rhode
+29 Island AFL-CIO. The EC4 shall select individuals in consultation with the EC4 advisory board, to
+30 serve on the EJAB following an opportunity for the public to apply in consultation with the EC4
+31 advisory board.
+32 (2) All appointments to the EJAB shall be for a term of three (3) years. Members whose
+33 appointed terms have expired shall be permitted to continue to serve for up to one year until
+34 reappointed or replaced by a new appointee.
+LC000179 - Page 4 of 16
+
+1 (3) The EC4 shall fairly compensate EJAB members and provide stipends to cover the cost
+2 of childcare and information technology needs as determined by the EJAB and EC4.
+3 (4) The EJAB shall advise the EC4 on the implementation of this chapter with respect to
+4 potential impacts on, benefits to, and special considerations for individuals and communities
+5 impacted by poverty and environmental injustice, and small business owners from such
+6 communities.
+7 (5) The EJAB may develop a plan to allocate funds available in the BPS fund, established
+8 under § 23-27.5-7(g), to improve the performance of covered buildings and ensure that those
+9 investments benefit such communities.
+10 (6) The EJAB may host, in partnership with the GBAC and the EC4, public meetings to
+11 gather input regarding the benchmarking program as well as the design and implementation of the
+12 building performance standards and complementary programs. Equitable engagement shall be a
+13 priority.
+14 23-27.5-4. Building Benchmarking.
+15 (a) There is hereby established an energy use benchmarking program to collect and analyze
+16 such information in support of the statewide greenhouse gas emission reduction mandate provided
+17 in chapter 6.2 of title 42 ("act on climate").
+18 (b) The program shall be conducted to determine whether each building subject to the
+19 program utilizes more or less energy, and emits more or less greenhouse gases, than buildings of
+20 comparable size, occupancies and uses, and to inform a statewide analysis of energy use trends and
+21 opportunities to increase energy efficiency and reduce greenhouse gas emissions.
+22 (c) Information to be collected in the benchmarking program and generally referred to as
+23 "energy use information" shall include at a minimum:
+24 (1) The name, mailing address, email, and telephone number of the owner, and the operator
+25 if different from the owner;
+26 (2) The address of the building and the municipality in which the building is located;
+27 (3) The primary use, any additional uses, and gross floor area of the building;
+28 (4) The building's total energy use in kBTU and total greenhouse gas emissions in pounds
+29 of carbon dioxide equivalent;
+30 (5) The breakdown of the building's energy use by electricity, gas, and other sources, and
+31 any electricity generated by on-site renewable sources; and
+32 (6) An energy performance rating or assessment score.
+33 (d) The EC4 shall issue forms, guidance, or regulations as needed, to implement this section
+34 including provisions related to compliance. The EC4 shall issue provisional guidance for public
+LC000179 - Page 5 of 16
+
+1 facilities greater than twenty-five thousand square feet (25,000 sq. ft.) by July 1, 2027. The EC4
+2 shall propose forms, guidance, or regulations as needed, for all covered properties by April 1, 2028,
+3 and shall make all efforts to issue final forms, guidance, or regulations as needed, for all covered
+4 properties by July 1, 2026.
+5 (1) The EC4 may designate one or more alternative energy use benchmarking tools.
+6 (2) The EC4 shall define one or more energy performance ratings or scores to aid building
+7 owners, operators, the general public, and the EC4 in understanding the energy of greenhouse gas
+8 emissions performance of the building relative to similar buildings.
+9 (3) The EC4 shall identify the required information which shall include at a minimum, the
+10 energy use information listed in subsection (c) of this section, and at least one of the energy
+11 performance ratings or scores defined by the EC4, as well as necessary administrative information
+12 such as the owner and operator of the building, contact information, and similar items.
+13 (4) The EC4 shall promulgate regulations and procedures governing the calculation of
+14 gross floor area, including areas that shall be excluded from the calculation.
+15 (5) The EC4 shall promulgate regulations and procedures for the submission of required
+16 information and may provide multiple alternatives for the form of submission, such as a paper form
+17 and submission electronically via an online portal, and shall endeavor to streamline the submission
+18 processes as appropriate.
+19 (6) The EC4 shall promulgate regulations and procedures on data verification options for
+20 required information.
+21 (7) The EC4 may consider modeling property types, use details and other definitions
+22 provided in the ENERGY STAR Portfolio Manager glossary.
+23 (e) The EC4 shall provide technical support and guidance to owners and operators of
+24 buildings subject to this section.
+25 (1) The EC4 shall identify one or more building improvement tools as voluntary
+26 complementary software or platforms that in the EC4's judgment can assist building owners and
+27 operators in improving building performance and which may be public or private sector tools.
+28 (2) The EC4 shall provide technical support and assistance on the use of the energy use
+29 benchmarking tool and the building improvement tool, as well as building energy assessment,
+30 improvement, and financial tools.
+31 (3) Technical support and assistance may be provided directly and through contract and the
+32 EC4 may consider a technical assistance hub.
+33 (4) The EC4 may coordinate with the department of environmental management (DEM)
+34 for enforcement of the building performance standards, and the standards and requirements set forth
+LC000179 - Page 6 of 16
+
+1 herein.
+2 (5) The EC4 may apply for relevant federal funding opportunities in support of this chapter
+3 and may partner with nonprofit organizations and associations to make such an application if
+4 beneficial.
+5 (f) In administering this section, the EC4 may:
+6 (1) Designate subcategories of buildings based on common characteristics such as building
+7 use, and may establish different reporting requirements for subcategories; and
+8 (2) Consider whether tenant-occupied units or spaces are separately metered and may
+9 address such conditions in any forms, instructions, or responses to questions.
+10 (g) The EC4 shall provide to owners instructions regarding tenant energy consumption
+11 data, including best practices for lease provisions and for estimates where obtaining metered data
+12 is not practicable.
+13 (h) Not later than the deadlines provided in subsections (k)(1) through (k)(3) of this section,
+14 beginning in the year indicated, the owner of each covered property shall submit to the EC4 energy
+15 use information for each covered property. Such submission shall include additional required
+16 information, if any, identified by the EC4 and shall be in the form and manner, if any, prescribed
+17 by the EC4. The failure of the EC4 to issue guidance shall not excuse owners of this obligation.
+18 (i) When an owner submits required information accompanied by evidence of data
+19 verification by a third party per regulations issued pursuant to this section, the owner shall have an
+20 additional three (3) months beyond the dates indicated in subsection (k)(2) of this section to report.
+21 (j) Within one hundred eighty (180) days of enactment of this chapter, the EC4 shall host
+22 a workshop to explain the benchmarking requirements contained within this chapter. The EC4 shall
+23 invite representatives from the Rhode Island League of Cities and Towns, the Rhode Island AFL-
+24 CIO, municipal building code officials, municipal planning officials, and other interested parties
+25 identified by the commissioner of the EC4.
+26 (k)(1) For public facilities with gross floor area greater than twenty-five thousand square
+27 feet (25,000 sq ft), the first compliance date is April 1, 2028, for calendar year 2026 energy use
+28 information, and thereafter the annual compliance date is April 1 for the prior calendar year.
+29 (2) For covered properties with gross floor area greater than fifty thousand square feet
+30 (50,000 sq ft), the first compliance date is March 31, 2028, for calendar year 2027 energy use
+31 information, and thereafter the annual compliance date is March 31 for the prior calendar year.
+32 (3) For covered properties with gross floor area greater than twenty-five thousand square
+33 feet (25,000 sq ft), the first compliance date is March 31, 2029, for calendar year 2028 energy use
+34 information, and thereafter the annual compliance date is March 31 for the prior calendar year.
+LC000179 - Page 7 of 16
+
+1 (l) To the extent permitted by law, an electric distribution company as defined in § 39-1-
+2 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+3 than one hundred thousand (100,000) customers shall make available to owners of covered
+4 properties anonymized and aggregated usage data for owner's covered property for the purpose of
+5 compliance with this chapter. By nature of being aggregated, the intent is to anonymize individual
+6 tenant energy use information, and not disclose this or any other personal information related to
+7 tenant customers or their accounts.
+8 (m) To the extent that gas and electric companies incur new or additional expenses to
+9 collect, aggregate, organize, or provide energy use information under this chapter, prior to filing
+10 for cost recovery, shall first demonstrate good faith efforts to secure federal, state, or other relevant
+11 funding options. Thereafter, such additional expenses shall be eligible for cost recovery through
+12 rates charged to customers under the appropriate cost recovery mechanisms as determined by the
+13 public utilities commission.
+14 (n) Electric and gas distribution utilities shall collaborate with the EC4 to identify best
+15 practices for collecting and managing aggregated whole building data.
+16 (o) The EC4 shall endeavor to ensure that electric and gas distribution companies or other
+17 energy efficiency program administrator provide owners of buildings subject to this section with
+18 up-to-date information about energy efficiency opportunities or actions available to increase energy
+19 efficiency, including incentives in utility-administered or other energy efficiency programs and
+20 changes in energy assessment technology.
+21 23-27.5-5. Municipal implementation of building energy benchmarking
+22 requirements.
+23 (a) The EC4 shall establish procedures, including a process and conditions, for a
+24 municipality to apply to the EC4 for the right to implement, in place of the EC4, the building energy
+25 benchmarking requirements. Such conditions shall include, at a minimum, acceptance of
+26 responsibility to collect the information specified by the EC4 from the covered property owners on
+27 the schedule specified by the EC4, and the provision of benchmarking data to the EC4 annually.
+28 (b) The EC4 shall review any application from a municipality to implement the building
+29 energy benchmarking requirements and the EC4 may deny a request if it is not satisfied that the
+30 conditions in subsection (a) of this section are met. A denial shall include a finding of facts and
+31 final determination that the municipal plan does not meet the requirements of this section.
+32 (c) A municipality that is approved to implement the building energy benchmarking
+33 requirements shall be authorized to assess any fines related to the program as provided in the
+34 approval by the EC4. Funds collected by a municipality shall be retained by the municipality.
+LC000179 - Page 8 of 16
+
+1 (d) The EC4 shall evaluate any municipal programs established under this subsection at
+2 least once every five (5) years and may withdraw its approval if municipal programs fail to comply
+3 with those conditions.
+4 (e) In the case of a municipality that has initiated a building energy benchmarking
+5 requirement prior to the enactment of this law, the municipality may continue such program in lieu
+6 of the benchmarking requirements to be established by the EC4. In such case, the municipality must
+7 notify the EC4 of such intent within one hundred eighty (180) days of the enactment of this chapter
+8 and must provide benchmarking data to the EC4 annually thereafter.
+9 23-27.5-6. Building performance improvement.
+10 (a) On a regular basis, the EC4 shall evaluate data relevant to understanding the energy use
+11 and greenhouse gas emissions of buildings in Rhode Island, including, but not limited, to the
+12 benchmarking data collected under this chapter. The EC4 shall publish reports summarizing the
+13 data and the status of building emissions in Rhode Island biennially. Beginning no later than August
+14 31, 2029, and annually thereafter, the EC4 shall post benchmarking data for the prior calendar year.
+15 Such posted benchmarking data shall include, at a minimum, for each covered property required to
+16 submit energy use information for the given calendar year, the address of the covered property and
+17 its energy performance rating or assessment score.
+18 (b) No later than August 31, 2029, the EC4 shall publish a report including a summary of
+19 its activities and progress under this chapter and detailing recommended measures, policies and
+20 programs to achieve building emission reductions aligned with Rhode Island's net zero goal. The
+21 EC4 shall issue supplemental reports biennially for a period of twenty (20) years.
+22 (c) Performance metrics shall include site energy use intensity and may also include
+23 greenhouse gas emissions or other metrics relevant to the purpose of this chapter.
+24 (d) No later than June 30, 2030, the EC4 shall select performance metrics and set a building
+25 performance standard for each property type or subcategory.
+26 (e) The EC4 shall set final building performance standards that shall collectively cause the
+27 aggregate greenhouse gas emissions attributable to all covered properties to be reduced in line with
+28 reaching net zero by 2050.
+29 (f) The EC4 shall set interim building performance standards for covered properties that
+30 are applicable at the end of each five (5) year period between adoption and 2050. In doing so the
+31 EC4 may use a straight-line trajectory, from the covered property's baseline performance for each
+32 performance metric to the final building performance standard for that performance metric such
+33 that each calculated performance metric shall improve in equal increments during each five (5) year
+34 period. The EC4 may use other means to calculate interim building performance standards if it
+LC000179 - Page 9 of 16
+
+1 deems the straight-line trajectory approach ill-suited for a covered property type.
+2 (g) As of June 30, 2035, and at the end of every five (5) year period thereafter, the owner
+3 of a covered property shall demonstrate progress toward each applicable final building performance
+4 standard by achieving the interim building performance standard(s) set by the EC4 for the covered
+5 property.
+6 (h) If the owner of a covered property believes that the owner cannot reasonably meet one
+7 or more of the applicable interim or final building performance standards, then the owner may
+8 propose an alternative building performance action plan to the EC4. If the EC4 approves an
+9 alternative building performance action plan for a covered property, then the owner shall be
+10 responsible only to comply with the provisions of the alternative building performance action plan
+11 until the next compliance date.
+12 (i) The EC4 shall issue forms, guidance and promulgate regulations necessary to implement
+13 this section including requirements for building performance action plans.
+14 (j) In consultation with the EJAB, the EC4 shall provide technical assistance for owners
+15 lacking the financial, operational, or technical capacity to meet interim or final building
+16 performance standards. To the extent possible, such assistance shall include information on
+17 potential loan, grant, and other financing options for owners.
+18 (k) The EC4 shall coordinate with utility companies, energy efficiency program
+19 administrators, the public utilities commission, state agencies, and local governments, as
+20 appropriate, to support the implementation of its recommendations pursuant to this section.
+21 (l) In the case of a municipality that has initiated a building energy performance
+22 requirement prior to the enactment of this law, the municipality may continue such program in lieu
+23 of the requirements to be established by the EC4 under this section. In such case, the municipality
+24 must notify the EC4 of such intent within one hundred eighty (180) days of the enactment of this
+25 chapter and must provide program and performance information to the EC4 annually thereafter.
+26 23-27.5-7. Compliance assurance.
+27 (a) The EC4 shall establish a program to maximize owner compliance with this chapter.
+28 The EC4 shall issue forms, guidance and promulgate regulations as necessary to implement the
+29 compliance program, and shall revise such forms, guidance and regulations from time to time as
+30 needed.
+31 (b) The EC4 may grant an extension, adjustment or exemption to an interim or final
+32 building performance standards for a covered property whose owner submits a request, together
+33 with documentation, in a form and date prescribed by the EC4, if the covered property meets any
+34 of the following criteria:
+LC000179 - Page 10 of 16
+
+1 (1) A demolition permit was issued, or demolition is planned, that will prevent achievement
+2 of the next interim building performance standard;
+3 (2) The covered building did not have a certificate of occupancy or temporary certificate
+4 of occupancy for all twelve (12) months of the baseline year prior to the interim building
+5 performance standard compliance schedule;
+6 (3) The covered property is in financial hardship, as defined guidance or regulations issued
+7 by the EC4; or
+8 (4) The EC4 determines that strict compliance with the provisions of this law would cause
+9 financial hardship or would not be in the public interest.
+10 Any approved alternative, extension, adjustment or exemption shall apply only to the
+11 specific interim or final building performance standard and shall expire no later than the end of the
+12 relevant five (5) year period.
+13 (c) The EC4 shall establish penalties for violations of this chapter through promulgation of
+14 regulations issued pursuant to this chapter. In doing so, the EC4 shall endeavor to minimize
+15 disproportionate impacts on communities impacted by poverty and environmental injustice. The
+16 EC4 may coordinate with the department of environmental management (DEM) for enforcement
+17 of the building performance standards, and the standards and requirements herein.
+18 (d) Pursuant to each of the benchmarking requirements and the building performance
+19 standards established under this chapter, the EC4 shall establish in regulations the process and
+20 criteria for a building owner to apply for, and for the EC4 to grant or deny:
+21 (1) A deadline extension; and/or
+22 (2) A hardship waiver.
+23 (e) The EC4 shall establish penalties for covered properties for violation of benchmarking
+24 requirements and for violation of building performance standards. Such payment amounts or
+25 formula shall reflect:
+26 (1) The total number of annual benchmarking submissions which a covered property has
+27 failed to achieve;
+28 (2) The total number of interim and final building performance standards which a covered
+29 property has failed to achieve;
+30 (3) The assessed value of the covered property; and
+31 (4) The magnitude of non-compliance under each performance metric.
+32 (f) An owner whose covered property fails to comply with benchmarking requirements or
+33 meet an interim or final building performance standard by the applicable compliance date shall be
+34 required to make a penalty payment. Any owner who does not reside or conduct their business in
+LC000179 - Page 11 of 16
+
+1 the covered property, but leases the covered property to a tenant or multiple tenants, shall remain
+2 the party responsible for ensuring compliance with this section. Any penalty payments rendered as
+3 a result of non-compliance shall not be passed on to any tenant who may lease the covered property
+4 in order to offset the cost to the owner.
+5 (g) The BPS fund is hereby established as a permanent designated fund managed by the
+6 EC4. The BPS fund shall be used to support the building benchmarking and performance
+7 improvement program established in this law.
+8 (1) All funds collected from payment of penalties assessed shall be deposited into the BPS
+9 fund.
+10 (2) All funds deposited into the BPS fund, and any interest earned on the funds, shall not
+11 revert to the unrestricted fund balance of the general fund at the end of a fiscal year, or at any other
+12 time, but shall be continually available for the uses and purposes set forth in this chapter without
+13 regard to fiscal year limitation.
+14 (3) Additional funds from other sources may also be deposited into the BPS fund.
+15 23-27.5-8. Rules and regulations.
+16 The EC4 shall promulgate rules and regulations to implement and enforce the provisions
+17 of this chapter.
+18 23-27.5-9. Appeals.
+19 An owner aggrieved by this section or compliance orders resulting therefrom may appeal
+20 pursuant to the provisions of chapter 35 of title 42 ("administrative procedures").
+21 SECTION 3. Chapter 23-27.3 of the General Laws entitled "State Building Code" is hereby
+22 amended by adding thereto the following sections:
+23 23-27.3-130. Electric-ready new buildings.
+24 The purpose of this section is to require that all new buildings be electric-ready.
+25 23-27.3-130.1. Definitions.
+26 As used in this chapter:
+27 (1) "Addition" means a significant extension or increase in the conditioned space floor area,
+28 number of stories or height of a building or structure.
+29 (2) "Alteration" means any construction, retrofit or renovation to an existing structure other
+30 than repair or addition. "Alteration" includes a change in a building, or a building's electrical, gas,
+31 mechanical or plumbing system that involves a significant extension, addition or change to the
+32 arrangement, type or purpose of the original installation that requires a permit.
+33 (3) "Building energy needs" means all space conditioning including heating and cooling,
+34 water heating including pools and spas, cooking appliances and clothes drying appliances.
+LC000179 - Page 12 of 16
+
+1 (4) "Electric ready" means a building, project, or portion thereof that contains electrical
+2 systems and designs that provide sufficient capacity for a future retrofit of a mixed-fuel building to
+3 an all-electric building, including sufficient space, drainage, electrical conductors or raceways, bus
+4 bar capacity, and overcurrent protective devices for such retrofit.
+5 (5) "Initial application" means the first site or building permit application for the building
+6 or project.
+7 (6) "Local approval" means a provision has been incorporated by reference into the
+8 municipal code of ordinances by the legislative body of the municipality. Provision may be
+9 included as a general or zoning ordinance or bylaws.
+10 (7) "Mixed-fuel building" means a building that uses a combination of electricity and fossil
+11 fuels to meet building energy needs. "Mixed-fuel building" shall not include buildings that use
+12 geothermal or solar energy to meet heating and/or cooling building energy needs; provided,
+13 however, that they are otherwise all-electric buildings.
+14 (8) "Mixed-use building" means a building used for both residential and commercial
+15 purposes.
+16 (9) "NACC and AGMT" means the North American Contractor Certification and
+17 Architectural Glass and Metal Technicians Contractor Certification.
+18 (10) "Repair" means the reconstruction or renewal of any part of an existing building for
+19 the purpose of its maintenance, or to upgrade or correct damage.
+20 (11) "Renovation" means any major construction or retrofit to existing structure other than
+21 a repair. Renovation includes a change in a building, or a building's electrical, gas, mechanical or
+22 plumbing system that involves a significant extension, addition, or change to the arrangement, type
+23 or purpose of the original installation that requires a permit.
+24 23-27.3-130.2. Requirement for electric-ready construction of new buildings.
+25 No city or town shall issue a permit for the new construction or alteration of any residential,
+26 commercial, or mixed-use building that is not electric-ready if the initial application for such permit
+27 was submitted after January 30, 2026, unless the circumstances set forth in § 23-27.3-130.5 apply.
+28 23-27.3-130.3. Requirement for all-electric ready construction of public buildings.
+29 (a) No permit shall be issued for new public building construction or alteration projects
+30 that are not electric-ready if the initial application for such permit was submitted after December
+31 31, 2025, unless the circumstance set forth in § 23-27.3-130.3 apply.
+32 (b) This subsection is applicable to the new construction or alteration of all buildings
+33 owned by the State of Rhode Island, its political subdivisions including municipalities, any quasi-
+34 public agencies, including buildings owned by the state and managed by other entities.
+LC000179 - Page 13 of 16
+
+1 (1) The awarding authority of any project under this chapter shall take all necessary actions
+2 to ensure that each contractor and subcontractor involved in new public building construction
+3 projects or alteration projects over five million dollars ($5,000,000) requires all contractors and
+4 subcontractor on the project to have or be affiliated with a non-provisionally approved registered
+5 apprenticeship program conforming to the standards set forth in 29 CFR § 29.5. and also require
+6 that not less than fifteen percent (15%) of the total hours worked by the contractors' and
+7 subcontractors' employees to be completed by apprentices registered in registered apprenticeship
+8 programs as defined herein. The awarding agency may lower the fifteen percent (15%) requirement
+9 only if it determines in writing that compliance is not feasible or that it would be unduly cost
+10 prohibitive to the project.
+11 (2) The awarding authority of any project under this chapter shall conduct an independent,
+12 objective, reasoned study, using reviewable criteria, to determine whether adoption of a project
+13 labor agreement on the proposed project or projects will help achieve the goals of the state
+14 purchases act, for all new public building construction projects or alteration projects over twenty-
+15 five million dollars ($25,000,000).
+16 23-27.3-130.4. Exemptions.
+17 (a) Notwithstanding the provisions of this chapter, a permit for construction of a new
+18 mixed-fuel building may be issued upon a finding by the permitting body that constructing an all-
+19 electric building or project is physically or technically infeasible and that a modification is
+20 warranted. Financial considerations shall not be a sufficient basis to determine physical or technical
+21 infeasibility. Modifications shall only be issued under this exception where the permitting body
+22 finds that:
+23 (1) Sufficient evidence was submitted to substantiate the infeasibility of an all-electric
+24 building or project design. Such evidence shall show that the building either:
+25 (i) Cannot satisfy necessary building code requirements without the usage of gas or oil
+26 piping systems, fixtures and/or infrastructure; or
+27 (ii) If the building is specifically designated for occupancy by commercial or industrial
+28 uses which cannot feasibly operate using commercially available all-electric appliances; or
+29 (iii) If mixed fuel is used to meet building energy needs and said building or group of
+30 buildings are for the sole use as a hospital, medical facility, or laboratory for biological research.
+31 (2) The installation of natural gas or oil piping systems, fixtures and/or infrastructure is
+32 strictly limited to the system and area of the building for which an all-electric building or project
+33 design is infeasible.
+34 (3) The area or service within the project where gas or oil piping systems, fixtures and/or
+LC000179 - Page 14 of 16
+
+1 infrastructure are installed is all-electric ready.
+2 (4) The project's modified design provides equivalent health, safety, and fire protection to
+3 an all-electric building or project design.
+4 23-27.3-130.5. Rules and regulations.
+5 The state building code commission shall propose guidelines for electric-ready buildings
+6 by September 1, 2025, and shall make all efforts to promulgate final rules by December 1, 2025.
+7 SECTION 4. This act shall take effect upon passage.
+========
+LC000179
+========
+LC000179 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BUILDING DECARBONIZATION ACT OF 2024
+***
+1 This act would establish the environmental justice advisory board (EJAB) which would
+2 provide advice to the climate change coordinating council ("council") The act establishes an energy
+3 use benchmarking program to determine whether each building subject to the program uses more
+4 or less energy and emits more or less greenhouse gases than other comparable size building. The
+5 council shall promulgate rules and regulation to implement the program. The act also phases in
+6 building performance standards.
+7 This act would take effect upon passage.
+========
+LC000179
+========
+LC000179 - Page 16 of 16
+
+[DELETED: TATE  OF  RHODE  ISLAND S T b b t r e b o l b i R I a a s f t e p F C t S a C B 2 A ( " a a u d m f a s t p a a]
+[DELETED:  o u p m b a a a w t a t ( o m u n r ( 7 ( " i t m a o t t h b o a o t c ( d d ( n b n a b a t g o e p o d t e t b c o s f c ( t J   u ( s ( ( a ( s]
+[DELETED:  t t o t ( " e s m a s s m c p a c o n t e g t a d e p   c ( o r e ( ( ( ( a ( ( ( b ( a p o p ( o a t ( n s]
+[DELETED:  r c b ( " m a t t o a c a c ( " m a c c a o g e t d 2 T a f p g 2 ( F p o t c t g b a c ( e b § 3 s a a a a b t t E c t i r r c ( c o c c e w r t p i o b t a s c ( i w a r o c i b p a e i c a I s a ( a o r]
+[DELETED:  ( o ( p i o b t a s c f i a c i b p a e i a s b o f s c ( u i ( g b p 2 ( s i ( p c o ( " ( i ( ( ( o ( a ( ( i]
+[DELETED:  f s a p ( ( o e ( e p s ( g ( i a p ( r ( p ( b ( T E s i o o m b i t a v c o ( b i ( E ( f]
+[DELETED:  h ( a b ( ( u ( a ( d i ( b u f p S a i b ( W a o s r i a b e o d v a ( a i C i ( f i ( ( i ( f i]
+[DELETED:  ( 2 t o h t ( c s m a t o o c p c t t ( c f f r p ( p ( e u e c 2 M i o b e b r ( T E s e p i a p a c f a m b r S c s i a a m a o r t ( e c f ( A m t i a t i t b e b r a]
+[DELETED:  ( l w ( I t c o a m t h i a b e b r o n a 2 ( a b d 3 S s i ( i p E ( P m s i s e u i a m a i g ( p ( a r ( a E p t p]
+[DELETED:  d ( o s p ( o p a a b p a t t E I t E a a a b p a p f a c p t t o s b r u ( t ( l t f o o t c t m i o f b p s T t e p s a s i i o p ( T E s c w u c e e p a t p u c s a a l g a a ( I t c o a m t h i a b e p r o m c 2 ( T c n ( g b w o]
+[DELETED:  ( o ( o o f a t ( m o t b y p t t i b p ( b ( f A s r ( r i t c I d s t E s t m d E o ( s c ( ( ( r a f v o b p s S p a o f ( f ( p ( ( ( m r]
+[DELETED:  t t a i ( E T B f s b u t s t b b a p i ( f ( r t r ( 2 T o 2 A p S a 2 T 2 A ( n ( t m a ( w]
+[DELETED:  ( s a b   o ( " a m a p h b i b r i t m c o o b t l b o t m P m b i ( f g o s e t m h a c b e n p h ( " b m a b u f b r a c p ( " a A m t N A C C a A ( t ( a p o 2 N c w 2 ( t 3 ( o p]
+[DELETED:  ( t p s a t n l t f p ( o t t h w b t c a s p o p ( o l a o t p p o p w h a t g o t s p f 2 ( m e b o p i p o t i a t a m i w i f ( b ( p ( u ( b ( s d (]
+[DELETED:  i ( a 2 T b S]
+[DELETED:  T p u o c b T]

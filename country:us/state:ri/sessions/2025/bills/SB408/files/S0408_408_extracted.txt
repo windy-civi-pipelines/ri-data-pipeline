@@ -1,0 +1,1031 @@
+Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- ENERGY FACILITY SITING
+Official Title: RELATING TO STATE AFFAIRS AND GOVERNMENT -- ENERGY FACILITY SITING
+Number of Sections: 1
+Source: versions - 408
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0408
+========
+LC000344
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+ACT
+Introduced By: Senators de la Cruz, Rogers, DiPalma, Ciccone, Raptakis, and E Morgan
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 42-98-1, 42-98-2, 42-98-3, 42-98-5, 42-98-7, 42-98-8, 42-98-9, 42-
+2 98-9.1, 42-98-10, 42-98-11 and 42-98-16 of the General Laws in Chapter 42-98 entitled "Energy
+3 Facility Siting Act" are hereby amended to read as follows:
+4 42-98-1. Legislative findings.
+5 (a) The general assembly recognizes that reasonably priced, reliable sources of energy are
+6 vital to the well-being and prosperity of the people of this state; that there are major issues of public
+7 health and safety and impact upon the environment related to the technologies and energy sources
+8 used in some facilities; that some energy facilities require a major commitment of funds and
+9 resources and require many years to build that the decision to permit or deny their construction will
+10 have long term impact on the economy of the state; that these decisions will affect the availability
+11 and cost of the energy; and that the evaluation of proposals must recognize and consider the need
+12 for these facilities in relation to the overall impact of the facilities upon public health and safety,
+13 the environment and the economy of the state;
+14 (b) The general assembly further finds that the authority to regulate many aspects of the
+15 issues involved in the siting of major energy facilities currently exists in a variety of agencies within
+16 the government of the state and the political subdivisions of the state; that there is overlapping
+17 jurisdiction among several state agencies in the siting of energy facilities; and that there is the
+18 potential for conflicting decisions being issued by the various agencies having authority over the
+1 different aspects of the siting of a major energy facility;
+2 (c) The jurisdiction of each state agency should be defined, and the role of each agency in
+3 energy siting should be delineated, to eliminate overlap and duplication and to insure that
+4 expeditious decisions are made within a time frame to be determined by law; and that in addition
+5 to the existing regulation, statewide and regional planning for energy resources and the assessment
+6 of our state’s need for energy should be on-going activities within Rhode Island;
+7 (d) There is need for a coordinated decision on any major energy facility; the technical
+8 expertise for this evaluation is available within existing agencies involved with the siting process;
+9 and
+10 (e) There is a need for coordinating and expediting the review of each state agency and that
+11 the authority and responsibility to perform that function should be established.; and
+12 (f) The general assembly recognizes that a host community for a proposed or existing major
+13 generating facility is uniquely affected by the energy facility siting process.
+14 42-98-2. Declaration of policy.
+15 It shall be the policy of this state to assure that:
+16 (1) The facilities required to meet the energy needs of this and succeeding generations of
+17 Rhode Islanders are planned for, considered, and built in a timely and orderly fashion;
+18 (2) Construction, operation, and/or alteration of major energy facilities shall only be
+19 undertaken when those actions are justified by long term state and/or regional energy need
+20 forecasts;
+21 (3) The energy shall be produced at the least possible cost to the consumer consistent with
+22 the objective of ensuring that the construction, operation, and decommissioning of the facility shall
+23 produce the fewest possible adverse effects on the quality of the state’s environment; most
+24 particularly, its land and its wildlife and resources, the health and safety of its citizens, the purity
+25 of its air and water, its aquatic and marine life, and its esthetic and recreational value to the public;
+26 (4) The licensure and regulatory authority of the state be consolidated in a single body,
+27 which will render the final licensing decision concerning the siting, construction, operation, and/or
+28 alteration of major energy facilities;
+29 (5) An energy facility planning process shall be created through which the statewide
+30 planning program, in conjunction with the division of public utilities and carriers, will be
+31 empowered to undertake evaluations and projections of long and short term energy needs, and any
+32 other matters that are necessary to establish the state energy plans, goals, and policies. The state
+33 planning council shall be authorized and empowered to adopt a long term plan assessing the state’s
+34 future energy needs and the best strategy for meeting them, as part of the state guide plan by January
+LC000344 - Page 2 of 15
+1 1, 1991.
+2 (6) The construction, operation, and/or alteration of major energy facilities shall be
+3 consistent with the state’s established energy plans, goals, and policy.
+4 (7) Before approving the construction, operation, and/or alteration of major energy
+5 facilities, the board shall determine whether cost-effective efficiency and conservation
+6 opportunities provide an appropriate alternative to the proposed facility.
+7 (8) The energy facilities siting board shall give priority to energy generation projects based
+8 on the degree to which such projects meet criteria including, but not limited to:
+9 (i) Using renewable fuels, or natural gas, or coal processed by “clean coal technology” as
+10 their primary fuel;
+11 (ii) Maximizing efficiency;
+12 (iii) Using low levels of high-quality water;
+13 (iv) Using existing energy-generation facilities and sites;
+14 (v) Producing low levels of potentially harmful air emissions;
+15 (vi) Producing low levels of wastewater discharge;
+16 (vii) Producing low levels of waste into the solid waste stream; and
+17 (viii) Having dual fuel capacity.
+18 The board shall, within its rules and regulations, provide guidelines and definitions of
+19 appropriate standards for the criteria designated in this subsection (8) by January 1, 1991.
+20 42-98-3. Definitions.
+21 As used in this chapter:
+22 (1) "Advisory agencies" means the agencies, councils, boards, departments, and officials
+23 of state or political subdivisions of the state which, absent this chapter, would have statutory
+24 authority to grant or deny a permit, license, variance, or assent, and which shall function at the
+25 direction of the board for hearing an issue and rendering an advisory opinion thereon, including,
+26 but not limited to, the public utilities commission, department of transportation, department of
+27 environmental management, historical preservation and heritage commission, division of planning,
+28 department of health, office of energy resources, municipal zoning board, municipal planning
+29 board, municipal building inspector, and municipal tax assessor.
+30 (a)(2) “Agency” means any agency, council, board, or commission of the state or political
+31 subdivision of the state.
+32 (b)(3) “Alteration” means a significant modification to a major energy facility, which, as
+33 determined by the board, will result in a significant impact on the environment, or the public health,
+34 safety, and welfare. Conversion from one type of fuel to another shall not be considered to be an
+LC000344 - Page 3 of 15
+1 “alteration.”
+2 (c)(4) “Board” for purposes of this chapter refers to the siting board.
+3 (d) “Clean coal technology” means one of the technologies developed in the clean coal
+4 technology program of the United States Department of Energy, and shown to produce emissions
+5 levels substantially equal to those of natural gas fired power plants.
+6 (e) “Major energy facility” means facilities for the extraction, production, conversion, and
+7 processing of coal; facilities for the generation of electricity designed or capable of operating at a
+8 gross capacity of forty megawatts (40 MW) or more; transmission lines of sixty-nine (69) Kv or
+9 over; facilities for the conversion, gasification, treatment, transfer, or storage of liquefied natural
+10 and liquefied petroleum gases; facilities for the processing, enrichment, storage, or disposal of
+11 nuclear fuels or nuclear byproducts; facilities for the refining of oil, gas, or other petroleum
+12 products; facilities of ten megawatts (10 MW) or greater capacity for the generation of electricity
+13 by water power, and facilities associated with the transfer of oil, gas, and coal via pipeline; any
+14 energy facility project of the Rhode Island commerce corporation; the board may promulgate
+15 regulations to further define “major energy facility” to the extent further definition is required to
+16 carry out the purpose of this chapter, provided that any waste to energy facility shall not be deemed
+17 a major energy facility for the purposes of this chapter.
+18 (5) "Host community" means any municipality in the state in which all or the majority of
+19 a major energy facility is or shall be located. For the purpose of defining "located", linear aspects
+20 of a major energy facility that transit through multiple municipalities, to include electric
+21 transmission lines as used in this section and pipelines as used in this section shall not be considered
+22 in determining where "the majority" of a major energy facility is or shall be located.
+23 (6) For purpose of this chapter, there shall be two (2) types of "major energy facilities":
+24 (i) "Major generating facility" means facilities for the generation of electricity designed or
+25 capable of operating at a gross capacity of forty megawatts (40 MW) or more.
+26 (ii) “Major non-generating facility” means:
+27 (A) Facilities for the extraction, production, conversion, and processing of coal;
+28 (B) Electric transmission lines of sixty-nine kilovolt (69 KV) or over;
+29 (C) Facilities for the conversion, gasification, treatment, transfer, or storage of liquefied
+30 natural and liquefied petroleum gases, except natural gas pipelines that have a maximum allowable
+31 operating pressure (MOAP) of two hundred pounds per square inch gauge (200 psig) or less;
+32 (D) Facilities for the processing, enrichment, storage, or disposal of nuclear fuels or nuclear
+33 byproducts;
+34 (E) Facilities for the refining of oil, gas, or other petroleum products; and
+LC000344 - Page 4 of 15
+1 (E) Facilities associated with the transfer of oil, gasoline, and coal via pipeline.
+2 42-98-5. Board established.
+3 (a) There is established the siting board which shall be a part of state government.
+4 (1) The siting board shall consist of three (3) five (5) members, as follows: the chairperson
+5 of the public utilities commission, or designee, who shall serve as chairperson of the siting board;
+6 the director of the department of environmental management, or designee; and the associate
+7 director of administration for planning, or designee; the secretary of commerce, or designee; and a
+8 public member appointed in accordance with § 42-98-5.1. Any member of the board who recuses
+9 him or herself shall designate his or her own successor from his or her respective agency.
+10 (2) Any member of the board, other than a public member, may select their own designee
+11 from their respective agency who shall serve until a final determination is made in the proceeding
+12 for which they were designated.
+13 (b) Each member of the board, including designees, shall take an oath to administer the
+14 duties of office faithfully and impartially and that oath shall be filed in the office of the secretary
+15 of state.
+16 (c) The members of the board shall serve without compensation, but shall be reimbursed
+17 for their actual expenses necessarily incurred in the performance of their duties. The board may
+18 engage any consultants or expert witnesses that it deems necessary to implement its statutory
+19 responsibilities; provided, however, that to the maximum extent possible, board staff be drawn
+20 from existing state agencies. The board shall select a coordinator to be responsible for the
+21 publication and distribution of all official minutes, reports, and documents and to further serve as
+22 director of the board staff, which shall be located at the division of public utilities and common
+23 carriers. The coordinator, under the direction of the chairperson, shall coordinate and expedite the
+24 work of the various agencies to ensure that decisions are made within the time frame established
+25 by this chapter. The board may appoint hearing officers to conduct hearings in accordance with §
+26 42-98-5.2. Any individual designated as board staff shall be bound to comply with the ex parte
+27 provisions of § 42-35-13.
+28 (d) A quorum shall consist of a majority of the board. A majority vote of the board shall be
+29 required for all actions, including licensing decisions; provided, however, one member of the board
+30 may conduct any hearings the board is authorized to conduct pursuant to this chapter.
+31 (e) The board shall maintain and grant free access to records and reports in its files to
+32 members of the public during normal working hours and shall permit copies of those records and
+33 reports to be made by interested members of the public at their expense; provided, however, that
+34 the board shall not permit disclosure, other than to another government agency for the sole purpose
+LC000344 - Page 5 of 15
+1 of rendering an advisory opinion, of any information obtained by or submitted to the board pursuant
+2 to the provisions of this chapter, upon a showing, satisfactory to the board, that the information is
+3 entitled to protection as trade secrets or as privileged, confidential, or proprietary information. No
+4 other governmental agency shall disclose any trade secrets or privileged, confidential, or
+5 proprietary information.
+6 42-98-7. Powers and duties.
+7 (a)(1) The siting board is the licensing and permitting authority for all licenses, permits,
+8 assents, or variances that, under any statute of the state or ordinance of any political subdivision of
+9 the state, would be required for siting, construction, or alteration of a major energy facility in the
+10 state.
+11 (2) Any agency, board, council, or commission of the state or political subdivision of the
+12 state that, absent this chapter, would be required to issue a permit, license, assent, or variance in
+13 order for the siting, construction, or alteration of a major energy facility to proceed, shall sit and
+14 function at the direction of the siting board. These agencies shall follow the procedures established
+15 by statute, ordinance, and/or regulation provided for determining the permit, license, assent, or
+16 variance, but, instead of issuing the permit, license, assent, or variance, shall forward its findings
+17 from the proceeding, together with the record supporting the findings and a recommendation for
+18 final action, to the siting board.
+19 (3) Notwithstanding any provision in this chapter to the contrary, in those instances in
+20 which the department of environmental management exercises a permitting or licensing function
+21 under the delegated authority of federal law, including, but not limited to, the federal Clean Water
+22 Act (33 U.S.C. § 1251 et seq.), the Resource Conservation and Recovery Act (42 U.S.C. § 6901 et
+23 seq.), the Clean Air Act (42 U.S.C. § 7401 et seq.), and those state laws and regulations that
+24 implement those federal laws, the department of environmental management shall be the licensing
+25 and permitting authority. Moreover, the authority to issue licenses and permits delegated to the
+26 department of environmental management pursuant to chapter 1 of title 2 and to the coastal
+27 resources management council pursuant to chapter 23 of title 46, shall remain with those agencies,
+28 but in all other respects the department of environmental management and the coastal resources
+29 management council shall follow the procedures set forth in this chapter.
+30 (b) The siting board is authorized and empowered to summon and examine witnesses and
+31 to compel the production and examination of papers, books, accounts, documents, records,
+32 certificates, and other legal evidence that may be necessary for the determination of its jurisdiction
+33 and decision of any question before, or the discharge of any duty required by law of, the board.
+34 (c) The siting board is empowered to issue any orders, rules, or regulations as may be
+LC000344 - Page 6 of 15
+1 required to effectuate the purposes of this chapter. The board shall review its rules and regulations
+2 from time to time and shall modify, amend, or repeal any rules or regulations as may be required
+3 to effectuate the purposes of this chapter.
+4 (d) The siting board shall, by regulation, determine the standards for intervention. Each
+5 host community shall be granted intervenor status as of right.
+6 (e) The siting board’s proceedings shall in all respects comply with the requirements of the
+7 Administrative Procedures Act, chapter 35 of this title, except where otherwise explicitly provided.
+8 42-98-8. Applications — Contents — Acceptance for filing.
+9 (a) The rules and regulations promulgated by the board pursuant to § 42-98-7(c) shall
+10 prescribe the form and contents of applications under this chapter. The applications shall contain
+11 at least the following, where applicable:
+12 (1) Identification of the proposed owner(s) of the facility, including identification of all
+13 affiliates of the proposed owners, as the term is defined in § 39-3-27.
+14 (2) Detailed description of the proposed facility, including its function and operating
+15 characteristics, and complete plans as to all structures, including underground construction and
+16 transmission facilities, underground or aerial, associated with the proposed facility.
+17 The complete plans shall be the basis for determining jurisdiction under the energy facility
+18 siting act and shall be the plans submitted to all reviewing agencies whose permit is required under
+19 the law.
+20 (3) A detailed description and analysis of the impact of the proposed facility on its physical
+21 and social environment together with a detailed description of all environmental characteristics of
+22 the proposed site, including, but not limited to, the types of fuels and waste products used, stored,
+23 and produced by the facility, and a summary of all studies prepared and relied upon in connection
+24 therewith.
+25 Where applicable these descriptions and analysis shall include a review of current
+26 independent, scientific research pertaining to electric and magnetic fields (EMF). The review shall
+27 provide data assessing potential health risks associated with EMF exposure. For the purposes of
+28 this chapter “prudent avoidance” shall refer to measures to be implemented in order to protect the
+29 public from EMF exposure.
+30 (4) All studies and forecasts, complete with the information, data, methodology, and
+31 assumptions on which they are based, on which the applicant intends to rely in showing the need
+32 for the proposed facility under the statewide master construction plan submitted annually.
+33 (5) Complete detail as to the estimated construction cost of the proposed facility, the
+34 projected maintenance and operation costs, estimated costs to the community such as safety and
+LC000344 - Page 7 of 15
+1 public health issues, storm damage and power outages, estimated costs to businesses and
+2 homeowners due to power outages, the estimated unit cost of energy to be produced by the proposed
+3 facility, and expected methods of financing the facility.
+4 (6) A complete life-cycle management plan for the proposed facility, including measures
+5 for protecting the public health and safety and the environment during the facility’s normal and off-
+6 normal operations, including, but not limited to, plans for the handling and disposal of wastes from
+7 the facility, and plans for the decommissioning of the facility at the end of its useful life.
+8 (7) A study of alternatives to the proposed facility, including alternatives as to energy
+9 sources, methods of energy production, and sites for the facility, together with reasons for the
+10 applicant’s rejection of these alternatives. The study shall include estimates of facility cost and unit
+11 energy costs of alternatives considered.
+12 (8) A detailed description of the short-term and long-term economic impacts associated
+13 with constructing and operating the proposed project.
+14 (b) Each application shall be reviewed prior to docketing. The board shall conduct a
+15 preliminary review to determine whether the application contains each item as required by
+16 subsection (a) of this section. Within thirty (30) days of the filing of an applicant application under
+17 this chapter, the board shall notify the applicant whether the application is in the form and addresses
+18 the matters that are required by this section and the rules and regulations as are promulgated
+19 pursuant to § 42-98-7. An application meeting these requirements shall then be docketed. Any
+20 application deemed to be deficient shall be returned to the applicant, together with a concise and
+21 explicit statement of the application’s deficiencies. Within fifteen (15) days of the resubmission of
+22 an application following a rejection for deficiency, the board shall either docket the application
+23 together with specification of continuing deficiencies noted by the board, if any, or shall issue a
+24 decision rejecting the application due to continuing deficiencies.
+25 42-98-9. Applications — Procedures for review — Preliminary hearing.
+26 (a) Within sixty (60) days following the board’s docketing of an application, the board
+27 shall, on not less than forty-five (45) days’ notice to all agencies, subdivisions of the state, and the
+28 public, convene a preliminary hearing on the application to determine the issues to be considered
+29 by the board in evaluating the application, and to designate those agencies of state government and
+30 of political subdivisions of the state that shall act at the direction of the board for the purpose of
+31 rendering advisory opinions on these issues, and to determine petitions for intervention.
+32 (b) The board shall consider as issues in every proceeding the ability of the proposed
+33 facility to meet the requirements of the laws, rules, regulations, and ordinances under which, absent
+34 this chapter, the applicant would be required to obtain a permit, license, variance, or assent. The
+LC000344 - Page 8 of 15
+1 agency of state government or of a political subdivision of the state that, absent this chapter, would
+2 have statutory authority to grant or deny the permit, license, variance, or assent, shall function at
+3 the direction of the board for hearing the issue and rendering an advisory opinion thereon.
+4 (c) The board shall may limit the scope of any agency’s investigation where it finds that
+5 more than one agency has jurisdiction over a matter at issue in the licensing process. In these
+6 instances, the board shall may determine which agency shall make the necessary findings on the
+7 issue after giving proper consideration to the expertise and resources available to each of the
+8 agencies involved.
+9 (d) The public utilities commission shall conduct an investigation in which the division of
+10 planning of the department of administration, the governor’s office of energy assistance resources
+11 and the division of public utilities and carriers shall participate and render an advisory opinion as
+12 to the need for the proposed facility.
+13 (e) The statewide planning program within the department of administration shall conduct
+14 an investigation and render an advisory opinion as to the socio-economic impact of the proposed
+15 facility and its construction and consistency with the state guide plan.
+16 (f) A decision of the board under this section shall be issued within thirty (30) days
+17 following the conclusion of the preliminary hearing and in any event within forty-five (45) days of
+18 the commencement of the hearing.
+19 42-98-9.1. Public notice and hearings on construction projects in cities and towns
+20 affected.
+21 (a) Upon receiving a utility company application, the board shall immediately notify, in
+22 writing, the councils of the towns and cities affected by the construction.
+23 (b)(1) The When the subject of the application is a major non-generating facility, the board
+24 shall have at least one public hearing in each town or city affected the host community prior to
+25 holding its own hearings and prior to taking final action on the application. All details of acceptance
+26 for filing in § 42-98-8(a)(1) — (a)(6) shall be presented at town or city hearings for public comment.
+27 When the subject of the application is a facility for the generation of electricity, or are new facilities
+28 for the transmission of electricity, the town or city where the proposed facility would be located
+29 may request funding from the applicant to perform studies of the local environmental effects of the
+30 proposed facility. The expense of those studies shall not exceed the lesser of one hundred thousand
+31 dollars ($100,000) or one-tenth percent (.1%) of the estimated capital cost of the proposed facility
+32 located in such city or town. If the applicant contests the relevance of the requested study, or
+33 believes it to be redundant with studies already performed, the applicant may request a ruling from
+34 the board whether the study is necessary and reasonably expected to produce relevant information.
+LC000344 - Page 9 of 15
+1 The board’s ruling shall be conclusive and final, and shall not be the basis for an interlocutory
+2 appeal, injunction or otherwise delay the board’s processing of the application.
+3 (2) When the subject of the application is a major generating facility, the board shall have
+4 at least three (3) public hearings in the host community prior to holding its own hearings and prior
+5 to taking final action on the application. All details of acceptance for filing in § 42-98-8(a) shall be
+6 presented at public hearings for public comment. The host community where the proposed
+7 generating facility would be located may request funding from the applicant to perform studies of
+8 the local environmental effects of the proposed facility. The expense of those studies shall not
+9 exceed the greater of one hundred fifty thousand dollars ($150,000) or one-tenth percent (0.1%) of
+10 the estimated capital cost of the proposed facility, whichever is greater. The applicant shall also
+11 pay any and all fees and expenses reasonably incurred by the host community to fully participate
+12 in the facility siting process and local review including, but not limited to, fees and expenses for
+13 legal counsel, expert evaluations, transcripts, and other costs associated with the energy facility
+14 siting process. If the applicant contests any fee or expense as unrelated or unreasonable, the
+15 applicant may request a ruling from the board whether the fee or expense is related and reasonable.
+16 The board's ruling shall be conclusive and final and shall not be the basis for an interlocutory appeal,
+17 injunction, or otherwise delay the board's processing of the application.
+18 (c) The applicant shall notify the citizens in towns and cities affected thirty (30) days prior
+19 to public meetings through local papers.
+20 (d) The applicant shall notify abutting land the following property owners individually, in
+21 writing, thirty (30) days prior to the hearings, by certified mail, postage prepaid.:
+22 (1) For applications related to major non-generating facilities, applicants shall notify all
+23 property owners whose property is located within three hundred feet (300’) from the limit of
+24 disturbance of the proposed project or the centerline of a proposed linear project; provided, no
+25 additional notice is required for sixty (60) and ninety (90) day notices of intent.
+26 (2) For applications related to major generating facilities, applicants shall notify all
+27 property owners whose property is located within two (2) miles from the proposed site boundaries.
+28 (e) Public input shall be a part of the decision making process.
+29 42-98-10. Agency procedures — Advisory opinion.
+30 (a) Each agency of the state or political subdivision of the state designated under § 42-98-
+31 9 shall proceed to consider the issue or issues consigned to it for review. Each advisory agency
+32 shall conclude its consideration and issue its advisory opinion not more than six (6) months
+33 following its designation under § 42-98-9 and receipt of all application materials, or any lesser time
+34 that the board may require, or the right to exercise the function shall be forfeited to the board. The
+LC000344 - Page 10 of 15
+1 board may suspend an application proceeding where an applicant fails to provide requested relevant
+2 information or materials to an advisory agency in a timely manner.
+3 (b) Advisory opinions issued by agencies designated under § 42-98-9 shall not be
+4 considered as final decisions of the agencies making the opinions, and shall not be subject to
+5 judicial review under § 42-35-15, or any other provision of the general laws.
+6 (c) Advisory opinions issued by zoning boards of review, building inspectors, or any other
+7 agency of a municipality designated under § 42-98-9 shall not be reviewable by the public utilities
+8 commission under § 39-1-30.
+9 (d) Failure or refusal of the applicant to provide requested information may be considered
+10 as grounds for recommending denial.
+11 (e) At the request of the siting board, the director of environmental management and the
+12 coastal resources management council shall give priority to the review of permits for energy
+13 facilities.
+14 42-98-11. Final hearing — Standards — Decisions.
+15 (a) Within forty-five (45) days after the final date for submission of advisory opinions
+16 pursuant to § 42-98-10, the board shall convene the final hearing on the application. The purpose
+17 of this the final hearing shall not be to rehear the evidence which was presented previously in
+18 hearings before agencies designated under § 42-98-9, but rather to provide the applicant,
+19 intervenors, the public, and all other parties in the proceeding, the opportunity to address in a single
+20 forum, and from a consolidated, statewide prospective, the issues reviewed, and the
+21 recommendations made in the proceedings before the agencies designated under § 42-98-9. The
+22 board at this hearing may, at its discretion, allow the presentation of new evidence by any party as
+23 to the issues considered by the agencies designated under § 42-98-9. The board may limit the
+24 presentation of repetitive or cumulative evidence. The final hearing shall proceed on not less than
+25 thirty (30) days’ notice to the parties and the public, shall be concluded not more than sixty (60)
+26 days following its initiation, and shall be conducted expeditiously.
+27 (b) The board shall issue a decision granting a license only upon finding that the applicant
+28 has shown that:
+29 (1) Construction of the proposed facility is necessary to meet the needs of the state and/or
+30 region for energy of the type to be produced by the proposed facility.
+31 (2) The proposed facility is cost-justified, and can be expected to produce energy at the
+32 lowest reasonable cost to the consumer consistent with the objective of ensuring that the
+33 construction and operation of the proposed facility will be accomplished in compliance with all of
+34 the requirements of the laws, rules, regulations, and ordinances, under which, absent this chapter,
+LC000344 - Page 11 of 15
+1 a permit, license, variance, or assent would be required, or that consideration of the public health,
+2 safety, welfare, security and need for the proposed facility justifies a waiver of some part of the
+3 requirements when compliance cannot be assured.
+4 (3) The proposed facility will not cause unacceptable harm to the environment and will
+5 enhance the socio-economic fabric of the state.
+6 (c) For multiple applications related to a single project, the board shall consider the
+7 cumulative impacts of the related applications.
+8 (c)(d) Within sixty (60) days of the conclusion of the final hearing the board shall issue its
+9 final decision on the application. A decision in favor of the application shall constitute a granting
+10 of all permits, licenses, variances, or assents, which under any law, rule, regulation, or ordinance
+11 of the state or of a political subdivision thereof which would, absent this chapter, be required for
+12 the proposed facility. The decision may be issued requiring any modification or alteration of the
+13 proposed facility, and may be issued on any condition the board deems warranted by the record,
+14 and may be issued conditional upon the applicant’s receipt of permits required by federal law. The
+15 board’s decision shall explicitly address each of the advisory opinions received from agencies, and
+16 the board’s reasons for accepting, rejecting, or modifying, in whole or in part, any of those advisory
+17 opinions. The board shall, within ten (10) days of granting a license, with or without conditions,
+18 deliver the decision to the governor, the speaker of the Rhode Island house of representatives, and
+19 the president of the Rhode Island senate.
+20 42-98-16. Violations.
+21 (a) Failure to comply with any promulgated board rule, regulation, requirement or
+22 procedure for the licensing of energy facilities shall constitute grounds for suspension or dismissal,
+23 with or without prejudice in its discretion, of licensing proceedings, provided that the applicant
+24 shall have a reasonable opportunity to show cause for and remedy the lack of compliance.
+25 (b) Failure to comply with any provision, condition or limitation contained in a board
+26 license to site, build, or alter a major energy facility and/or failure to comply with a board cease
+27 and desist order and/or a board order to remedy a non-complying action shall be grounds for
+28 suspension or revocation of the license, and/or shall be punishable by a fine of not more than twenty
+29 thousand dollars ($20,000). Each day of continuing noncompliance shall be considered a separate
+30 violation and so punished.
+31 (c) The board may require the licensee to maintain those records as are reasonable and
+32 necessary to monitor compliance with license provisions, and shall have the authority to enter onto
+33 the property of licensees to investigate complaints of noncompliance and to perform routine
+34 inspections.
+LC000344 - Page 12 of 15
+1 (d) The board may designate officials or staff of any state agencies as its agents for the
+2 purposes of investigating complaints, performing routine maintenance functions and issuing
+3 written cease and desist orders.
+4 (e) Nothing in this chapter shall preclude a host community from enforcing municipal
+5 ordinances, levying fines, or pursuing any other legally available enforcement remedies, unless
+6 such ordinances are in direct conflict with a certificate or license issued by the board.
+7 SECTION 2. Chapter 42-98 of the General Laws entitled "Energy Facility Siting Act" is
+8 hereby amended by adding thereto the following sections:
+9 42-98-5.1. Public members.
+10 (a) A public member shall be appointed to the board by the governor with the advice and
+11 consent of the senate for a term of two (2) years.
+12 (b) A public member shall be a member of the general public.
+13 (c) A public member shall not hold another state or local office and shall not receive nor
+14 have received within the previous five (5) years any income directly or indirectly from an electric,
+15 gas, or oil company or from an energy facility developer.
+16 (d) If a public member recuses or withdraws from a proceeding for any reason, a substitute
+17 member shall be appointed in accordance with this section.
+18 42-98-5.2. Hearing officers.
+19 (a) The board may appoint a hearing officer to conduct hearings related to a major non-
+20 generating facility. Hearing officers shall not be appointed to conduct hearings related to a major
+21 generating facility.
+22 (b) A hearing officer shall be an attorney licensed to practice law in this state with
+23 experience in regulatory matters dealing with energy production and/or transmission.
+24 (c) A hearing officer shall be reasonably compensated by the board for their services to the
+25 board, either through contract or, if the hearing officer is a state employee, through a transfer to the
+26 state agency or department by whom the attorney is normally employed.
+27 (d) Following the completion of the hearing, the hearing officer shall file their findings and
+28 recommended decision in writing with the board. Upon review of the findings and
+29 recommendations, the board may accept, reject, or modify, in whole or in part, the hearing officer’s
+30 findings and recommended decision. Subsequent to the board's review and formal decision, the
+31 provider may submit a written brief to the board if the energy provider has a negative impact due
+32 to the hearing officer's findings. The hearing officer’s findings and recommended decision shall
+33 become effective and shall have the same force and effect as a decision of the board. If the board
+34 rejects or modifies the hearing officer’s findings or recommended decision, then the board shall
+LC000344 - Page 13 of 15
+1 decide the matter independently and issue an order of the board with its findings and decision.
+2 (e) No hearing officer shall be assigned to a hearing relating to a project or proposed project
+3 by an applicant from whom they have directly or indirectly received compensation in the last five
+4 (5) years.
+5 (f) The board shall establish within two (2) months of the effective date of this section and
+6 maintain, at least on a biennial basis, a list of qualified hearing officers, the number of which the
+7 board shall set and select as needed.
+8 (g) The list shall be composed with an equal number of officers with primary professional
+9 experience as advocates for government and an equal number of officers with primary professional
+10 experience as advocates for the private sector.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC000344
+========
+LC000344 - Page 14 of 15
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- ENERGY FACILITY SITING
+ACT
+***
+1 This act would recognize that a host community for a proposed or existing major generating
+2 facility is uniquely affected by the facility siting process. The act would also increase the
+3 membership of the siting board from three (3) to five (5) members and would mandate inclusion
+4 and participation of the host community of the facility as well as the public in the affected cities
+5 and towns. This act would spell out requirements for hearing officers and public members of the
+6 board.
+7 This act would take effect upon passage.
+========
+LC000344
+========
+LC000344 - Page 15 of 15
+[DELETED: TATE  OF  RHODE  ISLAND S 9 F 4 ( v h u r h a f t ( i t j p]
+[DELETED:  d ( e s s b d t e o a d a t i t e t o ( e a ( t ( g 4 I ( R ( C o a a o m e f s o b u w t a a j b l t s a r e n f ( t p t f p a e o t q o t s e m p o ( w a ( A e f p p s b c t w t s p p i c w t d o p u a c w b e o p f]
+[DELETED:  1 ( T c o a a o m e f s b c ( B a t c o a a o m e f t b s d w c e a c o ( o ( t ( ( ( ( ( ( ( T a 4 A ( o a d b e d b ( s ( d s]
+[DELETED:  “ ( ( t l ( p g o a n f o n b f f t r o o g o o p p b e r c a ( a o a m e f t t t m m t i e t i ( ( c ( ( ( ( n o ( b (]
+[DELETED:  ( 4 ( ( o t d o t d o e m o d a t a d p h ( f f ( d o ( f e r f e s a T b s s a c t b r f t p d c w b 4 p ( r m ( m r t]
+[DELETED:  o t e o g a s d a t s o p c o p 4 ( a t s ( s o f b v f f ( w u A s i a d o e m p t c 1 o t 2 a t t c r b m ( t c t p a e o p b a d r c a (]
+[DELETED:  r f t ( h ( A 4 ( 4 p a ( a 3 ( D d o t p f i i f a o c t T s t ( a t a t W a t d a a s i a r o c i p t p ( A s a f c w t i d m a a f ( p]
+[DELETED:  p h i s d a p o e c t b a h f ( f n t ( s a e ( w ( E s b r p t d T b s c p r t d w t a c e i a r b s t t p 4 a e a t d 4 ( s p b o r ( f t]
+[DELETED:  a h t ( m i i a ( p a t ( a f ( A d b u t s i w t ( d f t 4 a ( w ( s h f W f m p d l b t]
+[DELETED:  T a ( a t p a p h f p c T h c w t p g t e t p i l s p I t a c a f o e a u o u t a T i ( t ( w ( p d a ( F a r t m g f a s n a p ( 4 ( 9 s c i c a i i a o n m t s ( m f t]
+[DELETED:  b i ( A o i b a d u § 4 s n b c j ( a c ( a ( c r m c s g p t t p f e f 4 ( p o h b a d u § 4 b r t p t a i f a f a c s p t i r a t r b t p t d ( h ( r ( l r c t t c c w t o o e t t c t]
+[DELETED:  a s r ( e ( F m a r t a s p t b s c t c ( f o o t p a b t o d t 4 ( F t c w a p b r r r o p w s ( l a s t v ( n t p o l t i c o n a t p r i]
+[DELETED:  ( p o i c p r m f a i w ( o s S h 4 ( c ( ( h g ( m 4 ( g g ( A h o s b a a l t p l i t s w e ( b s ( r d i w w t b U r o t f a r f p t b r]
+[DELETED:  d ( b ( ( m b ( e e S]
+[DELETED:  T f i u a b t f s p T a w a i t m a a b T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0408
+========
+LC000344
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- ENERGY FACILITY SITING
+ACT
+Introduced By: Senators de la Cruz, Rogers, DiPalma, Ciccone, Raptakis, and E Morgan
+Date Introduced: February 26, 2025
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 42-98-1, 42-98-2, 42-98-3, 42-98-5, 42-98-7, 42-98-8, 42-98-9, 42-
+2 98-9.1, 42-98-10, 42-98-11 and 42-98-16 of the General Laws in Chapter 42-98 entitled "Energy
+3 Facility Siting Act" are hereby amended to read as follows:
+4 42-98-1. Legislative findings.
+5 (a) The general assembly recognizes that reasonably priced, reliable sources of energy are
+6 vital to the well-being and prosperity of the people of this state; that there are major issues of public
+7 health and safety and impact upon the environment related to the technologies and energy sources
+8 used in some facilities; that some energy facilities require a major commitment of funds and
+9 resources and require many years to build that the decision to permit or deny their construction will
+10 have long term impact on the economy of the state; that these decisions will affect the availability
+11 and cost of the energy; and that the evaluation of proposals must recognize and consider the need
+12 for these facilities in relation to the overall impact of the facilities upon public health and safety,
+13 the environment and the economy of the state;
+14 (b) The general assembly further finds that the authority to regulate many aspects of the
+15 issues involved in the siting of major energy facilities currently exists in a variety of agencies within
+16 the government of the state and the political subdivisions of the state; that there is overlapping
+17 jurisdiction among several state agencies in the siting of energy facilities; and that there is the
+18 potential for conflicting decisions being issued by the various agencies having authority over the
+
+1 different aspects of the siting of a major energy facility;
+2 (c) The jurisdiction of each state agency should be defined, and the role of each agency in
+3 energy siting should be delineated, to eliminate overlap and duplication and to insure that
+4 expeditious decisions are made within a time frame to be determined by law; and that in addition
+5 to the existing regulation, statewide and regional planning for energy resources and the assessment
+6 of our state’s need for energy should be on-going activities within Rhode Island;
+7 (d) There is need for a coordinated decision on any major energy facility; the technical
+8 expertise for this evaluation is available within existing agencies involved with the siting process;
+9 and
+10 (e) There is a need for coordinating and expediting the review of each state agency and that
+11 the authority and responsibility to perform that function should be established.; and
+12 (f) The general assembly recognizes that a host community for a proposed or existing major
+13 generating facility is uniquely affected by the energy facility siting process.
+14 42-98-2. Declaration of policy.
+15 It shall be the policy of this state to assure that:
+16 (1) The facilities required to meet the energy needs of this and succeeding generations of
+17 Rhode Islanders are planned for, considered, and built in a timely and orderly fashion;
+18 (2) Construction, operation, and/or alteration of major energy facilities shall only be
+19 undertaken when those actions are justified by long term state and/or regional energy need
+20 forecasts;
+21 (3) The energy shall be produced at the least possible cost to the consumer consistent with
+22 the objective of ensuring that the construction, operation, and decommissioning of the facility shall
+23 produce the fewest possible adverse effects on the quality of the state’s environment; most
+24 particularly, its land and its wildlife and resources, the health and safety of its citizens, the purity
+25 of its air and water, its aquatic and marine life, and its esthetic and recreational value to the public;
+26 (4) The licensure and regulatory authority of the state be consolidated in a single body,
+27 which will render the final licensing decision concerning the siting, construction, operation, and/or
+28 alteration of major energy facilities;
+29 (5) An energy facility planning process shall be created through which the statewide
+30 planning program, in conjunction with the division of public utilities and carriers, will be
+31 empowered to undertake evaluations and projections of long and short term energy needs, and any
+32 other matters that are necessary to establish the state energy plans, goals, and policies. The state
+33 planning council shall be authorized and empowered to adopt a long term plan assessing the state’s
+34 future energy needs and the best strategy for meeting them, as part of the state guide plan by January
+LC000344 - Page 2 of 15
+
+1 1, 1991.
+2 (6) The construction, operation, and/or alteration of major energy facilities shall be
+3 consistent with the state’s established energy plans, goals, and policy.
+4 (7) Before approving the construction, operation, and/or alteration of major energy
+5 facilities, the board shall determine whether cost-effective efficiency and conservation
+6 opportunities provide an appropriate alternative to the proposed facility.
+7 (8) The energy facilities siting board shall give priority to energy generation projects based
+8 on the degree to which such projects meet criteria including, but not limited to:
+9 (i) Using renewable fuels, or natural gas, or coal processed by “clean coal technology” as
+10 their primary fuel;
+11 (ii) Maximizing efficiency;
+12 (iii) Using low levels of high-quality water;
+13 (iv) Using existing energy-generation facilities and sites;
+14 (v) Producing low levels of potentially harmful air emissions;
+15 (vi) Producing low levels of wastewater discharge;
+16 (vii) Producing low levels of waste into the solid waste stream; and
+17 (viii) Having dual fuel capacity.
+18 The board shall, within its rules and regulations, provide guidelines and definitions of
+19 appropriate standards for the criteria designated in this subsection (8) by January 1, 1991.
+20 42-98-3. Definitions.
+21 As used in this chapter:
+22 (1) "Advisory agencies" means the agencies, councils, boards, departments, and officials
+23 of state or political subdivisions of the state which, absent this chapter, would have statutory
+24 authority to grant or deny a permit, license, variance, or assent, and which shall function at the
+25 direction of the board for hearing an issue and rendering an advisory opinion thereon, including,
+26 but not limited to, the public utilities commission, department of transportation, department of
+27 environmental management, historical preservation and heritage commission, division of planning,
+28 department of health, office of energy resources, municipal zoning board, municipal planning
+29 board, municipal building inspector, and municipal tax assessor.
+30 (a)(2) “Agency” means any agency, council, board, or commission of the state or political
+31 subdivision of the state.
+32 (b)(3) “Alteration” means a significant modification to a major energy facility, which, as
+33 determined by the board, will result in a significant impact on the environment, or the public health,
+34 safety, and welfare. Conversion from one type of fuel to another shall not be considered to be an
+LC000344 - Page 3 of 15
+
+1 “alteration.”
+2 (c)(4) “Board” for purposes of this chapter refers to the siting board.
+3 (d) “Clean coal technology” means one of the technologies developed in the clean coal
+4 technology program of the United States Department of Energy, and shown to produce emissions
+5 levels substantially equal to those of natural gas fired power plants.
+6 (e) “Major energy facility” means facilities for the extraction, production, conversion, and
+7 processing of coal; facilities for the generation of electricity designed or capable of operating at a
+8 gross capacity of forty megawatts (40 MW) or more; transmission lines of sixty-nine (69) Kv or
+9 over; facilities for the conversion, gasification, treatment, transfer, or storage of liquefied natural
+10 and liquefied petroleum gases; facilities for the processing, enrichment, storage, or disposal of
+11 nuclear fuels or nuclear byproducts; facilities for the refining of oil, gas, or other petroleum
+12 products; facilities of ten megawatts (10 MW) or greater capacity for the generation of electricity
+13 by water power, and facilities associated with the transfer of oil, gas, and coal via pipeline; any
+14 energy facility project of the Rhode Island commerce corporation; the board may promulgate
+15 regulations to further define “major energy facility” to the extent further definition is required to
+16 carry out the purpose of this chapter, provided that any waste to energy facility shall not be deemed
+17 a major energy facility for the purposes of this chapter.
+18 (5) "Host community" means any municipality in the state in which all or the majority of
+19 a major energy facility is or shall be located. For the purpose of defining "located", linear aspects
+20 of a major energy facility that transit through multiple municipalities, to include electric
+21 transmission lines as used in this section and pipelines as used in this section shall not be considered
+22 in determining where "the majority" of a major energy facility is or shall be located.
+23 (6) For purpose of this chapter, there shall be two (2) types of "major energy facilities":
+24 (i) "Major generating facility" means facilities for the generation of electricity designed or
+25 capable of operating at a gross capacity of forty megawatts (40 MW) or more.
+26 (ii) “Major non-generating facility” means:
+27 (A) Facilities for the extraction, production, conversion, and processing of coal;
+28 (B) Electric transmission lines of sixty-nine kilovolt (69 KV) or over;
+29 (C) Facilities for the conversion, gasification, treatment, transfer, or storage of liquefied
+30 natural and liquefied petroleum gases, except natural gas pipelines that have a maximum allowable
+31 operating pressure (MOAP) of two hundred pounds per square inch gauge (200 psig) or less;
+32 (D) Facilities for the processing, enrichment, storage, or disposal of nuclear fuels or nuclear
+33 byproducts;
+34 (E) Facilities for the refining of oil, gas, or other petroleum products; and
+LC000344 - Page 4 of 15
+
+1 (E) Facilities associated with the transfer of oil, gasoline, and coal via pipeline.
+2 42-98-5. Board established.
+3 (a) There is established the siting board which shall be a part of state government.
+4 (1) The siting board shall consist of three (3) five (5) members, as follows: the chairperson
+5 of the public utilities commission, or designee, who shall serve as chairperson of the siting board;
+6 the director of the department of environmental management, or designee; and the associate
+7 director of administration for planning, or designee; the secretary of commerce, or designee; and a
+8 public member appointed in accordance with § 42-98-5.1. Any member of the board who recuses
+9 him or herself shall designate his or her own successor from his or her respective agency.
+10 (2) Any member of the board, other than a public member, may select their own designee
+11 from their respective agency who shall serve until a final determination is made in the proceeding
+12 for which they were designated.
+13 (b) Each member of the board, including designees, shall take an oath to administer the
+14 duties of office faithfully and impartially and that oath shall be filed in the office of the secretary
+15 of state.
+16 (c) The members of the board shall serve without compensation, but shall be reimbursed
+17 for their actual expenses necessarily incurred in the performance of their duties. The board may
+18 engage any consultants or expert witnesses that it deems necessary to implement its statutory
+19 responsibilities; provided, however, that to the maximum extent possible, board staff be drawn
+20 from existing state agencies. The board shall select a coordinator to be responsible for the
+21 publication and distribution of all official minutes, reports, and documents and to further serve as
+22 director of the board staff, which shall be located at the division of public utilities and common
+23 carriers. The coordinator, under the direction of the chairperson, shall coordinate and expedite the
+24 work of the various agencies to ensure that decisions are made within the time frame established
+25 by this chapter. The board may appoint hearing officers to conduct hearings in accordance with §
+26 42-98-5.2. Any individual designated as board staff shall be bound to comply with the ex parte
+27 provisions of § 42-35-13.
+28 (d) A quorum shall consist of a majority of the board. A majority vote of the board shall be
+29 required for all actions, including licensing decisions; provided, however, one member of the board
+30 may conduct any hearings the board is authorized to conduct pursuant to this chapter.
+31 (e) The board shall maintain and grant free access to records and reports in its files to
+32 members of the public during normal working hours and shall permit copies of those records and
+33 reports to be made by interested members of the public at their expense; provided, however, that
+34 the board shall not permit disclosure, other than to another government agency for the sole purpose
+LC000344 - Page 5 of 15
+
+1 of rendering an advisory opinion, of any information obtained by or submitted to the board pursuant
+2 to the provisions of this chapter, upon a showing, satisfactory to the board, that the information is
+3 entitled to protection as trade secrets or as privileged, confidential, or proprietary information. No
+4 other governmental agency shall disclose any trade secrets or privileged, confidential, or
+5 proprietary information.
+6 42-98-7. Powers and duties.
+7 (a)(1) The siting board is the licensing and permitting authority for all licenses, permits,
+8 assents, or variances that, under any statute of the state or ordinance of any political subdivision of
+9 the state, would be required for siting, construction, or alteration of a major energy facility in the
+10 state.
+11 (2) Any agency, board, council, or commission of the state or political subdivision of the
+12 state that, absent this chapter, would be required to issue a permit, license, assent, or variance in
+13 order for the siting, construction, or alteration of a major energy facility to proceed, shall sit and
+14 function at the direction of the siting board. These agencies shall follow the procedures established
+15 by statute, ordinance, and/or regulation provided for determining the permit, license, assent, or
+16 variance, but, instead of issuing the permit, license, assent, or variance, shall forward its findings
+17 from the proceeding, together with the record supporting the findings and a recommendation for
+18 final action, to the siting board.
+19 (3) Notwithstanding any provision in this chapter to the contrary, in those instances in
+20 which the department of environmental management exercises a permitting or licensing function
+21 under the delegated authority of federal law, including, but not limited to, the federal Clean Water
+22 Act (33 U.S.C. § 1251 et seq.), the Resource Conservation and Recovery Act (42 U.S.C. § 6901 et
+23 seq.), the Clean Air Act (42 U.S.C. § 7401 et seq.), and those state laws and regulations that
+24 implement those federal laws, the department of environmental management shall be the licensing
+25 and permitting authority. Moreover, the authority to issue licenses and permits delegated to the
+26 department of environmental management pursuant to chapter 1 of title 2 and to the coastal
+27 resources management council pursuant to chapter 23 of title 46, shall remain with those agencies,
+28 but in all other respects the department of environmental management and the coastal resources
+29 management council shall follow the procedures set forth in this chapter.
+30 (b) The siting board is authorized and empowered to summon and examine witnesses and
+31 to compel the production and examination of papers, books, accounts, documents, records,
+32 certificates, and other legal evidence that may be necessary for the determination of its jurisdiction
+33 and decision of any question before, or the discharge of any duty required by law of, the board.
+34 (c) The siting board is empowered to issue any orders, rules, or regulations as may be
+LC000344 - Page 6 of 15
+
+1 required to effectuate the purposes of this chapter. The board shall review its rules and regulations
+2 from time to time and shall modify, amend, or repeal any rules or regulations as may be required
+3 to effectuate the purposes of this chapter.
+4 (d) The siting board shall, by regulation, determine the standards for intervention. Each
+5 host community shall be granted intervenor status as of right.
+6 (e) The siting board’s proceedings shall in all respects comply with the requirements of the
+7 Administrative Procedures Act, chapter 35 of this title, except where otherwise explicitly provided.
+8 42-98-8. Applications — Contents — Acceptance for filing.
+9 (a) The rules and regulations promulgated by the board pursuant to § 42-98-7(c) shall
+10 prescribe the form and contents of applications under this chapter. The applications shall contain
+11 at least the following, where applicable:
+12 (1) Identification of the proposed owner(s) of the facility, including identification of all
+13 affiliates of the proposed owners, as the term is defined in § 39-3-27.
+14 (2) Detailed description of the proposed facility, including its function and operating
+15 characteristics, and complete plans as to all structures, including underground construction and
+16 transmission facilities, underground or aerial, associated with the proposed facility.
+17 The complete plans shall be the basis for determining jurisdiction under the energy facility
+18 siting act and shall be the plans submitted to all reviewing agencies whose permit is required under
+19 the law.
+20 (3) A detailed description and analysis of the impact of the proposed facility on its physical
+21 and social environment together with a detailed description of all environmental characteristics of
+22 the proposed site, including, but not limited to, the types of fuels and waste products used, stored,
+23 and produced by the facility, and a summary of all studies prepared and relied upon in connection
+24 therewith.
+25 Where applicable these descriptions and analysis shall include a review of current
+26 independent, scientific research pertaining to electric and magnetic fields (EMF). The review shall
+27 provide data assessing potential health risks associated with EMF exposure. For the purposes of
+28 this chapter “prudent avoidance” shall refer to measures to be implemented in order to protect the
+29 public from EMF exposure.
+30 (4) All studies and forecasts, complete with the information, data, methodology, and
+31 assumptions on which they are based, on which the applicant intends to rely in showing the need
+32 for the proposed facility under the statewide master construction plan submitted annually.
+33 (5) Complete detail as to the estimated construction cost of the proposed facility, the
+34 projected maintenance and operation costs, estimated costs to the community such as safety and
+LC000344 - Page 7 of 15
+
+1 public health issues, storm damage and power outages, estimated costs to businesses and
+2 homeowners due to power outages, the estimated unit cost of energy to be produced by the proposed
+3 facility, and expected methods of financing the facility.
+4 (6) A complete life-cycle management plan for the proposed facility, including measures
+5 for protecting the public health and safety and the environment during the facility’s normal and off-
+6 normal operations, including, but not limited to, plans for the handling and disposal of wastes from
+7 the facility, and plans for the decommissioning of the facility at the end of its useful life.
+8 (7) A study of alternatives to the proposed facility, including alternatives as to energy
+9 sources, methods of energy production, and sites for the facility, together with reasons for the
+10 applicant’s rejection of these alternatives. The study shall include estimates of facility cost and unit
+11 energy costs of alternatives considered.
+12 (8) A detailed description of the short-term and long-term economic impacts associated
+13 with constructing and operating the proposed project.
+14 (b) Each application shall be reviewed prior to docketing. The board shall conduct a
+15 preliminary review to determine whether the application contains each item as required by
+16 subsection (a) of this section. Within thirty (30) days of the filing of an applicant application under
+17 this chapter, the board shall notify the applicant whether the application is in the form and addresses
+18 the matters that are required by this section and the rules and regulations as are promulgated
+19 pursuant to § 42-98-7. An application meeting these requirements shall then be docketed. Any
+20 application deemed to be deficient shall be returned to the applicant, together with a concise and
+21 explicit statement of the application’s deficiencies. Within fifteen (15) days of the resubmission of
+22 an application following a rejection for deficiency, the board shall either docket the application
+23 together with specification of continuing deficiencies noted by the board, if any, or shall issue a
+24 decision rejecting the application due to continuing deficiencies.
+25 42-98-9. Applications — Procedures for review — Preliminary hearing.
+26 (a) Within sixty (60) days following the board’s docketing of an application, the board
+27 shall, on not less than forty-five (45) days’ notice to all agencies, subdivisions of the state, and the
+28 public, convene a preliminary hearing on the application to determine the issues to be considered
+29 by the board in evaluating the application, and to designate those agencies of state government and
+30 of political subdivisions of the state that shall act at the direction of the board for the purpose of
+31 rendering advisory opinions on these issues, and to determine petitions for intervention.
+32 (b) The board shall consider as issues in every proceeding the ability of the proposed
+33 facility to meet the requirements of the laws, rules, regulations, and ordinances under which, absent
+34 this chapter, the applicant would be required to obtain a permit, license, variance, or assent. The
+LC000344 - Page 8 of 15
+
+1 agency of state government or of a political subdivision of the state that, absent this chapter, would
+2 have statutory authority to grant or deny the permit, license, variance, or assent, shall function at
+3 the direction of the board for hearing the issue and rendering an advisory opinion thereon.
+4 (c) The board shall may limit the scope of any agency’s investigation where it finds that
+5 more than one agency has jurisdiction over a matter at issue in the licensing process. In these
+6 instances, the board shall may determine which agency shall make the necessary findings on the
+7 issue after giving proper consideration to the expertise and resources available to each of the
+8 agencies involved.
+9 (d) The public utilities commission shall conduct an investigation in which the division of
+10 planning of the department of administration, the governor’s office of energy assistance resources
+11 and the division of public utilities and carriers shall participate and render an advisory opinion as
+12 to the need for the proposed facility.
+13 (e) The statewide planning program within the department of administration shall conduct
+14 an investigation and render an advisory opinion as to the socio-economic impact of the proposed
+15 facility and its construction and consistency with the state guide plan.
+16 (f) A decision of the board under this section shall be issued within thirty (30) days
+17 following the conclusion of the preliminary hearing and in any event within forty-five (45) days of
+18 the commencement of the hearing.
+19 42-98-9.1. Public notice and hearings on construction projects in cities and towns
+20 affected.
+21 (a) Upon receiving a utility company application, the board shall immediately notify, in
+22 writing, the councils of the towns and cities affected by the construction.
+23 (b)(1) The When the subject of the application is a major non-generating facility, the board
+24 shall have at least one public hearing in each town or city affected the host community prior to
+25 holding its own hearings and prior to taking final action on the application. All details of acceptance
+26 for filing in § 42-98-8(a)(1) — (a)(6) shall be presented at town or city hearings for public comment.
+27 When the subject of the application is a facility for the generation of electricity, or are new facilities
+28 for the transmission of electricity, the town or city where the proposed facility would be located
+29 may request funding from the applicant to perform studies of the local environmental effects of the
+30 proposed facility. The expense of those studies shall not exceed the lesser of one hundred thousand
+31 dollars ($100,000) or one-tenth percent (.1%) of the estimated capital cost of the proposed facility
+32 located in such city or town. If the applicant contests the relevance of the requested study, or
+33 believes it to be redundant with studies already performed, the applicant may request a ruling from
+34 the board whether the study is necessary and reasonably expected to produce relevant information.
+LC000344 - Page 9 of 15
+
+1 The board’s ruling shall be conclusive and final, and shall not be the basis for an interlocutory
+2 appeal, injunction or otherwise delay the board’s processing of the application.
+3 (2) When the subject of the application is a major generating facility, the board shall have
+4 at least three (3) public hearings in the host community prior to holding its own hearings and prior
+5 to taking final action on the application. All details of acceptance for filing in § 42-98-8(a) shall be
+6 presented at public hearings for public comment. The host community where the proposed
+7 generating facility would be located may request funding from the applicant to perform studies of
+8 the local environmental effects of the proposed facility. The expense of those studies shall not
+9 exceed the greater of one hundred fifty thousand dollars ($150,000) or one-tenth percent (0.1%) of
+10 the estimated capital cost of the proposed facility, whichever is greater. The applicant shall also
+11 pay any and all fees and expenses reasonably incurred by the host community to fully participate
+12 in the facility siting process and local review including, but not limited to, fees and expenses for
+13 legal counsel, expert evaluations, transcripts, and other costs associated with the energy facility
+14 siting process. If the applicant contests any fee or expense as unrelated or unreasonable, the
+15 applicant may request a ruling from the board whether the fee or expense is related and reasonable.
+16 The board's ruling shall be conclusive and final and shall not be the basis for an interlocutory appeal,
+17 injunction, or otherwise delay the board's processing of the application.
+18 (c) The applicant shall notify the citizens in towns and cities affected thirty (30) days prior
+19 to public meetings through local papers.
+20 (d) The applicant shall notify abutting land the following property owners individually, in
+21 writing, thirty (30) days prior to the hearings, by certified mail, postage prepaid.:
+22 (1) For applications related to major non-generating facilities, applicants shall notify all
+23 property owners whose property is located within three hundred feet (300’) from the limit of
+24 disturbance of the proposed project or the centerline of a proposed linear project; provided, no
+25 additional notice is required for sixty (60) and ninety (90) day notices of intent.
+26 (2) For applications related to major generating facilities, applicants shall notify all
+27 property owners whose property is located within two (2) miles from the proposed site boundaries.
+28 (e) Public input shall be a part of the decision making process.
+29 42-98-10. Agency procedures — Advisory opinion.
+30 (a) Each agency of the state or political subdivision of the state designated under § 42-98-
+31 9 shall proceed to consider the issue or issues consigned to it for review. Each advisory agency
+32 shall conclude its consideration and issue its advisory opinion not more than six (6) months
+33 following its designation under § 42-98-9 and receipt of all application materials, or any lesser time
+34 that the board may require, or the right to exercise the function shall be forfeited to the board. The
+LC000344 - Page 10 of 15
+
+1 board may suspend an application proceeding where an applicant fails to provide requested relevant
+2 information or materials to an advisory agency in a timely manner.
+3 (b) Advisory opinions issued by agencies designated under § 42-98-9 shall not be
+4 considered as final decisions of the agencies making the opinions, and shall not be subject to
+5 judicial review under § 42-35-15, or any other provision of the general laws.
+6 (c) Advisory opinions issued by zoning boards of review, building inspectors, or any other
+7 agency of a municipality designated under § 42-98-9 shall not be reviewable by the public utilities
+8 commission under § 39-1-30.
+9 (d) Failure or refusal of the applicant to provide requested information may be considered
+10 as grounds for recommending denial.
+11 (e) At the request of the siting board, the director of environmental management and the
+12 coastal resources management council shall give priority to the review of permits for energy
+13 facilities.
+14 42-98-11. Final hearing — Standards — Decisions.
+15 (a) Within forty-five (45) days after the final date for submission of advisory opinions
+16 pursuant to § 42-98-10, the board shall convene the final hearing on the application. The purpose
+17 of this the final hearing shall not be to rehear the evidence which was presented previously in
+18 hearings before agencies designated under § 42-98-9, but rather to provide the applicant,
+19 intervenors, the public, and all other parties in the proceeding, the opportunity to address in a single
+20 forum, and from a consolidated, statewide prospective, the issues reviewed, and the
+21 recommendations made in the proceedings before the agencies designated under § 42-98-9. The
+22 board at this hearing may, at its discretion, allow the presentation of new evidence by any party as
+23 to the issues considered by the agencies designated under § 42-98-9. The board may limit the
+24 presentation of repetitive or cumulative evidence. The final hearing shall proceed on not less than
+25 thirty (30) days’ notice to the parties and the public, shall be concluded not more than sixty (60)
+26 days following its initiation, and shall be conducted expeditiously.
+27 (b) The board shall issue a decision granting a license only upon finding that the applicant
+28 has shown that:
+29 (1) Construction of the proposed facility is necessary to meet the needs of the state and/or
+30 region for energy of the type to be produced by the proposed facility.
+31 (2) The proposed facility is cost-justified, and can be expected to produce energy at the
+32 lowest reasonable cost to the consumer consistent with the objective of ensuring that the
+33 construction and operation of the proposed facility will be accomplished in compliance with all of
+34 the requirements of the laws, rules, regulations, and ordinances, under which, absent this chapter,
+LC000344 - Page 11 of 15
+
+1 a permit, license, variance, or assent would be required, or that consideration of the public health,
+2 safety, welfare, security and need for the proposed facility justifies a waiver of some part of the
+3 requirements when compliance cannot be assured.
+4 (3) The proposed facility will not cause unacceptable harm to the environment and will
+5 enhance the socio-economic fabric of the state.
+6 (c) For multiple applications related to a single project, the board shall consider the
+7 cumulative impacts of the related applications.
+8 (c)(d) Within sixty (60) days of the conclusion of the final hearing the board shall issue its
+9 final decision on the application. A decision in favor of the application shall constitute a granting
+10 of all permits, licenses, variances, or assents, which under any law, rule, regulation, or ordinance
+11 of the state or of a political subdivision thereof which would, absent this chapter, be required for
+12 the proposed facility. The decision may be issued requiring any modification or alteration of the
+13 proposed facility, and may be issued on any condition the board deems warranted by the record,
+14 and may be issued conditional upon the applicant’s receipt of permits required by federal law. The
+15 board’s decision shall explicitly address each of the advisory opinions received from agencies, and
+16 the board’s reasons for accepting, rejecting, or modifying, in whole or in part, any of those advisory
+17 opinions. The board shall, within ten (10) days of granting a license, with or without conditions,
+18 deliver the decision to the governor, the speaker of the Rhode Island house of representatives, and
+19 the president of the Rhode Island senate.
+20 42-98-16. Violations.
+21 (a) Failure to comply with any promulgated board rule, regulation, requirement or
+22 procedure for the licensing of energy facilities shall constitute grounds for suspension or dismissal,
+23 with or without prejudice in its discretion, of licensing proceedings, provided that the applicant
+24 shall have a reasonable opportunity to show cause for and remedy the lack of compliance.
+25 (b) Failure to comply with any provision, condition or limitation contained in a board
+26 license to site, build, or alter a major energy facility and/or failure to comply with a board cease
+27 and desist order and/or a board order to remedy a non-complying action shall be grounds for
+28 suspension or revocation of the license, and/or shall be punishable by a fine of not more than twenty
+29 thousand dollars ($20,000). Each day of continuing noncompliance shall be considered a separate
+30 violation and so punished.
+31 (c) The board may require the licensee to maintain those records as are reasonable and
+32 necessary to monitor compliance with license provisions, and shall have the authority to enter onto
+33 the property of licensees to investigate complaints of noncompliance and to perform routine
+34 inspections.
+LC000344 - Page 12 of 15
+
+1 (d) The board may designate officials or staff of any state agencies as its agents for the
+2 purposes of investigating complaints, performing routine maintenance functions and issuing
+3 written cease and desist orders.
+4 (e) Nothing in this chapter shall preclude a host community from enforcing municipal
+5 ordinances, levying fines, or pursuing any other legally available enforcement remedies, unless
+6 such ordinances are in direct conflict with a certificate or license issued by the board.
+7 SECTION 2. Chapter 42-98 of the General Laws entitled "Energy Facility Siting Act" is
+8 hereby amended by adding thereto the following sections:
+9 42-98-5.1. Public members.
+10 (a) A public member shall be appointed to the board by the governor with the advice and
+11 consent of the senate for a term of two (2) years.
+12 (b) A public member shall be a member of the general public.
+13 (c) A public member shall not hold another state or local office and shall not receive nor
+14 have received within the previous five (5) years any income directly or indirectly from an electric,
+15 gas, or oil company or from an energy facility developer.
+16 (d) If a public member recuses or withdraws from a proceeding for any reason, a substitute
+17 member shall be appointed in accordance with this section.
+18 42-98-5.2. Hearing officers.
+19 (a) The board may appoint a hearing officer to conduct hearings related to a major non-
+20 generating facility. Hearing officers shall not be appointed to conduct hearings related to a major
+21 generating facility.
+22 (b) A hearing officer shall be an attorney licensed to practice law in this state with
+23 experience in regulatory matters dealing with energy production and/or transmission.
+24 (c) A hearing officer shall be reasonably compensated by the board for their services to the
+25 board, either through contract or, if the hearing officer is a state employee, through a transfer to the
+26 state agency or department by whom the attorney is normally employed.
+27 (d) Following the completion of the hearing, the hearing officer shall file their findings and
+28 recommended decision in writing with the board. Upon review of the findings and
+29 recommendations, the board may accept, reject, or modify, in whole or in part, the hearing officer’s
+30 findings and recommended decision. Subsequent to the board's review and formal decision, the
+31 provider may submit a written brief to the board if the energy provider has a negative impact due
+32 to the hearing officer's findings. The hearing officer’s findings and recommended decision shall
+33 become effective and shall have the same force and effect as a decision of the board. If the board
+34 rejects or modifies the hearing officer’s findings or recommended decision, then the board shall
+LC000344 - Page 13 of 15
+
+1 decide the matter independently and issue an order of the board with its findings and decision.
+2 (e) No hearing officer shall be assigned to a hearing relating to a project or proposed project
+3 by an applicant from whom they have directly or indirectly received compensation in the last five
+4 (5) years.
+5 (f) The board shall establish within two (2) months of the effective date of this section and
+6 maintain, at least on a biennial basis, a list of qualified hearing officers, the number of which the
+7 board shall set and select as needed.
+8 (g) The list shall be composed with an equal number of officers with primary professional
+9 experience as advocates for government and an equal number of officers with primary professional
+10 experience as advocates for the private sector.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC000344
+========
+LC000344 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- ENERGY FACILITY SITING
+ACT
+***
+1 This act would recognize that a host community for a proposed or existing major generating
+2 facility is uniquely affected by the facility siting process. The act would also increase the
+3 membership of the siting board from three (3) to five (5) members and would mandate inclusion
+4 and participation of the host community of the facility as well as the public in the affected cities
+5 and towns. This act would spell out requirements for hearing officers and public members of the
+6 board.
+7 This act would take effect upon passage.
+========
+LC000344
+========
+LC000344 - Page 15 of 15
+
+[DELETED: TATE  OF  RHODE  ISLAND S 9 F 4 ( v h u r h a f t ( i t j p]
+[DELETED:  d ( e s s b d t e o a d a t i t e t o ( e a ( t ( g 4 I ( R ( C o a a o m e f s o b u w t a a j b l t s a r e n f ( t p t f p a e o t q o t s e m p o ( w a ( A e f p p s b c t w t s p p i c w t d o p u a c w b e o p f]
+[DELETED:  1 ( T c o a a o m e f s b c ( B a t c o a a o m e f t b s d w c e a c o ( o ( t ( ( ( ( ( ( ( T a 4 A ( o a d b e d b ( s ( d s]
+[DELETED:  “ ( ( t l ( p g o a n f o n b f f t r o o g o o p p b e r c a ( a o a m e f t t t m m t i e t i ( ( c ( ( ( ( n o ( b (]
+[DELETED:  ( 4 ( ( o t d o t d o e m o d a t a d p h ( f f ( d o ( f e r f e s a T b s s a c t b r f t p d c w b 4 p ( r m ( m r t]
+[DELETED:  o t e o g a s d a t s o p c o p 4 ( a t s ( s o f b v f f ( w u A s i a d o e m p t c 1 o t 2 a t t c r b m ( t c t p a e o p b a d r c a (]
+[DELETED:  r f t ( h ( A 4 ( 4 p a ( a 3 ( D d o t p f i i f a o c t T s t ( a t a t W a t d a a s i a r o c i p t p ( A s a f c w t i d m a a f ( p]
+[DELETED:  p h i s d a p o e c t b a h f ( f n t ( s a e ( w ( E s b r p t d T b s c p r t d w t a c e i a r b s t t p 4 a e a t d 4 ( s p b o r ( f t]
+[DELETED:  a h t ( m i i a ( p a t ( a f ( A d b u t s i w t ( d f t 4 a ( w ( s h f W f m p d l b t]
+[DELETED:  T a ( a t p a p h f p c T h c w t p g t e t p i l s p I t a c a f o e a u o u t a T i ( t ( w ( p d a ( F a r t m g f a s n a p ( 4 ( 9 s c i c a i i a o n m t s ( m f t]
+[DELETED:  b i ( A o i b a d u § 4 s n b c j ( a c ( a ( c r m c s g p t t p f e f 4 ( p o h b a d u § 4 b r t p t a i f a f a c s p t i r a t r b t p t d ( h ( r ( l r c t t c c w t o o e t t c t]
+[DELETED:  a s r ( e ( F m a r t a s p t b s c t c ( f o o t p a b t o d t 4 ( F t c w a p b r r r o p w s ( l a s t v ( n t p o l t i c o n a t p r i]
+[DELETED:  ( p o i c p r m f a i w ( o s S h 4 ( c ( ( h g ( m 4 ( g g ( A h o s b a a l t p l i t s w e ( b s ( r d i w w t b U r o t f a r f p t b r]
+[DELETED:  d ( b ( ( m b ( e e S]
+[DELETED:  T f i u a b t f s p T a w a i t m a a b T]

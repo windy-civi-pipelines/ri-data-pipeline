@@ -1,0 +1,451 @@
+Title: RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Official Title: RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Number of Sections: 1
+Source: versions - 5503
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5503
+========
+LC001598
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Cruz, Potter, Morales, Giraldo, Stewart, Felix, Tanzi,
+Batista, J. Lombardi, and Ajello
+Date Introduced: February 13, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-11 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-11. Definitions.
+4 Subject to additional definitions contained in subsequent sections of this chapter which
+5 apply to specific sections thereof, and unless the context otherwise requires, in this chapter:
+6 (1) “Abandonment” means the tenant has vacated the premises without notice to the
+7 landlord and has no intention of returning, as evidenced by nonpayment of rent for more than fifteen
+8 (15) days and removal of substantially all possessions from the premises;
+9 (2) “Action” includes recoupment, counterclaim, set-off, suit in equity, and any other
+10 proceeding in which rights are determined, including an action for possession;
+11 (3) “Building and housing codes” include any law, ordinance, or governmental regulation
+12 concerning fitness for habitation, or the construction, maintenance, operation, occupancy, use, or
+13 appearance of any premises of dwelling unit;
+14 (4) "Disabled person" means a person who has an impairment which results from
+15 anatomical, physiological or psychological conditions, other than addiction to alcohol, gambling,
+16 or any controlled substance, which are demonstrable by medically acceptable clinical and
+17 laboratory diagnostic techniques, and which are expected to be permanent and which substantially
+18 limit one or more of such person's major life activities.
+19 (4)(5) “Dwelling unit” or "housing accommodation" means a structure or part of a structure
+1 that is designed or intended to be used as a home, residence, or sleeping place by one or more
+2 persons, including a mobile home or land in a mobile home park;
+3 (5)(6) “Fair rental value” means rent which is of comparable value with that of other rental
+4 properties of similar size and condition within the contiguous neighborhood;
+5 (6)(7) “Good faith” means honesty in fact in the conduct of the transaction concerned;
+6 (7)(8) “Landlord” means the owner, lessor, assigner, or sublessor or other person receiving
+7 or entitled to receive rent for the occupancy of any housing accommodation or an agent of any of
+8 the foregoing of the dwelling unit or the building of which it is a part, and it also means a manager
+9 of the premises who fails to disclose as required by § 34-18-20;
+10 (8)(9) “Ordinary wear and tear” means deterioration of the premises which is the result of
+11 the tenant’s normal nonabusive living and includes, but is not limited to, deterioration caused by
+12 the landlord’s failure to prepare for expected conditions or by the landlord’s failure to comply with
+13 his or her obligations;
+14 (9)(10) “Organization” includes a corporation, government, governmental subdivision or
+15 agency, business trust, estate, trust, partnership of association, two (2) or more persons having a
+16 joint or common interest, and any other legal or commercial entity;
+17 (10)(11) “Owner” shall mean any person who, alone or jointly or severally with others:
+18 (i) Has legal title or tax title (pursuant to §§ 44-9-40 — 44-9-46, inclusive, of the general
+19 laws) to any dwelling, dwelling unit or structure with or without accompanying actual possession
+20 thereof; or
+21 (ii) Has charge, care, or control of any dwelling, dwelling unit or structure as owner or
+22 agent of the owner, or an executor, administrator, trustee, or guardian of the estate of the owner.
+23 Any person representing the actual owner in this way shall be bound to comply with the provisions
+24 of this chapter and of rules and regulations adopted pursuant thereto to the same extent as if he or
+25 she were the owner.
+26 (11)(12) “Person” includes an individual or organization;
+27 (12)(13) “Premises” means a dwelling unit and the structure of which it is a part and
+28 facilities and appurtenances therein and grounds, areas, and facilities held out for the use of tenants
+29 generally, or the use of which is promised to the tenant;
+30 (13)(14) “Rent” means the payment or consideration that a tenant pays to a landlord for the
+31 use of the premises, whether money, services, property, or produce of the land;
+32 (14)(15) “Rental agreement” means all agreements, written or oral, and valid rules and
+33 regulations adopted under § 34-18-25 embodying the terms and conditions concerning the use and
+34 occupancy of a dwelling unit and premises, and also includes any terms required by law;
+LC001598 - Page 2 of 7
+1 (15)(16) “Roomer” means a tenant occupying a dwelling unit which consists of any room
+2 or group of rooms forming a single habitable unit used or intended to be used for living and
+3 sleeping, but not for cooking or eating purposes;
+4 (16)(17) “Security deposit” means a sum of money given by a tenant to a landlord at the
+5 outset of the tenancy or shortly thereafter, as a deposit against physical damages to the tenant’s
+6 dwelling unit during said tenancy;
+7 (17)(18) “Tenant” means a tenant, sub-tenant, lessee, sublessee, assignee, an occupant of a
+8 rooming house or hotel or any other person entitled to the possession, use or occupancy of any
+9 housing accommodation person entitled under a rental agreement to occupy a dwelling unit to the
+10 exclusion of others;
+11 (18)(19) “Transitional housing facility” means a facility which, for a period not to exceed
+12 two (2) years, provides its residents with appropriate social services for the purpose of fostering
+13 independence, self-sufficiency, and eventual transition to a permanent living arrangement;
+14 (19)(20) “Willful” means that the act was performed intentionally, knowingly and
+15 purposely, not accidentally or inadvertently and without justifiable excuse.
+16 SECTION 2. Chapter 34-18 of the General Laws entitled "Residential Landlord and Tenant
+17 Act" is hereby amended by adding thereto the following sections:
+18 34-18-7.1. Applicability to just cause evictions.
+19 This section shall apply to all housing accommodations subject to just cause evictions
+20 except:
+21 (1) Owner-occupied premises with fewer than five (5) units;
+22 (2) An individual or family who owns and manages a one to four (4) unit property that is
+23 separate from their own primary residence;
+24 (3) Premises sublet, or otherwise, where the sublessor seeks, in good faith, to recover
+25 possession of such housing accommodation for their own personal use and occupancy;
+26 (4) Premises, the possession, use or occupancy of which, is solely incidental to employment
+27 and such employment is being lawfully terminated; and
+28 (5) Premises otherwise subject to regulation of rents or evictions pursuant to state or federal
+29 law to the extent that such state or federal law requires "good cause" for termination or non-renewal
+30 of such tenancies.
+31 34-18-38.3. Necessity for just cause - Removal of tenants.
+32 (a) No landlord shall, by action to evict or to recover possession, by exclusion from
+33 possession, by failure to renew any lease, or otherwise, remove any tenant from housing
+34 accommodations covered by chapter 18 of title 34, except for good cause as set forth in subsection
+LC001598 - Page 3 of 7
+1 (b) of this section.
+2 (b)(1) No landlord shall remove a tenant from any housing accommodation, or attempt
+3 such removal or exclusion from possession, notwithstanding that the tenant has no written lease or
+4 that the lease or other rental agreement has expired or otherwise terminated, except upon order of
+5 a court of competent jurisdiction entered in an appropriate judicial action or proceeding in which
+6 the petitioner or plaintiff has established one of the following grounds as good cause for removal
+7 or eviction:
+8 (i) The tenant has failed to pay rent due and owing; provided, however, that the rent due
+9 and owing, or any part thereof, did not result from a rent increase which is unreasonable or imposed
+10 for the purpose of circumventing the intent of this section. In determining whether all or part of the
+11 rent due and owing is the result of an unreasonable rent increase, it shall be a rebuttable presumption
+12 that the rent for a dwelling not protected by rent regulation is unreasonable if said rent has been
+13 increased in any calendar year by a percentage exceeding either four percent (4%) or one and one-
+14 half (1½) times the annual percentage change in the consumer price index for the region in which
+15 the housing accommodation is located, as established the August preceding the calendar year in
+16 question, whichever is greater;
+17 (ii) The tenant is violating a substantial obligation of the tenancy, other than the obligation
+18 to surrender possession, and has failed to cure such violation after written notice that the violation
+19 cease within ten (10) days of receipt of such written notice; provided, however, that the obligation
+20 of tenancy for which violation is claimed was not imposed for the purpose of circumventing the
+21 intent of this section;
+22 (iii) The tenant is committing or permitting a nuisance in such housing accommodation, or
+23 is maliciously or by reason of negligence damaging the housing accommodation; or the tenant's
+24 conduct is such as to interfere with the comfort of the landlord or other tenants or occupants of the
+25 same or adjacent buildings or structures;
+26 (iv) Occupancy of the housing accommodation by the tenant is in violation of or causes a
+27 violation of law and the landlord is subject to civil or criminal penalties therefore; provided,
+28 however, that an agency of the state or municipality having jurisdiction has issued an order
+29 requiring the tenant to vacate the housing accommodation. No tenant shall be removed from
+30 possession of a housing accommodation on such ground unless the court finds that the cure of the
+31 violation of law requires the removal of the tenant and that the landlord did not, through neglect or
+32 deliberate action or failure to act, create the condition necessitating the vacate order. In instances
+33 where the landlord does not undertake to cure conditions of the housing accommodation causing
+34 such violation of the law, the tenant shall have the right to pay or secure payment in a manner
+LC001598 - Page 4 of 7
+1 satisfactory to the court, to cure such violation; provided that, any tenant expenditures shall be
+2 applied against rent to which the landlord is entitled. In instances where removal of a tenant is
+3 absolutely essential to the tenant's health and safety, the removal of the tenant shall be without
+4 prejudice to any leasehold interest or other right of occupancy the tenant may have and the tenant
+5 shall be entitled to resume possession at such time as the dangerous conditions have been removed.
+6 Nothing herein shall abrogate or otherwise limit the right of a tenant to bring an action for monetary
+7 damages against the landlord to compel compliance by the landlord with all applicable state or
+8 municipal laws or housing codes;
+9 (v) The tenant is using or permitting the housing accommodation to be used for an illegal
+10 purpose;
+11 (vi) The tenant has unreasonably refused the landlord access to the housing accommodation
+12 for the purpose of making necessary repairs or improvements required by law or for the purpose of
+13 showing the housing accommodation to a prospective purchaser, mortgagee or other person having
+14 a legitimate interest when the landlord has provided the required forty-eight (48) hours notice for
+15 non-emergency repairs therein;
+16 (vii) The landlord seeks in good faith to recover possession of a housing accommodation
+17 located in a building containing fewer than twelve (12) units because of immediate and compelling
+18 necessity for the landlord's own personal use and occupancy as the landlord's principal residence,
+19 or the personal use and occupancy as principal residence of the landlord's spouse, parent, child,
+20 stepchild, father-in-law or mother-in-law, when no other suitable housing accommodation in such
+21 building is available. This subsection shall permit recovery of only one housing accommodation
+22 per calendar year and shall not apply to a housing accommodation occupied by a tenant who is
+23 sixty-two (62) years of age or older or who is a disabled person; or
+24 (viii) The landlord seeks in good faith to recover possession of any or all housing
+25 accommodations located in a building with less than five (5) units to personally occupy such
+26 housing accommodations as the landlord's principal residence.
+27 (2) A tenant required to surrender a housing accommodation by virtue of the operation of
+28 subsections (b)(1)(vii) or (b)(1)(viii) of this section shall have a cause of action in any court of
+29 competent jurisdiction for damages, declaratory, and injunctive relief against a landlord or
+30 purchaser of the premises who makes a fraudulent statement regarding a proposed use of the
+31 housing accommodation. In any action or proceeding brought pursuant to this provision, a
+32 prevailing tenant shall be entitled to recovery of actual damages, and reasonable attorneys' fees.
+33 (3) Nothing in this section shall abrogate or limit the tenant's right to permanently stay the
+34 issuance or execution of a warrant or eviction in a summary proceeding, whether characterized as
+LC001598 - Page 5 of 7
+1 a nonpayment, objectionable tenancy, or holdover proceeding, the underlying basis of which is the
+2 nonpayment of rent, as long as the tenant complies with the procedural requirements of this chapter.
+3 34-18-38.3. Waiver of rights void.
+4 Any agreement by a tenant heretofore or hereinafter entered into in a written lease or other
+5 rental agreement waiving or modifying the tenant's rights as set forth in § 34-18-38.3 shall be void
+6 as contrary to public policy.
+7 34-18-54.1. Preservation of existing requirements of law.
+8 No action shall be maintainable and no judgment of possession shall be entered for housing
+9 accommodations pursuant § 34-18-38.3 unless the landlord has complied with any and all
+10 applicable laws governing such action or proceeding and has complied with any and all applicable
+11 laws governing notice to tenants, including, without limitation, the manner and the time of service
+12 of such notice and the contents of such notice.
+13 SECTION 3. This act shall take effect upon passage.
+========
+LC001598
+========
+LC001598 - Page 6 of 7
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would allow a landlord to remove a tenant from any housing accommodation, or
+2 attempt such removal or exclusion from possession, notwithstanding that the tenant has no written
+3 lease or that the lease or other rental agreement has expired or otherwise terminated, except upon
+4 order of a court of competent jurisdiction entered in an appropriate judicial action or proceeding in
+5 which the petitioner or plaintiff has established one of the several grounds of just cause set forth
+6 for removal or eviction.
+7 This act would take effect upon passage.
+========
+LC001598
+========
+LC001598 - Page 7 of 7
+[DELETED: TATE  OF  RHODE  ISLAND S L 3 S a ( “ m t t h v t p w n t t l ( ( p ( c a ( " p m a p w h a i w r f a o a c s w a d b m a c a l l (]
+[DELETED:  t p ( p ( ( o t o ( t t h ( a j ( ( l t ( a A o s ( ( f g ( u ( r o]
+[DELETED:  ( o s ( o d ( r h e ( t i ( “ m t t a w p i k a p S A 3 T e ( ( s ( p ( a ( l o 3 ( N s a t e t r p b e f p b f t r a l o o r a t f h a]
+[DELETED:  ( ( s t a t o ( a f r t i h t q ( t c o i ( i c s ( v h t a a o t s o m h j h i a o r t t v t h a N s b r f p v d w s]
+[DELETED:  s a a p s N d m ( p ( f s a n ( l n o s b p s ( T l s i g f t r p o a o a h a h ( s c j f d d a i r a a l o p h a I a a o p b p t t p a p ( i]
+[DELETED:  a n 3 A r a 3 N a p § 3 u t l h c w a a a a l o S]
+[DELETED:  T a l o w f T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5503
+========
+LC001598
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Representatives Cruz, Potter, Morales, Giraldo, Stewart, Felix, Tanzi,
+Batista, J. Lombardi, and Ajello
+Date Introduced: February 13, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-11 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-11. Definitions.
+4 Subject to additional definitions contained in subsequent sections of this chapter which
+5 apply to specific sections thereof, and unless the context otherwise requires, in this chapter:
+6 (1) “Abandonment” means the tenant has vacated the premises without notice to the
+7 landlord and has no intention of returning, as evidenced by nonpayment of rent for more than fifteen
+8 (15) days and removal of substantially all possessions from the premises;
+9 (2) “Action” includes recoupment, counterclaim, set-off, suit in equity, and any other
+10 proceeding in which rights are determined, including an action for possession;
+11 (3) “Building and housing codes” include any law, ordinance, or governmental regulation
+12 concerning fitness for habitation, or the construction, maintenance, operation, occupancy, use, or
+13 appearance of any premises of dwelling unit;
+14 (4) "Disabled person" means a person who has an impairment which results from
+15 anatomical, physiological or psychological conditions, other than addiction to alcohol, gambling,
+16 or any controlled substance, which are demonstrable by medically acceptable clinical and
+17 laboratory diagnostic techniques, and which are expected to be permanent and which substantially
+18 limit one or more of such person's major life activities.
+19 (4)(5) “Dwelling unit” or "housing accommodation" means a structure or part of a structure
+
+1 that is designed or intended to be used as a home, residence, or sleeping place by one or more
+2 persons, including a mobile home or land in a mobile home park;
+3 (5)(6) “Fair rental value” means rent which is of comparable value with that of other rental
+4 properties of similar size and condition within the contiguous neighborhood;
+5 (6)(7) “Good faith” means honesty in fact in the conduct of the transaction concerned;
+6 (7)(8) “Landlord” means the owner, lessor, assigner, or sublessor or other person receiving
+7 or entitled to receive rent for the occupancy of any housing accommodation or an agent of any of
+8 the foregoing of the dwelling unit or the building of which it is a part, and it also means a manager
+9 of the premises who fails to disclose as required by § 34-18-20;
+10 (8)(9) “Ordinary wear and tear” means deterioration of the premises which is the result of
+11 the tenant’s normal nonabusive living and includes, but is not limited to, deterioration caused by
+12 the landlord’s failure to prepare for expected conditions or by the landlord’s failure to comply with
+13 his or her obligations;
+14 (9)(10) “Organization” includes a corporation, government, governmental subdivision or
+15 agency, business trust, estate, trust, partnership of association, two (2) or more persons having a
+16 joint or common interest, and any other legal or commercial entity;
+17 (10)(11) “Owner” shall mean any person who, alone or jointly or severally with others:
+18 (i) Has legal title or tax title (pursuant to §§ 44-9-40 — 44-9-46, inclusive, of the general
+19 laws) to any dwelling, dwelling unit or structure with or without accompanying actual possession
+20 thereof; or
+21 (ii) Has charge, care, or control of any dwelling, dwelling unit or structure as owner or
+22 agent of the owner, or an executor, administrator, trustee, or guardian of the estate of the owner.
+23 Any person representing the actual owner in this way shall be bound to comply with the provisions
+24 of this chapter and of rules and regulations adopted pursuant thereto to the same extent as if he or
+25 she were the owner.
+26 (11)(12) “Person” includes an individual or organization;
+27 (12)(13) “Premises” means a dwelling unit and the structure of which it is a part and
+28 facilities and appurtenances therein and grounds, areas, and facilities held out for the use of tenants
+29 generally, or the use of which is promised to the tenant;
+30 (13)(14) “Rent” means the payment or consideration that a tenant pays to a landlord for the
+31 use of the premises, whether money, services, property, or produce of the land;
+32 (14)(15) “Rental agreement” means all agreements, written or oral, and valid rules and
+33 regulations adopted under § 34-18-25 embodying the terms and conditions concerning the use and
+34 occupancy of a dwelling unit and premises, and also includes any terms required by law;
+LC001598 - Page 2 of 7
+
+1 (15)(16) “Roomer” means a tenant occupying a dwelling unit which consists of any room
+2 or group of rooms forming a single habitable unit used or intended to be used for living and
+3 sleeping, but not for cooking or eating purposes;
+4 (16)(17) “Security deposit” means a sum of money given by a tenant to a landlord at the
+5 outset of the tenancy or shortly thereafter, as a deposit against physical damages to the tenant’s
+6 dwelling unit during said tenancy;
+7 (17)(18) “Tenant” means a tenant, sub-tenant, lessee, sublessee, assignee, an occupant of a
+8 rooming house or hotel or any other person entitled to the possession, use or occupancy of any
+9 housing accommodation person entitled under a rental agreement to occupy a dwelling unit to the
+10 exclusion of others;
+11 (18)(19) “Transitional housing facility” means a facility which, for a period not to exceed
+12 two (2) years, provides its residents with appropriate social services for the purpose of fostering
+13 independence, self-sufficiency, and eventual transition to a permanent living arrangement;
+14 (19)(20) “Willful” means that the act was performed intentionally, knowingly and
+15 purposely, not accidentally or inadvertently and without justifiable excuse.
+16 SECTION 2. Chapter 34-18 of the General Laws entitled "Residential Landlord and Tenant
+17 Act" is hereby amended by adding thereto the following sections:
+18 34-18-7.1. Applicability to just cause evictions.
+19 This section shall apply to all housing accommodations subject to just cause evictions
+20 except:
+21 (1) Owner-occupied premises with fewer than five (5) units;
+22 (2) An individual or family who owns and manages a one to four (4) unit property that is
+23 separate from their own primary residence;
+24 (3) Premises sublet, or otherwise, where the sublessor seeks, in good faith, to recover
+25 possession of such housing accommodation for their own personal use and occupancy;
+26 (4) Premises, the possession, use or occupancy of which, is solely incidental to employment
+27 and such employment is being lawfully terminated; and
+28 (5) Premises otherwise subject to regulation of rents or evictions pursuant to state or federal
+29 law to the extent that such state or federal law requires "good cause" for termination or non-renewal
+30 of such tenancies.
+31 34-18-38.3. Necessity for just cause - Removal of tenants.
+32 (a) No landlord shall, by action to evict or to recover possession, by exclusion from
+33 possession, by failure to renew any lease, or otherwise, remove any tenant from housing
+34 accommodations covered by chapter 18 of title 34, except for good cause as set forth in subsection
+LC001598 - Page 3 of 7
+
+1 (b) of this section.
+2 (b)(1) No landlord shall remove a tenant from any housing accommodation, or attempt
+3 such removal or exclusion from possession, notwithstanding that the tenant has no written lease or
+4 that the lease or other rental agreement has expired or otherwise terminated, except upon order of
+5 a court of competent jurisdiction entered in an appropriate judicial action or proceeding in which
+6 the petitioner or plaintiff has established one of the following grounds as good cause for removal
+7 or eviction:
+8 (i) The tenant has failed to pay rent due and owing; provided, however, that the rent due
+9 and owing, or any part thereof, did not result from a rent increase which is unreasonable or imposed
+10 for the purpose of circumventing the intent of this section. In determining whether all or part of the
+11 rent due and owing is the result of an unreasonable rent increase, it shall be a rebuttable presumption
+12 that the rent for a dwelling not protected by rent regulation is unreasonable if said rent has been
+13 increased in any calendar year by a percentage exceeding either four percent (4%) or one and one-
+14 half (1½) times the annual percentage change in the consumer price index for the region in which
+15 the housing accommodation is located, as established the August preceding the calendar year in
+16 question, whichever is greater;
+17 (ii) The tenant is violating a substantial obligation of the tenancy, other than the obligation
+18 to surrender possession, and has failed to cure such violation after written notice that the violation
+19 cease within ten (10) days of receipt of such written notice; provided, however, that the obligation
+20 of tenancy for which violation is claimed was not imposed for the purpose of circumventing the
+21 intent of this section;
+22 (iii) The tenant is committing or permitting a nuisance in such housing accommodation, or
+23 is maliciously or by reason of negligence damaging the housing accommodation; or the tenant's
+24 conduct is such as to interfere with the comfort of the landlord or other tenants or occupants of the
+25 same or adjacent buildings or structures;
+26 (iv) Occupancy of the housing accommodation by the tenant is in violation of or causes a
+27 violation of law and the landlord is subject to civil or criminal penalties therefore; provided,
+28 however, that an agency of the state or municipality having jurisdiction has issued an order
+29 requiring the tenant to vacate the housing accommodation. No tenant shall be removed from
+30 possession of a housing accommodation on such ground unless the court finds that the cure of the
+31 violation of law requires the removal of the tenant and that the landlord did not, through neglect or
+32 deliberate action or failure to act, create the condition necessitating the vacate order. In instances
+33 where the landlord does not undertake to cure conditions of the housing accommodation causing
+34 such violation of the law, the tenant shall have the right to pay or secure payment in a manner
+LC001598 - Page 4 of 7
+
+1 satisfactory to the court, to cure such violation; provided that, any tenant expenditures shall be
+2 applied against rent to which the landlord is entitled. In instances where removal of a tenant is
+3 absolutely essential to the tenant's health and safety, the removal of the tenant shall be without
+4 prejudice to any leasehold interest or other right of occupancy the tenant may have and the tenant
+5 shall be entitled to resume possession at such time as the dangerous conditions have been removed.
+6 Nothing herein shall abrogate or otherwise limit the right of a tenant to bring an action for monetary
+7 damages against the landlord to compel compliance by the landlord with all applicable state or
+8 municipal laws or housing codes;
+9 (v) The tenant is using or permitting the housing accommodation to be used for an illegal
+10 purpose;
+11 (vi) The tenant has unreasonably refused the landlord access to the housing accommodation
+12 for the purpose of making necessary repairs or improvements required by law or for the purpose of
+13 showing the housing accommodation to a prospective purchaser, mortgagee or other person having
+14 a legitimate interest when the landlord has provided the required forty-eight (48) hours notice for
+15 non-emergency repairs therein;
+16 (vii) The landlord seeks in good faith to recover possession of a housing accommodation
+17 located in a building containing fewer than twelve (12) units because of immediate and compelling
+18 necessity for the landlord's own personal use and occupancy as the landlord's principal residence,
+19 or the personal use and occupancy as principal residence of the landlord's spouse, parent, child,
+20 stepchild, father-in-law or mother-in-law, when no other suitable housing accommodation in such
+21 building is available. This subsection shall permit recovery of only one housing accommodation
+22 per calendar year and shall not apply to a housing accommodation occupied by a tenant who is
+23 sixty-two (62) years of age or older or who is a disabled person; or
+24 (viii) The landlord seeks in good faith to recover possession of any or all housing
+25 accommodations located in a building with less than five (5) units to personally occupy such
+26 housing accommodations as the landlord's principal residence.
+27 (2) A tenant required to surrender a housing accommodation by virtue of the operation of
+28 subsections (b)(1)(vii) or (b)(1)(viii) of this section shall have a cause of action in any court of
+29 competent jurisdiction for damages, declaratory, and injunctive relief against a landlord or
+30 purchaser of the premises who makes a fraudulent statement regarding a proposed use of the
+31 housing accommodation. In any action or proceeding brought pursuant to this provision, a
+32 prevailing tenant shall be entitled to recovery of actual damages, and reasonable attorneys' fees.
+33 (3) Nothing in this section shall abrogate or limit the tenant's right to permanently stay the
+34 issuance or execution of a warrant or eviction in a summary proceeding, whether characterized as
+LC001598 - Page 5 of 7
+
+1 a nonpayment, objectionable tenancy, or holdover proceeding, the underlying basis of which is the
+2 nonpayment of rent, as long as the tenant complies with the procedural requirements of this chapter.
+3 34-18-38.3. Waiver of rights void.
+4 Any agreement by a tenant heretofore or hereinafter entered into in a written lease or other
+5 rental agreement waiving or modifying the tenant's rights as set forth in § 34-18-38.3 shall be void
+6 as contrary to public policy.
+7 34-18-54.1. Preservation of existing requirements of law.
+8 No action shall be maintainable and no judgment of possession shall be entered for housing
+9 accommodations pursuant § 34-18-38.3 unless the landlord has complied with any and all
+10 applicable laws governing such action or proceeding and has complied with any and all applicable
+11 laws governing notice to tenants, including, without limitation, the manner and the time of service
+12 of such notice and the contents of such notice.
+13 SECTION 3. This act shall take effect upon passage.
+========
+LC001598
+========
+LC001598 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would allow a landlord to remove a tenant from any housing accommodation, or
+2 attempt such removal or exclusion from possession, notwithstanding that the tenant has no written
+3 lease or that the lease or other rental agreement has expired or otherwise terminated, except upon
+4 order of a court of competent jurisdiction entered in an appropriate judicial action or proceeding in
+5 which the petitioner or plaintiff has established one of the several grounds of just cause set forth
+6 for removal or eviction.
+7 This act would take effect upon passage.
+========
+LC001598
+========
+LC001598 - Page 7 of 7
+
+[DELETED: TATE  OF  RHODE  ISLAND S L 3 S a ( “ m t t h v t p w n t t l ( ( p ( c a ( " p m a p w h a i w r f a o a c s w a d b m a c a l l (]
+[DELETED:  t p ( p ( ( o t o ( t t h ( a j ( ( l t ( a A o s ( ( f g ( u ( r o]
+[DELETED:  ( o s ( o d ( r h e ( t i ( “ m t t a w p i k a p S A 3 T e ( ( s ( p ( a ( l o 3 ( N s a t e t r p b e f p b f t r a l o o r a t f h a]
+[DELETED:  ( ( s t a t o ( a f r t i h t q ( t c o i ( i c s ( v h t a a o t s o m h j h i a o r t t v t h a N s b r f p v d w s]
+[DELETED:  s a a p s N d m ( p ( f s a n ( l n o s b p s ( T l s i g f t r p o a o a h a h ( s c j f d d a i r a a l o p h a I a a o p b p t t p a p ( i]
+[DELETED:  a n 3 A r a 3 N a p § 3 u t l h c w a a a a l o S]
+[DELETED:  T a l o w f T]

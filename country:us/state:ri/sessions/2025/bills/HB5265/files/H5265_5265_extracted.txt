@@ -1,0 +1,192 @@
+Title: 1 SECTION 1. Chapter 34-4 of the General Laws entitled "Estates in Real Property" is
+Official Title: 1 SECTION 1. Chapter 34-4 of the General Laws entitled "Estates in Real Property" is
+Number of Sections: 1
+Source: versions - 5265
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5265
+========
+LC000290
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- ESTATES IN REAL PROPERTY
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: January 31, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+2 hereby amended by adding thereto the following section:
+3 34-4-2.2. Life estates -- Apportionment of expenses and improvements.
+4 (a) For purposes of this section, the term:
+5 (1) "Remainderman" means the holder of the remainder interests after the expiration of a
+6 tenant's estate in property.
+7 (2) "Tenant" means the holder of an estate for life.
+8 (b) If a trust has not been created, expenses shall be apportioned between the tenant and
+9 remainderman as follows:
+10 (1) The following expenses are allocated to and shall be paid by the tenant:
+11 (i) All ordinary expenses incurred in connection with the administration, management, or
+12 preservation of the property, including interest on a debt secured by the property, ordinary repairs,
+13 regularly recurring taxes assessed against the property, and expenses of a proceeding or other matter
+14 that concerns primarily the tenant's estate or use of the property.
+15 (ii) Recurring premiums on insurance covering the loss of the property or the loss of income
+16 from or use of the property.
+17 (iii) Any of the expenses described in subsection (b)(2)(iii) of this section which are
+18 attributable to the use of the property by the tenant.
+19 (2) The following expenses are allocated to and shall be paid by the remainderman:
+1 (i) Payments on the principal of a debt secured by the property, except to the extent the
+2 debt is for expenses allocated to the tenant.
+3 (ii) Expenses of a proceeding or other matter that concerns primarily the title to the
+4 property, other than title to the tenant's estate.
+5 (iii) Except as provided in subsection (b)(1)(iii) of this section, expenses related to
+6 environmental matters, including reclamation, assessing environmental conditions, remedying and
+7 removing environmental contamination, monitoring remedial activities and the release of
+8 substances, preventing future releases of substances, collecting amounts from persons liable or
+9 potentially liable for the costs of such activities, penalties imposed under environmental laws or
+10 regulations and other payments made to comply with those laws or regulations, statutory or
+11 common law claims by third parties, and defending claims based on environmental matters.
+12 (c) Expenses relating to extraordinary repairs are allocated and shall be paid as follows:
+13 (1) If the tenant or remainderman incurred an expense for the benefit of their own estate
+14 without consent or agreement of the other, they shall pay such expense in full.
+15 (2) Except as provided in subsection (c)(1) of this section, the cost of, or special taxes or
+16 assessments for, an improvement representing an addition of value to property forming part of the
+17 tenant's estate shall be paid by the tenant if the improvement is not reasonably expected to outlast
+18 the estate of the tenant. In all other cases, only a part shall be paid by the tenant while the remainder
+19 shall be paid by the remainderman.
+20 (i) The part payable by the tenant is ascertainable by taking that percentage of the total that
+21 is found by dividing the present value of the tenant's estate by the present value of an estate of the
+22 same form as that of the tenant, except that it is limited for a period corresponding to the reasonably
+23 expected duration of the improvement.
+24 (ii) The computation of present values of the estates shall be made by using the rate defined
+25 in 26 U.S.C. § 7520, then in effect and, in the case of an estate for life, the official mortality tables
+26 then in effect under 26 U.S.C. § 7520. Other evidence of duration or expectancy may not be
+27 considered.
+28 (d) This section does not apply to the extent it is inconsistent with the instrument creating
+29 the estates, the agreement of the parties, or the specific direction of the taxing or other statutes.
+30 (e) The common law applicable to tenants and remaindermen supplements this section,
+31 except as modified by this section or other laws.
+LC000290 - Page 2 of 4
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000290
+========
+LC000290 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- ESTATES IN REAL PROPERTY
+***
+1 This act would define the apportionment of financial responsibilities for expenses and
+2 improvements to the real property of the life estate between the life tenant and remainderman.
+3 This act would take effect upon passage.
+========
+LC000290
+========
+LC000290 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S h 3 ( ( t ( ( r ( ( p r t ( f ( A o t e i o t w a a (]
+[DELETED:  ( d ( E o a p o o m t c p t t t t p ( E a p i s ( o t s e r t e r e c m r a a t r o s p r a o p m t c w t l o r s o c ( ( w ( a t t s ( i s e ( i t c ( t ( e ]
+[DELETED:  S]
+[DELETED:  T i T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5265
+========
+LC000290
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO PROPERTY -- ESTATES IN REAL PROPERTY
+Introduced By: Representative Matthew S. Dawson
+Date Introduced: January 31, 2025
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 34-4 of the General Laws entitled "Estates in Real Property" is
+2 hereby amended by adding thereto the following section:
+3 34-4-2.2. Life estates -- Apportionment of expenses and improvements.
+4 (a) For purposes of this section, the term:
+5 (1) "Remainderman" means the holder of the remainder interests after the expiration of a
+6 tenant's estate in property.
+7 (2) "Tenant" means the holder of an estate for life.
+8 (b) If a trust has not been created, expenses shall be apportioned between the tenant and
+9 remainderman as follows:
+10 (1) The following expenses are allocated to and shall be paid by the tenant:
+11 (i) All ordinary expenses incurred in connection with the administration, management, or
+12 preservation of the property, including interest on a debt secured by the property, ordinary repairs,
+13 regularly recurring taxes assessed against the property, and expenses of a proceeding or other matter
+14 that concerns primarily the tenant's estate or use of the property.
+15 (ii) Recurring premiums on insurance covering the loss of the property or the loss of income
+16 from or use of the property.
+17 (iii) Any of the expenses described in subsection (b)(2)(iii) of this section which are
+18 attributable to the use of the property by the tenant.
+19 (2) The following expenses are allocated to and shall be paid by the remainderman:
+
+1 (i) Payments on the principal of a debt secured by the property, except to the extent the
+2 debt is for expenses allocated to the tenant.
+3 (ii) Expenses of a proceeding or other matter that concerns primarily the title to the
+4 property, other than title to the tenant's estate.
+5 (iii) Except as provided in subsection (b)(1)(iii) of this section, expenses related to
+6 environmental matters, including reclamation, assessing environmental conditions, remedying and
+7 removing environmental contamination, monitoring remedial activities and the release of
+8 substances, preventing future releases of substances, collecting amounts from persons liable or
+9 potentially liable for the costs of such activities, penalties imposed under environmental laws or
+10 regulations and other payments made to comply with those laws or regulations, statutory or
+11 common law claims by third parties, and defending claims based on environmental matters.
+12 (c) Expenses relating to extraordinary repairs are allocated and shall be paid as follows:
+13 (1) If the tenant or remainderman incurred an expense for the benefit of their own estate
+14 without consent or agreement of the other, they shall pay such expense in full.
+15 (2) Except as provided in subsection (c)(1) of this section, the cost of, or special taxes or
+16 assessments for, an improvement representing an addition of value to property forming part of the
+17 tenant's estate shall be paid by the tenant if the improvement is not reasonably expected to outlast
+18 the estate of the tenant. In all other cases, only a part shall be paid by the tenant while the remainder
+19 shall be paid by the remainderman.
+20 (i) The part payable by the tenant is ascertainable by taking that percentage of the total that
+21 is found by dividing the present value of the tenant's estate by the present value of an estate of the
+22 same form as that of the tenant, except that it is limited for a period corresponding to the reasonably
+23 expected duration of the improvement.
+24 (ii) The computation of present values of the estates shall be made by using the rate defined
+25 in 26 U.S.C. § 7520, then in effect and, in the case of an estate for life, the official mortality tables
+26 then in effect under 26 U.S.C. § 7520. Other evidence of duration or expectancy may not be
+27 considered.
+28 (d) This section does not apply to the extent it is inconsistent with the instrument creating
+29 the estates, the agreement of the parties, or the specific direction of the taxing or other statutes.
+30 (e) The common law applicable to tenants and remaindermen supplements this section,
+31 except as modified by this section or other laws.
+LC000290 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC000290
+========
+LC000290 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- ESTATES IN REAL PROPERTY
+***
+1 This act would define the apportionment of financial responsibilities for expenses and
+2 improvements to the real property of the life estate between the life tenant and remainderman.
+3 This act would take effect upon passage.
+========
+LC000290
+========
+LC000290 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S h 3 ( ( t ( ( r ( ( p r t ( f ( A o t e i o t w a a (]
+[DELETED:  ( d ( E o a p o o m t c p t t t t p ( E a p i s ( o t s e r t e r e c m r a a t r o s p r a o p m t c w t l o r s o c ( ( w ( a t t s ( i s e ( i t c ( t ( e ]
+[DELETED:  S]
+[DELETED:  T i T]

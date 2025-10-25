@@ -1,0 +1,301 @@
+Title: RELATING TO INSURANCE -- INSURANCE COVERAGE FOR MENTAL ILLNESS AND
+Official Title: RELATING TO INSURANCE -- INSURANCE COVERAGE FOR MENTAL ILLNESS AND
+Number of Sections: 1
+Source: versions - 193
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0193
+========
+LC001182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+SUBSTANCE USE DISORDERS
+Introduced By: Senators Ujifusa, Lauria, Murray, Valverde, DiMario, Quezada, DiPalma,
+Bell, and Mack
+Date Introduced: February 07, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-38.2-1 and 27-38.2-2 of the General Laws in Chapter 27-38.2
+2 entitled "Insurance Coverage for Mental Illness and Substance Use Disorders" are hereby amended
+3 to read as follows:
+4 27-38.2-1. Coverage for treatment of mental health and substance use disorders.
+5 (a) A group health plan and an individual or group health insurance plan shall provide
+6 coverage for the treatment of mental health and substance use disorders under the same terms and
+7 conditions as that coverage is provided for other illnesses and diseases.
+8 (b) Coverage for the treatment of mental health and substance use disorders shall not
+9 impose any annual or lifetime dollar limitation.
+10 (c) Financial requirements and quantitative treatment limitations on coverage for the
+11 treatment of mental health and substance use disorders shall be no more restrictive than the
+12 predominant financial requirements applied to substantially all coverage for medical conditions in
+13 each treatment classification.
+14 (d) Coverage shall not impose non-quantitative treatment limitations for the treatment of
+15 mental health and substance use disorders unless the processes, strategies, evidentiary standards,
+16 or other factors used in applying the non-quantitative treatment limitation, as written and in
+17 operation, are comparable to, and are applied no more stringently than, the processes, strategies,
+18 evidentiary standards, or other factors used in applying the limitation with respect to
+1 medical/surgical benefits in the classification.
+2 (e) The following classifications shall be used to apply the coverage requirements of this
+3 chapter: (1) Inpatient, in-network; (2) Inpatient, out-of-network; (3) Outpatient, in-network; (4)
+4 Outpatient, out-of-network; (5) Emergency care; and (6) Prescription drugs.
+5 (f) Medication-assisted treatment or medication-assisted maintenance services of substance
+6 use disorders, opioid overdoses, and chronic addiction, including methadone, buprenorphine,
+7 naltrexone, or other clinically appropriate medications, is included within the appropriate
+8 classification based on the site of the service.
+9 (g) Payors shall rely upon the criteria of the American Society of Addiction Medicine when
+10 developing coverage for levels of care for substance use disorder treatment.
+11 (h) Payors shall rely upon criteria which reflect generally accepted standards of care when
+12 developing coverage for levels of care for mental health treatment.
+13 (i) Payors shall not modify clinical criteria to reduce coverage for mental health treatment
+14 below the level established by the generally accepted standards of care upon which their clinical
+15 criteria are based.
+16 (j) Patients with substance use disorders shall have access to evidence-based, non-opioid
+17 treatment for pain, therefore coverage shall apply to medically necessary chiropractic care and
+18 osteopathic manipulative treatment performed by an individual licensed under § 5-37-2.
+19 (i)(k) Parity of cost-sharing requirements. Regardless of the professional license of the
+20 provider of care, if that care is consistent with the provider’s scope of practice and the health plan’s
+21 credentialing and contracting provisions, cost sharing for behavioral health counseling visits and
+22 medication maintenance visits shall be consistent with the cost sharing applied to primary care
+23 office visits.
+24 27-38.2-2. Definitions.
+25 For the purposes of this chapter, the following words and terms have the following
+26 meanings:
+27 (1) “Financial requirements” means deductibles, copayments, coinsurance, or out-of-
+28 pocket maximums.
+29 (2) “Generally accepted standards of care” means standards of care and clinical practice
+30 that are generally recognized by healthcare providers practicing in relevant clinical specialties such
+31 as psychiatry, psychology, clinical sociology, addiction medicine and counseling, and behavioral
+32 health treatment, as reflected in sources including, but not limited to, patient placement criteria and
+33 clinical practice guidelines, the Level of Care Utilization System (LOCUS), the Child and
+34 Adolescent Level of Care Utilization System (CALOCUS), the Child and Adolescent Service
+LC001182 - Page 2 of 5
+1 Intensity Instrument (CASII), recommendations of federal government agencies, and drug labeling
+2 approved by the United States Food and Drug Administration.
+3 (2)(3) “Group health plan” means an employee welfare benefit plan as defined in 29 U.S.C.
+4 § 1002(1) to the extent that the plan provides health benefits to employees or their dependents
+5 directly or through insurance, reimbursement, or otherwise. For purposes of this chapter, a group
+6 health plan shall not include a plan that provides health benefits directly to employees or their
+7 dependents, except in the case of a plan provided by the state or an instrumentality of the state.
+8 (3)(4) “Health insurance plan” means health insurance coverage offered, delivered, issued
+9 for delivery, or renewed by a health insurer.
+10 (4)(5) “Health insurers” means all persons, firms, corporations, or other organizations
+11 offering and assuring health services on a prepaid or primarily expense-incurred basis, including
+12 but not limited to, policies of accident or sickness insurance, as defined by chapter 18 of this title;
+13 nonprofit hospital or medical service plans, whether organized under chapter 19 or 20 of this title
+14 or under any public law or by special act of the general assembly; health maintenance organizations,
+15 or any other entity that insures or reimburses for diagnostic, therapeutic, or preventive services to
+16 a determined population on the basis of a periodic premium. Provided, this chapter does not apply
+17 to insurance coverage providing benefits for:
+18 (i) Hospital confinement indemnity;
+19 (ii) Disability income;
+20 (iii) Accident only;
+21 (iv) Long-term care;
+22 (v) Medicare supplement;
+23 (vi) Limited benefit health;
+24 (vii) Specific disease indemnity;
+25 (viii) Sickness or bodily injury or death by accident or both; and
+26 (ix) Other limited benefit policies.
+27 (5)(6) “Mental health or substance use disorder” means any mental disorder and substance
+28 use disorder that is listed in the most recent revised publication or the most updated volume of
+29 either the Diagnostic and Statistical Manual of Mental Disorders (DSM) published by the American
+30 Psychiatric Association or the International Classification of Disease Manual (ICO) published by
+31 the World Health Organization; provided, that tobacco and caffeine are excluded from the
+32 definition of “substance” for the purposes of this chapter.
+33 (6)(7) “Non-quantitative treatment limitations” means: (i) Medical management standards;
+34 (ii) Formulary design and protocols; (iii) Network tier design; (iv) Standards for provider admission
+LC001182 - Page 3 of 5
+1 to participate in a network; (v) Reimbursement rates and methods for determining usual, customary,
+2 and reasonable charges; and (vi) Other criteria that limit scope or duration of coverage for services
+3 in the treatment of mental health and substance use disorders, including restrictions based on
+4 geographic location, facility type, and provider specialty.
+5 (7)(8) “Quantitative treatment limitations” means numerical limits on coverage for the
+6 treatment of mental health and substance use disorders based on the frequency of treatment, number
+7 of visits, days of coverage, days in a waiting period, or other similar limits on the scope or duration
+8 of treatment.
+9 SECTION 2. This act shall take effect upon passage.
+========
+LC001182
+========
+LC001182 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- INSURANCE COVERAGE FOR MENTAL ILLNESS AND
+SUBSTANCE USE DISORDERS
+***
+1 This act would provide that for insurance coverage for treatment of mental health and
+2 substance use disorders, payors would rely upon criteria which reflect generally accepted standards
+3 of care when developing coverage for levels of care for mental health treatment. This act would
+4 also provide that payors would not modify clinical criteria to reduce coverage for mental health
+5 treatment below the level established by the generally accepted standards of care upon which their
+6 clinical criteria are based. This act would also provide a definition for the term “generally accepted
+7 standards of care.”
+8 This act would take effect upon passage.
+========
+LC001182
+========
+LC001182 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S e t 2 ( c c ( i ( F r a q t l o c f t t o m h a s u d s b n m r t t p e ( m o o f u i a t n t l a w a i o e s o o f u i a t l w r t]
+[DELETED:  m ( c O ( u d o o a c a i m b n o o c a m i i w t a c ( d ( d ( b c ( t o ( p c m o 2 F t p o t c t f w a t h t f m ( “ r m d c c o o p ( t a h c p g t L o C U S ( t C a A]
+[DELETED:  I a ( § d h d ( f ( o b n o o a t ( ( ( ( ( ( ( ( ( ( u e P t W H O p t t a c a e f t d ( (]
+[DELETED:  t a i g ( t o o S]
+[DELETED:  T s o a t c s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0193
+========
+LC001182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- INSURANCE COVERAGE FOR MENTAL ILLNESS AND
+SUBSTANCE USE DISORDERS
+Introduced By: Senators Ujifusa, Lauria, Murray, Valverde, DiMario, Quezada, DiPalma,
+Bell, and Mack
+Date Introduced: February 07, 2025
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-38.2-1 and 27-38.2-2 of the General Laws in Chapter 27-38.2
+2 entitled "Insurance Coverage for Mental Illness and Substance Use Disorders" are hereby amended
+3 to read as follows:
+4 27-38.2-1. Coverage for treatment of mental health and substance use disorders.
+5 (a) A group health plan and an individual or group health insurance plan shall provide
+6 coverage for the treatment of mental health and substance use disorders under the same terms and
+7 conditions as that coverage is provided for other illnesses and diseases.
+8 (b) Coverage for the treatment of mental health and substance use disorders shall not
+9 impose any annual or lifetime dollar limitation.
+10 (c) Financial requirements and quantitative treatment limitations on coverage for the
+11 treatment of mental health and substance use disorders shall be no more restrictive than the
+12 predominant financial requirements applied to substantially all coverage for medical conditions in
+13 each treatment classification.
+14 (d) Coverage shall not impose non-quantitative treatment limitations for the treatment of
+15 mental health and substance use disorders unless the processes, strategies, evidentiary standards,
+16 or other factors used in applying the non-quantitative treatment limitation, as written and in
+17 operation, are comparable to, and are applied no more stringently than, the processes, strategies,
+18 evidentiary standards, or other factors used in applying the limitation with respect to
+
+1 medical/surgical benefits in the classification.
+2 (e) The following classifications shall be used to apply the coverage requirements of this
+3 chapter: (1) Inpatient, in-network; (2) Inpatient, out-of-network; (3) Outpatient, in-network; (4)
+4 Outpatient, out-of-network; (5) Emergency care; and (6) Prescription drugs.
+5 (f) Medication-assisted treatment or medication-assisted maintenance services of substance
+6 use disorders, opioid overdoses, and chronic addiction, including methadone, buprenorphine,
+7 naltrexone, or other clinically appropriate medications, is included within the appropriate
+8 classification based on the site of the service.
+9 (g) Payors shall rely upon the criteria of the American Society of Addiction Medicine when
+10 developing coverage for levels of care for substance use disorder treatment.
+11 (h) Payors shall rely upon criteria which reflect generally accepted standards of care when
+12 developing coverage for levels of care for mental health treatment.
+13 (i) Payors shall not modify clinical criteria to reduce coverage for mental health treatment
+14 below the level established by the generally accepted standards of care upon which their clinical
+15 criteria are based.
+16 (j) Patients with substance use disorders shall have access to evidence-based, non-opioid
+17 treatment for pain, therefore coverage shall apply to medically necessary chiropractic care and
+18 osteopathic manipulative treatment performed by an individual licensed under § 5-37-2.
+19 (i)(k) Parity of cost-sharing requirements. Regardless of the professional license of the
+20 provider of care, if that care is consistent with the provider’s scope of practice and the health plan’s
+21 credentialing and contracting provisions, cost sharing for behavioral health counseling visits and
+22 medication maintenance visits shall be consistent with the cost sharing applied to primary care
+23 office visits.
+24 27-38.2-2. Definitions.
+25 For the purposes of this chapter, the following words and terms have the following
+26 meanings:
+27 (1) “Financial requirements” means deductibles, copayments, coinsurance, or out-of-
+28 pocket maximums.
+29 (2) “Generally accepted standards of care” means standards of care and clinical practice
+30 that are generally recognized by healthcare providers practicing in relevant clinical specialties such
+31 as psychiatry, psychology, clinical sociology, addiction medicine and counseling, and behavioral
+32 health treatment, as reflected in sources including, but not limited to, patient placement criteria and
+33 clinical practice guidelines, the Level of Care Utilization System (LOCUS), the Child and
+34 Adolescent Level of Care Utilization System (CALOCUS), the Child and Adolescent Service
+LC001182 - Page 2 of 5
+
+1 Intensity Instrument (CASII), recommendations of federal government agencies, and drug labeling
+2 approved by the United States Food and Drug Administration.
+3 (2)(3) “Group health plan” means an employee welfare benefit plan as defined in 29 U.S.C.
+4 § 1002(1) to the extent that the plan provides health benefits to employees or their dependents
+5 directly or through insurance, reimbursement, or otherwise. For purposes of this chapter, a group
+6 health plan shall not include a plan that provides health benefits directly to employees or their
+7 dependents, except in the case of a plan provided by the state or an instrumentality of the state.
+8 (3)(4) “Health insurance plan” means health insurance coverage offered, delivered, issued
+9 for delivery, or renewed by a health insurer.
+10 (4)(5) “Health insurers” means all persons, firms, corporations, or other organizations
+11 offering and assuring health services on a prepaid or primarily expense-incurred basis, including
+12 but not limited to, policies of accident or sickness insurance, as defined by chapter 18 of this title;
+13 nonprofit hospital or medical service plans, whether organized under chapter 19 or 20 of this title
+14 or under any public law or by special act of the general assembly; health maintenance organizations,
+15 or any other entity that insures or reimburses for diagnostic, therapeutic, or preventive services to
+16 a determined population on the basis of a periodic premium. Provided, this chapter does not apply
+17 to insurance coverage providing benefits for:
+18 (i) Hospital confinement indemnity;
+19 (ii) Disability income;
+20 (iii) Accident only;
+21 (iv) Long-term care;
+22 (v) Medicare supplement;
+23 (vi) Limited benefit health;
+24 (vii) Specific disease indemnity;
+25 (viii) Sickness or bodily injury or death by accident or both; and
+26 (ix) Other limited benefit policies.
+27 (5)(6) “Mental health or substance use disorder” means any mental disorder and substance
+28 use disorder that is listed in the most recent revised publication or the most updated volume of
+29 either the Diagnostic and Statistical Manual of Mental Disorders (DSM) published by the American
+30 Psychiatric Association or the International Classification of Disease Manual (ICO) published by
+31 the World Health Organization; provided, that tobacco and caffeine are excluded from the
+32 definition of “substance” for the purposes of this chapter.
+33 (6)(7) “Non-quantitative treatment limitations” means: (i) Medical management standards;
+34 (ii) Formulary design and protocols; (iii) Network tier design; (iv) Standards for provider admission
+LC001182 - Page 3 of 5
+
+1 to participate in a network; (v) Reimbursement rates and methods for determining usual, customary,
+2 and reasonable charges; and (vi) Other criteria that limit scope or duration of coverage for services
+3 in the treatment of mental health and substance use disorders, including restrictions based on
+4 geographic location, facility type, and provider specialty.
+5 (7)(8) “Quantitative treatment limitations” means numerical limits on coverage for the
+6 treatment of mental health and substance use disorders based on the frequency of treatment, number
+7 of visits, days of coverage, days in a waiting period, or other similar limits on the scope or duration
+8 of treatment.
+9 SECTION 2. This act shall take effect upon passage.
+========
+LC001182
+========
+LC001182 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- INSURANCE COVERAGE FOR MENTAL ILLNESS AND
+SUBSTANCE USE DISORDERS
+***
+1 This act would provide that for insurance coverage for treatment of mental health and
+2 substance use disorders, payors would rely upon criteria which reflect generally accepted standards
+3 of care when developing coverage for levels of care for mental health treatment. This act would
+4 also provide that payors would not modify clinical criteria to reduce coverage for mental health
+5 treatment below the level established by the generally accepted standards of care upon which their
+6 clinical criteria are based. This act would also provide a definition for the term “generally accepted
+7 standards of care.”
+8 This act would take effect upon passage.
+========
+LC001182
+========
+LC001182 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S e t 2 ( c c ( i ( F r a q t l o c f t t o m h a s u d s b n m r t t p e ( m o o f u i a t n t l a w a i o e s o o f u i a t l w r t]
+[DELETED:  m ( c O ( u d o o a c a i m b n o o c a m i i w t a c ( d ( d ( b c ( t o ( p c m o 2 F t p o t c t f w a t h t f m ( “ r m d c c o o p ( t a h c p g t L o C U S ( t C a A]
+[DELETED:  I a ( § d h d ( f ( o b n o o a t ( ( ( ( ( ( ( ( ( ( u e P t W H O p t t a c a e f t d ( (]
+[DELETED:  t a i g ( t o o S]
+[DELETED:  T s o a t c s T]

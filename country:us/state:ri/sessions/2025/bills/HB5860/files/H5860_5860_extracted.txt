@@ -1,0 +1,370 @@
+Title: RELATING TO FOOD AND DRUGS -- PRESCRIPTION DRUG COST PROTECTION
+Official Title: RELATING TO FOOD AND DRUGS -- PRESCRIPTION DRUG COST PROTECTION
+Number of Sections: 1
+Source: versions - 5860
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5860
+========
+LC002090
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Tanzi, Kislak, Hull, Morales, Potter, Ajello, Bennett,
+Cortvriend, Boylan, and Cotter
+Date Introduced: February 28, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 The purpose of this chapter is to protect the safety, health, and economic well-being of
+3 Rhode Island residents by safeguarding them from the negative and harmful impact of excessive
+4 and unconscionable prices for prescription drugs. In enacting this act, the legislature finds that
+5 access to prescription drugs is necessary for Rhode Island residents to maintain or achieve good
+6 health:
+7 (i) Excessive prices negatively impact the ability of Rhode Island residents to obtain
+8 prescription drugs and price increases that exceed reasonable levels thereby endanger the health
+9 and safety of Rhode Island residents to maintain or achieve good health;
+10 (ii) Excessive prices for prescription drugs threaten the economic well-being of Rhode
+11 Island residents and endanger their ability to pay for other necessary and essential goods and
+12 services including housing, food and utilities;
+13 (iii) Excessive prices for prescription drugs contribute significantly to a dramatic and
+14 unsustainable rise in health care costs and health insurance that threaten the overall ability of Rhode
+15 Island residents to obtain health coverage and maintain or achieve good health;
+16 (iv) Excessive prices for prescription drugs contribute significantly to rising state costs for
+17 health care provided and paid for through health insurance programs for public employees,
+18 including employees of the state, municipalities and counties, school districts, institutions of higher
+19 education, and retirees whose health care costs are funded by public programs, thereby threatening
+1 the ability of the state to fund those programs adequately and further threatening the ability of the
+2 state to fund other programs necessary for the public good and safety, such as public education and
+3 public safety; and
+4 (v) Based on findings in subsections (i) through (iv) of this section, the legislature finds
+5 that excessive prices for prescription drugs threaten the safety and well-being of Rhode Island
+6 residents and find it is necessary to act in order to protect Rhode Island residents from the negative
+7 impact of excessive costs.
+8 SECTION 2. Title 21 of the General Laws entitled "FOOD AND DRUGS" is hereby
+9 amended by adding thereto the following chapter:
+10 CHAPTER 38
+11 PRESCRIPTION DRUG COST PROTECTION
+12 21-38-1. Definitions.
+13 As used in this chapter:
+14 (1) “ERISA Plan” means a plan qualified under the Employee Retirement Income Security
+15 Act of 1974, 29 U.S.C. ch. 18 § 1001 et seq.
+16 (2) “Health plan” means any entity subject to the insurance laws and regulations of this
+17 state, or subject to the jurisdiction of the commissioner, that contracts or offers to contract to
+18 provide, deliver, arrange for, pay for, or reimburse any of the costs of healthcare services including,
+19 without limitation, an insurance company offering accident and sickness insurance, a health
+20 maintenance organization licensed under chapter 41 of title 27, a nonprofit hospital service
+21 corporation organized under chapter 19 of title 27, a nonprofit medical service corporation
+22 organized under chapter 20 of title 27, a nonprofit dental service corporation organized under
+23 chapter 20.1 of title 27, a nonprofit optometric service corporation organized under chapter 20.2 of
+24 title 27, a domestic insurance company subject to chapter 1 of title 27 that offers or provides health
+25 insurance coverage in the state, and a foreign insurance company subject to chapter 2 of title 27
+26 that offers or providers health insurance coverage in the state.
+27 (3) "Insurance commissioner" or "commissioner" means the director of the department of
+28 business regulation or the director's designee.
+29 (4) “Maximum fair price” means the maximum rate for a drug published by the Secretary
+30 of the United States Department of Health and Human Services pursuant to Section 1195 of P.L.
+31 117-169 (2022).
+32 (5) “Participating ERISA plan” means an ERISA plan that has elected to participate in the
+33 requirements and restrictions of this chapter and provides notice as described in § 21-38-3.
+34 (6) “Price applicability period” means the period of time defined in Section 1191 of P.L.
+LC002090 - Page 2 of 6
+1 117-169 (2022).
+2 (7) “Referenced drug” means a drug subject to a maximum fair price.
+3 (8) “State entity” means any agency of state government that purchases prescription drugs
+4 on behalf of the state for a person whose health care is paid for by the state, including any agent,
+5 vendor, fiscal agent, contractor, or other party acting on behalf of the state. State entity does not
+6 include the medical assistance program established under 42 U.S.C. §1396 et seq.
+7 21-38-2. Payment in excess of referenced rate prohibited.
+8 (a) The maximum fair price is the maximum payment for a referenced drug and applies to
+9 all purchases of a referenced drug and reimbursements for a claim for the referenced drug during
+10 the price applicability period when the referenced drug is dispensed, delivered, or administered to
+11 an individual in the state in person, by mail, or by other means.
+12 (b) It is a violation of this chapter for any purchaser to purchase a referenced drug or seek
+13 reimbursement for a referenced drug to be dispensed, delivered, or administered to an individual in
+14 the state in person, by mail, or by other means for a cost higher than the maximum fair price. The
+15 maximum fair price does not include a dispensing fee paid to a pharmacy for dispensing a
+16 referenced drug and nothing in this chapter shall be interpreted to prevent a retail pharmacy from
+17 receiving a dispensing fee above the maximum fair price.
+18 21-38-3. ERISA plan opt-in.
+19 An ERISA plan may elect to participate in the provisions of this chapter. Any ERISA plan
+20 that desires its purchase of prescription drugs to be subject to the prohibition described in this
+21 section shall notify the insurance commissioner in writing by February 1 of each year.
+22 21-38-4. Rulemaking authority.
+23 The insurance commissioner shall have the authority to implement regulations pursuant to
+24 chapter 35 of title 42 ("administrative procedures") to fully implement the requirements of this
+25 chapter.
+26 21-38-5. Registered agent and office within the state.
+27 Any entity that sells, distributes, delivers, or offers for sale any drug in the state is required
+28 to maintain a registered agent and office within the state.
+29 21-38-6. Use of savings.
+30 (a) Any savings generated as a result of the requirements in § 21-38-3 during the referenced
+31 rate applicability period above shall be used to reduce costs to consumers. Any state entity, health
+32 plan or participating ERISA plan shall calculate such savings and utilize such savings directly to
+33 reduce costs for its members. In determining how to utilize savings in order to comply with this
+34 provision, purchasers are directed to consider strategies that promote greater health equity by
+LC002090 - Page 3 of 6
+1 addressing disparities across communities.
+2 (b) No later than April 1 of each calendar year, each state entity, health plan and
+3 participating ERISA plan subject to this chapter shall submit to the insurance commissioner a report
+4 describing the savings achieved for each referenced drug for the previous calendar year and how
+5 those savings were used to achieve the requirements of subsection (a) of this section, including how
+6 the savings were used to promote greater health equity by addressing disparities across
+7 communities.
+8 (c) The insurance commissioner shall implement rules setting forth the method for
+9 calculating savings and the format and submission requirements for the report described in
+10 subsection (b) of this section.
+11 21-38-7. Enforcement.
+12 Each violation of this chapter shall be subject to a fine of one thousand dollars ($1,000).
+13 Every individual transaction in violation of § 21-38-2 is determined to be a separate violation. The
+14 attorney general is authorized to enforce the provisions of this statute. The refusal of a manufacturer
+15 or distributor to negotiate in good faith as described in § 21-38-8(d) shall be a valid affirmative
+16 defense in any enforcement action brought under this chapter.
+17 21-38-8. Prohibition on withdrawal of referenced drugs for sale.
+18 (a) It shall be a violation of this chapter for any manufacturer or distributor of a referenced
+19 drug to withdraw that drug from sale or distribution within this state for the purpose of avoiding
+20 the impact of the rate limitations set forth in § 21-38-3.
+21 (b) Any manufacturer that intends to withdraw a referenced drug from sale or distribution
+22 from within the state shall provide a notice of withdrawal in writing to the insurance commissioner
+23 and to the attorney general one hundred eighty (180) days prior to such withdrawal.
+24 (c) The insurance commissioner shall assess a penalty on any manufacturer or distributor
+25 that it determines has withdrawn a referenced drug from distribution or sale in the state in violation
+26 of subsection (a) or (b) of this section. With respect to each referenced drug for which the insurance
+27 commissioner has determined the manufacturer or distributor has withdrawn from the market, the
+28 penalty shall be equal to:
+29 (1) Five hundred thousand dollars ($500,000); or
+30 (2) The amount of annual savings determined by the insurance commissioner as described
+31 in § 21-38-6, whichever is greater.
+32 (d) It shall be a violation of this chapter for any manufacturer or distributor of a referenced
+33 drug to refuse to negotiate in good faith with any payor or seller of prescription drugs a price that
+34 is within the referenced rate as determined in § 21-38-2.
+LC002090 - Page 4 of 6
+1 (e) The insurance commissioner shall assess a penalty on any manufacturer or distributor
+2 that it determines has failed to negotiate in good faith. With respect to each referenced drug for
+3 which the insurance commissioner has determined the manufacturer or distributor has failed to
+4 negotiate in good faith, the penalty shall be equal to:
+5 (1) Five hundred thousand dollars ($500,000); or
+6 (2) The amount of annual savings determined by the insurance commissioner as described
+7 in § 21-38-6, whichever is greater.
+8 21-38-9. Severability clause.
+9 If any provision of this chapter or the application thereof is determined to be invalid, the
+10 invalidity shall not affect other provisions or applications of this chapter which can be given effect
+11 without the invalid provision or application, and to this end the provisions of this chapter are
+12 severable.
+13 SECTION 3. This act shall take effect upon passage.
+========
+LC002090
+========
+LC002090 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- PRESCRIPTION DRUG COST PROTECTION
+***
+1 This act would prohibit the state, participating ERISA, or any health plan from purchasing
+2 referenced drugs for a cost higher than the referenced rate.
+3 This act would take effect upon passage.
+========
+LC002090
+========
+LC002090 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND S T R a a h ( E p n i t a o R I r t o p a ( I s ( E p f d c s t a d a u I ( h c p a p f t h i p f p e i e]
+[DELETED:  t s p ( t r i S a C P 2 A ( A ( s p w l a i c o a a s i a h m o l u c 4 o t 2 a n h s c o u c 1 o t 2 a n m s c o c t i t ( b ( o 1 ( r (]
+[DELETED:  1 ( ( o v i 2 ( a t a ( r t m f p d n i a d f p t a p f d a r r 2 A t s 2 T c c 2 A t 2 ( r p r p]
+[DELETED:  a ( N l t A 1 o e c y e s e h p a p d t t s w u t p g h e b a d a c ( T i c s i r s f t m f c s a t f a s r f t r d i s 2 E E a o d 2 ( d t ( f a ( t o c p ( ( i ( d i]
+[DELETED:  ( t w n ( ( i 2 I i w s S]
+[DELETED:  T r T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5860
+========
+LC002090
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- PRESCRIPTION DRUG COST PROTECTION
+Introduced By: Representatives Tanzi, Kislak, Hull, Morales, Potter, Ajello, Bennett,
+Cortvriend, Boylan, and Cotter
+Date Introduced: February 28, 2025
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 The purpose of this chapter is to protect the safety, health, and economic well-being of
+3 Rhode Island residents by safeguarding them from the negative and harmful impact of excessive
+4 and unconscionable prices for prescription drugs. In enacting this act, the legislature finds that
+5 access to prescription drugs is necessary for Rhode Island residents to maintain or achieve good
+6 health:
+7 (i) Excessive prices negatively impact the ability of Rhode Island residents to obtain
+8 prescription drugs and price increases that exceed reasonable levels thereby endanger the health
+9 and safety of Rhode Island residents to maintain or achieve good health;
+10 (ii) Excessive prices for prescription drugs threaten the economic well-being of Rhode
+11 Island residents and endanger their ability to pay for other necessary and essential goods and
+12 services including housing, food and utilities;
+13 (iii) Excessive prices for prescription drugs contribute significantly to a dramatic and
+14 unsustainable rise in health care costs and health insurance that threaten the overall ability of Rhode
+15 Island residents to obtain health coverage and maintain or achieve good health;
+16 (iv) Excessive prices for prescription drugs contribute significantly to rising state costs for
+17 health care provided and paid for through health insurance programs for public employees,
+18 including employees of the state, municipalities and counties, school districts, institutions of higher
+19 education, and retirees whose health care costs are funded by public programs, thereby threatening
+
+1 the ability of the state to fund those programs adequately and further threatening the ability of the
+2 state to fund other programs necessary for the public good and safety, such as public education and
+3 public safety; and
+4 (v) Based on findings in subsections (i) through (iv) of this section, the legislature finds
+5 that excessive prices for prescription drugs threaten the safety and well-being of Rhode Island
+6 residents and find it is necessary to act in order to protect Rhode Island residents from the negative
+7 impact of excessive costs.
+8 SECTION 2. Title 21 of the General Laws entitled "FOOD AND DRUGS" is hereby
+9 amended by adding thereto the following chapter:
+10 CHAPTER 38
+11 PRESCRIPTION DRUG COST PROTECTION
+12 21-38-1. Definitions.
+13 As used in this chapter:
+14 (1) “ERISA Plan” means a plan qualified under the Employee Retirement Income Security
+15 Act of 1974, 29 U.S.C. ch. 18 § 1001 et seq.
+16 (2) “Health plan” means any entity subject to the insurance laws and regulations of this
+17 state, or subject to the jurisdiction of the commissioner, that contracts or offers to contract to
+18 provide, deliver, arrange for, pay for, or reimburse any of the costs of healthcare services including,
+19 without limitation, an insurance company offering accident and sickness insurance, a health
+20 maintenance organization licensed under chapter 41 of title 27, a nonprofit hospital service
+21 corporation organized under chapter 19 of title 27, a nonprofit medical service corporation
+22 organized under chapter 20 of title 27, a nonprofit dental service corporation organized under
+23 chapter 20.1 of title 27, a nonprofit optometric service corporation organized under chapter 20.2 of
+24 title 27, a domestic insurance company subject to chapter 1 of title 27 that offers or provides health
+25 insurance coverage in the state, and a foreign insurance company subject to chapter 2 of title 27
+26 that offers or providers health insurance coverage in the state.
+27 (3) "Insurance commissioner" or "commissioner" means the director of the department of
+28 business regulation or the director's designee.
+29 (4) “Maximum fair price” means the maximum rate for a drug published by the Secretary
+30 of the United States Department of Health and Human Services pursuant to Section 1195 of P.L.
+31 117-169 (2022).
+32 (5) “Participating ERISA plan” means an ERISA plan that has elected to participate in the
+33 requirements and restrictions of this chapter and provides notice as described in § 21-38-3.
+34 (6) “Price applicability period” means the period of time defined in Section 1191 of P.L.
+LC002090 - Page 2 of 6
+
+1 117-169 (2022).
+2 (7) “Referenced drug” means a drug subject to a maximum fair price.
+3 (8) “State entity” means any agency of state government that purchases prescription drugs
+4 on behalf of the state for a person whose health care is paid for by the state, including any agent,
+5 vendor, fiscal agent, contractor, or other party acting on behalf of the state. State entity does not
+6 include the medical assistance program established under 42 U.S.C. §1396 et seq.
+7 21-38-2. Payment in excess of referenced rate prohibited.
+8 (a) The maximum fair price is the maximum payment for a referenced drug and applies to
+9 all purchases of a referenced drug and reimbursements for a claim for the referenced drug during
+10 the price applicability period when the referenced drug is dispensed, delivered, or administered to
+11 an individual in the state in person, by mail, or by other means.
+12 (b) It is a violation of this chapter for any purchaser to purchase a referenced drug or seek
+13 reimbursement for a referenced drug to be dispensed, delivered, or administered to an individual in
+14 the state in person, by mail, or by other means for a cost higher than the maximum fair price. The
+15 maximum fair price does not include a dispensing fee paid to a pharmacy for dispensing a
+16 referenced drug and nothing in this chapter shall be interpreted to prevent a retail pharmacy from
+17 receiving a dispensing fee above the maximum fair price.
+18 21-38-3. ERISA plan opt-in.
+19 An ERISA plan may elect to participate in the provisions of this chapter. Any ERISA plan
+20 that desires its purchase of prescription drugs to be subject to the prohibition described in this
+21 section shall notify the insurance commissioner in writing by February 1 of each year.
+22 21-38-4. Rulemaking authority.
+23 The insurance commissioner shall have the authority to implement regulations pursuant to
+24 chapter 35 of title 42 ("administrative procedures") to fully implement the requirements of this
+25 chapter.
+26 21-38-5. Registered agent and office within the state.
+27 Any entity that sells, distributes, delivers, or offers for sale any drug in the state is required
+28 to maintain a registered agent and office within the state.
+29 21-38-6. Use of savings.
+30 (a) Any savings generated as a result of the requirements in § 21-38-3 during the referenced
+31 rate applicability period above shall be used to reduce costs to consumers. Any state entity, health
+32 plan or participating ERISA plan shall calculate such savings and utilize such savings directly to
+33 reduce costs for its members. In determining how to utilize savings in order to comply with this
+34 provision, purchasers are directed to consider strategies that promote greater health equity by
+LC002090 - Page 3 of 6
+
+1 addressing disparities across communities.
+2 (b) No later than April 1 of each calendar year, each state entity, health plan and
+3 participating ERISA plan subject to this chapter shall submit to the insurance commissioner a report
+4 describing the savings achieved for each referenced drug for the previous calendar year and how
+5 those savings were used to achieve the requirements of subsection (a) of this section, including how
+6 the savings were used to promote greater health equity by addressing disparities across
+7 communities.
+8 (c) The insurance commissioner shall implement rules setting forth the method for
+9 calculating savings and the format and submission requirements for the report described in
+10 subsection (b) of this section.
+11 21-38-7. Enforcement.
+12 Each violation of this chapter shall be subject to a fine of one thousand dollars ($1,000).
+13 Every individual transaction in violation of § 21-38-2 is determined to be a separate violation. The
+14 attorney general is authorized to enforce the provisions of this statute. The refusal of a manufacturer
+15 or distributor to negotiate in good faith as described in § 21-38-8(d) shall be a valid affirmative
+16 defense in any enforcement action brought under this chapter.
+17 21-38-8. Prohibition on withdrawal of referenced drugs for sale.
+18 (a) It shall be a violation of this chapter for any manufacturer or distributor of a referenced
+19 drug to withdraw that drug from sale or distribution within this state for the purpose of avoiding
+20 the impact of the rate limitations set forth in § 21-38-3.
+21 (b) Any manufacturer that intends to withdraw a referenced drug from sale or distribution
+22 from within the state shall provide a notice of withdrawal in writing to the insurance commissioner
+23 and to the attorney general one hundred eighty (180) days prior to such withdrawal.
+24 (c) The insurance commissioner shall assess a penalty on any manufacturer or distributor
+25 that it determines has withdrawn a referenced drug from distribution or sale in the state in violation
+26 of subsection (a) or (b) of this section. With respect to each referenced drug for which the insurance
+27 commissioner has determined the manufacturer or distributor has withdrawn from the market, the
+28 penalty shall be equal to:
+29 (1) Five hundred thousand dollars ($500,000); or
+30 (2) The amount of annual savings determined by the insurance commissioner as described
+31 in § 21-38-6, whichever is greater.
+32 (d) It shall be a violation of this chapter for any manufacturer or distributor of a referenced
+33 drug to refuse to negotiate in good faith with any payor or seller of prescription drugs a price that
+34 is within the referenced rate as determined in § 21-38-2.
+LC002090 - Page 4 of 6
+
+1 (e) The insurance commissioner shall assess a penalty on any manufacturer or distributor
+2 that it determines has failed to negotiate in good faith. With respect to each referenced drug for
+3 which the insurance commissioner has determined the manufacturer or distributor has failed to
+4 negotiate in good faith, the penalty shall be equal to:
+5 (1) Five hundred thousand dollars ($500,000); or
+6 (2) The amount of annual savings determined by the insurance commissioner as described
+7 in § 21-38-6, whichever is greater.
+8 21-38-9. Severability clause.
+9 If any provision of this chapter or the application thereof is determined to be invalid, the
+10 invalidity shall not affect other provisions or applications of this chapter which can be given effect
+11 without the invalid provision or application, and to this end the provisions of this chapter are
+12 severable.
+13 SECTION 3. This act shall take effect upon passage.
+========
+LC002090
+========
+LC002090 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- PRESCRIPTION DRUG COST PROTECTION
+***
+1 This act would prohibit the state, participating ERISA, or any health plan from purchasing
+2 referenced drugs for a cost higher than the referenced rate.
+3 This act would take effect upon passage.
+========
+LC002090
+========
+LC002090 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND S T R a a h ( E p n i t a o R I r t o p a ( I s ( E p f d c s t a d a u I ( h c p a p f t h i p f p e i e]
+[DELETED:  t s p ( t r i S a C P 2 A ( A ( s p w l a i c o a a s i a h m o l u c 4 o t 2 a n h s c o u c 1 o t 2 a n m s c o c t i t ( b ( o 1 ( r (]
+[DELETED:  1 ( ( o v i 2 ( a t a ( r t m f p d n i a d f p t a p f d a r r 2 A t s 2 T c c 2 A t 2 ( r p r p]
+[DELETED:  a ( N l t A 1 o e c y e s e h p a p d t t s w u t p g h e b a d a c ( T i c s i r s f t m f c s a t f a s r f t r d i s 2 E E a o d 2 ( d t ( f a ( t o c p ( ( i ( d i]
+[DELETED:  ( t w n ( ( i 2 I i w s S]
+[DELETED:  T r T]

@@ -1,0 +1,1593 @@
+Title: RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION ACT
+Official Title: RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION ACT
+Number of Sections: 1
+Source: versions - 6317
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 6317
+========
+LC002773
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representatives Ackerman, Potter, McNamara, Edwards, Donovan, and
+Shallcross Smith
+Date Introduced: May 09, 2025
+Referred To: House Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18.9-2 of the General Laws in Chapter 27-18.9 entitled "Benefit
+2 Determination and Utilization Review Act" is hereby amended to read as follows:
+3 27-18.9-2. Definitions.
+4 As used in this chapter, the following terms are defined as follows:
+5 (1) “Adverse benefit determination” means a decision not to authorize a healthcare service,
+6 including a denial, reduction, or termination of, or a failure to provide or make a payment, in whole
+7 or in part, for a benefit. A decision by a utilization-review agent to authorize a healthcare service
+8 in an alternative setting, a modified extension of stay, or an alternative treatment shall not constitute
+9 an adverse determination if the review agent and provider are in agreement regarding the decision.
+10 Adverse benefit determinations include:
+11 (i) “Administrative adverse benefit determinations,” meaning any adverse benefit
+12 determination that does not require the use of medical judgment or clinical criteria such as a
+13 determination of an individual’s eligibility to participate in coverage, a determination that a benefit
+14 is not a covered benefit, or any rescission of coverage; and
+15 (ii) “Non-administrative adverse benefit determinations,” meaning any adverse benefit
+16 determination that requires or involves the use of medical judgement or clinical criteria to
+17 determine whether the service being reviewed is medically necessary and/or appropriate. This
+18 includes the denial of treatments determined to be experimental or investigational, and any denial
+19 of coverage of a prescription drug because that drug is not on the healthcare entity’s formulary.
+1 (2) “Appeal” or “internal appeal” means a subsequent review of an adverse benefit
+2 determination upon request by a claimant to include the beneficiary or provider to reconsider all or
+3 part of the original adverse benefit determination.
+4 (3) “Authorization” means a review by a review agent, performed according to this chapter,
+5 concluding that the allocation of healthcare services ordered by a provider, given or proposed to be
+6 given to a beneficiary, was approved or authorized.
+7 (4) “Authorized representative” means an individual acting on behalf of the beneficiary
+8 and shall include: the ordering provider; any individual to whom the beneficiary has given express
+9 written consent to act on his or her behalf; a person authorized by law to provide substituted consent
+10 for the beneficiary; and, when the beneficiary is unable to provide consent, a family member of the
+11 beneficiary.
+12 (5) “Beneficiary” means a policy-holder subscriber, enrollee, or other individual
+13 participating in a health-benefit plan.
+14 (6) “Benefit determination” means a decision to approve or deny a request to provide or
+15 make payment for a healthcare service or treatment.
+16 (7) “Certificate” means a certificate granted by the commissioner to a review agent meeting
+17 the requirements of this chapter.
+18 (8) “Claim” means a request for plan benefit(s) made by a claimant in accordance with the
+19 healthcare entity’s reasonable procedures for filing benefit claims. This shall include pre-service,
+20 concurrent, and post-service claims.
+21 (9) “Claimant” means a healthcare entity participant, beneficiary, and/or authorized
+22 representative who makes a request for plan benefit(s).
+23 (10) “Commissioner” means the health insurance commissioner.
+24 (11) “Complaint” means an oral or written expression of dissatisfaction by a beneficiary,
+25 authorized representative, or a provider. The appeal of an adverse benefit determination is not
+26 considered a complaint.
+27 (12) “Concurrent assessment” means an assessment of healthcare services conducted
+28 during a beneficiary’s hospital stay, course of treatment or services over a period of time, or for the
+29 number of treatments. If the medical problem is ongoing, this assessment may include the review
+30 of services after they have been rendered and billed.
+31 (13) “Concurrent claim” means a request for a plan benefit(s) by a claimant that is for an
+32 ongoing course of treatment or services over a period of time or for the number of treatments.
+33 (14) “Delegate” means a person or entity authorized pursuant to a delegation of authority
+34 or re-delegation of authority, by a healthcare entity or network plan to perform one or more of the
+LC002773 - Page 2 of 23
+1 functions and responsibilities of a healthcare entity and/or network plan set forth in this chapter or
+2 regulations or guidance promulgated thereunder.
+3 (15) “Emergency services” or “emergent services” means those resources provided in the
+4 event of the sudden onset of a medical, behavioral health, or other health condition that the absence
+5 of immediate medical attention could reasonably be expected, by a prudent layperson, to result in
+6 placing the patient’s health in serious jeopardy, serious impairment to bodily or mental functions,
+7 or serious dysfunction of any bodily organ or part.
+8 (16) “External review” means a review of a non-administrative adverse benefit
+9 determination (including final internal adverse benefit determination) conducted pursuant to an
+10 applicable external review process performed by an independent review organization.
+11 (17) “External review decision” means a determination by an independent review
+12 organization at the conclusion of the external review.
+13 (18) “Final internal adverse benefit determination” means an adverse benefit determination
+14 that has been upheld by a plan or issuer at the completion of the internal appeals process or when
+15 the internal appeals process has been deemed exhausted as defined in § 27-18.9-7(b)(1).
+16 (19) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+17 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+18 pay for, or reimburse any of the costs of healthcare services.
+19 (20) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+20 by the state of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+21 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+22 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+23 reimburse any of the costs of healthcare services, including, without limitation: a for-profit or
+24 nonprofit hospital, medical or dental service corporation or plan, a health maintenance organization,
+25 a health insurance company, or any other entity providing a plan of health insurance, accident and
+26 sickness insurance, health benefits, or healthcare services.
+27 (21) “Healthcare services” means and includes, but is not limited to: an admission,
+28 diagnostic procedure, therapeutic procedure, treatment, extension of stay, the ordering and/or filling
+29 of formulary or non-formulary medications, and any other medical, behavioral, dental, vision care
+30 services, activities, or supplies that are covered by the beneficiary’s health-benefit plan.
+31 (22) “Independent review organization” or “IRO” means an entity that conducts
+32 independent external reviews of adverse benefit determinations or final internal adverse benefit
+33 determinations.
+34 (23) “Insurer”, for the purposes of § 27-18.9-16, means all insurance companies licensed
+LC002773 - Page 3 of 23
+1 to do business in Rhode Island, including those subject to chapter 1 of title 27 ("domestic insurance
+2 companies"), a foreign insurance company licensed to do business in Rhode Island and subject to
+3 chapter 2 of title 27 ("foreign insurance companies"), a health insurance carrier subject and
+4 organized pursuant to chapter 18 of title 27 ("accident and sickness insurance policies"), a nonprofit
+5 hospital service corporation subject and organized pursuant to chapter 19 of title 27 ("nonprofit
+6 hospital service corporations"), a nonprofit medical services corporation subject and organized
+7 pursuant to chapter 20 of title 27 ("nonprofit medical service corporations"), a qualified health
+8 maintenance organization subject and organized pursuant to chapter 41 of title 27 ("health
+9 maintenance organizations"), and Medicaid Managed Care Organizations.
+10 (24) “Network” means the group or groups of participating providers providing healthcare
+11 services under a network plan.
+12 (24)(25) “Network plan” means a health-benefit plan or health plan that either requires a
+13 beneficiary to use, or creates incentives, including financial incentives, for a beneficiary to use the
+14 providers managed, owned, under contract with, or employed by the healthcare entity.
+15 (25)(26) “Office” means the office of the health insurance commissioner.
+16 (26)(27) “Pre-service claim” means the request for a plan benefit(s) by a claimant prior to
+17 a service being rendered and is not considered a concurrent claim.
+18 (28) "Primary care provider (PCP)", for the purposes of § 27-18.9-16, means internal
+19 medicine physicians, family medicine physicians, pediatricians, geriatricians, OB-GYNs, nurse
+20 practitioners, certified nurse midwives, and physician’s assistants.
+21 (29) "Prior authorization and other utilization review", for the purposes of § 27-18.9-16,
+22 means the approval a primary care provider is required by an insurer to obtain from an insurer or
+23 pharmacy benefit manager for healthcare to be covered for a patient, in accordance with the
+24 definition of utilization review in this section.
+25 (27)(30) “Professional provider” means an individual provider or healthcare professional
+26 licensed, accredited, or certified to perform specified healthcare services consistent with state law
+27 and who provides healthcare services and is not part of a separate facility or institutional contract.
+28 (28)(31) “Prospective assessment” or “pre-service assessment” means an assessment of
+29 healthcare services prior to services being rendered.
+30 (29)(32) “Provider” means a physician, hospital, professional provider, pharmacy,
+31 laboratory, dental, medical, or behavioral health provider or other state-licensed or other state-
+32 recognized provider of health care or behavioral health services or supplies.
+33 (30)(33) “Retrospective assessment” or “post-service assessment” means an assessment of
+34 healthcare services that have been rendered. This shall not include reviews conducted when the
+LC002773 - Page 4 of 23
+1 review agency has been obtaining ongoing information.
+2 (31)(34) “Retrospective claim” or “post-service claim” means any claim for a health-plan
+3 benefit that is not a pre-service or concurrent claim.
+4 (32)(35) “Review agent” means a person or healthcare entity performing benefit
+5 determination reviews that is either employed by, affiliated with, under contract with, or acting on
+6 behalf of a healthcare entity.
+7 (33)(36) “Same or similar specialty” means a practitioner who has the appropriate training
+8 and experience that is the same or similar as the attending provider in addition to experience in
+9 treating the same problems to include any potential complications as those under review.
+10 (34)(37) “Therapeutic interchange” means the interchange or substitution of a drug with a
+11 dissimilar chemical structure within the same therapeutic or pharmacological class that can be
+12 expected to have similar outcomes and similar adverse reaction profiles when given in equivalent
+13 doses, in accordance with protocols approved by the president of the medical staff or medical
+14 director and the director of pharmacy.
+15 (35)(38) “Tiered network” means a network that identifies and groups some or all types of
+16 providers into specific groups to which different provider reimbursement, beneficiary cost-sharing,
+17 or provider access requirements, or any combination thereof, apply for the same services.
+18 (36)(39) “Urgent healthcare services” includes those resources necessary to treat a
+19 symptomatic medical, mental health, substance use, or other healthcare condition that a prudent
+20 layperson, acting reasonably, would believe necessitates treatment within a twenty-four hour (24)
+21 period of the onset of such a condition in order that the patient’s health status not decline as a
+22 consequence. This does not include those conditions considered to be emergent healthcare services
+23 as defined in this section.
+24 (37)(40) “Utilization review” means the prospective, concurrent, or retrospective
+25 assessment of the medical necessity and/or appropriateness of the allocation of healthcare services
+26 of a provider, given or proposed to be given, to a beneficiary. Utilization review does not include:
+27 (i) The therapeutic interchange of drugs or devices by a pharmacy operating as part of a
+28 licensed inpatient healthcare facility; or
+29 (ii) The assessment by a pharmacist licensed pursuant to the provisions of chapter 19.1 of
+30 title 5, and practicing in a pharmacy operating as part of a licensed inpatient healthcare facility, in
+31 the interpretation, evaluation and implementation of medical orders, including assessments and/or
+32 comparisons involving formularies and medical orders.
+33 (38)(41) “Utilization review plan” means a description of the standards governing
+34 utilization review activities performed by a review agent.
+LC002773 - Page 5 of 23
+1 SECTION 2. Chapter 27-18.9 of the General Laws entitled "Benefit Determination and
+2 Utilization Review Act" is hereby amended by adding thereto the following section:
+3 27-18.9-16. Limitations on prior authorization for primary care.
+4 (a) Except as provided in subsection (b) of this section, an insurer shall not impose any
+5 prior authorization requirement for any admission, item, service, treatment, test, exam, study,
+6 procedure, or any generic or brand name prescription drug ordered by a primary care provider.
+7 (b) The prohibition set forth in subsection (a) of this section shall not be construed to
+8 prohibit prior authorization requirements for controlled substances, or for individual primary care
+9 providers after documented cases of fraud, waste or abuse by the Centers of Medicare and Medicaid
+10 Services.
+11 (c) Notwithstanding any other provision of law to the contrary, in order to establish
+12 uniformity in the submission of prior authorization forms, on or after January 1, 2026, any issuer
+13 issuing any lawful prior authorization shall use only a single, standardized prior authorization form,
+14 in accordance with the following requirements:
+15 (1) Except as otherwise allowable by federal law, the form shall not exceed two (2) pages
+16 in length, excluding any instructions or guiding documentation;
+17 (2) The form shall be made available electronically, and the prescribing provider may
+18 submit the completed form electronically to the health benefit plan;
+19 (3) In order to lower burden on providers, all insurers must create an online payor portal to
+20 allow for online submission of the standardized form. These online portals must contain all relevant
+21 prior authorization information, including access to the standardized form, to allow providers to fill
+22 out and submit the form online. These portals must be accessible to providers by January 1, 2026;
+23 and
+24 (4) The issuer must submit its prior authorization form to the office of the health insurance
+25 commissioner to be kept on file on January 1, 2026. A copy of any subsequent replacements or
+26 modifications of a health insurance issuer's prior authorization form shall be filed with the office
+27 of the health insurance commissioner. The office of the health insurance commissioner may
+28 promulgate rules and regulations to further standardize and reduce the burden of prior authorization
+29 on providers.
+30 SECTION 3. Section 42-7.2-5 of the General Laws in Chapter 42-7.2 entitled "Office of
+31 Health and Human Services" is hereby amended to read as follows:
+32 42-7.2-5. Duties of the secretary.
+33 The secretary shall be subject to the direction and supervision of the governor for the
+34 oversight, coordination, and cohesive direction of state-administered health and human services
+LC002773 - Page 6 of 23
+1 and in ensuring the laws are faithfully executed, notwithstanding any law to the contrary. In this
+2 capacity, the secretary of the executive office of health and human services (EOHHS) shall be
+3 authorized to:
+4 (1) Coordinate the administration and financing of healthcare benefits, human services, and
+5 programs including those authorized by the state’s Medicaid section 1115 demonstration waiver
+6 and, as applicable, the Medicaid state plan under Title XIX of the U.S. Social Security Act.
+7 However, nothing in this section shall be construed as transferring to the secretary the powers,
+8 duties, or functions conferred upon the departments by Rhode Island public and general laws for
+9 the administration of federal/state programs financed in whole or in part with Medicaid funds or
+10 the administrative responsibility for the preparation and submission of any state plans, state plan
+11 amendments, or authorized federal waiver applications, once approved by the secretary.
+12 (2) Serve as the governor’s chief advisor and liaison to federal policymakers on Medicaid
+13 reform issues as well as the principal point of contact in the state on any such related matters.
+14 (3)(i) Review and ensure the coordination of the state’s Medicaid section 1115
+15 demonstration waiver requests and renewals as well as any initiatives and proposals requiring
+16 amendments to the Medicaid state plan or formal amendment changes, as described in the special
+17 terms and conditions of the state’s Medicaid section 1115 demonstration waiver with the potential
+18 to affect the scope, amount, or duration of publicly funded healthcare services, provider payments
+19 or reimbursements, or access to or the availability of benefits and services as provided by Rhode
+20 Island general and public laws. The secretary shall consider whether any such changes are legally
+21 and fiscally sound and consistent with the state’s policy and budget priorities. The secretary shall
+22 also assess whether a proposed change is capable of obtaining the necessary approvals from federal
+23 officials and achieving the expected positive consumer outcomes. Department directors shall,
+24 within the timelines specified, provide any information and resources the secretary deems necessary
+25 in order to perform the reviews authorized in this section.
+26 (ii) Direct the development and implementation of any Medicaid policies, procedures, or
+27 systems that may be required to assure successful operation of the state’s health and human services
+28 integrated eligibility system and coordination with HealthSource RI, the state’s health insurance
+29 marketplace.
+30 (iii) Beginning in 2015, conduct on a biennial basis a comprehensive review of the
+31 Medicaid eligibility criteria for one or more of the populations covered under the state plan or a
+32 waiver to ensure consistency with federal and state laws and policies, coordinate and align systems,
+33 and identify areas for improving quality assurance, fair and equitable access to services, and
+34 opportunities for additional financial participation.
+LC002773 - Page 7 of 23
+1 (iv) Implement service organization and delivery reforms that facilitate service integration,
+2 increase value, and improve quality and health outcomes.
+3 (4) Beginning in 2020, prepare and submit to the governor, the chairpersons of the house
+4 and senate finance committees, the caseload estimating conference, and to the joint legislative
+5 committee for health-care oversight, by no later than September 15 of each year, a comprehensive
+6 overview of all Medicaid expenditures outcomes, administrative costs, and utilization rates. The
+7 overview shall include, but not be limited to, the following information:
+8 (i) Expenditures under Titles XIX and XXI of the Social Security Act, as amended;
+9 (ii) Expenditures, outcomes, and utilization rates by population and sub-population served
+10 (e.g., families with children, persons with disabilities, children in foster care, children receiving
+11 adoption assistance, adults ages nineteen (19) to sixty-four (64), and elders);
+12 (iii) Expenditures, outcomes, and utilization rates by each state department or other
+13 municipal or public entity receiving federal reimbursement under Titles XIX and XXI of the Social
+14 Security Act, as amended;
+15 (iv) Expenditures, outcomes, and utilization rates by type of service and/or service
+16 provider;
+17 (v) Expenditures by mandatory population receiving mandatory services and, reported
+18 separately, optional services, as well as optional populations receiving mandatory services and,
+19 reported separately, optional services for each state agency receiving Title XIX and XXI funds; and
+20 (vi) Information submitted to the Centers for Medicare & Medicaid Services for the
+21 mandatory annual state reporting of the Core Set of Children’s Health Care Quality Measures for
+22 Medicaid and Children’s Health Insurance Program, behavioral health measures on the Core Set of
+23 Adult Health Care Quality Measures for Medicaid and the Core Sets of Health Home Quality
+24 Measures for Medicaid to ensure compliance with the Bipartisan Budget Act of 2018, Pub. L. No.
+25 115-123.
+26 The directors of the departments, as well as local governments and school departments,
+27 shall assist and cooperate with the secretary in fulfilling this responsibility by providing whatever
+28 resources, information and support shall be necessary.
+29 (5) Resolve administrative, jurisdictional, operational, program, or policy conflicts among
+30 departments and their executive staffs and make necessary recommendations to the governor.
+31 (6) Ensure continued progress toward improving the quality, the economy, the
+32 accountability, and the efficiency of state-administered health and human services. In this capacity,
+33 the secretary shall:
+34 (i) Direct implementation of reforms in the human resources practices of the executive
+LC002773 - Page 8 of 23
+1 office and the departments that streamline and upgrade services, achieve greater economies of scale
+2 and establish the coordinated system of the staff education, cross-training, and career development
+3 services necessary to recruit and retain a highly-skilled, responsive, and engaged health and human
+4 services workforce;
+5 (ii) Encourage EOHHS-wide consumer-centered approaches to service design and delivery
+6 that expand their capacity to respond efficiently and responsibly to the diverse and changing needs
+7 of the people and communities they serve;
+8 (iii) Develop all opportunities to maximize resources by leveraging the state’s purchasing
+9 power, centralizing fiscal service functions related to budget, finance, and procurement,
+10 centralizing communication, policy analysis and planning, and information systems and data
+11 management, pursuing alternative funding sources through grants, awards, and partnerships and
+12 securing all available federal financial participation for programs and services provided EOHHS-
+13 wide;
+14 (iv) Improve the coordination and efficiency of health and human services legal functions
+15 by centralizing adjudicative and legal services and overseeing their timely and judicious
+16 administration;
+17 (v) Facilitate the rebalancing of the long-term system by creating an assessment and
+18 coordination organization or unit for the expressed purpose of developing and implementing
+19 procedures EOHHS-wide that ensure that the appropriate publicly funded health services are
+20 provided at the right time and in the most appropriate and least restrictive setting;
+21 (vi) Strengthen health and human services program integrity, quality control and
+22 collections, and recovery activities by consolidating functions within the office in a single unit that
+23 ensures all affected parties pay their fair share of the cost of services and are aware of alternative
+24 financing;
+25 (vii) Assure protective services are available to vulnerable elders and adults with
+26 developmental and other disabilities by reorganizing existing services, establishing new services
+27 where gaps exist, and centralizing administrative responsibility for oversight of all related
+28 initiatives and programs.
+29 (7) Prepare and integrate comprehensive budgets for the health and human services
+30 departments and any other functions and duties assigned to the office. The budgets shall be
+31 submitted to the state budget office by the secretary, for consideration by the governor, on behalf
+32 of the state’s health and human services agencies in accordance with the provisions set forth in §
+33 35-3-4.
+34 (8) Utilize objective data to evaluate health and human services policy goals, resource use
+LC002773 - Page 9 of 23
+1 and outcome evaluation and to perform short and long-term policy planning and development.
+2 (9) Establishment of an integrated approach to interdepartmental information and data
+3 management that complements and furthers the goals of the unified health infrastructure project
+4 initiative and that will facilitate the transition to a consumer-centered integrated system of state-
+5 administered health and human services.
+6 (10) At the direction of the governor or the general assembly, conduct independent reviews
+7 of state-administered health and human services programs, policies and related agency actions and
+8 activities and assist the department directors in identifying strategies to address any issues or areas
+9 of concern that may emerge thereof. The department directors shall provide any information and
+10 assistance deemed necessary by the secretary when undertaking such independent reviews.
+11 (11) Provide regular and timely reports to the governor and make recommendations with
+12 respect to the state’s health and human services agenda.
+13 (12) Employ such personnel and contract for such consulting services as may be required
+14 to perform the powers and duties lawfully conferred upon the secretary.
+15 (13) Assume responsibility for complying with the provisions of any general or public law
+16 or regulation related to the disclosure, confidentiality, and privacy of any information or records,
+17 in the possession or under the control of the executive office or the departments assigned to the
+18 executive office, that may be developed or acquired or transferred at the direction of the governor
+19 or the secretary for purposes directly connected with the secretary’s duties set forth herein.
+20 (14) Hold the director of each health and human services department accountable for their
+21 administrative, fiscal, and program actions in the conduct of the respective powers and duties of
+22 their agencies.
+23 (15) Identify opportunities for inclusion with the EOHHS’ October 1, 2023 budget
+24 submission, to remove fixed eligibility thresholds for programs under its purview by establishing
+25 sliding scale decreases in benefits commensurate with income increases up to four hundred fifty
+26 percent (450%) of the federal poverty level. These shall include but not be limited to, medical
+27 assistance, childcare assistance, and food assistance.
+28 (16) Ensure that insurers minimize administrative burdens on providers that may delay
+29 medically necessary care, including requiring that insurers do not impose a prior authorization or
+30 other utilization management review requirement for any admission, item, service, treatment, test,
+31 exam, study procedure, or any generic or brand name prescription drug ordered by an in-network
+32 primary care provider; provided, however, the prohibition shall not be construed to prohibit prior
+33 authorization requirements for controlled substances. Provided further, that as used in this section,
+34 the terms "insurer," "primary care provider," and "prior authorization and other utilization
+LC002773 - Page 10 of 23
+1 management" means the same as those terms are defined in § 27-18.9-2.
+2 SECTION 4. Section 42-14.5-3 of the General Laws in Chapter 42-14.5 entitled "The
+3 Rhode Island Health Care Reform Act of 2004 — Health Insurance Oversight" is hereby amended
+4 to read as follows:
+5 42-14.5-3. Powers and duties.
+6 The health insurance commissioner shall have the following powers and duties:
+7 (a) To conduct quarterly public meetings throughout the state, separate and distinct from
+8 rate hearings pursuant to § 42-62-13, regarding the rates, services, and operations of insurers
+9 licensed to provide health insurance in the state; the effects of such rates, services, and operations
+10 on consumers, medical care providers, patients, and the market environment in which the insurers
+11 operate; and efforts to bring new health insurers into the Rhode Island market. Notice of not less
+12 than ten (10) days of the hearing(s) shall go to the general assembly, the governor, the Rhode Island
+13 Medical Society, the Hospital Association of Rhode Island, the director of health, the attorney
+14 general, and the chambers of commerce. Public notice shall be posted on the department’s website
+15 and given in the newspaper of general circulation, and to any entity in writing requesting notice.
+16 (b) To make recommendations to the governor and the house of representatives and senate
+17 finance committees regarding healthcare insurance and the regulations, rates, services,
+18 administrative expenses, reserve requirements, and operations of insurers providing health
+19 insurance in the state, and to prepare or comment on, upon the request of the governor or
+20 chairpersons of the house or senate finance committees, draft legislation to improve the regulation
+21 of health insurance. In making the recommendations, the commissioner shall recognize that it is
+22 the intent of the legislature that the maximum disclosure be provided regarding the reasonableness
+23 of individual administrative expenditures as well as total administrative costs. The commissioner
+24 shall make recommendations on the levels of reserves, including consideration of: targeted reserve
+25 levels; trends in the increase or decrease of reserve levels; and insurer plans for distributing excess
+26 reserves.
+27 (c) To establish a consumer/business/labor/medical advisory council to obtain information
+28 and present concerns of consumers, business, and medical providers affected by health insurance
+29 decisions. The council shall develop proposals to allow the market for small business health
+30 insurance to be affordable and fairer. The council shall be involved in the planning and conduct of
+31 the quarterly public meetings in accordance with subsection (a). The advisory council shall develop
+32 measures to inform small businesses of an insurance complaint process to ensure that small
+33 businesses that experience rate increases in a given year may request and receive a formal review
+34 by the department. The advisory council shall assess views of the health provider community
+LC002773 - Page 11 of 23
+1 relative to insurance rates of reimbursement, billing, and reimbursement procedures, and the
+2 insurers’ role in promoting efficient and high-quality health care. The advisory council shall issue
+3 an annual report of findings and recommendations to the governor and the general assembly and
+4 present its findings at hearings before the house and senate finance committees. The advisory
+5 council is to be diverse in interests and shall include representatives of community consumer
+6 organizations; small businesses, other than those involved in the sale of insurance products; and
+7 hospital, medical, and other health provider organizations. Such representatives shall be nominated
+8 by their respective organizations. The advisory council shall be co-chaired by the health insurance
+9 commissioner and a community consumer organization or small business member to be elected by
+10 the full advisory council.
+11 (d) To establish and provide guidance and assistance to a subcommittee (“the professional-
+12 provider-health-plan work group”) of the advisory council created pursuant to subsection (c),
+13 composed of healthcare providers and Rhode Island licensed health plans. This subcommittee shall
+14 include in its annual report and presentation before the house and senate finance committees the
+15 following information:
+16 (1) A method whereby health plans shall disclose to contracted providers the fee schedules
+17 used to provide payment to those providers for services rendered to covered patients;
+18 (2) A standardized provider application and credentials verification process, for the
+19 purpose of verifying professional qualifications of participating healthcare providers;
+20 (3) The uniform health plan claim form utilized by participating providers;
+21 (4) Methods for health maintenance organizations, as defined by § 27-41-2, and nonprofit
+22 hospital or medical service corporations, as defined by chapters 19 and 20 of title 27, to make
+23 facility-specific data and other medical service-specific data available in reasonably consistent
+24 formats to patients regarding quality and costs. This information would help consumers make
+25 informed choices regarding the facilities and clinicians or physician practices at which to seek care.
+26 Among the items considered would be the unique health services and other public goods provided
+27 by facilities and clinicians or physician practices in establishing the most appropriate cost
+28 comparisons;
+29 (5) All activities related to contractual disclosure to participating providers of the
+30 mechanisms for resolving health plan/provider disputes;
+31 (6) The uniform process being utilized for confirming, in real time, patient insurance
+32 enrollment status, benefits coverage, including copays and deductibles;
+33 (7) Information related to temporary credentialing of providers seeking to participate in the
+34 plan’s network and the impact of the activity on health plan accreditation;
+LC002773 - Page 12 of 23
+1 (8) The feasibility of regular contract renegotiations between plans and the providers in
+2 their networks; and
+3 (9) Efforts conducted related to reviewing impact of silent PPOs on physician practices.
+4 (e) To enforce the provisions of title 27 and title 42 as set forth in § 42-14-5(d).
+5 (f) To provide analysis of the Rhode Island affordable health plan reinsurance fund. The
+6 fund shall be used to effectuate the provisions of §§ 27-18.5-9 and 27-50-17.
+7 (g) To analyze the impact of changing the rating guidelines and/or merging the individual
+8 health insurance market, as defined in chapter 18.5 of title 27, and the small-employer health
+9 insurance market, as defined in chapter 50 of title 27, in accordance with the following:
+10 (1) The analysis shall forecast the likely rate increases required to effect the changes
+11 recommended pursuant to the preceding subsection (g) in the direct-pay market and small-employer
+12 health insurance market over the next five (5) years, based on the current rating structure and
+13 current products.
+14 (2) The analysis shall include examining the impact of merging the individual and small-
+15 employer markets on premiums charged to individuals and small-employer groups.
+16 (3) The analysis shall include examining the impact on rates in each of the individual and
+17 small-employer health insurance markets and the number of insureds in the context of possible
+18 changes to the rating guidelines used for small-employer groups, including: community rating
+19 principles; expanding small-employer rate bonds beyond the current range; increasing the employer
+20 group size in the small-group market; and/or adding rating factors for broker and/or tobacco use.
+21 (4) The analysis shall include examining the adequacy of current statutory and regulatory
+22 oversight of the rating process and factors employed by the participants in the proposed, new
+23 merged market.
+24 (5) The analysis shall include assessment of possible reinsurance mechanisms and/or
+25 federal high-risk pool structures and funding to support the health insurance market in Rhode Island
+26 by reducing the risk of adverse selection and the incremental insurance premiums charged for this
+27 risk, and/or by making health insurance affordable for a selected at-risk population.
+28 (6) The health insurance commissioner shall work with an insurance market merger task
+29 force to assist with the analysis. The task force shall be chaired by the health insurance
+30 commissioner and shall include, but not be limited to, representatives of the general assembly, the
+31 business community, small-employer carriers as defined in § 27-50-3, carriers offering coverage in
+32 the individual market in Rhode Island, health insurance brokers, and members of the general public.
+33 (7) For the purposes of conducting this analysis, the commissioner may contract with an
+34 outside organization with expertise in fiscal analysis of the private insurance market. In conducting
+LC002773 - Page 13 of 23
+1 its study, the organization shall, to the extent possible, obtain and use actual health plan data. Said
+2 data shall be subject to state and federal laws and regulations governing confidentiality of health
+3 care and proprietary information.
+4 (8) The task force shall meet as necessary and include its findings in the annual report, and
+5 the commissioner shall include the information in the annual presentation before the house and
+6 senate finance committees.
+7 (h) To establish and convene a workgroup representing healthcare providers and health
+8 insurers for the purpose of coordinating the development of processes, guidelines, and standards to
+9 streamline healthcare administration that are to be adopted by payors and providers of healthcare
+10 services operating in the state. This workgroup shall include representatives with expertise who
+11 would contribute to the streamlining of healthcare administration and who are selected from
+12 hospitals, physician practices, community behavioral health organizations, each health insurer, and
+13 other affected entities. The workgroup shall also include at least one designee each from the Rhode
+14 Island Medical Society, Rhode Island Council of Community Mental Health Organizations, the
+15 Rhode Island Health Center Association, and the Hospital Association of Rhode Island. In any year
+16 that the workgroup meets and submits recommendations to the office of the health insurance
+17 commissioner, the office of the health insurance commissioner shall submit such recommendations
+18 to the health and human services committees of the Rhode Island house of representatives and the
+19 Rhode Island senate prior to the implementation of any such recommendations and subsequently
+20 shall submit a report to the general assembly by June 30, 2024. The report shall include the
+21 recommendations the commissioner may implement, with supporting rationale. The workgroup
+22 shall consider and make recommendations for:
+23 (1) Establishing a consistent standard for electronic eligibility and coverage verification.
+24 Such standard shall:
+25 (i) Include standards for eligibility inquiry and response and, wherever possible, be
+26 consistent with the standards adopted by nationally recognized organizations, such as the Centers
+27 for Medicare & Medicaid Services;
+28 (ii) Enable providers and payors to exchange eligibility requests and responses on a system-
+29 to-system basis or using a payor-supported web browser;
+30 (iii) Provide reasonably detailed information on a consumer’s eligibility for healthcare
+31 coverage; scope of benefits; limitations and exclusions provided under that coverage; cost-sharing
+32 requirements for specific services at the specific time of the inquiry; current deductible amounts;
+33 accumulated or limited benefits; out-of-pocket maximums; any maximum policy amounts; and
+34 other information required for the provider to collect the patient’s portion of the bill;
+LC002773 - Page 14 of 23
+1 (iv) Reflect the necessary limitations imposed on payors by the originator of the eligibility
+2 and benefits information;
+3 (v) Recommend a standard or common process to protect all providers from the costs of
+4 services to patients who are ineligible for insurance coverage in circumstances where a payor
+5 provides eligibility verification based on best information available to the payor at the date of the
+6 request of eligibility.
+7 (2) Developing implementation guidelines and promoting adoption of the guidelines for:
+8 (i) The use of the National Correct Coding Initiative code-edit policy by payors and
+9 providers in the state;
+10 (ii) Publishing any variations from codes and mutually exclusive codes by payors in a
+11 manner that makes for simple retrieval and implementation by providers;
+12 (iii) Use of Health Insurance Portability and Accountability Act standard group codes,
+13 reason codes, and remark codes by payors in electronic remittances sent to providers;
+14 (iv) Uniformity in the processing of claims by payors; and the processing of corrections to
+15 claims by providers and payors;
+16 (v) A standard payor-denial review process for providers when they request a
+17 reconsideration of a denial of a claim that results from differences in clinical edits where no single,
+18 common-standards body or process exists and multiple conflicting sources are in use by payors and
+19 providers.
+20 (vi) Nothing in this section, nor in the guidelines developed, shall inhibit an individual
+21 payor’s ability to employ, and not disclose to providers, temporary code edits for the purpose of
+22 detecting and deterring fraudulent billing activities. The guidelines shall require that each payor
+23 disclose to the provider its adjudication decision on a claim that was denied or adjusted based on
+24 the application of such edits and that the provider have access to the payor’s review and appeal
+25 process to challenge the payor’s adjudication decision.
+26 (vii) Nothing in this subsection shall be construed to modify the rights or obligations of
+27 payors or providers with respect to procedures relating to the investigation, reporting, appeal, or
+28 prosecution under applicable law of potentially fraudulent billing activities.
+29 (3) Developing and promoting widespread adoption by payors and providers of guidelines
+30 to:
+31 (i) Ensure payors do not automatically deny claims for services when extenuating
+32 circumstances make it impossible for the provider to obtain a preauthorization before services are
+33 performed or notify a payor within an appropriate standardized timeline of a patient’s admission;
+34 (ii) Require payors to use common and consistent processes and time frames when
+LC002773 - Page 15 of 23
+1 responding to provider requests for medical management approvals. Whenever possible, such time
+2 frames shall be consistent with those established by leading national organizations and be based
+3 upon the acuity of the patient’s need for care or treatment. For the purposes of this section, medical
+4 management includes prior authorization of services, preauthorization of services, precertification
+5 of services, post-service review, medical-necessity review, and benefits advisory;
+6 (iii) Develop, maintain, and promote widespread adoption of a single, common website
+7 where providers can obtain payors’ preauthorization, benefits advisory, and preadmission
+8 requirements;
+9 (iv) Establish guidelines for payors to develop and maintain a website that providers can
+10 use to request a preauthorization, including a prospective clinical necessity review; receive an
+11 authorization number; and transmit an admission notification;
+12 (v) Develop and implement the use of programs that implement selective prior
+13 authorization requirements, based on stratification of healthcare providers’ performance and
+14 adherence to evidence-based medicine with the input of contracted healthcare providers and/or
+15 provider organizations. Such criteria shall be transparent and easily accessible to contracted
+16 providers. Such selective prior authorization programs shall be available when healthcare providers
+17 participate directly with the insurer in risk-based payment contracts and may be available to
+18 providers who do not participate in risk-based contracts;
+19 (vi) Require the review of medical services, including behavioral health services, and
+20 prescription drugs, subject to prior authorization on at least an annual basis, with the input of
+21 contracted healthcare providers and/or provider organizations. Any changes to the list of medical
+22 services, including behavioral health services, and prescription drugs requiring prior authorization,
+23 shall be shared via provider-accessible websites;
+24 (vii) Improve communication channels between health plans, healthcare providers, and
+25 patients by:
+26 (A) Requiring transparency and easy accessibility of prior authorization requirements,
+27 criteria, rationale, and program changes to contracted healthcare providers and patients/health plan
+28 enrollees which may be satisfied by posting to provider-accessible and member-accessible
+29 websites; and
+30 (B) Supporting:
+31 (I) Timely submission by healthcare providers of the complete information necessary to
+32 make a prior authorization determination, as early in the process as possible; and
+33 (II) Timely notification of prior authorization determinations by health plans to impacted
+34 health plan enrollees, and healthcare providers, including, but not limited to, ordering providers,
+LC002773 - Page 16 of 23
+1 and/or rendering providers, and dispensing pharmacists which may be satisfied by posting to
+2 provider-accessible websites or similar electronic portals or services;
+3 (viii) Increase and strengthen continuity of patient care by:
+4 (A) Defining protections for continuity of care during a transition period for patients
+5 undergoing an active course of treatment, when there is a formulary or treatment coverage change
+6 or change of health plan that may disrupt their current course of treatment and when the treating
+7 physician determines that a transition may place the patient at risk; and for prescription medication
+8 by allowing a grace period of coverage to allow consideration of referred health plan options or
+9 establishment of medical necessity of the current course of treatment;
+10 (B) Requiring continuity of care for medical services, including behavioral health services,
+11 and prescription medications for patients on appropriate, chronic, stable therapy through
+12 minimizing repetitive prior authorization requirements; and which for prescription medication shall
+13 be allowed only on an annual review, with exception for labeled limitation, to establish continued
+14 benefit of treatment; and
+15 (C) Requiring communication between healthcare providers, health plans, and patients to
+16 facilitate continuity of care and minimize disruptions in needed treatment which may be satisfied
+17 by posting to provider-accessible websites or similar electronic portals or services;
+18 (D) Continuity of care for formulary or drug coverage shall distinguish between FDA
+19 designated interchangeable products and proprietary or marketed versions of a medication;
+20 (ix) Encourage healthcare providers and/or provider organizations and health plans to
+21 accelerate use of electronic prior authorization technology, including adoption of national standards
+22 where applicable; and
+23 (x) For the purposes of subsections (h)(3)(v) through (h)(3)(x) of this section, the
+24 workgroup meeting may be conducted in part or whole through electronic methods.
+25 (4) To provide a report to the house and senate, on or before January 1, 2017, with
+26 recommendations for establishing guidelines and regulations for systems that give patients
+27 electronic access to their claims information, particularly to information regarding their obligations
+28 to pay for received medical services, pursuant to 45 C.F.R. § 164.524.
+29 (5) No provision of this subsection (h) shall preclude the ongoing work of the office of
+30 health insurance commissioner’s administrative simplification task force, which includes meetings
+31 with key stakeholders in order to improve, and provide recommendations regarding, the prior
+32 authorization process.
+33 (i) To issue an anti-cancer medication report. Not later than June 30, 2014, and annually
+34 thereafter, the office of the health insurance commissioner (OHIC) shall provide the senate
+LC002773 - Page 17 of 23
+1 committee on health and human services, and the house committee on corporations, with: (1)
+2 Information on the availability in the commercial market of coverage for anti-cancer medication
+3 options; (2) For the state employee’s health benefit plan, the costs of various cancer-treatment
+4 options; (3) The changes in drug prices over the prior thirty-six (36) months; and (4) Member
+5 utilization and cost-sharing expense.
+6 (j) To monitor the adequacy of each health plan’s compliance with the provisions of the
+7 federal Mental Health Parity Act, including a review of related claims processing and
+8 reimbursement procedures. Findings, recommendations, and assessments shall be made available
+9 to the public.
+10 (k) To monitor the transition from fee-for-service and toward global and other alternative
+11 payment methodologies for the payment for healthcare services. Alternative payment
+12 methodologies should be assessed for their likelihood to promote access to affordable health
+13 insurance, health outcomes, and performance.
+14 (l) To report annually, no later than July 1, 2014, then biannually thereafter, on hospital
+15 payment variation, including findings and recommendations, subject to available resources.
+16 (m) Notwithstanding any provision of the general or public laws or regulation to the
+17 contrary, provide a report with findings and recommendations to the president of the senate and the
+18 speaker of the house, on or before April 1, 2014, including, but not limited to, the following
+19 information:
+20 (1) The impact of the current, mandated healthcare benefits as defined in §§ 27-18-48.1,
+21 27-18-60, 27-18-62, 27-18-64, similar provisions in chapters 19, 20 and 41 of title 27, and §§ 27-
+22 18-3(c), 27-38.2-1 et seq., or others as determined by the commissioner, on the cost of health
+23 insurance for fully insured employers, subject to available resources;
+24 (2) Current provider and insurer mandates that are unnecessary and/or duplicative due to
+25 the existing standards of care and/or delivery of services in the healthcare system;
+26 (3) A state-by-state comparison of health insurance mandates and the extent to which
+27 Rhode Island mandates exceed other states benefits; and
+28 (4) Recommendations for amendments to existing mandated benefits based on the findings
+29 in (m)(1), (m)(2), and (m)(3) above.
+30 (n) On or before July 1, 2014, the office of the health insurance commissioner, in
+31 collaboration with the director of health and lieutenant governor’s office, shall submit a report to
+32 the general assembly and the governor to inform the design of accountable care organizations
+33 (ACOs) in Rhode Island as unique structures for comprehensive healthcare delivery and value-
+34 based payment arrangements, that shall include, but not be limited to:
+LC002773 - Page 18 of 23
+1 (1) Utilization review;
+2 (2) Contracting; and
+3 (3) Licensing and regulation.
+4 (o) On or before February 3, 2015, the office of the health insurance commissioner shall
+5 submit a report to the general assembly and the governor that describes, analyzes, and proposes
+6 recommendations to improve compliance of insurers with the provisions of § 27-18-76 with regard
+7 to patients with mental health and substance use disorders.
+8 (p) To work to ensure the health insurance coverage of behavioral health care under the
+9 same terms and conditions as other health care, and to integrate behavioral health parity
+10 requirements into the office of the health insurance commissioner insurance oversight and
+11 healthcare transformation efforts.
+12 (q) To work with other state agencies to seek delivery system improvements that enhance
+13 access to a continuum of mental health and substance use disorder treatment in the state; and
+14 integrate that treatment with primary and other medical care to the fullest extent possible.
+15 (r) To direct insurers toward policies and practices that address the behavioral health needs
+16 of the public and greater integration of physical and behavioral healthcare delivery.
+17 (s) The office of the health insurance commissioner shall conduct an analysis of the impact
+18 of the provisions of § 27-38.2-1(i) on health insurance premiums and access in Rhode Island and
+19 submit a report of its findings to the general assembly on or before June 1, 2023.
+20 (t) To undertake the analyses, reports, and studies contained in this section:
+21 (1) The office shall hire the necessary staff and prepare a request for proposal for a qualified
+22 and competent firm or firms to undertake the following analyses, reports, and studies:
+23 (i) The firm shall undertake a comprehensive review of all social and human service
+24 programs having a contract with or licensed by the state or any subdivision of the department of
+25 children, youth and families (DCYF), the department of behavioral healthcare, developmental
+26 disabilities and hospitals (BHDDH), the department of human services (DHS), the department of
+27 health (DOH), and Medicaid for the purposes of:
+28 (A) Establishing a baseline of the eligibility factors for receiving services;
+29 (B) Establishing a baseline of the service offering through each agency for those
+30 determined eligible;
+31 (C) Establishing a baseline understanding of reimbursement rates for all social and human
+32 service programs including rates currently being paid, the date of the last increase, and a proposed
+33 model that the state may use to conduct future studies and analyses;
+34 (D) Ensuring accurate and adequate reimbursement to social and human service providers
+LC002773 - Page 19 of 23
+1 that facilitate the availability of high-quality services to individuals receiving home and
+2 community-based long-term services and supports provided by social and human service providers;
+3 (E) Ensuring the general assembly is provided accurate financial projections on social and
+4 human service program costs, demand for services, and workforce needs to ensure access to entitled
+5 beneficiaries and services;
+6 (F) Establishing a baseline and determining the relationship between state government and
+7 the provider network including functions, responsibilities, and duties;
+8 (G) Determining a set of measures and accountability standards to be used by EOHHS and
+9 the general assembly to measure the outcomes of the provision of services including budgetary
+10 reporting requirements, transparency portals, and other methods; and
+11 (H) Reporting the findings of human services analyses and reports to the speaker of the
+12 house, senate president, chairs of the house and senate finance committees, chairs of the house and
+13 senate health and human services committees, and the governor.
+14 (2) The analyses, reports, and studies required pursuant to this section shall be
+15 accomplished and published as follows and shall provide:
+16 (i) An assessment and detailed reporting on all social and human service program rates to
+17 be completed by January 1, 2023, including rates currently being paid and the date of the last
+18 increase;
+19 (ii) An assessment and detailed reporting on eligibility standards and processes of all
+20 mandatory and discretionary social and human service programs to be completed by January 1,
+21 2023;
+22 (iii) An assessment and detailed reporting on utilization trends from the period of January
+23 1, 2017, through December 31, 2021, for social and human service programs to be completed by
+24 January 1, 2023;
+25 (iv) An assessment and detailed reporting on the structure of the state government as it
+26 relates to the provision of services by social and human service providers including eligibility and
+27 functions of the provider network to be completed by January 1, 2023;
+28 (v) An assessment and detailed reporting on accountability standards for services for social
+29 and human service programs to be completed by January 1, 2023;
+30 (vi) An assessment and detailed reporting by April 1, 2023, on all professional licensed
+31 and unlicensed personnel requirements for established rates for social and human service programs
+32 pursuant to a contract or established fee schedule;
+33 (vii) An assessment and reporting on access to social and human service programs, to
+34 include any wait lists and length of time on wait lists, in each service category by April 1, 2023;
+LC002773 - Page 20 of 23
+1 (viii) An assessment and reporting of national and regional Medicaid rates in comparison
+2 to Rhode Island social and human service provider rates by April 1, 2023;
+3 (ix) An assessment and reporting on usual and customary rates paid by private insurers and
+4 private pay for similar social and human service providers, both nationally and regionally, by April
+5 1, 2023; and
+6 (x) Completion of the development of an assessment and review process that includes the
+7 following components: eligibility; scope of services; relationship of social and human service
+8 provider and the state; national and regional rate comparisons and accountability standards that
+9 result in recommended rate adjustments; and this process shall be completed by September 1, 2023,
+10 and conducted biennially hereafter. The biennial rate setting shall be consistent with payment
+11 requirements established in § 1902(a)(30)(A) of the Social Security Act, 42 U.S.C. §
+12 1396a(a)(30)(A), and all federal and state law, regulations, and quality and safety standards. The
+13 results and findings of this process shall be transparent, and public meetings shall be conducted to
+14 allow providers, recipients, and other interested parties an opportunity to ask questions and provide
+15 comment beginning in September 2023 and biennially thereafter.
+16 (3) In fulfillment of the responsibilities defined in subsection (t), the office of the health
+17 insurance commissioner shall consult with the Executive Office of Health and Human Services.
+18 (u) Annually, each department (namely, EOHHS, DCYF, DOH, DHS, and BHDDH) shall
+19 include the corresponding components of the assessment and review (i.e., eligibility; scope of
+20 services; relationship of social and human service provider and the state; and national and regional
+21 rate comparisons and accountability standards including any changes or substantive issues between
+22 biennial reviews) including the recommended rates from the most recent assessment and review
+23 with their annual budget submission to the office of management and budget and provide a detailed
+24 explanation and impact statement if any rate variances exist between submitted recommended
+25 budget and the corresponding recommended rate from the most recent assessment and review
+26 process starting October 1, 2023, and biennially thereafter.
+27 (v) The general assembly shall appropriate adequate funding as it deems necessary to
+28 undertake the analyses, reports, and studies contained in this section relating to the powers and
+29 duties of the office of the health insurance commissioner.
+30 (w) Ensure that insurers minimize administrative burdens that may delay medically
+31 necessary care, including by promulgating rules and regulations and taking enforcement actions to
+32 implement § 27-18.9-16.
+LC002773 - Page 21 of 23
+1 SECTION 5. This act shall take effect on January 1, 2026.
+========
+LC002773
+========
+LC002773 - Page 22 of 23
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION ACT
+***
+1 This act would prohibit an insurer from imposing a requirement of prior authorization for
+2 any admission, item, service, treatment, test, exam, study, procedure, or any generic or brand name
+3 prescription drug ordered by a primary care provider unless it was a requirement for controlled
+4 substances, or individual primary care providers with documented cases of fraud, waste or abuse.
+5 The act would also require any issuer issuing any lawful prior authorization to use a single,
+6 standardized prior authorization form.
+7 This act would take effect on January 1, 2026.
+========
+LC002773
+========
+LC002773 - Page 23 of 23
+[DELETED: TATE  OF  RHODE  ISLAND S D 2 A ( i o i a A ( “ a b d m a a b d d i ( d t r o i t u o m j o c c t d i o]
+[DELETED:  ( “ o “ a m a s r o a a b d p ( c g ( a w f b ( “ m a p s e o o i p ( m ( t ( h c ( “ m a h e p b a a r ( ( a c ( “ a m a a o h s c d n o ( o ( o]
+[DELETED:  f r ( e o p o ( “ r m a r o a n a b d a ( “ r d m a d b a i r o ( t t ( “ p o “ p m a p c c o a p ( b j o r n a s ( “ s m a i b i n l t a a d o s ( “ r o o “ m a e t c i d (]
+[DELETED:  t c c 2 o t 2 ( i c a h i c s a o h h p m o s a o p t c 4 o t 2 ( m ( s ( b p ( ( a ( § m p ( m p b m f h t b c f p a w d ( l a ( h ( “ m a p h p p p l r ( h]
+[DELETED:  r ( b ( “ a m a p o h e p b d b ( a t ( d e d d ( p o ( “ h s i t r n t t a s l p c a ( “ r m t p c o r a o ( l ( t t c ( “ r p m a d o t s g u]
+[DELETED:  S U 2 ( p a p ( p p S ( N a o p o l t t c i o t e u i i ( i ( s ( a p o a ( c m o t h i c T o o t h i c m p o S H 4 T o]
+[DELETED:  a c a ( p a a t u o t U S S A H d t t a ( r ( R a e t c o t s M s 1 d a t t o I a a o a a t e p c o D s w i ( s i m ( B i 2 c o a b b a c r o t M w a i a q a a s a o]
+[DELETED:  ( i ( a c o o ( ( ( a ( E o a u r b e s d o o m S ( E o a u r b t o s a s p ( s r ( I s t t C f M & M S f t m M A M 1 T s r ( d ( E c p t i t q t e t a t (]
+[DELETED:  o a s s ( t o ( p c f s f r t b f a p c c p a a p a i s a d m s w ( b c a a l s a o t t a j a ( F t r o t l s b c a a a c o o u f t e p o d a i p E t e t t a p f h s a p ( S h a h s p i q c a c e f ( A p s a a t v e a a w d w g e a c a r f o o a r i ( P a i c b f t h a h s d a a o f a d a t t o T b s b s o 3 (]
+[DELETED:  a ( m i a ( o a o a ( r ( t ( o i e o ( a t ( I o f i w t E O 1 2 b s s p a ( m o e p a t t " " c p a " a a o u]
+[DELETED:  m S R t 4 T ( r l o o t M g a ( f c r h i a t r r s a e r r a o o i p h i i t s a t p o c o u t r o t g o c o t o s l r ( a d T c s d p t a t m f s b h i t m t i s b o a i c p t e t s b b]
+[DELETED:  r t i r o r b a r p a t i a p c o h b c t ( p w o a c p t s ( c i f ( u ( A s p a a c v p f t p ( ( h f f i A b f a c o p p i e t m a c c ( A a r t c d t p p o t m ( e ( p]
+[DELETED:  ( t ( ( ( f ( h i ( r h c ( e ( s c p g ( o m ( T a s i a o p r m a f b r ( f t a w t a T t f s b c b t h i c b t ( o]
+[DELETED:  i d c ( t s ( i s s w c t t s o h a a w a s f h o I R t c t R s r s ( S ( I s f e i a r a w p b c f ( t ( c r a o]
+[DELETED:  ( a ( s p r ( ( T u o t N C C I c p b p a p ( m ( r ( c ( A s p r p f p w t r a r c p ( p d d t p ( p p ( t ( E p d n a d c f s w e c p ( R p t u c a c p a t f w]
+[DELETED:  r f u m o ( w p c o p p b a a p r ( u a ( D a i t u o p t i s p a r b o s o h p p a a p o S c s b t a e a t c p p d w t i i r p c a m b a t p ( p c s s ( p ( c e w m b s b p t p a m w ( ( m ( h]
+[DELETED:  a p a d p w m b s b p t p ( ( D p f c o c d a t u o p b e ( a p m f p o a c s t t m b b ( f b ( d ( a w ( F t p o s ( t ( o t s t w ( p a r t h a s o o b 1 2 w r f e g a r f s t g p e t ( h w a ( t t o o t h i c ( s p t s]
+[DELETED:  c I o o u ( f M H P A i a r o r c p a r t ( p m f t p f h s A p m s b a f t l t p a t a h i ( p ( N a p o g o p t t c s i ( 2 1 i ( t ( R ( i ( O o b J 1 2 t o o t h i c i c t ( b]
+[DELETED:  ( ( ( ( s r t ( s t a c a o h c a t i b h p r i t o o t h i c i o a h ( a i ( o ( o s ( ( a ( p c d h ( ( E a b o t s o t e a f t d ( s m (]
+[DELETED:  t f t a o h s t i r h a c ( h b ( t ( t r ( h s ( T a r a s r p t t s s b a ( b i ( m 2 ( 1 J ( r f ( a ( a p ( i]
+[DELETED:  ( t ( p 1 ( f p r a r e i § 1 o t S S A 4 U § 1 r a c ( i ( i s r b w e b p ( u d ( E t i m a b t m d m n i ]
+[DELETED:  S]
+[DELETED:  T a p s T w a r a i i a l p a t u a s s T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 6317
+========
+LC002773
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION ACT
+Introduced By: Representatives Ackerman, Potter, McNamara, Edwards, Donovan, and
+Shallcross Smith
+Date Introduced: May 09, 2025
+Referred To: House Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18.9-2 of the General Laws in Chapter 27-18.9 entitled "Benefit
+2 Determination and Utilization Review Act" is hereby amended to read as follows:
+3 27-18.9-2. Definitions.
+4 As used in this chapter, the following terms are defined as follows:
+5 (1) “Adverse benefit determination” means a decision not to authorize a healthcare service,
+6 including a denial, reduction, or termination of, or a failure to provide or make a payment, in whole
+7 or in part, for a benefit. A decision by a utilization-review agent to authorize a healthcare service
+8 in an alternative setting, a modified extension of stay, or an alternative treatment shall not constitute
+9 an adverse determination if the review agent and provider are in agreement regarding the decision.
+10 Adverse benefit determinations include:
+11 (i) “Administrative adverse benefit determinations,” meaning any adverse benefit
+12 determination that does not require the use of medical judgment or clinical criteria such as a
+13 determination of an individual’s eligibility to participate in coverage, a determination that a benefit
+14 is not a covered benefit, or any rescission of coverage; and
+15 (ii) “Non-administrative adverse benefit determinations,” meaning any adverse benefit
+16 determination that requires or involves the use of medical judgement or clinical criteria to
+17 determine whether the service being reviewed is medically necessary and/or appropriate. This
+18 includes the denial of treatments determined to be experimental or investigational, and any denial
+19 of coverage of a prescription drug because that drug is not on the healthcare entity’s formulary.
+
+1 (2) “Appeal” or “internal appeal” means a subsequent review of an adverse benefit
+2 determination upon request by a claimant to include the beneficiary or provider to reconsider all or
+3 part of the original adverse benefit determination.
+4 (3) “Authorization” means a review by a review agent, performed according to this chapter,
+5 concluding that the allocation of healthcare services ordered by a provider, given or proposed to be
+6 given to a beneficiary, was approved or authorized.
+7 (4) “Authorized representative” means an individual acting on behalf of the beneficiary
+8 and shall include: the ordering provider; any individual to whom the beneficiary has given express
+9 written consent to act on his or her behalf; a person authorized by law to provide substituted consent
+10 for the beneficiary; and, when the beneficiary is unable to provide consent, a family member of the
+11 beneficiary.
+12 (5) “Beneficiary” means a policy-holder subscriber, enrollee, or other individual
+13 participating in a health-benefit plan.
+14 (6) “Benefit determination” means a decision to approve or deny a request to provide or
+15 make payment for a healthcare service or treatment.
+16 (7) “Certificate” means a certificate granted by the commissioner to a review agent meeting
+17 the requirements of this chapter.
+18 (8) “Claim” means a request for plan benefit(s) made by a claimant in accordance with the
+19 healthcare entity’s reasonable procedures for filing benefit claims. This shall include pre-service,
+20 concurrent, and post-service claims.
+21 (9) “Claimant” means a healthcare entity participant, beneficiary, and/or authorized
+22 representative who makes a request for plan benefit(s).
+23 (10) “Commissioner” means the health insurance commissioner.
+24 (11) “Complaint” means an oral or written expression of dissatisfaction by a beneficiary,
+25 authorized representative, or a provider. The appeal of an adverse benefit determination is not
+26 considered a complaint.
+27 (12) “Concurrent assessment” means an assessment of healthcare services conducted
+28 during a beneficiary’s hospital stay, course of treatment or services over a period of time, or for the
+29 number of treatments. If the medical problem is ongoing, this assessment may include the review
+30 of services after they have been rendered and billed.
+31 (13) “Concurrent claim” means a request for a plan benefit(s) by a claimant that is for an
+32 ongoing course of treatment or services over a period of time or for the number of treatments.
+33 (14) “Delegate” means a person or entity authorized pursuant to a delegation of authority
+34 or re-delegation of authority, by a healthcare entity or network plan to perform one or more of the
+LC002773 - Page 2 of 23
+
+1 functions and responsibilities of a healthcare entity and/or network plan set forth in this chapter or
+2 regulations or guidance promulgated thereunder.
+3 (15) “Emergency services” or “emergent services” means those resources provided in the
+4 event of the sudden onset of a medical, behavioral health, or other health condition that the absence
+5 of immediate medical attention could reasonably be expected, by a prudent layperson, to result in
+6 placing the patient’s health in serious jeopardy, serious impairment to bodily or mental functions,
+7 or serious dysfunction of any bodily organ or part.
+8 (16) “External review” means a review of a non-administrative adverse benefit
+9 determination (including final internal adverse benefit determination) conducted pursuant to an
+10 applicable external review process performed by an independent review organization.
+11 (17) “External review decision” means a determination by an independent review
+12 organization at the conclusion of the external review.
+13 (18) “Final internal adverse benefit determination” means an adverse benefit determination
+14 that has been upheld by a plan or issuer at the completion of the internal appeals process or when
+15 the internal appeals process has been deemed exhausted as defined in § 27-18.9-7(b)(1).
+16 (19) “Health-benefit plan” or “health plan” means a policy, contract, certificate, or
+17 agreement entered into, offered, or issued by a healthcare entity to provide, deliver, arrange for,
+18 pay for, or reimburse any of the costs of healthcare services.
+19 (20) “Healthcare entity” means an insurance company licensed, or required to be licensed,
+20 by the state of Rhode Island or other entity subject to the jurisdiction of the commissioner or the
+21 jurisdiction of the department of business regulation pursuant to chapter 62 of title 42, that contracts
+22 or offers to contract, or enters into an agreement to provide, deliver, arrange for, pay for, or
+23 reimburse any of the costs of healthcare services, including, without limitation: a for-profit or
+24 nonprofit hospital, medical or dental service corporation or plan, a health maintenance organization,
+25 a health insurance company, or any other entity providing a plan of health insurance, accident and
+26 sickness insurance, health benefits, or healthcare services.
+27 (21) “Healthcare services” means and includes, but is not limited to: an admission,
+28 diagnostic procedure, therapeutic procedure, treatment, extension of stay, the ordering and/or filling
+29 of formulary or non-formulary medications, and any other medical, behavioral, dental, vision care
+30 services, activities, or supplies that are covered by the beneficiary’s health-benefit plan.
+31 (22) “Independent review organization” or “IRO” means an entity that conducts
+32 independent external reviews of adverse benefit determinations or final internal adverse benefit
+33 determinations.
+34 (23) “Insurer”, for the purposes of § 27-18.9-16, means all insurance companies licensed
+LC002773 - Page 3 of 23
+
+1 to do business in Rhode Island, including those subject to chapter 1 of title 27 ("domestic insurance
+2 companies"), a foreign insurance company licensed to do business in Rhode Island and subject to
+3 chapter 2 of title 27 ("foreign insurance companies"), a health insurance carrier subject and
+4 organized pursuant to chapter 18 of title 27 ("accident and sickness insurance policies"), a nonprofit
+5 hospital service corporation subject and organized pursuant to chapter 19 of title 27 ("nonprofit
+6 hospital service corporations"), a nonprofit medical services corporation subject and organized
+7 pursuant to chapter 20 of title 27 ("nonprofit medical service corporations"), a qualified health
+8 maintenance organization subject and organized pursuant to chapter 41 of title 27 ("health
+9 maintenance organizations"), and Medicaid Managed Care Organizations.
+10 (24) “Network” means the group or groups of participating providers providing healthcare
+11 services under a network plan.
+12 (24)(25) “Network plan” means a health-benefit plan or health plan that either requires a
+13 beneficiary to use, or creates incentives, including financial incentives, for a beneficiary to use the
+14 providers managed, owned, under contract with, or employed by the healthcare entity.
+15 (25)(26) “Office” means the office of the health insurance commissioner.
+16 (26)(27) “Pre-service claim” means the request for a plan benefit(s) by a claimant prior to
+17 a service being rendered and is not considered a concurrent claim.
+18 (28) "Primary care provider (PCP)", for the purposes of § 27-18.9-16, means internal
+19 medicine physicians, family medicine physicians, pediatricians, geriatricians, OB-GYNs, nurse
+20 practitioners, certified nurse midwives, and physician’s assistants.
+21 (29) "Prior authorization and other utilization review", for the purposes of § 27-18.9-16,
+22 means the approval a primary care provider is required by an insurer to obtain from an insurer or
+23 pharmacy benefit manager for healthcare to be covered for a patient, in accordance with the
+24 definition of utilization review in this section.
+25 (27)(30) “Professional provider” means an individual provider or healthcare professional
+26 licensed, accredited, or certified to perform specified healthcare services consistent with state law
+27 and who provides healthcare services and is not part of a separate facility or institutional contract.
+28 (28)(31) “Prospective assessment” or “pre-service assessment” means an assessment of
+29 healthcare services prior to services being rendered.
+30 (29)(32) “Provider” means a physician, hospital, professional provider, pharmacy,
+31 laboratory, dental, medical, or behavioral health provider or other state-licensed or other state-
+32 recognized provider of health care or behavioral health services or supplies.
+33 (30)(33) “Retrospective assessment” or “post-service assessment” means an assessment of
+34 healthcare services that have been rendered. This shall not include reviews conducted when the
+LC002773 - Page 4 of 23
+
+1 review agency has been obtaining ongoing information.
+2 (31)(34) “Retrospective claim” or “post-service claim” means any claim for a health-plan
+3 benefit that is not a pre-service or concurrent claim.
+4 (32)(35) “Review agent” means a person or healthcare entity performing benefit
+5 determination reviews that is either employed by, affiliated with, under contract with, or acting on
+6 behalf of a healthcare entity.
+7 (33)(36) “Same or similar specialty” means a practitioner who has the appropriate training
+8 and experience that is the same or similar as the attending provider in addition to experience in
+9 treating the same problems to include any potential complications as those under review.
+10 (34)(37) “Therapeutic interchange” means the interchange or substitution of a drug with a
+11 dissimilar chemical structure within the same therapeutic or pharmacological class that can be
+12 expected to have similar outcomes and similar adverse reaction profiles when given in equivalent
+13 doses, in accordance with protocols approved by the president of the medical staff or medical
+14 director and the director of pharmacy.
+15 (35)(38) “Tiered network” means a network that identifies and groups some or all types of
+16 providers into specific groups to which different provider reimbursement, beneficiary cost-sharing,
+17 or provider access requirements, or any combination thereof, apply for the same services.
+18 (36)(39) “Urgent healthcare services” includes those resources necessary to treat a
+19 symptomatic medical, mental health, substance use, or other healthcare condition that a prudent
+20 layperson, acting reasonably, would believe necessitates treatment within a twenty-four hour (24)
+21 period of the onset of such a condition in order that the patient’s health status not decline as a
+22 consequence. This does not include those conditions considered to be emergent healthcare services
+23 as defined in this section.
+24 (37)(40) “Utilization review” means the prospective, concurrent, or retrospective
+25 assessment of the medical necessity and/or appropriateness of the allocation of healthcare services
+26 of a provider, given or proposed to be given, to a beneficiary. Utilization review does not include:
+27 (i) The therapeutic interchange of drugs or devices by a pharmacy operating as part of a
+28 licensed inpatient healthcare facility; or
+29 (ii) The assessment by a pharmacist licensed pursuant to the provisions of chapter 19.1 of
+30 title 5, and practicing in a pharmacy operating as part of a licensed inpatient healthcare facility, in
+31 the interpretation, evaluation and implementation of medical orders, including assessments and/or
+32 comparisons involving formularies and medical orders.
+33 (38)(41) “Utilization review plan” means a description of the standards governing
+34 utilization review activities performed by a review agent.
+LC002773 - Page 5 of 23
+
+1 SECTION 2. Chapter 27-18.9 of the General Laws entitled "Benefit Determination and
+2 Utilization Review Act" is hereby amended by adding thereto the following section:
+3 27-18.9-16. Limitations on prior authorization for primary care.
+4 (a) Except as provided in subsection (b) of this section, an insurer shall not impose any
+5 prior authorization requirement for any admission, item, service, treatment, test, exam, study,
+6 procedure, or any generic or brand name prescription drug ordered by a primary care provider.
+7 (b) The prohibition set forth in subsection (a) of this section shall not be construed to
+8 prohibit prior authorization requirements for controlled substances, or for individual primary care
+9 providers after documented cases of fraud, waste or abuse by the Centers of Medicare and Medicaid
+10 Services.
+11 (c) Notwithstanding any other provision of law to the contrary, in order to establish
+12 uniformity in the submission of prior authorization forms, on or after January 1, 2026, any issuer
+13 issuing any lawful prior authorization shall use only a single, standardized prior authorization form,
+14 in accordance with the following requirements:
+15 (1) Except as otherwise allowable by federal law, the form shall not exceed two (2) pages
+16 in length, excluding any instructions or guiding documentation;
+17 (2) The form shall be made available electronically, and the prescribing provider may
+18 submit the completed form electronically to the health benefit plan;
+19 (3) In order to lower burden on providers, all insurers must create an online payor portal to
+20 allow for online submission of the standardized form. These online portals must contain all relevant
+21 prior authorization information, including access to the standardized form, to allow providers to fill
+22 out and submit the form online. These portals must be accessible to providers by January 1, 2026;
+23 and
+24 (4) The issuer must submit its prior authorization form to the office of the health insurance
+25 commissioner to be kept on file on January 1, 2026. A copy of any subsequent replacements or
+26 modifications of a health insurance issuer's prior authorization form shall be filed with the office
+27 of the health insurance commissioner. The office of the health insurance commissioner may
+28 promulgate rules and regulations to further standardize and reduce the burden of prior authorization
+29 on providers.
+30 SECTION 3. Section 42-7.2-5 of the General Laws in Chapter 42-7.2 entitled "Office of
+31 Health and Human Services" is hereby amended to read as follows:
+32 42-7.2-5. Duties of the secretary.
+33 The secretary shall be subject to the direction and supervision of the governor for the
+34 oversight, coordination, and cohesive direction of state-administered health and human services
+LC002773 - Page 6 of 23
+
+1 and in ensuring the laws are faithfully executed, notwithstanding any law to the contrary. In this
+2 capacity, the secretary of the executive office of health and human services (EOHHS) shall be
+3 authorized to:
+4 (1) Coordinate the administration and financing of healthcare benefits, human services, and
+5 programs including those authorized by the state’s Medicaid section 1115 demonstration waiver
+6 and, as applicable, the Medicaid state plan under Title XIX of the U.S. Social Security Act.
+7 However, nothing in this section shall be construed as transferring to the secretary the powers,
+8 duties, or functions conferred upon the departments by Rhode Island public and general laws for
+9 the administration of federal/state programs financed in whole or in part with Medicaid funds or
+10 the administrative responsibility for the preparation and submission of any state plans, state plan
+11 amendments, or authorized federal waiver applications, once approved by the secretary.
+12 (2) Serve as the governor’s chief advisor and liaison to federal policymakers on Medicaid
+13 reform issues as well as the principal point of contact in the state on any such related matters.
+14 (3)(i) Review and ensure the coordination of the state’s Medicaid section 1115
+15 demonstration waiver requests and renewals as well as any initiatives and proposals requiring
+16 amendments to the Medicaid state plan or formal amendment changes, as described in the special
+17 terms and conditions of the state’s Medicaid section 1115 demonstration waiver with the potential
+18 to affect the scope, amount, or duration of publicly funded healthcare services, provider payments
+19 or reimbursements, or access to or the availability of benefits and services as provided by Rhode
+20 Island general and public laws. The secretary shall consider whether any such changes are legally
+21 and fiscally sound and consistent with the state’s policy and budget priorities. The secretary shall
+22 also assess whether a proposed change is capable of obtaining the necessary approvals from federal
+23 officials and achieving the expected positive consumer outcomes. Department directors shall,
+24 within the timelines specified, provide any information and resources the secretary deems necessary
+25 in order to perform the reviews authorized in this section.
+26 (ii) Direct the development and implementation of any Medicaid policies, procedures, or
+27 systems that may be required to assure successful operation of the state’s health and human services
+28 integrated eligibility system and coordination with HealthSource RI, the state’s health insurance
+29 marketplace.
+30 (iii) Beginning in 2015, conduct on a biennial basis a comprehensive review of the
+31 Medicaid eligibility criteria for one or more of the populations covered under the state plan or a
+32 waiver to ensure consistency with federal and state laws and policies, coordinate and align systems,
+33 and identify areas for improving quality assurance, fair and equitable access to services, and
+34 opportunities for additional financial participation.
+LC002773 - Page 7 of 23
+
+1 (iv) Implement service organization and delivery reforms that facilitate service integration,
+2 increase value, and improve quality and health outcomes.
+3 (4) Beginning in 2020, prepare and submit to the governor, the chairpersons of the house
+4 and senate finance committees, the caseload estimating conference, and to the joint legislative
+5 committee for health-care oversight, by no later than September 15 of each year, a comprehensive
+6 overview of all Medicaid expenditures outcomes, administrative costs, and utilization rates. The
+7 overview shall include, but not be limited to, the following information:
+8 (i) Expenditures under Titles XIX and XXI of the Social Security Act, as amended;
+9 (ii) Expenditures, outcomes, and utilization rates by population and sub-population served
+10 (e.g., families with children, persons with disabilities, children in foster care, children receiving
+11 adoption assistance, adults ages nineteen (19) to sixty-four (64), and elders);
+12 (iii) Expenditures, outcomes, and utilization rates by each state department or other
+13 municipal or public entity receiving federal reimbursement under Titles XIX and XXI of the Social
+14 Security Act, as amended;
+15 (iv) Expenditures, outcomes, and utilization rates by type of service and/or service
+16 provider;
+17 (v) Expenditures by mandatory population receiving mandatory services and, reported
+18 separately, optional services, as well as optional populations receiving mandatory services and,
+19 reported separately, optional services for each state agency receiving Title XIX and XXI funds; and
+20 (vi) Information submitted to the Centers for Medicare & Medicaid Services for the
+21 mandatory annual state reporting of the Core Set of Children’s Health Care Quality Measures for
+22 Medicaid and Children’s Health Insurance Program, behavioral health measures on the Core Set of
+23 Adult Health Care Quality Measures for Medicaid and the Core Sets of Health Home Quality
+24 Measures for Medicaid to ensure compliance with the Bipartisan Budget Act of 2018, Pub. L. No.
+25 115-123.
+26 The directors of the departments, as well as local governments and school departments,
+27 shall assist and cooperate with the secretary in fulfilling this responsibility by providing whatever
+28 resources, information and support shall be necessary.
+29 (5) Resolve administrative, jurisdictional, operational, program, or policy conflicts among
+30 departments and their executive staffs and make necessary recommendations to the governor.
+31 (6) Ensure continued progress toward improving the quality, the economy, the
+32 accountability, and the efficiency of state-administered health and human services. In this capacity,
+33 the secretary shall:
+34 (i) Direct implementation of reforms in the human resources practices of the executive
+LC002773 - Page 8 of 23
+
+1 office and the departments that streamline and upgrade services, achieve greater economies of scale
+2 and establish the coordinated system of the staff education, cross-training, and career development
+3 services necessary to recruit and retain a highly-skilled, responsive, and engaged health and human
+4 services workforce;
+5 (ii) Encourage EOHHS-wide consumer-centered approaches to service design and delivery
+6 that expand their capacity to respond efficiently and responsibly to the diverse and changing needs
+7 of the people and communities they serve;
+8 (iii) Develop all opportunities to maximize resources by leveraging the state’s purchasing
+9 power, centralizing fiscal service functions related to budget, finance, and procurement,
+10 centralizing communication, policy analysis and planning, and information systems and data
+11 management, pursuing alternative funding sources through grants, awards, and partnerships and
+12 securing all available federal financial participation for programs and services provided EOHHS-
+13 wide;
+14 (iv) Improve the coordination and efficiency of health and human services legal functions
+15 by centralizing adjudicative and legal services and overseeing their timely and judicious
+16 administration;
+17 (v) Facilitate the rebalancing of the long-term system by creating an assessment and
+18 coordination organization or unit for the expressed purpose of developing and implementing
+19 procedures EOHHS-wide that ensure that the appropriate publicly funded health services are
+20 provided at the right time and in the most appropriate and least restrictive setting;
+21 (vi) Strengthen health and human services program integrity, quality control and
+22 collections, and recovery activities by consolidating functions within the office in a single unit that
+23 ensures all affected parties pay their fair share of the cost of services and are aware of alternative
+24 financing;
+25 (vii) Assure protective services are available to vulnerable elders and adults with
+26 developmental and other disabilities by reorganizing existing services, establishing new services
+27 where gaps exist, and centralizing administrative responsibility for oversight of all related
+28 initiatives and programs.
+29 (7) Prepare and integrate comprehensive budgets for the health and human services
+30 departments and any other functions and duties assigned to the office. The budgets shall be
+31 submitted to the state budget office by the secretary, for consideration by the governor, on behalf
+32 of the state’s health and human services agencies in accordance with the provisions set forth in §
+33 35-3-4.
+34 (8) Utilize objective data to evaluate health and human services policy goals, resource use
+LC002773 - Page 9 of 23
+
+1 and outcome evaluation and to perform short and long-term policy planning and development.
+2 (9) Establishment of an integrated approach to interdepartmental information and data
+3 management that complements and furthers the goals of the unified health infrastructure project
+4 initiative and that will facilitate the transition to a consumer-centered integrated system of state-
+5 administered health and human services.
+6 (10) At the direction of the governor or the general assembly, conduct independent reviews
+7 of state-administered health and human services programs, policies and related agency actions and
+8 activities and assist the department directors in identifying strategies to address any issues or areas
+9 of concern that may emerge thereof. The department directors shall provide any information and
+10 assistance deemed necessary by the secretary when undertaking such independent reviews.
+11 (11) Provide regular and timely reports to the governor and make recommendations with
+12 respect to the state’s health and human services agenda.
+13 (12) Employ such personnel and contract for such consulting services as may be required
+14 to perform the powers and duties lawfully conferred upon the secretary.
+15 (13) Assume responsibility for complying with the provisions of any general or public law
+16 or regulation related to the disclosure, confidentiality, and privacy of any information or records,
+17 in the possession or under the control of the executive office or the departments assigned to the
+18 executive office, that may be developed or acquired or transferred at the direction of the governor
+19 or the secretary for purposes directly connected with the secretary’s duties set forth herein.
+20 (14) Hold the director of each health and human services department accountable for their
+21 administrative, fiscal, and program actions in the conduct of the respective powers and duties of
+22 their agencies.
+23 (15) Identify opportunities for inclusion with the EOHHS’ October 1, 2023 budget
+24 submission, to remove fixed eligibility thresholds for programs under its purview by establishing
+25 sliding scale decreases in benefits commensurate with income increases up to four hundred fifty
+26 percent (450%) of the federal poverty level. These shall include but not be limited to, medical
+27 assistance, childcare assistance, and food assistance.
+28 (16) Ensure that insurers minimize administrative burdens on providers that may delay
+29 medically necessary care, including requiring that insurers do not impose a prior authorization or
+30 other utilization management review requirement for any admission, item, service, treatment, test,
+31 exam, study procedure, or any generic or brand name prescription drug ordered by an in-network
+32 primary care provider; provided, however, the prohibition shall not be construed to prohibit prior
+33 authorization requirements for controlled substances. Provided further, that as used in this section,
+34 the terms "insurer," "primary care provider," and "prior authorization and other utilization
+LC002773 - Page 10 of 23
+
+1 management" means the same as those terms are defined in § 27-18.9-2.
+2 SECTION 4. Section 42-14.5-3 of the General Laws in Chapter 42-14.5 entitled "The
+3 Rhode Island Health Care Reform Act of 2004 — Health Insurance Oversight" is hereby amended
+4 to read as follows:
+5 42-14.5-3. Powers and duties.
+6 The health insurance commissioner shall have the following powers and duties:
+7 (a) To conduct quarterly public meetings throughout the state, separate and distinct from
+8 rate hearings pursuant to § 42-62-13, regarding the rates, services, and operations of insurers
+9 licensed to provide health insurance in the state; the effects of such rates, services, and operations
+10 on consumers, medical care providers, patients, and the market environment in which the insurers
+11 operate; and efforts to bring new health insurers into the Rhode Island market. Notice of not less
+12 than ten (10) days of the hearing(s) shall go to the general assembly, the governor, the Rhode Island
+13 Medical Society, the Hospital Association of Rhode Island, the director of health, the attorney
+14 general, and the chambers of commerce. Public notice shall be posted on the department’s website
+15 and given in the newspaper of general circulation, and to any entity in writing requesting notice.
+16 (b) To make recommendations to the governor and the house of representatives and senate
+17 finance committees regarding healthcare insurance and the regulations, rates, services,
+18 administrative expenses, reserve requirements, and operations of insurers providing health
+19 insurance in the state, and to prepare or comment on, upon the request of the governor or
+20 chairpersons of the house or senate finance committees, draft legislation to improve the regulation
+21 of health insurance. In making the recommendations, the commissioner shall recognize that it is
+22 the intent of the legislature that the maximum disclosure be provided regarding the reasonableness
+23 of individual administrative expenditures as well as total administrative costs. The commissioner
+24 shall make recommendations on the levels of reserves, including consideration of: targeted reserve
+25 levels; trends in the increase or decrease of reserve levels; and insurer plans for distributing excess
+26 reserves.
+27 (c) To establish a consumer/business/labor/medical advisory council to obtain information
+28 and present concerns of consumers, business, and medical providers affected by health insurance
+29 decisions. The council shall develop proposals to allow the market for small business health
+30 insurance to be affordable and fairer. The council shall be involved in the planning and conduct of
+31 the quarterly public meetings in accordance with subsection (a). The advisory council shall develop
+32 measures to inform small businesses of an insurance complaint process to ensure that small
+33 businesses that experience rate increases in a given year may request and receive a formal review
+34 by the department. The advisory council shall assess views of the health provider community
+LC002773 - Page 11 of 23
+
+1 relative to insurance rates of reimbursement, billing, and reimbursement procedures, and the
+2 insurers’ role in promoting efficient and high-quality health care. The advisory council shall issue
+3 an annual report of findings and recommendations to the governor and the general assembly and
+4 present its findings at hearings before the house and senate finance committees. The advisory
+5 council is to be diverse in interests and shall include representatives of community consumer
+6 organizations; small businesses, other than those involved in the sale of insurance products; and
+7 hospital, medical, and other health provider organizations. Such representatives shall be nominated
+8 by their respective organizations. The advisory council shall be co-chaired by the health insurance
+9 commissioner and a community consumer organization or small business member to be elected by
+10 the full advisory council.
+11 (d) To establish and provide guidance and assistance to a subcommittee (“the professional-
+12 provider-health-plan work group”) of the advisory council created pursuant to subsection (c),
+13 composed of healthcare providers and Rhode Island licensed health plans. This subcommittee shall
+14 include in its annual report and presentation before the house and senate finance committees the
+15 following information:
+16 (1) A method whereby health plans shall disclose to contracted providers the fee schedules
+17 used to provide payment to those providers for services rendered to covered patients;
+18 (2) A standardized provider application and credentials verification process, for the
+19 purpose of verifying professional qualifications of participating healthcare providers;
+20 (3) The uniform health plan claim form utilized by participating providers;
+21 (4) Methods for health maintenance organizations, as defined by § 27-41-2, and nonprofit
+22 hospital or medical service corporations, as defined by chapters 19 and 20 of title 27, to make
+23 facility-specific data and other medical service-specific data available in reasonably consistent
+24 formats to patients regarding quality and costs. This information would help consumers make
+25 informed choices regarding the facilities and clinicians or physician practices at which to seek care.
+26 Among the items considered would be the unique health services and other public goods provided
+27 by facilities and clinicians or physician practices in establishing the most appropriate cost
+28 comparisons;
+29 (5) All activities related to contractual disclosure to participating providers of the
+30 mechanisms for resolving health plan/provider disputes;
+31 (6) The uniform process being utilized for confirming, in real time, patient insurance
+32 enrollment status, benefits coverage, including copays and deductibles;
+33 (7) Information related to temporary credentialing of providers seeking to participate in the
+34 plan’s network and the impact of the activity on health plan accreditation;
+LC002773 - Page 12 of 23
+
+1 (8) The feasibility of regular contract renegotiations between plans and the providers in
+2 their networks; and
+3 (9) Efforts conducted related to reviewing impact of silent PPOs on physician practices.
+4 (e) To enforce the provisions of title 27 and title 42 as set forth in § 42-14-5(d).
+5 (f) To provide analysis of the Rhode Island affordable health plan reinsurance fund. The
+6 fund shall be used to effectuate the provisions of §§ 27-18.5-9 and 27-50-17.
+7 (g) To analyze the impact of changing the rating guidelines and/or merging the individual
+8 health insurance market, as defined in chapter 18.5 of title 27, and the small-employer health
+9 insurance market, as defined in chapter 50 of title 27, in accordance with the following:
+10 (1) The analysis shall forecast the likely rate increases required to effect the changes
+11 recommended pursuant to the preceding subsection (g) in the direct-pay market and small-employer
+12 health insurance market over the next five (5) years, based on the current rating structure and
+13 current products.
+14 (2) The analysis shall include examining the impact of merging the individual and small-
+15 employer markets on premiums charged to individuals and small-employer groups.
+16 (3) The analysis shall include examining the impact on rates in each of the individual and
+17 small-employer health insurance markets and the number of insureds in the context of possible
+18 changes to the rating guidelines used for small-employer groups, including: community rating
+19 principles; expanding small-employer rate bonds beyond the current range; increasing the employer
+20 group size in the small-group market; and/or adding rating factors for broker and/or tobacco use.
+21 (4) The analysis shall include examining the adequacy of current statutory and regulatory
+22 oversight of the rating process and factors employed by the participants in the proposed, new
+23 merged market.
+24 (5) The analysis shall include assessment of possible reinsurance mechanisms and/or
+25 federal high-risk pool structures and funding to support the health insurance market in Rhode Island
+26 by reducing the risk of adverse selection and the incremental insurance premiums charged for this
+27 risk, and/or by making health insurance affordable for a selected at-risk population.
+28 (6) The health insurance commissioner shall work with an insurance market merger task
+29 force to assist with the analysis. The task force shall be chaired by the health insurance
+30 commissioner and shall include, but not be limited to, representatives of the general assembly, the
+31 business community, small-employer carriers as defined in § 27-50-3, carriers offering coverage in
+32 the individual market in Rhode Island, health insurance brokers, and members of the general public.
+33 (7) For the purposes of conducting this analysis, the commissioner may contract with an
+34 outside organization with expertise in fiscal analysis of the private insurance market. In conducting
+LC002773 - Page 13 of 23
+
+1 its study, the organization shall, to the extent possible, obtain and use actual health plan data. Said
+2 data shall be subject to state and federal laws and regulations governing confidentiality of health
+3 care and proprietary information.
+4 (8) The task force shall meet as necessary and include its findings in the annual report, and
+5 the commissioner shall include the information in the annual presentation before the house and
+6 senate finance committees.
+7 (h) To establish and convene a workgroup representing healthcare providers and health
+8 insurers for the purpose of coordinating the development of processes, guidelines, and standards to
+9 streamline healthcare administration that are to be adopted by payors and providers of healthcare
+10 services operating in the state. This workgroup shall include representatives with expertise who
+11 would contribute to the streamlining of healthcare administration and who are selected from
+12 hospitals, physician practices, community behavioral health organizations, each health insurer, and
+13 other affected entities. The workgroup shall also include at least one designee each from the Rhode
+14 Island Medical Society, Rhode Island Council of Community Mental Health Organizations, the
+15 Rhode Island Health Center Association, and the Hospital Association of Rhode Island. In any year
+16 that the workgroup meets and submits recommendations to the office of the health insurance
+17 commissioner, the office of the health insurance commissioner shall submit such recommendations
+18 to the health and human services committees of the Rhode Island house of representatives and the
+19 Rhode Island senate prior to the implementation of any such recommendations and subsequently
+20 shall submit a report to the general assembly by June 30, 2024. The report shall include the
+21 recommendations the commissioner may implement, with supporting rationale. The workgroup
+22 shall consider and make recommendations for:
+23 (1) Establishing a consistent standard for electronic eligibility and coverage verification.
+24 Such standard shall:
+25 (i) Include standards for eligibility inquiry and response and, wherever possible, be
+26 consistent with the standards adopted by nationally recognized organizations, such as the Centers
+27 for Medicare & Medicaid Services;
+28 (ii) Enable providers and payors to exchange eligibility requests and responses on a system-
+29 to-system basis or using a payor-supported web browser;
+30 (iii) Provide reasonably detailed information on a consumer’s eligibility for healthcare
+31 coverage; scope of benefits; limitations and exclusions provided under that coverage; cost-sharing
+32 requirements for specific services at the specific time of the inquiry; current deductible amounts;
+33 accumulated or limited benefits; out-of-pocket maximums; any maximum policy amounts; and
+34 other information required for the provider to collect the patient’s portion of the bill;
+LC002773 - Page 14 of 23
+
+1 (iv) Reflect the necessary limitations imposed on payors by the originator of the eligibility
+2 and benefits information;
+3 (v) Recommend a standard or common process to protect all providers from the costs of
+4 services to patients who are ineligible for insurance coverage in circumstances where a payor
+5 provides eligibility verification based on best information available to the payor at the date of the
+6 request of eligibility.
+7 (2) Developing implementation guidelines and promoting adoption of the guidelines for:
+8 (i) The use of the National Correct Coding Initiative code-edit policy by payors and
+9 providers in the state;
+10 (ii) Publishing any variations from codes and mutually exclusive codes by payors in a
+11 manner that makes for simple retrieval and implementation by providers;
+12 (iii) Use of Health Insurance Portability and Accountability Act standard group codes,
+13 reason codes, and remark codes by payors in electronic remittances sent to providers;
+14 (iv) Uniformity in the processing of claims by payors; and the processing of corrections to
+15 claims by providers and payors;
+16 (v) A standard payor-denial review process for providers when they request a
+17 reconsideration of a denial of a claim that results from differences in clinical edits where no single,
+18 common-standards body or process exists and multiple conflicting sources are in use by payors and
+19 providers.
+20 (vi) Nothing in this section, nor in the guidelines developed, shall inhibit an individual
+21 payor’s ability to employ, and not disclose to providers, temporary code edits for the purpose of
+22 detecting and deterring fraudulent billing activities. The guidelines shall require that each payor
+23 disclose to the provider its adjudication decision on a claim that was denied or adjusted based on
+24 the application of such edits and that the provider have access to the payor’s review and appeal
+25 process to challenge the payor’s adjudication decision.
+26 (vii) Nothing in this subsection shall be construed to modify the rights or obligations of
+27 payors or providers with respect to procedures relating to the investigation, reporting, appeal, or
+28 prosecution under applicable law of potentially fraudulent billing activities.
+29 (3) Developing and promoting widespread adoption by payors and providers of guidelines
+30 to:
+31 (i) Ensure payors do not automatically deny claims for services when extenuating
+32 circumstances make it impossible for the provider to obtain a preauthorization before services are
+33 performed or notify a payor within an appropriate standardized timeline of a patient’s admission;
+34 (ii) Require payors to use common and consistent processes and time frames when
+LC002773 - Page 15 of 23
+
+1 responding to provider requests for medical management approvals. Whenever possible, such time
+2 frames shall be consistent with those established by leading national organizations and be based
+3 upon the acuity of the patient’s need for care or treatment. For the purposes of this section, medical
+4 management includes prior authorization of services, preauthorization of services, precertification
+5 of services, post-service review, medical-necessity review, and benefits advisory;
+6 (iii) Develop, maintain, and promote widespread adoption of a single, common website
+7 where providers can obtain payors’ preauthorization, benefits advisory, and preadmission
+8 requirements;
+9 (iv) Establish guidelines for payors to develop and maintain a website that providers can
+10 use to request a preauthorization, including a prospective clinical necessity review; receive an
+11 authorization number; and transmit an admission notification;
+12 (v) Develop and implement the use of programs that implement selective prior
+13 authorization requirements, based on stratification of healthcare providers’ performance and
+14 adherence to evidence-based medicine with the input of contracted healthcare providers and/or
+15 provider organizations. Such criteria shall be transparent and easily accessible to contracted
+16 providers. Such selective prior authorization programs shall be available when healthcare providers
+17 participate directly with the insurer in risk-based payment contracts and may be available to
+18 providers who do not participate in risk-based contracts;
+19 (vi) Require the review of medical services, including behavioral health services, and
+20 prescription drugs, subject to prior authorization on at least an annual basis, with the input of
+21 contracted healthcare providers and/or provider organizations. Any changes to the list of medical
+22 services, including behavioral health services, and prescription drugs requiring prior authorization,
+23 shall be shared via provider-accessible websites;
+24 (vii) Improve communication channels between health plans, healthcare providers, and
+25 patients by:
+26 (A) Requiring transparency and easy accessibility of prior authorization requirements,
+27 criteria, rationale, and program changes to contracted healthcare providers and patients/health plan
+28 enrollees which may be satisfied by posting to provider-accessible and member-accessible
+29 websites; and
+30 (B) Supporting:
+31 (I) Timely submission by healthcare providers of the complete information necessary to
+32 make a prior authorization determination, as early in the process as possible; and
+33 (II) Timely notification of prior authorization determinations by health plans to impacted
+34 health plan enrollees, and healthcare providers, including, but not limited to, ordering providers,
+LC002773 - Page 16 of 23
+
+1 and/or rendering providers, and dispensing pharmacists which may be satisfied by posting to
+2 provider-accessible websites or similar electronic portals or services;
+3 (viii) Increase and strengthen continuity of patient care by:
+4 (A) Defining protections for continuity of care during a transition period for patients
+5 undergoing an active course of treatment, when there is a formulary or treatment coverage change
+6 or change of health plan that may disrupt their current course of treatment and when the treating
+7 physician determines that a transition may place the patient at risk; and for prescription medication
+8 by allowing a grace period of coverage to allow consideration of referred health plan options or
+9 establishment of medical necessity of the current course of treatment;
+10 (B) Requiring continuity of care for medical services, including behavioral health services,
+11 and prescription medications for patients on appropriate, chronic, stable therapy through
+12 minimizing repetitive prior authorization requirements; and which for prescription medication shall
+13 be allowed only on an annual review, with exception for labeled limitation, to establish continued
+14 benefit of treatment; and
+15 (C) Requiring communication between healthcare providers, health plans, and patients to
+16 facilitate continuity of care and minimize disruptions in needed treatment which may be satisfied
+17 by posting to provider-accessible websites or similar electronic portals or services;
+18 (D) Continuity of care for formulary or drug coverage shall distinguish between FDA
+19 designated interchangeable products and proprietary or marketed versions of a medication;
+20 (ix) Encourage healthcare providers and/or provider organizations and health plans to
+21 accelerate use of electronic prior authorization technology, including adoption of national standards
+22 where applicable; and
+23 (x) For the purposes of subsections (h)(3)(v) through (h)(3)(x) of this section, the
+24 workgroup meeting may be conducted in part or whole through electronic methods.
+25 (4) To provide a report to the house and senate, on or before January 1, 2017, with
+26 recommendations for establishing guidelines and regulations for systems that give patients
+27 electronic access to their claims information, particularly to information regarding their obligations
+28 to pay for received medical services, pursuant to 45 C.F.R. § 164.524.
+29 (5) No provision of this subsection (h) shall preclude the ongoing work of the office of
+30 health insurance commissioner’s administrative simplification task force, which includes meetings
+31 with key stakeholders in order to improve, and provide recommendations regarding, the prior
+32 authorization process.
+33 (i) To issue an anti-cancer medication report. Not later than June 30, 2014, and annually
+34 thereafter, the office of the health insurance commissioner (OHIC) shall provide the senate
+LC002773 - Page 17 of 23
+
+1 committee on health and human services, and the house committee on corporations, with: (1)
+2 Information on the availability in the commercial market of coverage for anti-cancer medication
+3 options; (2) For the state employee’s health benefit plan, the costs of various cancer-treatment
+4 options; (3) The changes in drug prices over the prior thirty-six (36) months; and (4) Member
+5 utilization and cost-sharing expense.
+6 (j) To monitor the adequacy of each health plan’s compliance with the provisions of the
+7 federal Mental Health Parity Act, including a review of related claims processing and
+8 reimbursement procedures. Findings, recommendations, and assessments shall be made available
+9 to the public.
+10 (k) To monitor the transition from fee-for-service and toward global and other alternative
+11 payment methodologies for the payment for healthcare services. Alternative payment
+12 methodologies should be assessed for their likelihood to promote access to affordable health
+13 insurance, health outcomes, and performance.
+14 (l) To report annually, no later than July 1, 2014, then biannually thereafter, on hospital
+15 payment variation, including findings and recommendations, subject to available resources.
+16 (m) Notwithstanding any provision of the general or public laws or regulation to the
+17 contrary, provide a report with findings and recommendations to the president of the senate and the
+18 speaker of the house, on or before April 1, 2014, including, but not limited to, the following
+19 information:
+20 (1) The impact of the current, mandated healthcare benefits as defined in §§ 27-18-48.1,
+21 27-18-60, 27-18-62, 27-18-64, similar provisions in chapters 19, 20 and 41 of title 27, and §§ 27-
+22 18-3(c), 27-38.2-1 et seq., or others as determined by the commissioner, on the cost of health
+23 insurance for fully insured employers, subject to available resources;
+24 (2) Current provider and insurer mandates that are unnecessary and/or duplicative due to
+25 the existing standards of care and/or delivery of services in the healthcare system;
+26 (3) A state-by-state comparison of health insurance mandates and the extent to which
+27 Rhode Island mandates exceed other states benefits; and
+28 (4) Recommendations for amendments to existing mandated benefits based on the findings
+29 in (m)(1), (m)(2), and (m)(3) above.
+30 (n) On or before July 1, 2014, the office of the health insurance commissioner, in
+31 collaboration with the director of health and lieutenant governor’s office, shall submit a report to
+32 the general assembly and the governor to inform the design of accountable care organizations
+33 (ACOs) in Rhode Island as unique structures for comprehensive healthcare delivery and value-
+34 based payment arrangements, that shall include, but not be limited to:
+LC002773 - Page 18 of 23
+
+1 (1) Utilization review;
+2 (2) Contracting; and
+3 (3) Licensing and regulation.
+4 (o) On or before February 3, 2015, the office of the health insurance commissioner shall
+5 submit a report to the general assembly and the governor that describes, analyzes, and proposes
+6 recommendations to improve compliance of insurers with the provisions of § 27-18-76 with regard
+7 to patients with mental health and substance use disorders.
+8 (p) To work to ensure the health insurance coverage of behavioral health care under the
+9 same terms and conditions as other health care, and to integrate behavioral health parity
+10 requirements into the office of the health insurance commissioner insurance oversight and
+11 healthcare transformation efforts.
+12 (q) To work with other state agencies to seek delivery system improvements that enhance
+13 access to a continuum of mental health and substance use disorder treatment in the state; and
+14 integrate that treatment with primary and other medical care to the fullest extent possible.
+15 (r) To direct insurers toward policies and practices that address the behavioral health needs
+16 of the public and greater integration of physical and behavioral healthcare delivery.
+17 (s) The office of the health insurance commissioner shall conduct an analysis of the impact
+18 of the provisions of § 27-38.2-1(i) on health insurance premiums and access in Rhode Island and
+19 submit a report of its findings to the general assembly on or before June 1, 2023.
+20 (t) To undertake the analyses, reports, and studies contained in this section:
+21 (1) The office shall hire the necessary staff and prepare a request for proposal for a qualified
+22 and competent firm or firms to undertake the following analyses, reports, and studies:
+23 (i) The firm shall undertake a comprehensive review of all social and human service
+24 programs having a contract with or licensed by the state or any subdivision of the department of
+25 children, youth and families (DCYF), the department of behavioral healthcare, developmental
+26 disabilities and hospitals (BHDDH), the department of human services (DHS), the department of
+27 health (DOH), and Medicaid for the purposes of:
+28 (A) Establishing a baseline of the eligibility factors for receiving services;
+29 (B) Establishing a baseline of the service offering through each agency for those
+30 determined eligible;
+31 (C) Establishing a baseline understanding of reimbursement rates for all social and human
+32 service programs including rates currently being paid, the date of the last increase, and a proposed
+33 model that the state may use to conduct future studies and analyses;
+34 (D) Ensuring accurate and adequate reimbursement to social and human service providers
+LC002773 - Page 19 of 23
+
+1 that facilitate the availability of high-quality services to individuals receiving home and
+2 community-based long-term services and supports provided by social and human service providers;
+3 (E) Ensuring the general assembly is provided accurate financial projections on social and
+4 human service program costs, demand for services, and workforce needs to ensure access to entitled
+5 beneficiaries and services;
+6 (F) Establishing a baseline and determining the relationship between state government and
+7 the provider network including functions, responsibilities, and duties;
+8 (G) Determining a set of measures and accountability standards to be used by EOHHS and
+9 the general assembly to measure the outcomes of the provision of services including budgetary
+10 reporting requirements, transparency portals, and other methods; and
+11 (H) Reporting the findings of human services analyses and reports to the speaker of the
+12 house, senate president, chairs of the house and senate finance committees, chairs of the house and
+13 senate health and human services committees, and the governor.
+14 (2) The analyses, reports, and studies required pursuant to this section shall be
+15 accomplished and published as follows and shall provide:
+16 (i) An assessment and detailed reporting on all social and human service program rates to
+17 be completed by January 1, 2023, including rates currently being paid and the date of the last
+18 increase;
+19 (ii) An assessment and detailed reporting on eligibility standards and processes of all
+20 mandatory and discretionary social and human service programs to be completed by January 1,
+21 2023;
+22 (iii) An assessment and detailed reporting on utilization trends from the period of January
+23 1, 2017, through December 31, 2021, for social and human service programs to be completed by
+24 January 1, 2023;
+25 (iv) An assessment and detailed reporting on the structure of the state government as it
+26 relates to the provision of services by social and human service providers including eligibility and
+27 functions of the provider network to be completed by January 1, 2023;
+28 (v) An assessment and detailed reporting on accountability standards for services for social
+29 and human service programs to be completed by January 1, 2023;
+30 (vi) An assessment and detailed reporting by April 1, 2023, on all professional licensed
+31 and unlicensed personnel requirements for established rates for social and human service programs
+32 pursuant to a contract or established fee schedule;
+33 (vii) An assessment and reporting on access to social and human service programs, to
+34 include any wait lists and length of time on wait lists, in each service category by April 1, 2023;
+LC002773 - Page 20 of 23
+
+1 (viii) An assessment and reporting of national and regional Medicaid rates in comparison
+2 to Rhode Island social and human service provider rates by April 1, 2023;
+3 (ix) An assessment and reporting on usual and customary rates paid by private insurers and
+4 private pay for similar social and human service providers, both nationally and regionally, by April
+5 1, 2023; and
+6 (x) Completion of the development of an assessment and review process that includes the
+7 following components: eligibility; scope of services; relationship of social and human service
+8 provider and the state; national and regional rate comparisons and accountability standards that
+9 result in recommended rate adjustments; and this process shall be completed by September 1, 2023,
+10 and conducted biennially hereafter. The biennial rate setting shall be consistent with payment
+11 requirements established in § 1902(a)(30)(A) of the Social Security Act, 42 U.S.C. §
+12 1396a(a)(30)(A), and all federal and state law, regulations, and quality and safety standards. The
+13 results and findings of this process shall be transparent, and public meetings shall be conducted to
+14 allow providers, recipients, and other interested parties an opportunity to ask questions and provide
+15 comment beginning in September 2023 and biennially thereafter.
+16 (3) In fulfillment of the responsibilities defined in subsection (t), the office of the health
+17 insurance commissioner shall consult with the Executive Office of Health and Human Services.
+18 (u) Annually, each department (namely, EOHHS, DCYF, DOH, DHS, and BHDDH) shall
+19 include the corresponding components of the assessment and review (i.e., eligibility; scope of
+20 services; relationship of social and human service provider and the state; and national and regional
+21 rate comparisons and accountability standards including any changes or substantive issues between
+22 biennial reviews) including the recommended rates from the most recent assessment and review
+23 with their annual budget submission to the office of management and budget and provide a detailed
+24 explanation and impact statement if any rate variances exist between submitted recommended
+25 budget and the corresponding recommended rate from the most recent assessment and review
+26 process starting October 1, 2023, and biennially thereafter.
+27 (v) The general assembly shall appropriate adequate funding as it deems necessary to
+28 undertake the analyses, reports, and studies contained in this section relating to the powers and
+29 duties of the office of the health insurance commissioner.
+30 (w) Ensure that insurers minimize administrative burdens that may delay medically
+31 necessary care, including by promulgating rules and regulations and taking enforcement actions to
+32 implement § 27-18.9-16.
+LC002773 - Page 21 of 23
+
+1 SECTION 5. This act shall take effect on January 1, 2026.
+========
+LC002773
+========
+LC002773 - Page 22 of 23
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION ACT
+***
+1 This act would prohibit an insurer from imposing a requirement of prior authorization for
+2 any admission, item, service, treatment, test, exam, study, procedure, or any generic or brand name
+3 prescription drug ordered by a primary care provider unless it was a requirement for controlled
+4 substances, or individual primary care providers with documented cases of fraud, waste or abuse.
+5 The act would also require any issuer issuing any lawful prior authorization to use a single,
+6 standardized prior authorization form.
+7 This act would take effect on January 1, 2026.
+========
+LC002773
+========
+LC002773 - Page 23 of 23
+
+[DELETED: TATE  OF  RHODE  ISLAND S D 2 A ( i o i a A ( “ a b d m a a b d d i ( d t r o i t u o m j o c c t d i o]
+[DELETED:  ( “ o “ a m a s r o a a b d p ( c g ( a w f b ( “ m a p s e o o i p ( m ( t ( h c ( “ m a h e p b a a r ( ( a c ( “ a m a a o h s c d n o ( o ( o]
+[DELETED:  f r ( e o p o ( “ r m a r o a n a b d a ( “ r d m a d b a i r o ( t t ( “ p o “ p m a p c c o a p ( b j o r n a s ( “ s m a i b i n l t a a d o s ( “ r o o “ m a e t c i d (]
+[DELETED:  t c c 2 o t 2 ( i c a h i c s a o h h p m o s a o p t c 4 o t 2 ( m ( s ( b p ( ( a ( § m p ( m p b m f h t b c f p a w d ( l a ( h ( “ m a p h p p p l r ( h]
+[DELETED:  r ( b ( “ a m a p o h e p b d b ( a t ( d e d d ( p o ( “ h s i t r n t t a s l p c a ( “ r m t p c o r a o ( l ( t t c ( “ r p m a d o t s g u]
+[DELETED:  S U 2 ( p a p ( p p S ( N a o p o l t t c i o t e u i i ( i ( s ( a p o a ( c m o t h i c T o o t h i c m p o S H 4 T o]
+[DELETED:  a c a ( p a a t u o t U S S A H d t t a ( r ( R a e t c o t s M s 1 d a t t o I a a o a a t e p c o D s w i ( s i m ( B i 2 c o a b b a c r o t M w a i a q a a s a o]
+[DELETED:  ( i ( a c o o ( ( ( a ( E o a u r b e s d o o m S ( E o a u r b t o s a s p ( s r ( I s t t C f M & M S f t m M A M 1 T s r ( d ( E c p t i t q t e t a t (]
+[DELETED:  o a s s ( t o ( p c f s f r t b f a p c c p a a p a i s a d m s w ( b c a a l s a o t t a j a ( F t r o t l s b c a a a c o o u f t e p o d a i p E t e t t a p f h s a p ( S h a h s p i q c a c e f ( A p s a a t v e a a w d w g e a c a r f o o a r i ( P a i c b f t h a h s d a a o f a d a t t o T b s b s o 3 (]
+[DELETED:  a ( m i a ( o a o a ( r ( t ( o i e o ( a t ( I o f i w t E O 1 2 b s s p a ( m o e p a t t " " c p a " a a o u]
+[DELETED:  m S R t 4 T ( r l o o t M g a ( f c r h i a t r r s a e r r a o o i p h i i t s a t p o c o u t r o t g o c o t o s l r ( a d T c s d p t a t m f s b h i t m t i s b o a i c p t e t s b b]
+[DELETED:  r t i r o r b a r p a t i a p c o h b c t ( p w o a c p t s ( c i f ( u ( A s p a a c v p f t p ( ( h f f i A b f a c o p p i e t m a c c ( A a r t c d t p p o t m ( e ( p]
+[DELETED:  ( t ( ( ( f ( h i ( r h c ( e ( s c p g ( o m ( T a s i a o p r m a f b r ( f t a w t a T t f s b c b t h i c b t ( o]
+[DELETED:  i d c ( t s ( i s s w c t t s o h a a w a s f h o I R t c t R s r s ( S ( I s f e i a r a w p b c f ( t ( c r a o]
+[DELETED:  ( a ( s p r ( ( T u o t N C C I c p b p a p ( m ( r ( c ( A s p r p f p w t r a r c p ( p d d t p ( p p ( t ( E p d n a d c f s w e c p ( R p t u c a c p a t f w]
+[DELETED:  r f u m o ( w p c o p p b a a p r ( u a ( D a i t u o p t i s p a r b o s o h p p a a p o S c s b t a e a t c p p d w t i i r p c a m b a t p ( p c s s ( p ( c e w m b s b p t p a m w ( ( m ( h]
+[DELETED:  a p a d p w m b s b p t p ( ( D p f c o c d a t u o p b e ( a p m f p o a c s t t m b b ( f b ( d ( a w ( F t p o s ( t ( o t s t w ( p a r t h a s o o b 1 2 w r f e g a r f s t g p e t ( h w a ( t t o o t h i c ( s p t s]
+[DELETED:  c I o o u ( f M H P A i a r o r c p a r t ( p m f t p f h s A p m s b a f t l t p a t a h i ( p ( N a p o g o p t t c s i ( 2 1 i ( t ( R ( i ( O o b J 1 2 t o o t h i c i c t ( b]
+[DELETED:  ( ( ( ( s r t ( s t a c a o h c a t i b h p r i t o o t h i c i o a h ( a i ( o ( o s ( ( a ( p c d h ( ( E a b o t s o t e a f t d ( s m (]
+[DELETED:  t f t a o h s t i r h a c ( h b ( t ( t r ( h s ( T a r a s r p t t s s b a ( b i ( m 2 ( 1 J ( r f ( a ( a p ( i]
+[DELETED:  ( t ( p 1 ( f p r a r e i § 1 o t S S A 4 U § 1 r a c ( i ( i s r b w e b p ( u d ( E t i m a b t m d m n i ]
+[DELETED:  S]
+[DELETED:  T a p s T w a r a i i a l p a t u a s s T]

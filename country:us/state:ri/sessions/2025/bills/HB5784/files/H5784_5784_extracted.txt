@@ -1,0 +1,356 @@
+Title: RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+Official Title: RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+Number of Sections: 1
+Source: versions - 5784
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5784
+========
+LC001282
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+COMPUTATION
+Introduced By: Representatives Carson, Cortvriend, Spears, McEntee, Azzinaro,
+Kennedy, Fogarty, McGaw, and Edwards
+Date Introduced: February 26, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-18-7.3 and 44-18-36.1 of the General Laws in Chapter 44-18
+2 entitled "Sales and Use Taxes — Liability and Computation" are hereby amended to read as
+3 follows:
+4 44-18-7.3. Services defined.
+5 (a) “Services” means all activities engaged in for other persons for a fee, retainer,
+6 commission, or other monetary charge, which activities involve the performance of a service in this
+7 state as distinguished from selling property.
+8 (b) The following businesses and services performed in this state, along with the applicable
+9 2017 North American Industrial Classification System (NAICS) codes, are included in the
+10 definition of services:
+11 (1) Taxicab and limousine services including but not limited to:
+12 (i) Taxicab services including taxi dispatchers (485310); and
+13 (ii) Limousine services (485320).
+14 (2) Other road transportation service including but not limited to:
+15 (i) Charter bus service (485510);
+16 (ii) “Transportation network companies” (TNC) defined as an entity that uses a digital
+17 network to connect transportation network company riders to transportation network operators who
+18 provide prearranged rides. Any TNC operating in this state is a retailer as provided in § 44-18-15
+1 and is required to file a business application and registration form and obtain a permit to make sales
+2 at retail with the tax administrator, to charge, collect, and remit Rhode Island sales and use tax; and
+3 (iii) All other transit and ground passenger transportation (485999).
+4 (3) Pet care services (812910) except veterinary and testing laboratories services.
+5 (4)(i) “Room reseller” or “reseller” means any person, except a tour operator as defined in
+6 § 42-63.1-2, having any right, permission, license, or other authority from or through a hotel as
+7 defined in § 42-63.1-2, to reserve, or arrange the transfer of occupancy of, accommodations the
+8 reservation or transfer of which is subject to this chapter, such that the occupant pays all or a portion
+9 of the rental and other fees to the room reseller or reseller. Room reseller or reseller shall include,
+10 but not be limited to, sellers of travel packages as defined in this section and any hosting platform
+11 as defined in § 42-63.1-2 and any marketing organization that reserves or arranges the transfer of
+12 occupancy or accommodations the reservation or transfer of which is subject to this chapter.
+13 Notwithstanding the provisions of any other law, where said reservation or transfer of occupancy
+14 is done using a room reseller or reseller, the application of the sales and use tax under §§ 44-18-18
+15 and 44-18-20, and the hotel tax under § 44-18-36.1 shall be as follows: The room reseller or reseller
+16 is required to register with, and shall collect and pay to, the tax administrator the sales and use and
+17 hotel taxes, with said taxes being calculated upon the amount of rental and other fees paid by the
+18 occupant to the room reseller or reseller, less the amount of any rental and other fees paid by the
+19 room reseller or reseller to the hotel. The hotel shall collect and pay to the tax administrator said
+20 taxes upon the amount of rental and other fees paid to the hotel by the room reseller or reseller
+21 and/or the occupant. No assessment shall be made by the tax administrator against a hotel because
+22 of an incorrect remittance of the taxes under this chapter by a room reseller or reseller. No
+23 assessment shall be made by the tax administrator against a room reseller or reseller because of an
+24 incorrect remittance of the taxes under this chapter by a hotel. If the hotel has paid the taxes imposed
+25 under this chapter, the occupant and/or room reseller or reseller, as applicable, shall reimburse the
+26 hotel for said taxes. If the room reseller or reseller has paid said taxes, the occupant shall reimburse
+27 the room reseller or reseller for said taxes. Each hotel and room reseller or reseller shall add and
+28 collect, from the occupant or the room reseller or the reseller, the full amount of the taxes imposed
+29 on the rental and other fees. When added to the rental and other fees, the taxes shall be a debt owed
+30 by the occupant to the hotel or room reseller or reseller, as applicable, and shall be recoverable at
+31 law in the same manner as other debts. The amount of the taxes collected by the hotel and/or room
+32 reseller or reseller from the occupant under this chapter shall be stated and charged separately from
+33 the rental and other fees, and shall be shown separately on all records thereof, whether made at the
+34 time the transfer of occupancy occurs, or on any evidence of the transfer issued or used by the hotel
+LC001282 - Page 2 of 6
+1 or the room reseller or the reseller. A room reseller or reseller shall not be required to disclose to
+2 the occupant the amount of tax charged by the hotel; provided, however, the room reseller or
+3 reseller shall represent to the occupant that the separately stated taxes charged by the room reseller
+4 or reseller include taxes charged by the hotel. No person shall operate a hotel in this state, or act as
+5 a room reseller or reseller for any hotel in the state, unless the tax administrator has issued a permit
+6 pursuant to § 44-19-1.
+7 (ii) “Travel package” means a room, or rooms, bundled with one or more other, separate
+8 components of travel such as air transportation, car rental, or similar items, which travel package
+9 is charged to the customer or occupant for a single, retail price. When the room occupancy is
+10 bundled for a single consideration, with other property, services, amusement charges, or any other
+11 items, the separate sale of which would not otherwise be subject to tax under this chapter, the entire
+12 single consideration shall be treated as the rental or other fees for room occupancy subject to tax
+13 under this chapter; provided, however, that where the amount of the rental, or other fees for room
+14 occupancy is stated separately from the price of such other property, services, amusement charges,
+15 or other items, on any sales slip, invoice, receipt, or other statement given the occupant, and such
+16 rental and other fees are determined by the tax administrator to be reasonable in relation to the
+17 value of such other property, services, amusement charges, or other items, only such separately
+18 stated rental and other fees will be subject to tax under this chapter. The value of the transfer of any
+19 room, or rooms, bundled as part of a travel package may be determined by the tax administrator
+20 from the room reseller’s and/or reseller’s and/or hotel’s books and records that are kept in the
+21 regular course of business.
+22 (5) Investigation, Guard, and Armored Car Services (561611, 561612 & 561613).
+23 (c) All services as defined herein are required to file a business application and registration
+24 form and obtain a permit to make sales at retail with the tax administrator, to charge, collect, and
+25 remit Rhode Island sales and use tax.
+26 (d) The tax administrator is authorized to promulgate rules and regulations in accordance
+27 with the provisions of chapter 35 of title 42 to carry out the provisions, policies, and purposes of
+28 this chapter.
+29 44-18-36.1. Hotel tax. Hotel, house and condominium rental tax.
+30 (a) There is imposed a hotel tax and house and condominium rental tax of five percent (5%)
+31 upon the total consideration charged for occupancy of any space furnished for the rental of a house
+32 or condominium or by any hotel, travel packages, or room reseller or reseller as defined in § 44-
+33 18-7.3(b) in this state. A house, condominium, or other resident dwelling shall be exempt from the
+34 five percent (5%) hotel tax under this subsection if the house, condominium, or other resident
+LC001282 - Page 3 of 6
+1 dwelling is rented in its entirety. The hotel tax imposed by the provisions of this section is in
+2 addition to any sales tax imposed. This hotel The tax is imposed by the provisions of this section
+3 shall be administered and collected by the division of taxation and unless provided to the contrary
+4 in this chapter, all the administration, collection, and other provisions of chapters 18 and 19 of this
+5 title apply. Nothing in this chapter shall be construed to limit the powers of the convention authority
+6 of the city of Providence established pursuant to the provisions of chapter 84 of the public laws of
+7 1980, except that distribution of hotel tax receipts for taxes imposed pursuant to the provisions of
+8 this section, shall be made pursuant to chapter 63.1 of title 42 rather than chapter 84 of the public
+9 laws of 1980.
+10 (1) All sums received by the division of taxation from the tax imposed pursuant to the
+11 provisions of this section for the rental of a house or condominium, including penalties, forfeitures,
+12 interest, costs of suit and fines, shall be distributed at least quarterly, credited and paid by the state
+13 treasurer to the city or town where the house or condominium is located.
+14 (2) All sums collected pursuant to subsection (a)(1) of this section shall be used exclusively
+15 for municipal infrastructure improvements, riverine and coastal resiliency and housing.
+16 (b) There is hereby levied and imposed, upon the total consideration charged for occupancy
+17 of any space furnished by any hotel in this state, in addition to all other taxes and fees now imposed
+18 by law, a local hotel tax at a rate of one percent (1%). The local hotel tax shall be administered and
+19 collected in accordance with subsection (a) of this section.
+20 (c) All sums received by the division of taxation from the local hotel tax, penalties or
+21 forfeitures, interest, costs of suit and fines shall be distributed at least quarterly, credited and paid
+22 by the state treasurer to the city or town where the space for occupancy that is furnished by the
+23 hotel is located. Unless provided to the contrary in this chapter, all of the administration, collection,
+24 and other provisions of chapters 18 and 19 of this title shall apply.
+25 (d) Notwithstanding the provisions of subsection (a) of this section, the city of Newport
+26 shall have the authority to collect from hotels located in the city of Newport the tax imposed by
+27 subsection (a) of this section.
+28 (1) Within ten (10) days of collection of the tax, the city of Newport shall distribute the tax
+29 as provided in § 42-63.1-3. No later than the first day of March and the first day of September in
+30 each year in which the tax is collected, the city of Newport shall submit to the division of taxation
+31 a report of the tax collected and distributed during the six (6) month period ending thirty (30) days
+32 prior to the reporting date.
+33 (2) The city of Newport shall have the same authority as the division of taxation to recover
+34 delinquent hotel taxes pursuant to chapter 44-19, and the amount of any hotel tax, penalty and
+LC001282 - Page 4 of 6
+1 interest imposed by the city of Newport until collected constitutes a lien on the real property of the
+2 taxpayer.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC001282
+========
+LC001282 - Page 5 of 6
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would include "hosting platform" under the definition of "room-seller" and would
+2 impose a tax of five percent (5%) upon the rental of a house or condominium. The funds from the
+3 tax would be used exclusively for infrastructure improvements, riverine and coastal resiliency and
+4 housing.
+5 This act would take effect upon passage.
+========
+LC001282
+========
+LC001282 - Page 6 of 6
+[DELETED: TATE  OF  RHODE  ISLAND B R C C S M A S e — f 4 ( “ m a a e i f o p f a f r c s ( 2 N A I C S ( c a i i t d ( ( ( ( ( ( n p]
+[DELETED:  a a ( ( ( § d r o b a o o a r o w i s t c N i a i h o r t a o a i r o t t u t c b a r r o r N a i u h t c o b l r t t]
+[DELETED:  o t r o a p ( c i b i s u o o r v s r f r ( ( f r ( w t 4 ( u o 1 f]
+[DELETED:  d a s i t o 1 t l ( p i t ( f ( o b c ( f b h a ( s s ( a e a p ( d]
+[DELETED:  i t S]
+[DELETED:  T i t h T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5784
+========
+LC001282
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+Introduced By: Representatives Carson, Cortvriend, Spears, McEntee, Azzinaro,
+Kennedy, Fogarty, McGaw, and Edwards
+Date Introduced: February 26, 2025
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-18-7.3 and 44-18-36.1 of the General Laws in Chapter 44-18
+2 entitled "Sales and Use Taxes — Liability and Computation" are hereby amended to read as
+3 follows:
+4 44-18-7.3. Services defined.
+5 (a) “Services” means all activities engaged in for other persons for a fee, retainer,
+6 commission, or other monetary charge, which activities involve the performance of a service in this
+7 state as distinguished from selling property.
+8 (b) The following businesses and services performed in this state, along with the applicable
+9 2017 North American Industrial Classification System (NAICS) codes, are included in the
+10 definition of services:
+11 (1) Taxicab and limousine services including but not limited to:
+12 (i) Taxicab services including taxi dispatchers (485310); and
+13 (ii) Limousine services (485320).
+14 (2) Other road transportation service including but not limited to:
+15 (i) Charter bus service (485510);
+16 (ii) “Transportation network companies” (TNC) defined as an entity that uses a digital
+17 network to connect transportation network company riders to transportation network operators who
+18 provide prearranged rides. Any TNC operating in this state is a retailer as provided in § 44-18-15
+
+1 and is required to file a business application and registration form and obtain a permit to make sales
+2 at retail with the tax administrator, to charge, collect, and remit Rhode Island sales and use tax; and
+3 (iii) All other transit and ground passenger transportation (485999).
+4 (3) Pet care services (812910) except veterinary and testing laboratories services.
+5 (4)(i) “Room reseller” or “reseller” means any person, except a tour operator as defined in
+6 § 42-63.1-2, having any right, permission, license, or other authority from or through a hotel as
+7 defined in § 42-63.1-2, to reserve, or arrange the transfer of occupancy of, accommodations the
+8 reservation or transfer of which is subject to this chapter, such that the occupant pays all or a portion
+9 of the rental and other fees to the room reseller or reseller. Room reseller or reseller shall include,
+10 but not be limited to, sellers of travel packages as defined in this section and any hosting platform
+11 as defined in § 42-63.1-2 and any marketing organization that reserves or arranges the transfer of
+12 occupancy or accommodations the reservation or transfer of which is subject to this chapter.
+13 Notwithstanding the provisions of any other law, where said reservation or transfer of occupancy
+14 is done using a room reseller or reseller, the application of the sales and use tax under §§ 44-18-18
+15 and 44-18-20, and the hotel tax under § 44-18-36.1 shall be as follows: The room reseller or reseller
+16 is required to register with, and shall collect and pay to, the tax administrator the sales and use and
+17 hotel taxes, with said taxes being calculated upon the amount of rental and other fees paid by the
+18 occupant to the room reseller or reseller, less the amount of any rental and other fees paid by the
+19 room reseller or reseller to the hotel. The hotel shall collect and pay to the tax administrator said
+20 taxes upon the amount of rental and other fees paid to the hotel by the room reseller or reseller
+21 and/or the occupant. No assessment shall be made by the tax administrator against a hotel because
+22 of an incorrect remittance of the taxes under this chapter by a room reseller or reseller. No
+23 assessment shall be made by the tax administrator against a room reseller or reseller because of an
+24 incorrect remittance of the taxes under this chapter by a hotel. If the hotel has paid the taxes imposed
+25 under this chapter, the occupant and/or room reseller or reseller, as applicable, shall reimburse the
+26 hotel for said taxes. If the room reseller or reseller has paid said taxes, the occupant shall reimburse
+27 the room reseller or reseller for said taxes. Each hotel and room reseller or reseller shall add and
+28 collect, from the occupant or the room reseller or the reseller, the full amount of the taxes imposed
+29 on the rental and other fees. When added to the rental and other fees, the taxes shall be a debt owed
+30 by the occupant to the hotel or room reseller or reseller, as applicable, and shall be recoverable at
+31 law in the same manner as other debts. The amount of the taxes collected by the hotel and/or room
+32 reseller or reseller from the occupant under this chapter shall be stated and charged separately from
+33 the rental and other fees, and shall be shown separately on all records thereof, whether made at the
+34 time the transfer of occupancy occurs, or on any evidence of the transfer issued or used by the hotel
+LC001282 - Page 2 of 6
+
+1 or the room reseller or the reseller. A room reseller or reseller shall not be required to disclose to
+2 the occupant the amount of tax charged by the hotel; provided, however, the room reseller or
+3 reseller shall represent to the occupant that the separately stated taxes charged by the room reseller
+4 or reseller include taxes charged by the hotel. No person shall operate a hotel in this state, or act as
+5 a room reseller or reseller for any hotel in the state, unless the tax administrator has issued a permit
+6 pursuant to § 44-19-1.
+7 (ii) “Travel package” means a room, or rooms, bundled with one or more other, separate
+8 components of travel such as air transportation, car rental, or similar items, which travel package
+9 is charged to the customer or occupant for a single, retail price. When the room occupancy is
+10 bundled for a single consideration, with other property, services, amusement charges, or any other
+11 items, the separate sale of which would not otherwise be subject to tax under this chapter, the entire
+12 single consideration shall be treated as the rental or other fees for room occupancy subject to tax
+13 under this chapter; provided, however, that where the amount of the rental, or other fees for room
+14 occupancy is stated separately from the price of such other property, services, amusement charges,
+15 or other items, on any sales slip, invoice, receipt, or other statement given the occupant, and such
+16 rental and other fees are determined by the tax administrator to be reasonable in relation to the
+17 value of such other property, services, amusement charges, or other items, only such separately
+18 stated rental and other fees will be subject to tax under this chapter. The value of the transfer of any
+19 room, or rooms, bundled as part of a travel package may be determined by the tax administrator
+20 from the room reseller’s and/or reseller’s and/or hotel’s books and records that are kept in the
+21 regular course of business.
+22 (5) Investigation, Guard, and Armored Car Services (561611, 561612 & 561613).
+23 (c) All services as defined herein are required to file a business application and registration
+24 form and obtain a permit to make sales at retail with the tax administrator, to charge, collect, and
+25 remit Rhode Island sales and use tax.
+26 (d) The tax administrator is authorized to promulgate rules and regulations in accordance
+27 with the provisions of chapter 35 of title 42 to carry out the provisions, policies, and purposes of
+28 this chapter.
+29 44-18-36.1. Hotel tax. Hotel, house and condominium rental tax.
+30 (a) There is imposed a hotel tax and house and condominium rental tax of five percent (5%)
+31 upon the total consideration charged for occupancy of any space furnished for the rental of a house
+32 or condominium or by any hotel, travel packages, or room reseller or reseller as defined in § 44-
+33 18-7.3(b) in this state. A house, condominium, or other resident dwelling shall be exempt from the
+34 five percent (5%) hotel tax under this subsection if the house, condominium, or other resident
+LC001282 - Page 3 of 6
+
+1 dwelling is rented in its entirety. The hotel tax imposed by the provisions of this section is in
+2 addition to any sales tax imposed. This hotel The tax is imposed by the provisions of this section
+3 shall be administered and collected by the division of taxation and unless provided to the contrary
+4 in this chapter, all the administration, collection, and other provisions of chapters 18 and 19 of this
+5 title apply. Nothing in this chapter shall be construed to limit the powers of the convention authority
+6 of the city of Providence established pursuant to the provisions of chapter 84 of the public laws of
+7 1980, except that distribution of hotel tax receipts for taxes imposed pursuant to the provisions of
+8 this section, shall be made pursuant to chapter 63.1 of title 42 rather than chapter 84 of the public
+9 laws of 1980.
+10 (1) All sums received by the division of taxation from the tax imposed pursuant to the
+11 provisions of this section for the rental of a house or condominium, including penalties, forfeitures,
+12 interest, costs of suit and fines, shall be distributed at least quarterly, credited and paid by the state
+13 treasurer to the city or town where the house or condominium is located.
+14 (2) All sums collected pursuant to subsection (a)(1) of this section shall be used exclusively
+15 for municipal infrastructure improvements, riverine and coastal resiliency and housing.
+16 (b) There is hereby levied and imposed, upon the total consideration charged for occupancy
+17 of any space furnished by any hotel in this state, in addition to all other taxes and fees now imposed
+18 by law, a local hotel tax at a rate of one percent (1%). The local hotel tax shall be administered and
+19 collected in accordance with subsection (a) of this section.
+20 (c) All sums received by the division of taxation from the local hotel tax, penalties or
+21 forfeitures, interest, costs of suit and fines shall be distributed at least quarterly, credited and paid
+22 by the state treasurer to the city or town where the space for occupancy that is furnished by the
+23 hotel is located. Unless provided to the contrary in this chapter, all of the administration, collection,
+24 and other provisions of chapters 18 and 19 of this title shall apply.
+25 (d) Notwithstanding the provisions of subsection (a) of this section, the city of Newport
+26 shall have the authority to collect from hotels located in the city of Newport the tax imposed by
+27 subsection (a) of this section.
+28 (1) Within ten (10) days of collection of the tax, the city of Newport shall distribute the tax
+29 as provided in § 42-63.1-3. No later than the first day of March and the first day of September in
+30 each year in which the tax is collected, the city of Newport shall submit to the division of taxation
+31 a report of the tax collected and distributed during the six (6) month period ending thirty (30) days
+32 prior to the reporting date.
+33 (2) The city of Newport shall have the same authority as the division of taxation to recover
+34 delinquent hotel taxes pursuant to chapter 44-19, and the amount of any hotel tax, penalty and
+LC001282 - Page 4 of 6
+
+1 interest imposed by the city of Newport until collected constitutes a lien on the real property of the
+2 taxpayer.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC001282
+========
+LC001282 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- SALES AND USE TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would include "hosting platform" under the definition of "room-seller" and would
+2 impose a tax of five percent (5%) upon the rental of a house or condominium. The funds from the
+3 tax would be used exclusively for infrastructure improvements, riverine and coastal resiliency and
+4 housing.
+5 This act would take effect upon passage.
+========
+LC001282
+========
+LC001282 - Page 6 of 6
+
+[DELETED: TATE  OF  RHODE  ISLAND B R C C S M A S e — f 4 ( “ m a a e i f o p f a f r c s ( 2 N A I C S ( c a i i t d ( ( ( ( ( ( n p]
+[DELETED:  a a ( ( ( § d r o b a o o a r o w i s t c N i a i h o r t a o a i r o t t u t c b a r r o r N a i u h t c o b l r t t]
+[DELETED:  o t r o a p ( c i b i s u o o r v s r f r ( ( f r ( w t 4 ( u o 1 f]
+[DELETED:  d a s i t o 1 t l ( p i t ( f ( o b c ( f b h a ( s s ( a e a p ( d]
+[DELETED:  i t S]
+[DELETED:  T i t h T]

@@ -1,0 +1,512 @@
+Title: RELATING TO GENERAL ASSEMBLY -- REDISTRICTING COMMISSION
+Official Title: RELATING TO GENERAL ASSEMBLY -- REDISTRICTING COMMISSION
+Number of Sections: 1
+Source: versions - 5521
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5521
+========
+LC000931
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Representative Brian C. Newberry
+Date Introduced: February 13, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 22 of the General Laws entitled "GENERAL ASSEMBLY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 1.1
+4 REDISTRICTING COMMISSION
+5 22-1.1-1. Short title.
+6 This chapter shall be known and may be cited as the "Redistricting Act".
+7 22-1.1-2. Definitions.
+8 As used in this chapter:
+9 (1) "Commission" means the state redistricting commission;
+10 (2) "Community of interest" means a contiguous population that shares common economic,
+11 social or cultural interests;
+12 (3) "District plan" means an entire plan of single-member districts for electing members to
+13 the United States house of representatives, the state house of representatives, or the state senate;
+14 (4) "Length-width compactness" means the absolute value of the difference between the
+15 length and the width of the district, as measured by the distance from the northernmost point or
+16 portion of the boundary of a district to the southernmost point or portion of the boundary of the
+17 same district and the distance from the westernmost point or portion of the boundary of the district
+18 to the easternmost point or portion of the boundary of the same district;
+19 (5) "Lobbyist" means a person who is required to register as a lobbyist pursuant to § 42-
+1 139.1-4;
+2 (6) "Perimeter compactness" means the distance needed to traverse the perimeter boundary
+3 of a district;
+4 (7) "Political party" means a political party as defined by § 17-1-2; and
+5 (8) "Public official" means a person elected to an office of the executive or legislative
+6 branch of the state.
+7 22-1.1-3. State redistricting commission created – membership -- terms.
+8 (a) The "state redistricting commission" is created.
+9 (b) The commission is comprised of seven (7) members, appointed as follows:
+10 (1) One commissioner appointed by the speaker of the house of representatives;
+11 (2) One commissioner appointed by the minority leader of the house of representatives;
+12 (3) One commissioner appointed by the president of the senate;
+13 (4) One commissioner appointed by the minority leader of the senate;
+14 (5) Two (2) commissioners appointed by the state ethics commission, who shall not be
+15 members of the largest or second largest political parties in the state; and
+16 (6) One commissioner appointed by the state ethics commission, who shall be a retired
+17 justice of the Rhode Island supreme court, or a retired judge of the Rhode Island superior court,
+18 and who shall chair the commission.
+19 (c) Commissioners shall be appointed not later than April 1, 2031 and August 1 of each
+20 year ending in the number zero thereafter and shall serve until a district plan for each of Rhode
+21 Island's congressional districts, the house of representatives, and the senate is passed by the
+22 legislature and approved by the governor and any legal challenges to the district plans, including
+23 appeals, if any, have been resolved.
+24 (d) When any member of the commission dies, resigns or no longer has the qualifications
+25 required for the commissioner's original appointment, the commissioner's position on the
+26 commission becomes vacant and the chair shall notify the original appointing authority of the
+27 vacant position. The vacancy shall be filled by appointment by the original appointing authority no
+28 later than fifteen (15) days following notification of the vacancy.
+29 (e) The commission shall meet as necessary to carry out its duties pursuant to this chapter.
+30 (f) Commissioners are entitled to receive per diem and mileage reimbursement and shall
+31 receive no other compensation, perquisite or allowance.
+32 22-1.1-4. Commissioners – qualifications -- limitations.
+33 (a) To qualify for appointment to the commission, a person shall:
+34 (1) Be a qualified elector of Rhode Island; and
+LC000931 - Page 2 of 8
+1 (2) Not be, or in the two (2) years prior to appointment have been, in Rhode Island, any of
+2 the following:
+3 (i) A public official;
+4 (ii) A candidate for public office;
+5 (iii) A lobbyist;
+6 (iv) An office holder in a political party at the state or federal level;
+7 (v) A relative in the first degree of consanguinity of a member of congress, the house of
+8 representatives or the senate; or
+9 (vi) An employee of congress or the state legislature.
+10 (b) Before entering upon the duties of the office of commissioner, a commissioner shall
+11 review this chapter and take the oath of office, as provided in the constitution of Rhode Island.
+12 22-1.1-5. Commission – powers and duties.
+13 (a) Beginning April 1, 2031, and every August 1 of each year ending in the number zero
+14 thereafter, the commission shall:
+15 (1) No later than October 15, 2031, and every September 1 of each year ending in the
+16 number one thereafter, adopt three (3) to five (5) district plans for each of:
+17 (i) Rhode Island's congressional districts;
+18 (ii) The house of representatives; and
+19 (iii) The senate.
+20 (2) Adopt rules to govern the operation of the commission;
+21 (3) Hold no fewer than six (6) public meetings either virtually or in various counties of the
+22 state before issuing the district plans as proposed rules for public comment;
+23 (4) Hold no fewer than six (6) public rule hearings, either virtually or in various counties
+24 of the state, for the purpose of adopting district plans;
+25 (5) Conduct all meetings pursuant to the requirements of chapter 46 of title 42 ("open
+26 meetings");
+27 (6) Contract for legal and technical assistance in the creation of alternative district plans;
+28 and
+29 (7) Compile, index, maintain and provide public access to the commission's record for each
+30 district plan it adopts.
+31 (b) Beginning April 1, 2031, and every August 1 of each year ending in the number zero
+32 thereafter, the commission may:
+33 (1) Develop, adopt and promulgate the rules for public hearings; and
+34 (2) Hire staff and enter into contracts and any interagency agreements as necessary to
+LC000931 - Page 3 of 8
+1 accomplish the duties set forth in this section.
+2 22-1.1-6. Commission meetings before proposing district plans.
+3 (a) Before the commission issues proposed district plans for public comment, the
+4 commission shall hold no fewer than six (6) public meetings at which the commission shall receive
+5 testimony, documents and information regarding the identification of communities of interest and
+6 other testimony, documents and information regarding the creation of district plans. The
+7 commission shall provide the public with notice not later than thirty (30) days before these
+8 meetings, and the notice shall include information about how the public may participate and submit
+9 testimony, documents and information. The commission shall hold meetings either virtually or in
+10 various regions across the state, and in each of the five (5) counties of the state.
+11 (b) The commission shall compile, index, maintain and provide public access to all
+12 testimony, documents and information received in the meetings conducted before issuing proposed
+13 district plans, for public comment.
+14 (c) The proposed district plans, that the commission issues for public comment, shall be
+15 based, in part, on the testimony, documents and information received.
+16 22-1.1-7. District plans –requirements and prohibitions.
+17 (a) When proposing or adopting district plans, the commission shall:
+18 (1) Create district plans composed of single-member districts;
+19 (2) Create district plans composed of contiguous territory; provided that, districts that meet
+20 only at the points of adjoining corners are not contiguous; and
+21 (3) Comply with all applicable federal laws.
+22 (b) When proposing or adopting district plans, the commission may use, rely upon or
+23 reference the most recent federal decennial census data provided by the United States census bureau
+24 as well as other reliable sources of demographic data, as determined by a majority of the
+25 commission.
+26 (c) When proposing or adopting district plans, the commission shall not:
+27 (1) Propose or adopt district plans to favor a political party or incumbent;
+28 (2) Use, rely upon or reference partisan data, such as voting history or party registration
+29 data; provided that, voting history in elections may be considered to ensure that the district plan
+30 complies with applicable federal law;
+31 (3) Create district plans to intentionally dilute the representation of communities of interest;
+32 or
+33 (4) Create district plans to intentionally preserve the cores of existing districts; provided,
+34 however, that district plans may intentionally preserve the cores of existing districts so long as the
+LC000931 - Page 4 of 8
+1 district plan meets all other requirements provided by this section.
+2 (d) When proposing or adopting district plans for congressional districts, the commission
+3 shall ensure that congressional districts are as equal in population as practicable.
+4 (e) When proposing or adopting district plans for the house of representatives, and the
+5 senate, the commission shall create districts that are as close to equal in population as possible;
+6 provided that, any deviation from equal population across districts shall not exceed plus or minus
+7 five percent (5%) and shall be based on:
+8 (1) Compliance with applicable federal law;
+9 (2) Consideration of tribal government;
+10 (3) The avoidance of diluting the representation of communities of interest;
+11 (4) The avoidance of fragmenting governmental subdivisions; or
+12 (5) The preservation of the core of existing districts; provided that, the district plan meets
+13 all other requirements provided by this section.
+14 (f) When a district plan satisfies all of the requirements provided by this section, the
+15 commission shall adopt those district plans, that are most compact, as determined by a measure of
+16 length-width compactness or perimeter compactness. The absolute compactness values computed
+17 for individual districts may be cumulated for all districts in a plan to compare the overall
+18 compactness of two (2) or more alternative redistricting plans for the state or for a portion of the
+19 state. The total perimeter distance computed for individual districts may be cumulated for all
+20 districts in a plan to compare the overall compactness of two (2) or more alternative redistricting
+21 plans for the state or for a portion of the state.
+22 (g) Based on length-width compactness, a district shall be most compact when the length
+23 of the district and the width of the district are equal.
+24 22-1.1-8. Commission adoption of district plans.
+25 The commission shall adopt three (3) to five (5) district plans for each of Rhode Island's
+26 congressional districts, the house of representatives, or the senate at an open meeting. After the
+27 commission adopts the district plans, the commission shall:
+28 (1) Provide written evaluations of each district plan that address the satisfaction of the
+29 requirements set forth in this chapter, the ability of racial and language minorities to elect
+30 candidates of their choice, a measure of partisan fairness and the preservation of communities of
+31 interest; and
+32 (2) Indicate which district plan for each of Rhode Island's congressional districts, the house
+33 of representatives and the senate, best satisfies the requirements of § 22-1.1-7. The commission
+34 shall explain its indication for each indicated district plan in the written evaluation accompanying
+LC000931 - Page 5 of 8
+1 the indicated district plan.
+2 22-1.1-9. Legislative selection of district plans.
+3 (a) The commission shall deliver its adopted district plans for Rhode Island's congressional
+4 districts, the house of representatives and the senate, all accompanying written evaluations and all
+5 accompanying concise explanatory statements to the secretary of the senate and the clerk of the
+6 house by October 15, 2031, and every September 1 of each year ending in the number one
+7 thereafter.
+8 (b) The legislature may select one district plan from each set of district plans and pass the
+9 selected district plans without amendment and present the plans to the governor for approval.
+10 (c) If the legislature does not select one district plan, from any one set of district plans,
+11 pursuant to subsection (b) of this section, then the legislature shall select, pass without amendment
+12 and present to the governor for approval, the district plan for that set that the commission indicated
+13 best satisfies the requirements of § 22-1.1-7.
+14 22-1.1-10. Judicial review.
+15 (a) A person who submitted data, views, or arguments, orally or in writing, at a public
+16 hearing conducted by the commission may file a notice of appeal in the supreme court asking for a
+17 review of any district plan adopted by the commission. A notice of appeal shall be filed within
+18 thirty (30) days after the commission adopts the district plan being appealed. The notice of appeal
+19 shall name the commission as appellee and shall identify the district plan from which the appeal is
+20 taken. A person who submitted data, views, or arguments, orally or in writing, at a public rule
+21 hearing conducted by the commission and whose rights may be directly affected by the appeal may
+22 appear and become a party, or the supreme court may, upon proper notice, order any person to be
+23 joined as a party.
+24 (b) Upon the filing of a notice of appeal, the appellant shall cause a copy of the notice of
+25 appeal to be served upon the commission in the manner prescribed by the supreme court rules of
+26 appellate procedure. Within thirty (30) days after service of the notice of appeal or such further
+27 time as the supreme court may specify, the commission shall certify to the supreme court the
+28 complete commission rulemaking record; provided that, the parties and the commission may
+29 stipulate that only a specified portion of the commission rulemaking record shall be certified to the
+30 supreme court for review on appeal.
+31 (c) The appeal shall be heard on the commission rulemaking record, and the supreme court
+32 shall not permit the introduction of new evidence addressed to any of the issues presented at the
+33 hearing before the commission.
+34 (d) The burden shall be on the appellant to show that the district plan appealed from,
+LC000931 - Page 6 of 8
+1 violates applicable law, is arbitrary or capricious or is not supported by substantial evidence.
+2 (e) The supreme court shall have no power to modify the district plan appealed from, but
+3 shall either affirm or annul and vacate the same. If the supreme court either affirms or annuls a
+4 district plan, the supreme court may remand the matter to the commission for any further necessary
+5 administrative proceedings. Proceedings in the supreme court shall be governed by the provisions
+6 of this chapter and by the supreme court rules of appellate procedure.
+7 (f) During the pendency of an appeal, the supreme court in its discretion may stay or
+8 suspend adoption by the legislature of any district plan subject to appeal.
+9 (g) The supreme court shall not award fees to the prevailing party unless required by federal
+10 law.
+11 SECTION 2. This act shall take effect upon passage.
+========
+LC000931
+========
+LC000931 - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO GENERAL ASSEMBLY -- REDISTRICTING COMMISSION
+***
+1 This act would create a redistricting commission to act every ten (10) years to adopt a
+2 redistricting plan for all general assembly and congressional districts. It also provides for a possible
+3 right of appeal of the plan, to the state supreme court.
+4 This act would take effect upon passage.
+========
+LC000931
+========
+LC000931 - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 2 T 2 A ( ( s ( t ( l p s t (]
+[DELETED:  1 ( o ( ( b 2 ( ( ( ( ( ( ( m ( j a ( y I c d t h o r a t s i p b t l a ( r f t c o a t c p o t c v l ( ( r 2 ( (]
+[DELETED:  ( t ( ( ( ( ( r ( ( r 2 ( t ( n ( ( ( ( ( s ( o ( m ( a ( d ( t ( (]
+[DELETED:  a 2 ( B t c i p d p f p c t c t o t d a i r t c o d p T c s p t p w n n l t t ( d b t m t v ( T c s c i m a p p a t a t d ( b 2 ( ( ( o ( ( r a w a o r s o d d a d b a m o t c ( ( ( d c ( o ( h]
+[DELETED:  d ( s ( s p f ( ( ( ( ( a ( c l f i d m b c f a d i a p t c t o c s d p ( o 2 T c c ( r s f i t c t a o r a l m t e c i ( o s]
+[DELETED:  t 2 ( d a h b O 1 2 a e S 1 o e y e i t n o t ( s ( p a b 2 ( h r t s t h a j ( a a t c c r r p t t p a t c m s s ( s h (]
+[DELETED:  v ( s d a o ( s ( l S]
+[DELETED:  T r r T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5521
+========
+LC000931
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO GENERAL ASSEMBLY -- REDISTRICTING COMMISSION
+Introduced By: Representative Brian C. Newberry
+Date Introduced: February 13, 2025
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 22 of the General Laws entitled "GENERAL ASSEMBLY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 1.1
+4 REDISTRICTING COMMISSION
+5 22-1.1-1. Short title.
+6 This chapter shall be known and may be cited as the "Redistricting Act".
+7 22-1.1-2. Definitions.
+8 As used in this chapter:
+9 (1) "Commission" means the state redistricting commission;
+10 (2) "Community of interest" means a contiguous population that shares common economic,
+11 social or cultural interests;
+12 (3) "District plan" means an entire plan of single-member districts for electing members to
+13 the United States house of representatives, the state house of representatives, or the state senate;
+14 (4) "Length-width compactness" means the absolute value of the difference between the
+15 length and the width of the district, as measured by the distance from the northernmost point or
+16 portion of the boundary of a district to the southernmost point or portion of the boundary of the
+17 same district and the distance from the westernmost point or portion of the boundary of the district
+18 to the easternmost point or portion of the boundary of the same district;
+19 (5) "Lobbyist" means a person who is required to register as a lobbyist pursuant to § 42-
+
+1 139.1-4;
+2 (6) "Perimeter compactness" means the distance needed to traverse the perimeter boundary
+3 of a district;
+4 (7) "Political party" means a political party as defined by § 17-1-2; and
+5 (8) "Public official" means a person elected to an office of the executive or legislative
+6 branch of the state.
+7 22-1.1-3. State redistricting commission created – membership -- terms.
+8 (a) The "state redistricting commission" is created.
+9 (b) The commission is comprised of seven (7) members, appointed as follows:
+10 (1) One commissioner appointed by the speaker of the house of representatives;
+11 (2) One commissioner appointed by the minority leader of the house of representatives;
+12 (3) One commissioner appointed by the president of the senate;
+13 (4) One commissioner appointed by the minority leader of the senate;
+14 (5) Two (2) commissioners appointed by the state ethics commission, who shall not be
+15 members of the largest or second largest political parties in the state; and
+16 (6) One commissioner appointed by the state ethics commission, who shall be a retired
+17 justice of the Rhode Island supreme court, or a retired judge of the Rhode Island superior court,
+18 and who shall chair the commission.
+19 (c) Commissioners shall be appointed not later than April 1, 2031 and August 1 of each
+20 year ending in the number zero thereafter and shall serve until a district plan for each of Rhode
+21 Island's congressional districts, the house of representatives, and the senate is passed by the
+22 legislature and approved by the governor and any legal challenges to the district plans, including
+23 appeals, if any, have been resolved.
+24 (d) When any member of the commission dies, resigns or no longer has the qualifications
+25 required for the commissioner's original appointment, the commissioner's position on the
+26 commission becomes vacant and the chair shall notify the original appointing authority of the
+27 vacant position. The vacancy shall be filled by appointment by the original appointing authority no
+28 later than fifteen (15) days following notification of the vacancy.
+29 (e) The commission shall meet as necessary to carry out its duties pursuant to this chapter.
+30 (f) Commissioners are entitled to receive per diem and mileage reimbursement and shall
+31 receive no other compensation, perquisite or allowance.
+32 22-1.1-4. Commissioners – qualifications -- limitations.
+33 (a) To qualify for appointment to the commission, a person shall:
+34 (1) Be a qualified elector of Rhode Island; and
+LC000931 - Page 2 of 8
+
+1 (2) Not be, or in the two (2) years prior to appointment have been, in Rhode Island, any of
+2 the following:
+3 (i) A public official;
+4 (ii) A candidate for public office;
+5 (iii) A lobbyist;
+6 (iv) An office holder in a political party at the state or federal level;
+7 (v) A relative in the first degree of consanguinity of a member of congress, the house of
+8 representatives or the senate; or
+9 (vi) An employee of congress or the state legislature.
+10 (b) Before entering upon the duties of the office of commissioner, a commissioner shall
+11 review this chapter and take the oath of office, as provided in the constitution of Rhode Island.
+12 22-1.1-5. Commission – powers and duties.
+13 (a) Beginning April 1, 2031, and every August 1 of each year ending in the number zero
+14 thereafter, the commission shall:
+15 (1) No later than October 15, 2031, and every September 1 of each year ending in the
+16 number one thereafter, adopt three (3) to five (5) district plans for each of:
+17 (i) Rhode Island's congressional districts;
+18 (ii) The house of representatives; and
+19 (iii) The senate.
+20 (2) Adopt rules to govern the operation of the commission;
+21 (3) Hold no fewer than six (6) public meetings either virtually or in various counties of the
+22 state before issuing the district plans as proposed rules for public comment;
+23 (4) Hold no fewer than six (6) public rule hearings, either virtually or in various counties
+24 of the state, for the purpose of adopting district plans;
+25 (5) Conduct all meetings pursuant to the requirements of chapter 46 of title 42 ("open
+26 meetings");
+27 (6) Contract for legal and technical assistance in the creation of alternative district plans;
+28 and
+29 (7) Compile, index, maintain and provide public access to the commission's record for each
+30 district plan it adopts.
+31 (b) Beginning April 1, 2031, and every August 1 of each year ending in the number zero
+32 thereafter, the commission may:
+33 (1) Develop, adopt and promulgate the rules for public hearings; and
+34 (2) Hire staff and enter into contracts and any interagency agreements as necessary to
+LC000931 - Page 3 of 8
+
+1 accomplish the duties set forth in this section.
+2 22-1.1-6. Commission meetings before proposing district plans.
+3 (a) Before the commission issues proposed district plans for public comment, the
+4 commission shall hold no fewer than six (6) public meetings at which the commission shall receive
+5 testimony, documents and information regarding the identification of communities of interest and
+6 other testimony, documents and information regarding the creation of district plans. The
+7 commission shall provide the public with notice not later than thirty (30) days before these
+8 meetings, and the notice shall include information about how the public may participate and submit
+9 testimony, documents and information. The commission shall hold meetings either virtually or in
+10 various regions across the state, and in each of the five (5) counties of the state.
+11 (b) The commission shall compile, index, maintain and provide public access to all
+12 testimony, documents and information received in the meetings conducted before issuing proposed
+13 district plans, for public comment.
+14 (c) The proposed district plans, that the commission issues for public comment, shall be
+15 based, in part, on the testimony, documents and information received.
+16 22-1.1-7. District plans –requirements and prohibitions.
+17 (a) When proposing or adopting district plans, the commission shall:
+18 (1) Create district plans composed of single-member districts;
+19 (2) Create district plans composed of contiguous territory; provided that, districts that meet
+20 only at the points of adjoining corners are not contiguous; and
+21 (3) Comply with all applicable federal laws.
+22 (b) When proposing or adopting district plans, the commission may use, rely upon or
+23 reference the most recent federal decennial census data provided by the United States census bureau
+24 as well as other reliable sources of demographic data, as determined by a majority of the
+25 commission.
+26 (c) When proposing or adopting district plans, the commission shall not:
+27 (1) Propose or adopt district plans to favor a political party or incumbent;
+28 (2) Use, rely upon or reference partisan data, such as voting history or party registration
+29 data; provided that, voting history in elections may be considered to ensure that the district plan
+30 complies with applicable federal law;
+31 (3) Create district plans to intentionally dilute the representation of communities of interest;
+32 or
+33 (4) Create district plans to intentionally preserve the cores of existing districts; provided,
+34 however, that district plans may intentionally preserve the cores of existing districts so long as the
+LC000931 - Page 4 of 8
+
+1 district plan meets all other requirements provided by this section.
+2 (d) When proposing or adopting district plans for congressional districts, the commission
+3 shall ensure that congressional districts are as equal in population as practicable.
+4 (e) When proposing or adopting district plans for the house of representatives, and the
+5 senate, the commission shall create districts that are as close to equal in population as possible;
+6 provided that, any deviation from equal population across districts shall not exceed plus or minus
+7 five percent (5%) and shall be based on:
+8 (1) Compliance with applicable federal law;
+9 (2) Consideration of tribal government;
+10 (3) The avoidance of diluting the representation of communities of interest;
+11 (4) The avoidance of fragmenting governmental subdivisions; or
+12 (5) The preservation of the core of existing districts; provided that, the district plan meets
+13 all other requirements provided by this section.
+14 (f) When a district plan satisfies all of the requirements provided by this section, the
+15 commission shall adopt those district plans, that are most compact, as determined by a measure of
+16 length-width compactness or perimeter compactness. The absolute compactness values computed
+17 for individual districts may be cumulated for all districts in a plan to compare the overall
+18 compactness of two (2) or more alternative redistricting plans for the state or for a portion of the
+19 state. The total perimeter distance computed for individual districts may be cumulated for all
+20 districts in a plan to compare the overall compactness of two (2) or more alternative redistricting
+21 plans for the state or for a portion of the state.
+22 (g) Based on length-width compactness, a district shall be most compact when the length
+23 of the district and the width of the district are equal.
+24 22-1.1-8. Commission adoption of district plans.
+25 The commission shall adopt three (3) to five (5) district plans for each of Rhode Island's
+26 congressional districts, the house of representatives, or the senate at an open meeting. After the
+27 commission adopts the district plans, the commission shall:
+28 (1) Provide written evaluations of each district plan that address the satisfaction of the
+29 requirements set forth in this chapter, the ability of racial and language minorities to elect
+30 candidates of their choice, a measure of partisan fairness and the preservation of communities of
+31 interest; and
+32 (2) Indicate which district plan for each of Rhode Island's congressional districts, the house
+33 of representatives and the senate, best satisfies the requirements of § 22-1.1-7. The commission
+34 shall explain its indication for each indicated district plan in the written evaluation accompanying
+LC000931 - Page 5 of 8
+
+1 the indicated district plan.
+2 22-1.1-9. Legislative selection of district plans.
+3 (a) The commission shall deliver its adopted district plans for Rhode Island's congressional
+4 districts, the house of representatives and the senate, all accompanying written evaluations and all
+5 accompanying concise explanatory statements to the secretary of the senate and the clerk of the
+6 house by October 15, 2031, and every September 1 of each year ending in the number one
+7 thereafter.
+8 (b) The legislature may select one district plan from each set of district plans and pass the
+9 selected district plans without amendment and present the plans to the governor for approval.
+10 (c) If the legislature does not select one district plan, from any one set of district plans,
+11 pursuant to subsection (b) of this section, then the legislature shall select, pass without amendment
+12 and present to the governor for approval, the district plan for that set that the commission indicated
+13 best satisfies the requirements of § 22-1.1-7.
+14 22-1.1-10. Judicial review.
+15 (a) A person who submitted data, views, or arguments, orally or in writing, at a public
+16 hearing conducted by the commission may file a notice of appeal in the supreme court asking for a
+17 review of any district plan adopted by the commission. A notice of appeal shall be filed within
+18 thirty (30) days after the commission adopts the district plan being appealed. The notice of appeal
+19 shall name the commission as appellee and shall identify the district plan from which the appeal is
+20 taken. A person who submitted data, views, or arguments, orally or in writing, at a public rule
+21 hearing conducted by the commission and whose rights may be directly affected by the appeal may
+22 appear and become a party, or the supreme court may, upon proper notice, order any person to be
+23 joined as a party.
+24 (b) Upon the filing of a notice of appeal, the appellant shall cause a copy of the notice of
+25 appeal to be served upon the commission in the manner prescribed by the supreme court rules of
+26 appellate procedure. Within thirty (30) days after service of the notice of appeal or such further
+27 time as the supreme court may specify, the commission shall certify to the supreme court the
+28 complete commission rulemaking record; provided that, the parties and the commission may
+29 stipulate that only a specified portion of the commission rulemaking record shall be certified to the
+30 supreme court for review on appeal.
+31 (c) The appeal shall be heard on the commission rulemaking record, and the supreme court
+32 shall not permit the introduction of new evidence addressed to any of the issues presented at the
+33 hearing before the commission.
+34 (d) The burden shall be on the appellant to show that the district plan appealed from,
+LC000931 - Page 6 of 8
+
+1 violates applicable law, is arbitrary or capricious or is not supported by substantial evidence.
+2 (e) The supreme court shall have no power to modify the district plan appealed from, but
+3 shall either affirm or annul and vacate the same. If the supreme court either affirms or annuls a
+4 district plan, the supreme court may remand the matter to the commission for any further necessary
+5 administrative proceedings. Proceedings in the supreme court shall be governed by the provisions
+6 of this chapter and by the supreme court rules of appellate procedure.
+7 (f) During the pendency of an appeal, the supreme court in its discretion may stay or
+8 suspend adoption by the legislature of any district plan subject to appeal.
+9 (g) The supreme court shall not award fees to the prevailing party unless required by federal
+10 law.
+11 SECTION 2. This act shall take effect upon passage.
+========
+LC000931
+========
+LC000931 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO GENERAL ASSEMBLY -- REDISTRICTING COMMISSION
+***
+1 This act would create a redistricting commission to act every ten (10) years to adopt a
+2 redistricting plan for all general assembly and congressional districts. It also provides for a possible
+3 right of appeal of the plan, to the state supreme court.
+4 This act would take effect upon passage.
+========
+LC000931
+========
+LC000931 - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND S a C R 2 T 2 A ( ( s ( t ( l p s t (]
+[DELETED:  1 ( o ( ( b 2 ( ( ( ( ( ( ( m ( j a ( y I c d t h o r a t s i p b t l a ( r f t c o a t c p o t c v l ( ( r 2 ( (]
+[DELETED:  ( t ( ( ( ( ( r ( ( r 2 ( t ( n ( ( ( ( ( s ( o ( m ( a ( d ( t ( (]
+[DELETED:  a 2 ( B t c i p d p f p c t c t o t d a i r t c o d p T c s p t p w n n l t t ( d b t m t v ( T c s c i m a p p a t a t d ( b 2 ( ( ( o ( ( r a w a o r s o d d a d b a m o t c ( ( ( d c ( o ( h]
+[DELETED:  d ( s ( s p f ( ( ( ( ( a ( c l f i d m b c f a d i a p t c t o c s d p ( o 2 T c c ( r s f i t c t a o r a l m t e c i ( o s]
+[DELETED:  t 2 ( d a h b O 1 2 a e S 1 o e y e i t n o t ( s ( p a b 2 ( h r t s t h a j ( a a t c c r r p t t p a t c m s s ( s h (]
+[DELETED:  v ( s d a o ( s ( l S]
+[DELETED:  T r r T]

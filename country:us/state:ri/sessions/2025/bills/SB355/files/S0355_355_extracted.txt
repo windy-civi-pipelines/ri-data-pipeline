@@ -1,0 +1,196 @@
+Title: RELATING TO CRIMINAL OFFENSES -- ELECTRONIC IMAGING DEVICES
+Official Title: RELATING TO CRIMINAL OFFENSES -- ELECTRONIC IMAGING DEVICES
+Number of Sections: 1
+Source: versions - 355
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0355
+========
+LC001186
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Dimitri, Vargas, Appollonio, Tikoian, and Bissaillon
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 11-64-3 of the General Laws in Chapter 11-64 entitled "Electronic
+2 Imaging Devices" is hereby amended to read as follows:
+3 11-64-3. Unauthorized dissemination of indecent material.
+4 (a) A person is guilty of unauthorized dissemination of a sexually explicit visual image of
+5 another person when the person intentionally, by any means, disseminates, publishes, or sells:
+6 (1) A visual image that depicts another identifiable person eighteen (18) years or older
+7 engaged in sexually explicit conduct or of the intimate areas of that person including any image
+8 created by a digital device or altered by digitization;
+9 (2) The visual image was made, captured, recorded, or obtained under circumstances in
+10 which a reasonable person would know or understand that the image was to remain private or
+11 created without the consent of the person;
+12 (3) The visual image was disseminated, published, or sold without the consent of the
+13 depicted person; and
+14 (4) With knowledge or with reckless disregard for the likelihood that the depicted person
+15 will suffer harm, or with the intent to harass, intimidate, threaten, or coerce the depicted person.
+16 (b) Subsection (a) shall not apply to:
+17 (1) A visual image that involves voluntary exposure of intimate areas or of sexually explicit
+18 conduct in a public or commercial setting, or in a place where a person does not have a reasonable
+19 expectation of privacy;
+1 (2) Dissemination made in the public interest, scientific activities, or educational activities;
+2 (3) Dissemination made in the course of a lawful public proceeding;
+3 (4) Dissemination made for purposes of law enforcement, criminal reporting, corrections,
+4 legal proceedings, the reporting of unlawful conduct, or for medical treatment; or
+5 (5) Dissemination of an image that constitutes a matter of public concern, such as a matter
+6 related to a newsworthy event or related to a public figure.
+7 (c) For the purposes of this section, “intimate areas” means the naked genitals, pubic area,
+8 buttocks, or any portion of the female breast below the top of the areola of a person that the person
+9 intended to protect from public view.
+10 (d) A first violation of this section shall be a misdemeanor and, upon conviction, subject to
+11 imprisonment of not more than one year, a fine of not more than one thousand dollars ($1,000), or
+12 both. A second or subsequent violation of this section shall be a felony and, upon conviction,
+13 subject to imprisonment for not more than three (3) years, a fine of not more than three thousand
+14 dollars ($3,000), or both.
+15 (e) Any person who intentionally threatens to disclose any visual image described in
+16 subsection (a) and makes the threat to obtain a benefit in return for not making the disclosure or in
+17 connection with the threatened disclosure, shall be guilty of a felony and, upon conviction, be
+18 subject to imprisonment for up to five (5) years, a fine of up to five thousand dollars ($5,000), or
+19 both.
+20 (f) Any person who demands payment of money, property, services, or anything else of
+21 value from a person in exchange for removing any visual image described in subsection (a) from
+22 public view shall be guilty of a felony and, upon conviction, be subject to imprisonment for up to
+23 five (5) years, a fine of up to five thousand dollars ($5,000), or both.
+24 (g) Those in violation of this section shall not be subject to sex offender registration
+25 requirements as set forth in chapter 37.1 of title 11 entitled “Sexual Offender Registration and
+26 Community Notification Act.”
+27 (h) A violation of this section is committed within this state if any conduct that is an
+28 element of the offense, or any harm to the depicted person resulting from the offense, occurs in this
+29 state.
+30 (i) Nothing in this section shall be construed to impose liability on an interactive computer
+31 service, as defined in 47 U.S.C. § 230(f)(2), an information service, as defined in 47 U.S.C. § 153,
+32 or a telecommunications service, as defined in § 44-18-7.1, for content provided by another person.
+LC001186 - Page 2 of 4
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001186
+========
+LC001186 - Page 3 of 4
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- ELECTRONIC IMAGING DEVICES
+***
+1 This act would criminalize the unauthorized dissemination of sexually explicit images of
+2 another person that are created by digital devices or created without the consent of the person
+3 depicted.
+4 This act would take effect upon passage.
+========
+LC001186
+========
+LC001186 - Page 4 of 4
+[DELETED: TATE  OF  RHODE  ISLAND S I 1 ( a ( e c ( w c ( d ( w ( ( c e]
+[DELETED:  ( ( ( l ( r ( b i ( i b s d ( A p w t d a v d s c s b ( v p f ( r C ( e s ( s o ]
+[DELETED:  S]
+[DELETED:  T a d T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0355
+========
+LC001186
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- ELECTRONIC IMAGING DEVICES
+Introduced By: Senators Dimitri, Vargas, Appollonio, Tikoian, and Bissaillon
+Date Introduced: February 21, 2025
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 11-64-3 of the General Laws in Chapter 11-64 entitled "Electronic
+2 Imaging Devices" is hereby amended to read as follows:
+3 11-64-3. Unauthorized dissemination of indecent material.
+4 (a) A person is guilty of unauthorized dissemination of a sexually explicit visual image of
+5 another person when the person intentionally, by any means, disseminates, publishes, or sells:
+6 (1) A visual image that depicts another identifiable person eighteen (18) years or older
+7 engaged in sexually explicit conduct or of the intimate areas of that person including any image
+8 created by a digital device or altered by digitization;
+9 (2) The visual image was made, captured, recorded, or obtained under circumstances in
+10 which a reasonable person would know or understand that the image was to remain private or
+11 created without the consent of the person;
+12 (3) The visual image was disseminated, published, or sold without the consent of the
+13 depicted person; and
+14 (4) With knowledge or with reckless disregard for the likelihood that the depicted person
+15 will suffer harm, or with the intent to harass, intimidate, threaten, or coerce the depicted person.
+16 (b) Subsection (a) shall not apply to:
+17 (1) A visual image that involves voluntary exposure of intimate areas or of sexually explicit
+18 conduct in a public or commercial setting, or in a place where a person does not have a reasonable
+19 expectation of privacy;
+
+1 (2) Dissemination made in the public interest, scientific activities, or educational activities;
+2 (3) Dissemination made in the course of a lawful public proceeding;
+3 (4) Dissemination made for purposes of law enforcement, criminal reporting, corrections,
+4 legal proceedings, the reporting of unlawful conduct, or for medical treatment; or
+5 (5) Dissemination of an image that constitutes a matter of public concern, such as a matter
+6 related to a newsworthy event or related to a public figure.
+7 (c) For the purposes of this section, “intimate areas” means the naked genitals, pubic area,
+8 buttocks, or any portion of the female breast below the top of the areola of a person that the person
+9 intended to protect from public view.
+10 (d) A first violation of this section shall be a misdemeanor and, upon conviction, subject to
+11 imprisonment of not more than one year, a fine of not more than one thousand dollars ($1,000), or
+12 both. A second or subsequent violation of this section shall be a felony and, upon conviction,
+13 subject to imprisonment for not more than three (3) years, a fine of not more than three thousand
+14 dollars ($3,000), or both.
+15 (e) Any person who intentionally threatens to disclose any visual image described in
+16 subsection (a) and makes the threat to obtain a benefit in return for not making the disclosure or in
+17 connection with the threatened disclosure, shall be guilty of a felony and, upon conviction, be
+18 subject to imprisonment for up to five (5) years, a fine of up to five thousand dollars ($5,000), or
+19 both.
+20 (f) Any person who demands payment of money, property, services, or anything else of
+21 value from a person in exchange for removing any visual image described in subsection (a) from
+22 public view shall be guilty of a felony and, upon conviction, be subject to imprisonment for up to
+23 five (5) years, a fine of up to five thousand dollars ($5,000), or both.
+24 (g) Those in violation of this section shall not be subject to sex offender registration
+25 requirements as set forth in chapter 37.1 of title 11 entitled “Sexual Offender Registration and
+26 Community Notification Act.”
+27 (h) A violation of this section is committed within this state if any conduct that is an
+28 element of the offense, or any harm to the depicted person resulting from the offense, occurs in this
+29 state.
+30 (i) Nothing in this section shall be construed to impose liability on an interactive computer
+31 service, as defined in 47 U.S.C. § 230(f)(2), an information service, as defined in 47 U.S.C. § 153,
+32 or a telecommunications service, as defined in § 44-18-7.1, for content provided by another person.
+LC001186 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC001186
+========
+LC001186 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- ELECTRONIC IMAGING DEVICES
+***
+1 This act would criminalize the unauthorized dissemination of sexually explicit images of
+2 another person that are created by digital devices or created without the consent of the person
+3 depicted.
+4 This act would take effect upon passage.
+========
+LC001186
+========
+LC001186 - Page 4 of 4
+
+[DELETED: TATE  OF  RHODE  ISLAND S I 1 ( a ( e c ( w c ( d ( w ( ( c e]
+[DELETED:  ( ( ( l ( r ( b i ( i b s d ( A p w t d a v d s c s b ( v p f ( r C ( e s ( s o ]
+[DELETED:  S]
+[DELETED:  T a d T]

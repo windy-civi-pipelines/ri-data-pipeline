@@ -1,0 +1,317 @@
+Title: 1 SECTION 1. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+Official Title: 1 SECTION 1. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+Number of Sections: 1
+Source: versions - 5315
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 -- H 5315
+========
+LC000956
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- GENERAL PROVISIONS
+Introduced By: Representative Alex S. Finkelman
+Date Introduced: February 05, 2025
+Referred To: House Finance
+(Board of Elections)
+It is enacted by the General Assembly as follows:
+2 Provisions" is hereby amended to read as follows:
+3 17-1-2. Definitions.
+4 For the purposes this title, except as may otherwise be required by the context:
+5 (1) “Election” means the filling of any public office or the determination of any public
+6 question by vote of the electorate, and includes without limitation any state, town, or city office or
+7 question, and any political party primary election for the nomination of any candidate for public
+8 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+9 fire, water, or sewer district;
+10 (2) "Election official" means any person employed in the administration or conduct of
+11 elections by the state board, board of canvassers or any poll worker, or within the elections division
+12 of the secretary of state. In determining the number of days served by a retired election official the
+13 total number of days served in any year in which a general election is held, as defined in this section,
+14 may be combined for any one year in which a general election is held;
+15 (2)(3) “General election” means an election held on the first Tuesday next after the first
+16 Monday in November in even numbered years for the election of members of the general assembly
+17 and/or for the election of general officers, and/or for the election of presidential electors for
+18 president/vice-president of the United States;
+19 (3)(4) “General officer” means an officer designated as a general officer by chapter 2 of
+1 this title;
+2 (4)(5) “Independent candidate” means a candidate who has no affiliation with any political
+3 party;
+4 (5)(6) “Local board” means a town or city board of canvassers, board of canvassers and
+5 registration, canvassing authority, or any other local board, commission, or officer empowered by
+6 law to have custody of the permanent registration records;
+7 (6)(7) “Local election” means any election limited to the electorate of any city or town, or
+8 any part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting
+9 at which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+10 town, but it shall not include a financial town meeting;
+11 (7)(8) “Party member” means any person who is a member of a designated political party
+12 pursuant to § 17-9.1-23;
+13 (8)(9) “Party voter” means any qualified voter who is eligible to vote at the primary election
+14 of a political party;
+15 (9)(10) “Political party” or “party” means: (i) any political organization which, at the next
+16 preceding general election for the election of general officers, nominated a candidate for governor,
+17 and whose candidate for governor at the election polled at least five percent (5%) of the entire vote
+18 cast in the state for governor, or (ii) any political organization which at the next preceding general
+19 election for the election of a president of the United States nominated a candidate for president and
+20 whose candidate for president at the election polled at least five percent (5%) of the entire vote cast
+21 in the state for president, or (iii) any political organization which, on petition forms provided to the
+22 chairperson of the organization by the state board of elections, obtains the signatures and addresses
+23 of that number of registered qualified voters equal to five percent (5%) of the entire vote cast in the
+24 state for governor or president in the immediately preceding general election. All the signatures
+25 must be obtained no earlier than January 1 of the year in which the political organization desires to
+26 place a candidate or candidates on any ballot as a “party” candidate. If the political organization
+27 wishes to select its nominees in a primary election, the petitions, bearing the requisite number of
+28 valid signatures, shall be presented to the appropriate local boards of canvassers no later than June
+29 1 of the same year. If the petitions are validated by the local boards as containing the requisite
+30 number of valid signatures, the political organization shall be deemed to be a political party for all
+31 elections held during the year and may select its nominees in a primary election. If the political
+32 organization does not wish to select its nominees in a primary election, then the petitions need not
+33 be returned to local boards of canvassers until August 1 of the same year. An organization
+34 qualifying as a political party through the petition process shall qualify as a political party only
+LC000956 - Page 2 of 5
+1 during the year in which signatures are obtained unless the candidates for governor or president of
+2 the United States of the party at a general election held in the year, shall receive five percent (5%)
+3 of the vote as provided in this subdivision for either governor or president of the United States. If
+4 the candidates do not receive five percent (5%) of the vote, the organization shall no longer qualify
+5 as a political party unless and until it shall, in a subsequent year, once again qualify by the
+6 submission of petitions;
+7 (10)(11) “Polling place” means the room in which any election or elective meeting is
+8 conducted;
+9 (11)(12) “Primary election” means any election to select the candidates of a political party;
+10 (12)(13) “Proposition” or “public question” means any question put to a referendum of the
+11 electorate of the entire state or any part of it;
+12 (13)(14) “Qualified voter” means any person who is eligible to vote under the requirements
+13 of age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+14 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+15 as a voter pursuant to law;
+16 (14)(15) “Special election” means any election other than a local election or primary
+17 election which is not held on a general election day;
+18 (15)(16) “State board” means the state board of elections constituted pursuant to this title;
+19 (16)(17) “State election” means any election at which any presidential electors, senator or
+20 representatives in congress, general officers of the state, or members of the general assembly are to
+21 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+22 electors of the state;
+23 (17)(18) “State officer” means the governor, lieutenant governor, secretary of state,
+24 attorney general, general treasurer, state senator, and state representative;
+25 (18)(19) “Vacancy in office” means the condition resulting from any failure to elect or
+26 appoint an eligible and qualified person to public office, or the failure of any person duly elected
+27 or appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+28 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+29 resignation, or removal;
+30 (19)(20) “Voting list” means the complete list of all voters prepared from the information
+31 contained in the original permanent registration records in the possession of the local board of
+32 canvassers;
+33 (20)(21) “Warden” includes “moderator” and vice versa;
+34 (21)(22)Words importing the masculine gender shall include the feminine gender.
+LC000956 - Page 3 of 5
+1 SECTION 2. Chapter 17-7 of the General Laws entitled "State Board of Elections" is
+2 hereby amended by adding thereto the following section:
+3 17-7-6.1. Temporary service of election officials after retirement.
+4 (a) Any election official as defined pursuant to § 17-1-2, who has retired under the
+5 provisions of any law of this state, may be temporarily employed at the state board for a period of
+6 no more than ninety (90) days in any calendar year in which a general election is held for a statewide
+7 office, or congressional district, or question, or any year in which a special election, as defined in
+8 § 17-1-2, is held for a statewide office, or congressional district, or question, without any forfeiture
+9 of, or reduction in, the retirement benefits and allowances the election official is receiving, or may
+10 receive, as a retired election official. Notice of the employment shall be sent monthly to the state
+11 retirement board by the state board employing the election official and by the retired election
+12 official at the end of each temporary employment period.
+13 (b) Any retired election official may be temporarily employed pursuant to subsection (a)
+14 of this section, but in no event shall employment exceed ninety (90) days.
+15 (c) The calculation of the ninety-day (90) period in any one year shall be determined by
+16 either of the following methods:
+17 (1) Seven (7) hours shall constitute a full day and the number of full days shall be limited
+18 to ninety (90) days, which shall be the equivalent of ninety (90) full days; or
+19 (2) Three and a half (3.5) hours shall constitute a half day and the number of half days shall
+20 be limited to one hundred eighty (180) half days, which shall be the equivalent of ninety (90) full
+21 days.
+22 SECTION 3. This act shall take effect upon passage.
+========
+LC000956
+========
+LC000956 - Page 4 of 5
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- GENERAL PROVISIONS
+***
+1 This act would allow retired election officials to work for the state board of elections on a
+2 temporary basis in any year in which a statewide, congressional or referendum general election is
+3 held.
+4 This act would take effect upon passage.
+========
+LC000956
+========
+LC000956 - Page 5 of 5
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " P 1 F ( q q o f ( e o t m ( M a f t e o g o a f t e o p e f p (]
+[DELETED:  t ( p ( r l ( a a t ( p ( o ( p a c e w i c o s m p w v 1 n e o b r t l b o c u A 1 o t s y A o q]
+[DELETED:  d t o t a a p p u a u s i s y o a q b t s ( c ( ( e ( o v a ( “ e m a e o t o e ( ( r b e ( “ o m t g l g s o s a ( a o e r ( c c ( (]
+[DELETED:  S h 1 ( A e o a d p t § 1 w h r u t p n o § o r r o ( o ( e ( t ( b d S]
+[DELETED:  T t h T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- H 5315
+========
+LC000956
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO ELECTIONS -- GENERAL PROVISIONS
+Introduced By: Representative Alex S. Finkelman
+Date Introduced: February 05, 2025
+Referred To: House Finance
+(Board of Elections)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-1-2 of the General Laws in Chapter 17-1 entitled "General
+2 Provisions" is hereby amended to read as follows:
+3 17-1-2. Definitions.
+4 For the purposes this title, except as may otherwise be required by the context:
+5 (1) “Election” means the filling of any public office or the determination of any public
+6 question by vote of the electorate, and includes without limitation any state, town, or city office or
+7 question, and any political party primary election for the nomination of any candidate for public
+8 office; except that it shall not include a financial town meeting or a meeting to elect officers of a
+9 fire, water, or sewer district;
+10 (2) "Election official" means any person employed in the administration or conduct of
+11 elections by the state board, board of canvassers or any poll worker, or within the elections division
+12 of the secretary of state. In determining the number of days served by a retired election official the
+13 total number of days served in any year in which a general election is held, as defined in this section,
+14 may be combined for any one year in which a general election is held;
+15 (2)(3) “General election” means an election held on the first Tuesday next after the first
+16 Monday in November in even numbered years for the election of members of the general assembly
+17 and/or for the election of general officers, and/or for the election of presidential electors for
+18 president/vice-president of the United States;
+19 (3)(4) “General officer” means an officer designated as a general officer by chapter 2 of
+
+1 this title;
+2 (4)(5) “Independent candidate” means a candidate who has no affiliation with any political
+3 party;
+4 (5)(6) “Local board” means a town or city board of canvassers, board of canvassers and
+5 registration, canvassing authority, or any other local board, commission, or officer empowered by
+6 law to have custody of the permanent registration records;
+7 (6)(7) “Local election” means any election limited to the electorate of any city or town, or
+8 any part, at which any city, town, ward, or district officers are to be chosen, or any elective meeting
+9 at which a question is to be submitted to the voters of a city, town, or any subdivision of a city or
+10 town, but it shall not include a financial town meeting;
+11 (7)(8) “Party member” means any person who is a member of a designated political party
+12 pursuant to § 17-9.1-23;
+13 (8)(9) “Party voter” means any qualified voter who is eligible to vote at the primary election
+14 of a political party;
+15 (9)(10) “Political party” or “party” means: (i) any political organization which, at the next
+16 preceding general election for the election of general officers, nominated a candidate for governor,
+17 and whose candidate for governor at the election polled at least five percent (5%) of the entire vote
+18 cast in the state for governor, or (ii) any political organization which at the next preceding general
+19 election for the election of a president of the United States nominated a candidate for president and
+20 whose candidate for president at the election polled at least five percent (5%) of the entire vote cast
+21 in the state for president, or (iii) any political organization which, on petition forms provided to the
+22 chairperson of the organization by the state board of elections, obtains the signatures and addresses
+23 of that number of registered qualified voters equal to five percent (5%) of the entire vote cast in the
+24 state for governor or president in the immediately preceding general election. All the signatures
+25 must be obtained no earlier than January 1 of the year in which the political organization desires to
+26 place a candidate or candidates on any ballot as a “party” candidate. If the political organization
+27 wishes to select its nominees in a primary election, the petitions, bearing the requisite number of
+28 valid signatures, shall be presented to the appropriate local boards of canvassers no later than June
+29 1 of the same year. If the petitions are validated by the local boards as containing the requisite
+30 number of valid signatures, the political organization shall be deemed to be a political party for all
+31 elections held during the year and may select its nominees in a primary election. If the political
+32 organization does not wish to select its nominees in a primary election, then the petitions need not
+33 be returned to local boards of canvassers until August 1 of the same year. An organization
+34 qualifying as a political party through the petition process shall qualify as a political party only
+LC000956 - Page 2 of 5
+
+1 during the year in which signatures are obtained unless the candidates for governor or president of
+2 the United States of the party at a general election held in the year, shall receive five percent (5%)
+3 of the vote as provided in this subdivision for either governor or president of the United States. If
+4 the candidates do not receive five percent (5%) of the vote, the organization shall no longer qualify
+5 as a political party unless and until it shall, in a subsequent year, once again qualify by the
+6 submission of petitions;
+7 (10)(11) “Polling place” means the room in which any election or elective meeting is
+8 conducted;
+9 (11)(12) “Primary election” means any election to select the candidates of a political party;
+10 (12)(13) “Proposition” or “public question” means any question put to a referendum of the
+11 electorate of the entire state or any part of it;
+12 (13)(14) “Qualified voter” means any person who is eligible to vote under the requirements
+13 of age, residence, and citizenship prescribed by the state constitution and who is duly registered to
+14 vote, or who is exempt from registration, pursuant to this title, and who is not otherwise disqualified
+15 as a voter pursuant to law;
+16 (14)(15) “Special election” means any election other than a local election or primary
+17 election which is not held on a general election day;
+18 (15)(16) “State board” means the state board of elections constituted pursuant to this title;
+19 (16)(17) “State election” means any election at which any presidential electors, senator or
+20 representatives in congress, general officers of the state, or members of the general assembly are to
+21 be chosen, or at which a public question or an amendment to the Constitution is submitted to the
+22 electors of the state;
+23 (17)(18) “State officer” means the governor, lieutenant governor, secretary of state,
+24 attorney general, general treasurer, state senator, and state representative;
+25 (18)(19) “Vacancy in office” means the condition resulting from any failure to elect or
+26 appoint an eligible and qualified person to public office, or the failure of any person duly elected
+27 or appointed to qualify, or from the death, resignation, or removal of an incumbent prior to the
+28 expiration of his or her term of office and where no fixed term is prescribed upon the death,
+29 resignation, or removal;
+30 (19)(20) “Voting list” means the complete list of all voters prepared from the information
+31 contained in the original permanent registration records in the possession of the local board of
+32 canvassers;
+33 (20)(21) “Warden” includes “moderator” and vice versa;
+34 (21)(22)Words importing the masculine gender shall include the feminine gender.
+LC000956 - Page 3 of 5
+
+1 SECTION 2. Chapter 17-7 of the General Laws entitled "State Board of Elections" is
+2 hereby amended by adding thereto the following section:
+3 17-7-6.1. Temporary service of election officials after retirement.
+4 (a) Any election official as defined pursuant to § 17-1-2, who has retired under the
+5 provisions of any law of this state, may be temporarily employed at the state board for a period of
+6 no more than ninety (90) days in any calendar year in which a general election is held for a statewide
+7 office, or congressional district, or question, or any year in which a special election, as defined in
+8 § 17-1-2, is held for a statewide office, or congressional district, or question, without any forfeiture
+9 of, or reduction in, the retirement benefits and allowances the election official is receiving, or may
+10 receive, as a retired election official. Notice of the employment shall be sent monthly to the state
+11 retirement board by the state board employing the election official and by the retired election
+12 official at the end of each temporary employment period.
+13 (b) Any retired election official may be temporarily employed pursuant to subsection (a)
+14 of this section, but in no event shall employment exceed ninety (90) days.
+15 (c) The calculation of the ninety-day (90) period in any one year shall be determined by
+16 either of the following methods:
+17 (1) Seven (7) hours shall constitute a full day and the number of full days shall be limited
+18 to ninety (90) days, which shall be the equivalent of ninety (90) full days; or
+19 (2) Three and a half (3.5) hours shall constitute a half day and the number of half days shall
+20 be limited to one hundred eighty (180) half days, which shall be the equivalent of ninety (90) full
+21 days.
+22 SECTION 3. This act shall take effect upon passage.
+========
+LC000956
+========
+LC000956 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- GENERAL PROVISIONS
+***
+1 This act would allow retired election officials to work for the state board of elections on a
+2 temporary basis in any year in which a statewide, congressional or referendum general election is
+3 held.
+4 This act would take effect upon passage.
+========
+LC000956
+========
+LC000956 - Page 5 of 5
+
+[DELETED: TATE  OF  RHODE  ISLAND S 1 S 1 o t G L i C 1 e " P 1 F ( q q o f ( e o t m ( M a f t e o g o a f t e o p e f p (]
+[DELETED:  t ( p ( r l ( a a t ( p ( o ( p a c e w i c o s m p w v 1 n e o b r t l b o c u A 1 o t s y A o q]
+[DELETED:  d t o t a a p p u a u s i s y o a q b t s ( c ( ( e ( o v a ( “ e m a e o t o e ( ( r b e ( “ o m t g l g s o s a ( a o e r ( c c ( (]
+[DELETED:  S h 1 ( A e o a d p t § 1 w h r u t p n o § o r r o ( o ( e ( t ( b d S]
+[DELETED:  T t h T]

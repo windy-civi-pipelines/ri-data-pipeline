@@ -1,0 +1,609 @@
+Title: Introduced By: Senators Felag, Tikoian, Patalano, Burke, Ciccone, Raptakis, DiPalma,
+Official Title: Introduced By: Senators Felag, Tikoian, Patalano, Burke, Ciccone, Raptakis, DiPalma,
+Number of Sections: 1
+Source: versions - 776
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0776
+========
+LC002444
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+Murray, LaMountain, and Sosnowski
+Date Introduced: March 14, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-30-12 of the General Laws in Chapter 44-30 entitled "Personal
+2 Income Tax" is hereby amended to read as follows:
+3 44-30-12. Rhode Island income of a resident individual. [Effective January 1, 2025.]
+4 (a) General. The Rhode Island income of a resident individual means the individual’s
+5 adjusted gross income for federal income tax purposes, with the modifications specified in this
+6 section.
+7 (b) Modifications increasing federal adjusted gross income. There shall be added to
+8 federal adjusted gross income:
+9 (1) Interest income on obligations of any state, or its political subdivisions, other than
+10 Rhode Island or its political subdivisions;
+11 (2) Interest or dividend income on obligations or securities of any authority, commission,
+12 or instrumentality of the United States, but not of Rhode Island or its political subdivisions, to the
+13 extent exempted by the laws of the United States from federal income tax but not from state income
+14 taxes;
+15 (3) The modification described in § 44-30-25(g);
+16 (4)(i) The amount defined below of a nonqualified withdrawal made from an account in
+17 the tuition savings program pursuant to § 16-57-6.1. For purposes of this section, a nonqualified
+18 withdrawal is:
+19 (A) A transfer or rollover to a qualified tuition program under Section 529 of the Internal
+1 Revenue Code, 26 U.S.C. § 529, other than to the tuition savings program referred to in § 16-57-
+2 6.1; and
+3 (B) A withdrawal or distribution that is:
+4 (I) Not applied on a timely basis to pay “qualified higher education expenses” as defined
+5 in § 16-57-3(12) of the beneficiary of the account from which the withdrawal is made;
+6 (II) Not made for a reason referred to in § 16-57-6.1(e); or
+7 (III) Not made in other circumstances for which an exclusion from tax made applicable by
+8 Section 529 of the Internal Revenue Code, 26 U.S.C. § 529, pertains if the transfer, rollover,
+9 withdrawal, or distribution is made within two (2) taxable years following the taxable year for
+10 which a contributions modification pursuant to subsection (c)(4) of this section is taken based on
+11 contributions to any tuition savings program account by the person who is the participant of the
+12 account at the time of the contribution, whether or not the person is the participant of the account
+13 at the time of the transfer, rollover, withdrawal, or distribution;
+14 (ii) In the event of a nonqualified withdrawal under subsection (b)(4)(i)(A) or (b)(4)(i)(B)
+15 of this section, there shall be added to the federal adjusted gross income of that person for the
+16 taxable year of the withdrawal an amount equal to the lesser of:
+17 (A) The amount equal to the nonqualified withdrawal reduced by the sum of any
+18 administrative fee or penalty imposed under the tuition savings program in connection with the
+19 nonqualified withdrawal plus the earnings portion thereof, if any, includible in computing the
+20 person’s federal adjusted gross income for the taxable year; and
+21 (B) The amount of the person’s contribution modification pursuant to subsection (c)(4) of
+22 this section for the person’s taxable year of the withdrawal and the two (2) prior taxable years less
+23 the amount of any nonqualified withdrawal for the two (2) prior taxable years included in
+24 computing the person’s Rhode Island income by application of this subsection for those years. Any
+25 amount added to federal adjusted gross income pursuant to this subdivision shall constitute Rhode
+26 Island income for residents, nonresidents, and part-year residents;
+27 (5) The modification described in § 44-30-25.1(d)(3)(i);
+28 (6) The amount equal to any unemployment compensation received but not included in
+29 federal adjusted gross income;
+30 (7) The amount equal to the deduction allowed for sales tax paid for a purchase of a
+31 qualified motor vehicle as defined by the Internal Revenue Code § 164(a)(6); and
+32 (8) For any taxable year beginning on or after January 1, 2020, the amount of any Paycheck
+33 Protection Program loan forgiven for federal income tax purposes as authorized by the Coronavirus
+34 Aid, Relief, and Economic Security Act and/or the Consolidated Appropriations Act, 2021 and/or
+LC002444 - Page 2 of 9
+1 any other subsequent federal stimulus relief packages enacted by law, to the extent that the amount
+2 of the loan forgiven exceeds $250,000, including an individual’s distributive share of the amount
+3 of a pass-through entity’s loan forgiveness in excess of $250,000.
+4 (c) Modifications reducing federal adjusted gross income. There shall be subtracted
+5 from federal adjusted gross income:
+6 (1) Any interest income on obligations of the United States and its possessions to the extent
+7 includible in gross income for federal income tax purposes, and any interest or dividend income on
+8 obligations, or securities of any authority, commission, or instrumentality of the United States to
+9 the extent includible in gross income for federal income tax purposes but exempt from state income
+10 taxes under the laws of the United States; provided, that the amount to be subtracted shall in any
+11 case be reduced by any interest on indebtedness incurred or continued to purchase or carry
+12 obligations or securities the income of which is exempt from Rhode Island personal income tax, to
+13 the extent the interest has been deducted in determining federal adjusted gross income or taxable
+14 income;
+15 (2) A modification described in § 44-30-25(f) or § 44-30-1.1(c)(1);
+16 (3) The amount of any withdrawal or distribution from the “tuition savings program”
+17 referred to in § 16-57-6.1 that is included in federal adjusted gross income, other than a withdrawal
+18 or distribution or portion of a withdrawal or distribution that is a nonqualified withdrawal;
+19 (4) Contributions made to an account under the tuition savings program, including the
+20 “contributions carryover” pursuant to subsection (c)(4)(iv) of this section, if any, subject to the
+21 following limitations, restrictions, and qualifications:
+22 (i) The aggregate subtraction pursuant to this subdivision for any taxable year of the
+23 taxpayer shall not exceed five hundred dollars ($500) or one thousand dollars ($1,000) if a joint
+24 return;
+25 (ii) The following shall not be considered contributions:
+26 (A) Contributions made by any person to an account who is not a participant of the account
+27 at the time the contribution is made;
+28 (B) Transfers or rollovers to an account from any other tuition savings program account or
+29 from any other “qualified tuition program” under section 529 of the Internal Revenue Code, 26
+30 U.S.C. § 529; or
+31 (C) A change of the beneficiary of the account;
+32 (iii) The subtraction pursuant to this subdivision shall not reduce the taxpayer’s federal
+33 adjusted gross income to less than zero (0);
+34 (iv) The contributions carryover to a taxable year for purpose of this subdivision is the
+LC002444 - Page 3 of 9
+1 excess, if any, of the total amount of contributions actually made by the taxpayer to the tuition
+2 savings program for all preceding taxable years for which this subsection is effective over the sum
+3 of:
+4 (A) The total of the subtractions under this subdivision allowable to the taxpayer for all
+5 such preceding taxable years; and
+6 (B) That part of any remaining contribution carryover at the end of the taxable year which
+7 exceeds the amount of any nonqualified withdrawals during the year and the prior two (2) taxable
+8 years not included in the addition provided for in this subdivision for those years. Any such part
+9 shall be disregarded in computing the contributions carryover for any subsequent taxable year;
+10 (v) For any taxable year for which a contributions carryover is applicable, the taxpayer
+11 shall include a computation of the carryover with the taxpayer’s Rhode Island personal income tax
+12 return for that year, and if for any taxable year on which the carryover is based the taxpayer filed a
+13 joint Rhode Island personal income tax return but filed a return on a basis other than jointly for a
+14 subsequent taxable year, the computation shall reflect how the carryover is being allocated between
+15 the prior joint filers;
+16 (5) The modification described in § 44-30-25.1(d)(1);
+17 (6) Amounts deemed taxable income to the taxpayer due to payment or provision of
+18 insurance benefits to a dependent, including a domestic partner pursuant to chapter 12 of title 36 or
+19 other coverage plan;
+20 (7) Modification for organ transplantation.
+21 (i) An individual may subtract up to ten thousand dollars ($10,000) from federal adjusted
+22 gross income if the individual, while living, donates one or more of their human organs to another
+23 human being for human organ transplantation, except that for purposes of this subsection, “human
+24 organ” means all or part of a liver, pancreas, kidney, intestine, lung, or bone marrow. A subtract
+25 modification that is claimed hereunder may be claimed in the taxable year in which the human
+26 organ transplantation occurs.
+27 (ii) An individual may claim that subtract modification hereunder only once, and the
+28 subtract modification may be claimed for only the following unreimbursed expenses that are
+29 incurred by the claimant and related to the claimant’s organ donation:
+30 (A) Travel expenses.
+31 (B) Lodging expenses.
+32 (C) Lost wages.
+33 (iii) The subtract modification hereunder may not be claimed by a part-time resident or a
+34 nonresident of this state;
+LC002444 - Page 4 of 9
+1 (8) Modification for taxable Social Security income.
+2 (i) For tax years beginning on or after January 1, 2016 through December 31, 2024:
+3 (A) For a person who has attained the age used for calculating full or unreduced Social
+4 Security retirement benefits who files a return as an unmarried individual, head of household, or
+5 married filing separate whose federal adjusted gross income for the taxable year is less than eighty
+6 thousand dollars ($80,000); or
+7 (B) A married individual filing jointly or individual filing qualifying widow(er) who has
+8 attained the age used for calculating full or unreduced Social Security retirement benefits whose
+9 joint federal adjusted gross income for the taxable year is less than one hundred thousand dollars
+10 ($100,000), an amount equal to the Social Security benefits includible in federal adjusted gross
+11 income.
+12 (ii) For tax years beginning on or after January 1, 2025:
+13 (A) For a person who has attained the age used for calculating full or unreduced Social
+14 Security retirement benefits who files a return as an unmarried individual, head of household, or
+15 married filing separate whose federal adjusted gross income for the taxable year is less than one
+16 hundred twenty-five thousand dollars ($125,000); or
+17 (B) A married individual filing jointly or individual filing qualifying widow(er) who has
+18 attained the age used for calculating full or unreduced Social Security retirement benefits whose
+19 joint federal adjusted gross income for the taxable year is less than one hundred seventy thousand
+20 dollars ($170,000), an amount equal to the Social Security benefits includible in federal adjusted
+21 gross income.
+22 (ii)(iii) Adjustment for inflation. The dollar amount contained in subsections
+23 (c)(8)(i)(ii)(A) and (c)(8)(i)(ii)(B) of this section shall be increased annually by an amount equal
+24 to:
+25 (A) Such dollar amount contained in subsections (c)(8)(i)(ii)(A) and (c)(8)(i)(ii)(B) of this
+26 section adjusted for inflation using a base tax year of 2000, multiplied by;
+27 (B) The cost-of-living adjustment with a base year of 2000.
+28 (iii)(iv) For the purposes of this section the cost-of-living adjustment for any calendar year
+29 is the percentage (if any) by which the consumer price index for the preceding calendar year
+30 exceeds the consumer price index for the base year. The consumer price index for any calendar
+31 year is the average of the consumer price index as of the close of the twelve-month (12) period
+32 ending on August 31, of such calendar year.
+33 (iv)(v) For the purpose of this section the term “consumer price index” means the last
+34 consumer price index for all urban consumers published by the department of labor. For the purpose
+LC002444 - Page 5 of 9
+1 of this section the revision of the consumer price index which is most consistent with the consumer
+2 price index for calendar year 1986 shall be used.
+3 (v)(vi) If any increase determined under this section is not a multiple of fifty dollars
+4 ($50.00), such increase shall be rounded to the next lower multiple of fifty dollars ($50.00). In the
+5 case of a married individual filing separate return, if any increase determined under this section is
+6 not a multiple of twenty-five dollars ($25.00), such increase shall be rounded to the next lower
+7 multiple of twenty-five dollars ($25.00);
+8 (9) Modification of taxable retirement income from certain pension plans or
+9 annuities.
+10 (i) For tax years beginning on or after January 1, 2017, until the tax year beginning January
+11 1, 2022, a modification shall be allowed for up to fifteen thousand dollars ($15,000), and for tax
+12 years beginning on or after January 1, 2023, until the tax year beginning January 1, 2024, a
+13 modification shall be allowed for up to twenty thousand dollars ($20,000), and for tax years
+14 beginning on or after January 1, 2025, a modification shall be allowed for up to fifty thousand
+15 dollars ($50,000), of taxable pension and/or annuity income that is included in federal adjusted
+16 gross income for the taxable year:
+17 (A) For a person who has attained the age used for calculating full or unreduced Social
+18 Security retirement benefits who files a return as an unmarried individual, head of household, or
+19 married filing separate whose federal adjusted gross income for such taxable year is less than the
+20 amount used for the modification contained in subsection (c)(8)(i)(ii)(A) of this section an amount
+21 not to exceed $15,000 for tax years beginning on or after January 1, 2017, until the tax year
+22 beginning January 1, 2022, and an amount not to exceed twenty thousand dollars ($20,000) for tax
+23 years beginning on or after January 1, 2023, until the tax year beginning January 1, 2024, and an
+24 amount not to exceed fifty thousand dollars ($50,000) for tax years beginning on or after January
+25 1, 2025, of taxable pension and/or annuity income includible in federal adjusted gross income; or
+26 (B) For a married individual filing jointly or individual filing qualifying widow(er) who
+27 has attained the age used for calculating full or unreduced Social Security retirement benefits whose
+28 joint federal adjusted gross income for such taxable year is less than the amount used for the
+29 modification contained in subsection (c)(8)(i)(ii)(B) of this section an amount not to exceed
+30 $15,000 for tax years beginning on or after January 1, 2017, until the tax year beginning January
+31 1, 2022, and an amount not to exceed twenty thousand dollars ($20,000) for tax years beginning on
+32 or after January 1, 2023, until the tax year beginning January 1, 2024, and an amount not to exceed
+33 fifty thousand dollars ($50,000) for tax years beginning on or after January 1, 2025, of taxable
+34 pension and/or annuity income includible in federal adjusted gross income.
+LC002444 - Page 6 of 9
+1 (ii) Adjustment for inflation. The dollar amount contained by reference in subsections
+2 (c)(9)(i)(ii)(A) and (c)(9)(i)(ii)(B) of this section shall be increased annually for tax years beginning
+3 on or after January 1, 2018, by an amount equal to:
+4 (A) Such dollar amount contained by reference in subsections (c)(9)(i)(ii)(A) and
+5 (c)(9)(i)(ii)(B) of this section adjusted for inflation using a base tax year of 2000, multiplied by;
+6 (B) The cost-of-living adjustment with a base year of 2000.
+7 (iii) For the purposes of this section, the cost-of-living adjustment for any calendar year is
+8 the percentage (if any) by which the consumer price index for the preceding calendar year exceeds
+9 the consumer price index for the base year. The consumer price index for any calendar year is the
+10 average of the consumer price index as of the close of the twelve-month (12) period ending on
+11 August 31, of such calendar year.
+12 (iv) For the purpose of this section, the term “consumer price index” means the last
+13 consumer price index for all urban consumers published by the department of labor. For the purpose
+14 of this section, the revision of the consumer price index which is most consistent with the consumer
+15 price index for calendar year 1986 shall be used.
+16 (v) If any increase determined under this section is not a multiple of fifty dollars ($50.00),
+17 such increase shall be rounded to the next lower multiple of fifty dollars ($50.00). In the case of a
+18 married individual filing a separate return, if any increase determined under this section is not a
+19 multiple of twenty-five dollars ($25.00), such increase shall be rounded to the next lower multiple
+20 of twenty-five dollars ($25.00).
+21 (vi) For tax years beginning on or after January 1, 2022, the dollar amount contained by
+22 reference in subsection (c)(9)(i)(ii)(A) shall be adjusted to equal the dollar amount contained in
+23 subsection (c)(8)(i)(ii)(A), as adjusted for inflation, and the dollar amount contained by reference
+24 in subsection(c)(9)(i)(ii)(B) shall be adjusted to equal the dollar amount contained in subsection
+25 (c)(8)(i)(ii)(B), as adjusted for inflation;
+26 (10) Modification for Rhode Island investment in opportunity zones. For purposes of
+27 a taxpayer’s state tax liability, in the case of any investment in a Rhode Island opportunity zone by
+28 the taxpayer for at least seven (7) years, a modification to income shall be allowed for the
+29 incremental difference between the benefit allowed under 26 U.S.C. § 1400Z-2(b)(2)(B)(iv) and
+30 the federal benefit allowed under 26 U.S.C. § 1400Z-2(c);
+31 (11) Modification for military service pensions.
+32 (i) For purposes of a taxpayer’s state tax liability, a modification to income shall be allowed
+33 as follows:
+34 (A) For the tax years beginning on January 1, 2023, a taxpayer may subtract from federal
+LC002444 - Page 7 of 9
+1 adjusted gross income the taxpayer’s military service pension benefits included in federal adjusted
+2 gross income;
+3 (ii) As used in this subsection, the term “military service” shall have the same meaning as
+4 set forth in 20 C.F.R. § 212.2;
+5 (iii) At no time shall the modification allowed under this subsection alone or in conjunction
+6 with subsection (c)(9) exceed the amount of the military service pension received in the tax year
+7 for which the modification is claimed;
+8 (12) Any rebate issued to the taxpayer pursuant to § 44-30-103 to the extent included in
+9 gross income for federal tax purposes; and
+10 (13) For tax years beginning on or after January 1, 2025, in the case of a taxpayer that is
+11 licensed in accordance with chapters 28.6 and/or 28.11 of title 21, the amount equal to any
+12 expenditure that is eligible to be claimed as a federal income tax deduction but is disallowed under
+13 26 U.S.C. § 280E.
+14 (d) Modification for Rhode Island fiduciary adjustment. There shall be added to, or
+15 subtracted from, federal adjusted gross income (as the case may be) the taxpayer’s share, as
+16 beneficiary of an estate or trust, of the Rhode Island fiduciary adjustment determined under § 44-
+17 30-17.
+18 (e) Partners. The amounts of modifications required to be made under this section by a
+19 partner, which relate to items of income or deduction of a partnership, shall be determined under §
+20 44-30-15.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC002444
+========
+LC002444 - Page 8 of 9
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+***
+1 This act would increase the federal adjusted gross income threshold for modification for
+2 taxable social security income. This act would also amend references to the federal adjusted gross
+3 income as it pertains to modification of taxable retirement income from certain pension plans or
+4 annuities.
+5 This act would take effect upon passage.
+========
+LC002444
+========
+LC002444 - Page 9 of 9
+[DELETED: TATE  OF  RHODE  ISLAND S I 4 ( a s ( f ( R ( o e t ( ( t w (]
+[DELETED:  R 6 ( ( i ( ( S w w c a a ( o t ( T a e t t n w r b t s o a a n t p ( t t a o a n w f t t ( p t y i i c a I ( ( f ( q ( P A]
+[DELETED:  a o o ( f ( i o t t c b r b a i o i i o c t p o c o t i ( ( r o ( “ f ( a s p a t y o t r ( ( a ( f U ( ( a (]
+[DELETED:  e s o ( s ( e y s ( s r j s t ( ( A d t t t t d p o p o i o ( ( g h o m o ( A m c t m h o o a t s m m b c f o t f u e t a i ( ( ( ( n]
+[DELETED:  ( ( ( S m t ( a j ( i ( ( S m h ( a j d g ( A f i T d a c i s ( t ( s ( ( i e y e ( c]
+[DELETED:  o p ( ( c n m ( M o t r i f c p p o a ( 1 y m s b a f u t t t a f y b d g ( S m a n b y a 1 ( h j m c i s ( o t s a a n t e $ 1 o f p]
+[DELETED:  ( ( o ( S d a c b r i s ( a ( ( ( t t a A ( F t p o t s t t “ p i m t l c o p ( s m m o ( r s i ( ( a t t f a l s ( y a m t i s b a f t i t ( ( a (]
+[DELETED:  a g ( s ( w f ( g ( l i a w c 2 a 2 o t 2 t a e t a e 2 ( s f a g i ( t c m b t t s a b 3 ( p 4 S]
+[DELETED:  T t i a T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0776
+========
+LC002444
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+Introduced By: Senators Felag, Tikoian, Patalano, Burke, Ciccone, Raptakis, DiPalma,
+Murray, LaMountain, and Sosnowski
+Date Introduced: March 14, 2025
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-30-12 of the General Laws in Chapter 44-30 entitled "Personal
+2 Income Tax" is hereby amended to read as follows:
+3 44-30-12. Rhode Island income of a resident individual. [Effective January 1, 2025.]
+4 (a) General. The Rhode Island income of a resident individual means the individual’s
+5 adjusted gross income for federal income tax purposes, with the modifications specified in this
+6 section.
+7 (b) Modifications increasing federal adjusted gross income. There shall be added to
+8 federal adjusted gross income:
+9 (1) Interest income on obligations of any state, or its political subdivisions, other than
+10 Rhode Island or its political subdivisions;
+11 (2) Interest or dividend income on obligations or securities of any authority, commission,
+12 or instrumentality of the United States, but not of Rhode Island or its political subdivisions, to the
+13 extent exempted by the laws of the United States from federal income tax but not from state income
+14 taxes;
+15 (3) The modification described in § 44-30-25(g);
+16 (4)(i) The amount defined below of a nonqualified withdrawal made from an account in
+17 the tuition savings program pursuant to § 16-57-6.1. For purposes of this section, a nonqualified
+18 withdrawal is:
+19 (A) A transfer or rollover to a qualified tuition program under Section 529 of the Internal
+
+1 Revenue Code, 26 U.S.C. § 529, other than to the tuition savings program referred to in § 16-57-
+2 6.1; and
+3 (B) A withdrawal or distribution that is:
+4 (I) Not applied on a timely basis to pay “qualified higher education expenses” as defined
+5 in § 16-57-3(12) of the beneficiary of the account from which the withdrawal is made;
+6 (II) Not made for a reason referred to in § 16-57-6.1(e); or
+7 (III) Not made in other circumstances for which an exclusion from tax made applicable by
+8 Section 529 of the Internal Revenue Code, 26 U.S.C. § 529, pertains if the transfer, rollover,
+9 withdrawal, or distribution is made within two (2) taxable years following the taxable year for
+10 which a contributions modification pursuant to subsection (c)(4) of this section is taken based on
+11 contributions to any tuition savings program account by the person who is the participant of the
+12 account at the time of the contribution, whether or not the person is the participant of the account
+13 at the time of the transfer, rollover, withdrawal, or distribution;
+14 (ii) In the event of a nonqualified withdrawal under subsection (b)(4)(i)(A) or (b)(4)(i)(B)
+15 of this section, there shall be added to the federal adjusted gross income of that person for the
+16 taxable year of the withdrawal an amount equal to the lesser of:
+17 (A) The amount equal to the nonqualified withdrawal reduced by the sum of any
+18 administrative fee or penalty imposed under the tuition savings program in connection with the
+19 nonqualified withdrawal plus the earnings portion thereof, if any, includible in computing the
+20 person’s federal adjusted gross income for the taxable year; and
+21 (B) The amount of the person’s contribution modification pursuant to subsection (c)(4) of
+22 this section for the person’s taxable year of the withdrawal and the two (2) prior taxable years less
+23 the amount of any nonqualified withdrawal for the two (2) prior taxable years included in
+24 computing the person’s Rhode Island income by application of this subsection for those years. Any
+25 amount added to federal adjusted gross income pursuant to this subdivision shall constitute Rhode
+26 Island income for residents, nonresidents, and part-year residents;
+27 (5) The modification described in § 44-30-25.1(d)(3)(i);
+28 (6) The amount equal to any unemployment compensation received but not included in
+29 federal adjusted gross income;
+30 (7) The amount equal to the deduction allowed for sales tax paid for a purchase of a
+31 qualified motor vehicle as defined by the Internal Revenue Code § 164(a)(6); and
+32 (8) For any taxable year beginning on or after January 1, 2020, the amount of any Paycheck
+33 Protection Program loan forgiven for federal income tax purposes as authorized by the Coronavirus
+34 Aid, Relief, and Economic Security Act and/or the Consolidated Appropriations Act, 2021 and/or
+LC002444 - Page 2 of 9
+
+1 any other subsequent federal stimulus relief packages enacted by law, to the extent that the amount
+2 of the loan forgiven exceeds $250,000, including an individual’s distributive share of the amount
+3 of a pass-through entity’s loan forgiveness in excess of $250,000.
+4 (c) Modifications reducing federal adjusted gross income. There shall be subtracted
+5 from federal adjusted gross income:
+6 (1) Any interest income on obligations of the United States and its possessions to the extent
+7 includible in gross income for federal income tax purposes, and any interest or dividend income on
+8 obligations, or securities of any authority, commission, or instrumentality of the United States to
+9 the extent includible in gross income for federal income tax purposes but exempt from state income
+10 taxes under the laws of the United States; provided, that the amount to be subtracted shall in any
+11 case be reduced by any interest on indebtedness incurred or continued to purchase or carry
+12 obligations or securities the income of which is exempt from Rhode Island personal income tax, to
+13 the extent the interest has been deducted in determining federal adjusted gross income or taxable
+14 income;
+15 (2) A modification described in § 44-30-25(f) or § 44-30-1.1(c)(1);
+16 (3) The amount of any withdrawal or distribution from the “tuition savings program”
+17 referred to in § 16-57-6.1 that is included in federal adjusted gross income, other than a withdrawal
+18 or distribution or portion of a withdrawal or distribution that is a nonqualified withdrawal;
+19 (4) Contributions made to an account under the tuition savings program, including the
+20 “contributions carryover” pursuant to subsection (c)(4)(iv) of this section, if any, subject to the
+21 following limitations, restrictions, and qualifications:
+22 (i) The aggregate subtraction pursuant to this subdivision for any taxable year of the
+23 taxpayer shall not exceed five hundred dollars ($500) or one thousand dollars ($1,000) if a joint
+24 return;
+25 (ii) The following shall not be considered contributions:
+26 (A) Contributions made by any person to an account who is not a participant of the account
+27 at the time the contribution is made;
+28 (B) Transfers or rollovers to an account from any other tuition savings program account or
+29 from any other “qualified tuition program” under section 529 of the Internal Revenue Code, 26
+30 U.S.C. § 529; or
+31 (C) A change of the beneficiary of the account;
+32 (iii) The subtraction pursuant to this subdivision shall not reduce the taxpayer’s federal
+33 adjusted gross income to less than zero (0);
+34 (iv) The contributions carryover to a taxable year for purpose of this subdivision is the
+LC002444 - Page 3 of 9
+
+1 excess, if any, of the total amount of contributions actually made by the taxpayer to the tuition
+2 savings program for all preceding taxable years for which this subsection is effective over the sum
+3 of:
+4 (A) The total of the subtractions under this subdivision allowable to the taxpayer for all
+5 such preceding taxable years; and
+6 (B) That part of any remaining contribution carryover at the end of the taxable year which
+7 exceeds the amount of any nonqualified withdrawals during the year and the prior two (2) taxable
+8 years not included in the addition provided for in this subdivision for those years. Any such part
+9 shall be disregarded in computing the contributions carryover for any subsequent taxable year;
+10 (v) For any taxable year for which a contributions carryover is applicable, the taxpayer
+11 shall include a computation of the carryover with the taxpayer’s Rhode Island personal income tax
+12 return for that year, and if for any taxable year on which the carryover is based the taxpayer filed a
+13 joint Rhode Island personal income tax return but filed a return on a basis other than jointly for a
+14 subsequent taxable year, the computation shall reflect how the carryover is being allocated between
+15 the prior joint filers;
+16 (5) The modification described in § 44-30-25.1(d)(1);
+17 (6) Amounts deemed taxable income to the taxpayer due to payment or provision of
+18 insurance benefits to a dependent, including a domestic partner pursuant to chapter 12 of title 36 or
+19 other coverage plan;
+20 (7) Modification for organ transplantation.
+21 (i) An individual may subtract up to ten thousand dollars ($10,000) from federal adjusted
+22 gross income if the individual, while living, donates one or more of their human organs to another
+23 human being for human organ transplantation, except that for purposes of this subsection, “human
+24 organ” means all or part of a liver, pancreas, kidney, intestine, lung, or bone marrow. A subtract
+25 modification that is claimed hereunder may be claimed in the taxable year in which the human
+26 organ transplantation occurs.
+27 (ii) An individual may claim that subtract modification hereunder only once, and the
+28 subtract modification may be claimed for only the following unreimbursed expenses that are
+29 incurred by the claimant and related to the claimant’s organ donation:
+30 (A) Travel expenses.
+31 (B) Lodging expenses.
+32 (C) Lost wages.
+33 (iii) The subtract modification hereunder may not be claimed by a part-time resident or a
+34 nonresident of this state;
+LC002444 - Page 4 of 9
+
+1 (8) Modification for taxable Social Security income.
+2 (i) For tax years beginning on or after January 1, 2016 through December 31, 2024:
+3 (A) For a person who has attained the age used for calculating full or unreduced Social
+4 Security retirement benefits who files a return as an unmarried individual, head of household, or
+5 married filing separate whose federal adjusted gross income for the taxable year is less than eighty
+6 thousand dollars ($80,000); or
+7 (B) A married individual filing jointly or individual filing qualifying widow(er) who has
+8 attained the age used for calculating full or unreduced Social Security retirement benefits whose
+9 joint federal adjusted gross income for the taxable year is less than one hundred thousand dollars
+10 ($100,000), an amount equal to the Social Security benefits includible in federal adjusted gross
+11 income.
+12 (ii) For tax years beginning on or after January 1, 2025:
+13 (A) For a person who has attained the age used for calculating full or unreduced Social
+14 Security retirement benefits who files a return as an unmarried individual, head of household, or
+15 married filing separate whose federal adjusted gross income for the taxable year is less than one
+16 hundred twenty-five thousand dollars ($125,000); or
+17 (B) A married individual filing jointly or individual filing qualifying widow(er) who has
+18 attained the age used for calculating full or unreduced Social Security retirement benefits whose
+19 joint federal adjusted gross income for the taxable year is less than one hundred seventy thousand
+20 dollars ($170,000), an amount equal to the Social Security benefits includible in federal adjusted
+21 gross income.
+22 (ii)(iii) Adjustment for inflation. The dollar amount contained in subsections
+23 (c)(8)(i)(ii)(A) and (c)(8)(i)(ii)(B) of this section shall be increased annually by an amount equal
+24 to:
+25 (A) Such dollar amount contained in subsections (c)(8)(i)(ii)(A) and (c)(8)(i)(ii)(B) of this
+26 section adjusted for inflation using a base tax year of 2000, multiplied by;
+27 (B) The cost-of-living adjustment with a base year of 2000.
+28 (iii)(iv) For the purposes of this section the cost-of-living adjustment for any calendar year
+29 is the percentage (if any) by which the consumer price index for the preceding calendar year
+30 exceeds the consumer price index for the base year. The consumer price index for any calendar
+31 year is the average of the consumer price index as of the close of the twelve-month (12) period
+32 ending on August 31, of such calendar year.
+33 (iv)(v) For the purpose of this section the term “consumer price index” means the last
+34 consumer price index for all urban consumers published by the department of labor. For the purpose
+LC002444 - Page 5 of 9
+
+1 of this section the revision of the consumer price index which is most consistent with the consumer
+2 price index for calendar year 1986 shall be used.
+3 (v)(vi) If any increase determined under this section is not a multiple of fifty dollars
+4 ($50.00), such increase shall be rounded to the next lower multiple of fifty dollars ($50.00). In the
+5 case of a married individual filing separate return, if any increase determined under this section is
+6 not a multiple of twenty-five dollars ($25.00), such increase shall be rounded to the next lower
+7 multiple of twenty-five dollars ($25.00);
+8 (9) Modification of taxable retirement income from certain pension plans or
+9 annuities.
+10 (i) For tax years beginning on or after January 1, 2017, until the tax year beginning January
+11 1, 2022, a modification shall be allowed for up to fifteen thousand dollars ($15,000), and for tax
+12 years beginning on or after January 1, 2023, until the tax year beginning January 1, 2024, a
+13 modification shall be allowed for up to twenty thousand dollars ($20,000), and for tax years
+14 beginning on or after January 1, 2025, a modification shall be allowed for up to fifty thousand
+15 dollars ($50,000), of taxable pension and/or annuity income that is included in federal adjusted
+16 gross income for the taxable year:
+17 (A) For a person who has attained the age used for calculating full or unreduced Social
+18 Security retirement benefits who files a return as an unmarried individual, head of household, or
+19 married filing separate whose federal adjusted gross income for such taxable year is less than the
+20 amount used for the modification contained in subsection (c)(8)(i)(ii)(A) of this section an amount
+21 not to exceed $15,000 for tax years beginning on or after January 1, 2017, until the tax year
+22 beginning January 1, 2022, and an amount not to exceed twenty thousand dollars ($20,000) for tax
+23 years beginning on or after January 1, 2023, until the tax year beginning January 1, 2024, and an
+24 amount not to exceed fifty thousand dollars ($50,000) for tax years beginning on or after January
+25 1, 2025, of taxable pension and/or annuity income includible in federal adjusted gross income; or
+26 (B) For a married individual filing jointly or individual filing qualifying widow(er) who
+27 has attained the age used for calculating full or unreduced Social Security retirement benefits whose
+28 joint federal adjusted gross income for such taxable year is less than the amount used for the
+29 modification contained in subsection (c)(8)(i)(ii)(B) of this section an amount not to exceed
+30 $15,000 for tax years beginning on or after January 1, 2017, until the tax year beginning January
+31 1, 2022, and an amount not to exceed twenty thousand dollars ($20,000) for tax years beginning on
+32 or after January 1, 2023, until the tax year beginning January 1, 2024, and an amount not to exceed
+33 fifty thousand dollars ($50,000) for tax years beginning on or after January 1, 2025, of taxable
+34 pension and/or annuity income includible in federal adjusted gross income.
+LC002444 - Page 6 of 9
+
+1 (ii) Adjustment for inflation. The dollar amount contained by reference in subsections
+2 (c)(9)(i)(ii)(A) and (c)(9)(i)(ii)(B) of this section shall be increased annually for tax years beginning
+3 on or after January 1, 2018, by an amount equal to:
+4 (A) Such dollar amount contained by reference in subsections (c)(9)(i)(ii)(A) and
+5 (c)(9)(i)(ii)(B) of this section adjusted for inflation using a base tax year of 2000, multiplied by;
+6 (B) The cost-of-living adjustment with a base year of 2000.
+7 (iii) For the purposes of this section, the cost-of-living adjustment for any calendar year is
+8 the percentage (if any) by which the consumer price index for the preceding calendar year exceeds
+9 the consumer price index for the base year. The consumer price index for any calendar year is the
+10 average of the consumer price index as of the close of the twelve-month (12) period ending on
+11 August 31, of such calendar year.
+12 (iv) For the purpose of this section, the term “consumer price index” means the last
+13 consumer price index for all urban consumers published by the department of labor. For the purpose
+14 of this section, the revision of the consumer price index which is most consistent with the consumer
+15 price index for calendar year 1986 shall be used.
+16 (v) If any increase determined under this section is not a multiple of fifty dollars ($50.00),
+17 such increase shall be rounded to the next lower multiple of fifty dollars ($50.00). In the case of a
+18 married individual filing a separate return, if any increase determined under this section is not a
+19 multiple of twenty-five dollars ($25.00), such increase shall be rounded to the next lower multiple
+20 of twenty-five dollars ($25.00).
+21 (vi) For tax years beginning on or after January 1, 2022, the dollar amount contained by
+22 reference in subsection (c)(9)(i)(ii)(A) shall be adjusted to equal the dollar amount contained in
+23 subsection (c)(8)(i)(ii)(A), as adjusted for inflation, and the dollar amount contained by reference
+24 in subsection(c)(9)(i)(ii)(B) shall be adjusted to equal the dollar amount contained in subsection
+25 (c)(8)(i)(ii)(B), as adjusted for inflation;
+26 (10) Modification for Rhode Island investment in opportunity zones. For purposes of
+27 a taxpayer’s state tax liability, in the case of any investment in a Rhode Island opportunity zone by
+28 the taxpayer for at least seven (7) years, a modification to income shall be allowed for the
+29 incremental difference between the benefit allowed under 26 U.S.C. § 1400Z-2(b)(2)(B)(iv) and
+30 the federal benefit allowed under 26 U.S.C. § 1400Z-2(c);
+31 (11) Modification for military service pensions.
+32 (i) For purposes of a taxpayer’s state tax liability, a modification to income shall be allowed
+33 as follows:
+34 (A) For the tax years beginning on January 1, 2023, a taxpayer may subtract from federal
+LC002444 - Page 7 of 9
+
+1 adjusted gross income the taxpayer’s military service pension benefits included in federal adjusted
+2 gross income;
+3 (ii) As used in this subsection, the term “military service” shall have the same meaning as
+4 set forth in 20 C.F.R. § 212.2;
+5 (iii) At no time shall the modification allowed under this subsection alone or in conjunction
+6 with subsection (c)(9) exceed the amount of the military service pension received in the tax year
+7 for which the modification is claimed;
+8 (12) Any rebate issued to the taxpayer pursuant to § 44-30-103 to the extent included in
+9 gross income for federal tax purposes; and
+10 (13) For tax years beginning on or after January 1, 2025, in the case of a taxpayer that is
+11 licensed in accordance with chapters 28.6 and/or 28.11 of title 21, the amount equal to any
+12 expenditure that is eligible to be claimed as a federal income tax deduction but is disallowed under
+13 26 U.S.C. § 280E.
+14 (d) Modification for Rhode Island fiduciary adjustment. There shall be added to, or
+15 subtracted from, federal adjusted gross income (as the case may be) the taxpayer’s share, as
+16 beneficiary of an estate or trust, of the Rhode Island fiduciary adjustment determined under § 44-
+17 30-17.
+18 (e) Partners. The amounts of modifications required to be made under this section by a
+19 partner, which relate to items of income or deduction of a partnership, shall be determined under §
+20 44-30-15.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC002444
+========
+LC002444 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+***
+1 This act would increase the federal adjusted gross income threshold for modification for
+2 taxable social security income. This act would also amend references to the federal adjusted gross
+3 income as it pertains to modification of taxable retirement income from certain pension plans or
+4 annuities.
+5 This act would take effect upon passage.
+========
+LC002444
+========
+LC002444 - Page 9 of 9
+
+[DELETED: TATE  OF  RHODE  ISLAND S I 4 ( a s ( f ( R ( o e t ( ( t w (]
+[DELETED:  R 6 ( ( i ( ( S w w c a a ( o t ( T a e t t n w r b t s o a a n t p ( t t a o a n w f t t ( p t y i i c a I ( ( f ( q ( P A]
+[DELETED:  a o o ( f ( i o t t c b r b a i o i i o c t p o c o t i ( ( r o ( “ f ( a s p a t y o t r ( ( a ( f U ( ( a (]
+[DELETED:  e s o ( s ( e y s ( s r j s t ( ( A d t t t t d p o p o i o ( ( g h o m o ( A m c t m h o o a t s m m b c f o t f u e t a i ( ( ( ( n]
+[DELETED:  ( ( ( S m t ( a j ( i ( ( S m h ( a j d g ( A f i T d a c i s ( t ( s ( ( i e y e ( c]
+[DELETED:  o p ( ( c n m ( M o t r i f c p p o a ( 1 y m s b a f u t t t a f y b d g ( S m a n b y a 1 ( h j m c i s ( o t s a a n t e $ 1 o f p]
+[DELETED:  ( ( o ( S d a c b r i s ( a ( ( ( t t a A ( F t p o t s t t “ p i m t l c o p ( s m m o ( r s i ( ( a t t f a l s ( y a m t i s b a f t i t ( ( a (]
+[DELETED:  a g ( s ( w f ( g ( l i a w c 2 a 2 o t 2 t a e t a e 2 ( s f a g i ( t c m b t t s a b 3 ( p 4 S]
+[DELETED:  T t i a T]

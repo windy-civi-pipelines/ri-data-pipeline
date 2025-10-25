@@ -1,0 +1,540 @@
+Title: RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Official Title: RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Number of Sections: 1
+Source: versions - 603  SUB A
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 -- S 0603 SUBSTITUTE A
+========
+LC001327/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+Introduced By: Senators Britto, McKenney, Sosnowski, Gu, Felag, LaMountain,
+DiPalma, and Bissaillon
+Date Introduced: March 06, 2025
+Referred To: Senate Commerce
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 19-14 of the General Laws entitled "Licensed Activities" is hereby
+2 amended by adding thereto the following sections:
+3 19-14-35. Information security program..
+4 (a) Each licensee shall develop, implement, and maintain a comprehensive information
+5 security program that is written in one or more readily accessible parts and contains administrative,
+6 technical, and physical safeguards that are appropriate to the licensee’s size and complexity, the
+7 nature and scope of activities, including its use of third-party service providers, and the sensitivity
+8 of any customer information used by the licensee or is in the licensee’s possession.
+9 (b) As used in this chapter, the following terms shall have the following meanings:
+10 (1) “Customer” means a consumer who has a customer relationship with a licensee.
+11 (2) “Customer information” means any record containing nonpublic personal information
+12 about a consumer that a licensee has a relationship with, whether in paper, electronic, or other form,
+13 that is handled or maintained by or on behalf of a licensee or its affiliates.
+14 (3) “Encryption” means the transformation of data into a form that results in a low
+15 probability of assigning meaning without the use of a protective process or key, consistent with
+16 current cryptographic standards and accompanied by appropriate safeguards for cryptographic key
+17 material.
+18 (4) “Information security program” means the administrative, technical, or physical
+19 safeguards used to access, collect, distribute, process, protect, store, use, transmit, dispose of or
+1 otherwise handle customer information.
+2 (5) “Information system” means a discrete set of electronic information resources
+3 organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition
+4 of electronic information, as well as any specialized system such as industrial or process controls
+5 systems, telephone switching and private branch exchange systems, and environmental controls
+6 systems that contains customer information or that is connected to a system that contains customer
+7 information.
+8 (6) “Notification event” means acquisition of unencrypted customer information without
+9 the authorization of the individual to which the information pertains. Customer information is
+10 considered unencrypted for this purpose if the encryption key was accessed by an unauthorized
+11 person. Unauthorized acquisition will be presumed to include unauthorized access to unencrypted
+12 customer information unless reliable evidence exists that proves there has not been, or could not
+13 reasonably have been, unauthorized acquisition of such information.
+14 (7) “Security event” means an event resulting in unauthorized access to, or disruption or
+15 misuse of, an information system or information stored on such information system, or customer
+16 information held in physical form, commonly known as a “cybersecurity event”.
+17 (c) In order to develop, implement, and maintain the information security program, the
+18 licensee shall:
+19 (1) Designate a qualified individual responsible for overseeing, implementing, and
+20 enforcing the information security program. The qualified individual may be employed by the
+21 licensee, an affiliate, or a service provider. To the extent the requirement in subsection (a) of this
+22 section is met using a service provider or an affiliate, the licensee shall:
+23 (i) Retain responsibility for compliance with this section;
+24 (ii) Designate a senior member of the licensee responsible for direction and oversight of
+25 the qualified individual; and
+26 (iii) Require the service provider or affiliate to maintain an information security program
+27 that protects the licensee in accordance with the requirements of this section.
+28 (2) Perform a risk assessment that identifies reasonably foreseeable internal and external
+29 risks to the security, confidentiality, and integrity of customer information that could result in the
+30 unauthorized disclosure, misuse, alteration, destruction or other compromise of such information,
+31 and assesses the sufficiency of any safeguards in place to control these risks.
+32 (i) The risk assessment shall be written and shall include:
+33 (A) Criteria for the evaluation and categorization of identified security risks or threats;
+34 (B) Criteria for the assessment of the confidentiality, integrity, and availability of
+LC001327/SUB A - Page 2 of 8
+1 information systems and customer information, including the adequacy of the existing controls in
+2 the context of identified risks or threats; and
+3 (C) Requirements describing how identified risks will be mitigated or accepted based on
+4 the risk assessment and how the information security program will address the risks.
+5 (ii) A licensee shall periodically perform additional risk assessments that reexamine the
+6 reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of
+7 customer information that could result in the unauthorized disclosure, misuse, alteration,
+8 destruction or other compromise of such information, and reassess the sufficiency of any safeguards
+9 in place to control these risks.
+10 (3) Design and implement safeguards to control the risks identified through risk assessment
+11 by:
+12 (i) Implementing and periodically reviewing access controls, including technical and as
+13 appropriate, physical controls to:
+14 (A) Authenticate and permit access only to authorized users to protect against the
+15 unauthorized acquisition of customer information; and
+16 (B) Limit authorized users’ access only to customer information that they need to perform
+17 their duties and functions, or in the case of customers, to access their own information;
+18 (ii) Identify and manage the data, personnel, devices, systems, and facilities that enable the
+19 licensee to achieve business purposes in accordance with relative importance to business objectives
+20 and the licensee’s risk strategy;
+21 (iii) Protect by encryption all customer information held or transmitted both in transit over
+22 external networks and at rest. To the extent it is determine that encryption of customer information,
+23 either in transit over external networks or at rest, is infeasible, licensee may instead secure such
+24 customer information using effective alternative compensating controls reviewed and approved by
+25 the qualified individual;
+26 (iv) Adopt secure development practices for in-house developed applications utilized by
+27 the licensee for transmitting, accessing, or storing customer information and procedures for
+28 evaluating, assessing, or testing the security of externally developed applications utilized to
+29 transmit, access, or store customer information;
+30 (v) Implement multi-factor authentication for any individual accessing any information
+31 system, unless the qualified individual has approved in writing the use of reasonably equivalent or
+32 more secure access controls;
+33 (vi) Record retention:
+34 (A) Develop, implement, and maintain procedures for the secure disposal of customer
+LC001327/SUB A - Page 3 of 8
+1 information in any format no later than two (2) years after the last date the information is used in
+2 connection with the provision of a product or service to the customer which relates, unless such
+3 information is necessary for business operations or for other legitimate business purposes, is
+4 otherwise required to be retained by law or regulation, or where targeted disposal is not reasonably
+5 feasible due to the manner in which the information is maintained; and
+6 (B) Periodically review data retention policies to minimize the unnecessary retention of
+7 data;
+8 (vii) Adopt procedures for change management; and
+9 (viii) Implement policies, procedures and controls designed to monitor and log the activity
+10 of authorized users and detect unauthorized access or use of, or tampering with, customer
+11 information by such users.
+12 (4) Based on its risk assessment, the licensee shall perform ongoing testing by:
+13 (i) Regularly testing or otherwise monitoring the effectiveness of the safeguards’ key
+14 controls, systems, and procedures, including those to detect actual and attempted attacks on, or
+15 intrusions into, information systems;
+16 (ii) For information systems, the monitoring and testing shall include continuous
+17 monitoring or periodic penetration testing and vulnerability assessments. Absent effective
+18 continuous monitoring or other systems to detect, on an ongoing basis, changes in information
+19 systems that may create vulnerabilities, the licensee shall conduct:
+20 (A) Annual penetration testing of its information systems determined each given year based
+21 on relevant identified risks in accordance with the risk assessment; and
+22 (B) Vulnerability assessments, including any systemic scans or reviews of information
+23 systems reasonably designed to identify publicly known security vulnerabilities in the licensee’s
+24 information systems based on the risk assessment, at least every six (6) months; and whenever there
+25 are material changes to operations or business arrangements; and whenever there are circumstances
+26 that the licensee knows or has reason to know may have a material impact on the information
+27 security program.
+28 (5) Implement policies and procedures to ensure that personnel have the ability to enact the
+29 information security program by:
+30 (i) Providing personnel with security awareness training that is updated as necessary to
+31 reflect risks identified by the risk assessment;
+32 (ii) Utilizing qualified information security personnel employed by the licensee or an
+33 affiliate or service provider sufficient to manage information security risks and to perform or
+34 oversee the information security program;
+LC001327/SUB A - Page 4 of 8
+1 (iii) Providing information security personnel with security updates and training sufficient
+2 to address relevant security risks; and
+3 (iv) Verifying that key information security personnel take steps to maintain current
+4 knowledge of changing information security threats and countermeasures.
+5 (6) Monitor service providers by:
+6 (i) Taking reasonable steps to select and retain service providers that are capable of
+7 maintaining appropriate safeguards for the customer information at issue;
+8 (ii) Requiring service providers by contract to implement and maintain such safeguards;
+9 and
+10 (iii) Periodically assessing service providers based on the risk they present and the
+11 continued adequacy of their safeguards.
+12 (7) Evaluate and adjust the information security program considering the results of the
+13 testing and monitoring required by subsection (c)(4) of this section; any material changes to the
+14 licensee’s operations or business arrangements; the results of risk assessments performed under
+15 subsection (c)(2)(ii) of this section; or any other circumstances that the licensee knows or has reason
+16 to know may have a material impact on the information security program.
+17 (8) Establish a written incident response plan designed to promptly respond to, and recover
+18 from, any security event materially affecting the confidentiality, integrity, or availability of
+19 customer information in your control. Such incident response plan shall address the following
+20 areas:
+21 (i) The goals of the incident response plan;
+22 (ii) The internal processes for responding to a security event;
+23 (iii) The definition of clear roles, responsibilities and levels of decision-making authority;
+24 (iv) External and internal communications and information sharing;
+25 (v) Identification of requirements for the remediation of any identified weaknesses in
+26 information systems and associated controls;
+27 (vi) Documentation and reporting regarding security events and related incident response
+28 activities; and
+29 (vii) The evaluation and revision as necessary of the incident response plan following a
+30 security event.
+31 (9) Require the qualified individual to report in writing, at least annually, to the board of
+32 directors or equivalent governing body. If no such board of directors or equivalent governing body
+33 exists, such report shall be timely presented to a senior officer responsible for the information
+34 security program. The report shall include the following information:
+LC001327/SUB A - Page 5 of 8
+1 (i) The overall status of the information security program and compliance with this chapter
+2 and associated rules; and
+3 (ii) Material matters related to the information security program, addressing issues such as
+4 risk assessment, risk management and control decisions, service provider arrangements, results of
+5 testing, security events or violations and management’s responses thereto, and recommendations
+6 for changes in the information security program.
+7 (10) Establish a written plan addressing business continuity and disaster recovery.
+8 (d) The provisions of this section shall not apply to any regulated institution as defined in
+9 § 19-1-1, or subsidiary of such regulated institution, or any bank holding company or subsidiary of
+10 a bank holding company subject to federal bank holding company laws and regulations.
+11 SECTION 2. Chapter 19-14 of the General Laws entitled "Licensed Activities" is hereby
+12 amended by adding thereto the following section:
+13 19-14-36. Notification of a security event.
+14 (a) Each licensee shall notify the director or the director’s designee as promptly as possible,
+15 but in no event later than three (3) business days from a determination that a security event has
+16 occurred when either of the following criteria has been met:
+17 (1) A security event impacting the licensee of which notice is required to be provided to
+18 any governmental body, self-regulatory agency, or any other supervisory body pursuant to any state
+19 or federal law; or
+20 (2) A security event that has a reasonable likelihood of materially harming;
+21 (i) Any consumer residing in this state; or
+22 (ii) Any material part of the normal operation(s) of the licensee.
+23 (b) The licensee shall provide any information required by this section in electronic form
+24 as directed by the director or the director’s designee. The licensee shall have a continuing
+25 obligation to update and supplement initial and subsequent notifications to the director or the
+26 director’s designee concerning the security event. The following information shall be provided:
+27 (1) The name and contact information of the reporting licensee;
+28 (2) A description of the types of information that were involved in the notification event;
+29 (3) If the information is possible to determine, the date or date range of the notification
+30 event;
+31 (4) The total number of consumers in this state affected or potentially affected by the
+32 notification event. The licensee shall provide the best estimate in the initial report to the director or
+33 the director’s designee and update this estimate with each subsequent report;
+34 (5) A general description of the notification event including how the information was
+LC001327/SUB A - Page 6 of 8
+1 exposed, lost, stolen, or breached, detailing specific roles and responsibilities of third-party service
+2 providers, if any;
+3 (6) A description of efforts being undertaken to remediate the situation that permitted the
+4 security event to occur; and
+5 (7) Whether any law enforcement official has provided the licensee with a written
+6 determination that notifying the public of the breach would impede a criminal investigation or cause
+7 damage to national security, and a means for the director or the director’s designee to contact the
+8 law enforcement official. A law enforcement official may request an initial delay of up to thirty
+9 (30) days following the date when notice was provided to the director or the director’s designee.
+10 The delay may be extended for an additional period of up to sixty (60) days if the law enforcement
+11 official seeks such an extension in writing. Additional delay may be permitted only if the director
+12 or the director’s designee determines that public disclosure of a security event continues to impede
+13 a criminal investigation or cause damage to national security.
+14 (8) Name of contact person who is both familiar with the security event and is authorized
+15 to act for the licensee.
+16 (c) A licensee shall comply with chapter 49.3 of title 11, as applicable, and provide a copy
+17 of the notice sent to consumers under that chapter to the director or the director’s designee, when a
+18 licensee is required to notify the director or the director’s designee.
+19 (d) The provisions of this section shall not apply to any regulated institution as defined in
+20 § 19-1-1, or subsidiary of such regulated institution, or any bank holding company or subsidiary of
+21 a bank holding company subject to federal bank holding company laws and regulations.
+22 SECTION 3. This act shall take effect upon passage.
+========
+LC001327/SUB A
+========
+LC001327/SUB A - Page 7 of 8
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+***
+1 This act would provide standards for developing, implementing, and maintaining
+2 reasonable administrative, technical, and physical safeguards to protect the security,
+3 confidentiality, and integrity of customer information held by entities licensed under chapter 14 of
+4 title 19 relating to licensed activities of financial institutions.
+5 This act would take effect upon passage.
+========
+LC001327/SUB A
+========
+LC001327/SUB A - Page 8 of 8
+[DELETED: TATE  OF  RHODE  ISLAND B S B M S G F L S a 1 ( s t n o ( ( ( a t ( “ m t t o d i a f t r i a l p c m ( “ s p m t a t o p s]
+[DELETED:  o ( “ s m a d s o e i r o o s s i ( t c p c r ( m i ( l ( D a q i r f o i a e l s ( ( t ( t ( r u a ( ( ( C f t a o t c i a a o]
+[DELETED:  i t ( t ( r c i t c r i t u d m a d i ( b ( a ( A a p a o t a u t p a t u ( t ( l a ( e e c t ( t l f t a o s c i a p f e a o t t s o e d a u t t ( s m ( (]
+[DELETED:  i c i o f ( d ( ( o a u a d u a o u o o t w c i ( ( R o m t e o s k c i ( F i s t m a t s i c m o p p t a v a A e c s ( o ( s i a t s ( i ( r ( U q i s p b t l o a s o]
+[DELETED:  ( t ( V t k i s p t s t m c k ( ( T r s t s a r s p t a c o m ( a ( P a s p b o t r t p a t c ( t l s t ( f a s e m a t c i o a o c a ( ( ( ( ( i ( a ( s ( d e s]
+[DELETED:  ( a ( r t f ( ( § a S a 1 ( b o ( a o ( ( ( ( a d b t d o t d d  T l s h a c o t d ( ( ( e ( n t (]
+[DELETED:  e p ( s ( W a l e o h p t l w a w d d l ( T o o a ( t ( o l ( § a S]
+[DELETED:  T a w p s f d i a m r a t a p s t p t s c t T]
+
+
+================================================================================
+
+Raw Text:
+2025 -- S 0603 SUBSTITUTE A
+========
+LC001327/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2025
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Introduced By: Senators Britto, McKenney, Sosnowski, Gu, Felag, LaMountain,
+DiPalma, and Bissaillon
+Date Introduced: March 06, 2025
+Referred To: Senate Commerce
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 19-14 of the General Laws entitled "Licensed Activities" is hereby
+2 amended by adding thereto the following sections:
+3 19-14-35. Information security program..
+4 (a) Each licensee shall develop, implement, and maintain a comprehensive information
+5 security program that is written in one or more readily accessible parts and contains administrative,
+6 technical, and physical safeguards that are appropriate to the licensee’s size and complexity, the
+7 nature and scope of activities, including its use of third-party service providers, and the sensitivity
+8 of any customer information used by the licensee or is in the licensee’s possession.
+9 (b) As used in this chapter, the following terms shall have the following meanings:
+10 (1) “Customer” means a consumer who has a customer relationship with a licensee.
+11 (2) “Customer information” means any record containing nonpublic personal information
+12 about a consumer that a licensee has a relationship with, whether in paper, electronic, or other form,
+13 that is handled or maintained by or on behalf of a licensee or its affiliates.
+14 (3) “Encryption” means the transformation of data into a form that results in a low
+15 probability of assigning meaning without the use of a protective process or key, consistent with
+16 current cryptographic standards and accompanied by appropriate safeguards for cryptographic key
+17 material.
+18 (4) “Information security program” means the administrative, technical, or physical
+19 safeguards used to access, collect, distribute, process, protect, store, use, transmit, dispose of or
+
+1 otherwise handle customer information.
+2 (5) “Information system” means a discrete set of electronic information resources
+3 organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition
+4 of electronic information, as well as any specialized system such as industrial or process controls
+5 systems, telephone switching and private branch exchange systems, and environmental controls
+6 systems that contains customer information or that is connected to a system that contains customer
+7 information.
+8 (6) “Notification event” means acquisition of unencrypted customer information without
+9 the authorization of the individual to which the information pertains. Customer information is
+10 considered unencrypted for this purpose if the encryption key was accessed by an unauthorized
+11 person. Unauthorized acquisition will be presumed to include unauthorized access to unencrypted
+12 customer information unless reliable evidence exists that proves there has not been, or could not
+13 reasonably have been, unauthorized acquisition of such information.
+14 (7) “Security event” means an event resulting in unauthorized access to, or disruption or
+15 misuse of, an information system or information stored on such information system, or customer
+16 information held in physical form, commonly known as a “cybersecurity event”.
+17 (c) In order to develop, implement, and maintain the information security program, the
+18 licensee shall:
+19 (1) Designate a qualified individual responsible for overseeing, implementing, and
+20 enforcing the information security program. The qualified individual may be employed by the
+21 licensee, an affiliate, or a service provider. To the extent the requirement in subsection (a) of this
+22 section is met using a service provider or an affiliate, the licensee shall:
+23 (i) Retain responsibility for compliance with this section;
+24 (ii) Designate a senior member of the licensee responsible for direction and oversight of
+25 the qualified individual; and
+26 (iii) Require the service provider or affiliate to maintain an information security program
+27 that protects the licensee in accordance with the requirements of this section.
+28 (2) Perform a risk assessment that identifies reasonably foreseeable internal and external
+29 risks to the security, confidentiality, and integrity of customer information that could result in the
+30 unauthorized disclosure, misuse, alteration, destruction or other compromise of such information,
+31 and assesses the sufficiency of any safeguards in place to control these risks.
+32 (i) The risk assessment shall be written and shall include:
+33 (A) Criteria for the evaluation and categorization of identified security risks or threats;
+34 (B) Criteria for the assessment of the confidentiality, integrity, and availability of
+LC001327/SUB A - Page 2 of 8
+
+1 information systems and customer information, including the adequacy of the existing controls in
+2 the context of identified risks or threats; and
+3 (C) Requirements describing how identified risks will be mitigated or accepted based on
+4 the risk assessment and how the information security program will address the risks.
+5 (ii) A licensee shall periodically perform additional risk assessments that reexamine the
+6 reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of
+7 customer information that could result in the unauthorized disclosure, misuse, alteration,
+8 destruction or other compromise of such information, and reassess the sufficiency of any safeguards
+9 in place to control these risks.
+10 (3) Design and implement safeguards to control the risks identified through risk assessment
+11 by:
+12 (i) Implementing and periodically reviewing access controls, including technical and as
+13 appropriate, physical controls to:
+14 (A) Authenticate and permit access only to authorized users to protect against the
+15 unauthorized acquisition of customer information; and
+16 (B) Limit authorized users’ access only to customer information that they need to perform
+17 their duties and functions, or in the case of customers, to access their own information;
+18 (ii) Identify and manage the data, personnel, devices, systems, and facilities that enable the
+19 licensee to achieve business purposes in accordance with relative importance to business objectives
+20 and the licensee’s risk strategy;
+21 (iii) Protect by encryption all customer information held or transmitted both in transit over
+22 external networks and at rest. To the extent it is determine that encryption of customer information,
+23 either in transit over external networks or at rest, is infeasible, licensee may instead secure such
+24 customer information using effective alternative compensating controls reviewed and approved by
+25 the qualified individual;
+26 (iv) Adopt secure development practices for in-house developed applications utilized by
+27 the licensee for transmitting, accessing, or storing customer information and procedures for
+28 evaluating, assessing, or testing the security of externally developed applications utilized to
+29 transmit, access, or store customer information;
+30 (v) Implement multi-factor authentication for any individual accessing any information
+31 system, unless the qualified individual has approved in writing the use of reasonably equivalent or
+32 more secure access controls;
+33 (vi) Record retention:
+34 (A) Develop, implement, and maintain procedures for the secure disposal of customer
+LC001327/SUB A - Page 3 of 8
+
+1 information in any format no later than two (2) years after the last date the information is used in
+2 connection with the provision of a product or service to the customer which relates, unless such
+3 information is necessary for business operations or for other legitimate business purposes, is
+4 otherwise required to be retained by law or regulation, or where targeted disposal is not reasonably
+5 feasible due to the manner in which the information is maintained; and
+6 (B) Periodically review data retention policies to minimize the unnecessary retention of
+7 data;
+8 (vii) Adopt procedures for change management; and
+9 (viii) Implement policies, procedures and controls designed to monitor and log the activity
+10 of authorized users and detect unauthorized access or use of, or tampering with, customer
+11 information by such users.
+12 (4) Based on its risk assessment, the licensee shall perform ongoing testing by:
+13 (i) Regularly testing or otherwise monitoring the effectiveness of the safeguards’ key
+14 controls, systems, and procedures, including those to detect actual and attempted attacks on, or
+15 intrusions into, information systems;
+16 (ii) For information systems, the monitoring and testing shall include continuous
+17 monitoring or periodic penetration testing and vulnerability assessments. Absent effective
+18 continuous monitoring or other systems to detect, on an ongoing basis, changes in information
+19 systems that may create vulnerabilities, the licensee shall conduct:
+20 (A) Annual penetration testing of its information systems determined each given year based
+21 on relevant identified risks in accordance with the risk assessment; and
+22 (B) Vulnerability assessments, including any systemic scans or reviews of information
+23 systems reasonably designed to identify publicly known security vulnerabilities in the licensee’s
+24 information systems based on the risk assessment, at least every six (6) months; and whenever there
+25 are material changes to operations or business arrangements; and whenever there are circumstances
+26 that the licensee knows or has reason to know may have a material impact on the information
+27 security program.
+28 (5) Implement policies and procedures to ensure that personnel have the ability to enact the
+29 information security program by:
+30 (i) Providing personnel with security awareness training that is updated as necessary to
+31 reflect risks identified by the risk assessment;
+32 (ii) Utilizing qualified information security personnel employed by the licensee or an
+33 affiliate or service provider sufficient to manage information security risks and to perform or
+34 oversee the information security program;
+LC001327/SUB A - Page 4 of 8
+
+1 (iii) Providing information security personnel with security updates and training sufficient
+2 to address relevant security risks; and
+3 (iv) Verifying that key information security personnel take steps to maintain current
+4 knowledge of changing information security threats and countermeasures.
+5 (6) Monitor service providers by:
+6 (i) Taking reasonable steps to select and retain service providers that are capable of
+7 maintaining appropriate safeguards for the customer information at issue;
+8 (ii) Requiring service providers by contract to implement and maintain such safeguards;
+9 and
+10 (iii) Periodically assessing service providers based on the risk they present and the
+11 continued adequacy of their safeguards.
+12 (7) Evaluate and adjust the information security program considering the results of the
+13 testing and monitoring required by subsection (c)(4) of this section; any material changes to the
+14 licensee’s operations or business arrangements; the results of risk assessments performed under
+15 subsection (c)(2)(ii) of this section; or any other circumstances that the licensee knows or has reason
+16 to know may have a material impact on the information security program.
+17 (8) Establish a written incident response plan designed to promptly respond to, and recover
+18 from, any security event materially affecting the confidentiality, integrity, or availability of
+19 customer information in your control. Such incident response plan shall address the following
+20 areas:
+21 (i) The goals of the incident response plan;
+22 (ii) The internal processes for responding to a security event;
+23 (iii) The definition of clear roles, responsibilities and levels of decision-making authority;
+24 (iv) External and internal communications and information sharing;
+25 (v) Identification of requirements for the remediation of any identified weaknesses in
+26 information systems and associated controls;
+27 (vi) Documentation and reporting regarding security events and related incident response
+28 activities; and
+29 (vii) The evaluation and revision as necessary of the incident response plan following a
+30 security event.
+31 (9) Require the qualified individual to report in writing, at least annually, to the board of
+32 directors or equivalent governing body. If no such board of directors or equivalent governing body
+33 exists, such report shall be timely presented to a senior officer responsible for the information
+34 security program. The report shall include the following information:
+LC001327/SUB A - Page 5 of 8
+
+1 (i) The overall status of the information security program and compliance with this chapter
+2 and associated rules; and
+3 (ii) Material matters related to the information security program, addressing issues such as
+4 risk assessment, risk management and control decisions, service provider arrangements, results of
+5 testing, security events or violations and management’s responses thereto, and recommendations
+6 for changes in the information security program.
+7 (10) Establish a written plan addressing business continuity and disaster recovery.
+8 (d) The provisions of this section shall not apply to any regulated institution as defined in
+9 § 19-1-1, or subsidiary of such regulated institution, or any bank holding company or subsidiary of
+10 a bank holding company subject to federal bank holding company laws and regulations.
+11 SECTION 2. Chapter 19-14 of the General Laws entitled "Licensed Activities" is hereby
+12 amended by adding thereto the following section:
+13 19-14-36. Notification of a security event.
+14 (a) Each licensee shall notify the director or the director’s designee as promptly as possible,
+15 but in no event later than three (3) business days from a determination that a security event has
+16 occurred when either of the following criteria has been met:
+17 (1) A security event impacting the licensee of which notice is required to be provided to
+18 any governmental body, self-regulatory agency, or any other supervisory body pursuant to any state
+19 or federal law; or
+20 (2) A security event that has a reasonable likelihood of materially harming;
+21 (i) Any consumer residing in this state; or
+22 (ii) Any material part of the normal operation(s) of the licensee.
+23 (b) The licensee shall provide any information required by this section in electronic form
+24 as directed by the director or the director’s designee. The licensee shall have a continuing
+25 obligation to update and supplement initial and subsequent notifications to the director or the
+26 director’s designee concerning the security event. The following information shall be provided:
+27 (1) The name and contact information of the reporting licensee;
+28 (2) A description of the types of information that were involved in the notification event;
+29 (3) If the information is possible to determine, the date or date range of the notification
+30 event;
+31 (4) The total number of consumers in this state affected or potentially affected by the
+32 notification event. The licensee shall provide the best estimate in the initial report to the director or
+33 the director’s designee and update this estimate with each subsequent report;
+34 (5) A general description of the notification event including how the information was
+LC001327/SUB A - Page 6 of 8
+
+1 exposed, lost, stolen, or breached, detailing specific roles and responsibilities of third-party service
+2 providers, if any;
+3 (6) A description of efforts being undertaken to remediate the situation that permitted the
+4 security event to occur; and
+5 (7) Whether any law enforcement official has provided the licensee with a written
+6 determination that notifying the public of the breach would impede a criminal investigation or cause
+7 damage to national security, and a means for the director or the director’s designee to contact the
+8 law enforcement official. A law enforcement official may request an initial delay of up to thirty
+9 (30) days following the date when notice was provided to the director or the director’s designee.
+10 The delay may be extended for an additional period of up to sixty (60) days if the law enforcement
+11 official seeks such an extension in writing. Additional delay may be permitted only if the director
+12 or the director’s designee determines that public disclosure of a security event continues to impede
+13 a criminal investigation or cause damage to national security.
+14 (8) Name of contact person who is both familiar with the security event and is authorized
+15 to act for the licensee.
+16 (c) A licensee shall comply with chapter 49.3 of title 11, as applicable, and provide a copy
+17 of the notice sent to consumers under that chapter to the director or the director’s designee, when a
+18 licensee is required to notify the director or the director’s designee.
+19 (d) The provisions of this section shall not apply to any regulated institution as defined in
+20 § 19-1-1, or subsidiary of such regulated institution, or any bank holding company or subsidiary of
+21 a bank holding company subject to federal bank holding company laws and regulations.
+22 SECTION 3. This act shall take effect upon passage.
+========
+LC001327/SUB A
+========
+LC001327/SUB A - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+***
+1 This act would provide standards for developing, implementing, and maintaining
+2 reasonable administrative, technical, and physical safeguards to protect the security,
+3 confidentiality, and integrity of customer information held by entities licensed under chapter 14 of
+4 title 19 relating to licensed activities of financial institutions.
+5 This act would take effect upon passage.
+========
+LC001327/SUB A
+========
+LC001327/SUB A - Page 8 of 8
+
+[DELETED: TATE  OF  RHODE  ISLAND B S B M S G F L S a 1 ( s t n o ( ( ( a t ( “ m t t o d i a f t r i a l p c m ( “ s p m t a t o p s]
+[DELETED:  o ( “ s m a d s o e i r o o s s i ( t c p c r ( m i ( l ( D a q i r f o i a e l s ( ( t ( t ( r u a ( ( ( C f t a o t c i a a o]
+[DELETED:  i t ( t ( r c i t c r i t u d m a d i ( b ( a ( A a p a o t a u t p a t u ( t ( l a ( e e c t ( t l f t a o s c i a p f e a o t t s o e d a u t t ( s m ( (]
+[DELETED:  i c i o f ( d ( ( o a u a d u a o u o o t w c i ( ( R o m t e o s k c i ( F i s t m a t s i c m o p p t a v a A e c s ( o ( s i a t s ( i ( r ( U q i s p b t l o a s o]
+[DELETED:  ( t ( V t k i s p t s t m c k ( ( T r s t s a r s p t a c o m ( a ( P a s p b o t r t p a t c ( t l s t ( f a s e m a t c i o a o c a ( ( ( ( ( i ( a ( s ( d e s]
+[DELETED:  ( a ( r t f ( ( § a S a 1 ( b o ( a o ( ( ( ( a d b t d o t d d  T l s h a c o t d ( ( ( e ( n t (]
+[DELETED:  e p ( s ( W a l e o h p t l w a w d d l ( T o o a ( t ( o l ( § a S]
+[DELETED:  T a w p s f d i a m r a t a p s t p t s c t T]
